@@ -1,0 +1,1629 @@
+{
+   "html_attributions" : [],
+<<<<<<< HEAD
+   "next_page_token" : "ATtYBwLmVNqtEovXWarcUMJuDrbBbs0jm_yOMk-uBol39wgiynRJXlFAqc3IRWaaR6YmBQRvYlMNbnfu37djNQRv218Rx58UuQXUt0zBvl2sWJp3WmloEWK-hkg_I_My8ikME13oufuGcSptc3A-nxWa_lw57jSbLKq4xlcR1QOOiBVmX7J50ir_i57hMSCdem0Umd0b_mdDXHQBrq323WhN4_DdU5idcwbp6sAN9l_iqtN3IDsUcBH3DGzJas25fAzBkASG9OXbWnWUt9T2-H7_RpykrTry6dLNozuTNgNFfRnY0d1Oe0TdbBmt5KOHQaaTAWUPWopPLIJXog4NAmjK6NgAIJ2FcHwTwcqVO1F9O7yJ3T5NNTPDSSsMnzBiZ5twjuf0AXdU5XJjPok6CKWiOEipqiP_xsAX0WGtOsOTJw-H0t4kTQ5P_5UTYkRe-Q7p6PCBa-SYuOKKNAsB6emX2TkbAUWf_Qd8Q1xltytQaI6o2s6vCE6bZtqGKdTuVmWo-bKeR10tPbzm0UD8fTwOgx39gmsU7OVu3Y9wu7RVDRQwUnTHHTRFGcyR52j9XUPpnBthtThziNzxfCJZ6vpa8aszeHkJkdk-qL2eJ667Sd3hGFHjDwpjRWGLrIuuyIInVg6QOqptLcF7FB5LkhBuuJ_KRIIvkyBgW17-zK1_h4zMQ_kr5pZTrGnnYJogLPZL7npGa5O9K5_uEEcdWVsmwrkUAs53U3zUJtPSHyw-ojlxKWL4RIaaOFZoljsxkC5ajg",
+=======
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.5893161,
+               "lng" : -113.4190696
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.59075008029149,
+                  "lng" : -113.4176914697085
+               },
+               "southwest" : {
+                  "lat" : 53.58805211970849,
+                  "lng" : -113.4203894302915
+=======
+               "lat" : 43.5677755,
+               "lng" : -79.8258099
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5690919302915,
+                  "lng" : -79.82442006970851
+               },
+               "southwest" : {
+                  "lat" : 43.5663939697085,
+                  "lng" : -79.82711803029152
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+<<<<<<< HEAD
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 305,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112200172112263497459\"\u003eTim Hortons\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI05jtBM8bl8LYUlWGKPmA3JEaNFRjuVvsINp2z4UuZMjZLEmqkEfzy83vkuVILIej3CQcg4mSsNcZm7pTaGfsmc7OOXqwGvT3yKrhIyAvhBdIrwSqzaTNattTrwbmdjCohoKDi2se9_lCMGRApNAs8MsIzym_Cxa7smFVty4VGJOzp",
+               "width" : 549
+            }
+         ],
+         "place_id" : "ChIJXWuy4sg8oFMRWDAedFWt0Ig",
+         "plus_code" : {
+            "compound_code" : "HHQJ+P9 Edmonton, AB, Canada",
+            "global_code" : "9558HHQJ+P9"
+         },
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "ChIJXWuy4sg8oFMRWDAedFWt0Ig",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 564,
+         "vicinity" : "12996 50 Street Northwest, Edmonton"
+=======
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104678567919443187931\"\u003eGeorge Vamos\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLKbbPweGyycATLjpLiQyo-9yfIITkG9njjuuou13Robcjp6D9y7bFsNuhV3caXJdYD89uK972XZllxe2xGMBbCXZR2T1MCGgVU7NPqjewz9WWlKuMwTNVlzsYpIML8OGZzMbMaUZ1XAXSb_tRyg7_-cmVy8BLtBvIECR1ijcS5OhNC",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJYZps-P5rK4gRphqBFNu8TiI",
+         "plus_code" : {
+            "compound_code" : "H59F+4M Hornby, ON, Canada",
+            "global_code" : "87M2H59F+4M"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJYZps-P5rK4gRphqBFNu8TiI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 673,
+         "vicinity" : "7502 Trafalgar Road, Hornby"
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.58709040000001,
+               "lng" : -113.4391319
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.58839068029151,
+                  "lng" : -113.4377206197085
+               },
+               "southwest" : {
+                  "lat" : 53.58569271970851,
+                  "lng" : -113.4404185802915
+=======
+               "lat" : 43.5755239,
+               "lng" : -79.8302211
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.57661428029149,
+                  "lng" : -79.82764829999999
+               },
+               "southwest" : {
+                  "lat" : 43.5739163197085,
+                  "lng" : -79.83107870000001
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
+         "name" : "Buffet Royale Carvery | North East",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1341,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103715660639627403386\"\u003eBuffet Royale Carvery | North East\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIE3kqXeqO872lb3lvzrvXRnzoMLWTPVCoJTkl9AcDY96V7QDl-RQraA_E4hU155sBsr7x1WKNAlL635pM-frAMRdO-mwPK69IEOpiLvpfmWH23hG8GH6xwhPa6BPftz5-kGVnaaA_feTcoONxj5seGKZVvXw0TqvrR3W8fXu-HY32O",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ0_9IwjUjoFMRFW6kdoGLbLk",
+         "plus_code" : {
+            "compound_code" : "HHP6+R8 Edmonton, AB, Canada",
+            "global_code" : "9558HHP6+R8"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ0_9IwjUjoFMRFW6kdoGLbLk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 974,
+         "vicinity" : "12866 Fort Road Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.56998910000001,
+               "lng" : -113.4186699
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5715364802915,
+                  "lng" : -113.4173206197085
+               },
+               "southwest" : {
+                  "lat" : 53.5688385197085,
+                  "lng" : -113.4200185802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Pizza 73",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109355503766090181161\"\u003eJill Ramjag\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK4wM0ciTFCGJVeQcBrzbbXFcVtA0sqTwiGL87lbXppSrU81UV2ga64FodOvA6_nB_Nr1Ka2RT30zfplbN6gSvKHZRNlpxGSBdVgNZLn-A7wAoNyKC441CfwY5Jhvr2Ve_BsfSUc3p_FsIcK0arFyNs81fgxD0LJjQhlv2HMnj5yPoE",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJZ-EMgyojoFMRg4cru7XJYF4",
+         "plus_code" : {
+            "compound_code" : "HH9J+XG Edmonton, AB, Canada",
+            "global_code" : "9558HH9J+XG"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJZ-EMgyojoFMRg4cru7XJYF4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+=======
+         "name" : "Subway",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 672,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116625879159461484575\"\u003eRohitha Fernando\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKWiwqewnU_GM9sSRStGmVIC4pnHmd1kgl1gHXFUTEi2VFboPh3ceu7ReqSo-LFnV4PLAfB9O2D0_wUqfJXv1bYauOkiGqPX6ugsW-PnB4l3NjeEI7H0evFpRS5eG6fLYOXHEpYl6SDNn8YvG91WvdH2_VuYTcti0P8LOZrTwkXBwXa",
+               "width" : 896
+            }
+         ],
+         "place_id" : "ChIJTXF5CPhrK4gRMc3aZI961mY",
+         "plus_code" : {
+            "compound_code" : "H5G9+6W Halton Hills, ON, Canada",
+            "global_code" : "87M2H5G9+6W"
+         },
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "ChIJTXF5CPhrK4gRMc3aZI961mY",
+         "scope" : "GOOGLE",
+         "types" : [
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+<<<<<<< HEAD
+         "user_ratings_total" : 129,
+         "vicinity" : "5003 118 Avenue Northwest, Edmonton"
+=======
+         "user_ratings_total" : 78,
+         "vicinity" : "13850 Steeles Avenue Suite 800, Halton Hills"
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.5871098,
+               "lng" : -113.4059203
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5884855302915,
+                  "lng" : -113.4046682697085
+               },
+               "southwest" : {
+                  "lat" : 53.5857875697085,
+                  "lng" : -113.4073662302915
+=======
+               "lat" : 43.5755318,
+               "lng" : -79.83013919999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5772490302915,
+                  "lng" : -79.82930541970849
+               },
+               "southwest" : {
+                  "lat" : 43.57455106970851,
+                  "lng" : -79.8320033802915
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
+         "name" : "Wings restaurant",
+=======
+         "name" : "Villa Madina",
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+<<<<<<< HEAD
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111256053433039757761\"\u003eAaron Craig\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ2iGP_sLCfCAwLTRtSy3QaplSXQilop0DhigaXGejCgbXXq_1-APlkOPJvCLmKQnMBO6LsbkvQ6KlA7PQXhVvbUJOoGlK6B0thxMKhC10ZBF2dJWnp-aD_JWNCfYLZ4RYWGLZ2vdn31O1KxFKXhI3Ep7DlG_qDBI4--6LwPs01eTwD",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJxduiBsU8oFMRwmJWI2Nuk8M",
+         "plus_code" : {
+            "compound_code" : "HHPV+RJ Edmonton, AB, Canada",
+            "global_code" : "9558HHPV+RJ"
+         },
+         "rating" : 4,
+         "reference" : "ChIJxduiBsU8oFMRwmJWI2Nuk8M",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 119,
+         "vicinity" : "588 Hermitage Rd ( 130 Avenue &, 40 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.570149,
+               "lng" : -113.406679
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.57160888029151,
+                  "lng" : -113.4053315697085
+               },
+               "southwest" : {
+                  "lat" : 53.56891091970851,
+                  "lng" : -113.4080295302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "A&W Canada",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116260737381027636561\"\u003eNithish Prasad\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKa39uwVvofFh1ns6NzsBTq5G--6e5oh0TQAfH2GW0Ubx8eDtAUpj4l9jha50pccplLOhda0JXmrl3oWY0J2D2bX_7g1BjG45c0RFiwqzbBZ6Dvsxmli9VXtukLhJPUmRiNVWT2o3L8xjKTmooK_Tra9EZ33OyphJqt9qBlEsgdksvD",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJkTTnLio9oFMRMBTLt_lhmP0",
+         "plus_code" : {
+            "compound_code" : "HHCV+38 Edmonton, AB, Canada",
+            "global_code" : "9558HHCV+38"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJkTTnLio9oFMRMBTLt_lhmP0",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 635,
+         "vicinity" : "4205 118 Avenue Northwest, Edmonton"
+=======
+               "height" : 912,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118047064432446115994\"\u003eVilla Madina\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKtvUUQ-y8iC_4S28wz19UfFkg_3PVJp7FWid6Azi1f3dtqsX8cepXRpRe4ejphSsEVbh_R7AQRE0SNzspcG51VNxHGTDDDW5OPxX6qXo_olK9ilGPQzRau8bsUv_4GioUd9umHUhaSlM3Atuio4VmGoFvDdlafwKfcbYBP7wXotIik",
+               "width" : 1620
+            }
+         ],
+         "place_id" : "ChIJTXF5CPhrK4gRXnzPcsss09U",
+         "plus_code" : {
+            "compound_code" : "H5G9+6W Halton Hills, ON, Canada",
+            "global_code" : "87M2H5G9+6W"
+         },
+         "price_level" : 2,
+         "rating" : 2.5,
+         "reference" : "ChIJTXF5CPhrK4gRXnzPcsss09U",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 193,
+         "vicinity" : "13850 Steeles Avenue, Halton Hills"
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.58695299999999,
+               "lng" : -113.4178244
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.58828328029148,
+                  "lng" : -113.4163489197085
+               },
+               "southwest" : {
+                  "lat" : 53.58558531970849,
+                  "lng" : -113.4190468802915
+=======
+               "lat" : 43.5755369,
+               "lng" : -79.8296211
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5765832302915,
+                  "lng" : -79.82775656970848
+               },
+               "southwest" : {
+                  "lat" : 43.5738852697085,
+                  "lng" : -79.8304545302915
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107620504582196260098\"\u003eKirk Dewhurst\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLbvJ6hnbU3YuZ-W3u8gnQUqHVhAHRrjixB6Otnt1taowl5QcF4ivMradY9vH0xZn8uqZ7IzcaM6EyFXVQSoLgqkqOTtBveOg3ImQzSFXgeKkxKin_LV6KpM-3m_yACRPUFqKmaC8xH2x6lHOcOE4sbiiMbZLUAhG0Jpyetd8pX9EoD",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJM1Txy848oFMRdgMy9Fol1r4",
+         "plus_code" : {
+            "compound_code" : "HHPJ+QV Edmonton, AB, Canada",
+            "global_code" : "9558HHPJ+QV"
+         },
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "ChIJM1Txy848oFMRdgMy9Fol1r4",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 860,
+         "vicinity" : "12793 50 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.58774200000001,
+               "lng" : -113.41972
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.58902508029151,
+                  "lng" : -113.4183712697085
+               },
+               "southwest" : {
+                  "lat" : 53.58632711970851,
+                  "lng" : -113.4210692302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Catch of the Week",
+=======
+         "name" : "Sbarro",
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+<<<<<<< HEAD
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107495311366064806016\"\u003eCatch of the Week\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJwMG4kvrgcD5rSDqvvtQe9YRziQu6C-XcK8uw5lJCif49Bc7-p_oJz3dUeP4taOzzsG3lWWVuPUEXjGCj6_jcx0MIISkl12ZSZfnboMyrOInvN3IYj4yP2lOzkesAs54OVm3KuL1PsulxYkWsp2J2_JQw7IqcaUg9tgbKGKJg5BacW",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJMdeqSMk8oFMRVpH1BdhucPg",
+         "plus_code" : {
+            "compound_code" : "HHQJ+34 Edmonton, AB, Canada",
+            "global_code" : "9558HHQJ+34"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJMdeqSMk8oFMRVpH1BdhucPg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+=======
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117534506850508434501\"\u003eSandeep Goraya\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIVkl8fQZNrzR20AmSNWi6SJGi1Zkl9vBv5Mqq-X_utfJjVVKU2s1isbMh6hBaEOZkZfI1sg8_U0wjl_ve47es5PcLeKgWQaPWcUms9Bf8GTfVl46oQFIoqDQbJP5L21uibDMEj1TRXw6CxqJa3LVAf1EzLPMK5dq3w7CKdLMbLezuV",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJTXF5CPhrK4gRX9RFmLxcqEs",
+         "plus_code" : {
+            "compound_code" : "H5GC+65 Halton Hills, ON, Canada",
+            "global_code" : "87M2H5GC+65"
+         },
+         "rating" : 3,
+         "reference" : "ChIJTXF5CPhrK4gRX9RFmLxcqEs",
+         "scope" : "GOOGLE",
+         "types" : [
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+<<<<<<< HEAD
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 106,
+         "vicinity" : "5032 129 Avenue Northwest, Edmonton"
+=======
+            "establishment"
+         ],
+         "user_ratings_total" : 158,
+         "vicinity" : "13850 Steeles Avenue West Unit 812, Halton Hills"
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.58897169999999,
+               "lng" : -113.4174631
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5902713802915,
+                  "lng" : -113.4159919197085
+               },
+               "southwest" : {
+                  "lat" : 53.5875734197085,
+                  "lng" : -113.4186898802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Agape African Food & Clothing",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114916051846231954151\"\u003eAdetoyese Oyedun\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL2bAdLRABLQxIkbnTpTiOGCMuHWK-iuxBzyXSuJljzo8J9K-SCIQ74QAj-44ffuCmLqfhQO31KpXNuJwoEGMK-Kj1QECkIXsVtLh2DKcPpT3Km52rXIis8RCPNQLFvZepUuxQHADDfHHiXx8LWHBeT3gYd0XTr_zpMJSMojmr4AZjy",
+               "width" : 1960
+            }
+         ],
+         "place_id" : "ChIJH2Tyccg8oFMRIMJInMSpDc4",
+         "plus_code" : {
+            "compound_code" : "HHQM+H2 Edmonton, AB, Canada",
+            "global_code" : "9558HHQM+H2"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJH2Tyccg8oFMRIMJInMSpDc4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "clothing_store",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 43,
+         "vicinity" : "12981 50 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5701105,
+               "lng" : -113.4055833
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5714852802915,
+                  "lng" : -113.4044880697085
+               },
+               "southwest" : {
+                  "lat" : 53.5687873197085,
+                  "lng" : -113.4071860302915
+=======
+               "lat" : 43.5754901,
+               "lng" : -79.8295346
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.57672128029149,
+                  "lng" : -79.8276587197085
+               },
+               "southwest" : {
+                  "lat" : 43.57402331970849,
+                  "lng" : -79.8303566802915
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
+         "name" : "Million Thai Restaurant",
+=======
+         "name" : "Umi Sushi & Teriyaki Express",
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+<<<<<<< HEAD
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117917627188198721986\"\u003eCarla Wagner\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLJnWz_Rvnw0xsnNcctFZc--B0R0prOkEMHz8jqOQjfIs0-_oo9M3-g84r6kXWxNfdvrKqD57N5H8qCNw_0mgKuzdFP5dZlViDKJ2Al66zQtM39XCOIOXZFGAhlDYFzU2zdUY34U9havm_IT8W88-smZgxr-3fYg8ut09RhDkzkUhfI",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJKdHZKSo9oFMRXbfKGTZaWMI",
+         "plus_code" : {
+            "compound_code" : "HHCV+2Q Edmonton, AB, Canada",
+            "global_code" : "9558HHCV+2Q"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJKdHZKSo9oFMRXbfKGTZaWMI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 267,
+         "vicinity" : "4109 118 Avenue Northwest, Edmonton"
+=======
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100944445547896606359\"\u003eJason Kelly\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKFU-i22hjCsVMgsqemQtNc5TLZv3Y4XaPNGIn6RKRsekiI7-_D9KeJYOiWWkzE8HHfjHru5eM_qe2z_M5SPFp1NP1QzF1LBFicRc6lSk95vPnVphKvALV_0oGyKdZOTakmrxDi62CG-3jy855pN5JRlABw_GsDjKddqICEzVnZ3ZTu",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJTXF5CPhrK4gRoQ5qNoJ4KNo",
+         "plus_code" : {
+            "compound_code" : "H5GC+55 Halton Hills, ON, Canada",
+            "global_code" : "87M2H5GC+55"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJTXF5CPhrK4gRoQ5qNoJ4KNo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 139,
+         "vicinity" : "Toronto Premium Outlets, 13850 Steeles Avenue W, Halton Hills"
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.5860342,
+               "lng" : -113.442577
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5873840302915,
+                  "lng" : -113.4414054697085
+               },
+               "southwest" : {
+                  "lat" : 53.5846860697085,
+                  "lng" : -113.4441034302915
+=======
+               "lat" : 43.5755023,
+               "lng" : -79.82954389999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5765691302915,
+                  "lng" : -79.82771436970847
+               },
+               "southwest" : {
+                  "lat" : 43.5738711697085,
+                  "lng" : -79.83041233029149
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
+         "name" : "Pizza 66",
+=======
+         "name" : "Famous Wok",
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+<<<<<<< HEAD
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109668085497728522871\"\u003ePizza 66\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKpl5YWBPy1ysTT4hM2NvJnOgO1J7QXccmLR8HLaz2IHiFUXUznCxmU6pB-vGsVTEFYunpfF6u7rxZ_QQacD4lUlLtpe2h1CcT_VO0STEyK9K_-7Oz6G0Qz4GBMtlTmM-gPNNT0xokik0bUSMzgGXshV_7imcHLj6Til-VF6IQt4mFC",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJVTwdTzYjoFMRrviBd5KBPww",
+         "plus_code" : {
+            "compound_code" : "HHP4+CX Edmonton, AB, Canada",
+            "global_code" : "9558HHP4+CX"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJVTwdTzYjoFMRrviBd5KBPww",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 129,
+         "vicinity" : "12801 66 Street Northwest, Edmonton"
+=======
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104210178940148134513\"\u003epilotvblog\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLIOhTViep7uJ1csLERnDUwKYQZsCIRlCQg9V-tvzELDm02Naka9eQ6Tnew6h7lZA6ciXoIdt2bI73mlCxLvY-v-2jrGDW6GAC_aFuFFPADFHcZZcXmZSNL4ogV0JPBUaRJtu_ynf7Qvz-KPMStj-Hh1mpkUuyE-Uw9Y9KKoV3GyYUp",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJTS6z4QdsK4gRCc6T3VtPcMQ",
+         "plus_code" : {
+            "compound_code" : "H5GC+65 Hornby, ON, Canada",
+            "global_code" : "87M2H5GC+65"
+         },
+         "rating" : 2.2,
+         "reference" : "ChIJTS6z4QdsK4gRCc6T3VtPcMQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 28,
+         "vicinity" : "13850 Steeles Avenue, Hornby"
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.59050209999999,
+               "lng" : -113.4187586
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5918092302915,
+                  "lng" : -113.4171715697085
+               },
+               "southwest" : {
+                  "lat" : 53.5891112697085,
+                  "lng" : -113.4198695302915
+=======
+               "lat" : 43.5745801,
+               "lng" : -79.83514839999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5758610802915,
+                  "lng" : -79.83368391970851
+               },
+               "southwest" : {
+                  "lat" : 43.5731631197085,
+                  "lng" : -79.83638188029153
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
+         "name" : "O2's Clareview",
+=======
+         "name" : "Tim Hortons",
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+<<<<<<< HEAD
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105231968385506628922\"\u003eO2&#39;s Clareview\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJsG_TQ0lpZQLCnfEyrX7qDKJmUX9AN1lkPTbEZ0VF8yVvumCnQ6WwPbaFauzFicfOfnZ6fNAxXNmO1PLdRtRyoeV_yrTxc8m36YIVbweLlYNQ_bva0ujLJloEPZ46MV0N-UtOb7w9z_-zCcNqHCEa2Npcm7CGmkIIscapINmAGVFyC",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJO1Vb_Mg8oFMRVF498_8Akrk",
+         "plus_code" : {
+            "compound_code" : "HHRJ+6F Edmonton, AB, Canada",
+            "global_code" : "9558HHRJ+6F"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJO1Vb_Mg8oFMRVF498_8Akrk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "night_club",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 537,
+         "vicinity" : "13006 50 Street Northwest, Edmonton"
+=======
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107567490524656926969\"\u003ejasbir singh\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ6cu6sQGWPw973l_Uy0dR3geW_Fx-y17mEwN7Xm6NVzL8k_cpMaMF3ixaX3gmWtJ7-NZrG4l5jxLseMtzjmnUhyGXi32zlTP8rkfjprKDUgn_BGrEeU-iqalNYOHRfiBtDgmpyXw7HbjIEuWDmm6SEUY9xLfvKVBrr7rI1qFpm0Qs8",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJwTjZKARsK4gRh3GQXSIdc4o",
+         "plus_code" : {
+            "compound_code" : "H5F7+RW Hornby, ON, Canada",
+            "global_code" : "87M2H5F7+RW"
+         },
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "ChIJwTjZKARsK4gRh3GQXSIdc4o",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 178,
+         "vicinity" : "13605 Steeles Avenue, Hornby"
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.5870517,
+               "lng" : -113.405844
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.58847058029149,
+                  "lng" : -113.4046301197085
+               },
+               "southwest" : {
+                  "lat" : 53.5857726197085,
+                  "lng" : -113.4073280802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Domino's Pizza",
+=======
+               "lat" : 43.567002,
+               "lng" : -79.82290499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5682667302915,
+                  "lng" : -79.82144961970849
+               },
+               "southwest" : {
+                  "lat" : 43.5655687697085,
+                  "lng" : -79.82414758029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Trafalgar Truck Stop Restaurant",
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+<<<<<<< HEAD
+               "height" : 1189,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114271753982846242159\"\u003eDomino&#39;s Pizza\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJw28X5y51Kn6swv7kR9G4AfqdyGtOL3gDMTD5dtpzMwMMO0P0Mw5RUMGMgOs-MDGNEwvdnb3XgDSluLWlTgvbgHiH0aXrQ0PbCtbInzDUVsSsv4dXKkK4YRJDzrxEnLox4FCSdcrpYkP1rv0asKHnRerJvG3jL9rctpwRFjzYYLPOf",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJh3W-BsU8oFMRNgXvUOw2lag",
+         "plus_code" : {
+            "compound_code" : "HHPV+RM Edmonton, AB, Canada",
+            "global_code" : "9558HHPV+RM"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJh3W-BsU8oFMRNgXvUOw2lag",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 150,
+         "vicinity" : "586 Hermitage Road Northwest, Edmonton"
+=======
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118401815368480493871\"\u003eSimon McMillan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLIj0Zl8tuln-8BAP3iv3YYCz4OxjPtTmZ_CM5HtdIUIID8oRVbfPlT59Fogon46vCFSiKBSYI-HqLEnj9HDw6aUm9ibcBy-bN16tarSLJeZrQQ54-1UT0hR3JZgzvJe6iNI11hOgc5SXBmFuCIC1h-diyMTU6kyN9-idTLcWGK4gtU",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ5axkmVlpK4gRJ3meuXBZEYg",
+         "plus_code" : {
+            "compound_code" : "H58G+RR Hornby, ON, Canada",
+            "global_code" : "87M2H58G+RR"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJ5axkmVlpK4gRJ3meuXBZEYg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 261,
+         "vicinity" : "7443 Trafalgar Road, Hornby"
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.5702667,
+               "lng" : -113.3983139
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5716633802915,
+                  "lng" : -113.3968884697085
+               },
+               "southwest" : {
+                  "lat" : 53.5689654197085,
+                  "lng" : -113.3995864302915
+=======
+               "lat" : 43.5755925,
+               "lng" : -79.8303746
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5771876302915,
+                  "lng" : -79.8295025697085
+               },
+               "southwest" : {
+                  "lat" : 43.57448966970851,
+                  "lng" : -79.8322005302915
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
+         "name" : "Jay Bee's Beverly",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112817668121498240590\"\u003eWing Yu\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKhJ76nyruK2rJf2rJ7bp3oUyYuYy_octdjF6kB8XtTSCuJrX5qJLe4WcKr7Ukp9OAqTRbfbdIUkYAp28s-a4yi4V2w7uR2D1ox1h7q9dNNHHcYEvGubhZUnqVxTh3QgKK9aIT1yXjze2xUXdPsPpz_LQ4huuh4fg8jicXbfH0vtKZD",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJt9tFlCg9oFMRjnTmhSsmDeA",
+         "plus_code" : {
+            "compound_code" : "HJC2+4M Edmonton, AB, Canada",
+            "global_code" : "9558HJC2+4M"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJt9tFlCg9oFMRjnTmhSsmDeA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 703,
+         "vicinity" : "3633 118 Avenue Northwest, Edmonton"
+=======
+         "name" : "Cultures",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 912,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111808148625618585246\"\u003eCultures\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIW_DjCdKk7ToUrEaWw-GFC6dicwqCnl3B-SNdmpUhnxTWL264eGhr2JaMmxm-hCDsLkKWNBX9SMlnMT_peZ6je6ktQvNWM9VPCes4CjFsgfxMmuHXCtqp9IGJ3QTigbVEKNjmV1DNvWzmu9j3q7xymxLwG2M3DMqVX0Q9iwbip0baU",
+               "width" : 1620
+            }
+         ],
+         "place_id" : "ChIJuwKlP7ltK4gRS6zlT4zPm7Y",
+         "plus_code" : {
+            "compound_code" : "H5G9+6V Milton, ON, Canada",
+            "global_code" : "87M2H5G9+6V"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJuwKlP7ltK4gRS6zlT4zPm7Y",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14,
+         "vicinity" : "Toronto Premium Outlets, 13850 Steeles Avenue W Unit #929, Milton"
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.570634,
+               "lng" : -113.416455
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.57194113029151,
+                  "lng" : -113.4150999197085
+               },
+               "southwest" : {
+                  "lat" : 53.56924316970851,
+                  "lng" : -113.4177978802915
+=======
+               "lat" : 43.575543,
+               "lng" : -79.8303148
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5771628802915,
+                  "lng" : -79.82947266970849
+               },
+               "southwest" : {
+                  "lat" : 43.5744649197085,
+                  "lng" : -79.8321706302915
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
+         "name" : "Uncle Ed's Restaurant",
+=======
+         "name" : "Gc Jerk Xpress",
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+<<<<<<< HEAD
+               "height" : 2853,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112028553624188152502\"\u003eLouise Traill\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIDg-m4ZyQP7x5YScBYqsiWV-cRKyPyXFSIny-hQ3SvEeu70kYpJn84_ur3DTDPHLUSb4uZxe0M7YHytV7ym1K5PYkNqnb4MR7G0fOLHT6y_C1UPMSodr3MxwMVx0hrW40lgxUcBEP1QuEj4kqd-KnC2bmpxwSmfRwal5G8Lfjs9cGQ",
+               "width" : 4031
+            }
+         ],
+         "place_id" : "ChIJ-QVFWNUioFMRh9uqHWOPCkk",
+         "plus_code" : {
+            "compound_code" : "HHCM+7C Edmonton, AB, Canada",
+            "global_code" : "9558HHCM+7C"
+         },
+         "price_level" : 1,
+         "rating" : 4.6,
+         "reference" : "ChIJ-QVFWNUioFMRh9uqHWOPCkk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 895,
+         "vicinity" : "4824 118 Avenue Northwest, Edmonton"
+=======
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115220968863495446105\"\u003eJusto Montoya\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKh0tIiSy_Q_PbJAKoGmmdw3Lu1HutCKXHA4EY8QnRYf9o7724dohOEHcY8QID0D8qaVsFut4lTHxdCYm97fbpf4-UhTHmObQAZL7bE623bx3JC_hVaG9ncfKCzII7PZXA1CS-2_cB4gi8QV96UQyCdFpAzL_o3aR_qa0msbVRIUfi9",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJzw2weaBtK4gRnv6BNFE3h9E",
+         "plus_code" : {
+            "compound_code" : "H5G9+6V Halton Hills, ON, Canada",
+            "global_code" : "87M2H5G9+6V"
+         },
+         "rating" : 5,
+         "reference" : "ChIJzw2weaBtK4gRnv6BNFE3h9E",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6,
+         "vicinity" : "13850 Steeles Avenue, Halton Hills"
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.5916703,
+               "lng" : -113.4177348
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.59271468029151,
+                  "lng" : -113.4165101697085
+               },
+               "southwest" : {
+                  "lat" : 53.59001671970851,
+                  "lng" : -113.4192081302915
+=======
+               "lat" : 43.575543,
+               "lng" : -79.8303148
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5771628802915,
+                  "lng" : -79.82947266970849
+               },
+               "southwest" : {
+                  "lat" : 43.5744649197085,
+                  "lng" : -79.8321706302915
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
+         "name" : "Saigon Flavours",
+=======
+         "name" : "Madisons Restaurant & Bar",
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+<<<<<<< HEAD
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101170002936314543528\"\u003eSaigon Flavours\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLlFdxUz0t-6L9wE5k6JBzCaeWZwzxcpPnqTwB_T1sOSSGjXT4HjQuaPz00pl94RQCcgE65jeJpTndKD-nZxwKsxBJleKh1NzuTAS9Rya2Xsc8TW6EYXFyMUAoSVUlniyD3ZaRHzw_qtuYJD0jEHpmYEkgmrxa6KSeIwof8McHMHrlR",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ12Dybsg8oFMRo3XLNXsBdAQ",
+         "plus_code" : {
+            "compound_code" : "HHRJ+MW Edmonton, AB, Canada",
+            "global_code" : "9558HHRJ+MW"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJ12Dybsg8oFMRo3XLNXsBdAQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 155,
+         "vicinity" : "13038 50 Street Northwest, Edmonton"
+=======
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107567490524656926969\"\u003ejasbir singh\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJjhEla1sujzxnB6FZ0zRoYoIQTEnL-1QLhQ1Kx1ZoeR5s71bIoJdxtv6405gWGf8vsrK9rGEjd8ZHa72O_phqtGHWaHlxfaCsBvMWcqEIrfJZok1wf_4Is7pVfCI3bDYuiUu-9HXorgpyZ3WmQEsoP6jRyDRGWq7YkkedxELB4_LAJ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ6XnU_EJtK4gRjhauysaliOU",
+         "plus_code" : {
+            "compound_code" : "H5G9+6V Halton Hills, ON, Canada",
+            "global_code" : "87M2H5G9+6V"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ6XnU_EJtK4gRjhauysaliOU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 222,
+         "vicinity" : "13850 Steeles Avenue, Halton Hills"
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.5888435,
+               "lng" : -113.4176059
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5901323302915,
+                  "lng" : -113.4162850697085
+               },
+               "southwest" : {
+                  "lat" : 53.5874343697085,
+                  "lng" : -113.4189830302915
+=======
+               "lat" : 43.57569900000001,
+               "lng" : -79.83059159999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.57724088029151,
+                  "lng" : -79.82961106970848
+               },
+               "southwest" : {
+                  "lat" : 43.57454291970851,
+                  "lng" : -79.8323090302915
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
+         "name" : "Franco's",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116895201976657787221\"\u003eEli Chaykowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLoSTLnc9QrQz7L8-hogz3SBoqD8OJbuD-KUKaSVUl5gprvW_VaIXFeNO5jI8i7GoNbeHQM0zbslVlaKd-pNZ6p_yjo-TrAJAutgmGfab9_8XihrQLB8Rhp2nGXRcQq0AkISQw8FCsZnrV7Oo6lB6aTzVUxMLI9lhZKoP-bkKVmxDf9",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJO6uvH8k8oFMR0ZSAsbt20mM",
+         "plus_code" : {
+            "compound_code" : "HHQJ+GX Edmonton, AB, Canada",
+            "global_code" : "9558HHQJ+GX"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJO6uvH8k8oFMR0ZSAsbt20mM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 668,
+         "vicinity" : "12881 50 Street Northwest, Edmonton"
+=======
+         "name" : "La Diperie Premium Outlets",
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112764935580657889008\"\u003eKris Buzmion\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLrWoP-boXjvqBHvsqn2hDDU4MmpIHqth8UrE2QeAwNemi2Ml0bujw6Qiri0Tz61zHWhbV7RVI3j8AvJjCAA1q_N5pKKqRaBkftxGEKxZH5v7cGZYzZ1Wuc44x_DWnghFR9s-Vt7_HnTyft2lNpcFN051VDcKly9acCCku7ixqJxIuf",
+               "width" : 1405
+            }
+         ],
+         "place_id" : "ChIJj7Wtk207K4gRWR8AYxNk9V0",
+         "plus_code" : {
+            "compound_code" : "H5G9+7Q Halton Hills, ON, Canada",
+            "global_code" : "87M2H5G9+7Q"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJj7Wtk207K4gRWR8AYxNk9V0",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "13850 Steeles Avenue W, Toronto"
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.5878998,
+               "lng" : -113.4174938
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.58934088029149,
+                  "lng" : -113.4161442697085
+               },
+               "southwest" : {
+                  "lat" : 53.5866429197085,
+                  "lng" : -113.4188422302915
+=======
+               "lat" : 43.57555,
+               "lng" : -79.83015999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5771663802915,
+                  "lng" : -79.82939526970848
+               },
+               "southwest" : {
+                  "lat" : 43.5744684197085,
+                  "lng" : -79.83209323029151
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
+         "name" : "Arby's",
+=======
+         "name" : "A&W",
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+<<<<<<< HEAD
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107620504582196260098\"\u003eKirk Dewhurst\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIGKpJe4h2EAbh5yujwfCXNrORBxaFr8qvsSyAo4WkLW5oK1EtyKQNSedndXMwBG65DhvJA9onmyO5NZAsymY3XJG5KBCFdOZ4UdeKrUlnXLQ5LqcKQCJWy3MzTlubJiTNXDzGRA_Yxcl9n2WMAJ8wTeAzjmqTEa8XLazO_wx1OUa6K",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJtZ3NM8k8oFMRVzByd-KSetA",
+         "plus_code" : {
+            "compound_code" : "HHQM+52 Edmonton, AB, Canada",
+            "global_code" : "9558HHQM+52"
+         },
+         "price_level" : 1,
+         "rating" : 4.2,
+         "reference" : "ChIJtZ3NM8k8oFMRVzByd-KSetA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 582,
+         "vicinity" : "12805 50 Street Northwest, Edmonton"
+=======
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101521363057252507842\"\u003eUpreet Dhanoa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLnmsrkZjvh_PGcIhktr7c24cHh0o8AhKDq_MJ_CD6Q5ce3PpcPMG0wke37pHazA8rJEjSsa03f2kTrclsRFdV9Bga3gJvU2SqCIxZr7SRFJwKD691QD6_y2dv7Zz-3-CRVtZinL8bBNHuNHPCsIReq_nbTFTuQQfmqmcBf_mRztH6T",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJX5Un9Y9tK4gRjTiKrfL-TVM",
+         "plus_code" : {
+            "compound_code" : "H5G9+6W Halton Hills, ON, Canada",
+            "global_code" : "87M2H5G9+6W"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJX5Un9Y9tK4gRjTiKrfL-TVM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 100,
+         "vicinity" : "Toronto Premium Outlets, Halton Hills"
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.57162549999999,
+               "lng" : -113.4532852
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5729744802915,
+                  "lng" : -113.4521583697085
+               },
+               "southwest" : {
+                  "lat" : 53.5702765197085,
+                  "lng" : -113.4548563302915
+=======
+               "lat" : 43.57682,
+               "lng" : -79.82947
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5783583802915,
+                  "lng" : -79.82841651970851
+               },
+               "southwest" : {
+                  "lat" : 43.57566041970851,
+                  "lng" : -79.83111448029152
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
+         "name" : "Caribbean's Finest",
+=======
+         "name" : "Mucho Burrito Fresh Mexican Grill",
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+<<<<<<< HEAD
+               "height" : 3072,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109030349206655999186\"\u003eRon Allan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKCU8JQwqGVs3d1GXLY0BJsMDw8GxbYtc5803T_g0LdfjZdmIfDKNaEYtYEa4gLsnnnNGU2wmxkPQY-gwQ3QsIwReT7EC5sM63Z8qyho_GW7-Uduhrn-rsa3EF0L9VoPfjCzphhfc2QkKiL1JKFHeu7lI6VSKiUvyveOMsZjGgjmA-e",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJT6y6cQ8joFMRef5PGz3Z90Q",
+         "plus_code" : {
+            "compound_code" : "HGCW+MM Edmonton, AB, Canada",
+            "global_code" : "9558HGCW+MM"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJT6y6cQ8joFMRef5PGz3Z90Q",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 146,
+         "vicinity" : "11845 Wayne Gretzky Drive Northwest, Edmonton"
+=======
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117357899188747957139\"\u003eJashan cheema\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ2e467nlMo4KWKNiUwTI1cslGU4EYeu3gI1p0ApfTi3LhjA62EMoieynnn132DXGpgCA4-qftoRTQfSnH23uUyHN7AYzkCHkYFM0qhPYKU536BncP3dSdkazfub-K7Z6pszAOh3fJOqWSsRaPsIyMzN0zDT5oU47c31b4afmD7Eu7Y",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJNYf-gqdtK4gRTq2UfZTZINo",
+         "plus_code" : {
+            "compound_code" : "H5GC+P6 Halton Hills, ON, Canada",
+            "global_code" : "87M2H5GC+P6"
+         },
+         "price_level" : 1,
+         "rating" : 2.3,
+         "reference" : "ChIJNYf-gqdtK4gRTq2UfZTZINo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20,
+         "vicinity" : "13850 Steeles Avenue W, Halton Hills"
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.5895676,
+               "lng" : -113.4198099
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5908836802915,
+                  "lng" : -113.4183085697085
+               },
+               "southwest" : {
+                  "lat" : 53.5881857197085,
+                  "lng" : -113.4210065302915
+=======
+               "lat" : 43.57378080000001,
+               "lng" : -79.833591
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.57518853029151,
+                  "lng" : -79.83217691970849
+               },
+               "southwest" : {
+                  "lat" : 43.57249056970851,
+                  "lng" : -79.83487488029151
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
+         "name" : "Humpty's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107620504582196260098\"\u003eKirk Dewhurst\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIP4ild9UsQHV6I-qdAzcosRfbUXb1tdi1_QHv5Ull9Vf6IOhzzZrAQkM637-nBiGuri2IpG1DRBeNF303edQMRwz5Jh0romaAEq_bk0QziGDVeFOEVOjHA7DmFbBQW3GC76a4lS1553yc4nVZYKhCxl_lbFN4L-rLrPU0otzuEBvtd",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJQ0Rf_cg8oFMRCiziHbWLnC4",
+         "plus_code" : {
+            "compound_code" : "HHQJ+R3 Edmonton, AB, Canada",
+            "global_code" : "9558HHQJ+R3"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJQ0Rf_cg8oFMRCiziHbWLnC4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 397,
+         "vicinity" : "5011 130 Avenue Northwest, Edmonton"
+=======
+         "name" : "Pure Vibes Cafe",
+         "photos" : [
+            {
+               "height" : 1960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100356687065049401675\"\u003ePure Vibes Cafe\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJxb90LM_nAsw3Pkll0zHLzt_tVPUCFp1A2l4QCI6gxn4QQcwbr4BGALlK1ENI1lLc9545RJtvId8hjdSYkxEsgdGevx1Qa4wZ8uUd-7Qu4hIGr-_7OCLl7UEoboAo47u9tfudFS0U4MI4VDVht9ihwXYIkcOzKp7NKw91I0IQxxCKk",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJw_9cgFdtK4gRfV25a6SOqWA",
+         "plus_code" : {
+            "compound_code" : "H5F8+GH Hornby, ON, Canada",
+            "global_code" : "87M2H5F8+GH"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJw_9cgFdtK4gRfV25a6SOqWA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5,
+         "vicinity" : "7962 Trafalgar Road, Hornby"
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.57014619999999,
+               "lng" : -113.4115366
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.57159918029149,
+                  "lng" : -113.4101882197085
+               },
+               "southwest" : {
+                  "lat" : 53.56890121970849,
+                  "lng" : -113.4128861802915
+=======
+               "lat" : 43.5669789,
+               "lng" : -79.8230061
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5683278802915,
+                  "lng" : -79.82165711970849
+               },
+               "southwest" : {
+                  "lat" : 43.5656299197085,
+                  "lng" : -79.8243550802915
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
+         "name" : "A Yah Mi Deh Jamaican Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 817,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105691261337388962401\"\u003eA Yah Mi Deh Jamaican Restaurant\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ2r4wMJb6iRcffMz1GNL6Rrn6PDq-FJ_VrUaL077_aiMd7qhCbX9H7spvFP_sf2ujO5lBsi6xvYQepSVehbW9lglGZRxhVpqLBxMFXmO-n2xy37GTLpqTl8Ho3XAkEL61hQmohl5rNRj0D1WbMjMOBcomJ45HTKaJdykQihBlm8W4E",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJBSEhjSo9oFMR-hV1JZxNAc8",
+         "plus_code" : {
+            "compound_code" : "HHCQ+39 Edmonton, AB, Canada",
+            "global_code" : "9558HHCQ+39"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJBSEhjSo9oFMR-hV1JZxNAc8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 289,
+         "vicinity" : "4435 118 Avenue Northwest, Edmonton"
+=======
+         "name" : "Trafalgar Steak House & Grill",
+         "place_id" : "ChIJtRSn5P1rK4gRsZiG5EGzbAY",
+         "plus_code" : {
+            "compound_code" : "H58G+QQ Milton, ON, Canada",
+            "global_code" : "87M2H58G+QQ"
+         },
+         "reference" : "ChIJtRSn5P1rK4gRsZiG5EGzbAY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Canada"
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+      }
+   ],
+   "status" : "OK"
+}

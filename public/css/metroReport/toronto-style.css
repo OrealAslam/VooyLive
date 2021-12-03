@@ -1,0 +1,14 @@
+.demographics .demographics-text .text.avg-household-size {
+    font-size: 24px;
+}
+
+.public-schools .item .school-head {
+    padding-bottom: 8px;
+}
+.public-schools .item {
+    min-height: 220px;
+}
+
+.library .library-address {
+    font-size: 14px;
+}

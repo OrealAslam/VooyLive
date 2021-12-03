@@ -1,0 +1,387 @@
+
+#pageHeader{
+	border-top: 3px solid #565759!important;
+	padding-top: 20px;
+	padding-bottom: 5px;
+	font-weight: bold;
+}
+#pageHeader h1{
+	font-weight: bold;
+}
+
+.apirow{
+	//display: flex;
+	//align-items: center;
+	border-top: 2px dashed #565759!important;
+}
+
+#highlightreport{
+	background: white;
+}
+
+.compass-text {
+  background-color: rgb(188, 89, 122);
+  color: white;
+  border: 1px solid rgb(188, 89, 122);
+  border-radius: 10px;
+  display: inline-block;
+  padding: 5px 10px;
+}
+
+.compass-text.left-text {
+  float: right;
+}
+.compass-text.right-text {
+  float: left;
+}
+
+ @media print {
+  #bodyheader{
+    display: none;
+  }
+  a[href]:after {
+    content: none !important;
+  }
+  #sidebar{
+  	display: none;
+  }
+  #content{
+  	width:100% !important;
+  }
+}@media print {
+
+  body {-webkit-print-color-adjust: exact;}
+  @page {                
+    size: A4;
+    margin: 1cm;
+  }
+
+  html, body {
+    width: 1024px;
+  }
+
+  body {
+    margin: 0 auto;
+    width: 100%;
+    float: none;
+  }
+
+  /* avoid page-breaks inside a listingContainer*/
+  .listingContainer{
+    page-break-inside: avoid;
+  }
+  .img-information{
+    height: 150px !important;  
+  }
+  .col-pdf-8{
+    width: 60% !important;
+  }
+  .col-pdf-4{
+    width: 40% !important;
+  }
+}
+
+.table-noborder td{
+  border-top: none !important;
+}
+
+
+div#demography div.row.demographics-row {
+    margin-top: 0px;
+}
+div#safety div.row.demographics-row {
+    margin-top: 0px;
+}
+div#school div.row.demographics-row {
+    margin-top: 0px;
+}
+div#waste div.row.demographics-row {
+    margin-top: 0px;
+}
+
+
+div#demobyeducontainer div#edulist, div#demobyagecontainer div#agedist {
+    width: 300px; 
+    height: 300px; 
+    margin: auto;
+}
+
+div#schools div.row.demographics-row {
+    margin-top: 0px;
+}
+
+div#playground div.row.parks-recreation-row {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+div#recreation {
+    /*padding-top: 10px;*/
+}
+
+div#transit div.section-title {
+    /*margin-top: 10px;*/
+}
+
+div#map div.map-ele {
+    margin-top: 20px;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+div.cps-footer-upper div.cps-socials a{
+  padding-top: 8px;
+}
+
+div.icon-before-title {
+  display: inline-block;
+}
+div.text-after-icon {
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 24px;
+}
+div#map div.text-after-icon {
+  margin-top: 11px;
+}
+
+table.table-borderless tr, table.table-borderless td,table.table-borderless th{
+     border: none !important;
+}
+
+div#disclaimer p {
+  text-align: justify;
+  line-height: 1.5em;
+}
+
+div#safety.report-inner-border {
+  border-bottom: 1px solid #000;
+}
+
+td.safety-1.row, td.safety-2.row {
+  padding: 15px 0;
+}
+
+div#demography_safety {
+  border-bottom: 1px solid #000;
+}
+
+img.top-logo {
+  max-height: 100px;
+  margin: auto;
+}
+
+img.footer-client-logo {
+  max-width: 223px;
+  max-height: 50px;
+  /*margin: auto;*/
+}
+
+
+
+@media print {
+    div.page-header, 
+    nav.navbar.navbar-default.style-9.navbar-transparent.affix,
+    footer {
+      display: none;
+    }
+
+    div#features.cps-section.cps-section-padding.cps-gray-bg {
+      background-color: unset;
+      padding: unset;
+      position: unset;
+    }
+
+     div#features.cps-section.cps-section-padding.cps-gray-bg > div.container {
+      width: auto;
+    }
+
+
+    /*neighborhood*/
+    div.map-image .img-responsive {
+        display: none;
+    }
+    div.map-image table.neighborhood-table {
+        transform: unset;
+        margin-top: 175px;
+        margin-left: 55px;
+    }
+    div.map-image table.neighborhood-table td.compass-icon svg{
+        height: 250px;
+    }
+    
+    div.welcome-section div.welcome-title {
+        font-size: 30px;
+    }
+    div.welcome-section div.welcome-text {
+        font-size: 15px;
+        min-height: 275px;
+    }
+    td.welcome-text h3{
+        font-size: 2.6rem;
+    }
+    div#neighbors.report-inner-border {
+        border-bottom: unset; 
+    }
+    /*demography*/
+    div#demography.report-inner-border {
+        border-bottom: unset;
+    }
+    /*schools*/
+    div#school.report-inner-border {
+        border-bottom: unset; 
+    }
+    /*playground*/
+    div#playground.report-inner-border {
+        border-bottom: unset; 
+    }
+    /*recreation*/
+    div#recreation.report-inner-border {
+        border-bottom: unset; 
+    }
+    div#transit.report-inner-border {
+        border-bottom: unset; 
+    }
+    div#library.report-inner-border {
+        border-bottom: unset; 
+    }
+    div#map.report-inner-border {
+        border-bottom: unset; 
+    }
+    div#safety.report-inner-border {
+        border-bottom: unset; 
+    }
+    div#waste.report-inner-border {
+        border-bottom: unset; 
+    }
+    div#park.report-inner-border {
+        border-bottom: unset; 
+    }
+    div#communitycenter.report-inner-border {
+        border-bottom: unset; 
+    }
+    div#demography_safety {
+      border-bottom: unset; 
+    }
+
+
+
+
+    table.table-borderless tr, table.table-borderless td,table.table-borderless th{
+         border: none !important;
+    }
+
+
+    /*reducing spaces*/
+    div#features div.section-title{
+      margin-top : unset;
+    }
+    div#features div.section-title h3 {
+      margin-bottom: unset;
+      font-size: 2.5rem;
+    }
+    div#features div.report-header table.table.table-bordered {
+      margin-bottom: unset;
+    }
+    div#features div.report-header div#map table.table.table-bordered {
+      margin-bottom: 20px;
+    }
+
+
+    div#features p {
+      font-size: 14px;
+      margin-bottom: unset;
+    }
+
+    div#features div.demographics-title {
+      font-size: 18px;
+      /*margin-top: unset;*/
+    }
+
+    div#features div#neighbors div.wellcome-text {
+      font-size: 30px;
+    }
+    h4.for-more-info {
+      font-size: 2.3rem;
+    }
+
+    div.compass-icon svg {
+      width: 125px;
+    }
+    div#disclaimer p {
+      font-size: 12px;
+      line-height: 15px;
+    }
+
+    @page {
+      size: auto;
+      margin-top: 0;
+      /*padding-top: 15px;*/
+    }
+    div#content {
+      /*margin-top: 30px;*/
+      margin-top: 20px;
+    }
+
+    /*fitting report to 1.75 pages*/
+
+    .compass-text {
+      font-size: 14px;
+    }
+    .compass-table tbody tr td {
+      padding: 0;
+    }
+    .welcome-text h3 {
+      font-size: 1.8rem !important;
+    }
+
+    #footer .footer-text {
+      line-height: 16px !important;
+      font-size: 12px !important;
+    }
+    div#features p{
+      font-size: 13px;
+    }
+    span.distance_to_house_text{
+      font-size: 13px;
+    }
+    table.demographics-table tbody tr td {
+      padding : 0;
+    }
+    div.demographics-icon svg {
+      width: 50px;
+    }
+
+    div.sharethiscontainer {
+      display: none;
+    }
+
+    .noBreak {
+      page-break-inside: avoid;
+    }
+
+
+    td.safety-1.row {
+      padding: 14px 0 13px 0;
+    }
+    td.safety-2.row {
+      padding: 13px 0 13px 0;
+    }
+
+    div#neighbors div#neighborhoods-map {
+      width : 679px !important;
+    }
+
+    .common-report {
+        display: none;
+    }
+}
+@media screen and (max-width: 579px){
+.col-custom-6{
+  width: 50% !important;
+}
+
+}

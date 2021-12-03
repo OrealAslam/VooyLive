@@ -1,0 +1,350 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5747757,
+               "lng" : -79.8353642
+            },
+            "viewport" : {
+               "northeast" : {
+<<<<<<< HEAD
+                  "lat" : 43.5759795302915,
+                  "lng" : -79.83376866970849
+               },
+               "southwest" : {
+                  "lat" : 43.5732815697085,
+                  "lng" : -79.83646663029151
+=======
+                  "lat" : 43.5761272302915,
+                  "lng" : -79.83390581970849
+               },
+               "southwest" : {
+                  "lat" : 43.5734292697085,
+                  "lng" : -79.83660378029151
+>>>>>>> 19ec34fa09a1b76201f435c07773a4f4e46b1e5d
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Petro-Canada",
+<<<<<<< HEAD
+         "obfuscated_type" : [],
+=======
+>>>>>>> 19ec34fa09a1b76201f435c07773a4f4e46b1e5d
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105644538778724590931\"\u003eLeonard E\u003c/a\u003e"
+               ],
+<<<<<<< HEAD
+               "photo_reference" : "ATtYBwJ4cGVg4Y3jdYysRa_ARTq4BanRe-N8NXbPHsiOEte-uqHkLoutcgBoBdXeacSAp0Lw8-OVZ1cLN0qRBsO60AqcNGE6GLFRQ-kuyy-p5FQZ6QIwnDzYoFr59m3dFjsHaiFK-KO2b1R0pQIfiyvt7UAkEh0pKK7eAyzhXyBmuE4xwlL9",
+=======
+               "photo_reference" : "ATtYBwLWjKlCwAdjvgZ6Tgg-JqGopDTsqBKA8Wqgx3_-ZYu2BrwDE6hf2THs556rEZiN2TUVQyNEN3q9HxbEg_gW3BnM4KL_9TL1bzJEcShOWWYKeEujM8gIN1MZvXK_MUwzEktHMolYnQ2wmxmwclr47fOv7np3W3UzvlDXtNYY5r_s7FEZ",
+>>>>>>> 19ec34fa09a1b76201f435c07773a4f4e46b1e5d
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJSyNnKgRsK4gR4Z018PnCHik",
+         "plus_code" : {
+            "compound_code" : "H5F7+WV Hornby, ON, Canada",
+            "global_code" : "87M2H5F7+WV"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJSyNnKgRsK4gR4Z018PnCHik",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 73,
+         "vicinity" : "13605 Steeles Avenue W, Hornby"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5746531,
+               "lng" : -79.83367969999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5760472802915,
+                  "lng" : -79.83240951970849
+               },
+               "southwest" : {
+                  "lat" : 43.57334931970851,
+                  "lng" : -79.8351074802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Shell",
+<<<<<<< HEAD
+         "obfuscated_type" : [],
+=======
+>>>>>>> 19ec34fa09a1b76201f435c07773a4f4e46b1e5d
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2848,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113664309233820834071\"\u003eRon Dutton\u003c/a\u003e"
+               ],
+<<<<<<< HEAD
+               "photo_reference" : "ATtYBwJa1Ajr_w2E_LA_OxsLV1hWYMwLXcxBA1BLZjtRJfoYNdMACBnb2uvVrwOeGEpV0jMuxFLWkpGPHpMcqH5UMNlSpwNC4lt9yR2j38dEdt5UsFQ--VaURh_XEE4HhJe8H23ne90WJ8GTd9ttIa_G7epQitTVyjIJG0sQptVh5KqQcd5c",
+=======
+               "photo_reference" : "ATtYBwIrTJWAjqg4Lm6F2l20Vm50VlfxVKEurWMhOCsd0xMexUk6FVlqnXSiOmxbfc2IhvEmyetCMU6Q_-swyiAz4bNFbUrViWsj_eidUQrcFHgjzcbN5kUOscVS9j4ojiZKA_1v7oF6ifsQXiHfQHGcbbeyM8CNU4Q-6k3QfH4VvofzbfVb",
+>>>>>>> 19ec34fa09a1b76201f435c07773a4f4e46b1e5d
+               "width" : 4288
+            }
+         ],
+         "place_id" : "ChIJkS7sZgZsK4gRr0OakXgtYHE",
+         "plus_code" : {
+            "compound_code" : "H5F8+VG Hornby, ON, Canada",
+            "global_code" : "87M2H5F8+VG"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJkS7sZgZsK4gRr0OakXgtYHE",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 50,
+         "vicinity" : "7975 Trafalgar Road, Hornby"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.566587,
+               "lng" : -79.8226817
+            },
+            "viewport" : {
+               "northeast" : {
+<<<<<<< HEAD
+                  "lat" : 43.56800318029151,
+                  "lng" : -79.82142056970849
+               },
+               "southwest" : {
+                  "lat" : 43.56530521970851,
+                  "lng" : -79.82411853029151
+=======
+                  "lat" : 43.56790228029149,
+                  "lng" : -79.8213792697085
+               },
+               "southwest" : {
+                  "lat" : 43.5652043197085,
+                  "lng" : -79.82407723029151
+>>>>>>> 19ec34fa09a1b76201f435c07773a4f4e46b1e5d
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Petro-Canada Gas Station & Petro-Pass Truck Stop",
+<<<<<<< HEAD
+         "obfuscated_type" : [],
+=======
+>>>>>>> 19ec34fa09a1b76201f435c07773a4f4e46b1e5d
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100674948959361272236\"\u003eAnton Gee\u003c/a\u003e"
+               ],
+<<<<<<< HEAD
+               "photo_reference" : "ATtYBwJkxSTSHf3VDaMdnBxt6gRpZWA8aBEHSF-9sIMm43kr0xwtPl-yL830DlcSgp530iYljYK1WdnAo20fif8BpZDzltGSdqR8Xl1MnF1VBIDAuU-ZIayTWp2vK_LRSlf6bTAtNjnQ1Bztilf3AFNwUFeYbQJNi0Bjqi1BdAUbbASlJRgH",
+=======
+               "photo_reference" : "ATtYBwJ1REwHfb3yFHubiWN2uRXyB88XDXyPlBPDEbY6t7cM8HFjQT8vBuMiabMb9BgXrP9mvcGV_W90o1abRLLn5WB9F56QI5mWD1drsJoxTX0jeOeSqXRhmBJLr145TEuHdFzW9mP-ee_A1wSd1Z_kO43hFORXzNPQ-cDsAUkCLyjiwfx4",
+>>>>>>> 19ec34fa09a1b76201f435c07773a4f4e46b1e5d
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJp6Mo5f1rK4gRiLs4MGx1yCs",
+         "plus_code" : {
+            "compound_code" : "H58G+JW Hornby, ON, Canada",
+            "global_code" : "87M2H58G+JW"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJp6Mo5f1rK4gRiLs4MGx1yCs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 109,
+         "vicinity" : "7443 Trafalgar Road, Hornby"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5689238,
+               "lng" : -79.84140529999999
+            },
+            "viewport" : {
+               "northeast" : {
+<<<<<<< HEAD
+                  "lat" : 43.57018273029149,
+                  "lng" : -79.84017196970849
+               },
+               "southwest" : {
+                  "lat" : 43.56748476970849,
+                  "lng" : -79.8428699302915
+=======
+                  "lat" : 43.5702427802915,
+                  "lng" : -79.84003076970849
+               },
+               "southwest" : {
+                  "lat" : 43.5675448197085,
+                  "lng" : -79.84272873029151
+>>>>>>> 19ec34fa09a1b76201f435c07773a4f4e46b1e5d
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Esso",
+<<<<<<< HEAD
+         "obfuscated_type" : [],
+=======
+>>>>>>> 19ec34fa09a1b76201f435c07773a4f4e46b1e5d
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118188822762234545914\"\u003eEsso\u003c/a\u003e"
+               ],
+<<<<<<< HEAD
+               "photo_reference" : "ATtYBwLG_pYr52DbTnKxupZ1lZS2pIRzeJMJTOuAMMa76h4IEEggbCtj4324tn52yXNf7ObFDFyhcDAzlCj6imqiJA9W_Ft3tlC8RFPOCY833Kybuz1ArHg20xP07zYEWUtgITZleqyvV6BFmvs18V6RTTksiqZQ6IlkQL3GpNi9t0mx8N80",
+=======
+               "photo_reference" : "ATtYBwL-bugOtpTSamSfHFwJ0j8vvJSxz2fEPRana_06WeeZuOXuBLGAw1pdqWxoNw5ehIb1yS7ZH_MyB1H-ZcAUpX3N6wsjtpavn3kFNFk2iyfRXtzjBlPCdFkRNJeMNMfrQySkOISXwG_HzHKkVyJGHKxf7swDWQMdicWsCoeairFVidPn",
+>>>>>>> 19ec34fa09a1b76201f435c07773a4f4e46b1e5d
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJB1a1Nx1sK4gR4Z3eg675p-U",
+         "plus_code" : {
+            "compound_code" : "H595+HC Halton Hills, ON, Canada",
+            "global_code" : "87M2H595+HC"
+         },
+<<<<<<< HEAD
+         "rating" : 3.7,
+         "reference" : "ChIJB1a1Nx1sK4gR4Z3eg675p-U",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 25,
+=======
+         "rating" : 3.8,
+         "reference" : "ChIJB1a1Nx1sK4gR4Z3eg675p-U",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 26,
+>>>>>>> 19ec34fa09a1b76201f435c07773a4f4e46b1e5d
+         "vicinity" : "8017 Hornby Road, Halton Hills"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5676284,
+               "lng" : -79.82531179999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5690554302915,
+                  "lng" : -79.8238526197085
+               },
+               "southwest" : {
+                  "lat" : 43.5663574697085,
+                  "lng" : -79.82655058029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Esso - Snack Express",
+<<<<<<< HEAD
+         "obfuscated_type" : [],
+=======
+>>>>>>> 19ec34fa09a1b76201f435c07773a4f4e46b1e5d
+         "place_id" : "ChIJXW5Kav5rK4gRCebYZhAIh40",
+         "plus_code" : {
+            "compound_code" : "H59F+3V Milton, ON, Canada",
+            "global_code" : "87M2H59F+3V"
+         },
+         "rating" : 5,
+         "reference" : "ChIJXW5Kav5rK4gRCebYZhAIh40",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Halton Regional Road 3, Milton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5675552,
+               "lng" : -79.825345
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5690061302915,
+                  "lng" : -79.82385206970848
+               },
+               "southwest" : {
+                  "lat" : 43.5663081697085,
+                  "lng" : -79.8265500302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Esso",
+<<<<<<< HEAD
+         "obfuscated_type" : [],
+=======
+>>>>>>> 19ec34fa09a1b76201f435c07773a4f4e46b1e5d
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108945973636736039741\"\u003eRobert Bukowiński\u003c/a\u003e"
+               ],
+<<<<<<< HEAD
+               "photo_reference" : "ATtYBwLxCfaLSxisE2O0UMUpuodI_ADbKWCPRuPMLR5D_LL1hj7Vlsy1g81clO77gCmuWmkuzCTUssR5nC6dUKKPME3nGRazLwqoDOeL6srekFvxaRUzZHSPBUUfP3aENJaEP0mscVD9DJ7Npy4P5U0LBwCUX4FmIl-GV7Xm2Xq2kt8bz-94",
+=======
+               "photo_reference" : "ATtYBwJS5zn7IlVLD7bnGwKA8tbTJOaia5RhDHCQpiD28KFBEAMZspbEPz_213yxb-qYvV_1Fzyau9QRKOrXmPFBL75mT-lcDwlakYe9-0fa82zzi3gP9qwT3RamAgEjwvXyXtiPukCpHpuR82JGsPbuID8G2ZA99A9emxx2UuNMaZPUEPjo",
+>>>>>>> 19ec34fa09a1b76201f435c07773a4f4e46b1e5d
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJ7cOf_v5rK4gRFIaNyC53ED4",
+         "plus_code" : {
+            "compound_code" : "H59F+2V Hornby, ON, Canada",
+            "global_code" : "87M2H59F+2V"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJ7cOf_v5rK4gRFIaNyC53ED4",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 142,
+         "vicinity" : "7548 Trafalgar Road, Hornby"
+      }
+   ],
+   "status" : "OK"
+}

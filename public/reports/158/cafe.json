@@ -1,0 +1,60 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.0155213,
+               "lng" : -114.2133318
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0167735802915,
+                  "lng" : -114.2119725197085
+               },
+               "southwest" : {
+                  "lat" : 51.0140756197085,
+                  "lng" : -114.2146704802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "951715cdd29236359ac5a27959aca81a3459920e",
+         "name" : "Javino Coffee and Wine Bar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107209928608872847418\"\u003eKevin V\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA393OVGCpkXKpH7EPn3F3X2W8paovfaffFznvSwXJOm2oBJhrii_lrToiTEhCK7o8-L-xLrp2H-N8TEoCEN7m-gYToSnW5ogUpSKYBpm55tNjqxTpe5lhAumxXIj2AWHEEhAjCta4WIB0E8DWw0yiOituGhTUWehtxLWaJzQzxsK-OuQoCKzCYw",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJX1YGQoltcVMRHEMHkcE6qjM",
+         "plus_code" : {
+            "compound_code" : "2Q8P+6M Calgary, Alberta, Canada",
+            "global_code" : "95372Q8P+6M"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJX1YGQoltcVMRHEMHkcE6qjM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 132,
+         "vicinity" : "10 Discovery Ridge Hill Southwest, Calgary"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,323 @@
+@media print {
+    /*for calgary report*/
+    /*safety section*/
+
+    div.quote {
+        font-size: 16px;
+    }
+    .community-profile .right-side ul li {
+        line-height: 1em;
+        margin-bottom: 5px;
+        font-size:12px;
+    }
+
+    .location #neighborhoods-map-container {
+      height:250px !important;
+      /*background: red;*/
+    }
+
+    .location #neighborhoods-map{
+        /*width:320px;*/
+        /*height:275px;*/
+    }
+    .location .welcome-text {
+        font-size:12px;
+    }
+
+
+    .safety {
+        /*padding-bottom: 75px;*/
+    }
+    .safety .left-side {
+        font-size: 28px;
+        font-weight: bold;
+        line-height: 1.30em;
+        margin-top: 25px;
+    }
+    .safety .item {
+        font-size: 15px;
+        text-align: center;
+        /*padding: 5px 0*/
+    }
+    .safety .item.train-item {
+        border-left: 1px solid #000000;
+    }
+    .safety .item .icon{
+
+    }
+    .safety .item .icon svg{
+        width: 24px;
+    }
+    .safety .item .safety-head{
+        padding-top: 8px;
+        /*padding-bottom: 5px;*/
+        text-align: center;
+    }
+    .safety .item .safety-title{
+        font-size: 15px;
+        font-weight: bold;
+        vertical-align: top;
+    }
+    .safety .item .safety-name{
+        font-size: 12px;
+    }
+    .safety .item .safety-address{
+        font-size: 12px;
+        font-weight: normal;
+        padding: 0;
+    }
+    .safety .item .safety-distance{
+        font-size: 12px;
+    }
+
+
+    /*waste*/
+    .waste {
+    }
+    .waste .left-side {
+        font-size: 25px;
+        font-weight: bold;
+        line-height: 1.30em;
+        margin-top: 20px;
+    }
+
+    .waste .waste-item-container {
+        /*padding-bottom: 20px;*/
+    }
+    .waste .item {
+        padding-bottom: 0px !important;
+    }
+    .waste .item .info > div {
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    .waste .item .main-icon{
+
+    }
+    .waste .item .main-icon svg{
+        width: 24px;
+    }
+    .waste .item .waste-head{
+        padding-top: 8px;
+        /*padding-bottom: 2px;*/
+        text-align: center;
+    }
+    .waste .item .waste-title{
+        font-size: 12px;
+        font-weight: bold;
+        /*vertical-align: top;*/
+    }
+    .waste .item .waste-sub-title{
+        font-size: 10px;
+    }
+
+    .waste .item .icon {
+    }
+    .waste .item .icon svg{
+        width: 16px;
+    }
+
+    /*
+    .public-schools .item .title {
+        font-size: 25px;
+        font-weight: bold;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: center;
+    }
+    */
+    .waste .item.waste2{
+        border-left: 1px solid #000000;
+    }
+    .waste .item .waste-name {
+        /*padding-top: 20px;*/
+        text-align: center;
+        font-size: 18px;
+        font-weight: bold;
+        line-height: 1em;
+        padding-bottom: 20px;
+    }
+
+    .waste .item .waste-collection {
+        /*padding-bottom: 20px;*/
+        text-align: center;
+        font-size: 10px;
+        font-weight: bold;
+        line-height: 1em;
+    }
+
+
+    /*demographics 2*/
+    .demographics2 {
+    }
+    .demographics2 .left-side {
+        font-size: 30px;
+        font-weight: bold;
+        line-height: 1.30em;
+        margin-top: 30px;
+    }
+
+    .demographics2 .demographics2-item-container {
+        /*padding-bottom: 20px;*/
+    }
+    .demographics2 .item {
+        /*padding-bottom: 20px;*/
+    }
+    .demographics2 .item .icon{
+
+    }
+    .demographics2 .item .icon svg{
+        width: 24px;
+    }
+    .demographics2 .item .demographics2-head{
+        padding-top: 8px;
+        /*padding-bottom: 2px;*/
+        text-align: center;
+    }
+    .demographics2 .item .demographics2-title{
+        font-size: 10px;
+        font-weight: bold;
+        vertical-align: top;
+    }
+
+
+    .demographics2 .item.demographics2-right{
+        border-left: 1px solid #000000;
+    }
+    .demographics2 .item .demographics2-name {
+        padding-top: 10px;
+        text-align: center;
+        font-size: 20px;
+        font-weight: bold;
+        line-height: 1em;
+        padding-bottom: 10px;
+    }
+
+    .demographics2 .item .demographics2-address {
+        padding-bottom: 20px;
+        text-align: center;
+        font-size: 18px;
+        font-weight: bold;
+        line-height: 1em;
+    }
+    .demographics2 .item .demographics2-grades {
+        text-align: center;
+        font-size: 18px;
+        line-height: 1em;
+    }
+    .demographics2 .item .demographics2-distance {
+        text-align: center;
+        font-size: 18px;
+        line-height: 1em;
+    }
+
+
+    /*community center section*/
+    .communitycenter {
+    }
+    .communitycenter .left-side {
+        font-size: 30px;
+        font-weight: bold;
+        line-height: 1.30em;
+        margin-top: 30px;
+    }
+    .communitycenter .item {
+        font-size: 13px;
+        text-align: center;
+        /*padding: 5px 0*/
+        min-height: 120px;
+    }
+    .communitycenter .communitycenter-item-container .item.communitycenter-item2 {
+        border-left: 1px solid #000000;
+    }
+    .communitycenter .communitycenter-item-container .item .info {
+        padding: 0 10px;
+    }
+
+    .communitycenter .item .icon{
+
+    }
+    .communitycenter .item .icon svg{
+        width: 24px;
+    }
+    .communitycenter .item .transport-head{
+        padding-top: 8px;
+        /*padding-bottom: 5px;*/
+        text-align: center;
+    }
+    .communitycenter .item .communitycenter-title{
+        font-size: 18px;
+        font-weight: bold;
+        /*vertical-align: top;*/
+    }
+    .communitycenter .item .communitycenter-name{
+        font-size: 12px;
+    }
+    .communitycenter .item .communitycenter-address{
+        font-size: 12px;
+        font-weight: normal;
+        padding: 0;
+    }
+    .communitycenter .item .communitycenter-distance{
+        font-size: 12px;
+    }
+
+    .communitycenter-head-calgary {
+        padding: 10px 0;
+    }
+
+
+
+    .library .heading1 {
+        font-size: 13px;
+        padding:5px 0;
+    }
+    .library .heading2 {
+        font-size: 13px;
+        padding:5px 0;
+    }
+    .library .library-address {
+        font-size: 13px;
+        padding: 0;
+    }
+    .library .icon {
+        padding: 7px 0 8px 0;
+    }
+    .library .left-side {
+        margin-top: 0px;
+    }
+
+.public-schools .item .school-title {
+    font-size: 15px;
+}
+.transport .item .transport-title {
+    font-size: 15px;
+}
+.page2-head .title2 {
+    line-height: 1em;
+}
+
+    .highlights .item {
+        min-height: 175px !important;
+    }
+
+.public-schools .item .school-distance {
+    font-size: 12px;
+}
+.report-footer2 .top-section {
+    height: 5px;
+}
+.report-footer2 .client-detail {
+    padding-top: 5px;
+}
+.report-footer2 .disclaimer {
+    font-size: 12px;
+}
+
+.parks-recreation .left-side {
+    margin-top: 5px;
+    font-size: 25px;
+    line-height: 1em;
+}
+}
+

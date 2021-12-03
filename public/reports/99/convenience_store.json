@@ -1,0 +1,57 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4611743,
+               "lng" : -113.5289125
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.46241733029149,
+                  "lng" : -113.5274480697085
+               },
+               "southwest" : {
+                  "lat" : 53.45971936970849,
+                  "lng" : -113.5301460302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ae85c39e761a08c4668f2cb3804675df0b36058c",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113733863046204867441/photos\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdOCmNaLYBrGBaaoqeMyh-kGoTLUL9i-11MzkPJMgUjurdQoOU_Dho2ze77aykIVrMLZDBTAa5wAQ-A4gwY6Q5ikZCwJMBpW3QQcifOUGtMry6PcGS1ZpFLpmDDyOpcGnEhA6BxJ49o3rp5Vfx-jK7Yo7GhTToELUe0AbIqWwhDxjlnomDCyuNw",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ1d72hQMfoFMRhT6gKaoWNDo",
+         "plus_code" : {
+            "compound_code" : "FF6C+FC Edmonton, Alberta, Canada",
+            "global_code" : "9558FF6C+FC"
+         },
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAylaUEuEC8yabMBKdUq5jXdH2QFMIK-6NglcFu7x3pHdkUtW1nqbQln0dPS0ByheCyp0DJLx7TO_ygT1IwrK5m9C00STjEZpbN40iDsDtsvzUpEvqSXLdrCj8cefEj9zuEhBfcRbWFFHV3OQWXqgaQ9LYGhS7ecu7WQV-YkbYe-Ka4-pnf2GSoA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "280 Saddleback Road Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

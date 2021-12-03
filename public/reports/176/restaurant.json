@@ -1,0 +1,994 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQEBgIAAHGetVccDk9A6BCg_wjf7ZZS-vuedyykq4BDxfBjtVv_8EKMmnEdPVvOSxXbADAcS_ltPTlTXlT-JicqsZNOuxfm2fJEPKRHNUUVTYyB_-_uWx-Uh91iXbcPY_zNw0_HuPN4SHczK9ZIJMSdA2ZXl9j-v611a0VUiZ5DVyZlIL37W3WD9tQO325j1SHQykWCpQUnpIRfmzoSB9KDbWqjj8mLDtjnrYBw6r1I3w41pPU0Qcg7ALOMM24gqXfAvft1eqVJGTCeQdRr3HFqKDtzLs5vEVpIewP3OmGQmYmSP3O1hPqrsRj6pn8cEm0nkrgDsqL1TDSYFKcJPiShKubdPlXkT7z4_qgIImjtGn2DNfqHYGxDqZhsvJ-NWtz2aVv99ZJgal8FhiJcWqgecrzt5wATENloclplkOnWEwgCVZi0gQAHv9uzaqDX7E8XWm4rZ2Xwrs7h5glUw9Nn4kbclQshPTbqoSxxn9ZxDrKYT5k9aSvmZryWhf6lb5La4ky8-ilHSQA51oKGHx6WtrKO0mCRzuwdhF3Xepuh-LGrRSauLip54tFTMCwIVp3Euin4A2RqlY8NmmW9nOYouxD66KPOcyXPYZz3b_h-po8rKLthSpZ8TSP3xMZ9pMjIVj1DAZ5Z2r2xsUnQBoWuS3LSr8cEN7J-j8eO6BL1ltbz1VkPrh2T2m1XLy1wUTOioKxdTBIQPyFSMGR8ivImPGJvG82eFBoUYEQZaRO77WiJqru6f-my3YkgDhc",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5465307,
+               "lng" : -113.5352831
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.54801433029149,
+                  "lng" : -113.5338780197085
+               },
+               "southwest" : {
+                  "lat" : 53.54531636970849,
+                  "lng" : -113.5365759802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fd8456412627d64f7c5a259b2e7ac576d0856e20",
+         "name" : "Blue Plate Diner",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 809,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107866991293114633343\"\u003eBlue Plate Diner\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAS0IM6NNyIZFs7_l3lco2_POlpgIWwN4FXa8N2pEKN7rYkFEhotPeDMaPa-ewG409T0IeDlh52MMIkjVkCetmw7pbPitPhaRdoMTfiUq-9nmCvTvGYJD98Nkq7RYAJs9KEhB8z313KypyoeXodla2tD_-GhQPNMiSHrU40PFFQIDYbKMJcouWpA",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJiwYNeEgioFMR_BrTHT2DOFQ",
+         "plus_code" : {
+            "compound_code" : "GFW7+JV Edmonton, AB, Canada",
+            "global_code" : "9558GFW7+JV"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJiwYNeEgioFMR_BrTHT2DOFQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1082,
+         "vicinity" : "12323 Stony Plain Road, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5427051,
+               "lng" : -113.5372062
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.54411498029149,
+                  "lng" : -113.5358572697085
+               },
+               "southwest" : {
+                  "lat" : 53.54141701970849,
+                  "lng" : -113.5385552302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "86d4759b953a9ff54298b0bfe9761aac3d1525ae",
+         "name" : "Urban Diner",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102230815191746585534\"\u003eNightingale\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKxrPFNdrK2isHAsn_R6usRQXxRTtk4m3iJRTp1pfNSqX6Bj2eht-rjB-g8ea4MceW4CYNyUOVvoCl86QGfW_z-aiH38Luq1kqZzqp-luetiJIo2dJoM9WEg6W7vvBDOIEhA27unMTXjRdYT6xy1ElsfUGhTTAt7HRcpakRaYHS-HyF4xKemKGg",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJT7wcBysioFMR54-_-DnmDhw",
+         "plus_code" : {
+            "compound_code" : "GFV7+34 Edmonton, AB, Canada",
+            "global_code" : "9558GFV7+34"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJT7wcBysioFMR54-_-DnmDhw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 816,
+         "vicinity" : "12427 102 Avenue, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.54349449999999,
+               "lng" : -113.5387172
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.54460093029149,
+                  "lng" : -113.5373699697085
+               },
+               "southwest" : {
+                  "lat" : 53.5419029697085,
+                  "lng" : -113.5400679302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b51571fe245fdda93597468286537452a06ca532",
+         "name" : "Original Joe's Restaurant & Bar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112434044442792343961\"\u003eGrahame Cenkner\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdZcxW7x1LGy8sCIYKdr4-dSj_fVfVVjlY3lzVz6gdQ7BDFxIloFMErV-mDL4so8XESUKcTqpjIgXQFmNLlRXG4y3E_IsNhEnpoDsgBSEIA2A8t0QTRrulwMEpyyEzho8EhBFMPBAbaBWGUaSVOgQbENTGhSV8hqKaRD5TkFLOatz9B48MgvQUw",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJbbQf7ioioFMRzWqw-rALwx8",
+         "plus_code" : {
+            "compound_code" : "GFV6+9G Edmonton, AB, Canada",
+            "global_code" : "9558GFV6+9G"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJbbQf7ioioFMRzWqw-rALwx8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "bar", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 546,
+         "vicinity" : "12520 102 Avenue, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.54699169999999,
+               "lng" : -113.5217333
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.54834358029149,
+                  "lng" : -113.5205284197085
+               },
+               "southwest" : {
+                  "lat" : 53.54564561970849,
+                  "lng" : -113.5232263802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "d29efea7bdc4e11fffbbaa1dde5222e79764c491",
+         "name" : "Brewsters Oliver Square",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113123992864344738224\"\u003eBrewsters Oliver Square\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAh_8a2lbykNfk9suRv1Bcx57u185L5zwbuAVcPMnRZ4lomjj-lTpjuYCsgEzrgWTfv4w9mv1D8OO0YuBM2Q7hiCMAevOV0eU55_D3pJeS-J53bNylKmBZu-vAOoaa2MuAEhCCgNEs2yzixbvG69Y2ianxGhS8MTX2hBzemjidwq7BWUTZ98KSqQ",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJ38vIkjIioFMRr88QSn1kbT8",
+         "plus_code" : {
+            "compound_code" : "GFWH+Q8 Edmonton, AB, Canada",
+            "global_code" : "9558GFWH+Q8"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJ38vIkjIioFMRr88QSn1kbT8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "liquor_store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 481,
+         "vicinity" : "11620 104 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.54252699999999,
+               "lng" : -113.537216
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5438872802915,
+                  "lng" : -113.5358692697085
+               },
+               "southwest" : {
+                  "lat" : 53.5411893197085,
+                  "lng" : -113.5385672302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "18053615f2f7bc4ad9205ea27a11f1918c9a7989",
+         "name" : "Violino Ristorante",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1361,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100376662872999637082\"\u003eViolino Ristorante\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtLXwZR9tqn3kqTQHSePq9Prbv-IfwVzTVnrhNczWIaWDTxlImFnzjo3rkr6LCEfaXi5Pzf0icSk71M-TQEqwxXuldqDkOPSGqvHeBrXh1YoKbSjN3bKZZbwGS1-xnjLcEhAmphsvj8zneYaK6euFKCw-GhQI_MYejix_JKozD6T4CQbt1RKRkQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJoyf49yoioFMR1F3JPEwIcYU",
+         "plus_code" : {
+            "compound_code" : "GFV7+24 Edmonton, AB, Canada",
+            "global_code" : "9558GFV7+24"
+         },
+         "price_level" : 3,
+         "rating" : 4.4,
+         "reference" : "ChIJoyf49yoioFMR1F3JPEwIcYU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 333,
+         "vicinity" : "10133 125 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5415334,
+               "lng" : -113.5247042
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5428814802915,
+                  "lng" : -113.5234922697085
+               },
+               "southwest" : {
+                  "lat" : 53.5401835197085,
+                  "lng" : -113.5261902302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "95111e75912307770b1ba22d15d93d202be587f7",
+         "name" : "Famoso Neapolitan Pizzeria",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114456075231069337243\"\u003eCory Banack\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3E8RsQmlkclTdQlpm0wdLAvcLL-LAB5tnR_myio1CJgJGkf0Ru-unryXRozHGbuAsrQjmsiMa0QhSmx1mlrDlErHC7CZbR_7MNzgCu9puh-eByvO7eaJK-6_VgiP6wzwEhDZOdoDsZkMzg5JHOOMkpM3GhR2H5yTKbXiVhj4c3dPacDux9qLVA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJXeJHZy4ioFMRdbP8gHcAugQ",
+         "plus_code" : {
+            "compound_code" : "GFRG+J4 Edmonton, AB, Canada",
+            "global_code" : "9558GFRG+J4"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJXeJHZy4ioFMRdbP8gHcAugQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 437,
+         "vicinity" : "11750 Jasper Avenue, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.54068799999999,
+               "lng" : -113.5154709
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.54216398029148,
+                  "lng" : -113.5141212197085
+               },
+               "southwest" : {
+                  "lat" : 53.53946601970849,
+                  "lng" : -113.5168191802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0599be72c0afee2155f34915b07770912dcdd65f",
+         "name" : "Sicilian Pasta Kitchen Downtown",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104794935177028872804\"\u003eDavid P\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjRAXucNraH3m_qjbiWDfX7g1MnvZAiN6XxXRMSYmy1c3u1D0cxLmRTIOLJBXJV-dsDUU7TGttgaOmMRo7mz6l7arNDHxFVpyMMf3CvBqveY6CHH9nrL7nYfLeaeBvS0pEhAm6BYmT7DghIjQPfY2NU1lGhQnWNDgVWKc_vsUKCfjISPkQTAHMQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJAS2n-TAioFMR3poYDWUAhjE",
+         "plus_code" : {
+            "compound_code" : "GFRM+7R Edmonton, AB, Canada",
+            "global_code" : "9558GFRM+7R"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJAS2n-TAioFMR3poYDWUAhjE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 528,
+         "vicinity" : "11239 Jasper Avenue, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5411626,
+               "lng" : -113.5132776
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.54240403029149,
+                  "lng" : -113.5119271197085
+               },
+               "southwest" : {
+                  "lat" : 53.53970606970849,
+                  "lng" : -113.5146250802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5eaf909b583d6faeeab1e993cd36461aa7bbccc4",
+         "name" : "Cactus Club Cafe Jasper Ave",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1574,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107427500530068601329\"\u003eCactus Club Cafe Jasper Ave\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvF8P_qm5OK698MgCyVE03IDo-_S4BZtDEGeK8IWotZJX7RfzSVAKXAaEJZ_JM4mq2BF5knpAr6CvZgTFmzDo50jlxe9AJ5B_GOrQYG60Jd1RlK2VWPkzTKKp5xQuxpPbEhAJwksoboMCsyxDgIiuo4nIGhT_PjQsiPhT8WyqjbLSDQhw-0SxTg",
+               "width" : 2100
+            }
+         ],
+         "place_id" : "ChIJR0AIwzAioFMR9EiMcsdqr10",
+         "plus_code" : {
+            "compound_code" : "GFRP+FM Edmonton, AB, Canada",
+            "global_code" : "9558GFRP+FM"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJR0AIwzAioFMR9EiMcsdqr10",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1826,
+         "vicinity" : "11130 Jasper Avenue, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.54149570000001,
+               "lng" : -113.5243891
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5427677302915,
+                  "lng" : -113.5230496197085
+               },
+               "southwest" : {
+                  "lat" : 53.5400697697085,
+                  "lng" : -113.5257475802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "122c4e39b0418067234810695be7ae4c33a67767",
+         "name" : "On The Rocks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1362,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101259863708462236197\"\u003eOn The Rocks\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAY_RXEQ1a6pSWsf3nINGDHlFqs6dXy5BXDXlkX3cV6B0Y3BTYzLL_7dmvQSxPVLyDrdLmR7TvCssSNSUw1Fs3j_ExL_IuA9vM63tWm7YdUWHqHvdxFbc6rxe60-jouzzHEhCBwM6SFJ2mrDfzPi0YtV1MGhR_L-Bge0_gvYo1pTbT7_mmZ5ihwQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ0eK4Zy4ioFMRitdYzvOPm7g",
+         "plus_code" : {
+            "compound_code" : "GFRG+H6 Edmonton, AB, Canada",
+            "global_code" : "9558GFRG+H6"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ0eK4Zy4ioFMRitdYzvOPm7g",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1450,
+         "vicinity" : "11740 Jasper Avenue, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5407257,
+               "lng" : -113.5225652
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5421628302915,
+                  "lng" : -113.5211688697085
+               },
+               "southwest" : {
+                  "lat" : 53.5394648697085,
+                  "lng" : -113.5238668302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "315f3ed5307597c59045d72799598278244c51d9",
+         "name" : "Domino's Pizza",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100721570352892275147\"\u003eBryden Schultz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmu6YUlkgu7exXoIrp594BS3sLDmeVD4AIVW4jbwCkW5v_JmFy4JuvAveakKTf_wIH_ZnJJdxN1PaiICqI8bIESqjGuzrvZcWCt06MoNURprxEP0iOxKVWmb43Ul0SS6gEhCXXJnxx1Y-TQS0-beC_rmgGhTdz_cajZ-Wo9xYXA_GXiVedg4h7A",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJf76mOS4ioFMRHAp9rOFQvJQ",
+         "plus_code" : {
+            "compound_code" : "GFRG+7X Edmonton, AB, Canada",
+            "global_code" : "9558GFRG+7X"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJf76mOS4ioFMRHAp9rOFQvJQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 205,
+         "vicinity" : "11649 Jasper Avenue, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5466275,
+               "lng" : -113.5228456
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.54797838029149,
+                  "lng" : -113.5213488197085
+               },
+               "southwest" : {
+                  "lat" : 53.54528041970849,
+                  "lng" : -113.5240467802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3333db0920b944779da901b4e88a6b8b17f12f8c",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3672,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106464117672327854778\"\u003eJames Merrill\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvl2l3yLUfYxhXe9jFykvt4PYIQgV4pAVXYJciI0yGWoF8V70ixkVOTXwqV2qW5HCLEHQrG2acxoXqakqMdD8hsICE6XYtCnFzygsD73oyienrML66zUiOtFzC6FLMw9zEhCcWKFm052LACGglXPiSr7kGhRscBrLhmN6IvmvmMt2MeTdxLFADQ",
+               "width" : 4896
+            }
+         ],
+         "place_id" : "ChIJzYzokjIioFMRV-IaRcwZW-k",
+         "plus_code" : {
+            "compound_code" : "GFWG+MV Edmonton, AB, Canada",
+            "global_code" : "9558GFWG+MV"
+         },
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "ChIJzYzokjIioFMRV-IaRcwZW-k",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1151,
+         "vicinity" : "11660 104 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.544398,
+               "lng" : -113.5123191
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5458524802915,
+                  "lng" : -113.5109700697085
+               },
+               "southwest" : {
+                  "lat" : 53.5431545197085,
+                  "lng" : -113.5136680302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ed7c2fd6b755e954a2c400dee354ddf3e84969db",
+         "name" : "Blue Willow Restaurant Ltd",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115980807037983459795\"\u003eAlfred Lam\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsHWEgkvSPJyH5na941tq9RHpc1GGHLROuYqL0kfGFTahR_8p2k6vDOt_q8jze_nTQmhNqQcwOqNCpI0qn9dtT1QWthM-8FMPElis6M9_nUoFinQpTlRGQb2Po_wiDcSoEhATpeDNI8Ebu_90SwzEsFweGhShU-JjfqFvRTsb2rugUxooVty2Ig",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJASeeoTYioFMRQuVtHSwFHSI",
+         "plus_code" : {
+            "compound_code" : "GFVQ+Q3 Edmonton, AB, Canada",
+            "global_code" : "9558GFVQ+Q3"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJASeeoTYioFMRQuVtHSwFHSI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 155,
+         "vicinity" : "11107 103 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.541303,
+               "lng" : -113.526281
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5424749302915,
+                  "lng" : -113.5249302697085
+               },
+               "southwest" : {
+                  "lat" : 53.5397769697085,
+                  "lng" : -113.5276282302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7322e5a7072055d9916d34c5ede5df26d54d38e0",
+         "name" : "Earls Kitchen + Bar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116035101922570980442\"\u003eEarls Kitchen + Bar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjF2faTtNvbeVlKJG4_6LkgdHBusoHCTjTEwX7pzgULgBNgqNaedjoUF5DuD4vIbh-omnpvclgdxdZySaK8kxze9lF9tX7zAgwDc_cg5azQvWlgohze4xjUhBK7F_XC-MEhBdMpII4o9Z_k6VDrEzgegPGhSA3u-MqmYSW7rOd8k5G9zeHWTzGA",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJl-WGkS4ioFMR-F6dt-w0Be0",
+         "plus_code" : {
+            "compound_code" : "GFRF+GF Edmonton, AB, Canada",
+            "global_code" : "9558GFRF+GF"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJl-WGkS4ioFMR-F6dt-w0Be0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1411,
+         "vicinity" : "11830 Jasper Avenue, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.54590899999999,
+               "lng" : -113.509971
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5472561802915,
+                  "lng" : -113.5087562697085
+               },
+               "southwest" : {
+                  "lat" : 53.5445582197085,
+                  "lng" : -113.5114542302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8c69049ff3a7739b3a2f810c8e1ee9b27d2d35f8",
+         "name" : "The Canadian Brewhouse (Downtown Edmonton)",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2896,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102234515576197737635\"\u003eAyanda\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACEsi18Tq4TIxLbTpQ_fGzTxnOy4ka5Y-0LtnCPmi41lwgGl8jcEjdoeHMiOarC_4oO5LkhgU9vKFf0Bm-xOW7MrbqE2LTZ2iP9r9_SA9wVUwLLnqjOkJwtm6vAMAe7qMEhD3MCnELF8EZcH0Nc0PAZmFGhRt8J6ZHIqvpPUuRtr10GbHWG1V4g",
+               "width" : 5152
+            }
+         ],
+         "place_id" : "ChIJAeR90DUioFMRYorUM3RbhNs",
+         "plus_code" : {
+            "compound_code" : "GFWR+92 Edmonton, AB, Canada",
+            "global_code" : "9558GFWR+92"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJAeR90DUioFMRYorUM3RbhNs",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "bar", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1183,
+         "vicinity" : "10338 109 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.54075619999999,
+               "lng" : -113.5224151
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5421735802915,
+                  "lng" : -113.5210664197085
+               },
+               "southwest" : {
+                  "lat" : 53.5394756197085,
+                  "lng" : -113.5237643802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "12bd269ba811b5836980721a5094ebb210166e0c",
+         "name" : "Normand's Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115066965602342453090\"\u003eKp Loo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAksLGVr-V_mLjH-0Be5YzAF-N__FQMK01Q4Ma5-ydiCtQdn4JePS9uzYaTMat14N3qhnTAgJn_mWycDwqc1_pb9Blaz-rtLMBWa3iGbife55PwK6pWbwj9bqkLqzVlFbhEhCVvZHRSOwISQoqpoh0AXUhGhRoU7OgUHumR6NH7u_tCt9cEdK_Ww",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJbSCGOS4ioFMRKw7fiscLJAs",
+         "plus_code" : {
+            "compound_code" : "GFRH+82 Edmonton, AB, Canada",
+            "global_code" : "9558GFRH+82"
+         },
+         "price_level" : 3,
+         "rating" : 4.7,
+         "reference" : "ChIJbSCGOS4ioFMRKw7fiscLJAs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "meal_takeaway",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 414,
+         "vicinity" : "11639 Jasper Avenue, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5591512,
+               "lng" : -113.5365593
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.56038128029149,
+                  "lng" : -113.5352151697085
+               },
+               "southwest" : {
+                  "lat" : 53.5576833197085,
+                  "lng" : -113.5379131302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2aa59ecf6ad075efdb668cd6f11f0349d648addb",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115865005903205022581\"\u003eNathan Evenson\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjkiOIjX6MvX8SURTFktUC1UY5hwIj1QMPxrcEnpdZzZNeXNYGrozKqg_mKYTGlcSKvY2TumRI9g8QjpCfSFZFs2GnKuQIn98WbA1HLRx0uSTaP_56rs6vvY57UqXY1o4EhC9tnXFRUGalkRFUsDWbyiBGhRDExRDz3FhC2Q2yn-CA5XR7txLbg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJAVHTNsUjoFMRy3IYf9qs0as",
+         "plus_code" : {
+            "compound_code" : "HF57+M9 Edmonton, AB, Canada",
+            "global_code" : "9558HF57+M9"
+         },
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "ChIJAVHTNsUjoFMRy3IYf9qs0as",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 423,
+         "vicinity" : "12408 111 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.55169299999999,
+               "lng" : -113.535626
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5530429302915,
+                  "lng" : -113.5344257697085
+               },
+               "southwest" : {
+                  "lat" : 53.5503449697085,
+                  "lng" : -113.5371237302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "70865d96d86247e55681986588969392c03e00dc",
+         "name" : "Koutouki",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108566216319546979809\"\u003eKyle Giesbrecht\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAhvgeoyTBTUuTFn2EtO7pMTlEk11XYSP9yRzA5SRa5V1FrQHX_JRetqhCgu6Ua_JCVEndsjsX5BYWiwKye7ntXWYvh9MzZDnEeUGrbXCIE2kEgLI6G_ZitI13b3CGnxk6EhABZv4ksBAzJUwnDNgSLojTGhSqaxv69MAv6DBSu-dQHOQhAkOH9w",
+               "width" : 4928
+            }
+         ],
+         "place_id" : "ChIJ-1F_ftEjoFMREmTV18vI4Fg",
+         "plus_code" : {
+            "compound_code" : "HF27+MP Edmonton, AB, Canada",
+            "global_code" : "9558HF27+MP"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJ-1F_ftEjoFMREmTV18vI4Fg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 294,
+         "vicinity" : "10719 124 Street, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5458995,
+               "lng" : -113.5201834
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5472984302915,
+                  "lng" : -113.5188349697085
+               },
+               "southwest" : {
+                  "lat" : 53.5446004697085,
+                  "lng" : -113.5215329302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "05722cc50c216ddcbf0d7eb4e412a58ebb30653e",
+         "name" : "Pizza Hut",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116428236354634585244\"\u003eRob Armstrong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAk2YR2l7V1XGgCZS8YKrufCwJhJejv05QmMg4UQxHHH7OTCzhb5P1eD_VKEf5UZ5_DKibtzDS5nkA8E256EiG4Fg39vSE-8CVpxOMG8zzlOhes4aKoo5zw0YxKY5VZzwOEhCICEMKuBv98cXj8RBKOnLMGhQ_ogVwJrR-iG2kpz5ndOe7IfvSTw",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJjzb_ADMioFMRuvBUvgBb70Q",
+         "plus_code" : {
+            "compound_code" : "GFWH+9W Edmonton, AB, Canada",
+            "global_code" : "9558GFWH+9W"
+         },
+         "price_level" : 2,
+         "rating" : 2.9,
+         "reference" : "ChIJjzb_ADMioFMRuvBUvgBb70Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 114,
+         "vicinity" : "11515 104 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.54133100000001,
+               "lng" : -113.5253171
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5426798302915,
+                  "lng" : -113.5237988197085
+               },
+               "southwest" : {
+                  "lat" : 53.53998186970851,
+                  "lng" : -113.5264967802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6c66549a3093604236acde1592da4684c7fda538",
+         "name" : "IL Shish Shawarma",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113189799723664690384\"\u003eIL Shish Shawarma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2VptKoG4WZX9hOebkFWW9D-o3Cz3eqbvnw-GPT6jZswNQ0p7fkuIQVM6B9pvM7hZNlG-VKAzWemIs-VAoBdcRx8OAhckitlMB72ShcAYkzF4lTP_fq1DaiDoJ4ZVPtF7EhDe73HJpFjcEkm7x4t0FmONGhRbthJtDNonWBUP42O2BUZlEyPnQw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJBbugF6cjoFMR9axCcKhY8kM",
+         "plus_code" : {
+            "compound_code" : "GFRF+GV Edmonton, AB, Canada",
+            "global_code" : "9558GFRF+GV"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJBbugF6cjoFMR9axCcKhY8kM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 541,
+         "vicinity" : "10106 118 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.549555,
+               "lng" : -113.5362653
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5509038302915,
+                  "lng" : -113.5347449197085
+               },
+               "southwest" : {
+                  "lat" : 53.5482058697085,
+                  "lng" : -113.5374428802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9c84da1ea2f60327ee552488ce196e823fac3fa4",
+         "name" : "Albert's Family Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1027,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116061331844136850972\"\u003ePaul Sickleville\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAX0opyWUJfe5dJ5gvO4V3r95rydMZ4ZCYuAvofxXDcXoLw4pOZ1lYCpnBc95ERTDBZc6cPsmLaLH6LJVxqtw5BCeLBmqVAVY5cGxKzpfZkNv5Kh8yGomW5h4truBrqQMBEhCFvaX-B_cQKsIjATug4CZMGhSKyNqbEWHXLJbFot87LzZGWRx_Lw",
+               "width" : 1436
+            }
+         ],
+         "place_id" : "ChIJvfOXltMjoFMRxVjLe3xyyOg",
+         "plus_code" : {
+            "compound_code" : "GFX7+RF Edmonton, AB, Canada",
+            "global_code" : "9558GFX7+RF"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJvfOXltMjoFMRxVjLe3xyyOg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 293,
+         "vicinity" : "10604 124 Street, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

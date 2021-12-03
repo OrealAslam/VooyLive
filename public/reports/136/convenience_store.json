@@ -1,0 +1,961 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQEDwIAAFyGg5TiP3P4eNiNtMqxCfGDNvibbnzwN86h_4l-UQbCHMlEGEtL_kuErUXxXvLgO4g2g2jTHNxMEojsfoz4NEHx2UcPTzKhOcA596mTNdnHLJPWaS0dvQGB7xxsKsKRmWvO9ZbirrjpQUwESx6uYt0VG5hRKwBav3s82U-64mA7CR-g6GRpksY_vfsFaJBCm5xyosKkjF3bbRRBJfioqvKGV7VHLPRRpDxEokWgzk4SshNjjqSifbY_LKRk7hV2Gh84wVedX1GdH85WZvC9AqZdUAq8rvGEJ-CmNxKXHBVsdwinRtutPJl2ATroWVSx0f_umYloXOU7muglaXRJOCz_su5Yfy_8Da_50ViVPVMKECtOd52JpdIP7m-Mf87nDn1edjN8GzXhQiUgASFEWkNQeN7UhItpb-aeHEqr5LULcg1J2N_2QYuYq2_3VBvmuSkptKXYaSySTfWfm1SZuXIxajHlzdeUHC3nyL--MFzfCN1wplKfjTpckbsELctQW9-NXtf7_3iEhs9Vy0yWgPkVagnKBjibEmX-J17zynUZYNp8v6kBNL69xIYLsgPf5DpI0J2t9ovBpTzgpn-3fSv6emMGpjnVU6phTP6A4634bzRNygsCJv5__TlUv15O82Bx1hqBSbT8Op2N-DQEHLCol9VHDo5jO3Ce-jsot2XfHjXkke4325GEAFu1DKFTrRIQXUda3n-D2pMYxapSd_TU0xoUTXKjt9JvSiQtur2hdLPpbdEWnBM",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7785674,
+               "lng" : -79.3070463
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7798820802915,
+                  "lng" : -79.30567951970849
+               },
+               "southwest" : {
+                  "lat" : 43.77718411970851,
+                  "lng" : -79.3083774802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "25846a427cbe63277695625840f41a9897358c12",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 903,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114842505477372159901/photos\"\u003eChen Shaowei\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMvL1CVvjl59yZGMXThT7UKp9nNiDEe03-nHesYTt5r1sOZMLpIIRsVJ3kX_ShHJaqWn78nc1h7bJd6sQAThyhLFzAOBWH7rbnUfO6PUuLmgyc88G2k0B3qGdN238uGpqEhCnXs9KXBlyhw9r4EJpMX4OGhSAtxt-0WVxj-5ht_cCLb0IhGyJkw",
+               "width" : 1374
+            }
+         ],
+         "place_id" : "ChIJvfwrsTbS1IkRBHnRpfTA8y0",
+         "plus_code" : {
+            "compound_code" : "QMHV+C5 Toronto, Ontario, Canada",
+            "global_code" : "87M2QMHV+C5"
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "ChIJvfwrsTbS1IkRBHnRpfTA8y0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "convenience_store",
+            "finance",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 33,
+         "vicinity" : "3401 Sheppard Avenue East, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.788659,
+               "lng" : -79.33059519999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.79002243029149,
+                  "lng" : -79.3291843197085
+               },
+               "southwest" : {
+                  "lat" : 43.78732446970849,
+                  "lng" : -79.33188228029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "0a5b03ae393feab080bd6f2ad23afb5e0d29397e",
+         "name" : "Circle K",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103003457560515072931/photos\"\u003eCircle K\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnFbJBxksWGCGzd4tYH9c5d7cmPXv8LFp_-fGaQMqHdIgC29OIzAAlZXsRjN4sM_WFTR_At15DChIZz-TW3vnw4vD3LfZ-nrXsBJ-O_rF0Lfd_AVkRCtT4Xn6LYEYXVPpEhAY3z8rsnwzgYS0Ui3Q9gD4GhTmDhHv8uwPbL8QRRtxL1ntNIXerQ",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJGS6TeKzT1IkRiggeuQAL27E",
+         "plus_code" : {
+            "compound_code" : "QMQ9+FQ Toronto, Ontario, Canada",
+            "global_code" : "87M2QMQ9+FQ"
+         },
+         "price_level" : 1,
+         "rating" : 2.6,
+         "reference" : "ChIJGS6TeKzT1IkRiggeuQAL27E",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "atm",
+            "finance",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 13,
+         "vicinity" : "2826 Victoria Park Avenue, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.793453,
+               "lng" : -79.32459799999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7946935802915,
+                  "lng" : -79.32356706970849
+               },
+               "southwest" : {
+                  "lat" : 43.7919956197085,
+                  "lng" : -79.32626503029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "374f88b4db46360166755e0f35a5e44414875cec",
+         "name" : "OK MART CONVENIENCE",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100387429236747541599/photos\"\u003eOK MART CONVENIENCE\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAZZLBJgVxVevm3O9s_heEDDe2Fdw4U7kyecVl0pB7ouTYB79MAHtKItpLfKK_ZSMbPgfUt9fQTNXj0PnFDECqOynwo6rXIbuIwuYi22NWyFoiayaOJfu6Nrcvh8pndwsREhD6aH9NolvLKArcBB9QVOXdGhRjS7BQWvZeX0RCgu7WPGA2Ee1Gpg",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJdauIPhnT1IkRYOFju-OwFzs",
+         "plus_code" : {
+            "compound_code" : "QMVG+95 Toronto, Ontario, Canada",
+            "global_code" : "87M2QMVG+95"
+         },
+         "rating" : 5,
+         "reference" : "ChIJdauIPhnT1IkRYOFju-OwFzs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "cafe",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "2529 Pharmacy Avenue, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7805657,
+               "lng" : -79.2981755
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.78191323029149,
+                  "lng" : -79.2968258197085
+               },
+               "southwest" : {
+                  "lat" : 43.7792152697085,
+                  "lng" : -79.29952378029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2d51c3a5dbe857a66e81cc3d3c677fa376c84796",
+         "name" : "Rexall",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117516789277519068054/photos\"\u003eUzzi Sultoni\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwtQFghNwHF_cD9okPMBSbreFThrVyRus0I-7wlC_26JkvSUAVWNt150fWrKPQvSxhHjTvfz1XIfUKVUzK4Db2g2d4DXaFD8Mwv-fJKK54bv8maVw2Go4ryKtCtNNPuJXEhCBFwz-HsYGMDbim4d9fmk8GhRYnJ1shCr43F0nW9O0aoQ6nV76hg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ5XTaVCzS1IkRC2GdFmCAqgg",
+         "plus_code" : {
+            "compound_code" : "QPJ2+6P Toronto, Ontario, Canada",
+            "global_code" : "87M2QPJ2+6P"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJ5XTaVCzS1IkRC2GdFmCAqgg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "pharmacy",
+            "convenience_store",
+            "beauty_salon",
+            "store",
+            "health",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 44,
+         "vicinity" : "3607 Sheppard Avenue East, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7726951,
+               "lng" : -79.32084549999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7740140302915,
+                  "lng" : -79.31955911970849
+               },
+               "southwest" : {
+                  "lat" : 43.7713160697085,
+                  "lng" : -79.32225708029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "29866574de3ecf0bef29135bbc1725362692ccb1",
+         "name" : "Express Convenience",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 376,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107342657975545706295/photos\"\u003eExpress Convenience\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArlPYTWWA8hGbqou-kovfPfUgVS8EjdI2HzYJknpdebhwW3iok4CdlNd3j7g84RfsrAbKboLs4pPOURruPx4nAhTAwNiED8mrLbBzlu3LDvBnSrowwxjdQQboGS-FjHOUEhA-nPoSwws9WfjTSfqkP-WRGhTej2Hr9OjU5XEHV80xqNsfVyjeNQ",
+               "width" : 501
+            }
+         ],
+         "place_id" : "ChIJ15ZCjUTS1IkRrs0gLhgpBKc",
+         "plus_code" : {
+            "compound_code" : "QMFH+3M Toronto, Ontario, Canada",
+            "global_code" : "87M2QMFH+3M"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ15ZCjUTS1IkRrs0gLhgpBKc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 7,
+         "vicinity" : "2555 Victoria Park Avenue, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.794416,
+               "lng" : -79.329657
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7958578802915,
+                  "lng" : -79.32834981970849
+               },
+               "southwest" : {
+                  "lat" : 43.7931599197085,
+                  "lng" : -79.3310477802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "01c2e372a4ee61941a99f94f983dd28e89880f7f",
+         "name" : "Guardian Village Square Pharmacy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3410,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114257088960842611653/photos\"\u003eGuardian Village Square Pharmacy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHpLsec26-pchUOOM1pM2q1PsvUwKvTpBV_YrHEU976XuUTg7k8myQ3syMSZcysmLzYgvSeqMbOdvv7rPcL4Sda7ayzneSM6fO4zZvsMJadvbHNyDWopzoA0snPcqfA8oEhDSDm7dadJPiY-LuNkZC2jQGhSgtBDRTSVV-330_QxG6gFeZEiBdg",
+               "width" : 5864
+            }
+         ],
+         "place_id" : "ChIJ1biAKa_T1IkReirph5CZmcM",
+         "plus_code" : {
+            "compound_code" : "QMVC+Q4 Toronto, Ontario, Canada",
+            "global_code" : "87M2QMVC+Q4"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ1biAKa_T1IkReirph5CZmcM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "health",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 24,
+         "vicinity" : "2942 Finch Avenue East, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.79285230000001,
+               "lng" : -79.3306418
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7941970802915,
+                  "lng" : -79.32936946970848
+               },
+               "southwest" : {
+                  "lat" : 43.7914991197085,
+                  "lng" : -79.3320674302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "2e4ac35abe930edee34d66861bcc3c7f78516276",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116163644475799011714/photos\"\u003eF Wong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAz0JHarSkKiWH-K126_rh2kY9-HR-3_m3H9zLuWD0mzUdIHYRvFwn06Z5oNmjtm4g3LDBEqxb3nPIrBVHO0BZ4FYhE-EArGIaY3S8yAzv5cU1yPf_TL9Qdc63g6w9B81cEhBqnYDMbq4cTEjmDKJRTG5bGhRGOnf8q3QhlzRpDlxuvP0hD0SHaw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJud34GanT1IkRd4GnuD97hwM",
+         "plus_code" : {
+            "compound_code" : "QMV9+4P Toronto, Ontario, Canada",
+            "global_code" : "87M2QMV9+4P"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJud34GanT1IkRd4GnuD97hwM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "convenience_store",
+            "car_wash",
+            "finance",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 92,
+         "vicinity" : "3101 Victoria Park Avenue, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7943851,
+               "lng" : -79.32969279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7958371802915,
+                  "lng" : -79.3283902197085
+               },
+               "southwest" : {
+                  "lat" : 43.7931392197085,
+                  "lng" : -79.3310881802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "515ee9f35d37e1e29f0d88a9a3edbe45e93acea4",
+         "name" : "Becker's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104156253802408744327/photos\"\u003eShaowei Chen\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8mazKMxGIZc-7LFiJffyw0_UZV3EmjmCuBQpiIakZsWvEoNEMSR4GfcyvEy2YX3mavNx3-gsWnlioagVgC58acROna52QDs4NHH8yVeT0mZ41uHGVMun6eJO8Apv3vZGEhDBSgmcIHQN1mfE5zLKg2LCGhQq1lwPaKjz2BJGikQZtItaCwV8Uw",
+               "width" : 4208
+            }
+         ],
+         "place_id" : "ChIJf6aOZsfT1IkRPcaJM1t-i6k",
+         "plus_code" : {
+            "compound_code" : "QMVC+Q4 Toronto, Ontario, Canada",
+            "global_code" : "87M2QMVC+Q4"
+         },
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "ChIJf6aOZsfT1IkRPcaJM1t-i6k",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "atm",
+            "finance",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 5,
+         "vicinity" : "2942 Finch Avenue East, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7707116,
+               "lng" : -79.3241108
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7720381802915,
+                  "lng" : -79.32309641970849
+               },
+               "southwest" : {
+                  "lat" : 43.7693402197085,
+                  "lng" : -79.32579438029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "924f27ab38ef272f216fc3f8ee799677dcda4741",
+         "name" : "Kitchen Food Fair",
+         "place_id" : "ChIJyc0ysFzS1IkRHLqG2LZmMO0",
+         "plus_code" : {
+            "compound_code" : "QMCG+79 Toronto, Ontario, Canada",
+            "global_code" : "87M2QMCG+79"
+         },
+         "reference" : "ChIJyc0ysFzS1IkRHLqG2LZmMO0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "505 Consumers Road, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7912765,
+               "lng" : -79.31278379999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7926038302915,
+                  "lng" : -79.31147961970849
+               },
+               "southwest" : {
+                  "lat" : 43.7899058697085,
+                  "lng" : -79.31417758029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "85d42aa4673f7ec6dcc88d264a4d277ec9ac4125",
+         "name" : "Warden Convenience",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104055815630531136866/photos\"\u003eMoiz Khan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAC2aU9cAwQRJMFGjO-z1zqf-cBR9tMNUGuVrMTpa03OSfQAdjQCTpA4peL29LhebzwK5nI8X7aKIY7qSrDXiYx3OEDZpshMkqnuVIVwrx2da6bDEFA8ZngzrGMTXcZNGvEhBCjWLDXepIGpfYSljKiqK8GhSscN9dNu2AYUo0WaBNNrhLpZxYkA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ0y5NpLXT1IkRa1q1dLvxdsY",
+         "plus_code" : {
+            "compound_code" : "QMRP+GV Toronto, Ontario, Canada",
+            "global_code" : "87M2QMRP+GV"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ0y5NpLXT1IkRa1q1dLvxdsY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "2535 Warden Avenue, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7788677,
+               "lng" : -79.308421
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7801023802915,
+                  "lng" : -79.30702151970848
+               },
+               "southwest" : {
+                  "lat" : 43.7774044197085,
+                  "lng" : -79.30971948029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c5b38e959c7f5974cecd62de0bce014e903197af",
+         "name" : "Circle K",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJF4CyvTbS1IkRhoP23cOkuaU",
+         "plus_code" : {
+            "compound_code" : "QMHR+GJ Toronto, Ontario, Canada",
+            "global_code" : "87M2QMHR+GJ"
+         },
+         "price_level" : 1,
+         "reference" : "ChIJF4CyvTbS1IkRhoP23cOkuaU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "3306 Sheppard Avenue East, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7760703,
+               "lng" : -79.3179353
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7774831302915,
+                  "lng" : -79.31659046970849
+               },
+               "southwest" : {
+                  "lat" : 43.7747851697085,
+                  "lng" : -79.31928843029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8540b4991898c914761fc0d4a790a1ece0766737",
+         "name" : "Wishing Well Smoke & Gift",
+         "place_id" : "ChIJFcMLrkjS1IkRg39Bjt2o_UE",
+         "plus_code" : {
+            "compound_code" : "QMGJ+CR Toronto, Ontario, Canada",
+            "global_code" : "87M2QMGJ+CR"
+         },
+         "rating" : 5,
+         "reference" : "ChIJFcMLrkjS1IkRg39Bjt2o_UE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "3009 Sheppard Avenue East, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.78982969999999,
+               "lng" : -79.3029856
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7911538802915,
+                  "lng" : -79.30174626970849
+               },
+               "southwest" : {
+                  "lat" : 43.7884559197085,
+                  "lng" : -79.30444423029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9e1d2a065cda46c8acec26dc6eb2eca15fe50cc0",
+         "name" : "Sunrise Convenience",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJyaHRJM7T1IkR_4yU4-93uhc",
+         "plus_code" : {
+            "compound_code" : "QMQW+WR Toronto, Ontario, Canada",
+            "global_code" : "87M2QMQW+WR"
+         },
+         "rating" : 3,
+         "reference" : "ChIJyaHRJM7T1IkR_4yU4-93uhc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "2594 Birchmount Road, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7760256,
+               "lng" : -79.3220321
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7773842302915,
+                  "lng" : -79.32064816970849
+               },
+               "southwest" : {
+                  "lat" : 43.7746862697085,
+                  "lng" : -79.3233461302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "dab0d5699fa5782029b50fe943962bcfbcb30889",
+         "name" : "HASTY MARKET",
+         "place_id" : "ChIJw4EaY0XS1IkRjnhkUHhkQ2E",
+         "plus_code" : {
+            "compound_code" : "QMGH+C5 Toronto, Ontario, Canada",
+            "global_code" : "87M2QMGH+C5"
+         },
+         "reference" : "ChIJw4EaY0XS1IkRjnhkUHhkQ2E",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "2926 Sheppard Avenue East, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.78349040000001,
+               "lng" : -79.29875389999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7848634802915,
+                  "lng" : -79.29741551970849
+               },
+               "southwest" : {
+                  "lat" : 43.78216551970851,
+                  "lng" : -79.30011348029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "fe8dc5289df8d7db8a316f201ccf8980f23a5ad3",
+         "name" : "Adeeb Convenience Store",
+         "place_id" : "ChIJN3lK1dLT1IkR5FnYSfxlUnc",
+         "plus_code" : {
+            "compound_code" : "QPM2+9F Toronto, Ontario, Canada",
+            "global_code" : "87M2QPM2+9F"
+         },
+         "rating" : 1,
+         "reference" : "ChIJN3lK1dLT1IkR5FnYSfxlUnc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.78151,
+               "lng" : -79.29900049999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7827947302915,
+                  "lng" : -79.2976282197085
+               },
+               "southwest" : {
+                  "lat" : 43.7800967697085,
+                  "lng" : -79.30032618029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ba4951e9709be15625aa432705a4883aa2caae9b",
+         "name" : "Circle K",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101201530462820975291/photos\"\u003ePedram Jabbari\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWJUzQiD_xDPCjYWOD-4KJglc_R7GLq1LUX_w9ELgo9587znzcS5b7MRBb3xJkGQBuXsP8pvE9Rp79NIWR4VD3hvB1gxV_8n6ISQZukvNb5NIQSOE-cgMXCoJbgp83PMoEhATvo_b5ky_QPbtPLV10ruGGhTVVQLUpkuiN9cMK8xY5fncOTW-iA",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJvy8mVizS1IkRXQI94XeiKcY",
+         "plus_code" : {
+            "compound_code" : "QPJ2+J9 Toronto, Ontario, Canada",
+            "global_code" : "87M2QPJ2+J9"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJvy8mVizS1IkRXQI94XeiKcY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "car_wash",
+            "gas_station",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 3,
+         "vicinity" : "3600 Sheppard Avenue East, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7877083,
+               "lng" : -79.32994979999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7889897302915,
+                  "lng" : -79.32873601970849
+               },
+               "southwest" : {
+                  "lat" : 43.7862917697085,
+                  "lng" : -79.33143398029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2e4a6c2a70fec4cc56077d9dbc11d1c352ed0734",
+         "name" : "Dollar Zone",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104930994612244247330/photos\"\u003eGrant Fitz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEdS7pH1epn5mutbYCHKxsBJCDdRZ2iC3bgmWKWrTNruqCPfxODhz0v5OJJ0JSdQhV5JVYVBmuZvRBCBcnne7k9a_XwLtPgWvC78-wOsUabFZdWB6EdBjwNIiM-IIIQsYEhDl6zcOQsQs9M4ZXprmBhlmGhQHtnqatRdiSzvn71h31Q8X7dJxVA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJhw4mf6zT1IkR77SOiPNkl14",
+         "plus_code" : {
+            "compound_code" : "QMQC+32 Toronto, Ontario, Canada",
+            "global_code" : "87M2QMQC+32"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJhw4mf6zT1IkR77SOiPNkl14",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 16,
+         "vicinity" : "2782 Victoria Park Avenue, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.77965589999999,
+               "lng" : -79.2978689
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7810585302915,
+                  "lng" : -79.29643486970849
+               },
+               "southwest" : {
+                  "lat" : 43.7783605697085,
+                  "lng" : -79.2991328302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "1f223bde6a8374344365cf7dd325f9e9a6f4bea5",
+         "name" : "Lucky Convenience And Bargain",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108797071526475115698/photos\"\u003eDavid Maxwell\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-W1mAJex45ZG5iqbu57JARl4yuOOuMkoBgp0DUVdgasrAXvKercx8UJyqPp6UGCqr0XvH5lgccDXhI7fcW-lBYZ2_KfGfTF1VqZGmTrQXYGxKBnB3Cml2RqCHT4enRedEhDbO8O7cDR2ULRIob1UT3_VGhTw8B6EcdCFZkDzluFoaUCU9eh7QQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJnWoWOSzS1IkR82yGF0g3xlM",
+         "plus_code" : {
+            "compound_code" : "QPH2+VV Toronto, Ontario, Canada",
+            "global_code" : "87M2QPH2+VV"
+         },
+         "rating" : 5,
+         "reference" : "ChIJnWoWOSzS1IkR82yGF0g3xlM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "2244 Birchmount Road, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7725704,
+               "lng" : -79.32781489999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7737679802915,
+                  "lng" : -79.32640276970849
+               },
+               "southwest" : {
+                  "lat" : 43.7710700197085,
+                  "lng" : -79.3291007302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "6ec36832463fd40e2b658fc89a61bb8a13bd2ee6",
+         "name" : "Clarkes",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108797071526475115698/photos\"\u003eDavid Maxwell\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAF601V4kcuMEcxau_kQlFFZpS5mgkX0KRYhU5tchSpLB7G2nTrm-RpC283o7sv9rrrBItwTUSFQ5Af87RCwiRbkn5GkHOy4CtzJJwPRLDYNHKBGfooeypWyzO9eXMJJG7EhCJ7dS7GtmTaFSvrxLdqL58GhTCRqinmF-c6r5HaWk3OmM8N6SNLA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJbQEiM1rS1IkRonfFaP72__0",
+         "plus_code" : {
+            "compound_code" : "QMFC+2V Toronto, Ontario, Canada",
+            "global_code" : "87M2QMFC+2V"
+         },
+         "rating" : 5,
+         "reference" : "ChIJbQEiM1rS1IkRonfFaP72__0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "2235 Sheppard Av E, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7975404,
+               "lng" : -79.3047864
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.79874333029149,
+                  "lng" : -79.30337076970851
+               },
+               "southwest" : {
+                  "lat" : 43.7960453697085,
+                  "lng" : -79.30606873029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "7c8ab56db489c6872936f7484910938269855447",
+         "name" : "New Quality Convenience",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJmWspaMTT1IkRzhWfe4zpXGY",
+         "plus_code" : {
+            "compound_code" : "QMXW+23 Toronto, Ontario, Canada",
+            "global_code" : "87M2QMXW+23"
+         },
+         "rating" : 4,
+         "reference" : "ChIJmWspaMTT1IkRzhWfe4zpXGY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "331 Glendower Circuit, Scarborough"
+      }
+   ],
+   "status" : "OK"
+}

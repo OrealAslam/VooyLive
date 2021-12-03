@@ -1,0 +1,639 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4532249,
+               "lng" : -113.4269204
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4545888802915,
+                  "lng" : -113.4254645697085
+               },
+               "southwest" : {
+                  "lat" : 53.4518909197085,
+                  "lng" : -113.4281625302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107117987141592631514\"\u003eJoe Jo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIKuvUKdsuNJbZ6KkDNWQAVtbd3Y2xvCaic9QJsqLSwfXtf6iX3xCc-NPGAZpIJ0CGahr1LZKznyobzg4fIwzdjiZhmK20xMCi3HNg-OVc6eCqsqAyaSIJshCzq57aNtNoDlqel82Wx4aoHVSOU5AeMS0ueREagHQU5LfPcVennDA2v",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJbyR-gEAZoFMRb-ncb-tNwOs",
+         "plus_code" : {
+            "compound_code" : "FH3F+76 Edmonton, AB, Canada",
+            "global_code" : "9558FH3F+76"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJbyR-gEAZoFMRb-ncb-tNwOs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 14,
+         "vicinity" : "5661 23 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4533999,
+               "lng" : -113.4269497
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.45480853029149,
+                  "lng" : -113.4256224697085
+               },
+               "southwest" : {
+                  "lat" : 53.45211056970849,
+                  "lng" : -113.4283204302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107117987141592631514\"\u003eJoe Jo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL0Hd9metc2LXNa7jg285VcbHu4uEARLvEKrTgLCQs0Gmwb0T2AmpwVhvgmfqjJabNscPXdXcPIU01ae9hXaNzUPvoxzngry6plsDL_OTXCqoRaAmvQU6-t4MyrCrdvO2AfattTJz_VzkBPIzrwP-7Es7FQV0FKnrJhWwrMRyMnyl2X",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJYbCqYkAZoFMRM0IMnkh4zBc",
+         "plus_code" : {
+            "compound_code" : "FH3F+96 Edmonton, AB, Canada",
+            "global_code" : "9558FH3F+96"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJYbCqYkAZoFMRM0IMnkh4zBc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 95,
+         "vicinity" : "5661 23 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4550502,
+               "lng" : -113.4210247
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4565429302915,
+                  "lng" : -113.4198065697085
+               },
+               "southwest" : {
+                  "lat" : 53.4538449697085,
+                  "lng" : -113.4225045302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3144,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111747720618998821575\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ-KISFvQXUVHDqTHWf-CJMjFAWLndw3qmXm1xGAFj9iX4W3lR6NyY77qnBGu5Y1VT8-Ox1xP7GcOCOUGq76mfmWbGXsTYGn8X8FNlIjKtAmgoPIY11h70AblfUnG34vSEMUDljOWFq-IfOrygoefwwXF0qBIS0LB7-Wk7aua1qGN5V",
+               "width" : 3144
+            }
+         ],
+         "place_id" : "ChIJa4Q7MxUZoFMRYx4StEP6Zf4",
+         "plus_code" : {
+            "compound_code" : "FH4H+2H Edmonton, AB, Canada",
+            "global_code" : "9558FH4H+2H"
+         },
+         "rating" : 1.7,
+         "reference" : "ChIJa4Q7MxUZoFMRYx4StEP6Zf4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 6,
+         "vicinity" : "2308 50 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.448775,
+               "lng" : -113.4507865
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4500139302915,
+                  "lng" : -113.4492218197085
+               },
+               "southwest" : {
+                  "lat" : 53.4473159697085,
+                  "lng" : -113.4519197802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111185026246712500612\"\u003eRahul Sharma\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLkXposeTMJ7zyDI-hqHxHeO0TXaz9ekaI1XpHqSe1mAgvZvg0zd8xhmXaVLuels0PFcq7-x-PpTpcFuSoFJ2GUCRk_gQvdigD7Uh_HywRAW__I6j_CJCHx_9UpCk-BzlVSDVLx_apbiBoHQCUi_GMdb-i_qBINt8Skc7lAYer2oMkD",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJAx6shjgZoFMRHPncz4o9W58",
+         "plus_code" : {
+            "compound_code" : "CGXX+GM Edmonton, AB, Canada",
+            "global_code" : "9558CGXX+GM"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJAx6shjgZoFMRHPncz4o9W58",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "car_wash",
+            "meal_delivery",
+            "finance",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 64,
+         "vicinity" : "1968 Mill Woods Road Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.45904299999999,
+               "lng" : -113.4476624
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4604702802915,
+                  "lng" : -113.4462045697085
+               },
+               "southwest" : {
+                  "lat" : 53.4577723197085,
+                  "lng" : -113.4489025302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112606970827624153109\"\u003eDavid Seutter\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKEk11L6R5tJtyR5xADoYyn-0IXb4m_fSiIe_bieUzuMfxuJw9NBl7gGU1_grAN5dlWGF6OwgjMdUh2u5a29O2_Eieqhm9Hfjy4EgnHVP0V086KW5z-PJOj0w-CL8zEhWmRxB3hPLpKggLNJ7Wvdbum-4S5Qt7mh5bnl1Pt-zN5k3i6",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ0cqUaDAZoFMR9voVW0DLIow",
+         "plus_code" : {
+            "compound_code" : "FH52+JW Edmonton, AB, Canada",
+            "global_code" : "9558FH52+JW"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJ0cqUaDAZoFMR9voVW0DLIow",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 23,
+         "vicinity" : "2803 Mill Woods Road Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4456425,
+               "lng" : -113.4181015
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4471320802915,
+                  "lng" : -113.4167869197085
+               },
+               "southwest" : {
+                  "lat" : 53.4444341197085,
+                  "lng" : -113.4194848802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2522,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108287941463956135519\"\u003eRichard Kiefl\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLHiee31p-GJf5Bofdx-WP7YueaKdjZ149yAK1xHCcO5OSFAIgUnH8GhlUcp3xl_sy1EhqE3GYtpQXSpNASgNWcHgoDH8mE7JJWOQELBXr5-p-SZtsKVKpjxPMj-WmVjCQmTzTWw3_9TCcqQwmSMDELoBz4dbwg3Isus0HmWrsUDIc",
+               "width" : 2193
+            }
+         ],
+         "place_id" : "ChIJpYPr6kIZoFMROK8FwxgBUC4",
+         "plus_code" : {
+            "compound_code" : "CHWJ+7Q Edmonton, AB, Canada",
+            "global_code" : "9558CHWJ+7Q"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJpYPr6kIZoFMROK8FwxgBUC4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "car_wash",
+            "meal_delivery",
+            "finance",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 116,
+         "vicinity" : "4933 Mill Woods Road South, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.455147,
+               "lng" : -113.421102
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4565983302915,
+                  "lng" : -113.4197886697085
+               },
+               "southwest" : {
+                  "lat" : 53.4539003697085,
+                  "lng" : -113.4224866302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "ESSO 7-Eleven 37824",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1938,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109339704651273913033\"\u003eNorm Kerychuk\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLAEk4gpMt9Hl-ymtSdamdR-982Rad1vnHfrO9NOCdBupg7JKzmDK-coxBrXFSGnv1uG_yb63HMyjLAIGmLXqmrTrjyDJ1ZUzvGbZJa8ZsR-Z3SlLePAb8bMnPw3zhOziT4GnETEgjKrOiB0RcC8UIfI4hdKq43FUylYtEsnuPZjPOH",
+               "width" : 4065
+            }
+         ],
+         "place_id" : "ChIJs2BrLhUZoFMRUJSwzcT51E4",
+         "plus_code" : {
+            "compound_code" : "FH4H+3H Edmonton, AB, Canada",
+            "global_code" : "9558FH4H+3H"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJs2BrLhUZoFMRUJSwzcT51E4",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 161,
+         "vicinity" : "2308 50 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4516153,
+               "lng" : -113.4285856
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4529642802915,
+                  "lng" : -113.4271908197085
+               },
+               "southwest" : {
+                  "lat" : 53.4502663197085,
+                  "lng" : -113.4298887802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "TrueValue Gas Station and Convenience Store",
+         "place_id" : "ChIJ6-7FfdkZoFMRGLygUoXquhM",
+         "plus_code" : {
+            "compound_code" : "FH2C+JH Edmonton, AB, Canada",
+            "global_code" : "9558FH2C+JH"
+         },
+         "reference" : "ChIJ6-7FfdkZoFMRGLygUoXquhM",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "5734 19A Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.454876,
+               "lng" : -113.426862
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4561837802915,
+                  "lng" : -113.4255086197085
+               },
+               "southwest" : {
+                  "lat" : 53.4534858197085,
+                  "lng" : -113.4282065802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Quick Oil Change",
+         "photos" : [
+            {
+               "height" : 270,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110405650188080860648\"\u003eSj Tharma\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJPNweIq2mn-s2LUjsu45BFadzFXAFSjarBRTTK_qPOP93wN30dow2vQiKIMRRgVM0jY5B-ilf85o6F7GNrABfr6-eE2-8WJ9M012RY89aRrn9wSs0abA6CqYvPm3Uj912GjUnruH4rBWo5BBZpEnnu2dsQuM3eu2jG3B8XdjQBl4UX",
+               "width" : 832
+            }
+         ],
+         "place_id" : "ChIJQ_EekT8ZoFMRDIdvjuZXmls",
+         "plus_code" : {
+            "compound_code" : "FH3F+X7 Edmonton, AB, Canada",
+            "global_code" : "9558FH3F+X7"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJQ_EekT8ZoFMRDIdvjuZXmls",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "5728 23 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.45563,
+               "lng" : -113.42054
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.45697148029149,
+                  "lng" : -113.4191867697085
+               },
+               "southwest" : {
+                  "lat" : 53.45427351970849,
+                  "lng" : -113.4218847302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Esso",
+         "place_id" : "ChIJl3BjLhUZoFMRV12UaPCJZ3g",
+         "plus_code" : {
+            "compound_code" : "FH4H+7Q Edmonton, AB, Canada",
+            "global_code" : "9558FH4H+7Q"
+         },
+         "reference" : "ChIJl3BjLhUZoFMRV12UaPCJZ3g",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "2308 50 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4596735,
+               "lng" : -113.4336574
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4610183302915,
+                  "lng" : -113.4322753697085
+               },
+               "southwest" : {
+                  "lat" : 53.4583203697085,
+                  "lng" : -113.4349733302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "petro canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107583913440944641570\"\u003etejinder singh\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJTUIsAVFFKXCfVB-JtlRink4FUlA4ImVVeqcXisFdrTZvD1_0jISotID7KFFoWSxPFMGs_AOMI2ZgmxnpnmhrkikrQVbPY7tPUkgRsLqGAGpSc2Q8L5i89YPZ-xhbU_muAj_iikfmKoqgzb0x2_oVOrQoRhLjwYzLo5nAVerKr4ny0",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJY_clSDwZoFMRS6dwk1pZ7pE",
+         "plus_code" : {
+            "compound_code" : "FH58+VG Edmonton, AB, Canada",
+            "global_code" : "9558FH58+VG"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJY_clSDwZoFMRS6dwk1pZ7pE",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "2831 66 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4452876,
+               "lng" : -113.4304406
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4467996802915,
+                  "lng" : -113.4290588697085
+               },
+               "southwest" : {
+                  "lat" : 53.4441017197085,
+                  "lng" : -113.4317568302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "ESSO CIRCLE K",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ84yLFcIZoFMRHgBpZmfPZDo",
+         "plus_code" : {
+            "compound_code" : "CHW9+4R Edmonton, AB, Canada",
+            "global_code" : "9558CHW9+4R"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ84yLFcIZoFMRHgBpZmfPZDo",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "6009 Mill Woods Road South, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4465369,
+               "lng" : -113.4522057
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4478987802915,
+                  "lng" : -113.4507824197085
+               },
+               "southwest" : {
+                  "lat" : 53.4452008197085,
+                  "lng" : -113.4534803802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3144,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104901392151517807627\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIsDy2T07vlM3MOzMDXV_nU-h2CibsGLlhZuDeA4P-ydnwxza5sgmI8gUoX0A0dzGV1Lqmmzbue7EMFdyNe3YHCORZReklnToUfNSISb3BcRbZ-cUDvzPN6f49DyktqpQtsddFKk7_2Zr-l0QG1TDudr1W8zrzAclk7-1PtrgeyE1pH",
+               "width" : 3144
+            }
+         ],
+         "place_id" : "ChIJd9yZbjAZoFMRiZ_0NKlRwno",
+         "plus_code" : {
+            "compound_code" : "CGWX+J4 Edmonton, AB, Canada",
+            "global_code" : "9558CGWX+J4"
+         },
+         "rating" : 2.8,
+         "reference" : "ChIJd9yZbjAZoFMRiZ_0NKlRwno",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 12,
+         "vicinity" : "1704 Mill Woods Road Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4444595,
+               "lng" : -113.4023514
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4457227802915,
+                  "lng" : -113.4010827697085
+               },
+               "southwest" : {
+                  "lat" : 53.4430248197085,
+                  "lng" : -113.4037807302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "DISCOUNT GAS",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJHdu2SmQZoFMR53TzRfsjxmE",
+         "plus_code" : {
+            "compound_code" : "CHVX+Q3 Edmonton, AB, Canada",
+            "global_code" : "9558CHVX+Q3"
+         },
+         "rating" : 1.8,
+         "reference" : "ChIJHdu2SmQZoFMR53TzRfsjxmE",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "1549 Mill Woods Road East, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

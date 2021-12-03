@@ -1,0 +1,135 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4611743,
+               "lng" : -113.5289125
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.46241733029149,
+                  "lng" : -113.5274480697085
+               },
+               "southwest" : {
+                  "lat" : 53.45971936970849,
+                  "lng" : -113.5301460302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ae85c39e761a08c4668f2cb3804675df0b36058c",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113733863046204867441/photos\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAuNRCZAZrETtOZmwqzDNhQp2sk62quUkZsJFKbj5710BpusMXzaG87ZaKLgvvV-4HfL_UDRCFIrr-c74PHlPcTDzP3-BOPqxdlvnLQwUID5WZ9iY9_WuxYIY63vLP0lr_EhA0aae62cIBupEY1cN0DETFGhSidLyVXRZ38Nwgl7o2em2ui0OVTg",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ1d72hQMfoFMRhT6gKaoWNDo",
+         "plus_code" : {
+            "compound_code" : "FF6C+FC Edmonton, Alberta, Canada",
+            "global_code" : "9558FF6C+FC"
+         },
+         "rating" : 4.2,
+         "reference" : "CmRRAAAA6JQ5NKdmPuGL1KEqPMIRB-0isKve6Telu1CVllWIsK6TaCpYJk8boDR-3-Q2P2zu_2FB5WCVjfwIb8Phol36Nn-NTHYrCEvL_39XEeRCsN3hlWZeANRxTX3RiZN7BTgUEhBsPixnYwrXHxyUwtGwBNaGGhSGbFpUzKimMod7ru0VGNwiuyOsaA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "280 Saddleback Road Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4886192,
+               "lng" : -113.541637
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4899685802915,
+                  "lng" : -113.5400853197085
+               },
+               "southwest" : {
+                  "lat" : 53.4872706197085,
+                  "lng" : -113.5427832802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "f1acb9467466c69f077b45b896e0721a85a8a97c",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3984,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112635136715187697057/photos\"\u003eShawn Fraser\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAI5Yw9EC43jEB_f-D6oMRggYpx9CmSox8Q7X-pmkpuTUAvqZkE0HVyeIMDdXh_OUINTuufVaN9r2Pk-ET_EJh4K-HV9x756hEek_8eJGkv3-itwuZVpnNguTyItrVdDchEhBSZR00CLptzjFmh9BesZXCGhT7AEEL5LyR7-egZhN6FTXykx_UOg",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJuyBW62UfoFMRql4X2jWhjgI",
+         "plus_code" : {
+            "compound_code" : "FFQ5+C8 Edmonton, Alberta, Canada",
+            "global_code" : "9558FFQ5+C8"
+         },
+         "rating" : 3.9,
+         "reference" : "CmRRAAAAERBzd1z6mndwp0g3GVpYVuAcX9pno4govUFw1WhajNUpdZJuRzX9VRsca2UTpQ0sah270II9HvsyI4CWq8VOYAbFFWTys7YFRapLYcSqgAz4nIS8E9LUW4XJGFWRTrLVEhCJ5TXXpz69po18Ggr2Oc3VGhTORVA_4WoNSbdMjHoUt724HAX3Ag",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "5110 122 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.46034849999999,
+               "lng" : -113.5299513
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.46166383029149,
+                  "lng" : -113.5284627197085
+               },
+               "southwest" : {
+                  "lat" : 53.45896586970849,
+                  "lng" : -113.5311606802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "4a07241857968988a2ebd0ef3c3fdd654fed948a",
+         "name" : "Domo",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJnZKb7AMfoFMRllHoonTA47w",
+         "plus_code" : {
+            "compound_code" : "FF6C+42 Edmonton, Alberta, Canada",
+            "global_code" : "9558FF6C+42"
+         },
+         "rating" : 4.1,
+         "reference" : "CmRSAAAAFyT1dAmi4njQGswFMn79RvnFOze6Ja4YwOsPJQJysLr5v5F9gNFkBZzQXIov6C4nXiIENya0dBUWoMKnQArhY9lFQhpLGH6EZGaXJfAjpt51h94Ge6TdNyLw8Tf2Q8ENEhD3-jpoasdNP6ozrSfpBmekGhSkGQYRNQ9gAHwKsGuhW2HeunxojA",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "348 Saddleback Road Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

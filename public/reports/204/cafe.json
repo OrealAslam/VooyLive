@@ -1,0 +1,967 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwJohnthD8B6pbKj2Wv3AXkG9HMGsyh8k_BdBxY5xgkZnchpv1C8Zund3fOdcaBZR9bwhzi9v2Jo11wlkZlgbhB8dFvyC_UiksFNe733TQFTLcFkRlIQPvuyc1aC5zPVGjRVaIMCJ1tSOerzM8M24NqVR13ROEiUYWD3lE1OaEUZOyc3dZHfpDD84OTsM1FTxbq2coxjmq-_1P0U2dTjM2RLfFrDE-YHpdgOKiQXwP8-ew7X0KaiB7-R9XA3tmrDS9iW3bno9sWFz5bzI095SuMLM6TUn-UGaWzOYeyvV0RB4a1o5G7ucij6u4Cnp-R2LAzhjnuJnipYC90LncDKzVqltZBs0AmEMMCRm50ayQLPcKDuN2UTjg-vr-bdwXXu6K9KnEEhMNZ_1CFAG_QtrqtFBwtG40lpa9-hulH7uVMChx6yrgekkwEmrQMtYDu7Aul1He2VytcF-GHBLfbpDRr_Zkl-loiV7Ng9mZTAUj6c7cvzBNyGWpHOQVeAEdIqTU3Z7DVoR4UBfuWQn59RGxIXT7EsCXrv98mTnNAyTA9k79_KkSIY6Cc6zSFCU2j9-fHL_n4HZWL8HHYx_EqQU6tZy2efmBzzeka1Tuc51y7jENqFKCAcIPggsk45IKVtvJEaIIJehGgDpV766TJplWNd39dUg4QTEpANJVrHvbE8CPCKmXwJ_3iOR0ozWKtX1ppqKVWHyywv3dO6ySdjnYv1s58czcerDNPA33h-8yVHwOuU7wJ27TrXgw",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2718666,
+               "lng" : -123.1006106
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2731832802915,
+                  "lng" : -123.0990631197085
+               },
+               "southwest" : {
+                  "lat" : 49.2704853197085,
+                  "lng" : -123.1017610802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111130731388480526342\"\u003eA. Munaf Mughal\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwINlTQbAgwIapvpCy2BJbRI2j7XYZMGO5SqFEHG8z2NRPsA12J8b8ykqe8_VAmF4eW6EQzlvypePKAHWM4Z_dn6W9-lOA-Ia1pNMyoAhHBxDIlAisNn9bz_LriKUKCYA-AJhjHMQ5rytIMhiRQL_-eD2XbK0rRpFTiHgS2FcnZjjt8f",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJO1V_sWZxhlQR69RUQ1rHcb0",
+         "plus_code" : {
+            "compound_code" : "7VCX+PQ Vancouver, BC, Canada",
+            "global_code" : "84XR7VCX+PQ"
+         },
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "ChIJO1V_sWZxhlQR69RUQ1rHcb0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3102,
+         "vicinity" : "1527 Main Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.25732230000001,
+               "lng" : -123.0902602
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2586204802915,
+                  "lng" : -123.0889170197085
+               },
+               "southwest" : {
+                  "lat" : 49.25592251970851,
+                  "lng" : -123.0916149802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "name" : "Matchstick Fraser Street",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 799,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101427628446647844882\"\u003eMatchstick Fraser Street\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJvaNN62yxMkIaN_RCt796s7y6LFs8anR3Jlt53p-gMQDKLIDrtWzwp6SX3xsFASBb804DYSUBzFdOu54VVVnMjI7QPcTcS5Oh0qtoKSRH8syQTNg9VzqBwnLkjOP0musHbLbQqZakpl1iXI5c2iJal1TYlK73sMoiz_ivyepDdOAVa",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ0wJ0xFdxhlQRiaPFJzM07W4",
+         "plus_code" : {
+            "compound_code" : "7W45+WV Vancouver, BC, Canada",
+            "global_code" : "84XR7W45+WV"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJ0wJ0xFdxhlQRiaPFJzM07W4",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 764,
+         "vicinity" : "639 East 15th Avenue, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.26241119999999,
+               "lng" : -123.1012008
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2637602302915,
+                  "lng" : -123.0997997197085
+               },
+               "southwest" : {
+                  "lat" : 49.2610622697085,
+                  "lng" : -123.1024976802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "name" : "Kafka's Coffee and Tea",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 428,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115688290520325860030\"\u003eKafka&#39;s Coffee and Tea\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJlhxll2LXknTdR85ZfmMKXGZTvbmGE4tXt4InsLiRBE5K5FqzJSx-jYgG2g1le7EeRyTjQjglRqTXjLjAlJBDHrDgBwZTvLNDFdlMUDwrwP8ynrCn8rgp_d9V5OeYpb4FmEhvY8QCaBI5OH6K_tBfgfoIJwEoFbXC2MXbTr_R8wpBh",
+               "width" : 730
+            }
+         ],
+         "place_id" : "ChIJ6QUgw-FzhlQRCu6qodBnC8I",
+         "plus_code" : {
+            "compound_code" : "7V6X+XG Vancouver, BC, Canada",
+            "global_code" : "84XR7V6X+XG"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJ6QUgw-FzhlQRCu6qodBnC8I",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "art_gallery",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 601,
+         "vicinity" : "2525 Main Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2634212,
+               "lng" : -123.1158681
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.26470353029149,
+                  "lng" : -123.1145206697085
+               },
+               "southwest" : {
+                  "lat" : 49.2620055697085,
+                  "lng" : -123.1172186302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "name" : "Blenz Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105228349541098182324\"\u003eGodwin C\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJb4S16uL_FQfFBuZle-irtNBZunpgtQDeCpMoFhLwb8Uw_dvOyukVMuQPnhmOFVgzh0KE6sZ9rPFSczQpNfvZSyQRv6Gt0F2Fc3-z2PX6NsUYba8YJmZidEDzvsTd7oznFJkoZTvym11FyZB_ewKk4R_2offVejnqrzAf0Lh9tuf70",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJcbdGct1zhlQRMTzZfxga5aU",
+         "plus_code" : {
+            "compound_code" : "7V7M+9M Vancouver, BC, Canada",
+            "global_code" : "84XR7V7M+9M"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJcbdGct1zhlQRMTzZfxga5aU",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 226,
+         "vicinity" : "521 West Broadway, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2624756,
+               "lng" : -123.1007402
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.26381578029149,
+                  "lng" : -123.0994832697085
+               },
+               "southwest" : {
+                  "lat" : 49.2611178197085,
+                  "lng" : -123.1021812302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Bean Around The World",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111506933359790038128\"\u003eRyan Farnsworth\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKorSLgZ8CaLk5XDo5SYvoJF__G6Yr58DfXMnkj0HgXJWoOse0RcP1D_HDNjm4KfhM3CWXdiMQEjg9maEHHPnUhtr--Fb1yqfSElqCt5rIdlNsAZgoukZxaiXIxNNxRGOQ7_NkZyqPqkZYeTXG6zZWCc8Iwsx1rRBTKSWoAh-l3tOCE",
+               "width" : 3480
+            }
+         ],
+         "place_id" : "ChIJf0IswuFzhlQR2sBIAYAXwa8",
+         "plus_code" : {
+            "compound_code" : "7V6X+XP Vancouver, BC, Canada",
+            "global_code" : "84XR7V6X+XP"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJf0IswuFzhlQR2sBIAYAXwa8",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 210,
+         "vicinity" : "2528 Main Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2671849,
+               "lng" : -123.0998599
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2685934302915,
+                  "lng" : -123.0985092697085
+               },
+               "southwest" : {
+                  "lat" : 49.2658954697085,
+                  "lng" : -123.1012072302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "name" : "Kranky Cafe",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 809,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107355187122770584240\"\u003eKranky Cafe\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLCD5jBEMGpAWbxbQaM1Q8byzdDIWUvDBVlHRfI1yMnK88rL7J7QWODIxK9GMuf48MZu5qicfpErNkmIWx_ydYCOdrVbF2y9zXoW9SjZjOoTwEar3r97knhcD2qLE80HdWzeNWzBg3aKqPR0d6OX02Ats9dtpk-9CsJoBkMhEKH5Ai_",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJbw1_1V9xhlQR91y5-OWMdWg",
+         "plus_code" : {
+            "compound_code" : "7W82+V3 Vancouver, BC, Canada",
+            "global_code" : "84XR7W82+V3"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJbw1_1V9xhlQR91y5-OWMdWg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 126,
+         "vicinity" : "216 East 4th Avenue, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.263731,
+               "lng" : -123.108716
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2651394302915,
+                  "lng" : -123.1073635197085
+               },
+               "southwest" : {
+                  "lat" : 49.2624414697085,
+                  "lng" : -123.1100614802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "name" : "Milano Coffee Roasters",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106734425931351006236\"\u003eMilano Coffee Roasters\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIttgnUKpXWVBcguSTVOvueIhzqPjE8opMjgjc6w2fngqWwQ1EeSdHRQ85v3D98Odb_U1l_TFdv99dPFBR8B3X3JPkxWIhl6XiGpbRkKGS_v2u-sLcltRrGEuA447TG3opZARLGVhtvx3IDODko-94tRuhVZuO0iV3sq-2ksJJqBZjC",
+               "width" : 4928
+            }
+         ],
+         "place_id" : "ChIJmbu5pOBzhlQRAVCMMme5kPM",
+         "plus_code" : {
+            "compound_code" : "7V7R+FG Vancouver, BC, Canada",
+            "global_code" : "84XR7V7R+FG"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJmbu5pOBzhlQRAVCMMme5kPM",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 693,
+         "vicinity" : "156 West 8th Avenue, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2712449,
+               "lng" : -123.1073337
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2725938802915,
+                  "lng" : -123.1056449197085
+               },
+               "southwest" : {
+                  "lat" : 49.2698959197085,
+                  "lng" : -123.1083428802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Terra Breads",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114140232986461862529\"\u003eChef Menajem Peretz\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJftc-xrVM1OXQB1Y3Vp3FlFXN0IiXwt5ZE4KnbSXvqgTEonAcSLW8pF79lCSTAcPmW_IZ3hBI9UhuUQNqsDH93MGUhEWnzIgnkPAUbM5JZETQVraFVpBiv-7Vzke0pAkM4ak7LhblCa9LtoWFZqNrg9jPNKmAliAonSG1pAyNKjNs",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ696j7N9zhlQR8dM5ezqFysI",
+         "plus_code" : {
+            "compound_code" : "7VCV+F3 Vancouver, BC, Canada",
+            "global_code" : "84XR7VCV+F3"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJ696j7N9zhlQR8dM5ezqFysI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 869,
+         "vicinity" : "1605 Manitoba Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2635548,
+               "lng" : -123.1233889
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2648068302915,
+                  "lng" : -123.1220286197085
+               },
+               "southwest" : {
+                  "lat" : 49.26210886970851,
+                  "lng" : -123.1247265802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111363509225601383960\"\u003ePeter Zhou\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL7r4CoeG3bS2ePT788WEB72AdjVY_pVDHd3Dh9rPR9NLnJreAbUHygdq-56qMeIkqiIVfnn5_TX04vLI295Uiv1V27D4BT-paeHPMQnrqHQrlvphlrV1W_qcSTkz80_rpWucfijnAhDN4Bo2_C75P_wrDujqFu94cZKkppAwEG4NV3",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJg4WxFsNzhlQRcx6YyXAFI78",
+         "plus_code" : {
+            "compound_code" : "7V7G+CJ Vancouver, BC, Canada",
+            "global_code" : "84XR7V7G+CJ"
+         },
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "ChIJg4WxFsNzhlQRcx6YyXAFI78",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 462,
+         "vicinity" : "865 West Broadway, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.254066,
+               "lng" : -123.114884
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2553836302915,
+                  "lng" : -123.1136435697085
+               },
+               "southwest" : {
+                  "lat" : 49.2526856697085,
+                  "lng" : -123.1163415302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104182635787870393933\"\u003eDavid Martin\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKK-WjOPMyjShc5NipCTX1iND6hUbQOBndZWzCiyYZ-KFZFtgN_DdXKlqZ40xYXOIs3WQguwfwYW3EZb6gsmkJNWplPa0XVD7ivGzBYRv8P7R7eXvPL2Hsu7Wz4vTg_7O17dRW1I1VscGPucPLgPLQPEDnNjsUABs99awmvU5MziRwC",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJYQTS9O5zhlQR7MyJVKTDFvM",
+         "plus_code" : {
+            "compound_code" : "7V3P+J2 Vancouver, BC, Canada",
+            "global_code" : "84XR7V3P+J2"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJYQTS9O5zhlQR7MyJVKTDFvM",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 307,
+         "vicinity" : "3492 Cambie Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2821602,
+               "lng" : -123.1045601
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2835022802915,
+                  "lng" : -123.1030989197085
+               },
+               "southwest" : {
+                  "lat" : 49.2808043197085,
+                  "lng" : -123.1057968802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "name" : "Nelson the Seagull",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111235248566187454013\"\u003eOlga Yakovlenko\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIArfE9kvsqsfwJQ1O4Yi9yxwL_rIY3vksIqS0M0He6VwSf7V9RtzkiLf_Vextv1hI1Y2rHEH8gzHoNvLVLAxrG4mT3vtDDEM0mA3Y6HbQusKH8FqVpuu5xw6YaKmgGwZKN5spDMwxhHRj72WIhRQvTRv-AJLHotSbjoK_jP2UCz3Kz",
+               "width" : 4895
+            }
+         ],
+         "place_id" : "ChIJfe0PqHBxhlQRf3ynUn3XX7k",
+         "plus_code" : {
+            "compound_code" : "7VJW+V5 Vancouver, BC, Canada",
+            "global_code" : "84XR7VJW+V5"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJfe0PqHBxhlQRf3ynUn3XX7k",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 631,
+         "vicinity" : "315 Carrall Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2630805,
+               "lng" : -123.1173002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.26449298029149,
+                  "lng" : -123.1159491197085
+               },
+               "southwest" : {
+                  "lat" : 49.2617950197085,
+                  "lng" : -123.1186470802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "name" : "Elysian Coffee - Broadway",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117141126726439075936\"\u003emitul patel\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKSe95SfCKlXH61kNrZ0sNs3m7BKeIAWt-UVHM9AQyWLr3heyiFzgLBDhrrw8nyPij7jSKwfr9q17uxpRyoeJYDUQnd4DBIu4y5ws4259f7AmATl4W-Jqd4H6Xv4XCtWznrPHbw5oJzpEja9_RnDZe0j5MDPdWvXegNaQCxKpiDbxwc",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJuQorPt1zhlQRUq3qFBOkqBM",
+         "plus_code" : {
+            "compound_code" : "7V7M+63 Vancouver, BC, Canada",
+            "global_code" : "84XR7V7M+63"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJuQorPt1zhlQRUq3qFBOkqBM",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 664,
+         "vicinity" : "590 West Broadway, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2791845,
+               "lng" : -123.1149133
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2803627802915,
+                  "lng" : -123.1139910697085
+               },
+               "southwest" : {
+                  "lat" : 49.2776648197085,
+                  "lng" : -123.1166890302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "name" : "JJ Bean Coffee Roasters",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115996601301238523800\"\u003eKiKi ArtWorks\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLp4AZmqzsKQpzxrdaZlTLddNXEjERxZqzlTQJs9e83uZkrKtiSlnf9nlvKSHnY53Tgwwh3Nl5t6NTlMaJ7FRwNnxbMKLMiFDz33EtKAwP2YNw5B8HC9Sg0PmayudCE2uuuf5CPuj4rfBZ9EJHX_kYVBlH8TA_8IOvh-zcaWb_u5wce",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJB55XKHxxhlQResfv7tHch0U",
+         "plus_code" : {
+            "compound_code" : "7VHP+M2 Vancouver, BC, Canada",
+            "global_code" : "84XR7VHP+M2"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJB55XKHxxhlQResfv7tHch0U",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bakery",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 60,
+         "vicinity" : "740 Hamilton Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.258272,
+               "lng" : -123.1009
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2596204802915,
+                  "lng" : -123.0996890197085
+               },
+               "southwest" : {
+                  "lat" : 49.2569225197085,
+                  "lng" : -123.1023869802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "name" : "JJ Bean Coffee Roasters",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2990,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110320122314600064497\"\u003eCail Smith\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLXY_s_L5tTEfzcXjAe1PoRS0eMTXpFnbRRkdM8dQ7njoah_30cxl9v1dGJ2fbnEo4leARBmYFyFMLtt-g8BWNQmQyopHoTcgrRKSgpWqhRQWzpyOMWi3mWhdJXmWIrfZyOOR83YNTGHa14RqoMIREwLic7HyijLX6p0sB8L9B3wB8H",
+               "width" : 2797
+            }
+         ],
+         "place_id" : "ChIJyzUSdeNzhlQRkz3zRrw73Ow",
+         "plus_code" : {
+            "compound_code" : "7V5X+8J Vancouver, BC, Canada",
+            "global_code" : "84XR7V5X+8J"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJyzUSdeNzhlQRkz3zRrw73Ow",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bakery",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 750,
+         "vicinity" : "3010 Main Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2776917,
+               "lng" : -123.1160444
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2789859302915,
+                  "lng" : -123.1146315697085
+               },
+               "southwest" : {
+                  "lat" : 49.2762879697085,
+                  "lng" : -123.1173295302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "name" : "Grounds for Appeal",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3036,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105729936793891381193\"\u003eJonathan Taylor\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKaCWIcI0OsL_vVhVCf_sUtPcEhgWul77X_u98shnxCCVgwB78_4vmWskXpnrLTHgxhEIrsljwGAPOhl5g9WJ61Uaipn_RtfvT_NjFFjJ9KVD0YX-l3NhfF2BmvwZ-6Tw7kGUg7uFxbN4JsGQ79fVNkZjU5rquxANgZcrjwdIkwFiIs",
+               "width" : 4048
+            }
+         ],
+         "place_id" : "ChIJ2e_iv31xhlQR7Wf8I79nkYY",
+         "plus_code" : {
+            "compound_code" : "7VHM+3H Vancouver, BC, Canada",
+            "global_code" : "84XR7VHM+3H"
+         },
+         "price_level" : 1,
+         "rating" : 4.6,
+         "reference" : "ChIJ2e_iv31xhlQR7Wf8I79nkYY",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 145,
+         "vicinity" : "845 Cambie Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.26562329999999,
+               "lng" : -123.1006429
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.26696193029149,
+                  "lng" : -123.0993594697085
+               },
+               "southwest" : {
+                  "lat" : 49.26426396970849,
+                  "lng" : -123.1020574302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Cartems Donuts",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108145836086387401584\"\u003eAlex Storie\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLvN4tVBAzsJk2ZoCNO6-UlFwsqQlhaR9DH3JOZR6Vw3TqSNS1hHphQAyiS73IcLbyTsmPKIASrRm4DH8JfCfgiTJZ5a9NeGa6K7bsybzfjOCuy5YnRviXNbdDW_UMwii_GViLjl58Ihz4z4bY6x_qLsr94Q1Ui-zfsWiVlPMIridqP",
+               "width" : 5504
+            }
+         ],
+         "place_id" : "ChIJxY04619xhlQRXptKQssrUFQ",
+         "plus_code" : {
+            "compound_code" : "7V8X+6P Vancouver, BC, Canada",
+            "global_code" : "84XR7V8X+6P"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJxY04619xhlQRXptKQssrUFQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1088,
+         "vicinity" : "2190 Main Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2690157,
+               "lng" : -123.1029897
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2704375302915,
+                  "lng" : -123.1016332697085
+               },
+               "southwest" : {
+                  "lat" : 49.2677395697085,
+                  "lng" : -123.1043312302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "name" : "Glory Juice Co.",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103971073529213112893\"\u003eGlory Juice Co.\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJNAUc1oHQayBEONUmgu22Nk3kL-sPL5jSfk44PNOhtxIJQyuT2wF4Uf2YLzrNcDR3lWSshN2d-kyQg0vvj25B-s3iBHGR2pVZgjSzLQEe5SVthBmqZDvMJN_S9FeGggsEy-SwHD93ihQSO8T39nCvrPR-JI8ZY5-HYeHDz3Y6ogKpi",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJz_CrVGBxhlQRQAiUcIwd3gU",
+         "plus_code" : {
+            "compound_code" : "7V9W+JR Vancouver, BC, Canada",
+            "global_code" : "84XR7V9W+JR"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJz_CrVGBxhlQRQAiUcIwd3gU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "grocery_or_supermarket",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 127,
+         "vicinity" : "78 East 2nd Avenue, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2645315,
+               "lng" : -123.105094
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2658915302915,
+                  "lng" : -123.1036127697085
+               },
+               "southwest" : {
+                  "lat" : 49.26319356970851,
+                  "lng" : -123.1063107302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "name" : "Elysian Coffee - 7th & Ontario",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100310764121468682097\"\u003eMarkus Akert\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIbSEXjiXnI2MJ81V9893GfLfYrQY9ofcdzhFPGQNQCcxowuZyoXIrzs3vhoBgIgfUHlsdNe6fAzSmd3798gyClpipdRdcG_o9Z6QTaM_suCkLzs3Pzhnpz0KaT5IPYJ_GpfXiRPiO0TOIPOqP5Qfc8sCdDDrX0yGuplgvXRjM5LGg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJNcSuaOBzhlQRUMZua9hHWE0",
+         "plus_code" : {
+            "compound_code" : "7V7V+RX Vancouver, BC, Canada",
+            "global_code" : "84XR7V7V+RX"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJNcSuaOBzhlQRUMZua9hHWE0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 419,
+         "vicinity" : "2301 Ontario Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.26942830000001,
+               "lng" : -123.10302
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2707735802915,
+                  "lng" : -123.1015052197085
+               },
+               "southwest" : {
+                  "lat" : 49.26807561970851,
+                  "lng" : -123.1042031802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101327568831911929780\"\u003ePaul Yeh\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIe6okl1yhRvBmWVGAG-ttl584TgCtWN7zCIu1YjFbqGS3KI2Pbus7-vP1aF_ffGecyH4uIOldJhFyw2eM7PcHvLEs981TguDrgVDXHEhGaJ3i3CmbsW4PG4nIuOOAYI4Bp5LPW2eBMFdJxnGre3totSD5x2sUec_JTrpqcTNOyt3fj",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJxwADqmFxhlQR1KZJgi4gkxo",
+         "plus_code" : {
+            "compound_code" : "7V9W+QQ Vancouver, BC, Canada",
+            "global_code" : "84XR7V9W+QQ"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJxwADqmFxhlQR1KZJgi4gkxo",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 279,
+         "vicinity" : "1777 Quebec Street, Vancouver"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.27038200000001,
+               "lng" : -123.1008984
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2717289302915,
+                  "lng" : -123.0994738697085
+               },
+               "southwest" : {
+                  "lat" : 49.2690309697085,
+                  "lng" : -123.1021718302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "name" : "Railtown Café",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1534,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107738827589277195303\"\u003eRailtown Café\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLkloi81-UB-RKbHMMnYs1zuxYlCHNxcgQOdjfyO2yK1pRAXH1szP55uNQNHzA7180KFtNxu_ekRuiVVjy3S_PlL9qBqUlJvzI6AtIP0wlPBza1YA-3pq1HCZJacpIGSOU9pqO_2WE7i0PK0-ot3yTWe9zf9PCpl-ETOjALJS4yNVXA",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJP8a5JmFxhlQR0u8KRQSAjDA",
+         "plus_code" : {
+            "compound_code" : "7VCX+5J Vancouver, BC, Canada",
+            "global_code" : "84XR7VCX+5J"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJP8a5JmFxhlQR0u8KRQSAjDA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 242,
+         "vicinity" : "1691 Main Street, Vancouver"
+      }
+   ],
+   "status" : "OK"
+}

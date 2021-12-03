@@ -1,0 +1,795 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwKcHkDS_i7fqWH8mkplMBHATuJbAUfU6Gpjf30p0MH4-p9n00_rOm2D9wpMyxPbykYmBrPYq4h_eWU0n6ERM6DbWk1copZSnO3n3o4B4o2oMbDTan4db2jD6pRcjOOUkXOAL8OfY4VEOic0iTHacPWQRtnR1CDX0BhfH8bTtkGqJpo0z9S8fIwhWXB1rJEelniaG1hpp0oQHN-1uywiRQTEOIBAdVmVHxgCjHaFjSxgH4HPKbGw0XuN1Bj24zkKBshWnJ5kS3YIh6iRX0weznYGTfKNJsP6xszP3yHCb6ekGWLcfj1s0fcCoPcvZVk46CRS92I2Km6XwATqIFxMNlcPswzIMA2Fqz_fWhu4SI1iJG5TD3qI_xJaidxteOhdDaDTJ2XbEeJ1x6OfOpUdXGUETZQI7Mf-z7TMea250ZhhAXFSXRfye9iHtPAhFQsGl78gZb4pdPMN6UL3mHycUuGFPhSVW2iKev2eKzovhGetinIfu6t9m_F7p8YABt42veiAXo1e6ZHT8Dgc2o9cP2YSLziNBIhxjsbYUaWOFk6D2KN3EACn61jMCYx9Wg8huAK99G3awanyI_I1Hd5c4FmNsbdlQwpD4tpOGJgjT_tFO4Jrho9WFVrsyxAbUnQ2-aSAvZ2wuK8kpzxVGqZyqlRmJV6ZKCCnIuliqnUJu4k4GmVQ1ERpTi7K9XXOPs0XBBOcsuQr43rrZ72FBgHQJJHwNyWtXJbtXr4q0SYkjLD6HiGkwO-uCi57hXEA26BW9uYC7A",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.73427059999999,
+               "lng" : -79.3816618
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7356247302915,
+                  "lng" : -79.3802605697085
+               },
+               "southwest" : {
+                  "lat" : 43.7329267697085,
+                  "lng" : -79.3829585302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "2350 Bayview Ave",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100076959601235141870\"\u003ePrasad Mapatuna\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ9VEPVAJy4sJME-eSvG_slUlrgnZRkxuaQUH5lnp7X3l9JeOg4DXva4YZvjGBRoonOGZA-rxpnMgEZ3kwQQJYNss0f0rv6DWuPsFAuXvzjgABNbs5UQlNx24jGTQ8J4g5zsAwL3Vtd0wLQHjPlyvd8vOGD7KxQatSRvRG-yyQJTNi7",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJAayBocoyK4gRDuHUeRvkeOA",
+         "plus_code" : {
+            "compound_code" : "PJM9+P8 Toronto, ON, Canada",
+            "global_code" : "87M2PJM9+P8"
+         },
+         "rating" : 4,
+         "reference" : "ChIJAayBocoyK4gRDuHUeRvkeOA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.725555,
+               "lng" : -79.402351
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.72690333029151,
+                  "lng" : -79.4010063197085
+               },
+               "southwest" : {
+                  "lat" : 43.72420536970851,
+                  "lng" : -79.40370428029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Lawrence Station",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115590074856741481542\"\u003eS R\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKyUxOT5o9BTx5u7HtFlrmWisMSCFdis2Gjr4rpYvbUcCcyHAcjCeHZbQ38F9Zv104QD6T6G_4XOkRRphrVqm6eZn8712qSKcEermDLNU4MJ5NnbR0VSvTWGNFeXKMyhevjmTAhfGgtdC-Tj7YSPBC6T8sRJfBqFCIeg45H4GhdmtmZ",
+               "width" : 3455
+            }
+         ],
+         "place_id" : "ChIJsybzZt0yK4gRHfc3PoE91Y0",
+         "plus_code" : {
+            "compound_code" : "PHGX+63 Toronto, ON, Canada",
+            "global_code" : "87M2PHGX+63"
+         },
+         "rating" : 2.5,
+         "reference" : "ChIJsybzZt0yK4gRHfc3PoE91Y0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.72524600000001,
+               "lng" : -79.40225199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7265927802915,
+                  "lng" : -79.40091861970849
+               },
+               "southwest" : {
+                  "lat" : 43.7238948197085,
+                  "lng" : -79.4036165802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Lawrence Station",
+         "place_id" : "ChIJsd0kZN0yK4gRLLlJhPehRrQ",
+         "plus_code" : {
+            "compound_code" : "PHGX+33 Toronto, ON, Canada",
+            "global_code" : "87M2PHGX+33"
+         },
+         "reference" : "ChIJsd0kZN0yK4gRLLlJhPehRrQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.74509009999999,
+               "lng" : -79.40640669999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7463610302915,
+                  "lng" : -79.40525601970849
+               },
+               "southwest" : {
+                  "lat" : 43.7436630697085,
+                  "lng" : -79.4079539802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "York Mills Station",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111962886461924242683\"\u003eAthmaj\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLgUwMWzCihf5JXept1YasWT8oiK5-hUcT2kI-_FqpqOyJw5P1ymHh6zo_QEg3GoPM11idgexz2zejTAn9jBU-sW4hDT7JNoPNM9y_Zn4m4h8jxA3MhONzWqRTuwIloI6FNQlFA35a66dlgTTqgKpmZEvDh7mJyy57PC6j93PhcxHTJ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJL7GkcpcyK4gRUz7bOVBX6BU",
+         "plus_code" : {
+            "compound_code" : "PHWV+2C Toronto, ON, Canada",
+            "global_code" : "87M2PHWV+2C"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJL7GkcpcyK4gRUz7bOVBX6BU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 41,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.70803799999999,
+               "lng" : -79.40911899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7094045302915,
+                  "lng" : -79.40778441970849
+               },
+               "southwest" : {
+                  "lat" : 43.70670656970851,
+                  "lng" : -79.4104823802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "1107 Avenue Rd",
+         "place_id" : "ChIJEdPnrxAzK4gRkQkhSZX1LvU",
+         "plus_code" : {
+            "compound_code" : "PH5R+69 Toronto, ON, Canada",
+            "global_code" : "87M2PH5R+69"
+         },
+         "reference" : "ChIJEdPnrxAzK4gRkQkhSZX1LvU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.70564999999999,
+               "lng" : -79.39986399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.70699898029149,
+                  "lng" : -79.39851501970848
+               },
+               "southwest" : {
+                  "lat" : 43.7043010197085,
+                  "lng" : -79.4012129802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Eglinton Station",
+         "place_id" : "ChIJG9JQ-TwzK4gRMdsWp2qzr0k",
+         "plus_code" : {
+            "compound_code" : "PJ42+73 Toronto, ON, Canada",
+            "global_code" : "87M2PJ42+73"
+         },
+         "reference" : "ChIJG9JQ-TwzK4gRMdsWp2qzr0k",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.70556999999999,
+               "lng" : -79.39945999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.70691898029149,
+                  "lng" : -79.39811101970848
+               },
+               "southwest" : {
+                  "lat" : 43.70422101970849,
+                  "lng" : -79.40080898029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Eglinton Station",
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105595145326500691540\"\u003eJu No\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKCKZoPQBJ0VzRVk6qLgBOM5bDotNrXu1eHjYnhmiJt2I119fAVjbI1HDGisnoiIcWOzca07MmTLoEmDFY1V-k9VwMaOgIL7wzpYyFmetlzosNo0OAQ8G2pf2fMTOViTqxj7_Q4g2f_Hq4wc0re5Tjbm-w4mnuXDyTbMqQVWZdhVck8",
+               "width" : 778
+            }
+         ],
+         "place_id" : "ChIJ-UGQ-TwzK4gRUJkCfUnwlMU",
+         "plus_code" : {
+            "compound_code" : "PJ42+66 Toronto, ON, Canada",
+            "global_code" : "87M2PJ42+66"
+         },
+         "reference" : "ChIJ-UGQ-TwzK4gRUJkCfUnwlMU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.705532,
+               "lng" : -79.39923899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.70688098029149,
+                  "lng" : -79.39789001970848
+               },
+               "southwest" : {
+                  "lat" : 43.70418301970849,
+                  "lng" : -79.40058798029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Eglinton Station",
+         "place_id" : "ChIJtaPn9jwzK4gRcv56__PNfR4",
+         "plus_code" : {
+            "compound_code" : "PJ42+68 Toronto, ON, Canada",
+            "global_code" : "87M2PJ42+68"
+         },
+         "reference" : "ChIJtaPn9jwzK4gRcv56__PNfR4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.705257,
+               "lng" : -79.398613
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.70660598029149,
+                  "lng" : -79.39726401970849
+               },
+               "southwest" : {
+                  "lat" : 43.7039080197085,
+                  "lng" : -79.39996198029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Eglinton Station",
+         "place_id" : "ChIJZd79XzwzK4gRo0zvTBo5p40",
+         "plus_code" : {
+            "compound_code" : "PJ42+4H Toronto, ON, Canada",
+            "global_code" : "87M2PJ42+4H"
+         },
+         "reference" : "ChIJZd79XzwzK4gRo0zvTBo5p40",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.70509299999999,
+               "lng" : -79.398567
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.70644198029148,
+                  "lng" : -79.3972180197085
+               },
+               "southwest" : {
+                  "lat" : 43.70374401970849,
+                  "lng" : -79.39991598029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Eglinton Station",
+         "place_id" : "ChIJ09FhYDwzK4gRwZ5lnEu1veg",
+         "plus_code" : {
+            "compound_code" : "PJ42+2H Toronto, ON, Canada",
+            "global_code" : "87M2PJ42+2H"
+         },
+         "reference" : "ChIJ09FhYDwzK4gRwZ5lnEu1veg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.704929,
+               "lng" : -79.39853699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7062779802915,
+                  "lng" : -79.39718801970848
+               },
+               "southwest" : {
+                  "lat" : 43.7035800197085,
+                  "lng" : -79.3998859802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Eglinton Station",
+         "place_id" : "ChIJg4k0ZzwzK4gR95jY01BVJ1o",
+         "plus_code" : {
+            "compound_code" : "PJ32+XH Toronto, ON, Canada",
+            "global_code" : "87M2PJ32+XH"
+         },
+         "rating" : 3,
+         "reference" : "ChIJg4k0ZzwzK4gR95jY01BVJ1o",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.704762,
+               "lng" : -79.398499
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7061109802915,
+                  "lng" : -79.3971500197085
+               },
+               "southwest" : {
+                  "lat" : 43.7034130197085,
+                  "lng" : -79.39984798029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Eglinton Station",
+         "place_id" : "ChIJM1WuZzwzK4gRnyJFoaSCyd0",
+         "plus_code" : {
+            "compound_code" : "PJ32+WJ Toronto, ON, Canada",
+            "global_code" : "87M2PJ32+WJ"
+         },
+         "reference" : "ChIJM1WuZzwzK4gRnyJFoaSCyd0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.704315,
+               "lng" : -79.398308
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7056639802915,
+                  "lng" : -79.39695901970849
+               },
+               "southwest" : {
+                  "lat" : 43.7029660197085,
+                  "lng" : -79.39965698029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Eglinton Station",
+         "place_id" : "ChIJIZL-azwzK4gRQsWgzkePiQo",
+         "plus_code" : {
+            "compound_code" : "PJ32+PM Toronto, ON, Canada",
+            "global_code" : "87M2PJ32+PM"
+         },
+         "reference" : "ChIJIZL-azwzK4gRQsWgzkePiQo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.71946000000001,
+               "lng" : -79.429298
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7208103802915,
+                  "lng" : -79.42794961970851
+               },
+               "southwest" : {
+                  "lat" : 43.7181124197085,
+                  "lng" : -79.43064758029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Lawrence Ave West at Bathurst St",
+         "place_id" : "ChIJgzI6N6szK4gRyFgKywPEvjc",
+         "plus_code" : {
+            "compound_code" : "PH9C+Q7 Toronto, ON, Canada",
+            "global_code" : "87M2PH9C+Q7"
+         },
+         "rating" : 5,
+         "reference" : "ChIJgzI6N6szK4gRyFgKywPEvjc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Lawrence Ave West, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.76156199999999,
+               "lng" : -79.412109
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.76291098029149,
+                  "lng" : -79.41076001970849
+               },
+               "southwest" : {
+                  "lat" : 43.76021301970849,
+                  "lng" : -79.41345798029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Sheppard Yonge Station",
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102272881331149401307\"\u003eAnh Duy\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIBE8gHV1bnLZqsQsDoTMwqqJHBHwsTgnE2782eFBFkpKM3P7J0bIHB-xwMDloEmKGbKqwfDFWP6uDr66ez4V7VmUsgV3QgidrMGXmRBcm_4tJV1mw54IoEiPinyGAYjCtqySjL4jjoJIwi6MESFQ2ZGDwtPRtTc5GUB0biEuru3IM1",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJHyufmmQtK4gRXm7cr1WJ4qk",
+         "plus_code" : {
+            "compound_code" : "QH6Q+J5 Toronto, ON, Canada",
+            "global_code" : "87M2QH6Q+J5"
+         },
+         "rating" : 5,
+         "reference" : "ChIJHyufmmQtK4gRXm7cr1WJ4qk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.761703,
+               "lng" : -79.411919
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7630519802915,
+                  "lng" : -79.4105700197085
+               },
+               "southwest" : {
+                  "lat" : 43.7603540197085,
+                  "lng" : -79.41326798029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Sheppard Yonge Station",
+         "place_id" : "ChIJD-83jmQtK4gRtZLe2F3ye8k",
+         "plus_code" : {
+            "compound_code" : "QH6Q+M6 Toronto, ON, Canada",
+            "global_code" : "87M2QH6Q+M6"
+         },
+         "rating" : 3,
+         "reference" : "ChIJD-83jmQtK4gRtZLe2F3ye8k",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7617203,
+               "lng" : -79.41227649999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7630692802915,
+                  "lng" : -79.41092751970848
+               },
+               "southwest" : {
+                  "lat" : 43.7603713197085,
+                  "lng" : -79.4136254802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Sheppard Yonge Station",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114959870371001657934\"\u003eRick Caster\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIepwxh8lYX5XFTQo4qPFgiCLNUkNxmB7XK31S7QRoP14rqK6jNVq8h1V53C9A4Xac_1N-0knDSzMZh6IzpMvZ-8P1D_7xd_uAHxwv4QMsV4N0VSFRjijWZQspy-4FWi4Ql7ZaiK9wOm5pgn1YSRoaXku635VBXRGQO7_Z_nWXMYYRp",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJZ0mplmQtK4gR1rpfpFcYP7A",
+         "plus_code" : {
+            "compound_code" : "QH6Q+M3 Toronto, ON, Canada",
+            "global_code" : "87M2QH6Q+M3"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJZ0mplmQtK4gR1rpfpFcYP7A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 26,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.762184,
+               "lng" : -79.410934
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.76352873029149,
+                  "lng" : -79.40961781970849
+               },
+               "southwest" : {
+                  "lat" : 43.7608307697085,
+                  "lng" : -79.41231578029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Yonge St. @ Sheppard Ave.",
+         "place_id" : "ChIJDdPWXWQtK4gR8h2l1CFWWV8",
+         "plus_code" : {
+            "compound_code" : "QH6Q+VJ Toronto, ON, Canada",
+            "global_code" : "87M2QH6Q+VJ"
+         },
+         "reference" : "ChIJDdPWXWQtK4gR8h2l1CFWWV8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.761887,
+               "lng" : -79.412125
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7632359802915,
+                  "lng" : -79.41077601970849
+               },
+               "southwest" : {
+                  "lat" : 43.7605380197085,
+                  "lng" : -79.41347398029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Sheppard Yonge Station",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116163644475799011714\"\u003eF Wong\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJEbZWs-YDpxcXMEV0fH1RH9Q1doYoEb14yEgMhlxuye8hIONA32YSvCBgT--zWkF9gMMF-3CYw9qtUzH6U4ddE3wQLo5LDuneh7QHwMRsRWQlemq2av3wEj3qrFZLxwV4rj0h11hOkVwHL-IpghJ8UgwUSnAZaeLpRKc54c33jMq6N",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJZ2fZk2QtK4gRimfms0xUW6Y",
+         "plus_code" : {
+            "compound_code" : "QH6Q+Q4 Toronto, ON, Canada",
+            "global_code" : "87M2QH6Q+Q4"
+         },
+         "rating" : 5,
+         "reference" : "ChIJZ2fZk2QtK4gRimfms0xUW6Y",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.697632,
+               "lng" : -79.396866
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6991923302915,
+                  "lng" : -79.39558216970849
+               },
+               "southwest" : {
+                  "lat" : 43.6964943697085,
+                  "lng" : -79.3982801302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Davisville Station",
+         "place_id" : "ChIJQ7lZUUczK4gRNdYrsG3opMg",
+         "plus_code" : {
+            "compound_code" : "MJX3+37 Toronto, ON, Canada",
+            "global_code" : "87M2MJX3+37"
+         },
+         "reference" : "ChIJQ7lZUUczK4gRNdYrsG3opMg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      }
+   ],
+   "status" : "OK"
+}

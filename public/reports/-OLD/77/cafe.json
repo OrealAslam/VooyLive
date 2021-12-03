@@ -1,0 +1,305 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.43875509999999,
+               "lng" : -113.6001044
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4394360302915,
+                  "lng" : -113.59934695
+               },
+               "southwest" : {
+                  "lat" : 53.4367380697085,
+                  "lng" : -113.60237675
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1270f37915e70750bb0151a25eda598d19a76a8b",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100389383542407553093/photos\"\u003ePeter Heinen\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQDiOpiV10V1EnUdslboI09kLnxSYDATzXYE6_H47hXzeInomzm7ztiRNyUywxMObGla2qCjBnUWm8p7hvPKO5dpz5Ag4Y8hWqnstkIgDyMWChK33n2n9WRNDWCx8NIaQEhCx5UP0eYDCvpkW5RyeNx-TGhQNhH2J-Tgs6UBcp6gVusaXTEG7Dw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJv-QnQ4D1n1MRnpcmibkEXbg",
+         "price_level" : 1,
+         "rating" : 2.8,
+         "reference" : "CmRSAAAAgddlZBZrFvOQIPhtk_mFGrk9Y8iCoBrprKsg9hYTw55HsEGnL0yh5CsaYWNTcKp5q1UP0tVi2Dti0Q0_W9exqzutAOHBy70pVYSV3Q4zUBBnoEJgF_H_9dYe4VHtBLKbEhDbdGxPnNJNZfnvYfQxzMShGhRN7gzng_gnJB4Gbv4VhxwVct_TDA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "6110 Currents Drive Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4347611,
+               "lng" : -113.5736605
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4359519302915,
+                  "lng" : -113.5724032197085
+               },
+               "southwest" : {
+                  "lat" : 53.4332539697085,
+                  "lng" : -113.5751011802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "3fdb35be0e8d97621b968a73b6628746081e53b6",
+         "name" : "Waves Coffee House",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106752118900629353327/photos\"\u003eVivian zhang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4Mo4SK6DK5u6W8Km22i6J2uDwhhHkm1qTIIQFuMgddFFnRAYTsfcUEq6wDGXHTdJM-o9NbZa6-dVRP4nuZPE1Z4g-ry8tHHMThGg_e_LmLDicNW3NA6SdgKV_OOpnwCAEhDQGpJgXoFqCa9AUk1bDFc0GhSYfGyG58RFSYpt3vro7DvOIBKI6w",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJ81E_BjoeoFMRbpT-MHz-KoA",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAAS9LgKdUd4Koyw5gHLd37whwRRxpPdHS9QvbfLIgQYre2h_Mahcq3ozlGq_ahxeMSdCIDsom-NZeKPJ2foZTP7HBiUMTT-HyOqfo9i1w4Apis-HMvSoGzg4JNnF7VbjloEhDEGw7idhhWbw_p7l8bcfTWGhTuF44Ef06P_1mOyw6GnWXBcNuv_g",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "5124 Mullen Road, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4350388,
+               "lng" : -113.5998728
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4363877802915,
+                  "lng" : -113.5985238197085
+               },
+               "southwest" : {
+                  "lat" : 53.4336898197085,
+                  "lng" : -113.6012217802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "cb8d5f6216300c373915f43f0dc07edf9ea0f450",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111278667103878667877/photos\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAn9_jXghDg4oeyBbuG8OCcGo439k0PE4AiN5LEe5FnzRYlM3PZ93cVHfRebVEpcr6EDsxRqKYcHuY3rjznloClMETr2fLsaaUVkFym3B9f72YMUm8ICKZ7kLjiYPQC2PBEhCHb3jEIdrrb84bE5gwNWMSGhR8ZIGJ0XmqvYGoyYuMO6NJuMgkew",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ0SSfzIb1n1MRgnfstquwjl0",
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "CmRRAAAAtkm7eONp5HikBeeuXYK9X6xGZmmt9jYLVGwshOh0FLg9ark4Vd4OODXW58SY1YFkuN08WMGlZnzfBwmCV9JeC102JC_I6TAMsZSsp8J0DVB_T2cV1S3cjElgwTgX9RTMEhCZB3DODz8sWjZ6FIBSXxAJGhSJQvfMz6YATbuHG31rO409kaRpJA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "5110 Windermere Blvd NW, Safeway Grocery Store, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4381662,
+               "lng" : -113.5998564
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4390337302915,
+                  "lng" : -113.5991479197085
+               },
+               "southwest" : {
+                  "lat" : 53.43633576970851,
+                  "lng" : -113.6018458802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "b2ba5f577204340af50259deb3bf33ebb30d6b03",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 950,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109176352441307189850/photos\"\u003eTim Hortons\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJyZ9Hq3t2LSF2UtGGpRq6Rk0TscbfbeBFvCgx6XnF0lJpldk7a29kGhzjyOX6HoXv-Ks-7gRY6DODdQ_3NvfGU2hZJj2pPgZW_tO4orkc7AYLqXUSH3DMg7B79W5Ujv3EhBqXsRKuVxKPqk78jYd_JqlGhSIprHnThmwDRKW6dGcc43NPgZ5-w",
+               "width" : 950
+            }
+         ],
+         "place_id" : "ChIJp0mrRID1n1MR8tLoDSS5_1A",
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "CmRRAAAA3MJLWw6cRrXUMMXnLqK9sUOvQz81T7YjHwIHRtqpMdDzQdV6CJy_fJu4Xn1yIEE3YKb_TdZEuwKxjB_umsAUNQEO77VP6QknIIcKLUYWTzywBb8LGIBST7qlYiZRBdahEhBKEH8RLZtD8kTlfOBcqpJPGhSmiBw1H1Xj0GMF0779c1wGOk9JzA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "6110 Currents Drive Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4349475,
+               "lng" : -113.6063656
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4363266302915,
+                  "lng" : -113.6050015697085
+               },
+               "southwest" : {
+                  "lat" : 53.4336286697085,
+                  "lng" : -113.6076995302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "942bf8f22f35face5cbf814a8a7839f765108665",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110531487766924335307/photos\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7kDauJZ_yDAxr4l7UX-je-TgdW1CjVEUENf_7LHc_68tv_1GXR79G9eOPD0JkiKOQITCfMuxyCXEIBUAR9n4qS-gcNkGJHYSumHCLgCehybAGLTnXy-FqXNg-43ckRc6EhBsfZfqTjhc5T2rWzsQW5OaGhSJ5yv8r18WO0sXeSqoDRLT4xCGoA",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ5-z1v4P1n1MRymL1jE5ExUA",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CmRRAAAAREHQo3MLfgFw05LW1t0hGrgFCAgEYKqN4xpOKRtz_d91t0eRaPkNYfXLXUDH6AnTnmJCnFdFUHNsNhMRytY1kCwWSgAu4ELU8z8SpECFDHbbJbfmf-q0DLuKMZstYvt2EhCl-tCsQL6mtm0uAicdWR4LGhSq-n9csMVohuTGb1GNMLfBWj5XYA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "5360 Windermere Boulevard, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4375559,
+               "lng" : -113.606316
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.43879613029149,
+                  "lng" : -113.6048166197085
+               },
+               "southwest" : {
+                  "lat" : 53.43609816970849,
+                  "lng" : -113.6075145802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "cb3ca87d43a5d8f9640be31d028321758d863563",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104576868355990172751/photos\"\u003eCarmen Angel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAycgYem1Dqg56is4hPjP14a_zLIyfmktxkikub6QsrZc8CKUP2LzB5s4S7m3KVda4cEhjcq7I_cMlZoVpcGxHtHOypNuqrj4meioDKiV897WmT3xWhJaSsZz3RSYTGedoEhDMee91W5DGwmqNwdc8OTnwGhQTKwVTB12qwHAvoxUZhcvxXi7VTA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJv-QnQ4D1n1MRsmRurTOzf2E",
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "CmRRAAAAgvrucHmwsxR1_ZLfL-zRzsFR7ONkEWgQDft29-Uu3IhTAY_7IDiyWWaKQPhEo7iL--vW6ve5U6_RLB2mDMnVXeLNsZJKfQzKlD_py7hihJpnAvdYIojUnndUTKIhii9qEhBU-l9JQ0pS-nKp2wjqf0PdGhRweo67fd29-YfuP_KkN04qUIRLpQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "6234 Currents Drive Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.44500499999999,
+               "lng" : -113.577543
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4463544302915,
+                  "lng" : -113.5762945197085
+               },
+               "southwest" : {
+                  "lat" : 53.4436564697085,
+                  "lng" : -113.5789924802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "9e8aa05e9c6fc7ba8d1c24a53cb5f4d1df040f11",
+         "name" : "Remedy Cafe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106515478652276625750/photos\"\u003eChris Folgizan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3MtwhPcFH7hmxs6PkXJHv7a551pHVYuV5J0Vky7YCo6MpitDhOHL3D7EHwIHshe1nD42IuBGl0HeqNT8m2C_DsDNIJGglKGNWputsiGaDOQXDSxBdu3AvDle9IixtnSUEhAlfZfVJbZUwctNTOkYjMeBGhTFDGePXA1nMxk-SG-_wac9ho2c3A",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJCeLbSTMeoFMRRvvRZhDjZjo",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAAGtwo0IzY_J9dlsSoHaIRhc-JupM1U_sIw6F45Wg9eh0Ifnb1dzVh6cl6dwaBu492VD1UeqSfnuihDG6eWLSJuCTVKPPYgbIDKz2bwsoRBGR-Fl4OpjFqMlGwMaXc5inhEhC2B2O2F6T8PQlKq2u8b3UjGhSo9TGAdgf_v7bUtaZD1mpgC1EWCw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "1707 Towne Centre Boulevard Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

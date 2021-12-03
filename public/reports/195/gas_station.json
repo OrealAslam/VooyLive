@@ -1,0 +1,658 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.555255,
+               "lng" : -113.494235
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5564760802915,
+                  "lng" : -113.4930447197085
+               },
+               "southwest" : {
+                  "lat" : 53.5537781197085,
+                  "lng" : -113.4957426802915
+=======
+               "lat" : 43.5747757,
+               "lng" : -79.8353642
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5759795302915,
+                  "lng" : -79.83376866970849
+               },
+               "southwest" : {
+                  "lat" : 43.5732815697085,
+                  "lng" : -79.83646663029151
+>>>>>>> e3a98a00a87e8634507a00f02f26b5035603dc35
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+<<<<<<< HEAD
+         "name" : "Esso",
+=======
+         "name" : "Petro-Canada",
+         "obfuscated_type" : [],
+>>>>>>> e3a98a00a87e8634507a00f02f26b5035603dc35
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+<<<<<<< HEAD
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109266404876707397205\"\u003eChrissy Pon\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJuA_fxmd8y_dHMpz3vLjrf-gAtFjV9CvRJJSt1I6O3BDEAg3GwREXHzYhRLem9_BsAOazxaSmLBwg2NX-woMX4mJZ3lriX2RYVKci1rmSYaRojyGrZzgCWPfhkraaiybsahejcz6LVSdmtr6AZzCTU4f_yQ-qjD0zHl0N3rZbVGuUQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJO_Dyz08ioFMRuascDSOhFsQ",
+         "plus_code" : {
+            "compound_code" : "HG44+48 Edmonton, AB, Canada",
+            "global_code" : "9558HG44+48"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJO_Dyz08ioFMRuascDSOhFsQ",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 123,
+         "vicinity" : "10110 Kingsway Northwest, Edmonton"
+=======
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105644538778724590931\"\u003eLeonard E\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK9Z_W0JlJqPlU2zeSgtH-W1GwD-_oR6URRkKfvGWN4q34r7W7cGYY8tNcJ7HL5zJSJH3yqfwOrX-DeVye0y-jTDJkSCH2r1cJLIySPKRgC-CRD0KQoPnQFvHixbDxNJ6nl712U3zIwcGXGFIMAtlhaCG49M0uNM24OxH_f1BVbs7BI",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJSyNnKgRsK4gR4Z018PnCHik",
+         "plus_code" : {
+            "compound_code" : "H5F7+WV Hornby, ON, Canada",
+            "global_code" : "87M2H5F7+WV"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJSyNnKgRsK4gR4Z018PnCHik",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 73,
+         "vicinity" : "13605 Steeles Avenue W, Hornby"
+>>>>>>> e3a98a00a87e8634507a00f02f26b5035603dc35
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.5463127,
+               "lng" : -113.4797815
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5475607802915,
+                  "lng" : -113.4783834197085
+               },
+               "southwest" : {
+                  "lat" : 53.5448628197085,
+                  "lng" : -113.4810813802915
+=======
+               "lat" : 43.5746531,
+               "lng" : -79.83367969999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5760472802915,
+                  "lng" : -79.83240951970849
+               },
+               "southwest" : {
+                  "lat" : 43.57334931970851,
+                  "lng" : -79.8351074802915
+>>>>>>> e3a98a00a87e8634507a00f02f26b5035603dc35
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+<<<<<<< HEAD
+         "name" : "Hughes Car Wash",
+=======
+         "name" : "Shell",
+         "obfuscated_type" : [],
+>>>>>>> e3a98a00a87e8634507a00f02f26b5035603dc35
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+<<<<<<< HEAD
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104064757773406478050\"\u003eCarl Swanson\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKNoV1aCxOOP7SiqT3WgsEOnlX7fO1ZC5ay9Y3uI58unjNxaq42pJ_f5TZGg8MqhQP-_2Cv0xs_htRkiZn9bP3hPXqUkvLnvLOVTd5h63Dhoam53ve1SaaGmdx-ERx_wqlHe72UOP2PHiysYZ42O8g_UjMPuDPEzB4ddVasOySd-vU1",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJz9JnplAioFMRzLP7o3aYMuw",
+         "plus_code" : {
+            "compound_code" : "GGWC+G3 Edmonton, AB, Canada",
+            "global_code" : "9558GGWC+G3"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJz9JnplAioFMRzLP7o3aYMuw",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "car_wash", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 145,
+         "vicinity" : "9502 102A Avenue Northwest, Edmonton"
+=======
+               "height" : 2848,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113664309233820834071\"\u003eRon Dutton\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJhwjVP52X_AS-9iPviFBjYDzyHeHeIW6M6cN1oGtzbURNjDG9VgFvtph7t60C0d2zMyGD7IY4noE40a60w4x-xJAYpUXujlz0bZ_Zut1kCb2tA3UgCVSBgsrerZ3D_ajH5n8aAQ2JxkkAiVV9ZiujC-uIKVvqk_hOXYY-Uoyf7gMSQ",
+               "width" : 4288
+            }
+         ],
+         "place_id" : "ChIJkS7sZgZsK4gRr0OakXgtYHE",
+         "plus_code" : {
+            "compound_code" : "H5F8+VG Hornby, ON, Canada",
+            "global_code" : "87M2H5F8+VG"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJkS7sZgZsK4gRr0OakXgtYHE",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 50,
+         "vicinity" : "7975 Trafalgar Road, Hornby"
+>>>>>>> e3a98a00a87e8634507a00f02f26b5035603dc35
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.54846810000001,
+               "lng" : -113.4757258
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5497785302915,
+                  "lng" : -113.4742666697085
+               },
+               "southwest" : {
+                  "lat" : 53.54708056970851,
+                  "lng" : -113.4769646302915
+=======
+               "lat" : 43.566587,
+               "lng" : -79.8226817
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.56800318029151,
+                  "lng" : -79.82142056970849
+               },
+               "southwest" : {
+                  "lat" : 43.56530521970851,
+                  "lng" : -79.82411853029151
+>>>>>>> e3a98a00a87e8634507a00f02f26b5035603dc35
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+<<<<<<< HEAD
+         "name" : "HUSKY",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111252995738516951595\"\u003ealee x\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJrRhcZpq7CdWRodhCHBnLrgK-rFwKORKXZssk6mEwLU3_Yo21PpdQQoBdzyAaoFhjV8Bn44pKua2yG0s7o0woXZNQLGOlsw354LP4Kaj964LM5nJQKgPbflJy_01p9Cfpe-xFfGA4lBA-BYnF43vtUHB96dBRY6pQN9OpyibDAUh2A",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJTXOSoFcioFMRlySghllKqgI",
+         "plus_code" : {
+            "compound_code" : "GGXF+9P Edmonton, AB, Canada",
+            "global_code" : "9558GGXF+9P"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJTXOSoFcioFMRlySghllKqgI",
+=======
+         "name" : "Petro-Canada Gas Station & Petro-Pass Truck Stop",
+         "obfuscated_type" : [],
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100674948959361272236\"\u003eAnton Gee\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLPZdwcPGEX0KRJNkux44X9cqjVCtBE5t2cVln0ha8y-8jYDkvDFYwb1M1gSK6vHbcorYKC5Vy6cR00eKc41IhWlnyWApXLBkaDM_dptoqlmAauke5LbbdY9NidTZBf15wIeZIt8Ms4O5Q_RP5WSIgBNH0K53rdoSm83rMgX49GSsB-",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJp6Mo5f1rK4gRiLs4MGx1yCs",
+         "plus_code" : {
+            "compound_code" : "H58G+JW Hornby, ON, Canada",
+            "global_code" : "87M2H58G+JW"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJp6Mo5f1rK4gRiLs4MGx1yCs",
+>>>>>>> e3a98a00a87e8634507a00f02f26b5035603dc35
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+<<<<<<< HEAD
+         "user_ratings_total" : 136,
+         "vicinity" : "9208 Jasper Avenue, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5552445,
+               "lng" : -113.4941873
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.55646223029149,
+                  "lng" : -113.4930012197085
+               },
+               "southwest" : {
+                  "lat" : 53.5537642697085,
+                  "lng" : -113.4956991802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3144,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112122948610020828170\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLIzrrXyARcWOaucnpCUJq-95R-_GwG2YbCkmHhBt2xxLKQlBpf_A_iBZjdzXQ8bDiQN8zsEXuIuy8oq6SOqQ9SpAPiRaQqFSwgKvqo0IiK-UtCIJCq9MI2rXtO69fi59rfbOeh1263RYLhcn_one1Cu-SzQr20WFcW5OAMbxrFml2x",
+               "width" : 3144
+            }
+         ],
+         "place_id" : "ChIJN75bT60joFMR7VKocTlVie4",
+         "plus_code" : {
+            "compound_code" : "HG44+38 Edmonton, AB, Canada",
+            "global_code" : "9558HG44+38"
+         },
+         "rating" : 1.7,
+         "reference" : "ChIJN75bT60joFMR7VKocTlVie4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 10,
+         "vicinity" : "10110 Kingsway Northwest, Edmonton"
+=======
+         "user_ratings_total" : 109,
+         "vicinity" : "7443 Trafalgar Road, Hornby"
+>>>>>>> e3a98a00a87e8634507a00f02f26b5035603dc35
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.5586249,
+               "lng" : -113.4931441
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5599261302915,
+                  "lng" : -113.4919665697085
+               },
+               "southwest" : {
+                  "lat" : 53.5572281697085,
+                  "lng" : -113.4946645302915
+=======
+               "lat" : 43.5689238,
+               "lng" : -79.84140529999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.57018273029149,
+                  "lng" : -79.84017196970849
+               },
+               "southwest" : {
+                  "lat" : 43.56748476970849,
+                  "lng" : -79.8428699302915
+>>>>>>> e3a98a00a87e8634507a00f02f26b5035603dc35
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+<<<<<<< HEAD
+         "name" : "Hughes",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117943256384499302811\"\u003eMark Dunbar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI5nciM0isbNNTYWtkgNdV3GG3nXu7EsTMHfRuZZFYJL7y-e0xrEs7XHZJCHx7-z5-usZKrR3jtYu60kfdXeCnlo4hIrI3z11ZtVrM70Qr3iQu5fn9fZD9kVLoFck5b-6wXhx2aisdEBxKrmr7r4t9WFWUxnsC_VYwtGQm58R4avnqy",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJzwIPTawjoFMRGLbhX-xtTjs",
+         "plus_code" : {
+            "compound_code" : "HG54+CP Edmonton, AB, Canada",
+            "global_code" : "9558HG54+CP"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJzwIPTawjoFMRGLbhX-xtTjs",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "car_wash", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 21,
+         "vicinity" : "11027 101 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.550922,
+               "lng" : -113.4829389
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5523879802915,
+                  "lng" : -113.4816466197085
+               },
+               "southwest" : {
+                  "lat" : 53.5496900197085,
+                  "lng" : -113.4843445802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Central Fuel Site",
+         "place_id" : "ChIJaWSsPiQjoFMRcSRHodhSyDg",
+         "plus_code" : {
+            "compound_code" : "HG28+9R Edmonton, AB, Canada",
+            "global_code" : "9558HG28+9R"
+         },
+         "reference" : "ChIJaWSsPiQjoFMRcSRHodhSyDg",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "9515 106 Avenue Northwest, Edmonton"
+=======
+         "name" : "Esso",
+         "obfuscated_type" : [],
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118188822762234545914\"\u003eEsso\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJxnVjWzRnYCstI2hgmA9z8Or-AwXjekxsvc46RRw_cgfSklvw6sNfn8TYA26BMfYY3tUY3lyqpMma9mDg3cs4GBJVMtnr-_kXs_Hrkt04RhYGEHXvCcaXDQRa0s8mwk3SEkoauwbc9ua6Y_p6cXcN_nPVk_M5Otux22qp0CF_rY6RY",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJB1a1Nx1sK4gR4Z3eg675p-U",
+         "plus_code" : {
+            "compound_code" : "H595+HC Halton Hills, ON, Canada",
+            "global_code" : "87M2H595+HC"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJB1a1Nx1sK4gR4Z3eg675p-U",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 25,
+         "vicinity" : "8017 Hornby Road, Halton Hills"
+>>>>>>> e3a98a00a87e8634507a00f02f26b5035603dc35
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.551569,
+               "lng" : -113.503376
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5528394302915,
+                  "lng" : -113.5020262697085
+               },
+               "southwest" : {
+                  "lat" : 53.5501414697085,
+                  "lng" : -113.5047242302915
+=======
+               "lat" : 43.5676284,
+               "lng" : -79.82531179999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5690554302915,
+                  "lng" : -79.8238526197085
+               },
+               "southwest" : {
+                  "lat" : 43.5663574697085,
+                  "lng" : -79.82655058029151
+>>>>>>> e3a98a00a87e8634507a00f02f26b5035603dc35
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+<<<<<<< HEAD
+         "name" : "HUSKY",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110476857193734287624\"\u003eHUSKY\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK1umudW71HsWmkNmxUpfy8CFB-6puNs66NaNJ8fUxlwZ_y9tmYwPSiVwJLGPVRhCF5uSJKT2_MTQ0vqfR7ThLy4alje6G3RtSBnOcF88o0Ujfc3gtMsuL5oZR_a3nYEWnqzDNH_EwNJZqrbc-nW-drHccxwK224m4R-S8HLEghxXQa",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJWSJZQ0sioFMRwWPsYW3QMDA",
+         "plus_code" : {
+            "compound_code" : "HF2W+JJ Edmonton, AB, Canada",
+            "global_code" : "9558HF2W+JJ"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJWSJZQ0sioFMRwWPsYW3QMDA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 144,
+         "vicinity" : "10608 107 Avenue Northwest, Edmonton"
+=======
+         "name" : "Esso - Snack Express",
+         "obfuscated_type" : [],
+         "place_id" : "ChIJXW5Kav5rK4gRCebYZhAIh40",
+         "plus_code" : {
+            "compound_code" : "H59F+3V Milton, ON, Canada",
+            "global_code" : "87M2H59F+3V"
+         },
+         "rating" : 5,
+         "reference" : "ChIJXW5Kav5rK4gRCebYZhAIh40",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Halton Regional Road 3, Milton"
+>>>>>>> e3a98a00a87e8634507a00f02f26b5035603dc35
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.53852560000001,
+               "lng" : -113.5087991
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.53987273029151,
+                  "lng" : -113.5073201697085
+               },
+               "southwest" : {
+                  "lat" : 53.53717476970851,
+                  "lng" : -113.5100181302915
+=======
+               "lat" : 43.5675552,
+               "lng" : -79.825345
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5690061302915,
+                  "lng" : -79.82385206970848
+               },
+               "southwest" : {
+                  "lat" : 43.5663081697085,
+                  "lng" : -79.8265500302915
+>>>>>>> e3a98a00a87e8634507a00f02f26b5035603dc35
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+<<<<<<< HEAD
+         "name" : "Petro-Canada",
+=======
+         "name" : "Esso",
+         "obfuscated_type" : [],
+>>>>>>> e3a98a00a87e8634507a00f02f26b5035603dc35
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+<<<<<<< HEAD
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112034243339948647667\"\u003eChristopher Lui\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKZ0G6NCnaeNcPtqwU-IPQaTsY1pIilAXpjieyOeoo3OyCNjxZfebsY2pkA1g9NLHi8LqY1vShIgmGD-CxQqhUJ6LFFH5EJJPEsWpsxysjesKrALxgafrbRgNA_Z60RGxoveS5rbVgvpYkHpQxEfkcq48xiawkcbs_xIqUgoqWgUsOA",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJxZ8HijkioFMR3be3jVA8Zos",
+         "plus_code" : {
+            "compound_code" : "GFQR+CF Edmonton, AB, Canada",
+            "global_code" : "9558GFQR+CF"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJxZ8HijkioFMR3be3jVA8Zos",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 163,
+         "vicinity" : "9936 109 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5586415,
+               "lng" : -113.4931284
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5599344302915,
+                  "lng" : -113.4919587197085
+               },
+               "southwest" : {
+                  "lat" : 53.5572364697085,
+                  "lng" : -113.4946566802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Hughes Car Wash",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109105524595496024756\"\u003eNoam DePlume\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKa62JXNebuzyaYQ64kmnakk6ih0CiqciiK_HHqrWodpg7j8gXKqOccjx-n5x49Tb2mGOS3ArS1dwUDhpCuvNvo-Dv1SMyyXKZbkg1BkP2avI0pd9KPGG3ckxi8V0vM0Dr5Ndqh_RgkQcvcKdF0ck0wTjBGPqQ9ILDcnmfK0r_pd9MH",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJHe-7SKwjoFMRBzksNlgHcso",
+         "plus_code" : {
+            "compound_code" : "HG54+FP Edmonton, AB, Canada",
+            "global_code" : "9558HG54+FP"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJHe-7SKwjoFMRBzksNlgHcso",
+         "scope" : "GOOGLE",
+         "types" : [ "car_wash", "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 36,
+         "vicinity" : "11027 101 Street Northwest, Edmonton"
+=======
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108945973636736039741\"\u003eRobert Bukowiński\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJtpc72n0I6h2zgMWNyozhquf-ETubMPHcAgph8pIJFcvD9qVDQtgvuA22iqG1ng2r2RSeI6lwnT8-ZbOa_rBYjajPMqNLCDhbJKQRTy3azx6mvU6Vt_x6hT5GrHp_iyQmCZ9ftQz12s-qj59abf8_8BmZ9rkxXYkVtydrU2IjLrcev",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJ7cOf_v5rK4gRFIaNyC53ED4",
+         "plus_code" : {
+            "compound_code" : "H59F+2V Hornby, ON, Canada",
+            "global_code" : "87M2H59F+2V"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJ7cOf_v5rK4gRFIaNyC53ED4",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 142,
+         "vicinity" : "7548 Trafalgar Road, Hornby"
+>>>>>>> e3a98a00a87e8634507a00f02f26b5035603dc35
+      }
+   ],
+   "status" : "OK"
+}

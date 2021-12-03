@@ -1,0 +1,801 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.75829470000001,
+               "lng" : -79.3123099
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7595993802915,
+                  "lng" : -79.31107316970849
+               },
+               "southwest" : {
+                  "lat" : 43.7569014197085,
+                  "lng" : -79.3137711302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1333,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107818236859486230836\"\u003eUday Sivalingam\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBmaNyVZGHj-f-pK4thaZlTJbgDmS1TP1kR2A_auvmQvkU9zgHEthKvzZOh3zTmcZRILUG4tv8JZRp0Xza7bkP5Jg05JXSD_BhYpKR6QT_r2QDNHYFjgsZ01CZ1nCX45Gft08aGb2mUwsNjls0RjKW84GF2zmSC1Gf0PwmZvtuWVyzk",
+               "width" : 2706
+            }
+         ],
+         "place_id" : "ChIJseYQLm3S1IkR9dXBMPMw24g",
+         "plus_code" : {
+            "compound_code" : "QM5Q+83 Scarborough, Toronto, ON, Canada",
+            "global_code" : "87M2QM5Q+83"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJseYQLm3S1IkR9dXBMPMw24g",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 382,
+         "vicinity" : "75 Ellesmere Road Unit 4b, Scarborough"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.77217690000001,
+               "lng" : -79.3212564
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7734654302915,
+                  "lng" : -79.31987331970851
+               },
+               "southwest" : {
+                  "lat" : 43.7707674697085,
+                  "lng" : -79.32257128029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111608076243397064994\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBaXbhA8rT9BJUIUPsPGcHaHIR9VGxkLfgXhT2yltYPR_Gkhqygs8r4c6Urmcm2cMY4OemVXoI48IZST-zU_HYIEYFVCuUD4tORcHEdbBoJpMbRAvXrZjqLrrIz2jWNLdb20XnjM8I1JySjnZbT40En8OBktDh8ndAbTm_YitL8scXW",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJxZBCjUTS1IkR2H34LzKRi9M",
+         "plus_code" : {
+            "compound_code" : "QMCH+VF Scarborough, Toronto, ON, Canada",
+            "global_code" : "87M2QMCH+VF"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJxZBCjUTS1IkR2H34LzKRi9M",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 994,
+         "vicinity" : "2555 Victoria Park Avenue, Scarborough"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7574935,
+               "lng" : -79.31136219999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.75893713029149,
+                  "lng" : -79.31023671970848
+               },
+               "southwest" : {
+                  "lat" : 43.75623916970849,
+                  "lng" : -79.31293468029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Real Fruit Bubble Tea",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106777583707673216931\"\u003eMichael Lawrence\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAg_sOHurB7mbE2H6L7eBDNxe6r4OlZC33xGvKZEAVBA0IvsXlvorAptze3zubyzS74xrFHh948nwrIg8T_TH6-TuxQrNXO5xxDyVdQ5e9E-hJyYWD44N82GLcrmcuSx5lRQSQog_omp1TvZQvBrLwV2t7fG4NCgtOPkNApptyZ0GX8",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJzY0GsRLS1IkRgFRfPjmXGyo",
+         "plus_code" : {
+            "compound_code" : "QM4Q+XF Scarborough, Toronto, ON, Canada",
+            "global_code" : "87M2QM4Q+XF"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJzY0GsRLS1IkRgFRfPjmXGyo",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 60,
+         "vicinity" : "85 Ellesmere Road, Scarborough"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7780827,
+               "lng" : -79.3088649
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7795062802915,
+                  "lng" : -79.30757456970851
+               },
+               "southwest" : {
+                  "lat" : 43.7768083197085,
+                  "lng" : -79.31027253029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 688,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114842505477372159901\"\u003eChen Shaowei\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBHNP8zvkQzlXYmAgM0USR9h2G5RnRl4HQ5Pc5w73NAooNsfEe5jS1TwQ0AQnYfV3fH306Rh0wf6F6gHTwYEnx6JvaQ19HdB1V-0zI2SxvKn78ukNPlu8-86EkW_1ykRcC2p4Yk3emIWlAIPLj7iFVln_K5kp8XiWzKvd639voVAN8a",
+               "width" : 978
+            }
+         ],
+         "place_id" : "ChIJi_ej7TbS1IkRFgeZ5AYqcjo",
+         "plus_code" : {
+            "compound_code" : "QMHR+6F Scarborough, Toronto, ON, Canada",
+            "global_code" : "87M2QMHR+6F"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJi_ej7TbS1IkRFgeZ5AYqcjo",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2057,
+         "vicinity" : "3305 Sheppard Avenue East, Scarborough"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7716628,
+               "lng" : -79.3350813
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.77289218029149,
+                  "lng" : -79.33392886970849
+               },
+               "southwest" : {
+                  "lat" : 43.7701942197085,
+                  "lng" : -79.33662683029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Yorkland Cafe",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115877483272334297270\"\u003eHargobind Singh Shan\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECAK1w9JGVOWllcZmqCOnXQ5olXgIQ1zPZX8CoEmZgnfkb5bMiMv_pJXH_N-2fvQQfGZ7gUtYIKBJ2oDPhQVPjqX4NwlkWudHKZsfdi8OSn2b9mSGb_j9OhDIXL5V_1Hbf5UIFuT_2CuK5d6OIpPqLi9hnGo-6KvM_j9IvsaVdhDRHg",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJs-CC9PXS1IkR5gEj3HqJSuA",
+         "plus_code" : {
+            "compound_code" : "QMC7+MX North York, Toronto, ON, Canada",
+            "global_code" : "87M2QMC7+MX"
+         },
+         "price_level" : 1,
+         "rating" : 4.2,
+         "reference" : "ChIJs-CC9PXS1IkR5gEj3HqJSuA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 17,
+         "vicinity" : "200 Yorkland Boulevard #102, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7580483,
+               "lng" : -79.3132425
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.75928413029149,
+                  "lng" : -79.3117239197085
+               },
+               "southwest" : {
+                  "lat" : 43.75658616970849,
+                  "lng" : -79.3144218802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 885,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114842505477372159901\"\u003eChen Shaowei\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAst8nvq6_zIdBu1SJAtKaSD0umeuLlU78is9EdcEkaupCrjFI1Xd0U84-R3adLjRSZDQxadIWn7ocS2OoHFSAxF1BNIMv-CQIk8vblBZrSEYGh44Bi3LIdmQ-H7IzvTyUXL-mRgI607YCUMQW4_6IeyR8VrfhxTjoURqxFO35RHdoy",
+               "width" : 1734
+            }
+         ],
+         "place_id" : "ChIJszlWowrS1IkR-YRaDE1JKz4",
+         "plus_code" : {
+            "compound_code" : "QM5P+6P Scarborough, Toronto, ON, Canada",
+            "global_code" : "87M2QM5P+6P"
+         },
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "ChIJszlWowrS1IkR-YRaDE1JKz4",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1864,
+         "vicinity" : "85 Ellesmere Road, Scarborough"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.76961,
+               "lng" : -79.33090399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7711085302915,
+                  "lng" : -79.32961486970848
+               },
+               "southwest" : {
+                  "lat" : 43.7684105697085,
+                  "lng" : -79.3323128302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Timothy's World Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105175761337711150993\"\u003eDan Levy\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB4aEHJMe5_O6hCykDJMXdPmGPNeiB_cq1VgYc2_Pz-5llyAWN-WVRx9sMXO7ftUm125hsw2bs-nFc7Hf9hjwSGeP_28hFzc9JqlJFx_1lIoZeLm1dH6rprqQZ1AnTQ95Ko7_NLIBNmhJS2vIW9b6WQ9sdSOmF-odaxhxk3eVVJo-U9",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJy0yavibT1IkRnMSajT-xrTE",
+         "plus_code" : {
+            "compound_code" : "QM99+RJ North York, Toronto, ON, Canada",
+            "global_code" : "87M2QM99+RJ"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJy0yavibT1IkRnMSajT-xrTE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 11,
+         "vicinity" : "Parkway Place, 245 Consumers Road, North York"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7703958,
+               "lng" : -79.33143919999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7716464302915,
+                  "lng" : -79.33045916970849
+               },
+               "southwest" : {
+                  "lat" : 43.7689484697085,
+                  "lng" : -79.3331571302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "LUCKY TEA 小确茶",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 809,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110265977551390785210\"\u003eLUCKY TEA 小确茶\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAbTodf3apBqtGGGeAe3yk5vrBic_xKekHip6z7vHX_Qj6I3zRWo1Zt60rDekwgBGlZrmGMYrupOgJr3_Qq_rw2DInrBJt_8ZKMk1wbwVDFiyvMW07gBfaCQBMwkXmPG7sxLd30pkJ9HCmgWKIeBSziVe4Z34nTspIgy4-RLJAv8wxp",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJh24QrI7T1IkRJeoc7gCngXE",
+         "plus_code" : {
+            "compound_code" : "QMC9+5C North York, Toronto, ON, Canada",
+            "global_code" : "87M2QMC9+5C"
+         },
+         "reference" : "ChIJh24QrI7T1IkRJeoc7gCngXE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "241 Consumers Road, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.77094459999999,
+               "lng" : -79.33161520000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.77240148029149,
+                  "lng" : -79.33037096970851
+               },
+               "southwest" : {
+                  "lat" : 43.76970351970849,
+                  "lng" : -79.33306893029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Aroma Espresso Bar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100104569166573192341\"\u003eAroma Espresso Bar\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECE4Zwc-XtBZaYUVMqL9olLgMLgjoTN9GbA782lLwTwkdj78VuYb5So67G20FssuSXLXh0ZzdU6_vV_3BZEsj1PoY2mVAFc2MxagTfJeIuuH7zGk3-1c3V4F6oq16cly-iUYM_iWmygTdD3YDeXS6dA-VW88Me0gTqgwVL9IXbUZVXZ",
+               "width" : 1010
+            }
+         ],
+         "place_id" : "ChIJGw0f6V7S1IkRSVHBEs2_blw",
+         "plus_code" : {
+            "compound_code" : "QMC9+99 North York, Toronto, ON, Canada",
+            "global_code" : "87M2QMC9+99"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJGw0f6V7S1IkRSVHBEs2_blw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 249,
+         "vicinity" : "229 Consumers Road, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7708621,
+               "lng" : -79.3322093
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7723053302915,
+                  "lng" : -79.33092021970849
+               },
+               "southwest" : {
+                  "lat" : 43.7696073697085,
+                  "lng" : -79.33361818029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ZenQ & 小桃園 Taiwanese Cuisine",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114815939335875447563\"\u003ecanviewer travel\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB_Erp0kwd3DeaV5bYcikNJ2ttqHHMW5oM0SEL9OEJOoXq8YijTA4qiRq804uBAllBr666bqht_fGQG1yNRouierqjwZv92RuHvXLwInk2Rp9UsLGGQCb0u02jbWil6VMN_0Dw8OoDtYRWyeeffTGSi0jPYnmKuZdEZC3NVZVjqyIEJ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJE93pEhPT1IkR0KyJ__qOnAE",
+         "plus_code" : {
+            "compound_code" : "QMC9+84 North York, Toronto, ON, Canada",
+            "global_code" : "87M2QMC9+84"
+         },
+         "rating" : 3,
+         "reference" : "ChIJE93pEhPT1IkR0KyJ__qOnAE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 21,
+         "vicinity" : "155 Yorkland Boulevard, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.77166769999999,
+               "lng" : -79.33091739999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.77295808029149,
+                  "lng" : -79.3295441697085
+               },
+               "southwest" : {
+                  "lat" : 43.7702601197085,
+                  "lng" : -79.3322421302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Bubble Tea",
+         "place_id" : "ChIJEUwxuF7S1IkRbbJPNBSdges",
+         "plus_code" : {
+            "compound_code" : "QMC9+MJ Toronto, ON, Canada",
+            "global_code" : "87M2QMC9+MJ"
+         },
+         "reference" : "ChIJEUwxuF7S1IkRbbJPNBSdges",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.77288009999999,
+               "lng" : -79.32826829999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.77428698029149,
+                  "lng" : -79.32694911970849
+               },
+               "southwest" : {
+                  "lat" : 43.77158901970849,
+                  "lng" : -79.32964708029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "La Prep",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114842505477372159901\"\u003eChen Shaowei\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBnOTO0M3wZw4jT4sKiVX9RwIWgedb1v_kRvkcjE5TxwaYFNrN5x1atwmdCbti9Qy74oQNC1Fnc04CMSjAuQA5c6iaXs9Xyg3rMmjL5XBklmr2eeLwW-n9k0x6VtAimW20PlG4j3QG4ROqOb3W_W3I-QtJPhxFDv13UmQEJqvdp1HW6",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJbQEiM1rS1IkRPmrU5j_QF_k",
+         "plus_code" : {
+            "compound_code" : "QMFC+5M North York, Toronto, ON, Canada",
+            "global_code" : "87M2QMFC+5M"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJbQEiM1rS1IkRPmrU5j_QF_k",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 24,
+         "vicinity" : "2235 Sheppard Avenue East, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7570013,
+               "lng" : -79.3128153
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7583390302915,
+                  "lng" : -79.31160671970849
+               },
+               "southwest" : {
+                  "lat" : 43.7556410697085,
+                  "lng" : -79.3143046802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "CoCo Fresh Tea & Juice",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104499353783989153071\"\u003eSaar Saleem\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAV_6ug6UZP6O72_-ah3UwEMayUGNKauwF2kJKmIwuAo4LRRWoEHCcfgrDfTTDV1StXffypTHD61zrI9fuOQ3gzmFnmEHE-5hc61NleW0FkeP0z1o_NsqClZOB94qRpP8feq2Owysbk5X2dlQNmf_SqtzjaxOH9chcCCGPKwXt2__c9",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJGR8fWcjT1IkRdICjalyocEs",
+         "plus_code" : {
+            "compound_code" : "QM4P+RV Scarborough, Toronto, ON, Canada",
+            "global_code" : "87M2QM4P+RV"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJGR8fWcjT1IkRdICjalyocEs",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 118,
+         "vicinity" : "6-85 Ellesmere Road, Scarborough"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.77429589999999,
+               "lng" : -79.3260475
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7756051302915,
+                  "lng" : -79.32497096970849
+               },
+               "southwest" : {
+                  "lat" : 43.7729071697085,
+                  "lng" : -79.32766893029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "delimark cafe",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110754261033930849703\"\u003edelimark cafe\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBnOfC_VLHYMXArqud_NDBH5keU8fPYOMLAek2CKalY0q0L7TfzuLJTrprOpa_0uX9GVs1wcXTl4MhNrJL3hMwsrcUiDFnVkkSeWaZ2OYSuq90RnjtzDyJvzdx_RNsvKtz99HkTTpELDVc0VXN8j8VCHKTQjcTnVlR6XKOwK8zffkWk",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJM9bcAlvS1IkRgRakaqh_1jU",
+         "plus_code" : {
+            "compound_code" : "QMFF+PH North York, Toronto, ON, Canada",
+            "global_code" : "87M2QMFF+PH"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJM9bcAlvS1IkRgRakaqh_1jU",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "2 Lansing Square Unit 100, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7729781,
+               "lng" : -79.331114
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.77438248029149,
+                  "lng" : -79.32978746970849
+               },
+               "southwest" : {
+                  "lat" : 43.77168451970849,
+                  "lng" : -79.3324854302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Sunny Coffee Shop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106590043943441478052\"\u003eRaymond Asgar\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECpMNeXdesTcT4LNygF68xoH3hbRq1Mjhlg1BE_VXey4jQHtjRq-gva_4ePhu7Q_V8U3Mzs0c8mrxvbPC5FoWJ6bg-eTp7gMwB9lUfI6nvU6K1sb0nWUvXXLuc4BBkSFx8j7u4lEmoSgPv39BgTu2-m8myjMz3GTH4pbXHJL6LK3mSq",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJAQDA1l7S1IkR9esc8Nnlq1Y",
+         "plus_code" : {
+            "compound_code" : "QMF9+5H North York, Toronto, ON, Canada",
+            "global_code" : "87M2QMF9+5H"
+         },
+         "rating" : 4,
+         "reference" : "ChIJAQDA1l7S1IkR9esc8Nnlq1Y",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "201 Consumers Road Unit#100, North York"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.77322710000001,
+               "lng" : -79.33602499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7744488802915,
+                  "lng" : -79.33462081970849
+               },
+               "southwest" : {
+                  "lat" : 43.7717509197085,
+                  "lng" : -79.33731878029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Tim Hortons",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105401370136743363304\"\u003eDilul Hameed\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDYQOSw9k4wL8_x5eqPmKEBaD8pJ7RVKTxWYkvax4pxji8L8ItWDx3AxCO1UFVVMJyH8zXD5TJItujiQSwBcmoF36lirhWoGGt10dax4R_gpQnAgmO1zqhC2iwe5kct_xo6INbOmFi30K2DrqDILtAKMJoH7VVZSPe3rAtBsSg983LH",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJV_nVdrzT1IkRHnK6wqjDMOw",
+         "plus_code" : {
+            "compound_code" : "QMF7+7H North York, Toronto, ON, Canada",
+            "global_code" : "87M2QMF7+7H"
+         },
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "ChIJV_nVdrzT1IkRHnK6wqjDMOw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 40,
+         "vicinity" : "265 Yorkland Boulevard, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7750516,
+               "lng" : -79.3332168
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.77654723029149,
+                  "lng" : -79.3318397197085
+               },
+               "southwest" : {
+                  "lat" : 43.77384926970849,
+                  "lng" : -79.33453768029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Neighbours Coffee",
+         "place_id" : "ChIJz6r791jS1IkRf_m-2o0TkLs",
+         "plus_code" : {
+            "compound_code" : "QMG8+2P Toronto, ON, Canada",
+            "global_code" : "87M2QMG8+2P"
+         },
+         "reference" : "ChIJz6r791jS1IkRf_m-2o0TkLs",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Canada"
+      }
+   ],
+   "status" : "OK"
+}

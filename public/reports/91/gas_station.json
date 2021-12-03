@@ -1,0 +1,405 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.50915309999999,
+               "lng" : -113.631171
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.51047603029149,
+                  "lng" : -113.6294854697085
+               },
+               "southwest" : {
+                  "lat" : 53.50777806970849,
+                  "lng" : -113.6321834302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "98ed714c79062ec812a35ff3e3028f9d576fd256",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110673170551210991826/photos\"\u003eKyle Miller\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALO59JtTe1YWeyTVw1MivO5mEQXOhn4GkwFut6Ue3CT6Gfhs_C3XrokPmLZUWTuiy7VgitK5Kgw5Otv89qRDT2OSmbo3HwHK_aXr8P_OpQWkzgebqmFtSgierGjYaj5-GEhANg4rHfKJ4P-s8oUpjVQ9fGhSHGVSJtdSQlQjSxLpHTgAAb39QrA",
+               "width" : 2160
+            }
+         ],
+         "place_id" : "ChIJS3d4ZmkgoFMRF0BiQkSV6HA",
+         "plus_code" : {
+            "compound_code" : "G959+MG Edmonton, Alberta, Canada",
+            "global_code" : "9558G959+MG"
+         },
+         "rating" : 3.5,
+         "reference" : "CmRRAAAAEHUyEuyy27b_FgY04U4abzqTZ2gxTvAcixLBbjEe_dnATQdb1xEZeIYQn9lDsfWzqRRxfE8PQVRa7k46KdFMiGuIDT0uKq3syfF7ASGt0i4naAJceqb2cEtw4WNtznIwEhBU2UgZbDAyqQv-x3FOidVpGhSJjh3rTxz0y4tFneUx40QX8UF52g",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "7542 178 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.50308709999999,
+               "lng" : -113.6268304
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5044363302915,
+                  "lng" : -113.6257019697085
+               },
+               "southwest" : {
+                  "lat" : 53.5017383697085,
+                  "lng" : -113.6283999302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "13ffe019e71b8e635c091cf4bf7a441ca946c88f",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116728931969676072160/photos\"\u003ekent button\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAx_N1aOOOfXf6nDuE72Ps87NyLoRHVyQx6a8rQsrDaKuMLzwJ3giqCmMpjcW-7vFoH1Y6GodPx6RfQIVyfsat3-U2XrvkMcetD7z9pG4-mMhdmkcmjyof80eTAnBZt9M1EhDNv7FHCUjelqzFnir8VVz1GhQf1wOli8XUBLAi66sGsoCc3xZe1g",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJicl-rhQgoFMRZWc49VI2TlE",
+         "plus_code" : {
+            "compound_code" : "G93F+67 Edmonton, Alberta, Canada",
+            "global_code" : "9558G93F+67"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CmRRAAAAnilJ5jx8k3GNFR0LAIq9DQeXJAQ-3QVNo7g01ey1tFL_31rTSzF2xq1keGEWJPSezg4S-DoJR7fQw4aEy63NHH_LiaK6zvcfIlYQGtBANH4MDSOF0ZMLkD5qp3wXmGwREhAvdLsozaDRPZClmmBs9kj8GhS0gh3KOxiy0zYrHS-Ij2xX7xQGuQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "convenience_store",
+            "car_wash",
+            "finance",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "6833 177 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5012714,
+               "lng" : -113.6299875
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5026203802915,
+                  "lng" : -113.6286385197085
+               },
+               "southwest" : {
+                  "lat" : 53.4999224197085,
+                  "lng" : -113.6313364802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "12596ef751623fcd81d036d5ebd2e41460762768",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108642287124775152726/photos\"\u003eSikander Singh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwZFqyowqRhO07yPIRwJees076k7MZOmObX1WDVq_8fy7wohNzfKX-ZVDuZxvW2DqogzqOZo9TW4CHtzmWI1exkkvWRR7sap1ql3m_wACtZiUmVhHyhTnmVK6Q8RIxv7NEhAntNk6c10eCxPWuxUr2RfCGhQQZTea7nJfTjoQbKfNGmfTdXrMiw",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJc3cUHBMgoFMRQ-ntXNMfzPY",
+         "plus_code" : {
+            "compound_code" : "G92C+G2 Edmonton, Alberta, Canada",
+            "global_code" : "9558G92C+G2"
+         },
+         "rating" : 4.1,
+         "reference" : "CmRSAAAAdHvsWLIxnKyWtpVnOHMyHQA1IbZwo07ZU0odzCSVTXDuquXJhjxqL1ldWB7bJxl9BXkS66HR9Xu1AN5fvwW-1P90iMUsfsoRGxsBW0lNyPbO3nfCfzTPXRZA513RAJIIEhA-BYLDrTNx6X7lG8Oru4oSGhRhEC_N8wDRkoIHKUG_B2N-c8vGmg",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "6655 178 St NW, 150, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4962428,
+               "lng" : -113.6478755
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4975238802915,
+                  "lng" : -113.6469646197085
+               },
+               "southwest" : {
+                  "lat" : 53.4948259197085,
+                  "lng" : -113.6496625802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c197989abd0dde10f48963e21f1923ecdff5cb24",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105238346301249210176/photos\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_4Re6z6ZdyQ3unXRC3lddjJ7k140qqHE5x1O-CysZSoqWrbay0KFBZdH7Q_eLq38gOhsGX_BUsCFkDdp1WW686FbeucwD0t9P4SwqND1WnkmIbD1DlHrDLkBYLqUrxAbEhClY002yNMcYTkWpQ1OXTb8GhT07RWCEpyAx-PfD5jqdYInlODgRg",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJmaKqZAogoFMRYj_5ur99WjY",
+         "plus_code" : {
+            "compound_code" : "F9W2+FR Edmonton, Alberta, Canada",
+            "global_code" : "9558F9W2+FR"
+         },
+         "rating" : 3.4,
+         "reference" : "CmRRAAAALECySd86UcbduPam1tk_27hkZ18pozGW5DzEjdVPQHD0Intm6GTrUtroq1Z-OFtHR8lzZ9DlxWrvLW8TR65KPz9ZDS6D16HmrnoEZBTKAabFVmA_jexb-JuITOOMclxpEhAt28fsaZSrK0TzwRJlokcJGhSDEGEqZ4BE2ZpM1_3m9ajYcuuz4w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "6211 188 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.501116,
+               "lng" : -113.6299681
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.50243508029151,
+                  "lng" : -113.6289631697085
+               },
+               "southwest" : {
+                  "lat" : 53.49973711970851,
+                  "lng" : -113.6316611302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "43518cf1987a1e4c21c823c50d7fcd84cb05e28e",
+         "name" : "Mac's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113439032906421546015/photos\"\u003eRyan C\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdHLYG6EnT0UIZjDYCYLyBXQCdd13Ek8zamPsQU45usBi_F71X79yQeW6boE9Wzc2vdTxvWnigGWfySq6kHgFCP0HX3EVAN0_lmTwbZpvTlljm2nal56fHqH-LgW7sHyTEhC-yhSkfL-mEyKofsk0vT9GGhSFeFp-V3gcNcZ3sQhkRiPWHuZPIA",
+               "width" : 3239
+            }
+         ],
+         "place_id" : "ChIJ3_uADBMgoFMRlSSrgN7e1cg",
+         "plus_code" : {
+            "compound_code" : "G92C+C2 Edmonton, Alberta, Canada",
+            "global_code" : "9558G92C+C2"
+         },
+         "rating" : 4,
+         "reference" : "CmRSAAAAYxgrynEM2ikNBJK0PDhPX_KKRWCmCmWkHknEHhO2f3mshCnVQ-YBy2dl56kPPWK1-8jfdqdjE6_MFNLDNOlp7QSivdIoDoAuIxRV8X5tUncnnx-Jy2syryKwXZoOvNgTEhAAhcype8Rzss70Ti5SN2hAGhSSpynHMsiGOD2jGztYJYOkGaz_nA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "atm",
+            "cafe",
+            "gas_station",
+            "meal_takeaway",
+            "finance",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "6655 178 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4959704,
+               "lng" : -113.6479565
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.49731938029149,
+                  "lng" : -113.6466075197085
+               },
+               "southwest" : {
+                  "lat" : 53.49462141970849,
+                  "lng" : -113.6493054802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "55a65e2d5e5412ebdfbcaffa41c7f03a0528452d",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116559127770480507060/photos\"\u003eVE6DAI\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApC4qjU5Z0WqTuFnUhMjKo9moV82VDYyvRbARo1SbocMT7ziyGtz6No5eQU3qEgZ1q0R4SUI8q9uufFHc7NM4G75QTL8uyMGVNMnCU58A4OLHYWZ4BqKee5mCMqW9-INFEhD9D0fI3oqqXwMboUVGwnUGGhThMRvF8GoKzKwk4ZFHKVUbY3jBBg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJc-V5ZgogoFMRBgujYn-XcnU",
+         "plus_code" : {
+            "compound_code" : "F9W2+9R Edmonton, Alberta, Canada",
+            "global_code" : "9558F9W2+9R"
+         },
+         "rating" : 3.8,
+         "reference" : "CmRRAAAAuRNIhe6BczOynKSr9K_ArIaSfLABqwi_X4gT3Iupli_8HMlwDYHsw3q06jk1D8TAEOPFQklXFYFUgfREBN76u0OwGG0l_ypUHYIwOy475SndZGCcJJYL7ceYhZMzMhUEEhBV9FO9DSocoe9BDi2wbzKEGhTHEbbvLaBj_lJSY5mJRWupZIZg0A",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "6211 188 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.50352609999999,
+               "lng" : -113.6147541
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5048730302915,
+                  "lng" : -113.6136954697085
+               },
+               "southwest" : {
+                  "lat" : 53.5021750697085,
+                  "lng" : -113.6163934302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "a46d5199099a69593a99f99d1bdd04f9b910e34a",
+         "name" : "HUSKY",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112823551292954631415/photos\"\u003eHUSKY\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAf2JmTO-5jhD9TdrFDRwTsnGfwDJ1L9aOM6OIxcYjt9X-Li14r15kxxyn2jCltCKXCXV7g3NeYe-a8XqwPUKEdMC8KjdCedmraeYtnCU2mjgG20qlIYbDanK1dFERJf16EhDZuuumvPaifUl0flX8aQTMGhRFSf7Y-1uDXZTIB7KtLsQh0Xqwfg",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ5UesrD8goFMRqREfkIjmHWk",
+         "plus_code" : {
+            "compound_code" : "G93P+C3 Edmonton, Alberta, Canada",
+            "global_code" : "9558G93P+C3"
+         },
+         "rating" : 2.7,
+         "reference" : "CmRRAAAALIGtFeYMEzQRm6JHBDrxy9oyUekhmvpm6WmtR_Ddjef-1QCs9Atu20rm0f5awSoasXzASN4yQp-ujzT-zsCTj8tyz31nT12xw8nHVm1PlXlV4_45oOKNcmx4X4S6yBvKEhCY1bLf0pa9xIMGJhDOItrOGhSXc4JlohxMtFO5T6tkqXEwKB2zqw",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "6827 170 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.50343340000001,
+               "lng" : -113.6144739
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5047793802915,
+                  "lng" : -113.6135544697085
+               },
+               "southwest" : {
+                  "lat" : 53.5020814197085,
+                  "lng" : -113.6162524302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "63c69ef4f44f1a12e301c991c689da89e735a038",
+         "name" : "Wolf Willow Auto Service",
+         "place_id" : "ChIJ2Xk8TD4goFMRAjLGqIdi2Mc",
+         "plus_code" : {
+            "compound_code" : "G93P+96 Edmonton, Alberta, Canada",
+            "global_code" : "9558G93P+96"
+         },
+         "rating" : 3,
+         "reference" : "CmRSAAAA7idO_czvVaJINbelyWvE8kFnvXL-DfCdFcDcv5IGzdUuYmDvuCxrbSbbLOj9O-guJnA7WNuwOPGQ1h4FMVY0aQehWjx-rM3SwZn_c0XmU0n4KUhAkpHqncBi8OnRjuE3EhCUmnCZcMhpjS4E_3L-vaykGhQfLV704cTpo7_gGgRw_giZfVIQyg",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "6827 170 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4945122,
+               "lng" : -113.640545
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4958602802915,
+                  "lng" : -113.6390217697085
+               },
+               "southwest" : {
+                  "lat" : 53.4931623197085,
+                  "lng" : -113.6417197302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "f98a4c076de78914feefba9d30f4555bdbe379e0",
+         "name" : "Jamiesen Lands",
+         "place_id" : "ChIJ3RHuRgkgoFMR_oyDpeHkSXo",
+         "plus_code" : {
+            "compound_code" : "F9V5+RQ Edmonton, Alberta, Canada",
+            "global_code" : "9558F9V5+RQ"
+         },
+         "rating" : 3,
+         "reference" : "CmRRAAAA0EjitaLLgLHiTvk4yjXf7wxz_5q5m8_SGEHM7HmbGgO1VVWr7_P5_QmviaIyDGGh1pdt7-4YzDPZrETDJZFmSIMrvqm7oY686gglbzMrcyx5vlHuEtI6UdPAiAsPw0EiEhBD4wY8bJho2jeTYPKv-FRAGhQuJWT8AkInaXJM4sRRykORkbnt4Q",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "6004 184 Street Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

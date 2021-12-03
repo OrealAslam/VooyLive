@@ -1,0 +1,819 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQD4wEAAPF4olIDI5BtmJHuM_7nY0hgCToErEF0558A1a8wKHJVJkjk___3bOD2Im0ILYcFEvF1HwikumEG6dOW-iWq2HVViTeiPRMDd_uvTpOZdLWlk5BCU_JqGh9igx94u3-dgLwvPEnt-byipLmnDJZUqgyQB5zicN7QeDaGRNbqw0-Z-B5ykOjGmU26YwNV6D24gsSrJxqtpI4jgS0UZz_-n5f2XCWR0fcFjwbZlL8Xr1-0YhbLkKt4bcj6OGM0unKG1Kli-_ucwueJxzM-BDojOZ4Ar98bsJJu9nSPsS4JMBviUcXCc1oxdVrX99ohxs5p496VxUYNj5tDM7ucKd6vhpd7DCSMefXlWjL5CWybeD3O9oiw6AO7QOV7h9Q9j-ALDle2serHJpXqWZjWWdf6ngrwNEO42Fd9r2dpPUko3C8yC4pg15AtPgFHtIOW6__qCRGW-jQn6P21VDXUL5FegNQ9yV6JWA_ed0Askhn5nE10HfjjR1atPNksB2NzOHUk7au5AqJsIrYrPo7aSIQfMIEkCJHlL-cKa5iaDjQzYY7tk3gJwjhPdnIIqfXCseCwByG3PsM8y5yjT5K9B7QSLWfmTZYXcA8Rt0S72lkBUAQDhJ98bcHQqcztz-8K44AHFm2L_3Zkivr--exqNQsa7LgSEF86LJiqiPI9Ggw6ExYnSfsaFM9f4VIghWdNmPQuKBmiyPI9uQTt",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.70118119999999,
+               "lng" : -79.45251879999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7025626302915,
+                  "lng" : -79.45087236970849
+               },
+               "southwest" : {
+                  "lat" : 43.6998646697085,
+                  "lng" : -79.45357033029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "c4d7eec520d555c16c93b4c4b8d35d4cf44c2212",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100206445256553450232/photos\"\u003eCory Norris\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4LgJwSQD5lPBpEmA7N3hP4Ea0cnIZb4qT4pJAysf07pSqiVlm0GIXwKeEzEeD8DMwCBoBs4nJ-7t54UIZr5r9AisP7ndB1FqnUuU9juSkqU0XtZY8Wvh1gLBra98lLaFEhAGqWcZBuxBMwCJ1Ymyi7X1GhROOMg9eJruHpajFuvHHplkHxZ2kQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJSyWgvukzK4gRlCeQssJwTAQ",
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "CmRRAAAAf3bhpECfx0AHYgAO286GRKXSha8su2PC6EqW38kfoUmqhSenhYj1YXfRDdAtN-H3cN5OSraoq_EsTkL2pgEEn2kChlhdfr-EfkIDl4iqGFefEo70oR199vbZB3CLzo1TEhCgdkhB8STNgmAyfBKlVv4cGhRyI3cJcfeqmbLosZR71qWVmHgUiw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "2700 Dufferin Street, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6804757,
+               "lng" : -79.47596129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6818723302915,
+                  "lng" : -79.47451831970848
+               },
+               "southwest" : {
+                  "lat" : 43.6791743697085,
+                  "lng" : -79.4772162802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "27f272668ec73507b452b9820522407c25a4e39e",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102512170369022767027/photos\"\u003eThupten Choephel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZjozuqTDo9Tm6mo3RZU-KxwCemrYuhRzvRF1MOhx6VGlnKyCqAhf-9Z8rKQBRtGpdHqivXHeAh1lLHSC3OAE2GKWfXlF3c3bOfDHe5D0me38WPm1ngehNz3qgOEre9enEhAbOU8vmKfU0KuOfSP-ymKlGhSqd3ZOpL5JBy7cjZPEa2JuUKU4yg",
+               "width" : 3072
+            }
+         ],
+         "place_id" : "ChIJt2kWS6k2K4gRZfCE_naeNuM",
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "CmRSAAAAOmbtJqnj06xABotpMsnepqY0YP14PdIiKmqVBmypb4TItoEcY4L_-dQ6Ntx9Ysy8n9VwJU0dSR9laUGnoadtyt2Bii5YC61YWGqCp5V0EKbcU-brYSzzwWWyFIu0VEhMEhB8s6HXU1l8DgOSOPZCudi0GhRrEp82begiyjkKjxBy3o23gGUztw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "380 Weston Road, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.70764659999999,
+               "lng" : -79.4766453
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.70893548029149,
+                  "lng" : -79.47582646970849
+               },
+               "southwest" : {
+                  "lat" : 43.70623751970849,
+                  "lng" : -79.4785244302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "3324ea455c886ca860b58683bb4675e4270178a7",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110812222677801170381/photos\"\u003ePablo Sandoval\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZEer84yhUIlme0fWLt8OO2RALn0l7s-jDd-fVH-I1kpw68qnBh2wvmuuQSJ-xDhn14lytYJUj5ajvOVMWEUIBP9BWNhvHYFof8-bhwolNWMsldbNMVoPZy2r-E9SGiqrEhAPYeORrTuvjurMVCtCi7Z4GhSUwlhhpNhy-zYuUWBgEOSCl2Zb3A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJY-dbGWcxK4gRApqCGY-_-PQ",
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "CmRSAAAAmXArsnM706KFJN1V4oqiPfnydrtXJzF7o041YbHIEUhgmf6CrBC1C_IPWyovbH2aRpmazLIXybIjnLF2bLjAHYjG49t6KH-857uVI_L_f_X44k9Hpsdu1YWqfSxwRyiZEhD2CGOhZt7Uw_9x4XnOE60nGhQdHeYdPjZTJZGRKTI4102L_V8PTA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "2355 Keele Street, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.699851,
+               "lng" : -79.47552999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7010462302915,
+                  "lng" : -79.47411931970849
+               },
+               "southwest" : {
+                  "lat" : 43.6983482697085,
+                  "lng" : -79.4768172802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "10fa595bc46b7d8f63c4a2bd9e16d3a7d3a586e0",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3492,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109736740692696533648/photos\"\u003eIllusionaire Studio\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwvsGvLEPPUPJUo5IwsmmNsITPzNjHKEhDkB6JwYDl7nzY2cB-FS4aCUSaw6N76vxE68BOy1mfrM8zCVMBn1lxW1m3ZQPkKTGOVAkcH09KVHDyDIwWHpPT0hwvVoyx0dbEhClNEYg2b3VZbvnv9XGvelrGhRGay--XaVai_2nubm2u7tY5QBeEg",
+               "width" : 4656
+            }
+         ],
+         "place_id" : "ChIJ80WiXFkxK4gRoqY3xC2p8iw",
+         "price_level" : 1,
+         "rating" : 3.1,
+         "reference" : "CmRRAAAATsprne1Vmd-zHQAzQASS03vjE56_QmixaVQCLwWLwKsFTXdMd8lYznbRIwmD4n6eTUsTdbApAn5tef0Dc6XxQADVnVBgwBn1hf0O1SUYnig7ia-1WzLbJs0ZkGvsuxiuEhBJ-SN5zhUo-76lmmPGPa82GhRwH6VrBFODlR-fKDyVMQNcRBUuhg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "2 Ingram Drive, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6957797,
+               "lng" : -79.44927369999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.69718823029149,
+                  "lng" : -79.44794876970847
+               },
+               "southwest" : {
+                  "lat" : 43.69449026970849,
+                  "lng" : -79.4506467302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5e6f93995f4b38f5977c6b24e51bcf54667e2714",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3072,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102764801998817822190/photos\"\u003eI. Iclek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAd6S82BQmJTrj2QZkwylX6qUxHSdEBAQVel7PVf7wl4OIuULOJE3KUhQERMQVthYOIeaoDim5YXV2muBAr7bbGvvXuy3VjfmsSUXoaG2sE_CQ-NbISVkMlQSx-8Gz59_-EhDZGeGLQQ1oGU6R4kgPnbiAGhSg1tFXUO7RRNdD53ZrAuaCqI7fHQ",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJ56tp4OwzK4gRKKu27EQqg98",
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "CmRSAAAAbJ_ga_ecNWsuJ9ui-C9T7VSEV7-1GOe3bb6xc2hJPDApP6MzkGuOBvazT81ahMU2DD8fCjNoA1FY8S2P-Fzsg0NuyXWijosnhc_TONo9fbs89mY-eprq7vxaF-E5zGzgEhB4zFu6x5w6iCL5sV-wik7bGhSY94qxzEpWWBn56bz9N0-gN-18Jw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1807 Eglinton Avenue West, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.69579820000001,
+               "lng" : -79.4492065
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6972047302915,
+                  "lng" : -79.44788076970849
+               },
+               "southwest" : {
+                  "lat" : 43.6945067697085,
+                  "lng" : -79.4505787302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "a32335491025558db956aeec779638ec2e1b1966",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111729875775936830304/photos\"\u003eAdrien Latapie\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnvPhNSNXLLBlQ8wuu45FXS8-gjUptx_n2cd7RqzumGDk3r893XLID-MUtFmicUeM28p4hexj6xm64qvNDfBq7jaN32bcuMx8QalhdfM4jcFdEm47shcIVK8n8ZheLuG5EhAbqS4nE_QqMZ83MdkH556KGhTmhSu3o-OUZjnHp9BxwtbaMVBOsw",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJeVch3-wzK4gRbZc7WKhLHr4",
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "CmRSAAAANL5rvNu_ycCSUfIjuXZYpt7ZS6kkg5475oyl4-AYyseoNS3nXyJzhXiJgcf8ymBPLxMBL9KZldO8knJIDPCZe3X9FG42-IHlnQZLdh4ylOcUUAwWrQZOTGWJlm_FnzbCEhCHkiwy_MQIv8lNy5EYN4pdGhTLNm2LwJuhsr-UKxJ5js0k56ojXg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "1801 Eglinton Avenue West, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.70143139999999,
+               "lng" : -79.46380289999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7027462302915,
+                  "lng" : -79.46261211970848
+               },
+               "southwest" : {
+                  "lat" : 43.7000482697085,
+                  "lng" : -79.4653100802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "fef4f4e71e8d646e288a31a455205bb94284e75f",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113483896286458981953/photos\"\u003eAaran Vive\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANYwKHdQ-KToW0H6iYHYEH7jGiQQ6dW5eXJiLkGZ6aTYqT-eqmsJZqOY7HiQWp1UkWwuoD-MQGn1ngvFfIuxzl1hac0MEE4swm7yjyDn_VTx2AiMy89kK9syqSnpEQlhoEhAajnzScrgzy-FNjVokwRmEGhRBV4uPcdUoRZg6yd9RBv6kH2BO3g",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ08xIGeQzK4gRkvTYpL_b2D0",
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "CmRRAAAA8LMf5heYU-eo-QNPOc-qqaOzkVQCSXUEjUDOVXmxbvxj9UXaG47ZMYRelceHKtVWV1iRLDX9oIaHqMWcvmJ2y5ix9__2MBFtChlPmZ-tmYkknEMdZQb1asSHLpLJi6mpEhBoIGfX04eDoPzxyM34l36wGhRLg8RyEkj9Rj76aqyPfnX5kiZ1oA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "815 Caledonia Road, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.682083,
+               "lng" : -79.467507
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6833321802915,
+                  "lng" : -79.4661364697085
+               },
+               "southwest" : {
+                  "lat" : 43.6806342197085,
+                  "lng" : -79.46883443029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "03af9cbc0614e95e9809bd30bf1595a495e15323",
+         "name" : "Nova Era Bakery",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104417808822603625140/photos\"\u003eGood Four\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7A9f-gmj6fdCZK2YOkVVufvlqNMU6OcDqM7WnlbXYa9aoh_Jyz7ISqGhwCc9PpcTigcRZ4Q2u1rNr0h5st50eZ5vzaPuK4D5uXq4oDB3H7GrRdIr-bVTy13M4gOHhSLuEhCru6rYYuciPaHFXRIoO-wKGhTihsGVi3B9saUXI_Gd8SpRXlToeA",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJ76w3dQE0K4gR7UL37aeBnUY",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAA3mLa7RDVazNR5YNx-NAFo7p4DKXv0T5eug2zQolYebXqY4_AVYPgMcT1jEoaFKW0M2GCLJ-sGlLrKVk3pDY6dsOS7qgQQY2f8X3ACJhG9tL5D5pZGh-oP2ChTJbW9ISiEhAEYGwtIGGaehlElsx6BlKGGhQ_dixsHrQ73ZdHNnXeroHiWOeN5A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "490 Rogers Road, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6985434,
+               "lng" : -79.46216149999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.69976983029149,
+                  "lng" : -79.46081986970849
+               },
+               "southwest" : {
+                  "lat" : 43.69707186970849,
+                  "lng" : -79.46351783029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "ba53cde80a533de43478a2dd56b3f2b0b240e4a2",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103637440873394386733/photos\"\u003eKeyur Patel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaNld4iOZNj6X5eYW20ABP3UFIvc4sp_MFLLJwwX_YPUEfLyn0uWtX22MyqWwYYVrrf08pLJpbUe5WavkQwwP2nQm83nyhlHEJPxOi6gROjeZ_ju7BUK7EoSzuNRjKNWDEhAviHnIw_5kwLT0c7i4HFXGGhQZzQlkd55NtEugNYidmOTfc_jHNA",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJfzhuPuQzK4gRprJTyeLoIjY",
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "CmRRAAAA2CiDZBdv96LmQwFQs5JS6rsfaHdS0rZ8BByDz9j_6Bu5FwbC7NShtGdclmQN24Pu9dHCKx49oOHUghPNgQppmblCKLM_9GEuhLvvNYhhtvoJ-ixW_85qbNVGcNzTRoYuEhB1Zxt8JLDkgagO5B5W8QLeGhRw23pkzRPiLGyQSXf45cPu33RsaA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "D, 1320 Castlefield Avenue, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6995893,
+               "lng" : -79.45175209999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7010427802915,
+                  "lng" : -79.45029496970849
+               },
+               "southwest" : {
+                  "lat" : 43.6983448197085,
+                  "lng" : -79.4529929302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "04b63579c6ed37f288ad15b46dccb20a449ef9fb",
+         "name" : "Jamis Bicycle Factory Store",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3744,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113809449189793306663/photos\"\u003eEchothebikeride Browne\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgPMk0l1L6GdoXzXngBhQaIYd2WPuegOazsgbjWfoBZzAKnQa2AsN_rcCJbybzfz11h0XMuRWoDwqX9S9BbDSTDLwgYg5fzLpKdsQRbUPdPhTMUbLKApyjl7GOIrOeruyEhDU3501Qt3oAaHgUHVZygCzGhSkN5mlOTxt-bt-5jUd1fDbwarSAw",
+               "width" : 5412
+            }
+         ],
+         "place_id" : "ChIJ4XZ5FegzK4gRlhaqTgE0lYM",
+         "rating" : 3.8,
+         "reference" : "CmRSAAAA4o14-uhL9IOCOKuK6h2r5uxj1Gz69X9Mn5lxsKAIWtEzOo0-JVCYPFYh94ZxF4IOSINReuEbJtqVLhFm03zSlQuvVxfVjX56cxCdqiAeueJ1Du-MLTkM_3SfSWqjxYJxEhDmNqemYhK4iTvOWALqALJGGhSRLULoG-wQCOJjmvpiSAHOqiiRkg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bicycle_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "2464 Dufferin Street, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6978924,
+               "lng" : -79.43913789999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6993091802915,
+                  "lng" : -79.43781456970849
+               },
+               "southwest" : {
+                  "lat" : 43.6966112197085,
+                  "lng" : -79.4405125302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c60fd7e74e5c16063b7d965ab5708957f8f208bf",
+         "name" : "Coffee Time",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114326246755156895859/photos\"\u003eYaniv Leichtmann\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVb-dy7mZ9UN5m_7rzTNbG4mNL4i5sJRccNcs4wtkC-zKe8pelx4SdLvySYu5GN6EqpKA0z-vnzNxhKsZRa6Iz1cnCfcrVqybkMpWY2L67yeNHcJYP2hufiZSpuSpLa09EhCpACxv2gtCTWIUEshTlFDxGhQptXeRhtMHVFR70fEGjCB8A3w93w",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ-2b8I5czK4gRtDHuZHhh-SQ",
+         "rating" : 3.3,
+         "reference" : "CmRRAAAAkurhKJAfMKg1-a32hm3I4_pKj-9c1GYurlo-ngo_gLRSUwOHHDiI1EMxv7QdRb41RXcHOPjg3qTOzPj4-heMbfgj3qww7erUIOCfbgEK-da3xvqS9RkOENy_2VQ6mHMcEhCxnSjfm3bLo3iIRWAdFKuZGhSsHQqYn_1uLfq3opcQXCX_6Zo73A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bakery",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1471 Eglinton Avenue West, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7082269,
+               "lng" : -79.47386759999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.71040775,
+                  "lng" : -79.47282641970848
+               },
+               "southwest" : {
+                  "lat" : 43.70749995,
+                  "lng" : -79.4755243802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "67fa3b22dd99d99c50478a690bd38404fbaee8d0",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 5344,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116496536351658272194/photos\"\u003eAndrew.Victoria LV\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAz6aCbHEfKmstUQfg-54Sn2eqgPToITnr_9lBQFuXyLrMmrx8u7cP_3aoaZhNiwN37pjIPxyLpGgIfx0uXyJFU6WoxzGgAc8paZon4-4Vgvgm0tUouVZsg2c5pEu9YHJpEhCXe75i8UgpUQrZQlivwZaVGhTmZywXyWHGb2TQVw2KtHffPi2Cww",
+               "width" : 4008
+            }
+         ],
+         "place_id" : "ChIJ96dXzGYxK4gRFqUV-yvD95I",
+         "price_level" : 1,
+         "rating" : 3.3,
+         "reference" : "CmRSAAAALXQKIy9zy5cYcbUHuwEXc9h904qL_Qhd6gC_Y4OApVRgn1jpJZNOwBeh_VroYfDPbHjLl4SUoxvPQr03hZqdZ3DET-bytZghioMW4GU4-ltjAqnDWpcCfNl6pjMxqhekEhCyzzM91FM5ypRn0pCDnHPXGhRReWIEZlrwHkfPiJzdbezCSSwT_w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1305 Lawrence Avenue West, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6962091,
+               "lng" : -79.4636222
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6975359802915,
+                  "lng" : -79.46207221970849
+               },
+               "southwest" : {
+                  "lat" : 43.6948380197085,
+                  "lng" : -79.4647701802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3ce5de16cc00841b427b248121b38891e10f4c89",
+         "name" : "RedLeaf Fitness & CrossFit",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113952803188214831742/photos\"\u003eandrew b\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARoPXLKxwfQ6yrNTZBffz8aT5xXAWGX4AJhBqqfg_vQ_homEDzRMtSx7ggp6apozGjAkkAvZfXmq2T9YL0R5pev3iBV6qV0iS1V1KPYh1PilMaSn3t6KePd3dFMhvCZgaEhAf_XEnPWoh5bxoK-glLCteGhQwHrErlGDRbbeMs2sWnRzxjnyj3A",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJrVbzk-QzK4gRzDY7mMAN_RU",
+         "rating" : 4.8,
+         "reference" : "CmRRAAAAiYSZTwN31wygmp6k4qkCABRC11Wz6kNXqqUYHfJcn2LvbeRCIC7vPXWTgeC_DPiGQ4xJkU9fZFL0cCUYWaCiDjTiwjvp1i_PqnxQMj_0bu7WsFSnMXe6agPEyFW4egHiEhBEr-VcWJphQql_Qcqoq7t7GhTEEZohw5WN7ImF-iXg9XRjkS9RhQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gym",
+            "cafe",
+            "store",
+            "health",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "662 Caledonia Road, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6915655,
+               "lng" : -79.4669985
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.69301393029151,
+                  "lng" : -79.46565671970851
+               },
+               "southwest" : {
+                  "lat" : 43.69031596970851,
+                  "lng" : -79.46835468029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "f6fef1829bab3526c965382ce60c138b7a50450a",
+         "name" : "Westside Cafe",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\"\u003eAnthony Bernstein\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAk_t2jTIW-jQ4OLCSWP8gxcjV44lwWZvkol8uVc-exsr1lxHcxVEWVVG1f_86T61cvAubnoM1cMxQfrshROHYQv-K1EZGzgROc7xDovtfVBzBmPe15HtATLE5jPvbESBpEhArrHW4bykJ9QJG0G-jR7gbGhTxBxUpQLtfUBjewkRCnh-GfNHcFA",
+               "width" : 3872
+            }
+         ],
+         "place_id" : "ChIJd6FFSPwzK4gR6LIkHez2hQY",
+         "rating" : 3,
+         "reference" : "CmRRAAAAnUvJ8-81Za7PrPYy0CwUmeUy07MLoguoksgJLXADjOgSqNu9zSLSlwek-YwRtoAEY6ejObFmxSL5BfDLbNGSxPC6JbqGU-Axbp31ceew2A1rSJcpUJskn5t6bHnj4chvEhCgYR8uMy3Jd0g0oJ88_SIJGhQhF4g8aDaE7FMjawl9VSu8SyWqRg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "2427 Eglinton Avenue West, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6912072,
+               "lng" : -79.47113
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6925041302915,
+                  "lng" : -79.46975886970851
+               },
+               "southwest" : {
+                  "lat" : 43.6898061697085,
+                  "lng" : -79.47245683029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "c1158b0699f5347873892a3041606bb34e13f949",
+         "name" : "Mello's Cafe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107928058063050496736/photos\"\u003eMello&#39;s Cafe\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1srULiNSUgMUG-GvIuEbOEwq0atPAF1yAWdf59_1xuKlOzwHdm_KRn-WZ-blN5bywCR1ZSlU3tLrd2toxYQow8Cl5D382gRs-HDCU4pRlv-GhGMj5Y8VjQS7LM6P8BBmEhCgMcXvcHla0quRGt9ZAzOZGhT_WWfR9570MqjOye4I_qn98GgHOQ",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJ17fxD1YxK4gRLVnqwPbk_f8",
+         "reference" : "CmRSAAAA77sQBk9g8nBD6jeAiJbUG4kFDXmmhwcUFGvEBIbMxvFB6pzgB1vPTfNUmieTaGqGk7iZEXPl9ohxUTEkgLM2_m1L5VSAyhQYBpVnChTEWzARHGx8hguOzfCIiQ-tgMzVEhAzZSB-FP6Nw8JeAgyK7WYYGhQJTZVvBtOTEpI-JZx_8W8AJs--BA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "2536 Eglinton Avenue West, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6970632,
+               "lng" : -79.45108399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6984202802915,
+                  "lng" : -79.44965921970849
+               },
+               "southwest" : {
+                  "lat" : 43.6957223197085,
+                  "lng" : -79.4523571802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "861fd8c5745d38a3dd9e769da8f64e463f2ca94b",
+         "name" : "York Centre Cafe",
+         "place_id" : "ChIJwZ_kXewzK4gRpdB1SimuDQ8",
+         "rating" : 5,
+         "reference" : "CmRRAAAAnPZT9EEME_i-HSPu_SrMqpXlYQ-yuIJvsZJwgZMQTSiICE-R9cQ1aAdIEodCcKG7V3IGHUCdnZvKhu1c7lQhupxQuh2yOstoTDyvE0tC-63syT08wMDAIgf1j-jeiMGvEhBrD4g2C4SgfYRlk7dqmPjdGhSGReUuNtqfAgUSpcnpxexB_6r_wA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "2408 Dufferin Street, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6981288,
+               "lng" : -79.4514969
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6994973802915,
+                  "lng" : -79.44997976970849
+               },
+               "southwest" : {
+                  "lat" : 43.6967994197085,
+                  "lng" : -79.45267773029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "5b39b1ad8ac44a3c3bc08c288ca6c0bcb3b5a42b",
+         "name" : "Bean Me Up",
+         "place_id" : "ChIJUeESd-wzK4gRzBMWmj_CelU",
+         "reference" : "CmRRAAAA_D4hZOxer22MjN_QpOqDv0PCiTSJ3MKcIxiVePRDvSqWV2IVBc8hTuOWCRROfvqHcnxlI_LMN6fbGF_oZOb4JCIrgXfqWnQymWMDL89NbR-LGm5GzarwhEBMBL-OEAD9EhBeR2CY4aex-K4G6Kj31TnvGhQNfz-hPi5Vx_2TOKoudpBKu_RiRw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "North, 2436 Dufferin Street, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7038061,
+               "lng" : -79.4628103
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7050470302915,
+                  "lng" : -79.4614175197085
+               },
+               "southwest" : {
+                  "lat" : 43.7023490697085,
+                  "lng" : -79.46411548029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "142330451ba63442c89cdf322b33eedf7ced9532",
+         "name" : "MIxed Bag Lunch Café",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJBWaBZOczK4gRdt1VwgBG2Ww",
+         "reference" : "CmRRAAAAbH6yWdjYBQpcvbtk99whZMg5V6er_st6FmuurIhYLCrnWlPa-NKP_nLBEeBA_drV1E60sLH68uBaaNDHsj2iEuAkDbjyXNyGV9kLkMXq2KhXZ5rtn06dibdaFaXxynyzEhAOfAQHw0wFPDmkrUY2lharGhSseu5bcOwa46fxZ6UsCTTVaoQwrA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "160 Tycos Drive, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.69911029999999,
+               "lng" : -79.4755299
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7004396802915,
+                  "lng" : -79.4743528197085
+               },
+               "southwest" : {
+                  "lat" : 43.6977417197085,
+                  "lng" : -79.47705078029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "c337fa21edb3802a97482584d4e60b6fc68d3959",
+         "name" : "Mancini Kitchen",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1098,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118256129539941472833/photos\"\u003eTrevena Young\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-txrZxWsSmTSU0oOcCZ2DhlsFTeMpRQEoa1IbefI_B6xZiPhpYDLCjFioYa9wtZ-4jL5YuY64pD0T1btkyPG_SH5xz7ekEwUBxQKVZ8MZ5jGWq23fJ4Dfu2I6VztrJjGEhCui75Iw1-Igy2qJYG2BPrQGhTVdlLAJqoXX2j9O5DA9Lo-bP90CQ",
+               "width" : 1429
+            }
+         ],
+         "place_id" : "ChIJNbJWe1kxK4gRFN_3fYUK7DY",
+         "rating" : 3,
+         "reference" : "CmRRAAAAvS9vELh5J-rIM5Z5SHSrduf_fwUn3h1qkbWTt7vXeJb74aB1iMAfJVX613Ar2_sN_2fpcwJvPE-3-iR_d7hUbR4mBgejL-w_ZHvNjLwqloKfubMGw5gGc14bwhAHMEeaEhALPE6OFGpkygNUS1lBxZCAGhTB7ukuo9LF_galhg05lsyH-O_JtA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "2221 Keele Street, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6920372,
+               "lng" : -79.4449515
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6933674802915,
+                  "lng" : -79.4436916697085
+               },
+               "southwest" : {
+                  "lat" : 43.69066951970851,
+                  "lng" : -79.44638963029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "b4aa2fb4b99bc3fe6eaab8568ba2fcc7f2707dd3",
+         "name" : "Ghanem & Nana",
+         "place_id" : "ChIJkZnc84EzK4gRFrTREybrrHY",
+         "reference" : "CmRRAAAAdXhzxZy08rKyUzAGARkkN2ZhIXHO2AgNGCAKt6Nefyq4R9WOCAUy8sF9YiwD8Sank_s14gNx7fGGTxiYnkBVXMqr9xF5vPCTs7NuUWAchoGlDDEvKQkknFB1B4j_H7WPEhDuBL0xQre8XBtxVJ6lqMdxGhR3aiseijvmywS-C8uGLopnUNk39g",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "583 Lauder Avenue, York"
+      }
+   ],
+   "status" : "OK"
+}

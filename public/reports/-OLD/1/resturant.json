@@ -1,0 +1,736 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQD5gEAACROnL4C33eKY8sT00-kgSwbgDnY-QU3k5prnQdSBOjY1t-YdpGJzVDt8yUMk-V4TpfiEr-9oYl84K0TrD-r2M7JqtlqCxoc6RPxwKl4dkYNNzA-lIOqrk4STt5a2Dqdf6RBP-PJjmlaA3Vn83VBJsSYiipIImRiB_NbOznMQEW0DcdvAc1Wi3CSYOajS7mepEKEjcX8o5Ecyi1Fwil1jxexbiq2Zcltwf15sgSrJBFGHmR1tHWgRFs7_qRInjV50v8Ahry0GfETdqOrblJpGxwUKHFQs7Ws5z3j628izmfa-YClklzioRQ7Jw3s5aepT5gwelSqMGR-OefZYo2EaxbeIQNl-n4XMcdAVb09gPU_KCbUNXoiETNH6lsos12GBIJQ2mCLoT5mZEtK00gVXw-wND-fnXKjTCofB4YAkEZEgClu4BiuQpVCzFTe7ZtsBY7D0A2ZEyqOagp8W7vXM0pAKBldZwlVHETlCiBnEpPc2SSvQ9vPv1dfL0YCI571fhXHBktiXm1zZnHnroSGnz8QU8j1uHilIPq3jLTYL4mmq3n8trAKdUdUcRMX9geDMc_3uspPTgG28Y5_obAOWNeSumb1gQx0UJRKMiPKZsVtIYs-5b8ayHSS5lX4oFg_Py1AZQRWYmqRrwPB6WFmB3QSEOJJXzG22Dn9oMeTCBoVuPcaFNOzQGALSEYln6C9d_dpAdvdMame",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.544389,
+               "lng" : -113.4909267
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7160999,
+                  "lng" : -113.2731591
+               },
+               "southwest" : {
+                  "lat" : 53.395655,
+                  "lng" : -113.7147381
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "c700141550008fa06f546762bc7f002e9ea101c7",
+         "name" : "Edmonton",
+         "photos" : [
+            {
+               "height" : 3632,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109339704651273913033/photos\"\u003eNorm Kerychuk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1_HL7jonRR0o0YVJGJ3lyXM7AIUnQ_vm6a3Do_PwLq3uauF27ZCd0Rh5JVJxpHbbzn-CSSq_ioVLmWA-O12Trbrl9-juQRdjB7lWzcNK6m1svTxf7vXlCTBWZQ29UmxLEhDcY94LHRalQ1yCF_vjmwJFGhTN42TbhD-7vUgOz77H_vWDpy9a0g",
+               "width" : 5456
+            }
+         ],
+         "place_id" : "ChIJI__egEUioFMRXRX2SgygH0E",
+         "reference" : "CmRbAAAARZoYMnQEfMVeRoqLAQOl_NVUCIAy4xUZ78uBE6DRJnmCuk_B22V-OqQhZ46cBBifW5CUGnqz8L1uOql1iecyfn2T0jcb2C2pnOmewRmJpckGOjbtlWIUq2PKtpPfjTjjEhDNy-IXmF_ekN_pdP6_T6BQGhSTtqGz2R2VtT2Aa_uOckVCl5hxeA",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.46107900000001,
+               "lng" : -113.530205
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4622084802915,
+                  "lng" : -113.5284045197085
+               },
+               "southwest" : {
+                  "lat" : 53.4595105197085,
+                  "lng" : -113.5311024802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0d10b03f69b46617b7c873a1f83f9011f2953cdc",
+         "name" : "Blue Quill Dental Centre",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJZ55rjgMfoFMRV56OwOPavkk",
+         "rating" : 4.9,
+         "reference" : "CmRRAAAARFsCvL7Q4xtHE01rpbUk50iZvh5spCAO5c6GjN1dcKVIZDvkAS6EHrcjy2I4W3GuNA4mMygUzNGDzXkn_lSkgxHD-mZz5ftq1_UUWr-4VXgB7O_q9QgT3ttaZLOtUVFMEhB3AzACNVq85J1wWdjArtfNGhS1F-xvR3x5WXBNB_AtVkwayHD0AQ",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "294 Saddleback Road Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4610656,
+               "lng" : -113.5296742
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4622517802915,
+                  "lng" : -113.5280636197085
+               },
+               "southwest" : {
+                  "lat" : 53.4595538197085,
+                  "lng" : -113.5307615802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8b9e51185e0ef652ed676bde87179006697d93d1",
+         "name" : "Royal Pizza",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112635136715187697057/photos\"\u003eShawn Fraser\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVNqvMcSXM_mQmqNUKYUH4Bt0aZxpJh5g62BmuIqCFy-loS3j6KjXkvOAEMfXKcJSPdUbYn9yo4vDPhlgPACkpWMyCuJl83rzPRb_FFUQuK2vAU4HnWyCtVZsZTo4yfVTEhDinwejDCSMbLzCxNn-_7vjGhTgKd5sHtbaSnSiv5KUlRlhnGVBQQ",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJoziJjgMfoFMRSbvKTalc4ME",
+         "rating" : 3.6,
+         "reference" : "CmRSAAAATbMZSYldWBauDZLdkKIj1wwDFMB7ZYYObRc01ZTw1TBiPMec334NOUaoKdXrbpXoweuZncTUA_ONIggSYCbaZx6NCul54BX2ejAZYdfXylEWwUvUsWuP7AHN4Gek5h1FEhCDJn4mztNOAvazwaJDicWGGhSciiPKMSUqsAFbzOyt7eMXwEFIMA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "290 Saddleback Road Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.476058,
+               "lng" : -113.537538
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4775262302915,
+                  "lng" : -113.5361890197085
+               },
+               "southwest" : {
+                  "lat" : 53.4748282697085,
+                  "lng" : -113.5388869802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a00d89f4f71b6ed19eca6768ded19bd10e9d2241",
+         "name" : "Soho Master Hair Stylists",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100867044918634629565/photos\"\u003eSoho Master Hair Stylists\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAz4Pm9yduJa0bKfLC9Jw9VmyPqB_y3z9VnDQmPrD9hhCr_zhyXIC0H_SybzEy1D3lafnpDxtqjYCm1_EL_ohvfv7f0FnU5qd-6W5E5PMBeOhhiBpyzBJi8BMGMppsrgliEhAANJc8a40SRXJ18oLdS1PUGhQiyFhj6gpBNPtJbP7o46pRQjVvAQ",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJB4ofVA0foFMRPzS0RyyCepE",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAw-5fGAd8Ow4YogOT6z-KQPRThEwzrRDJf88VLqvnLHlmMx-P75YO7xhUHQ8f2_pR89UktEzsf6dNvUWdUDmBzf9gMKagQtEB3oPSOtrRdF0gjj4uR5GwH5GvfpyYSGnaEhDFsEtEjNwN70QkXw3omcSOGhSQU5KzOGZHxDSyy1IbkHlVHjSC5Q",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "hair_care", "point_of_interest", "establishment" ],
+         "vicinity" : "11815 40 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4611743,
+               "lng" : -113.5289125
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.46241733029149,
+                  "lng" : -113.5274480697085
+               },
+               "southwest" : {
+                  "lat" : 53.45971936970849,
+                  "lng" : -113.5301460302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ae85c39e761a08c4668f2cb3804675df0b36058c",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 397,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113733863046204867441/photos\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApTKI6SLbxwQmX-KzHc59dmANQtdVaT70E9tTWYr7KnaOMC4vE7EAPM176MfYISPeQvXFOP82fDdLqBo2Gkr2UGulS8yLKcn6DOh53ZiZ3N26OXrEaYaOiSQOYLhwSmNuEhAg4K4OWTF908mSMsEmYaaoGhRAzgQeUcCSYG2icezl01wCj_4UeQ",
+               "width" : 515
+            }
+         ],
+         "place_id" : "ChIJ1d72hQMfoFMRhT6gKaoWNDo",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAfsV1FVAHholyGVr2sIRHKO6rA68vBxXfUp31qJq2nYlpt8QS33250hd4zZv3TOLqY8beBGeSivoDzJkHmyfDakggfST4fSP6AS-A8iVJZqHlnaoeJUBX57nrV9ushMObEhBkMW9ZjP9xi5N6Ty99SiDXGhSUiWjPHIWPjkAxgArZ2BdQWzCISA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "280 Saddleback Road Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.46034299999999,
+               "lng" : -113.5312236
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4617136802915,
+                  "lng" : -113.5302208197085
+               },
+               "southwest" : {
+                  "lat" : 53.4590157197085,
+                  "lng" : -113.5329187802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f4396abf2e69288f0fd1e27d5f453b4115eead89",
+         "name" : "Blue Quill Chinese Food",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113420012082363914894/photos\"\u003eEdward Convey\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7PZ99RLa6zdIpjQIpT2P1l3gzsJavnO3LxexjVxStMfP9ydm2gHOUe2HR_gU2eAvDBx8amY_pkhMilyXIo4ubpZSaMJAiTXk2V_r4a9kWPhee3HXcFFR3TInVS1A_-i-EhD5U0_VsUZDkaV9uYmwCbVvGhQrwHshIFarGFRvlCoLFg8Oz2cxWQ",
+               "width" : 3984
+            }
+         ],
+         "place_id" : "ChIJ56k5_wMfoFMRTMF2C5xXmP4",
+         "rating" : 3.7,
+         "reference" : "CmRSAAAAA6Ih4Uz3RRVdO1ZMXNH_8bdzQF6Qcg8636ulMi5GykeRc6GD0kpXSB0Cs-zxDY44ieCtz_LjiIKla7upEFC3xEXA6bOFpmqbcnhLGoCpme7QwJ2GHObDtUM3wFttpNxDEhAdm_14uwht0miN1l0vBr4sGhT4rqbuH2IgE_KwPx4VOcEwJVz3pg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "2821 116 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.454953,
+               "lng" : -113.513699
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.45630198029149,
+                  "lng" : -113.5123500197085
+               },
+               "southwest" : {
+                  "lat" : 53.45360401970849,
+                  "lng" : -113.5150479802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e7a4c930e95653ec1727394186c652e19451526b",
+         "name" : "MIC Medical Imaging - Century Park",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 757,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115946546166134876876/photos\"\u003eMIC Medical Imaging - Century Park\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2Lbnt6FQMxLkOQdg_3UQBdiraBQfYXRynQ9Cb-N4Cf1VFJrDL4w-RvfMQUA85Gh0OiYcoy9PLIjFbLWNDuLpRIA7Rj6yTqffS7PGDYJjLG6qDKz0NFAqEitoef1omeKzEhAU5PMw4Po6nnR4I1IF8K5VGhQQIj-TOsttJWaCLwfeD11ECyL6MA",
+               "width" : 1008
+            }
+         ],
+         "place_id" : "ChIJy7H2COMeoFMRWOH2adB3-Cc",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAA5oCvwenin6HUo-u3OQQZqOfm-5d1qJNVTCtMvIkMTNnNP0EFLRfP4Z23UMU8itKlNKGAv9Ec6tjmpdT2daI5BjzbuduES9OKldLtZ0DgE7B36IYNEKg1M-en8ix8fCL_EhD-n5fmgF1_yIWNED-aT_BfGhQR4_89U1cR8rDiKzUq0pJewPKwMw",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "#201, 2377 111 Street, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4532501,
+               "lng" : -113.5245022
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4545990802915,
+                  "lng" : -113.5231532197085
+               },
+               "southwest" : {
+                  "lat" : 53.4519011197085,
+                  "lng" : -113.5258511802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "097a1c0070ed117271563e1cf4d63cfb4a7806db",
+         "name" : "Pizza Hut",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109603940786199528876/photos\"\u003eSpencer W\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHVTSwaNfx0Mlud-PA8dQqDfbcOBRrQ8aUnPnd3T_6bHoIRy7XiEm27Y1ZlAa5SF--980azfVSn564g6KBBLaBvEYYJ2IPviJ9_RrM8kjNi2UMKv5LYkPSGzkeaN-k66CEhDvetzHuQwJrhGA9hha769XGhTY0SVIZ2taZu7p2kRgCg7nDHxQTw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJGX3WMPweoFMRfNwKpESQu3g",
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "CmRRAAAAV5JZKyxBsAMTgDumJhzxHlFY-kS54Qn_AwcftYQ8Q3TduZcV02G-NiQGPEVinZQWIBBhZQRQN1J_9OHEiWQ-OfR6NQLG3Xm4mn44Tb304GLQ_wHvHGKZijMD0qPYn5Q3EhAqsAuXcE-TyiEM2skGmmPgGhT3FXSnSI3ZWY67TVPRXP14WBamCQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "811 Saddleback Road Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.461081,
+               "lng" : -113.530665
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4621559802915,
+                  "lng" : -113.5287025197085
+               },
+               "southwest" : {
+                  "lat" : 53.4594580197085,
+                  "lng" : -113.5314004802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6325902e37b9496e1c3d16fb23aaa59ba8d275fc",
+         "name" : "Edmonton Homes Group",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 647,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113078555502387506532/photos\"\u003eEdmonton Homes Group\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8WvtM5TLC80VNG6zgzvzyZ_BoTittTDt74zzQlBYl0ZfwoQPhAXZDliuDg2RPNvTsGCRI5WhurgPnOLq8WqeC0HmiaVHQew98uEXZoLLZ2uPkqslStdc8KxktOwcoEBgEhCbmBmhS1Tjy_r5kFfo3bp6GhTW2BEFEkSYfR0yG0OQgazUftB9Bg",
+               "width" : 646
+            }
+         ],
+         "place_id" : "ChIJXzf0jQMfoFMRJ7Qm1Yyest0",
+         "reference" : "CmRSAAAAo8_DPOP5pP1L0OsKaT6P0ZQpCXpfbNvy6cUkYmVMpJkyFJDRLUvcPMrSBXHFAmO61yE-M6pRjSRVGwqdTf0S2g4qtrZRtUGpbxpwiRemHsXKY7tHC9Ov0mwrdD1zrPuYEhB9X_6EPJlqwVt53EwLdlWOGhTlGU0LLH-ZsEA4ZfnXDRe8diO3Yw",
+         "scope" : "GOOGLE",
+         "types" : [ "real_estate_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "312 Saddleback Road Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.46110119999999,
+               "lng" : -113.5282568
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.46245018029148,
+                  "lng" : -113.5269078197085
+               },
+               "southwest" : {
+                  "lat" : 53.45975221970849,
+                  "lng" : -113.5296057802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "056b24931c76627a53cb9e478365b8f4004b6b75",
+         "name" : "Blue Quill Physical Therapy",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJFcRTjgMfoFMRM8EKAUtGB1s",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAAK9WmpkbG5CsLwmdsidpQg8UjxVt3nz_jngP2URgtqC7MDWaMAuLkkoS64uCfTdZCnlp4ulOxymwnzi127OKsDsgCFzhYBqCa1RMn1vhsvYokL13b4W5jRBV4OBtuBykUEhAoGI8l9aAwTKCrfS8s_4-xGhQNbNC6WUtz1vRs48OWWxXoAlB8LA",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "point_of_interest", "establishment" ],
+         "vicinity" : "288 Saddleback Rd NW, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.453711,
+               "lng" : -113.5285299
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4550599802915,
+                  "lng" : -113.5271809197085
+               },
+               "southwest" : {
+                  "lat" : 53.4523620197085,
+                  "lng" : -113.5298788802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "d380856ce3b640ea2867a4578386b16f85f902a4",
+         "name" : "Urban Sanctuary",
+         "place_id" : "ChIJhbuEQv4eoFMRq7rMJupnNyE",
+         "reference" : "CmRRAAAAVFPklUXEP-WzlpyIRRZovH-mBniEXoicUZXVrzzbnAWYZojtpt1BQtRvTVDo_r9ldEnSbXR2Rs2a2bYNBk4kR8Gwz9leJJ2x0ycbzNJA41L3MoYDicJuwK8oONcAWJhIEhApHbXsZ4kZulF8SWuZmojIGhQ1QYjK9IRxqLxpg5t6otJjBzpcog",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "11525 23 Ave NW, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.47624379999999,
+               "lng" : -113.5262294
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.47756833029149,
+                  "lng" : -113.5247366197085
+               },
+               "southwest" : {
+                  "lat" : 53.47487036970849,
+                  "lng" : -113.5274345802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "a67baeee8a868b3b8606bce236a328934cfc309c",
+         "name" : "Montessori School House B & G Ltd",
+         "place_id" : "ChIJLzjYiRQfoFMRyZNoOXwOR2Y",
+         "rating" : 3.3,
+         "reference" : "CmRRAAAAdOoAUPW4iUDOi0KmJMIKDFT4B1ExXLJBSgzwd3R2AkURbEoSpxYdP7WEUAQODoi34lxwYkLal54ZNM9VA-DfgMWfJ67-qVkkaqg1gIqho5ohiDdBPfXzUsPonLNUsA3jEhBwZzlsCeJ3_gXHyMeb8-C3GhSnNuBZBCEDy9KQq3Gk0rQjH65z4A",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "4004 114 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.461081,
+               "lng" : -113.530665
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4621559802915,
+                  "lng" : -113.5287025197085
+               },
+               "southwest" : {
+                  "lat" : 53.4594580197085,
+                  "lng" : -113.5314004802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1597b34d6089f0ba3dcd51800d6ead7dd6aff179",
+         "name" : "Brad Warkentin",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1615,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118166372962990466726/photos\"\u003eBrad Warkentin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6rXCoqS-AJp84HFV8IXwc7RFPK2W6rawbYFOfIw9g9Ddi-aRKSu84WfRXkG0lDF-WrbYZTjTucLYjJc7DObAmCZFS0N6I9A-82lTetpb_GF8dM_Sb8ZtVSVc1UCZuhWWEhAgTaWB9AYmbd8Ke9atxWEZGhQiXNBog0XZxzoFYwG9bxFtBZCxYw",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJj31fawYioFMRw7DdGPTSjYI",
+         "reference" : "CmRSAAAAVQW1QKayOyzmhvvVu7yU1UnLypM78G62POjI1bK85RkBdBlk-7uaELr-Y0-ecTzqCTkhNe2MAwhoEZD2xvPIBOIkzsnUqWzY8ye-hwQFr3pR3RgKFBLNjU97BNNo-WBUEhBfHbZPapWUv3XIiSu0iDHMGhRXWo3c3MXxrE_YdYJoNg29oQcIzg",
+         "scope" : "GOOGLE",
+         "types" : [ "real_estate_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "312 Saddleback Road Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4683499,
+               "lng" : -113.5402524
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4696990302915,
+                  "lng" : -113.5382079
+               },
+               "southwest" : {
+                  "lat" : 53.4670010697085,
+                  "lng" : -113.5409339
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/golf-71.png",
+         "id" : "3f4a23fcb74f2e21f06dbe64635266bada8f6865",
+         "name" : "The Derrick Golf and Winter Club",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110127914875370537191/photos\"\u003eJon Craig\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5K8hABNUXr_gpjQlOJageZXI69IrH0E6Ktfl75obx0AnNTIv_GlAdnRKoC5ib-aZhVf7FxnmYKNOyE3NOkrTwkLx2lmZR2qaGKQtmFCMsiVtJ3SFlo55gwCVk8lZ7SedEhDrpUSckDqkuAA-MtPyMzK_GhS-qJcDqYnwkJ1AAl7vGu3eNMwJ4w",
+               "width" : 3984
+            }
+         ],
+         "place_id" : "ChIJ3U1SvgkfoFMRCwG6SJw3vvs",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAr04-XZgz2w4xRZcuF1GLV6Bvh8fZ1VO0VgH4erFhN0zIQZNTWJvEr1F7dy_Ok42apa6ki_FHm-kh2kbssYhYYweEGGo6pLO8Uwy1Qzun3jjNnkiZvjt8D8NR_KidwHEjEhB_qeX8VFgEd6ruBotoET-DGhQb0K1Qs6QTvQXZ0sKtRySAM3frsg",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "3500 119 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4601342,
+               "lng" : -113.5297654
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4614923302915,
+                  "lng" : -113.5284670197085
+               },
+               "southwest" : {
+                  "lat" : 53.4587943697085,
+                  "lng" : -113.5311649802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "15380a41649b294667085d62259d33be75a4e855",
+         "name" : "Alotta Fun Childcare",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJc1746QMfoFMRZ0MM5qHwDcc",
+         "reference" : "CmRSAAAARvmrv3sKObngJOPioLUL4F7kSk8gb3NuYPVTJyt6vo66Fs6KObunOhh-YLDrzQ8--xQ5ya4BH4x4iWUXk9Ito6M7IpPIDMlLt-igehReZfVRPlZfIBYxrEBxVT4LpG0BEhBJCN9uU3TL9vm-wvFDcPX7GhQbPFfJKJb14lgC_XhEA9z2tK7lgw",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "437 Saddleback Road Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.473531,
+               "lng" : -113.541568
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4745265802915,
+                  "lng" : -113.5403796197085
+               },
+               "southwest" : {
+                  "lat" : 53.4718286197085,
+                  "lng" : -113.5430775802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "71957e516bc86c8d217df9130ce010ba69fc6efa",
+         "name" : "Vernon Barford School",
+         "place_id" : "ChIJ66b_jQwfoFMRYck2Ui7v99A",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAA0mh-lMaOn4opyEsSuk968_dESeV1x02QJVx8BKlgeTBL7hmX0tsINbnTlrwZ0TYiekr8pkYmepYEMmVN0IC0bvBcf9aTOdyGqcNH_sEiJbUYXTNSKWWanfOFXEoOS7EZEhD6IQLY9S9LDX6rkHqW2b7YGhS5zJmoFyQ86FDBklZ65HN1O6rCHA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "32 Fairway Drive Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4599432,
+               "lng" : -113.5298698
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.46129578029151,
+                  "lng" : -113.5285502197085
+               },
+               "southwest" : {
+                  "lat" : 53.45859781970851,
+                  "lng" : -113.5312481802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "68a257b54da43a39b5faf8e41af4d1932e95d39a",
+         "name" : "Saddleback Dental Centre",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102851013188778180347/photos\"\u003eSaddleback Dental Centre\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFYZaG1ZdO7GMg7-S8fAJ_612gFN_gV7-8IlwHTaYfthLw-CF_qHcZfgXSq8ldmJWSQelcxRcp7KUyGp49rVHfFLh1TEs1hzVTW_YkBaU8zTiZPFDS7GD66ZAc7u6nLdfEhBHAPdKkdGO0-bLI4RFIvM5GhRhTd4rfhJ2cJmq4PW1UNsU2Ws55A",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ76Wi6wMfoFMR2uwd24UAmNc",
+         "rating" : 4,
+         "reference" : "CmRSAAAAfMJNxmfCv8GjIqFQs_7-bf0KuLw-bb3LStrR4FDp8blQPhzhka9GJ3PLO7gV3IYQ4RskaTsYYgQmd-3paO5osjdjzt-UA_1BvowwD8XppDl0fhy0MoEJY-ifq-_cxXfBEhDBKF_4ZLnHDCp3XiQCQT35GhS7Vobh_auvoIClSDqYUy8p9aQnAQ",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "378 Saddleback Road Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4766855,
+               "lng" : -113.5347275
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4780344802915,
+                  "lng" : -113.5333785197085
+               },
+               "southwest" : {
+                  "lat" : 53.4753365197085,
+                  "lng" : -113.5360764802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "ccde45ecb6ccf57b22df714cc8967a26573195ba",
+         "name" : "Richard Secord Out Of School Care Society",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJQ3T-L20foFMRhyrwCL6pHI8",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAM5U2ljlon1PVPaQmDca7uHKfKGLmyYHT5f8zi2qtzfQwCQ4VTF0_pWrTfgmEhw5AuflTbHFUyn2NACaMPVg7t5dgHDmphhFp03JkvQULqdRE2uYQ6bNiensLXFluK3iqEhBxtFozkv-ZbXXG1YWGE1DtGhQwXZMnOepyeGmP5mE2-CLFzEPldQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "4025 117 St NW, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4534891,
+               "lng" : -113.5246034
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.45483873029151,
+                  "lng" : -113.5237161197085
+               },
+               "southwest" : {
+                  "lat" : 53.45214076970851,
+                  "lng" : -113.5264140802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "41ac0275be995f2a91bb186ad24a59a8010c7618",
+         "name" : "Sicilian Pasta Kitchen South",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106460272334827467471/photos\"\u003eChristopher Gaul\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA53LMXfvjIhYcWxlms59jrkbHpAbdlUIbikmfrXgsUf2d6CukYk5xJNsniyI5AMdeVv6OSgubLze1v3MBxL0T52jxE0vjOapgLQ8eFdjGWvP4tn9V9EaWGXKZko3i3RXHEhCS72w4x9vI2AQ5gxOcqJpaGhRMGxgbuYeDWWDUluXrzrD_dIzvaA",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJQQGO0_0eoFMR-czNcYZ_lc0",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAAnDSWNLgr9V5JY2nll1lCsBNuX2MlyP8YmQ1vofDSYo4o7-fjh8oEHwGfHudaxI8q8AN4t7N0kG5gyMXswnkHV8WmYj6nL5LPIYqDoo8WY6z_CxmMD9Nl3DlcdOrmEHukEhBT_0-PUAxidUddXeycyX26GhTJbUjktKcakOq6eyJNBhdhjQLYEA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "805 Saddleback Road Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4282726,
+               "lng" : -113.550156
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.518321,
+                  "lng" : -113.4905682
+               },
+               "southwest" : {
+                  "lat" : 53.395612,
+                  "lng" : -113.6583879
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "3e127eb631d86b52a5972c2b0b66e44029744e6e",
+         "name" : "Southwest Edmonton",
+         "place_id" : "ChIJpRtk97cfoFMRmr8B4OOlVOw",
+         "reference" : "CmRbAAAAv7VmMALzAHiQ4wHp-2s11mEC5lCCnrnyDoTgP24rHYnDo5yKrwJPdCYtQZiso3rcSbfamSVznbtqQ7du1ZsvvSjYgo0wDVh4LSYYUJdOZ9TNiiA-uGBymeA75jTsP0bvEhAbor9uJtFjwCXdil69jQ5SGhTS0W2JjP4KxZo7S6PDBjGGOrYhvg",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

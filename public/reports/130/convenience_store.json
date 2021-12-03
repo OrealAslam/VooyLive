@@ -1,0 +1,113 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4694769,
+               "lng" : -113.5872791
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4707132302915,
+                  "lng" : -113.5860067697085
+               },
+               "southwest" : {
+                  "lat" : 53.4680152697085,
+                  "lng" : -113.5887047302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "9df96a89cf8d1ea34eab58ea5acd6e954870b801",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118098897907596372339/photos\"\u003eBebe Chan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAarvGYld0NuPkhe4vKzIMWgTJX3JhikIeXoIS4wEwFg9kueevR4h6f6xjGUJzG-Sj63mPlE0qVmWxPjkvUV4Af0aFjmEQRGCDgSrE1BCm8jdrrUJxBijoHHuG5k1LAIv8EhB3jJT1_qjnIZXUYdmVIe0-GhQ2QEZqHNJjbAGjAWd_w-DsrH0HLw",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJJ0QS0-ofoFMRbBZmnNHMlq0",
+         "plus_code" : {
+            "compound_code" : "FC97+Q3 Edmonton, Alberta, Canada",
+            "global_code" : "9558FC97+Q3"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJJ0QS0-ofoFMRbBZmnNHMlq0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "convenience_store",
+            "car_wash",
+            "finance",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 20,
+         "vicinity" : "800 Riverbend Square Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4840534,
+               "lng" : -113.5790896
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4852375802915,
+                  "lng" : -113.5778196197085
+               },
+               "southwest" : {
+                  "lat" : 53.4825396197085,
+                  "lng" : -113.5805175802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "72f767823a8cc4205e0c65b44f2fe997c3445148",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1576,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102475515286417252065/photos\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQYPFW7mleNXD1eOtxRxhQrtgRGueTyrqRIGtsRFMskJ9dwGhv0IxatDypyFFUc9wlgcn1wr74gTqjJQ0Rbz5HSa9-VBfp0Z-v4WqOTaN5FbvPN6smALEAVPfLlPdh8fpEhAwTSqd8v_6XxCtS7kYaN5HGhR4xL3U0sAr9ZF_MnyRs9bs3y8byw",
+               "width" : 1888
+            }
+         ],
+         "place_id" : "ChIJ1eI_m84ioFMRvCOqdcG3K-A",
+         "plus_code" : {
+            "compound_code" : "FCMC+J9 Edmonton, Alberta, Canada",
+            "global_code" : "9558FCMC+J9"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJ1eI_m84ioFMRvCOqdcG3K-A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 15,
+         "vicinity" : "14908 45th Avenue Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

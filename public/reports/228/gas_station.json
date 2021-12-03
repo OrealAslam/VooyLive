@@ -1,0 +1,801 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.46212740000001,
+               "lng" : -113.4941729
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4635702302915,
+                  "lng" : -113.4929206197085
+               },
+               "southwest" : {
+                  "lat" : 53.4608722697085,
+                  "lng" : -113.4956185802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Chevron",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1036,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117052046472913942256\"\u003eCole Symington\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEADBEcK9D9klCp6eyb_9ll_aRbKD0TThaBND0uXJamWURVdA7OObQeWVR3WPTZcv9C3Knxr4IR0LUCWEAZsqrQSu6afA8N1WNK2o32HIE_GslHH3yctUCmn16u6omAC1_jxAmDrQZbx3eJcwAqllehmKrVfFSnKLIOKmN2mD_cFXZ1a",
+               "width" : 1381
+            }
+         ],
+         "place_id" : "ChIJPwAAwEgioFMRAqW7pp_Vitk",
+         "plus_code" : {
+            "compound_code" : "FG64+V8 Edmonton, AB, Canada",
+            "global_code" : "9558FG64+V8"
+         },
+         "rating" : 4,
+         "reference" : "ChIJPwAAwEgioFMRAqW7pp_Vitk",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 124,
+         "vicinity" : "3006 Calgary Trail Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.462052,
+               "lng" : -113.49288
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4633553802915,
+                  "lng" : -113.4915289697085
+               },
+               "southwest" : {
+                  "lat" : 53.4606574197085,
+                  "lng" : -113.4942269302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 993,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108166606816601468309\"\u003eTrudy L&#39;hirondelle\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEACCR7jZe-idly6ERQTdjb2qp0qozVR4nVAKQei7MsYwv-9PO1aBF_WSNqSr6t5KoDSzI2iERdyW7CRQNx1yx1akHTsXuokWasYGYLk1MfCzHRJAWW1XBXf2WhIIc0CpsnwiVaXHHOZiVAxYHTRvdIHPXPnouCbmNEWgHe0NqOxZrg_",
+               "width" : 750
+            }
+         ],
+         "place_id" : "ChIJ0XN6kdgeoFMRnaNiJbqaWqU",
+         "plus_code" : {
+            "compound_code" : "FG64+RR Edmonton, AB, Canada",
+            "global_code" : "9558FG64+RR"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJ0XN6kdgeoFMRnaNiJbqaWqU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 152,
+         "vicinity" : "3003 Calgary Trail Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.445636,
+               "lng" : -113.49156
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4469489302915,
+                  "lng" : -113.4901456697085
+               },
+               "southwest" : {
+                  "lat" : 53.4442509697085,
+                  "lng" : -113.4928436302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117588698199279878470\"\u003eQuase Gringa\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBmDePY7q4MnZ4O-uEM0bFhVE8B4fBE_NgL6gPAMfRG5wSZiwUompJbFWlOFSOLp0uZsWbpvwwbxZHGdDI8xj42sgRbcEO-6YaBY8XjOyOgwLOzYdDqqxWasBGkXpma7-P5S0wnxAb3IW_kjIHVNYuwoS_jNcnQD0FaqbmnFeLaI-zc",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJF-I1BOoeoFMR1Ezvx5Yb7zI",
+         "plus_code" : {
+            "compound_code" : "CGW5+79 Edmonton, AB, Canada",
+            "global_code" : "9558CGW5+79"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJF-I1BOoeoFMR1Ezvx5Yb7zI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "car_wash",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 66,
+         "vicinity" : "1830 102 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4673579,
+               "lng" : -113.4940176
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.46877343029149,
+                  "lng" : -113.4926530697085
+               },
+               "southwest" : {
+                  "lat" : 53.4660754697085,
+                  "lng" : -113.4953510302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2934,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103463873876582952968\"\u003eViju Nair\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBG1nxPFIQo_Zaa6TPKOFaecCRuQBiO6qhnOOwpDyjl9tN2uBSzUmvy0sKxzBvnaJKrI4ZwNrEV8Rm16OkAaCdOiOu-JTKQafyG5DMBdxttpqUYJORuCYiDW0Qsp6XVTV8X16FC2MG7w233kdd0ZGgO7AShX5hQLOKdcbafnQ--y16k",
+               "width" : 5216
+            }
+         ],
+         "place_id" : "ChIJZWfDQSYfoFMRS9lrBkubQEk",
+         "plus_code" : {
+            "compound_code" : "FG84+W9 Edmonton, AB, Canada",
+            "global_code" : "9558FG84+W9"
+         },
+         "price_level" : 2,
+         "rating" : 3.1,
+         "reference" : "ChIJZWfDQSYfoFMRS9lrBkubQEk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "convenience_store",
+            "meal_delivery",
+            "finance",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 40,
+         "vicinity" : "10325 34 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.46987970000001,
+               "lng" : -113.4950096
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4712286802915,
+                  "lng" : -113.4936606197085
+               },
+               "southwest" : {
+                  "lat" : 53.4685307197085,
+                  "lng" : -113.4963585802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110996005157812108803\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB-BGXtWkbz0wcFhvke5ez3r2rHweNJhwMu0lM4SMgwVfmAEH0onxbMqRca-VlDIgXqCAlyb8AhRrr3GMIhx7jAnoZ-KBh2bsBwNkP-PD0tUtTVqnHXCcgkgLbrSZZyFoPDHaeRQSlH-u1QAb0hqNDZe0NFheopbmYLmWlSRRzd3VOA",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ7eAvkyUfoFMRnrwh8XfbA7Y",
+         "plus_code" : {
+            "compound_code" : "FG93+XX Edmonton, AB, Canada",
+            "global_code" : "9558FG93+XX"
+         },
+         "rating" : 2.3,
+         "reference" : "ChIJ7eAvkyUfoFMRnrwh8XfbA7Y",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 18,
+         "vicinity" : "3615 Calgary Trail Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4529103,
+               "lng" : -113.4892811
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4542154802915,
+                  "lng" : -113.4878956197085
+               },
+               "southwest" : {
+                  "lat" : 53.4515175197085,
+                  "lng" : -113.4905935802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Canadian Tire Gas+",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115769605042534868882\"\u003eCanadian Tire Gas+\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECv73zNVxPGU-q96KeEwMYeV1omnVjUG1Sjc525U_xN7xz9CsRTR1D6jgfhF7Km8MiGyeayoopOorBGPHI37zLB8U31lU2F2TK3CdXB4dlgQ-NhQtmMVMxJ2HtWu64oKvYxAsHjqO_HlwPKwHfUs439VACTCkaOVO7jvR2Kxu-jdzgX",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJO7jAmS8foFMRKHrnr2YFQdk",
+         "plus_code" : {
+            "compound_code" : "FG36+57 Edmonton, AB, Canada",
+            "global_code" : "9558FG36+57"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJO7jAmS8foFMRKHrnr2YFQdk",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 32,
+         "vicinity" : "2110 101 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.468031,
+               "lng" : -113.484622
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4692395802915,
+                  "lng" : -113.4833267197085
+               },
+               "southwest" : {
+                  "lat" : 53.46654161970851,
+                  "lng" : -113.4860246802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114245395247857004347\"\u003eArif Nadeem\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBL_Hc4MsFK-PaMq0ig7o5woGuHSL3TX_MMbai6n5P1ySNCNgTZqHHFMWdCcoP61RlN2fhfZ_fnWvjzw8oaOrlLfAc4-XUAQijE-p2RiuISPEiRzqhx8BdmpjSFIIebr_-jexpfsFlRAxYiFLP2-XPu0pycqFfFwVS9stjjC4UxILCf",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJbXOJcykfoFMR9CY1AOkdkoE",
+         "plus_code" : {
+            "compound_code" : "FG98+65 Edmonton, AB, Canada",
+            "global_code" : "9558FG98+65"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJbXOJcykfoFMR9CY1AOkdkoE",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 152,
+         "vicinity" : "9850 34 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.46980989999999,
+               "lng" : -113.4950058
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4711577802915,
+                  "lng" : -113.4937549697085
+               },
+               "southwest" : {
+                  "lat" : 53.4684598197085,
+                  "lng" : -113.4964529302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3036,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113833159437907179898\"\u003eHenry Du\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAkfqQtsIiPTmjnTo7mHPBZUnCSrnXVOLtVF8YzPXjLmS9KwBelgwxijMsWeTA2-Xxtj11vsxrWFaDTtedKKujjTkafnPKnjVt93OhzFWYTvO_x-Kdt5t-0m2hgDYKQBgoI_9i0mAdXMpligsB6IRmkqhrjL1KeMEQ-8OIbSPrWMKIA",
+               "width" : 4048
+            }
+         ],
+         "place_id" : "ChIJAY8-kyUfoFMRLfhlz9nU4SE",
+         "plus_code" : {
+            "compound_code" : "FG93+WX Edmonton, AB, Canada",
+            "global_code" : "9558FG93+WX"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJAY8-kyUfoFMRLfhlz9nU4SE",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 112,
+         "vicinity" : "3615 Calgary Trail Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.463672,
+               "lng" : -113.493772
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4648951302915,
+                  "lng" : -113.4928790197085
+               },
+               "southwest" : {
+                  "lat" : 53.4621971697085,
+                  "lng" : -113.4955769802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "HUSKY",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111426283479485205807\"\u003eHUSKY\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDSvcGUvWj0cWgy4MfCrl1OdTjznKK_VAmO75Sdi9HbamuoWZkM6WkTNECz9h56hDEl-3BycL8uRTHbj1KgVQMuMQIF0_3Xr60zAuOeOSP7k4NQS6zLDCb5UNtCHaU0FYEGm3_hgt5xGfRSbqkX6Z8kKKdhIQ4mDYUrg_5NOA6dtCKc",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ6-hVaCcfoFMRzTFznckfS5k",
+         "plus_code" : {
+            "compound_code" : "FG74+FF Edmonton, AB, Canada",
+            "global_code" : "9558FG74+FF"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJ6-hVaCcfoFMRzTFznckfS5k",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 55,
+         "vicinity" : "3105 Calgary Trail Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.45356659999999,
+               "lng" : -113.5125465
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4549123802915,
+                  "lng" : -113.5111377697085
+               },
+               "southwest" : {
+                  "lat" : 53.4522144197085,
+                  "lng" : -113.5138357302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111660103354182818127\"\u003eAL MOMIN\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDfCrfrpYHqqrdChQid7plWrd7KSeFXpk161wzxTmEeJ9Sz2AvQ2KHUDUOu42B5hn6UuYfI3IRZUyaF-PaIAE39uIlXSZoUWw3eD1jWDwme-BR0bcn0nR2AmOZ4vx5nfZFwS0BZmAJnIQF71jx619S9NfQk7YxRiKRBMLBzPZ4Qvro",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJXbQUe-MeoFMRAW-R0G7CVPw",
+         "plus_code" : {
+            "compound_code" : "FF3P+CX Edmonton, AB, Canada",
+            "global_code" : "9558FF3P+CX"
+         },
+         "price_level" : 2,
+         "rating" : 2.9,
+         "reference" : "ChIJXbQUe-MeoFMRAW-R0G7CVPw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "convenience_store",
+            "meal_delivery",
+            "finance",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 47,
+         "vicinity" : "2203 110 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.46104030000001,
+               "lng" : -113.529292
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4623275302915,
+                  "lng" : -113.5279725197085
+               },
+               "southwest" : {
+                  "lat" : 53.4596295697085,
+                  "lng" : -113.5306704802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112034243339948647667\"\u003eChristopher Lui\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAO6gY2MIXiv44q1Ifj8k2DsMVYYTGKFH_Xzoj_dJ4j3N16OIVe3Uu9hmW_ZY1ARQBrJrgC5RTup3p2ZIi2zKezOg1m7Qn49ZQ9sdWR2oxts_T_1idalsUMxs_P8-2VsCCPYrY1jqs5x2kgRKs9ZmH3rcoXiJXwgS0p-oZK0iFoArrE",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJ1d72hQMfoFMRhT6gKaoWNDo",
+         "plus_code" : {
+            "compound_code" : "FF6C+C7 Edmonton, AB, Canada",
+            "global_code" : "9558FF6C+C7"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ1d72hQMfoFMRhT6gKaoWNDo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 29,
+         "vicinity" : "280 Saddleback Road, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4545156,
+               "lng" : -113.5126962
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4558133802915,
+                  "lng" : -113.5111129197085
+               },
+               "southwest" : {
+                  "lat" : 53.4531154197085,
+                  "lng" : -113.5138108802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Safeway Gas Bar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108056308214657461425\"\u003eJake Hammell\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECP1VtbaLL5Nnv-r3ngWT1IdiMvJbUZT6-NKg7EHAqBdqBhSIkYGWpsKIIvD8-NphNLAiB8Hdumm69g24kBuiTuEplapklhY5MM8NapBRuxwCALqvcOazfjmJnj3FW4bCj7TG3_OktGTzoOWiOd3qa0HuWhoX0YNEIE616zSm0pRmtn",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJd3vOn-MeoFMREeOY3SQXE8E",
+         "plus_code" : {
+            "compound_code" : "FF3P+RW Edmonton, AB, Canada",
+            "global_code" : "9558FF3P+RW"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJd3vOn-MeoFMREeOY3SQXE8E",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29,
+         "vicinity" : "10960 23 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4531945,
+               "lng" : -113.4822597
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.45451868029151,
+                  "lng" : -113.4811368697085
+               },
+               "southwest" : {
+                  "lat" : 53.45182071970851,
+                  "lng" : -113.4838348302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Mobil",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112034243339948647667\"\u003eChristopher Lui\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDGY1j_FLhJk9v3ptweK3eVQPrDEi4HShB9d15FOZedvuYZEOU5d4PGseAl2IuD2ymeZEGspucjs_Nh0UxqWUdqEZm_EvcltjlzCAcenkzHvtkCmyFtViIylIEPG-Moc8VO5p7uwBMDOC79d8--yczwK4HQQyiQ13aRzQN7sNsxS7o_",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJhxbU0tMfoFMRT_ToAbrf8bY",
+         "plus_code" : {
+            "compound_code" : "FG39+73 Edmonton, AB, Canada",
+            "global_code" : "9558FG39+73"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJhxbU0tMfoFMRT_ToAbrf8bY",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 43,
+         "vicinity" : "9719 23 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.46034849999999,
+               "lng" : -113.5299513
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4616662302915,
+                  "lng" : -113.5286343197085
+               },
+               "southwest" : {
+                  "lat" : 53.45896826970851,
+                  "lng" : -113.5313322802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Domo",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109734301503630476287\"\u003eNigel Stock\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAbS_URA_gFKWdh7b49j2aNBK2XTx6LZPcbL0X6YKWZ9o2uH-37IjHu4i28NnHjMfv5mje4PrV1SjQBST3txafY_EXEip0MM1dlE0unU9pqQUVEVfQEigXeqjQ8WpTfOrb9upODqDeNr3bEbw5D4DvdXKmRvb_qxwWbqrVdElv2zPsA",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJnZKb7AMfoFMRllHoonTA47w",
+         "plus_code" : {
+            "compound_code" : "FF6C+42 Edmonton, AB, Canada",
+            "global_code" : "9558FF6C+42"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJnZKb7AMfoFMRllHoonTA47w",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 32,
+         "vicinity" : "348 Saddleback Road Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4656828,
+               "lng" : -113.4826301
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4670316802915,
+                  "lng" : -113.4813888697085
+               },
+               "southwest" : {
+                  "lat" : 53.4643337197085,
+                  "lng" : -113.4840868302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Pump Tech Oilfield Manufacturing",
+         "place_id" : "ChIJM4TK5ykfoFMRv_WW7xpBeqY",
+         "plus_code" : {
+            "compound_code" : "FG88+7W Edmonton, AB, Canada",
+            "global_code" : "9558FG88+7W"
+         },
+         "reference" : "ChIJM4TK5ykfoFMRv_WW7xpBeqY",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "9813 33 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.439732,
+               "lng" : -113.519024
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.44108688029149,
+                  "lng" : -113.5173473697085
+               },
+               "southwest" : {
+                  "lat" : 53.43838891970849,
+                  "lng" : -113.5200453302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3468,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102492059682259677325\"\u003eMohamed Elsanabary\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDeogXmuZTDxab3KxAEP-uXnOI3rwmxbhCFsJbiN5B9ga3P3FjBJlhWGBLpz42-MlY5opcnfNhM3HeHgp9_GUIp7E0K8RpEyeNDVaWO-y8DVbTgxmtHQ-57qwiMozaGNwBYTS87VubsCMHi6PC-YFEcPnQFGAdQcIog3KstWq49HaFi",
+               "width" : 4624
+            }
+         ],
+         "place_id" : "ChIJ62zV0fUeoFMR7hlu1EIDhWM",
+         "plus_code" : {
+            "compound_code" : "CFQJ+V9 Edmonton, AB, Canada",
+            "global_code" : "9558CFQJ+V9"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ62zV0fUeoFMR7hlu1EIDhWM",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 128,
+         "vicinity" : "906 111 Street Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

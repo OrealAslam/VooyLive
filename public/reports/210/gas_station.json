@@ -1,0 +1,300 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.53840599999999,
+               "lng" : -113.50876
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5397534302915,
+                  "lng" : -113.5073030197085
+               },
+               "southwest" : {
+                  "lat" : 53.5370554697085,
+                  "lng" : -113.5100009802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112034243339948647667\"\u003eChristopher Lui\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJxjihUujDCDjSHwfUG9q5ifU9LNVGP3zIId26WB7yZocicgYVZXprybKnwHBzllYh6kmdwNR6Va3vzt9ioGzBQ3oimJdtVou3VukybJuVF3-iFK5Ncs4SI5KrmJwE6p2deelpfksux4BqP0041zikLXeuCSjY2apiYZmX-bPPfQ1K0",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJxZ8HijkioFMR3be3jVA8Zos",
+         "plus_code" : {
+            "compound_code" : "GFQR+9F Edmonton, AB, Canada",
+            "global_code" : "9558GFQR+9F"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJxZ8HijkioFMR3be3jVA8Zos",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 167,
+         "vicinity" : "9936 109 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.540624,
+               "lng" : -113.521641
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5421080302915,
+                  "lng" : -113.5202925197085
+               },
+               "southwest" : {
+                  "lat" : 53.5394100697085,
+                  "lng" : -113.5229904802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJEfKJGTgjoFMRd138lRimHIQ",
+         "plus_code" : {
+            "compound_code" : "GFRH+68 Edmonton, AB, Canada",
+            "global_code" : "9558GFRH+68"
+         },
+         "rating" : 5,
+         "reference" : "ChIJEfKJGTgjoFMRd138lRimHIQ",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "11603 Jasper Avenue, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5406224,
+               "lng" : -113.5216581
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5421072302915,
+                  "lng" : -113.5203096197085
+               },
+               "southwest" : {
+                  "lat" : 53.5394092697085,
+                  "lng" : -113.5230075802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Esso",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111796107354287780926\"\u003eRizwan Khan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKMo0swC3gBmV6XNAxglo4UVsMPpM7a4jv7Z2pInoeO0Dqcu8am4G07GsbZ-ZA2ZmeeoxiLQ04W_A4QbG-9awGydp_VzBjDBGvYZdVCGGS_EoEJgiidOpXLxWTilRBIFdQCklPqWjFhcLQcxxRGlpBvCuKDGMnWcCFWuLXquwKPc7OE",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJo_S_Ly4ioFMRcmzEiz83-R0",
+         "plus_code" : {
+            "compound_code" : "GFRH+68 Edmonton, AB, Canada",
+            "global_code" : "9558GFRH+68"
+         },
+         "rating" : 2,
+         "reference" : "ChIJo_S_Ly4ioFMRcmzEiz83-R0",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "11603 Jasper Avenue, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.51776599999999,
+               "lng" : -113.511707
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5192557302915,
+                  "lng" : -113.5103573197085
+               },
+               "southwest" : {
+                  "lat" : 53.5165577697085,
+                  "lng" : -113.5130552802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109216611089257332238\"\u003eSubrata Patra\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ8pLORGZADJffqdMjgN3lt9lt9ni3cF8GCMR-K561ct0B1ec7aWq2kHP6WMiXUfz3hvmm0KZFvjp9tTG9W4QxQF3hMv_LGwom0lEExWi1VTsFM-1pvqIeXwsYoSx5c_PPmMkCu_RaHXyJdn9-TBY4kuDkSBCuaJ4THtpG45oBQYk6N",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ7chrwBwioFMR6NyKcTCVXcw",
+         "plus_code" : {
+            "compound_code" : "GF9Q+48 Edmonton, AB, Canada",
+            "global_code" : "9558GF9Q+48"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJ7chrwBwioFMR6NyKcTCVXcw",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 155,
+         "vicinity" : "10863 82 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.54753549999999,
+               "lng" : -113.5192255
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.54881178029149,
+                  "lng" : -113.5178754197085
+               },
+               "southwest" : {
+                  "lat" : 53.54611381970849,
+                  "lng" : -113.5205733802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Safeway Fuel Station",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101076485941903434514\"\u003eMunish Thakur\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKLXONIK2rxs6I3PrSKA6PJGwvVLSVQ-vR-Zpku9vrzEXycAlDqQameRAjZDe7Qkap00gmvoBw9QOZ6xBebOTCFox5BM89n7IXOVTA8RVQ_O-qaj6ZmtxKuwbZKwPX6LPdJF2rLfiZ_-fznQ8MRBDzbK6TorMGm3Tyb2RZTBKg8Evoj",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJQemkazMioFMRu0iHIGj3C0E",
+         "plus_code" : {
+            "compound_code" : "GFXJ+28 Edmonton, AB, Canada",
+            "global_code" : "9558GFXJ+28"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJQemkazMioFMRu0iHIGj3C0E",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 24,
+         "vicinity" : "11410 104 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.51779390000001,
+               "lng" : -113.5115284
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5192695302915,
+                  "lng" : -113.5101802197085
+               },
+               "southwest" : {
+                  "lat" : 53.5165715697085,
+                  "lng" : -113.5128781802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105558420202804188613\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLS8Uasv_E8TwoDhOc4TAe6AgxRl8Pc2AcB8x3af9SyS6NpDTCrpWh1Frif2xQdDXBZLiTltJ2s2LkEJEQnFfnEnGv1bUNpgrA2bITkU4P2SxkTJJIzOm70pznpMnmuOLjAT4v_P5DNRDoH5nEGjlhyxvzbzCF7Y7NST2bhmmTzn5FF",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJNca-6JMjoFMRkA5lPdhKH8E",
+         "plus_code" : {
+            "compound_code" : "GF9Q+49 Edmonton, AB, Canada",
+            "global_code" : "9558GF9Q+49"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJNca-6JMjoFMRkA5lPdhKH8E",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 7,
+         "vicinity" : "10863 82 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.51777999999999,
+               "lng" : -113.51182
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5192628302915,
+                  "lng" : -113.5104703197085
+               },
+               "southwest" : {
+                  "lat" : 53.5165648697085,
+                  "lng" : -113.5131682802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Esso",
+         "place_id" : "ChIJ_Z_dwRwioFMRte6qbMK1788",
+         "plus_code" : {
+            "compound_code" : "GF9Q+47 Edmonton, AB, Canada",
+            "global_code" : "9558GF9Q+47"
+         },
+         "reference" : "ChIJ_Z_dwRwioFMRte6qbMK1788",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "10863 82 Avenue Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

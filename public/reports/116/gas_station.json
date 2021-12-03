@@ -1,0 +1,286 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4545045,
+               "lng" : -113.5623608
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.45567648029149,
+                  "lng" : -113.5610138197085
+               },
+               "southwest" : {
+                  "lat" : 53.45297851970849,
+                  "lng" : -113.5637117802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "2609c16c0e314e755f53606fd2f43cbc8eacbe19",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2358,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114359115771436220450/photos\"\u003ewayne chak\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAST62rvcEornjNM0M90WagwmqKro2t_CSSXAusQ9Cwi6Fu4FzyPYbsCfBoGu2rfUjbtPjDNMM7bHAD0YB2znxZUIditdzxsZHlN8EVfbLcnR-WjHf7A0sGFXm-_XWiS-3EhC4b9V7bLHTR5guQycyFLCOGhRa-I8ucKXrTQPSwAcuPN6xqFZ4LA",
+               "width" : 4191
+            }
+         ],
+         "place_id" : "ChIJc6-sVbEfoFMRVS7iuBDNqOU",
+         "plus_code" : {
+            "compound_code" : "FC3Q+R3 Edmonton, Alberta, Canada",
+            "global_code" : "9558FC3Q+R3"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJc6-sVbEfoFMRVS7iuBDNqOU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "convenience_store",
+            "car_wash",
+            "finance",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "14004 23 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4545568,
+               "lng" : -113.5664829
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4561269802915,
+                  "lng" : -113.5651133697085
+               },
+               "southwest" : {
+                  "lat" : 53.4534290197085,
+                  "lng" : -113.5678113302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "40cd594ca11d463eebfd502b552f8563ac3043d2",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJxxz6pLYfoFMRPWg45o8ShKw",
+         "plus_code" : {
+            "compound_code" : "FC3M+RC Edmonton, Alberta, Canada",
+            "global_code" : "9558FC3M+RC"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJxxz6pLYfoFMRPWg45o8ShKw",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "14204 23 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4536044,
+               "lng" : -113.5689778
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4551415302915,
+                  "lng" : -113.5676262197085
+               },
+               "southwest" : {
+                  "lat" : 53.4524435697085,
+                  "lng" : -113.5703241802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "047274a39c02fb54033b702f393a2a96a6a0e39f",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108056308214657461425/photos\"\u003eJake Hammell\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHXPYoQewqkIGk2OCKZnLg1BnoAPTdWrMw9UvSN7jd7KQtN4K2tk33lBiBmEIe8KAtgAPNXoDr-B6KCN2fxvyZ83HLz5ZRfELkBLRbZ5umo_ezsziPUulpmXyEh6IpHIFEhD_FgAH9gvJG7V5A6j1QSBdGhQzTmOAIzqbf4b-qr5kKfgq55uWSw",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJQV_AfLYfoFMRrd7g6P5XDjs",
+         "plus_code" : {
+            "compound_code" : "FC3J+CC Edmonton, Alberta, Canada",
+            "global_code" : "9558FC3J+CC"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJQV_AfLYfoFMRrd7g6P5XDjs",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "14319 23 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4694769,
+               "lng" : -113.5872791
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4707132302915,
+                  "lng" : -113.5860067697085
+               },
+               "southwest" : {
+                  "lat" : 53.4680152697085,
+                  "lng" : -113.5887047302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "9df96a89cf8d1ea34eab58ea5acd6e954870b801",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118098897907596372339/photos\"\u003eBebe Chan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAv6WuFby6EE0Dys7jRhMOr-TJEC2v_VjI59QTQmWXHpKa8tI7m67g9a-F0AwoiBZdwIglnjzGDj-pK1fXt6_Wojg-dTQZvoq7VOGaDyIszPOAeecS8EmlijmrX7TKzZnwEhDwHFXcU1xcdPyXDHk3_DGzGhRVlrG1p_r6Ciho0sCJ15mpkb6BjQ",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJJ0QS0-ofoFMRbBZmnNHMlq0",
+         "plus_code" : {
+            "compound_code" : "FC97+Q3 Edmonton, Alberta, Canada",
+            "global_code" : "9558FC97+Q3"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJJ0QS0-ofoFMRbBZmnNHMlq0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "convenience_store",
+            "car_wash",
+            "finance",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "800 Riverbend Square Road Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4546134,
+               "lng" : -113.5664898
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4561554802915,
+                  "lng" : -113.5651229197085
+               },
+               "southwest" : {
+                  "lat" : 53.4534575197085,
+                  "lng" : -113.5678208802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "4a07aa99d95a0ea58966d63f0c90c1b9bcbc520a",
+         "name" : "7-Eleven",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114916051846231954151/photos\"\u003eAdetoyese Oyedun\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcjW5rbTSmW-tBub3GTENJx8Svc4I82SzUMHwNl9WN4QW-j5jIv-oM5M6MyO0G-Er1OJ_039oQq-RO3l4w7LA5fkJcVo8ZuJC6PSgHuvWrIGMl2kAI9W52ofHP190n1VkEhBaoUtETwwNpEY2ubr8FhIwGhT-aeyu0gYJkiOqbschMxPTjVgTpA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJi4fZu7YfoFMRJEqXLB6Ju6g",
+         "plus_code" : {
+            "compound_code" : "FC3M+RC Edmonton, Alberta, Canada",
+            "global_code" : "9558FC3M+RC"
+         },
+         "rating" : 2.3,
+         "reference" : "ChIJi4fZu7YfoFMRJEqXLB6Ju6g",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "14204 23 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4545568,
+               "lng" : -113.5664829
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4561269802915,
+                  "lng" : -113.5651133697085
+               },
+               "southwest" : {
+                  "lat" : 53.4534290197085,
+                  "lng" : -113.5678113302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8e70801e69270c15fb67400b331d39788c5b8d86",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 607,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101164378066304050983/photos\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAF0BqvmmTYBD7dSPTg0-g2hkoku2y-O2ALGaZPfre9_LclPAfR9z58hGiN0RX-xDjnqFBJ_Uj8koSrIo99J1FwbZNbKy-8zx6_jNbnOkLszEK3KMXIQDoumj5sDvfQiIEhAho8E5JQ2MO8uRztKTour2GhRiei1q-0oxIeKGgetYGqGd7w5Hfw",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJi4fZu7YfoFMRNZsVkVgA8Q4",
+         "plus_code" : {
+            "compound_code" : "FC3M+RC Edmonton, Alberta, Canada",
+            "global_code" : "9558FC3M+RC"
+         },
+         "rating" : 4,
+         "reference" : "ChIJi4fZu7YfoFMRNZsVkVgA8Q4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "14204 23 Avenue Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

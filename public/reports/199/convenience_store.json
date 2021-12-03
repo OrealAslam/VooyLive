@@ -1,0 +1,115 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6340519,
+               "lng" : -113.5174289
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6353079302915,
+                  "lng" : -113.5160942197085
+               },
+               "southwest" : {
+                  "lat" : 53.6326099697085,
+                  "lng" : -113.5187921802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3144,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117363271170345438423\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLOVQBOeeRV3NNBi0jcF0EMcO2V5W9hG3tbYUHcG-F9-AFEVnVGUPTd80XyW2hO3gkdigFpOcx3iuovxjOnSLpR47lDjBMARJDp69zjgGEFhKsabaOUVhZhi-6akk15RbenklKm7HGNZ71UvX3sUwzxQffqFOmFlR5CBMSZbWQCfy6J",
+               "width" : 3144
+            }
+         ],
+         "place_id" : "ChIJ95wykuYkoFMRJAlJ-XOraPM",
+         "plus_code" : {
+            "compound_code" : "JFMM+J2 Edmonton, AB, Canada",
+            "global_code" : "9558JFMM+J2"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJ95wykuYkoFMRJAlJ-XOraPM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 15,
+         "vicinity" : "11220 171 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6296692,
+               "lng" : -113.5377125
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6309395302915,
+                  "lng" : -113.5363622697085
+               },
+               "southwest" : {
+                  "lat" : 53.6282415697085,
+                  "lng" : -113.5390602302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108187587142826351572\"\u003eKev P\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJEwMo5Jnnfg5Z0P4XsOwcQNTNgHblvg38NnJTTohQVIK9PV3Jq9oeUJm_e3gh_J51Q39DhrIUYXwtN4M2PnA8AdgTWOYlUurdBfvIIQCEVz-YTCOS_Pb_gPgYn0805YUuJWJ7xtD1sqLxOqcS22Ea1EK4VACrD1RdqLmxa38EDl3Hk",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ-aTOFPkkoFMRY5qfBgFQ2iM",
+         "plus_code" : {
+            "compound_code" : "JFH6+VW Edmonton, AB, Canada",
+            "global_code" : "9558JFH6+VW"
+         },
+         "price_level" : 2,
+         "rating" : 2.1,
+         "reference" : "ChIJ-aTOFPkkoFMRY5qfBgFQ2iM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "car_wash",
+            "convenience_store",
+            "meal_delivery",
+            "finance",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 31,
+         "vicinity" : "12514 167 Avenue Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

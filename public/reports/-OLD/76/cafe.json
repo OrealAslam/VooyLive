@@ -1,0 +1,861 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQD4QEAAIvA2juCvtwab6BFlHgXGTGNA0lFnriTZsWnnKCswG2fdG4BE-b9QqUtwOcqROIAF6064R0BAl7I98aa-a-AFidTehcKVaIPnrOk3QePwC0Vq_9racmVq7wIqz3ZYxnzR9bsc9uowE1OxS3LiMhV5n3MRbKwcB1oMH1CgTPtB59uPxM1QU-yalB_SY9ZTewhWVsC_YKR1aur5UN4PUm8OFKWjfTBuNaRbZFy2jRFmYbsCGRVHUdPRDj9zsPeQawWxgno9Ywd3fARWphiyDewNdY7dQBQC4QWfh6_cKS_jwLsCERNX8gJoopgE5kq-bh-wYVM4EDyVFfVYdk-wUX7ZtgjtovUDIu1rEPUV12Cc3YUjPkzARi70mgU0bv4QxKSugvtu3ldadN0YD-wxZ-UL2WMk95tipuVu23QYmyf0v6_zgxc0rNEMFZkLBAwl-zSBoP_fG9Hcl1kEUDnrzkrvyu2tmpk4nTsBks9g3mMLsjm7EBWESSd0v1jz0VnRecGRZUvOkOJJZPc2g40GttcXulucU8AFQhGJxgCQB-WYCikognVpZcDl2L6rqFvyuAjwKdmY7xSvXckvLTDJS8m6jm-J5WIRzP9emlW3hF1XUhiPqtwUVnudJC40nl2pv54C-zJpMYb5a9-Q_VaSmR-RrcSEFkzLgd211YLfJWp39raaHEaFIUsLU0nfy11QEXe3zUXu4aptOPt",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.60607689999999,
+               "lng" : -79.5206
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.60746198029149,
+                  "lng" : -79.51908681970849
+               },
+               "southwest" : {
+                  "lat" : 43.60476401970849,
+                  "lng" : -79.52178478029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "4b5d1d656c2b5911ac97641787acc642e63a6d9d",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112986353719990171087/photos\"\u003eAlex Chan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1T4nj-oj9mBTl1izW3PSLVqGK6GQin_0Ebp6LiQqMvzIYgOOQiT4IoqcFs_tfvaRa3EdjMAfi0YkkGiVye5VX6GLUEcO53HpqqXnAxAKz-jxFNPAG3VXmLCjphD-YyiSEhCRGhnNe79oanRihZbVFjcmGhTQpIKq-Nx1eR4TV219ef0UJycC5A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJjTmM6C1IK4gR-MdJw8FtAJ4",
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "CmRSAAAAAf7P9KZVYlA-qjQzTiCYk2R4ilAjoRNiXUoaA5duST3sJZcgWFyU69PXoYS_dEucheQxWSWfV0qPxxw3IYEyFcKU_nw_N4dpaWjWf-Wd67fHoP0sT5S34DxS_xL_YIXLEhBG9AQ-Y5asuRqT5C0coILUGhSm4cqUaaHG6F4RK8hezyQzX2W4HQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "426 Kipling Avenue, Etobicoke"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.62089999999999,
+               "lng" : -79.51533999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6222489802915,
+                  "lng" : -79.5139910197085
+               },
+               "southwest" : {
+                  "lat" : 43.6195510197085,
+                  "lng" : -79.51668898029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "39d3d2b7fc78dd9ed6fc86593727e224b83a37f3",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 950,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109689651314320584023/photos\"\u003eTim Hortons\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAj6CMHqF6WfMXYzo8J2AdhmnaSQ23s-xXD3A6BTJfmQkiapYjqpanKvvfyAOKaFW_4cgxmLF7Ngh836I_f3i3De6y2uaLL1STdTHRu3c8OEtkMGuY4euonS_Q-HKDjMW3EhBPMq6H4cxK5onNB8Y1NV9MGhRGcWOGJnUI59Kj5skdCHNJMnhgoA",
+               "width" : 950
+            }
+         ],
+         "place_id" : "ChIJj2a3l9I3K4gRQfPPr0Ps5Hk",
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAybt7N7letY0obKGwL5Ec3w1V56tXsyvZZUi9bgen60x59EFB_peVV3NX9ZpfUTIHVDB3i-Zfie3spsD7fMaD3if785wqrmLSKiDZLBoe0rUGVFVV-yzN7CS4LW2XXGRTEhDbQK4NPojZZv1Gpu8tnrmFGhTCQnh_hP9Q5dtC2huKyiSHurmfqg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "1025 The Queensway, Etobicoke"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6177667,
+               "lng" : -79.539474
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.61926443029149,
+                  "lng" : -79.53820271970849
+               },
+               "southwest" : {
+                  "lat" : 43.61656646970849,
+                  "lng" : -79.5409006802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "7f3d6e506986ff773351bd475b98d49ef3596153",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108822761296561478687/photos\"\u003ePatrick Asselin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgxgx4jdK_oyliwP1BCK4vyYVkFU3hdF8hHrA4QYQMN6rr-PRhcIuU_N0JGCFcFn78dionKHbTNKVsTx3wuyfZ4i-zgVUIpYZ8xzQae2osJeD89dfbly5-9NWZdxFkjYfEhAui3KMCuYV1e7-sROJVipkGhTkWbU0bg-Wm4XxBaUmyT5S56FNsQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJSafPEcU3K4gRo76NJgnxi9U",
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "CmRSAAAA5K8pON3w1S6-4Jl1ayXtLKvWJcdeRy45wqFI_EBulwnn8eY4YHYuWO265WE2ccSLSvrgSZsv8r2bH6iFFzBeX0LxtokJHHg6tR1boQjg7msa6EKPYbv0eX1aO7hzrfYyEhBTNjGRiBf_sMnXGXK7po6FGhR9luVHgxi6474FeMN93_mn8oiH9A",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "1569 The Queensway, Etobicoke"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.616082,
+               "lng" : -79.5563961
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6173823302915,
+                  "lng" : -79.5552860197085
+               },
+               "southwest" : {
+                  "lat" : 43.6146843697085,
+                  "lng" : -79.55798398029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "068d575a2631204a1646701f98224d603501a04c",
+         "name" : "Long Island For Men",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1439,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111229806872378267050/photos\"\u003eLong Island For Men\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUR_Yo2crtr7bk9jMZM9jMzN82ZsjVWLBiOKt8eCRkyre8NIu1ecwlikhoIYbuL8P0ANX9GpmkjZYzR_b3xhyHDZljLG9bc1Oi-jJFD9ErmR4g2vnKkTMz3GDJFWdO62TEhCUR5slbecNsmTR7tbULNe9GhQFszGdHHOHWofkHsblAtm1Lep11g",
+               "width" : 2160
+            }
+         ],
+         "place_id" : "ChIJS8TwtgZIK4gRc2h1gazhuEo",
+         "rating" : 5,
+         "reference" : "CmRRAAAAYoKqyiV5Uyel9qu4szIj8hjTBStrpmCQz8yj4vwwtzWrLdXO-tak6Ng0Hw7jphB--4VmhlYS79Zq6-qbTnBcPxiaZJh1322NcMMDZH8WMXHXDqmpg1z3KRt7qrnm-v07EhCl9QaX4oGQ24SHH0cMfYLlGhQmpa8BJPXS0gmcDOVtTd6kmUKQzA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "hair_care",
+            "clothing_store",
+            "store",
+            "health",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "185 North Queen Street, Etobicoke"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6183959,
+               "lng" : -79.55419750000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6201890802915,
+                  "lng" : -79.5530173697085
+               },
+               "southwest" : {
+                  "lat" : 43.6174911197085,
+                  "lng" : -79.55571533029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a788786efa91b5fe366bbc89b76921ce9db42b60",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115661290483612600144/photos\"\u003eBaber Khan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAC-UV4gBRSDMqpTX9O2WTihuLB-OCHoLqUx8UzcKHrseFoJncUhryr4fUmLvTDJCK9cWA3dXp5kCc1YCh89Ot4xT-K21lyxe56GbIBFXpStvSZtAKtO3QuiqJ4ezGFyGKEhDlt-4i8FFPquRhQP9gWGCbGhT2KBTe2CISRcp6uyq0-iEwA7fFMg",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJn-hECQFIK4gRjYA3rr48UyU",
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "CmRRAAAA01nUEROIFOO5V-MkCGT1c9QXHg224Z1GJOslqb5tbcnDGucvN3o03w-R9P3myWCvPZ6NAosnlOLeFqJdofNCnH6CXfpFBWVs56DNKS3i5XkCVvhnAuhhQ5sGpoGvLtElEhA0JZ3XNutBMc4SYuASsdlAGhQHOGPFdIvPlFgnZgFNfFfMWlmmag",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "165 North Queen Street, Etobicoke"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.616252,
+               "lng" : -79.52566399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6176009802915,
+                  "lng" : -79.5243150197085
+               },
+               "southwest" : {
+                  "lat" : 43.6149030197085,
+                  "lng" : -79.5270129802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "b9fc39413af4b58b42e4dc98764a013336bb25bc",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111673466434914013744/photos\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAav6IS7MSLuXvTDmuJWXG7CMZAjilGz3W3Wfkwn0Y7zuZm6Ro2_8ugaTXbl41VxKFx5kaSybpsRF7z_HW2FCPGJTWKZgEmujyS-giN-dH46Z5fpbf8GZcT-wbUcJjGxqEhBZwFj3tG7AHDpMSLqfB1mwGhTi3geQANZJc5MavfQQi6ZzGTa8MQ",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJvRqVgSdIK4gR96l52MWlSWI",
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "CmRRAAAA6sfLbyIKmIAmzJBO45__-VS0ixln1Jpp9Bae16wi5nyI25Hvb9mat9JgHMwP5iv2lc3cWtDzjjIJmiEcuBIWsn5AzsQfum7BEfJg4un7wgIRHj6PHxF5oqrCcuURwCzjEhDeISWQ9ezIDTR5SWqRjKj5GhRvzKVuVn2epsUmSFrSRWLUltbiBg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "374 Evans Avenue, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6152472,
+               "lng" : -79.5247098
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6167248802915,
+                  "lng" : -79.52319711970848
+               },
+               "southwest" : {
+                  "lat" : 43.61402691970851,
+                  "lng" : -79.52589508029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "e9b27930f5509b1e71dafcaab6bf8e2483c22cf0",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 950,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101293997056216995457/photos\"\u003eTim Hortons\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAA-4U1AGan8Ms4SaqlPkSJm3VkX2tCtD0a9FcrGN2wI3MMsaTTYf65VQWHSPiR7mjsGG1WkwfwBjzThzNyPgukDtqA99wMlBcUL50kZxjxpVKPsCubEjZl3LG7-d5cgpG7EhBSiOMc0g1pYoNIkStII0e_GhQ5ht1x4diZ_42tmmW5OW654RIi-w",
+               "width" : 950
+            }
+         ],
+         "place_id" : "ChIJF2oG0dc3K4gRGknCvPDso_A",
+         "price_level" : 1,
+         "rating" : 3,
+         "reference" : "CmRSAAAArh8MK58k_ciFfJDVbxqnX-0-IRxXjR9q22HL_aN06I-4WJbuutJmSFgSlrsFwdoHXcvcBxeREtI2fxju4REQXB1DgbVREcDthdaMDwOiOd373l3fTXuj8wSGXDyoQjgqEhBCk0DLLU1DX-Ilm3yWNZM_GhQyxW-wiADnoO_A9alOKRoljrarBA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "570a Kipling Avenue, Etobicoke"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6225746,
+               "lng" : -79.5462016
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6239235802915,
+                  "lng" : -79.54485261970849
+               },
+               "southwest" : {
+                  "lat" : 43.6212256197085,
+                  "lng" : -79.54755058029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "53925152fef938f26d5f1cd8fa00ae8477eaf53d",
+         "name" : "Superior Blend Coffee",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJO_3Y9-Q3K4gRs0de0bfWt_s",
+         "rating" : 5,
+         "reference" : "CmRSAAAACR8aFx17L4Fto1WtJiexaV9Pg0j0nCpKEk7nxJS2sWrhGh3cP06kYWWz32RXS4D0bsvKDD3oP8G5ptONN6rces1Qvvpa_yaGOx1pOpuwzyhXIaaA667YOsgZ1bmiG9ygEhB9tGUwk6o-fo3Gf-9XzqCAGhRWbqW9Gw3-tAn-D1A8IGUZ9pgIZw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "18 Medulla Av, Etobicoke"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6265301,
+               "lng" : -79.52854289999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6278395302915,
+                  "lng" : -79.5273745697085
+               },
+               "southwest" : {
+                  "lat" : 43.6251415697085,
+                  "lng" : -79.53007253029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "47f281e2de62082089f7267bde5987d91d202ad3",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104072926869107878530/photos\"\u003eTim Hortons\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAhE-5s6KcZZsCSpcXuL8GUiontwv5e9vRXzmouEyBVv1-WFd9_N-iopSFHChU6zirS-2e7o30gvKI11aPJHmCw1BLJ_wGbqMiK8VZyu1WuSa51D6FiA9ZOgLcefbhFkwPEhDfR5kwdR5YtTEKB9JxDSY8GhTPZQNMAqcCVaASEI8IWRaXDX_XIg",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJvUxdEMU3K4gR_QteAt1NJ00",
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "CmRRAAAAbdhAvF1AvB1wWJWr4AEjf5d8qRXPMvEXwI8Z2IXyf2MXY_mraPInvHUA9cHZ6g8KSI9ogeO1psp6IP8RJ1uaTvzhjFARb4PQUXaDxSeIBMpf4TtPBCimRpi_1yWM8UDyEhDxuBzOe7zM6N9GFwaDz122GhSip1SPK2iTxIexSa3l_YFEqjBVRA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "733 Kipling Avenue, Etobicoke"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6151269,
+               "lng" : -79.5561069
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6164331802915,
+                  "lng" : -79.55495161970849
+               },
+               "southwest" : {
+                  "lat" : 43.6137352197085,
+                  "lng" : -79.55764958029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e989e4394113ddecd8f230d3f18c4e71222f0d46",
+         "name" : "Panera Bread",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102364522602857788938/photos\"\u003eMarzena Boczulak\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7fxfIhAdSwomb45TYM6efr2SXfv5U0qwoIAbJNfROn_LySsYAEMBVKxYJvmLi-IR27KdDKKhOsXjishujWmRbiaCIM4l7sGGrmWXRZGwtYG_d_Qa0vSqHOt_YyzgfxYXEhB5vzL1YL-Rbe-55c6cbIbRGhTOJozDwhfu79kiHkvzEG-6p13Dhg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJkeiYpQFIK4gRzpih3TinVvY",
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "CmRSAAAATcTriXC_TbRQw6kUKke0QbzUur0LXOqJ2W3NZRqpGD_ckr0wYVsMUXs1K-gjx9uugmEbZzT1Cdd0oM_H9cNWUeX699mGjm9Joue10ry5qgQszUpTznGkcGMxTm6Qlk51EhDsFpCuNnnV77_tr47orHmTGhRuaZzCls0x_4YYnU5zoGbbEZhJYg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bakery",
+            "meal_takeaway",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "197 North Queen Street, Etobicoke"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6023963,
+               "lng" : -79.5450477
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6036928802915,
+                  "lng" : -79.54391536970849
+               },
+               "southwest" : {
+                  "lat" : 43.6009949197085,
+                  "lng" : -79.54661333029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "386125f0d45838d8d0cce732dbf1a0c2a442971f",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111501153838793299040/photos\"\u003eTim Hortons\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABG-F8e0jyPPqXGcsEWIgEShl0YH9qiu4DsZk6s7pjEHu5iVGFiRpkNGXvmdkrdJwUM4gxbsUISiIdOSFPnus_GQYr7r_uXLCnzQV8gPoMs8DilxCRYvPLaibOhM9db0IEhCq5lE59Gyc-N2lcTEIpxG6GhTflkkGL3rdPJSokI9S9evbUoYfag",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJEd8hTmlIK4gRXSmJ9JL9CXI",
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "CmRRAAAAoVSBpyJAAsI8ZcdN98aaah_BlWOW1DsEYTDKgR9nki3OF4zvl1aT4C5GoAqFQo9G4TW5BVxrlJS2kOBIHdYKJ06xDgegs6xrK9D3Q6WRcaZsMdm76ved0OtXr2vhqlEIEhCHsJrcIeboycplSaf6v_p1GhQNHz69z7fyTazogYZE1kRlE3EMMw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "435 Brown's Line, Etobicoke"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6237045,
+               "lng" : -79.5156956
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6249498802915,
+                  "lng" : -79.5142988197085
+               },
+               "southwest" : {
+                  "lat" : 43.6222519197085,
+                  "lng" : -79.51699678029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "20152612b97650ba44c716ee232bcbecb3864a9d",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112039912312748517555/photos\"\u003eStefan Milisic\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHO4bX9icFi0DUlp6YizdrrL7Kv7LTcDR-Se9lzzlCQB8XfEsfMEW2YRAwv_jnf1VNmXzxEfNVVlG_NNoBgptn18gjPcKHrHcgl6TpWguXIQadXofvv4P6H2QNWkI4tyzEhAS-czCdy_nIHVO7lTwpmNpGhSqvQ743ppDu0G2Fh8fuP748kYYHA",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJXRZ1qTI2K4gR0JxXHIQIre8",
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "CmRSAAAAi03nHxczvbna0eZMZN46iX6GfZgyp43BtdsBTA-xm5KMUxQKNQ9-3xbZcBVYU617GkLWasDFoh0rRyw8K-__4DsfAigsFWJlsgbRrdsmP_7g_4vFBG5cupQVkTO3H2_sEhApOkqquwiKOMway6CNHmHrGhSSiDeID_wGEwkPsMyyfxB_yVQbnA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "1000 The Queensway, Etobicoke"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6100216,
+               "lng" : -79.55314489999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6112647302915,
+                  "lng" : -79.55174876970848
+               },
+               "southwest" : {
+                  "lat" : 43.6085667697085,
+                  "lng" : -79.5544467302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "65caa2433f6edf420809bc84a2e7fdc39b6a0812",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113083299208421653423/photos\"\u003eYuliya Bond\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6WbQlovk5un1PDQEPYF98XsbpUz7Si9P930JMP01OrP22nXoOtePa45HlGYCaF5uiMxraVPgOKPKU6klTvlZ0cQmwMkyIJfYpeExtAtXMNW12aVnSBAFd4xaYP8s9Kc5EhBOEiXadpWVudQBlH79yH-_GhSGLUKbPj0BZIMK2kDCk6eaX6EPDQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ34qExAVIK4gR6NFl1MzRjwM",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAAicH6G53AjBqcKcD9lSxh6AT_fI26tg1xv3ntVYrC0_zMJCBxaG8Et81DtxqnYV7DLK534-MHcMCbYlYe7U4J_8c-30n-ruv1oDTOTELZePSnAdRe46l2k29m8Zfb2-f5EhDY8uztIPqeJsKZoKMn5Q8oGhRxtL5RxgLdT2x4VJjCw7I_2sU-Ew",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "660 Evans Avenue, Etobicoke"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6122691,
+               "lng" : -79.55556140000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6136180802915,
+                  "lng" : -79.55421241970851
+               },
+               "southwest" : {
+                  "lat" : 43.6109201197085,
+                  "lng" : -79.55691038029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "ff8e8062934f8e129bc53b38c55228157f711f88",
+         "name" : "Faema Caffe",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117660560521557922199/photos\"\u003eAntoni Canada\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAC6ZVtD9m0qhro5K0vcl0XVIb1Wt71S1ZuIiIN_bSlMna3CsRXh68q2L6TlfhatjhKTCYlTIOLe0W4krRmTKmBQ8tmPoOSOAnquZW722ZJK72PmwhK_D-EoWaVYOeSQY8EhBphOQGPNEajbUFvuImHLv4GhTLTbiWenv1SsZ5GFq7vqWkaJIswA",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJS8TwtgZIK4gRdmoGePCn_bo",
+         "rating" : 3.4,
+         "reference" : "CmRSAAAAJcZhiQUhpZe3lNMQ9-YaxToZA2INM8d2stoEEE59w6Qxpvjjyx_0lzt1KbvB9YzZkzzWoacsSdMATQoeKBhN7SsHnugfr8iDiOzSRQXBClMgFRWhheAnl5vY_ANKno6SEhBXpVd8Od7H_t9rFivUffGoGhRZDt-OPTCP1JWeCpAmCdWMwBaUiQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "25 The West Mall, Etobicoke"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6114499,
+               "lng" : -79.5559382
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.61279888029149,
+                  "lng" : -79.5545892197085
+               },
+               "southwest" : {
+                  "lat" : 43.61010091970849,
+                  "lng" : -79.55728718029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "a4df52ed667690c1e118f79b3d67b541c248d7a7",
+         "name" : "Timothys World Coffee",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112039912312748517555/photos\"\u003eStefan Milisic\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvZPboZPf8yY90sNhE6cjKCgwntWKteHkya41FveBeBNOYR6-tWUy_8msmU1QOjQ8Q_h9WeBEsmB_bugdoCPwl6cWWAOo38KtBLsepB7wW2h1Iiz2aOsYo4XoAoIouKjsEhDe8R_N6t_0p8aG8-lpJAptGhQnjC_xCA3u8eDWrL4iiqQGVbOi-Q",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJS8TwtgZIK4gRybn7tV40DiY",
+         "rating" : 3,
+         "reference" : "CmRRAAAAVwX__PIcm-sqpuk_hg_iEGCkfB2faekg6WZJ9ITT5zvf2HBKIFcd34E00QNy_Fgo3PXBuW4f2W8MDiQOpEUJHysytt3ptVf5I5RX_IX_lyvMa3x8zXRMAcQDCb1ScbkrEhCufJCoQ946Kp1jCYZAkXZtGhQzqjXEIsQEdgSXh84qdEzlGb585g",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "25 The West Mall, Etobicoke"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6128972,
+               "lng" : -79.55559219999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6142461802915,
+                  "lng" : -79.5542432197085
+               },
+               "southwest" : {
+                  "lat" : 43.6115482197085,
+                  "lng" : -79.5569411802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "5f8ac9265c268d96563194b982fcff5f6e7accd3",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102368553921375116202/photos\"\u003eOmar Kazi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfcE03Nz7Wnch8vo_qp_UvOtPEUhFehsC6LwRzp48EAH4i6efOnujA8ybFGBKufy6fFBfOEjbvDDo1E0NHsQfxXkxmTEf-EmBC7Eh-HsafrM8JDFxEdJFXGa4yphIDDd3EhASd4L6dS3YZBMWEzeUQRIgGhQWXYg6c4WCgHGOtf_kUaTjFfN7Mw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJqdX5tgZIK4gRWnXOJ-LFbMU",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CmRSAAAA_0r7ArC4JirY3jfYJNoMg3LflbKCu9Awqou-MO-qslf833XXEvRs1Ta34fhSoswMsq6moCyKniDDHLbXGpwnqir1zhKVcP1Aoo7zND84syE_BOsgL9i6e-rvOPEqiKfpEhD2_EZR8Kq5wwfNmRCo8ExeGhS1lpqtbSUBeHZYJYDfWyn-Dtz80Q",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "25 The West Mall #1606, Etobicoke"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6203162,
+               "lng" : -79.5545702
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6212291302915,
+                  "lng" : -79.5530660197085
+               },
+               "southwest" : {
+                  "lat" : 43.6185311697085,
+                  "lng" : -79.5557639802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "f130c47e9b33799715cd19ea57677170987dc01a",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112220747885917503655/photos\"\u003ejared ong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMXdWd3qyebcROqAA478-oAUGTUlXk0iV3pX6HixikBl9rs6VPxuiEn-hbVJfICxKWug5Bw3QOGPqsA3PcqEE54VhLGCZWvr6MTqwCu8YVUkK6hbOkpYmelNYUVhusK5mEhAnHtkTPgJoyOq24J0qktzaGhQFEEpnTuy6cD_rg06IIGesPmCqCA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJhcQJz_03K4gRZNryr3OSOK4",
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "CmRSAAAADSQ_cHwrGS7lnC_4WuhsUUfKIw9CsoaCO9B4VBtcrX4aC_x0aVMS02H65OM3RHAlPjshPE4jc6ntN0hdhFyEUcD5xpeFq0gjje2QdFt70Wc3dgQ2Hl10ZPKwKBbSEAdKEhCYCaLxWBB-F8Iib4Lh2rgqGhTzOTipMMyVGV-N32mfddAEUCquLA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "152 North Queen Street, Etobicoke"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6157053,
+               "lng" : -79.5561036
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6169904802915,
+                  "lng" : -79.55505911970849
+               },
+               "southwest" : {
+                  "lat" : 43.6142925197085,
+                  "lng" : -79.55775708029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8611b6515b8d4655cccff5e34675d9f79971a1e5",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117353599544335658691/photos\"\u003eRubi Ponnuthurai\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEIIH-GmIc0etrjd6SfKPkH6nkyLxumRzyki04V_OjKM2MK7R9hXidMKZd8UWE-9fJrhaQcNPd5A_QNtCVDWb32t-K7hgWu1haTpPXtitmV7irwLPv-5kH_afHwFf1y-HEhA_eKYQUHewlpXLDRQGrX2BGhRz19ErW9Gzb8Sl3OuUYjw97s3iEw",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJs_SYCAFIK4gRn3wGN5dCVC0",
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "CmRRAAAAOFIszdi1oEUNMLfmXHwaRxVE-pEEgcIa6_evwkoOar73u5napwUEEUYlp1mfGLC62LQJKYHKgf6W9J1cY6XAsmloa7DkQgy-VvOVIX3hlicP_A3rG1JV_HaNm56A8wBVEhCa-DV8WsSqTwR_X23yEpdqGhR49tdbrDWcba915QTqL8Gw_g2bpg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "195 North Queen Street, Etobicoke"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.612112,
+               "lng" : -79.54163799999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6135697802915,
+                  "lng" : -79.54033291970848
+               },
+               "southwest" : {
+                  "lat" : 43.6108718197085,
+                  "lng" : -79.5430308802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6ed30e0e85f4785533d9a37c69fc433d68b6c443",
+         "name" : "Momo Place, Tibetan and Asian Restaurant",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115608737840194180782/photos\"\u003eOjurme Jurme\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxCLhrbg4dkQmkFgNF98M4W1QDkc-8Onj0HKvBvLdsY7vSaqsM3oIBNXK6dTpliC4oZjSeiYIeAxYTnvQfA62mcGirAw8WMcgBG_ps1n-wXByEs3tOZLV3txnkbOo-PT_EhCxVRdbiYyje6wgdc_J0Tk7GhTj5KIlNK5KfHwPqkiOxQETDtCiZw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJHWeVzh5IK4gRICJiGK0ZGRc",
+         "rating" : 4.8,
+         "reference" : "CmRRAAAAY8JA2XkWANqUh90Hi94LhQX9xGfmFu256wE_iCTkkZiLzwVTn9F5aLrXmY6x3CFnhIkQmtVzivAJomWy_ldUVW-TWaEjz2Z_Uz-eXMnVZz5s2XV_q33zQYZU1inX6DWuEhA4B4qRHbB3XY0s0MU8n63gGhSWsaoPcvGSY1CIdVDpGdkXw1qYNg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "529 Evans Avenue, Etobicoke"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.616433,
+               "lng" : -79.52233269999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6176887802915,
+                  "lng" : -79.52094651970849
+               },
+               "southwest" : {
+                  "lat" : 43.6149908197085,
+                  "lng" : -79.52364448029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "5abb64f4133686da7f56c46d96f544e2b029b9af",
+         "name" : "Thermoking Coffee",
+         "place_id" : "ChIJ18wcZtY3K4gRC23g_xVzxd4",
+         "reference" : "CmRSAAAAMKTjLJO96UVTXXQyHOsVGqiagnWCCNXTxJPhuv6hqLa887Yt-yjVBd6LB-yL7vyrjRNNoskrDhdRfeyzgdwEphxutD1E9ar-mhOOTu4-FIIyri3XniD5dXDDwrJ3H9_9EhBUkhzmwcKu4YwOQAqFXuTeGhSoJXgP96Pf2Vq9b6eSI8gQ1Rz43w",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "350 Evans Avenue, Etobicoke"
+      }
+   ],
+   "status" : "OK"
+}

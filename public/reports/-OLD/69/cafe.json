@@ -1,0 +1,817 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQD4QEAAG6eckxRF68o4MFv1aqsHMHrNPehBaL1ZikbQbGT0n7OiG0p29THvq42gafVwg1JAqGR8iRYXhsbfJHy-A9sOW4h0XPwCh0Qo_fUCIvipTW7TffdaJRnMgMzBWj5-cpTHUmx-nRtwzpZnfBCjNNDBDzs64JF_hbCl4H8dNnF6Abeht7vyl6ocmalXtiz6uu7xjSBjiKGhwDjLGgwv3_GtlSY332WxxqTXoOPUiu4MYY9wsQKN7Zf-pDxAEt8UwR3wyVU4QwDs4XakkPP7KQXRJWq6gcmUbEj1N4Hoo8d9DM9hh_5rwKzgpu-SzbPcjJMhecLCfWOlGFNVqE7gbao09mIYAJjBfnyrSR3siaRe5PuB6CHiOO0Rx22BYwMXz21avi8NWNTH5LfBMjQROOjiN5SIrz1_xY8iba5vyP3eQ6lOziWqLbeGSG475RF2A4J0OcPFSMc9auphBtT3VrO4cRUvFUc-HzzkR_PNhAvQ-BjdFJexY7IKhrMJ36o5Bpy-SlmwWzbJDorODv3sXLj8X5QGgJuhqyl9joUZOOu6Mh33V_JHBuc6afgsuWmy9UFqitaWbpMDuwJublXBCelZLCzz4WH0LP6oAEIjNGgsTMDW-dXq8Kk4iGbv1hO9paMV9ffvmUpEVYsCvpm4dvsqW4SEDOevQ_uh0SoRvmtqKkeOBIaFOr-b3_e6nM_WBV-PE-mLqSSCNmB",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7698384,
+               "lng" : -79.37063049999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7714637302915,
+                  "lng" : -79.36939581970847
+               },
+               "southwest" : {
+                  "lat" : 43.7687657697085,
+                  "lng" : -79.37209378029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f759a9bb19bbb0528810b3b1d94446f16e018b33",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101735808925354467939/photos\"\u003eali elghalayini\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAkaVaEZi4zsuHY_m_eT1pWbPM1eoSLY-1aFdZJl_kEN-W6O_L33hXZYR4xiH8FcnWm1DHpdWGl73FDBwMQq9pPo1l-zuSjWv9sWC8Dv2MxOne5gF2L8eLhFPzibcPdfgEhBLp7i_Uw46thLiF-N5pkh1GhSiPAdP4e9AF2eEWoZzH4AaqMyhNA",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ079jXsfS1IkRZ8_RG4Rvqss",
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "CmRSAAAAdOOwKBrEM8kllDPRsWT6iKukrrRHOsS1yjkMGWP4UzJLDwhsMZ5aozxE7tdN94mrPHDK7teGxTD2i5tM71KUwEhiZ571r4iM0RsX5K6rNIyRgsL2FioqU1ugXWim6oFTEhCJvfxevbCIpsvKKr4c-lysGhTQs5O7U4LXqzmfQvlCJcN9KeXxUw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1125 Sheppard Avenue East, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7623154,
+               "lng" : -79.35450139999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7634996802915,
+                  "lng" : -79.35308496970849
+               },
+               "southwest" : {
+                  "lat" : 43.7608017197085,
+                  "lng" : -79.3557829302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "50e33cfe6a2ede11a9d4079794b93467b782be35",
+         "name" : "Delimark Cafe",
+         "place_id" : "ChIJ_3TtD5fS1IkReb9mkKEe5rw",
+         "reference" : "CmRSAAAAiId8MGWUqZ1xoYelgkPflJRJmqpoD9JBD114cFpFtTVYviTL-heBqw9eLNDwJuIbYNI-fr3d6d8V2BRolFuXp0-3KH9l431jGQV3pNFCKg5FEgUITWmZNNpBpiec0sVAEhCgqyVne9V1h8T3FuNhqyUOGhSb00QkwEBrgfWaAXoM0ShBV6K-Ag",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "180 Duncan Mill Road, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7536003,
+               "lng" : -79.35891269999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.75478818029148,
+                  "lng" : -79.35749666970848
+               },
+               "southwest" : {
+                  "lat" : 43.75209021970849,
+                  "lng" : -79.36019463029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e49423897bdcfb034fcf81ce2a3cc5e698fac0be",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109575050859016717721/photos\"\u003eKevin D\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkJIsixNZ3R9kmLKfE_ii_0hpg2mdgkA8UXMPjnFkLeL2DZjs1Y7JaAlYULQy3WO0Br2BzpABxuz5xL7VKuIAe4yoEe1Ux8o_cqdDptY8wNACDNxcqHeGL2thWSIzrahlEhD7z9JT0gDOcUtxR_UMfuBKGhQxSoem5nt6SeS4a8TLNBxtwQK83g",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJw1B9SKDS1IkRiLQBG0yNjr4",
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "CmRSAAAAHW5iedNkxnVDtmBBoMrwX9uhvrtedmGzMKmEasGQN-XdwxG-BcRW8pBqVFoIu6WhhDSB-2obtQG1s9BfY4HIClpSwJMQxl4m83-d84f5uF96DQP8og3vp3bfzc-pust7EhDhr-4UO32rM7L0WbW4x3UVGhRFrmHHaGXzDQjavm9MFrunmaEMMw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "808 York Mills Road, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7660878,
+               "lng" : -79.3888029
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.76755028029149,
+                  "lng" : -79.3875097197085
+               },
+               "southwest" : {
+                  "lat" : 43.7648523197085,
+                  "lng" : -79.39020768029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "fb686e3aab109c16f2f95930bdd319130916e286",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115372516015358280282/photos\"\u003eJerry Yang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcUEzy80fwxbgdK87DLGwCSLUO2JDyAwSEN5bfOELII_D2bZq_qrJCl_AbFEc6TIe8Bc67TBpSteNZJst5GXsKpd18vnP7H1oBuxQvT5OVtHi29omTisNMbMzORfp2hUWEhBWyUCsDPaz-QWsuFSoK6QPGhR1j7_JkdZ0zeETEBhWwtzmTRQ8jA",
+               "width" : 3036
+            }
+         ],
+         "place_id" : "ChIJ0Vth5U4tK4gRxj9djoVWiwU",
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "CmRRAAAAnJT9yVtzHOPubJ5QAk48kdtLHCNinjRRMIEIbhxGdLB51VbuzWOOUD20LG31uDzT02mmzR19NfExkRtPMLdkAccTY3AIugwSL970oVGm8mSy3mmLNourEAHcjt595C8UEhDCPEG2ITuY0Fyy1GfhtkzPGhR1lVsaZ4Iqs-p_LBhuPAaXP-T5Pw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "461 Sheppard Avenue East, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7695806,
+               "lng" : -79.3628975
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7709665302915,
+                  "lng" : -79.36217651970848
+               },
+               "southwest" : {
+                  "lat" : 43.7682685697085,
+                  "lng" : -79.3648744802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "bd2874b49a3486482e438f9c4709461c471aa366",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 950,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103694758229855449742/photos\"\u003eTim Hortons\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPE2hMuetVGY-0dj4lF5unQ2pvVn55I9D8hJSeCxX5UIiDRZt9j3ErYMuYlXSrUSX9W4BMK5aNMI-EFsp0Xs-DuVj0Qo2viuR2GoX38E4AK99bZev7awPw0_k_a62v5clEhBfZLRafZ-b8BSyTYwlnI04GhTDIkU9xzeIR2xiCkbV66BFkfjFTQ",
+               "width" : 950
+            }
+         ],
+         "place_id" : "ChIJ7eFG8sTS1IkROW9wBPafv78",
+         "price_level" : 1,
+         "rating" : 3.1,
+         "reference" : "CmRSAAAA6elv5hmqYTRIk4HHyEoq15gLNmsCGepvaIC23_vGmMidARSXw6lNepUJhnQiGYiAEaPc1O1OojQ0GmQfiFXJ6o_2z-Rhx6ym8b4JQyfcL-_2SiJc1iZptJsSO3l6DCnwEhAGRCz-4kXA-IsC5sOXeZj4GhT5RFPPn_x1fDioBIu5ly-qtfdjSg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bakery",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "4001 Leslie Street, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7680476,
+               "lng" : -79.3709401
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7694600302915,
+                  "lng" : -79.3696235197085
+               },
+               "southwest" : {
+                  "lat" : 43.7667620697085,
+                  "lng" : -79.3723214802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "74d6048b2f7ed796b5c48238a64d87cc35ec9157",
+         "name" : "Sharetea",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2391,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110970239936890382964/photos\"\u003eVD\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYXwnUpvNqYJZBFkcczgrSA1aUzuovmlz2a13c9-7ADtdAAVLN3flBeut4AG16JYS6ejOiiVK6M8ueinVB6Z87yKfYDLQR2sl1wztFBFz4CGOooi3V28GSIoeA3G5YwTREhAHrAPb8RQripJADyu1aUdzGhS5CVqjuMPO8yxuGwzmfJq03RdCUA",
+               "width" : 4190
+            }
+         ],
+         "place_id" : "ChIJCSFmbbfS1IkRacaJrim9nmA",
+         "rating" : 4,
+         "reference" : "CmRRAAAA0c-I8fZ7eHuSzRTRIJrVInj0hIVbPAq51tBS0dVeAjoIDaPbuA9_7itl4QIeilBqsbLYZ1qfftNWgeCcHi2FlwUOjB_oUyG9rLxCqWtScwyHSXrydm-Aixq44omBXcHPEhCljflWf5ph4xQe5L36AyUSGhSSb0OrfnJZn75z0iH_oe0K6YZa6A",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "101 Esther Shiner Boulevard, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7697574,
+               "lng" : -79.3727037
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7712150302915,
+                  "lng" : -79.3713995697085
+               },
+               "southwest" : {
+                  "lat" : 43.7685170697085,
+                  "lng" : -79.37409753029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "7051ec23b2f996688b3e0317400899b0f5e2cc67",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3006,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117758333807334103228/photos\"\u003eJuil Yoon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMFRllLPRgPCr2bnoVRJC7yc9-9zpU8wHLq1DBzX8PlFYt8jyPbBulBNPPqqq46RjmMgdl438zWrggDD3sv72Bd_y4cVVr-Ec62oyb01nhS41fKFur72YOS2jNcwfcG7eEhC8MY0iVyVFZVjKRMd9xBD9GhSbG6DyM08lC7b4FXLNcRF7DbikFw",
+               "width" : 5344
+            }
+         ],
+         "place_id" : "ChIJEyi4SLbS1IkRQVWICOzFjng",
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "CmRRAAAASlP5y-ht0moSApNDWqCbFdn0JNhxy3j-2EZWCCQSjQROHN1qjOKT7cqbVx9n4ZFI1F1KfFPsZAIc2gZedpSeHEiclaglSkPT7Ed6SESxr06uhwLcftkadCNeoeWFTKs1EhDN3jvUO_gjJHrvstAJFDWqGhSZZ2D0ByWUtcloPkS2LVG50pquVQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "1015 Sheppard Avenue East #2, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.76955229999999,
+               "lng" : -79.36292379999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.77093753029149,
+                  "lng" : -79.36219131970849
+               },
+               "southwest" : {
+                  "lat" : 43.76823956970849,
+                  "lng" : -79.36488928029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "f6f379b5e18d251e47e2433411d0ab0b35b56303",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116019835103341565317/photos\"\u003eWilliam Leung\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtYp6w3p4Yzp0a6cJt6EKMSUTzD8Bm2mei4CFKPrAXpjSjOMzx5qHM7wKYdS_v3JrriSfQJRZmWcGs9Bwk7OSfvn79Qxua3NtWEREKnLfshS47tCOQggaMw0yLtwcdnvjEhBXG9Q7nretYh_U_ZAzRr02GhQ3hBI5akPSOQMSfelF5-fGItICsw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJV8xSr7jS1IkRBBihWX6cuW0",
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "CmRRAAAAXnpD2Fix8T2emBo4vNwDdUvSQq5p2JZrMlDrNLeQYpJ9VBH2DzwALjf0DSHk2wNfgQggNFB1HenUIdUCNoipBbguPzxKb85n0IBYamKLSJl794F8kZij4Pp65WpTfiHyEhC7zuyP2iCz7orvOq1bffJ1GhS3VXhINZW8dfjLCaJFtVG-9Yg5Fw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "4001 Leslie Street, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7787962,
+               "lng" : -79.3650627
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7801274802915,
+                  "lng" : -79.36386536970849
+               },
+               "southwest" : {
+                  "lat" : 43.7774295197085,
+                  "lng" : -79.3665633302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "da69ebbbe02d5b3c225da2bd0d6b9083677dba7b",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 950,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112911933473310061010/photos\"\u003eTim Hortons\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGcchpXyyeXFxdTydaH2lJ_GwS8rP51XT-GdxfaTg-81x_9L1I4uTxm6O5P6aN18_pFqiQ-5Cl_ryzilUVE3rSVSqvlfccXYmaC8jrM8Cv3Cc4-c1Jqqcg8b3AKBsDxHpEhD4Q6WwxcGzg8a5929blijRGhRFy71GqVhHBJiyfbiruCEED_Wr2g",
+               "width" : 950
+            }
+         ],
+         "place_id" : "ChIJVWFJw8TS1IkRz0wttYqmWrg",
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "CmRSAAAATqGw5rhIqcl_NkDWYR77KrRJ8CPEdT5ZXAjvwXV6DfPpL9Z25y1Vl68txRyttPTreCAYEAnbubgjy_QPEbFhPlp0u7DXBA474j5sQHG3zBhpGaEpH4gZeieKDwLUuqhoEhAvhZ3d18ypGcPB6wdrSRvYGhSv5WWbVB2jdF61TPiH7wNlW3lLfA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "4751 Leslie Street, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.768559,
+               "lng" : -79.3865847
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.76990798029149,
+                  "lng" : -79.38523571970849
+               },
+               "southwest" : {
+                  "lat" : 43.76721001970849,
+                  "lng" : -79.38793368029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "585f35c29d266e71a045cf95a153526702212d89",
+         "name" : "Aroma Espresso Bar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2357,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117758333807334103228/photos\"\u003eJuil Yoon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQtlWh6SkoRV4GFoLhXCpP4c0Dmcu5Qxjb3ZLM2UmQmEyzWEkxU6Q7OZjVj66sLRU3UQxZzbJvDRWjypOtyedozU2AkHVssxhc8Y3PUK4dEiDKKRqrmLyBS3iGh2ONM9oEhAs7lGMVKQl0nF7Rbt5vVpHGhQGwONTDwaoMxoUMtr0XFFgxkausw",
+               "width" : 4190
+            }
+         ],
+         "place_id" : "ChIJq4usUUktK4gRw76Igep-65s",
+         "rating" : 3.6,
+         "reference" : "CmRSAAAAlSzYFLrQMyT5NuO7h7VroaB7qfn6O12M2cOf6OQmGv7SpaFoWNn6azB3ODDwYsDCclls617JLwOBEU8LJ7gEf3OoPW-P0W3MfBaBuFSnNdP7PIxYEaMZsZKTZrHBKT4IEhDQa3XlVwzP9gL8qeWpFgtpGhRMY1ci5n6l0hYDsGpNt6MzxNVg_w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bakery",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "2901 Bayview Avenue, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.76906590000001,
+               "lng" : -79.3867058
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7704148802915,
+                  "lng" : -79.38535681970851
+               },
+               "southwest" : {
+                  "lat" : 43.7677169197085,
+                  "lng" : -79.38805478029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "adcbfd52bbb74c0a0815e24146ae738ab95d16e5",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117791657768692669512/photos\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAwj4_CQ4r4M7J-MxCNCrC42wtBqeFBa-VobIBrg_SRKXROwktU3_Lmd0Ccthr0jTur2DwszGLe-fyiGOUb13C6_zJtDw14CRzrTZnOF8zfpSwJEp07wjngi5za-djm58EhBJ5HFIvrOddHmIs1EMqqTbGhQJ0KhRG-9hIaN-6cRPB5riRqh0Sg",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ525050stK4gRTR_Blj0KdOE",
+         "price_level" : 2,
+         "rating" : 4.8,
+         "reference" : "CmRSAAAAXEdJLj34AQDFVw_-xn2Xob5BWUymlGEmzmtowfvJD9Vta6tadJBLEPk_f6lR5-n3d7Of0taAkfEvaOGc8KXCwRhL3hNT6ytpe4q6N77Gnhe0kB5Xk_SDd-eFwQ7WtejDEhDjnIva-yOL1qOCvoRcVLWPGhTQRLc1QO4ILL-mm5YGFG1REeX0ZA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "2901 Bayview Ave, 152, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.77524919999999,
+               "lng" : -79.34773969999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7766525802915,
+                  "lng" : -79.3461450697085
+               },
+               "southwest" : {
+                  "lat" : 43.7739546197085,
+                  "lng" : -79.3488430302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "2fc737b5f3eadf36206d0bfa4fdcc8713c385f25",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 950,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106230583206080438702/photos\"\u003eTim Hortons\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3xMNY2SKD16TzafYVAAwqbn-dqTOWEJxI-y4RIbUVBQEw0qGRv-rrt-xhDLI2TtHwe05KY2zuUpFupR7_JlD3dB2e35v0UECCIe9QXn9DzACCJfO0a-C3Ejhq6Fw2F0IEhCxMoTESjjxhT_b5pqY9vJrGhQnaAKXod2s2JSixJOgddL9-b6Vyg",
+               "width" : 950
+            }
+         ],
+         "place_id" : "ChIJU0vDLu7S1IkRI9E5zWNw7RY",
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "CmRRAAAAt_qruGV7WMmYj1RWBoLJJKju62HIq-788OXYsZYt63gqo9SEYojGCeSxwr4yPWw-Wg01XqlIy0nZ9WnLNH_9z22cyMc_PQJaYq7cj5cigvemIKcSnIDdpLw_M-F_Eb2gEhAf9AfPmhhaZFwMqvAAua2IGhRj_Q2iE_i0jooYXHjMRVY8KdYHyg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "2500 Don Mills Road, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.75953519999999,
+               "lng" : -79.3499879
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.76104198029149,
+                  "lng" : -79.34843166970849
+               },
+               "southwest" : {
+                  "lat" : 43.75834401970849,
+                  "lng" : -79.3511296302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "d51ddb626c9cd397b2abad0289fa97f837bc67de",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 950,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107761269366404948893/photos\"\u003eTim Hortons\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-vKoLKdTN4N73oweo2Rv-UaXNAAIaNvJhgC2gOosBFE50DniZKE6mEobKuJhI36LvJkoce2Kf54EF4cNKpFz93VGJ0jdp0JzdM9akg3luByzBUTo69tYgXUT5zQpAAH0EhDBTQO83k0nWcKjLFK1IyCUGhT8C4NhA8b24mivecCHOEBk6ISG8Q",
+               "width" : 950
+            }
+         ],
+         "place_id" : "ChIJAQBAeprS1IkR4nPasbiiDoY",
+         "price_level" : 1,
+         "rating" : 5,
+         "reference" : "CmRSAAAAHvGuXMZMvgpn-aaQijHuEMThikS_FEXC9uBGvYg5irSi8z9wzi0Xs1VcJZ8gZ5wKcnmr3DDPYu_mZgWOJI0Uki-ESmTtaM0jbvU0pIRXJBODeSu8KUv0BUzPRFChuWwzEhDojXQ10zJlyTfn9mzrYudCGhQQZzwd2rH85ViZzg6TWN_20DEPVA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bakery",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "105 Moatfield Drive, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.767951,
+               "lng" : -79.3710468
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.76939343029149,
+                  "lng" : -79.3697455697085
+               },
+               "southwest" : {
+                  "lat" : 43.7666954697085,
+                  "lng" : -79.37244353029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "e655a9d059656a3a4625f9e855597592893e5066",
+         "name" : "Toffee Cafe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113276946342456613748/photos\"\u003eOwen Wiseman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAriEnhwW4L_VtxvswEyuINFrV-qWr1v4TmMR-G_dxrWCbl8_19GYXl-XDJ4TgByOH9plm1VhCv6Z_lOXzECZEdTcYmXzK2qZaKNUzLr6i55ZBaEPlUVPb4t90nIGw17FjEhDk5SIDMHCsYYys4N3UdD0wGhQLSMUlhV6cpkfGbYloX6ekAx-wsg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJRYXDELfS1IkREsHMTIxTUjc",
+         "rating" : 4.9,
+         "reference" : "CmRRAAAAGFPGSslitX2WvzTLLTegeJVNnA9FBGttiXijJyvl07FpKbClCQOXSYZF20IcoNQSKX2DpJZIqrNY0Vyi6AXHZXZA_nmwgPJDllzG4BWg0KSTxGZbZZN5gCa8Memi-8rCEhAd2J67d4Efwk3P0kpnl_nXGhTUNqptfINuTVipQ1Fu0UrRZ4_wlg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "95 Esther Shiner Boulevard, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7713933,
+               "lng" : -79.3612759
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7729991302915,
+                  "lng" : -79.3600093197085
+               },
+               "southwest" : {
+                  "lat" : 43.7703011697085,
+                  "lng" : -79.36270728029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "05019559499d79efcb3664568b52a545b9cddf41",
+         "name" : "Coffee Garden",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111523578547131703942/photos\"\u003eSid Choudhuri\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAioP7HMyzIhGkmsvt4V16Y8GcB2ve4FEqC4olAznxo00pr1urp78cBGObUImonb301Ov3hDYzY5m6A0wvbbIA8HBnPGPxWSP8PDXPHwsnnBFrJJD5lDTUnC-w_1Ibs0YIEhDMCQ5k-7LInCwE3A3dGEIIGhR5py0T2zgKIMJvxZ8ZGFlxFFrYkA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJNzeUjcDS1IkRX6LHkoT0uGA",
+         "rating" : 5,
+         "reference" : "CmRRAAAAbMMpvnrVVtT4jziLL9NfHR0jXi-6ikX6saQoMb4o5O5QKRHdR1Z_ZoQTylHSQDDE-IwnyQHHYFMHtkrBQcL6cJZEL8UvJE0fXJoygd9-nvKtz2irh1nkehvuEmVFGkTbEhDTR4KwhqFEjSg0AAPYdF1vGhTy1_fB3HFDX6-XNd-tljiWi7dhtQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "1333 Sheppard Avenue East, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.77869159999999,
+               "lng" : -79.3650315
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7800219802915,
+                  "lng" : -79.36383761970849
+               },
+               "southwest" : {
+                  "lat" : 43.7773240197085,
+                  "lng" : -79.3665355802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "90d1536a324b69c8c982735e08409399811a309a",
+         "name" : "On the Run",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJf3H17MTS1IkRQL8scY3eI9A",
+         "reference" : "CmRSAAAAaplerzYtGAGK1ltmF9AX57t2YiloF48Q7qMChJrBVJbhEWR5a2r0HlavV3oUb7Ov2h6dLWu0nyt5OsjWcsJZyGicNMG1Y0-8K3nzR5ymjqhOsafBY30gB5TawShpcZ07EhDbE_ETjOHq18axseQgskWcGhSPWL8L3ZYC_9PV_LmdKz7ckxbmHw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "atm",
+            "cafe",
+            "car_wash",
+            "gas_station",
+            "finance",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "4751 Leslie Street, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7795463,
+               "lng" : -79.3661795
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7809294802915,
+                  "lng" : -79.3645486197085
+               },
+               "southwest" : {
+                  "lat" : 43.7782315197085,
+                  "lng" : -79.36724658029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "5ce53d56503cac99761e82fb4b1e3861c6d18f83",
+         "name" : "Arts Café",
+         "place_id" : "ChIJ3UlR2sTS1IkRr9Jpag46u0M",
+         "rating" : 5,
+         "reference" : "CmRRAAAA_MfgWk4FY4qteTK4BD4i7kXrZiYqkH-uH2yFyAnRqaXuW7eR7zlYkPmLQktOpg7sOhZtN2er8P_LZ1uOa_Z8JbcJYiS4PJcAjAKDA_rxwVqPRtniNy7wL_Go553H9CTwEhBXadYudaBGSWb8It411CHoGhQGJQ3qRuYP32JKZZZOJKinvj7gHA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "4800 Leslie Street, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7796287,
+               "lng" : -79.3661814
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7810095802915,
+                  "lng" : -79.3645584697085
+               },
+               "southwest" : {
+                  "lat" : 43.7783116197085,
+                  "lng" : -79.3672564302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "377b68cd754c4b75740e6270be007fc48eeecd0e",
+         "name" : "Waiting Room Coffee Shop (The)",
+         "place_id" : "ChIJ3UlR2sTS1IkRtQW5tphhGok",
+         "reference" : "CmRSAAAAICjdF9e07JSon9NCntyjGzcfAFmcKPcUAfaW3wFWaIovPWLWOl48D6GC6-HV4Jma_k5lezg8kV06YEJdUcn6RqImhPSEgAZ77diA_FL0O5sube0AOGIgTd1j1fgIFKmvEhBCFFeMRaMVq8wimUmvsZetGhR1zu36DAlyTZBUokCw1jZmUtYaRA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "4800 Leslie Street, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7690509,
+               "lng" : -79.38670239999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7707461302915,
+                  "lng" : -79.38551021970849
+               },
+               "southwest" : {
+                  "lat" : 43.7680481697085,
+                  "lng" : -79.38820818029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "b6df247f9380addcf50586ca325472cbf757809d",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111200468463783926344/photos\"\u003eMarcial CN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApFAIZtiT040L_5-l3JOntsRmOM2l-VRPrlE7OLhdhDPW4Tnhsi3INMDbKE7fLp_1iCStcJ3FkM7xKvJnMTcQV5CR-HSWNkuewy1ahQ1fqMaDoe0RVl9_rNUr3S50I1BxEhAkBTwT5m2jSw0A_vyV0KcOGhTg65XytFzhyT7StC7prBHi56wQ5g",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJUb4sQ0ktK4gRKwevytFrTuM",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CmRSAAAA4X_XtJu62BTbFrv1o3JrcNssyVk-Jvjl_89ksY9Gj2hV7RNpmRSIKn_BvSoJuQjXHdfNLoOjvilsKh99zghqvmgJ6pPtFZ0w_AWWwdHsCErVaZTd9McG7X0j0h4JYHlCEhBCi7aUPmOilpvK_6uyiu18GhTxpu0xO5XBHLQYIN6jzarVBM4zsw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "616 Bayview Mews Lane A1, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.761192,
+               "lng" : -79.3555329
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7627595302915,
+                  "lng" : -79.35429261970849
+               },
+               "southwest" : {
+                  "lat" : 43.7600615697085,
+                  "lng" : -79.35699058029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "a5dde76753a70ed68452e7b42f452e2248d0acb5",
+         "name" : "Lucas Coffee Shop",
+         "place_id" : "ChIJ5f31l5fS1IkR9CKQvYi6N4A",
+         "rating" : 5,
+         "reference" : "CmRSAAAAg2Nm6HY09_g7svg4FF8AXvMtiEz0NHvNSNbgoU7hs8A8-OhzJs0-Z1jenfj1ohP52AB7CNtTpdMuDo6rSpRvcpSTiqljWY5oo_l_gspBuiGEknoMzfkIEg5-BlicX6BpEhCv7jGY0985OaS6tP9aP66SGhSNgEYoWnnMzm7_V3olEZHuZSukYA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "101 Duncan Mill Road, North York"
+      }
+   ],
+   "status" : "OK"
+}

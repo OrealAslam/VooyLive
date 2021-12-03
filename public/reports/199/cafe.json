@@ -1,0 +1,190 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.63191930000001,
+               "lng" : -113.5422961
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6332812302915,
+                  "lng" : -113.5405603197085
+               },
+               "southwest" : {
+                  "lat" : 53.6305832697085,
+                  "lng" : -113.5432582802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 581,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104851171257693385857\"\u003epuliken\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLcNplWTKxGrhmqERnMgqrLQSPzaWmTekkIdhZvsNzUnP2P7XK7yCZVWW805IUBOsg3P0e10hQHrxWUoI-tfbcZMvFBNDzx8ypY8FgD9IOjtmbA-AgBeA3aU-gxEjZHun_UdZuTijxYbP681xZnSmtWTYb66sQ807D7H7wcTD_mn_xF",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJZb9fKv8koFMRCdQrKg0k0wE",
+         "plus_code" : {
+            "compound_code" : "JFJ5+Q3 Edmonton, AB, Canada",
+            "global_code" : "9558JFJ5+Q3"
+         },
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "ChIJZb9fKv8koFMRCdQrKg0k0wE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 136,
+         "vicinity" : "16940 127 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.63038040000001,
+               "lng" : -113.5404619
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6317854302915,
+                  "lng" : -113.5392100697085
+               },
+               "southwest" : {
+                  "lat" : 53.6290874697085,
+                  "lng" : -113.5419080302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117245858764183444824\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIVFCPb7sU7qrhG44G0OoIUKnu4cMJxvPiJUjVIDjiCROgPoML86KAk2teCWRXyiPdTo1tuk3A-ExJIEzaO7fITAsk5yqHTO0cVRT2mRwpFR8zIwJkgiRmT4n2pR9vqS5l--3LfJKnLpCUCa2mRad7eGdiZxpkioLm-wFtiW4RpbP1Q",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJJXKFKfkkoFMRwlMUULY9OAk",
+         "plus_code" : {
+            "compound_code" : "JFJ5+5R Edmonton, AB, Canada",
+            "global_code" : "9558JFJ5+5R"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJJXKFKfkkoFMRwlMUULY9OAk",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 327,
+         "vicinity" : "16815 127 St NW, Edmonton, AB T6V0T1, 16815 127 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6302575,
+               "lng" : -113.5450043
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6315841302915,
+                  "lng" : -113.5438228697085
+               },
+               "southwest" : {
+                  "lat" : 53.6288861697085,
+                  "lng" : -113.5465208302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104851171257693385857\"\u003epuliken\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIsMFkXh_rA79IzhZaywv96lwOeFqGZtnpHNQa6XaXL86rB8N4aun0IuTX3Gp1FiX-V8aWb8aF1l5zYsCOpGXMw83Dz-KpzvOPiQKXFO-c9LC0asI5exTDP5HdVxxGJfPPF3zAKnqOyC1L_0ylR9f1qRfviiDuhiDt1tI5ozHLQw7ag",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJsaD-Vv8koFMR0z4mxBfNs3M",
+         "plus_code" : {
+            "compound_code" : "JFJ3+4X Edmonton, AB, Canada",
+            "global_code" : "9558JFJ3+4X"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJsaD-Vv8koFMR0z4mxBfNs3M",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 342,
+         "vicinity" : "12852 167 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.62907360000001,
+               "lng" : -113.545109
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6305177302915,
+                  "lng" : -113.5437119197085
+               },
+               "southwest" : {
+                  "lat" : 53.62781976970851,
+                  "lng" : -113.5464098802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110632717167840562202\"\u003eStanley Sun\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJVfI_jmrGwhfGqHGhfjyYlq4EMqrRHCiXvgcZXse_ZYQeDtfnd4S1OF2VfCIzkeudP1Ze80JK3cNUFb8V-41qZx-17cP-3aatBFjl7Z9yqlgScPCBJFVornXuVYVjpXwGCcrouBRHYTA2RakT0wKsuODnZlD4zxD31FekJYytAntPb",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJfezHBFYkoFMRvOANOilarak",
+         "plus_code" : {
+            "compound_code" : "JFH3+JX Edmonton, AB, Canada",
+            "global_code" : "9558JFH3+JX"
+         },
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "ChIJfezHBFYkoFMRvOANOilarak",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 775,
+         "vicinity" : "12810 167 Avenue, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

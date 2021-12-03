@@ -1,0 +1,96 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.59910979999999,
+               "lng" : -113.3894508
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.60054613029149,
+                  "lng" : -113.3881020697085
+               },
+               "southwest" : {
+                  "lat" : 53.5978481697085,
+                  "lng" : -113.3908000302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "e7e7ece5189cff613c8c1b1dec6986f1d587d84a",
+         "name" : "BMO Bank of Montreal",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107117987141592631514/photos\"\u003eJolish Joseph\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgOx8HsiutNZOLpCQwhrMjENqXIhfTwr1WRp6NUythn74D-qGSIeuAZ4ipkILnxuflEGjZkw7zVS9DhkKe_N5NwMQet8GR2kCcC6I2CaX0HknCElk5iSLGkxM3nhOMrfaEhCsODfg3CR1LDS6-2lGrhlHGhSNS_w-e_EsX3rj2FrB8CjIUkZxxg",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJF1wH0pI8oFMR3ozpjIIJxqA",
+         "plus_code" : {
+            "compound_code" : "HJX6+J6 Edmonton, Alberta, Canada",
+            "global_code" : "9558HJX6+J6"
+         },
+         "rating" : 2.5,
+         "reference" : "ChIJF1wH0pI8oFMR3ozpjIIJxqA",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 22,
+         "vicinity" : "3003 137 Avenue NorthWest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5980621,
+               "lng" : -113.3869366
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5995039802915,
+                  "lng" : -113.3855934697085
+               },
+               "southwest" : {
+                  "lat" : 53.5968060197085,
+                  "lng" : -113.3882914302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "12af55d715cdb68597c5bb9dac6787e819343fbf",
+         "name" : "Scotiabank",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 509,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104851171257693385857/photos\"\u003ePULIKEN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgwqXLzCT4RBcnwRDtHBgGLS5YDGIfb1BMlUdag8QwPs19aBvEN11Bv-B6_YUVhb_RXpH61j9TUFSwQ-mx28tc-HdIxSF2p2-ZIg3lsH00LAJEHmwKim36169k4xzQTYFEhBDZ8gN-6WUzxNDKC-z--2hGhRPivX_fz9epGseHU3ni70YBdU96w",
+               "width" : 786
+            }
+         ],
+         "place_id" : "ChIJ1Rg7Du08oFMRCo7G1QeaKBA",
+         "plus_code" : {
+            "compound_code" : "HJX7+66 Edmonton, Alberta, Canada",
+            "global_code" : "9558HJX7+66"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJ1Rg7Du08oFMRCo7G1QeaKBA",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 22,
+         "vicinity" : "13540 Victoria Trail Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

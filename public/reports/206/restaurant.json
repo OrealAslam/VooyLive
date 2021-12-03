@@ -1,0 +1,952 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwJ7oe668wGOheru8P31ZU1kWt4MDjPZzMITTW3oKrqB8Wvh7kSirfb8uS9EpSoDeeEb6TVlOwpGziOGt36JRjf1Rh--sORrWvu1KxCOLcVsQ20UZ1xGRhHkFTJEhsRf7ZSEF8pXSm4TorhcVFDZWaUh2-Gta_OqU9EMvN7szSzZH3wfrIMVgPMLuqh5eYaLV5WcGJP9xjzF7ZPwbGN1kumK1ULBXF5_4nuHvhE0ET7n-NvEo0ksfq5ot1FZKl0OHrDVBY_uPjlNnXwST8lipD-VxB-5n_tH65bdm5e8dh-nbBw_E0QS7pbfRxcqoAeMza49k9MSKgnsCkkAbUHbdZB0PsU5i1PaNWlrRXjgY5y9nG12WLMu3snr-9cbJW4kTk-b1wFk85rzOPMB3KxTkorljgk1-o_AlxthBl9QF0BBWXJGoZAOrjKIizRsRJSgFhC-ETKLFauyOSvTI2hzQXsOkQFXZkbuuzV-ZYcqDZhwtaT6GrAH_eLpunPu629--vbiMl-Poc7KresV6pFTvMVc2pEz0hOw745guJ38Zk_YHnum6hW28Wq-nKTxeyF3uOezlgjEpcMINCLmXTIbPJY47S9LzZ7Ke_qK6Ev-Nr9BAx-9F1acE_IP-N_hWKLntbZZnhLZrhKRy1eKqkh43OW25INMbx-7sU7IbldCCYHncKRmvgShzqiUGJdIxKY38AFYTmuQdK55kvIUvDZ9MJBXJXrkORP2sVA1pA0DDjwwlvoyITKeJrWjSKlTxcIbmQ",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.77426630000001,
+               "lng" : -79.49316499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.77565838029151,
+                  "lng" : -79.49183376970849
+               },
+               "southwest" : {
+                  "lat" : 43.77296041970851,
+                  "lng" : -79.49453173029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103571168008144135859\"\u003eAgamjot Singh\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLUkWO194cRx4R5K8j4HNMjhlYrAiMfXuN09bnueLyWsxVyiwJ4qXrnDc7SXCTu7XQiMbEoihIWKcqllz9a3_bW8SvD9ic6Hdh5oAjEZNKdPdyplN6vcfF5ng8wAtZJ5MHsx88X1iF4_TbJoD2iSDKtiX_1QdoGBMlVRv69ks2VhCMa",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJzSs3Uz0uK4gRJS2jnI9sty4",
+         "plus_code" : {
+            "compound_code" : "QGF4+PP North York, Toronto, ON, Canada",
+            "global_code" : "87M2QGF4+PP"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJzSs3Uz0uK4gRJS2jnI9sty4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 701,
+         "vicinity" : "4211 Keele Street, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7646648,
+               "lng" : -79.4898018
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7659317802915,
+                  "lng" : -79.4885349197085
+               },
+               "southwest" : {
+                  "lat" : 43.7632338197085,
+                  "lng" : -79.49123288029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Pizza Pizza",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107999463710695362581\"\u003ekaruna sinn\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwImQN84DxZdGWduVlLZEnxcaoz2g8UXOi-IWzk0KksjWoSuI_feZ2fDh6iclQ3IToglKBnzbeR3V2vgdMEsaH8gsX06203QsrDDcdvBnsaI9hvVyBZg90zeVAlEXEA9V5x5DEba8aQHIkzFxz-5EFTusrQXbRi167abm5chAZzup5Gn",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJI0ZZIx4uK4gRfR8H9Vl8yZQ",
+         "plus_code" : {
+            "compound_code" : "QG76+V3 North York, Toronto, ON, Canada",
+            "global_code" : "87M2QG76+V3"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJI0ZZIx4uK4gRfR8H9Vl8yZQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 353,
+         "vicinity" : "1300 Finch Avenue West, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7637434,
+               "lng" : -79.48855759999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7652294802915,
+                  "lng" : -79.48726326970851
+               },
+               "southwest" : {
+                  "lat" : 43.7625315197085,
+                  "lng" : -79.48996123029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Fox & Fiddle",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3712,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101265696377806165067\"\u003eAmer Kasim\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLbgSXe7onjj32LuV9jGjJC2KzS4irEMl0a9KMuV_dvBis8cnpqvgTSB8VuZUCoLpL6lKXrEQ2rkoiq_K2G4N-fJImN8NEiGc7TIplASMaNzoBHds03RniQ2lwjNrbL8abTnScd96EiRTNSpKyS0UUT4bsqezgBQTosOs_A2EZh4v5w",
+               "width" : 5568
+            }
+         ],
+         "place_id" : "ChIJn3ryGB4uK4gRsL_wxdPkeqo",
+         "plus_code" : {
+            "compound_code" : "QG76+FH North York, Toronto, ON, Canada",
+            "global_code" : "87M2QG76+FH"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJn3ryGB4uK4gRsL_wxdPkeqo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "bar", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 644,
+         "vicinity" : "1285 Finch Avenue West, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.77335959999999,
+               "lng" : -79.49301749999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.77468138029149,
+                  "lng" : -79.49186151970848
+               },
+               "southwest" : {
+                  "lat" : 43.77198341970849,
+                  "lng" : -79.4945594802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "name" : "Hoops Sports Bar & Grill",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 615,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102945943778083792855\"\u003eHoops Sports Bar &amp; Grill\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKM1djbGMcuQKZ_II_zGVP4TTi4JKZ1ypYRBhHi4KX4kt656_vhxCMTIh9A-sX3Dz0khN3HGVm72GUZQ00ODqIFb4aRaX2Hd0gW9vm1a_YtZsl6yS33OmtLxGhs3ct_Tw3e30Q7SP2T6P_GJi_5sIfqZ1ne2PKrJZo5GQ1jb5BjzcGE",
+               "width" : 1282
+            }
+         ],
+         "place_id" : "ChIJY6IQVT0uK4gRKhXZKDscPqY",
+         "plus_code" : {
+            "compound_code" : "QGF4+8Q North York, Toronto, ON, Canada",
+            "global_code" : "87M2QGF4+8Q"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJY6IQVT0uK4gRKhXZKDscPqY",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 313,
+         "vicinity" : "4207 Keele Street, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7571977,
+               "lng" : -79.514731
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7585981302915,
+                  "lng" : -79.51340616970849
+               },
+               "southwest" : {
+                  "lat" : 43.7559001697085,
+                  "lng" : -79.51610413029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Pizza Pizza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3712,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101265696377806165067\"\u003eAmer Kasim\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLK9IwCh_Kvz_gVq6ai3Q5E0bKyhnWa2yrhWnnMbkDKb05akRwxOrbJNrRNjBLyZ06KWgrEYZ2h2BOqBO9iA_do5JBVu_ziAZqizNHgVJiiS-YFHHp_CWm-LTNchNrUCAg2Igsm7RY5YKHMvZvU7PH7fZ7jKAvFvY2TSp94PoUJ77IZ",
+               "width" : 5568
+            }
+         ],
+         "place_id" : "ChIJS8k6xNIxK4gR8t5Y_ptEkaA",
+         "plus_code" : {
+            "compound_code" : "QF4P+V4 North York, Toronto, ON, Canada",
+            "global_code" : "87M2QF4P+V4"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJS8k6xNIxK4gR8t5Y_ptEkaA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 577,
+         "vicinity" : "1837 Finch Avenue West Unit #T-3, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.77335959999999,
+               "lng" : -79.49301749999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.77468138029149,
+                  "lng" : -79.49186151970848
+               },
+               "southwest" : {
+                  "lat" : 43.77198341970849,
+                  "lng" : -79.4945594802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Domino's Pizza",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 675,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102676784089305363783\"\u003eDomino&#39;s Pizza\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIB-Wa8UTE5fqSyPtTsOGOlv50GkDgm5NjztOQFOMh6vVCNVdwbswCprPRGu49US6DxvwOP1G28szlsOEC8809tfITEXq2E-06-Ha0hxUTxNk1hgTjqxgOzt0WFZtRXbR6eozrENWqDrg0UTEF4X830T6bU-3lWI5YixL_8kNbPFQ6-",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJ7ZgnVD0uK4gRlMigFzqjGQg",
+         "plus_code" : {
+            "compound_code" : "QGF4+8Q North York, Toronto, ON, Canada",
+            "global_code" : "87M2QGF4+8Q"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJ7ZgnVD0uK4gRlMigFzqjGQg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 486,
+         "vicinity" : "4207 Keele Street, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.75625869999999,
+               "lng" : -79.51542669999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7576673302915,
+                  "lng" : -79.51421106970848
+               },
+               "southwest" : {
+                  "lat" : 43.7549693697085,
+                  "lng" : -79.5169090302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Popeyes Louisiana Kitchen",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109237927123521919332\"\u003eClint Woods\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJe5EsmM0YgCi6rRNNelbAQgMVZrHf-Mot0kaJHvMJQ7PSwNZQov11hZfP-QQ7azA_yHgwtgk2Kmyvi2EzppRAqbOfqgPtDtfWdL_RyIN3yzXs2nMqOj8uNxfJ4DZzPiA8ZI1xPi5gUNXxocGwUCEMXZN9mt4-4clU-mxIjqdu_jsK0",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJmQ5mkzIwK4gRoUiODemL-C8",
+         "plus_code" : {
+            "compound_code" : "QF4M+GR North York, Toronto, ON, Canada",
+            "global_code" : "87M2QF4M+GR"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJmQ5mkzIwK4gRoUiODemL-C8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 474,
+         "vicinity" : "3865 Jane Street Unit 31E, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7588352,
+               "lng" : -79.4891963
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7602298302915,
+                  "lng" : -79.4879676697085
+               },
+               "southwest" : {
+                  "lat" : 43.7575318697085,
+                  "lng" : -79.4906656302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Taco Bell",
+         "photos" : [
+            {
+               "height" : 3712,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101265696377806165067\"\u003eAmer Kasim\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKxNymA15AXtLVjvSqdJiz1PA1NOYVOqeleiwHdWFsW2iDGXFnRjzJwdvJaoiLy231WLsHd2OedhT11AWZcR22Uw_vmSEXWPe9uCvf2_l77Ru7T38aVsufg_qp5V4TW9oMuckjux0gwleL6H-ubPCFoOIYXjFmIuKrXSZKEno1pk3IS",
+               "width" : 5568
+            }
+         ],
+         "place_id" : "ChIJsZ6F0-YxK4gRSnmmhplH7iw",
+         "plus_code" : {
+            "compound_code" : "QG56+G8 North York, Toronto, ON, Canada",
+            "global_code" : "87M2QG56+G8"
+         },
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "ChIJsZ6F0-YxK4gRSnmmhplH7iw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 368,
+         "vicinity" : "3777 Keele Street, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7738555,
+               "lng" : -79.4920539
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7751750302915,
+                  "lng" : -79.49083156970849
+               },
+               "southwest" : {
+                  "lat" : 43.7724770697085,
+                  "lng" : -79.49352953029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Bamiyan Kabob",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114877005525091141166\"\u003eIshtiaq Ahmed\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIVzgXkm2RYB1-Y8Gcoc3nERUURNL_YZWCtRVxvynzYevYtfpIo7NBAZOI_wQI_dH9kUScwvcLeu3QKACDznO0qKO5dyVo-iEJmgPGe_Exg5swl77KmvnaIHtmr4ASRxpX3-IDc-P3mICSZ3C4CcxPlKKXUrdBTCpfPxZ9aYGxAVlGc",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ6dQ0Uz0uK4gRHeaIe_BRXjw",
+         "plus_code" : {
+            "compound_code" : "QGF5+G5 North York, Toronto, ON, Canada",
+            "global_code" : "87M2QGF5+G5"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJ6dQ0Uz0uK4gRHeaIe_BRXjw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1124,
+         "vicinity" : "UNITS 9 & 10, 4205 Keele Street, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.76874109999999,
+               "lng" : -79.5027166
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7700541302915,
+                  "lng" : -79.5014548697085
+               },
+               "southwest" : {
+                  "lat" : 43.7673561697085,
+                  "lng" : -79.5041528302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Booster Juice",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106405493126098112560\"\u003eBooster Juice\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKwCKdVjGvtO_iGgKAbJvTjjqJDY6xfu6NoB4mvGi6c7FIhzxeQDrhZLVgBCDY_KvLf7aURQQG1zqJYExgpQuliO75p8uH470YgSXSaUN9NC6zd3ahuzZlMNfdC3Avp8ZN_3zFlUORgYbtGoAwi3CgHd2MSoWhBgFrAK-XhugWE35n-",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJ2eih2iUuK4gRl8TiJvFBOGA",
+         "plus_code" : {
+            "compound_code" : "QF9W+FW North York, Toronto, ON, Canada",
+            "global_code" : "87M2QF9W+FW"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJ2eih2iUuK4gRl8TiJvFBOGA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 70,
+         "vicinity" : "105 The Pond Road Unit #70, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.769977,
+               "lng" : -79.50173629999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7714153302915,
+                  "lng" : -79.5004686197085
+               },
+               "southwest" : {
+                  "lat" : 43.7687173697085,
+                  "lng" : -79.50316658029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110273146657748577878\"\u003eRaj Rama\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIV4TNZa73DOg17Wan4Cyyj4tjLlI7ODXIqnhk7-VykbLWgo72tkPaqlEjs2AaeQl7Rey42ai0Z2dpmZOwH8G7SgVyecgbeNw6eQK2hC4IRk6W9K24XZCrTtjSFKPmma6cbdk4GoRafnUSrLvtlrPWT0abVN2LaePlRfxgLK38RAE_M",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJ2eih2iUuK4gRDC4ef8UBDDw",
+         "plus_code" : {
+            "compound_code" : "QF9X+X8 North York, Toronto, ON, Canada",
+            "global_code" : "87M2QF9X+X8"
+         },
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "ChIJ2eih2iUuK4gRDC4ef8UBDDw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 180,
+         "vicinity" : "105 The Pond Road Bldg C1, Unit 20, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7722857,
+               "lng" : -79.5034029
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7736346802915,
+                  "lng" : -79.5020539197085
+               },
+               "southwest" : {
+                  "lat" : 43.7709367197085,
+                  "lng" : -79.50475188029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109232997714904698982\"\u003eTim Hortons\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJxbD9yZ3abnzQCk0oXWorEffDmUVtW-QUuUL2gX-3Q25U171pH2DTZj9n1iDiBMDPwHJkz7Z4p8CZ1LwxZt92W2VFYxzZPW_YrFSqsT3yemjRExIyND1A9ypvtmdP5SFZBx1gOvaKxb3P5lRxShHpzHQj7qdtNOftDwt8idwMLdoWA",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJ_y7wqDwuK4gRcUYAjiCy3kA",
+         "plus_code" : {
+            "compound_code" : "QFCW+WJ North York, Toronto, ON, Canada",
+            "global_code" : "87M2QFCW+WJ"
+         },
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "ChIJ_y7wqDwuK4gRcUYAjiCy3kA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 89,
+         "vicinity" : "4700 Keele Street, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.773536,
+               "lng" : -79.501941
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7751809302915,
+                  "lng" : -79.5001392197085
+               },
+               "southwest" : {
+                  "lat" : 43.7724829697085,
+                  "lng" : -79.50283718029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Thai Express",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106076767166824968732\"\u003eWojtek Gidzinski\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIorfuNfLDnpYXQuhVJgdzj9Osfm5tQKZ0fHqLrRdFMhFd9Vs-YUR0Z5udnrwz5BCyQPVAgT5KBpUXT4IbtUvzynJeOo0WSOUG_W6sc_Zi7MNh_5G0MjVSpKB_xM9iYj_PsDgRv8u58zUfCHq3MBozwerco3cI3mf2xeuKHgyzSFKaf",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJf_43qDwuK4gRMwHcrgeEQjU",
+         "plus_code" : {
+            "compound_code" : "QFFX+C6 Toronto, ON, Canada",
+            "global_code" : "87M2QFFX+C6"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJf_43qDwuK4gRMwHcrgeEQjU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 116,
+         "vicinity" : "York Lanes, 4700 Keele St, Toronto"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7739003,
+               "lng" : -79.5027719
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7751451802915,
+                  "lng" : -79.50137686970849
+               },
+               "southwest" : {
+                  "lat" : 43.7724472197085,
+                  "lng" : -79.5040748302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "The Islands Caribbean Cookshop - York U",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 3281,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113107461957816990861\"\u003eThe Islands Caribbean Cookshop - York U\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI77akayBncQHEkRI-VZbFMJPjHOZ_2LfueCeeXG5iLWEMQFnX9KBgGh2RYgaWGF67BzAC60Jw7dlZqTrqFQWKaNzyC28WB8yJGekjuvIcqOlGTLT6J5jdzYrYOltj4OiZV-QOzBfhKnOtsd3NjBMd-4kKM-zqRNMBg1LJd74BXWwWf",
+               "width" : 4494
+            }
+         ],
+         "place_id" : "ChIJf_43qDwuK4gRexTFPw8SrHg",
+         "plus_code" : {
+            "compound_code" : "QFFW+HV North York, Toronto, ON, Canada",
+            "global_code" : "87M2QFFW+HV"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJf_43qDwuK4gRexTFPw8SrHg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 111,
+         "vicinity" : "Student Centre, York University, 4700 Keele Street #107D, North York"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.77390999999999,
+               "lng" : -79.50296299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7752589802915,
+                  "lng" : -79.50161401970848
+               },
+               "southwest" : {
+                  "lat" : 43.7725610197085,
+                  "lng" : -79.50431198029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Wendy's",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1190,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110966931837906848715\"\u003eWendy&#39;s\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIIQie43lAy7sB6YZxcRTWLeY_545FQAfJhMFQov3MDB_AsTABvRhiHucOq6qp_aaBwVIpjL8StA9GaKxPT2NKqnfaVnw4WfwaMn4wYOhI71waJYt-BpVWe5HM6wo2m_xgrBv8OANH00LcvFG3eHAi8cB3ud7sEGKecJqoeADgfw7sG",
+               "width" : 2115
+            }
+         ],
+         "place_id" : "ChIJ7Z_4qDwuK4gRUnmFhQ8V4tA",
+         "plus_code" : {
+            "compound_code" : "QFFW+HR Toronto, ON, Canada",
+            "global_code" : "87M2QFFW+HR"
+         },
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "ChIJ7Z_4qDwuK4gRUnmFhQ8V4tA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 280,
+         "vicinity" : "4700 Keele Street, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.77395050000001,
+               "lng" : -79.50320049999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7752994802915,
+                  "lng" : -79.50185151970848
+               },
+               "southwest" : {
+                  "lat" : 43.7726015197085,
+                  "lng" : -79.50454948029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Treats Café Emporium.",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106076767166824968732\"\u003eWojtek Gidzinski\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKpkZ5NN5pMTpXLNzhKgPQznJI1aypxj1RidRQ79XjBGrEMbI6wzFmrmIn87QoAPCiAv0KOn0CinmIWp5kE6yjBhyGreg01CnoT7JJHvS806UmyCRP5u9kh1O1PSkh30rLO1B52YbByZS0xegTffy84DqHFxRrjQ-Ta0KOG9Z6skcRq",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJJcsWTiUuK4gR-aF1FCo7AEU",
+         "plus_code" : {
+            "compound_code" : "QFFW+HP Toronto, ON, Canada",
+            "global_code" : "87M2QFFW+HP"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJJcsWTiUuK4gR-aF1FCo7AEU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 56,
+         "vicinity" : "Toronto"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.773974,
+               "lng" : -79.503086
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7751525802915,
+                  "lng" : -79.50166166970848
+               },
+               "southwest" : {
+                  "lat" : 43.7724546197085,
+                  "lng" : -79.50435963029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "The Dirty Bird Chicken + Waffles",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108714659834844497481\"\u003eAmy Thong\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIvuUSejBiqlkw22hSWq-0_BF7SOs5gCjwPggzHU0dwQrdzK67-vzZ2YjJ-qb2wzlvcGA7Nc0JloX17PGa3xyeqEsDgo9jc3mQ47hvEXmtokW_GOOlcUckobx9T-O7gDKtaC9W9vkreWC_w7sikmL7jywcjQjjtTQvrvFZFxhz__Pd1",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJB8Z1TCUuK4gRUob5encHeWE",
+         "plus_code" : {
+            "compound_code" : "QFFW+HQ North York, Toronto, ON, Canada",
+            "global_code" : "87M2QFFW+HQ"
+         },
+         "rating" : 3,
+         "reference" : "ChIJB8Z1TCUuK4gRUob5encHeWE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 60,
+         "vicinity" : "107A-94 York Boulevard, North York"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.774007,
+               "lng" : -79.50296849999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7753559802915,
+                  "lng" : -79.5016195197085
+               },
+               "southwest" : {
+                  "lat" : 43.77265801970851,
+                  "lng" : -79.5043174802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Jimmy the Greek",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105187283325162648004\"\u003eNgọc Tiên Phan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIieBeF5PAOiW-4tIHHOfmy4ttmoPI9tuoHIyEAPd1snH9BG6_pSefGtHefsbQq5fFTBIhwitEIHVtj3Z6GCYLYzi8rFZgup0FK9ehJ0gFvyFTqJ-BiE_-e7vrDr3-dAjJL4f1vPVf8eqC2yf1UE4SszxHotv-wOoQ3KqspGq8mpDa-",
+               "width" : 4025
+            }
+         ],
+         "place_id" : "ChIJf_43qDwuK4gRaL6dyzFG5xU",
+         "plus_code" : {
+            "compound_code" : "QFFW+JR North York, Toronto, ON, Canada",
+            "global_code" : "87M2QFFW+JR"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJf_43qDwuK4gRaL6dyzFG5xU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 54,
+         "vicinity" : "York University, 4700 Keele Street, North York"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7737359,
+               "lng" : -79.5050858
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7747034302915,
+                  "lng" : -79.50403616970848
+               },
+               "southwest" : {
+                  "lat" : 43.7720054697085,
+                  "lng" : -79.50673413029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Freshii",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100377152065974713129\"\u003eZahid Islam\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKCdU_fWvnrZlGog2BbnzbcVw8v4jJB82gMRSNj4R2fzCWVZm_y25_htMknMYHglML5mndkBeITBPz_pfCW8o0fWDJGCWFhcZM3VBEll7XbWId2Czd8jrMqCM-1CEHBI2-CqeheZa9TWioNxxOMWpr7Bg6okAkRtWXgEtVfTPmpd1QX",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJb4Ro7y8uK4gRDfsLyx02OY4",
+         "plus_code" : {
+            "compound_code" : "QFFV+FX North York, Toronto, ON, Canada",
+            "global_code" : "87M2QFFV+FX"
+         },
+         "price_level" : 2,
+         "rating" : 3.1,
+         "reference" : "ChIJb4Ro7y8uK4gRDfsLyx02OY4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 51,
+         "vicinity" : "126 Campus Walk, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7743204,
+               "lng" : -79.5020198
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7754524302915,
+                  "lng" : -79.50057596970851
+               },
+               "southwest" : {
+                  "lat" : 43.7727544697085,
+                  "lng" : -79.50327393029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "z-teca Mexican Eatery",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112622672405066574252\"\u003ez-teca Mexican Eatery\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLpaBVcQ2a7k0FeqYfpyKmlWUbDCEQWQ5ogo6fRjL4woSJZ0joUtFQ4S9U3-VnlfCK5j6yObKNsJGLfRJgfF44FI2Uly6hNAofummpcs1gsQt0SpFqiJUZcRYW3XJbS8Lcxk0VM06hDZ9jk8VYmEz6YmfTYTE_kkAOOO0gQ1ol4bP1c",
+               "width" : 3606
+            }
+         ],
+         "place_id" : "ChIJAb34zTouK4gR_ulVKGVTgOU",
+         "plus_code" : {
+            "compound_code" : "QFFX+P5 North York, Toronto, ON, Canada",
+            "global_code" : "87M2QFFX+P5"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJAb34zTouK4gR_ulVKGVTgOU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 104,
+         "vicinity" : "80 York Boulevard, North York"
+      }
+   ],
+   "status" : "OK"
+}

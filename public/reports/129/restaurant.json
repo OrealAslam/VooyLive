@@ -1,0 +1,930 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQECAIAAF2jCqLCVs_QYNHLtg3a6qMZfz-gfOwAAg91nt57LJJaSH6IY7bC9jvakxQQBGu7Ggp2K6hOppWgEi97KHqNbSHCT--XwxikZyrgnK7jXHuZRPvX0YC3CCcP49sYXDWLZnLNnaLD-nh0Fi7gewe5Wm5TQcJSp2yT2V8hhV5pQJX0dIQa8nkIjF2vH2EkSbUHmMq0-OlNjFdh0oKN29bSng9zTMSBsaOsAo80vssYebAqms00FyFvVemo05znP6lsnMMY5cK4h4QzjpwXLCdKjIgl7RmNX6DHen2DsMNq50WnA91GMeSRyb-_wWdtv5kdOjB845WCHnITHxF5k98QM1_kzIc8Dv1kybE0sVNHZnXdADNl23tTQuppyIGNx-jlw6n1HNlbeO_pVBSA7AesKcwMiCZLvRmeKaJwDDd7vsRhYNrZ0Ja7aF3pl7yQDx9uh4yaNDtQ-nMNmdxteWeqKMm1JFboHmPCpVShKrS7zZoqGqr6STpWp4SiAiZiHf6XchjS2A2RNMKS2rEeJs2fFVl1N5tBWIvyIUyaDuu4Kz6FNOEdpBZfJ3Dns01JYbTwyu-ExkWLC2x85yd9xt1lUC-_JIR7jZT8Cdrc3lfwyEHK_ALs-J1RCCwRhFSKzISejoE6o21vrnh407mVmHe7vVbc8reUNPuOr_m35LLiLJzmSvLoodEJhzefGDAlMXVGXxIQOnplPnQWGKxMX7NFZQceexoUzIWLN-pv52FcVW0ko156-h637Dc",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.50286610000001,
+               "lng" : -113.5799153
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5041219802915,
+                  "lng" : -113.5786162697085
+               },
+               "southwest" : {
+                  "lat" : 53.5014240197085,
+                  "lng" : -113.5813142302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "bfba16e112f60c87663064c32c384c6ad4f8e0cb",
+         "name" : "Hotel Selkirk",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105182797318781605639/photos\"\u003eBrowen L\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAN5aKXVF-UBe_GMOsHQSkAAzCuQkHpVVbMK9QWe_kaznp3lZqzbBqeCwWDbMdd4bntgUTU2_wCM9jEqs_w1Rp9ygphzy4p-LDgiijQRTaIc__5FbSRULuEiRnZcNsHwdTEhATz90QmzH44LWPFHBmOM7CGhRVdtIRfQMrUR0BCQTuhuDWkpcUCQ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJIz4HUs0hoFMREViwAzwonz0",
+         "plus_code" : {
+            "compound_code" : "GC3C+42 Edmonton, Alberta, Canada",
+            "global_code" : "9558GC3C+42"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJIz4HUs0hoFMREViwAzwonz0",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 109,
+         "vicinity" : "1920 Street, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.50338139999999,
+               "lng" : -113.573538
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.50451633029149,
+                  "lng" : -113.57072175
+               },
+               "southwest" : {
+                  "lat" : 53.5018183697085,
+                  "lng" : -113.57447675
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f205a2673adf6bd560b15773f63a22468e2dd881",
+         "name" : "Fort Edmonton Park",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104256407771930872120/photos\"\u003ePetre Ene\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlyi4QbgJXM98PabO9PRCqvD3TOm0J0P0cuXT3VUJ6VNxp2b8JobapfUyGQ3z6NvcfAhT1jWNdAClRkSZIwewe6l6IlWBGKlHAR7sXxmKLcpjamxn74drhYWztXSSLy1_EhDoXDQTkkt4pY6B5qzYvp6wGhTJvA1NjB2BDYGTMSfxBcVSzglkZA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJe0rFCT4ioFMReTu0FdjfSNQ",
+         "plus_code" : {
+            "compound_code" : "GC3G+9H Edmonton, Alberta, Canada",
+            "global_code" : "9558GC3G+9H"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJe0rFCT4ioFMReTu0FdjfSNQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 1755,
+         "vicinity" : "7000 143 Street, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5343612,
+               "lng" : -113.566045
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5356272802915,
+                  "lng" : -113.5645760197085
+               },
+               "southwest" : {
+                  "lat" : 53.5329293197085,
+                  "lng" : -113.5672739802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "14210270490ad212b30eb1fd1b83db034918287a",
+         "name" : "Delux Burger Bar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110094927809527510561/photos\"\u003eDavid Brown\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyufEssckzAA9olnpyZfs-US46mago7alsvLZqy8MzrnUKCK3rXNMhsIetRrQDDZvxB0vNfjBTgK76_HpaV-qrQbONqVDG9a8JFZXYOy6I7LAmnCTstiMbsUORm6cfxUSEhBPX1rvnwOOFh_8pAttMfhfGhRYFQNttFksi4XRT8BdDcw8XirxVQ",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJyeCq0Z4hoFMRYa8DJ1sDQp8",
+         "plus_code" : {
+            "compound_code" : "GCMM+PH Edmonton, Alberta, Canada",
+            "global_code" : "9558GCMM+PH"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJyeCq0Z4hoFMRYa8DJ1sDQp8",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 263,
+         "vicinity" : "9682 142 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5198265,
+               "lng" : -113.5960946
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5212780302915,
+                  "lng" : -113.5945647697085
+               },
+               "southwest" : {
+                  "lat" : 53.5185800697085,
+                  "lng" : -113.5972627302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d42181489f587aa447f0903ba62de4a780f23205",
+         "name" : "Brewsters",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 750,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115961090723798393905/photos\"\u003eBrewsters\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANMe0dP6mYgqw1ulErpzuuie5cACxeuyHq69SwXvXWkcL7DoWSxrKgcTOVJghwVmXNqxBhiHQNkeh4kJnTL8kd8jXdgaqAsbImcCW93HVx9uyFojyVYRcx4I1SDihAyNVEhBf8vhgzqtRodxIHSINa9oPGhSdHESsPrcVWzMkLTGACjAyUhhtog",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJbaYm0bIhoFMRJ-FrkLhme0Y",
+         "plus_code" : {
+            "compound_code" : "GC93+WH Edmonton, Alberta, Canada",
+            "global_code" : "9558GC93+WH"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJbaYm0bIhoFMRJ-FrkLhme0Y",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 135,
+         "vicinity" : "15820 87 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.521032,
+               "lng" : -113.5908469
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.52231218029149,
+                  "lng" : -113.5895292197085
+               },
+               "southwest" : {
+                  "lat" : 53.5196142197085,
+                  "lng" : -113.5922271802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "700c91970d6ade2225c83383143053b410c0d126",
+         "name" : "Taco Bell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101686637791735573726/photos\"\u003eIan McClung\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdW6zIlc5zgD6wEWGjCqlBk-swhL4sWtPadBkqC3VtD-PyAuFsCx3EW55BbOsyeieOZOKdY5mFL0-nSjpXniSOXeWSbPpgkjuO0MvQiIrw0UTHihiL0GYK-w4pdJfaUJ8EhCmkx0T8jHs8kh7s-RI2XruGhSemooHwa-AvnLdSg3222mcyAgh2w",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ52RyT7IhoFMReIvw7mU1FD4",
+         "plus_code" : {
+            "compound_code" : "GCC5+CM Edmonton, Alberta, Canada",
+            "global_code" : "9558GCC5+CM"
+         },
+         "price_level" : 1,
+         "rating" : 2.6,
+         "reference" : "ChIJ52RyT7IhoFMReIvw7mU1FD4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 103,
+         "vicinity" : "15630 87 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5344274,
+               "lng" : -113.56634
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5358328302915,
+                  "lng" : -113.5649899197085
+               },
+               "southwest" : {
+                  "lat" : 53.5331348697085,
+                  "lng" : -113.5676878802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "624a5e79e91b222907e3b06552b964654ba12bae",
+         "name" : "Delux Burger Bar",
+         "place_id" : "ChIJEzsxeFkgoFMRUEvVOjW3Vd8",
+         "plus_code" : {
+            "compound_code" : "GCMM+QF Edmonton, Alberta, Canada",
+            "global_code" : "9558GCMM+QF"
+         },
+         "rating" : 4,
+         "reference" : "ChIJEzsxeFkgoFMRUEvVOjW3Vd8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "9682 142 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.52102300000001,
+               "lng" : -113.590989
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5223144802915,
+                  "lng" : -113.5896581697085
+               },
+               "southwest" : {
+                  "lat" : 53.5196165197085,
+                  "lng" : -113.5923561302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6218d5560caf0696d9ed68fa7dd80d73e6e301cc",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115066074532972006035/photos\"\u003eKFC\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2kjxHUf0Pr-Ak2VD1tgAVLepogpVLSQ52ldGrkT3hQL5PG2psJxCRx-2hMrc4x_F884aeAypFaBHeMg8g9U8VbbyYzHBI6QXz3rxP5S665LI61WTCREOVlOQ2ezDszskEhB-BLXfiJcMq9-s0xr1OaULGhT6KPe9kQ2RJ2mELfib-c0FaqSUuA",
+               "width" : 995
+            }
+         ],
+         "place_id" : "ChIJ52RyT7IhoFMRrw1yzwf-W2M",
+         "plus_code" : {
+            "compound_code" : "GCC5+CJ Edmonton, Alberta, Canada",
+            "global_code" : "9558GCC5+CJ"
+         },
+         "price_level" : 1,
+         "rating" : 2.9,
+         "reference" : "ChIJ52RyT7IhoFMRrw1yzwf-W2M",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 125,
+         "vicinity" : "8730 156 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5198658,
+               "lng" : -113.579103
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5210231802915,
+                  "lng" : -113.5777624197085
+               },
+               "southwest" : {
+                  "lat" : 53.5183252197085,
+                  "lng" : -113.5804603802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "80051fbe40fdec3ca32f440ede381779134c3604",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107088139414880374453/photos\"\u003eColin Penner\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdf2Mu4-xHhJLvS77371ZNrKfklc0D6tMWXQHRwNPhqYMOi4LvyzDOuF-9YrlCy0sKaBrJzbYXeXJzOjUDjrABnW7BXgWB5iZJjcvv9B21bXf2Si-Z5xgAUmwQ0Kqtlc0EhBQsu3BhFkINeaaCjxTe2SFGhQdmZZisdqhitxDVMecq0l-k5i7tw",
+               "width" : 1862
+            }
+         ],
+         "place_id" : "ChIJ9Y8tNbchoFMRaPiX9LroG5M",
+         "plus_code" : {
+            "compound_code" : "GC9C+W9 Edmonton, Alberta, Canada",
+            "global_code" : "9558GC9C+W9"
+         },
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "ChIJ9Y8tNbchoFMRaPiX9LroG5M",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 410,
+         "vicinity" : "14930 87 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5203965,
+               "lng" : -113.5929906
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5216888302915,
+                  "lng" : -113.5916439197085
+               },
+               "southwest" : {
+                  "lat" : 53.5189908697085,
+                  "lng" : -113.5943418802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7513b16756f0b630c4761e255352efe41ac8c468",
+         "name" : "Tokyo Express",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3036,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113913342524026985402/photos\"\u003eMichael Card\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAH2Gin9MtIfTKy8g9u9oQLEXQHqjsNOucuPiFIqAq2jmykbvpusDvnWhrizzpg2_4DRwxVWOamKM0rrp_kymKW6756Ybw3bfjbyNvksc-MsyrxTv1afMYmCFO0-ObQUZrEhAq-XnQlUl4swwSrC1Eib-XGhT8_p8DZn8IkFLQ3HSCiXGLionHsg",
+               "width" : 4048
+            }
+         ],
+         "place_id" : "ChIJWxDN7LIhoFMRfVewh7zTpxE",
+         "plus_code" : {
+            "compound_code" : "GCC4+5R Edmonton, Alberta, Canada",
+            "global_code" : "9558GCC4+5R"
+         },
+         "rating" : 3,
+         "reference" : "ChIJWxDN7LIhoFMRfVewh7zTpxE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 49,
+         "vicinity" : "156 Street & 87 Avenue #264, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.521504,
+               "lng" : -113.578657
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5228552802915,
+                  "lng" : -113.5769748697085
+               },
+               "southwest" : {
+                  "lat" : 53.5201573197085,
+                  "lng" : -113.5796728302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a001fed664259ada714fecee5566c9e3bd8db7cc",
+         "name" : "Pizza 73",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1782,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115389925559324599311/photos\"\u003ePizza 73\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAccbRA7IRPVVgT2_l3IDJnjJYrxicZ-gI_vJT-aYKnu005DQjqot2l459OU3nyRUpuxODKI2uKYlfNoKyQMu93PMY2ulMae4SFVAXuzEhCwRIZVKTL-YCy_NZd4R_GrMzEhBgG8aZ1AK7dcIi63jVYLQFGhTBuxttMo4uJ4rNr4C3KOFQ0M4tMg",
+               "width" : 3113
+            }
+         ],
+         "place_id" : "ChIJe8BodLohoFMRJlhUGocuHO8",
+         "plus_code" : {
+            "compound_code" : "GCCC+JG Edmonton, Alberta, Canada",
+            "global_code" : "9558GCCC+JG"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJe8BodLohoFMRJlhUGocuHO8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 30,
+         "vicinity" : "8908 149 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5318668,
+               "lng" : -113.5776536
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5332148802915,
+                  "lng" : -113.5764929197085
+               },
+               "southwest" : {
+                  "lat" : 53.5305169197085,
+                  "lng" : -113.5791908802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "4755ce16b1eb1179e73fc4870387ea905bf05ecb",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109198873396559457190/photos\"\u003eMonster\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAhNZt2seVYDHUuJbIC8jS9YYUYFhmY4s0nUz8i7rGuMuB8Rkc1AGT5UpI1cAlk3atuil3SMtOwoEUdTnLunjYe7tb6LeGHtspAcJ57wzPpFtjC-gkwx1rCb5XlIAaJnccEhDN9bJUkNdmhTDCzitLouKfGhSqF6QHAifQFITFbfqcTaGarl719A",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJo9hZabb2BFMROLad7ILnwq4",
+         "plus_code" : {
+            "compound_code" : "GCJC+PW Edmonton, Alberta, Canada",
+            "global_code" : "9558GCJC+PW"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJo9hZabb2BFMROLad7ILnwq4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "bakery",
+            "store",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 67,
+         "vicinity" : "9515 149 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5341684,
+               "lng" : -113.5669478
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5355158802915,
+                  "lng" : -113.5658691197085
+               },
+               "southwest" : {
+                  "lat" : 53.5328179197085,
+                  "lng" : -113.5685670802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "aa730e18760a40c60edc68c5961400bb657252bd",
+         "name" : "Allegro Italian Kitchen",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1366,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106998002234234733788/photos\"\u003eDave Tameling\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApWkXBhHT-1jhKkAiWa5lYlazJ8YgEjcDGnHKo9zttd2n_qY4DPUmQ8HkgSwuZZHiHLeEh2BhRNji7TLBCDWPF8u6SiBIWVMfyblzpQa8HGjei-BdBWLwEMyDXC0VkkxcEhADj-MMlQqvK3rnKDHYo6BsGhSwPlWUiYSKwaJHOdWeLDWeiUfgqw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ786a0Z4hoFMRLURbDrEC4Ww",
+         "plus_code" : {
+            "compound_code" : "GCMM+M6 Edmonton, Alberta, Canada",
+            "global_code" : "9558GCMM+M6"
+         },
+         "price_level" : 3,
+         "rating" : 4.7,
+         "reference" : "ChIJ786a0Z4hoFMRLURbDrEC4Ww",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 98,
+         "vicinity" : "9650 142 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.519757,
+               "lng" : -113.594714
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5211558302915,
+                  "lng" : -113.5934499697085
+               },
+               "southwest" : {
+                  "lat" : 53.5184578697085,
+                  "lng" : -113.5961479302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d0151aa1b236b60ce0cc95af645ca374963c2350",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110420384004857697145/photos\"\u003eJames Wiebe\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgeeVpJ0kIbCqWGVi9zuxCUVH6H4qZjZ9J9GEGWbuXnq_DCx8Y72L76JS41wwDZt6vpTO4vRLCTlJ6ihKwLbPKTo884QcctdgoDWCKpLY1ubCmQoISrbMvXlhxOwwB2XhEhDgbSRMV4yw9oWVWu9msQlXGhRa9WokynHbEMJfCCuwUzAt4lUvow",
+               "width" : 2297
+            }
+         ],
+         "place_id" : "ChIJ2Y8tNbchoFMR76H4UrNbjd0",
+         "plus_code" : {
+            "compound_code" : "GC94+W4 Edmonton, Alberta, Canada",
+            "global_code" : "9558GC94+W4"
+         },
+         "price_level" : 1,
+         "rating" : 2.8,
+         "reference" : "ChIJ2Y8tNbchoFMR76H4UrNbjd0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 324,
+         "vicinity" : "15730 87 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.52050389999999,
+               "lng" : -113.5785932
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.52185053029149,
+                  "lng" : -113.5769708697085
+               },
+               "southwest" : {
+                  "lat" : 53.5191525697085,
+                  "lng" : -113.5796688302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "542b048899ff4a22c3e4faf9cf4ea9051363f480",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112635136715187697057/photos\"\u003eShawn Fraser\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsEa8iK2FX1QoBUtXjMoaRBoMHHwtALJHCemUj2kmValkRGd2PTcyfItebg69nAcBcxbN0mc3wDaLp6l9XAli4Me7w8E918tNX-MilNaFJbK_NoYIAItm4Z5HzZyV-vX6EhDGVg5f7JyOqq0kEdvy8q-GGhR__YYAyyA-vk5SdLdxmsXUc1c1bw",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJj98qr7AhoFMRkIgzLEbhVOk",
+         "plus_code" : {
+            "compound_code" : "GCCC+6H Edmonton, Alberta, Canada",
+            "global_code" : "9558GCCC+6H"
+         },
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "ChIJj98qr7AhoFMRkIgzLEbhVOk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 26,
+         "vicinity" : "8744 149 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5204398,
+               "lng" : -113.5932138
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.52170728029149,
+                  "lng" : -113.5918082697085
+               },
+               "southwest" : {
+                  "lat" : 53.51900931970849,
+                  "lng" : -113.5945062302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2a9a5de0c22e38e2c5c9a2cd63c1ce3058e77ed3",
+         "name" : "Pizza Hut",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117483378033690584099/photos\"\u003eSam Hachem\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAm23V12Awuyz-0t5V3fkQ-zB_r4xAc-hedh3YbFoVQPGemDjpoZZj2591Uz48tcVJf0JjWQffSz6HT-b-kFbnn_RsO53Mz_JvITfP5twK2LQwd0GEKasK3KrS2ZfFb3I2EhCCgE-1DV__bBfYaoyP4eF0GhRHI5EHEHsOtWerhEKW9mWoQY87yA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJMYRwH7MhoFMRBQzehxhkeRk",
+         "plus_code" : {
+            "compound_code" : "GCC4+5P Edmonton, Alberta, Canada",
+            "global_code" : "9558GCC4+5P"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJMYRwH7MhoFMRBQzehxhkeRk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 64,
+         "vicinity" : "156 Street and, 87 Avenue Northwest Unit 260, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5089591,
+               "lng" : -113.5907798
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5103077802915,
+                  "lng" : -113.5892331697085
+               },
+               "southwest" : {
+                  "lat" : 53.5076098197085,
+                  "lng" : -113.5919311302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f8ccbc1788918035ae2b9d58ac9b86b417278ec6",
+         "name" : "Mac's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 801,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113765174064298986441/photos\"\u003eMac&#39;s\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApar-E5IaqtO4WjL4afjgGmMXKdOujJUK5eideaBpSVFsZmZ2PzWGJWlcyPIZpL1lza3DdAGVg6BRW5BN_dkY0z6ShjwfHeY5BdqCYzsXZ978vTyled3KBCJbMFYkju_VEhB7etg00t6CQbRrPRKKIVlVGhRSQvr8Qv8rXKPaQlonAEn4iP_fgg",
+               "width" : 1424
+            }
+         ],
+         "place_id" : "ChIJA8RxBjUgoFMRlMXZJiYoVNQ",
+         "plus_code" : {
+            "compound_code" : "GC55+HM Edmonton, Alberta, Canada",
+            "global_code" : "9558GC55+HM"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJA8RxBjUgoFMRlMXZJiYoVNQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "atm",
+            "cafe",
+            "meal_takeaway",
+            "finance",
+            "store",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 9,
+         "vicinity" : "7636 156 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5281441,
+               "lng" : -113.5496795
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.52958793029149,
+                  "lng" : -113.5481620197085
+               },
+               "southwest" : {
+                  "lat" : 53.52688996970849,
+                  "lng" : -113.5508599802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8cd27347ebb2865c9e90c414945ae8db8f9de3bf",
+         "name" : "William Hawrelak Park Pavillion",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107620504582196260098/photos\"\u003eKirk Dewhurst\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAu_ElG-FssFYFYZzp5-LBpU_JqUJpUT52b0Jx4TNnlC2GDUXPhPskGzTlCKbkcrTmROJBz_E-NvOkg2GwKzV5g2lLeREtw6ApclizvUBx6k2x8XMR2IKPKb6sHagv1EE0EhAj-Y2EK3Q0qoexEMiYq5mmGhQ-nhZKW-okwpqkSEZhArf9t_X9hw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ57g0sZEhoFMREKxzeYIYV98",
+         "plus_code" : {
+            "compound_code" : "GFH2+74 Edmonton, Alberta, Canada",
+            "global_code" : "9558GFH2+74"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ57g0sZEhoFMREKxzeYIYV98",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 35,
+         "vicinity" : "Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.52077800000001,
+               "lng" : -113.578488
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5221250302915,
+                  "lng" : -113.5769149197085
+               },
+               "southwest" : {
+                  "lat" : 53.5194270697085,
+                  "lng" : -113.5796128802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d05d2191ac5fc18fc0531d169b419c6b133b3452",
+         "name" : "Ichiban",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102166623931603931097/photos\"\u003eChelsey Rockwell\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-mO6FokFToTJLtyfw3GwU2SFJWnv8oN6k6F7PntJkALBVIRd3hauhrbWCGqWx9Fqw62MKXc_0iBR0PvcutnxdyUTgjFF2beboxLpVej0w1D7t_4551UEHd99ZoXhoGmiEhBMhRpNWYqi5JPvTqUUtd7UGhTv_ctvlrgvOHStLpSsxJA4qnLHrg",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJbRzHTbchoFMRS1Yq30q61gM",
+         "plus_code" : {
+            "compound_code" : "GCCC+8J Edmonton, Alberta, Canada",
+            "global_code" : "9558GCCC+8J"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJbRzHTbchoFMRS1Yq30q61gM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 263,
+         "vicinity" : "8750 149 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.52160259999999,
+               "lng" : -113.5784694
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5229532302915,
+                  "lng" : -113.5768820197085
+               },
+               "southwest" : {
+                  "lat" : 53.5202552697085,
+                  "lng" : -113.5795799802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8141ff3c71f396d7854617a4004e83a174a7f139",
+         "name" : "Rice Bowl Deluxe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110094927809527510561/photos\"\u003eDavid Brown\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAE3oMjya3314pokongLt7bNS1qgShRjDFtTYcrx4_k9XW0FA1YGl8PlF7LTNAF73jaqbQknPy3VNiC5SG9I1SrwvnBpdHyhOfCuhfSMydYnhAv_SkFUe1Da1g0y7CvcNpEhCSGKlJfH3a5mJ_gW2lSBSZGhRzFQJMzG9PJvEDgwyi9RsXjGRMbg",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJHUllCL0hoFMRheR44bZOveo",
+         "plus_code" : {
+            "compound_code" : "GCCC+JJ Edmonton, Alberta, Canada",
+            "global_code" : "9558GCCC+JJ"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJHUllCL0hoFMRheR44bZOveo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 68,
+         "vicinity" : "8910 149 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.51999439999999,
+               "lng" : -113.5803294
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.52134358029149,
+                  "lng" : -113.5787248697085
+               },
+               "southwest" : {
+                  "lat" : 53.51864561970849,
+                  "lng" : -113.5814228302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "77d1bec5e2ec778693cdfcbad2b7f02d793743b1",
+         "name" : "나라치킨 앤 돈까스",
+         "place_id" : "ChIJmTUqeakhoFMR9mvaysyuLbU",
+         "plus_code" : {
+            "compound_code" : "GC99+XV Edmonton, Alberta, Canada",
+            "global_code" : "9558GC99+XV"
+         },
+         "reference" : "ChIJmTUqeakhoFMR9mvaysyuLbU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "8712 150 Street Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

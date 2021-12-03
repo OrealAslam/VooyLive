@@ -1,0 +1,75 @@
+.how-it-works-section-box .timeline{
+	position: relative;
+}
+/*Line*/
+.how-it-works-section-box .timeline>li::before{
+	content:'';
+	position: absolute;
+	width: 1px;
+	background-color: #000;
+	top: 0;
+	bottom: 0;
+	left:-19px;
+}
+/*Circle*/
+.how-it-works-section-box .timeline>li::after{
+    text-align: center;
+	z-index: 10;
+	content:counter(item);
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	border:3px solid white;
+	background-color: #000;
+	color:#fff;
+	border-radius:5px;
+	top:0;
+	left:-33px;
+}
+/*Content*/
+.how-it-works-section-box .timeline>li p{
+	line-height:20px;
+	margin-left:5px;
+	position: relative;
+	top: -3px;
+}
+.how-it-works-section-box .timeline>li{
+	counter-increment: item;
+	min-height:50px;
+	font-size:13px;
+	position: relative;
+	background-color: white;
+}
+.how-it-works-section-box .timeline>li:nth-last-child(1)::before{
+	width: 0px;
+}
+
+
+@media only screen and (max-width:480px){
+	.panel-title{
+		position: relative;
+	}
+	.cps-faq-accordion .panel-group .panel.panel-default > .panel-heading > .panel-title > a::after {
+		position: absolute;
+		right:10px;
+		top:10px;
+	}
+	.mv-p-10{
+		padding:10px;
+	}
+  	.how-it-works-pare-box .arrow{
+  		display:none !important;
+  	}
+  	.mv-test-center{
+  		text-align: center !important;
+  	}
+  	.mv-font-30{
+  		font-size:30px !important;
+  	}
+  	.mv-font-15{
+  		font-size:15px !important;	
+  	}
+  	.mv-font{
+  		font-size:17px !important;
+  	}
+}

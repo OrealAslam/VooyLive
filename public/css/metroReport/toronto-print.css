@@ -1,0 +1,23 @@
+@media print {
+    .demographics .demographics-text .text.avg-household-size {
+        font-size: 17px;
+    }
+
+    .demographics .demographics-text .percent2 {
+        font-size: 40px;
+        line-height: 1em;
+        padding-bottom: 10px;
+    }
+    .public-schools .item .school-head {
+        padding-bottom: 8px;
+    }
+    .public-schools .item {
+        min-height: 150px;
+    }
+
+    .library .library-address {
+        font-size: 11px;
+        padding: 5px 0;
+    }
+}
+

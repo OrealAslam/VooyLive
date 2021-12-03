@@ -1,0 +1,94 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.138882,
+               "lng" : -114.233819
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1401338802915,
+                  "lng" : -114.2324691197085
+               },
+               "southwest" : {
+                  "lat" : 51.1374359197085,
+                  "lng" : -114.2351670802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "08c5f63d999f0e719273fa77711c9b6f58ce603a",
+         "name" : "Cafe Fresco",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106490366778245072998/photos\"\u003eTariq Halasa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjNZ06rEvXm4p70eDZ50Lm1K9ymfWz7LfJUf7ZNWpEEXvZK0Wf7_9lxLOFlPezcyBORyWNvby-GbQ7SAK5tAlcTEKpBdYZSqC4TPEYzIN513Fg9WMKgkteCyCEB9oE_6YEhBOI9p0z0xYo0vUf0_mrg_xGhRT54IJK-HjoE085Sr6DUnXVcuHaw",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJpXom0AlpcVMR8IGEgoMVdtY",
+         "plus_code" : {
+            "compound_code" : "4QQ8+HF Calgary, Alberta, Canada",
+            "global_code" : "95374QQ8+HF"
+         },
+         "rating" : 4.7,
+         "reference" : "CmRSAAAAmkWVD2slbQUyrJ7tektt2t2MJZOKejm_-O3SAa3ey01aA_HzozkiWZ3eiMuAOhkvpFd2C_RLaYR1PzX-LkMSxhu91TgU0ckTzhfAC9SnhYtQ7XjqOWBuEJ70xBbhNz4GEhDg1zBCKJwRVI0UzqMkzALrGhRTmiibgmiR3oiJFqNK-hGRifJ32g",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "500 Royal Oak Drive Northwest #124, Calgary"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.1550764,
+               "lng" : -114.2785618
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.15642538029149,
+                  "lng" : -114.2772128197085
+               },
+               "southwest" : {
+                  "lat" : 51.1537274197085,
+                  "lng" : -114.2799107802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "84839071a55208f3079b3c79ca6e9ec4aaa9c8a3",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111195939335152669828/photos\"\u003eSteven Livingstone\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAp8zdjNmHAy8ZGWIw1Gn_LixPYcLUV9qCIIvfaPOFQSl-L0jTqXv081Jbp_7_rejMOSeUzKTz8JmmTGHk5pxGHs9W_B8l3tEP8Px-yxqP6JVPlSPGgK12dpQxV4m8xyOnEhCfA0LQHl9KcdWlNV_s8_5BGhR9S2d0IyxsqeW5opNLHZLlLf31Ug",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJux01HcBpcVMRYAKeP174pd4",
+         "plus_code" : {
+            "compound_code" : "5P4C+2H Calgary, Alberta, Canada",
+            "global_code" : "95375P4C+2H"
+         },
+         "rating" : 5,
+         "reference" : "CmRSAAAAdq48ZeXR2-ow9DWixoBWLE7Z3jkhNx9nChtDwAMbnRSyjc73aDuaJ2w5ZoapwYLUBp4QcAioJg_WN-j7QUCWgIC6EIEM99K8sF7Tg9SqBtOLwlA0fLxx7pMzXRLH5OE1EhCt6AkksXTMGn-c54N7Q9AUGhSfRjXnBzn4pF1R1yanQR9EWrE3ow",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "25238 Township Road 254a, Calgary"
+      }
+   ],
+   "status" : "OK"
+}

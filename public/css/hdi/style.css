@@ -1,0 +1,356 @@
+.font-raleway {
+    font-family: Raleway;
+}
+
+.color-white {
+    color: white;
+}
+.bgcolor-white {
+    background: white;
+}
+.color-black {
+    color: black;
+}
+.bgcolor-black {
+    background: black;
+}
+.table-row-bg td{
+    background: #f1f1f2 !important;
+}
+
+
+
+.hdi {
+    /*background: lightgray;*/
+    /*padding: 10px;*/
+}
+.hdi .container {
+    /*border: #000000 solid 2px;*/
+    /*background: pink;*/
+}
+.hdi .margin5 {
+    margin: 5px 0 5px 0 !important;
+}
+.hdi .margin10 {
+    margin: 10px 0 10px 0 !important;
+}
+.hdi .margin15 {
+    margin: 15px 0 15px 0 !important;
+}
+.hdi .margin20 {
+    margin: 20px 0 20px 0 !important;
+}
+
+.hdi hr.style1{
+    margin: 0;
+    border-top: 6px solid #000000;
+}
+
+.hdi .head1 {
+    font-size: 105px;
+    height: 105px;
+    font-weight: bold;
+    line-height: 1em;
+}
+.hdi .head2 {
+    font-size: 75px;
+    height: 75px;
+    font-weight: bold;
+    line-height: 1em;
+    margin-bottom: 20px;    
+}
+
+.hdi .para1 {
+    font-size: 20px;
+    height: 20px;
+    margin: 10px 0 20px 0;
+    line-height: 1em;
+}
+.hdi .text1 {
+    font-size: 50px;
+    height: : 50px;
+    line-height: 1em;
+    font-weight: bold;
+}
+.hdi .text2 {
+    font-size: 50px;
+    height: : 50px;
+    line-height: 1em;
+    font-weight: bold;
+}
+
+
+.hdi .vdiv-container {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display:         flex;
+    flex-wrap: wrap;
+}
+
+.hdi .vdiv-container > .vdiv-child {
+    display: flex;
+    flex-direction: column;
+}
+
+.hdi .vdiv-container1 {
+    margin: 15px 0 15px 0;
+}
+
+
+.hdi .client-logo img{
+    max-height: 92.85px;
+    margin: auto;
+}
+.hdi .head3 {
+    padding: 10px 10px 5px 10px;
+    border-bottom: 10px solid #000000;
+}
+.hdi .head3 .about-this-home {
+    font-size: 35px;
+    font-weight: bold;
+    line-height: 1em;
+}
+
+.hdi .head3 .neighborhood-text {
+    font-size: 30px;
+    line-height: 1em;
+    height: 30px;
+}
+
+.hdi .para3 {
+    font-size: 18px;
+    line-height: 1.7em;
+    padding:10px;
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+    height: 234.2px;
+}
+
+.hdi .item-container {
+    margin-top: 30px;
+}
+
+.hdi .item {
+    border: 2px solid #000000;
+    margin: 40px 15px 20px 15px;
+}
+.hdi .item .svg-icon-container {
+    margin-left: auto;
+    height: 88px;
+    position: relative;
+}
+.hdi .item .svg-icon {
+    position: absolute;
+    top: -40px;
+    /*left: 50px;*/
+    left: 22%;
+    height: 128px;
+    width: 128px;
+}
+.hdi .item .svg-icon img {
+    max-width: 128px;
+    max-height: 128px;
+}
+.hdi .item .svg-icon .icon-content svg {
+    width: 128px;
+    height: 128px;
+}
+
+
+.hdi .item .text-block1 {
+    font-size: 30px;
+    line-height: 1em;
+    font-weight: bold;
+    height: 30px;
+}
+.hdi .item .text-block2 {
+    font-size: 30px;
+    line-height: 1em;
+    font-weight: bold;
+    height: 30px;
+}
+.hdi .item .text-block3 {
+    font-size: 30px;
+    line-height: 1em;
+    padding: 5px;
+    font-weight: bold;
+    height: 40px;
+}
+
+
+.hdi .schools {
+    margin-top: 100px;
+}
+
+.hdi .schools .schools-icon-container {
+    height: 60px;
+}
+
+.hdi .schools .icon-container{
+    position: relative;
+    height: 60px;
+}
+.hdi .schools .icon-container .icon{
+    position: absolute;
+    top: -96px;
+    /*left: 50px;*/
+    height: 150px;
+}
+.hdi .schools .icon-container .icon svg{
+    max-width: 150px;
+    max-height: 150px;
+}
+.hdi .schools .title{
+    font-size: 35px;
+    font-weight: bold;
+    line-height: 1em;
+}
+.hdi .schools .table thead tr th{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    border: none;
+}
+.hdi .schools .table tbody tr{
+    border-top: 3px solid #ffffff;
+    border-bottom: 3px solid #ffffff;
+}
+.hdi .schools .table tbody tr td{
+    font-size: 17px;
+    text-align: center;
+    border: none;
+}
+
+
+.hdi .footer-top-line {
+    margin: 20px 0 20px 0 !important;
+}
+
+
+.hdi .para4 {
+    line-height: 1em;
+    font-size: 9px;
+}
+
+
+.hdi .for-more-info {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.hdi .cline-info {
+    font-size: 19px;
+    line-height: 1.3em;
+    font-weight: bold;
+    word-break: break-all;
+}
+
+.hdi .footerdiv1 .client-image img{
+    max-height: 137px;
+}
+
+.hdi .footerdiv2 {
+    /*height: 186px;*/
+    /*position: relative;*/
+}
+.hdi .footerdiv2-container {
+    /*
+    position: absolute;
+    bottom: 0;
+    */
+    margin-top: 83px;
+}
+.hdi .footerdiv2-container .client-logo-footer{
+    /*margin-bottom: 15px;*/
+}
+.hdi .footerdiv2-container .client-logo-footer img{
+    max-height: 100px;
+    margin: auto;
+}
+.hdi .footerdiv2 .footer_text {
+    font-size: 14px;
+    height: 14px;
+    line-height: 1em;
+}
+
+
+.hdi .footerdiv3 img {
+    height: 150px;
+    margin: auto;
+}
+
+
+.hdi .text-editable .options,
+.hdi .image-editable .options {
+    /*display: none;*/
+}
+
+/*
+.flyer .text-editable div.content:empty:before {
+  content:attr(data-placeholder) !important;
+  color:gray
+}
+*/
+.hdi .text-editable div.content:empty:not(:focus)::before{
+    content:attr(data-placeholder);
+    color:gray;
+}
+
+
+
+@media screen and (max-width: 767px) {
+    .hdi .head1 {
+        font-size: 6rem;
+        height: auto;
+    }
+
+    .hdi .head2 {
+        font-size: 4.8rem;
+        height: auto;
+    }
+    .hdi .para1 {
+        height: auto;
+    }
+    .hdi .text1 {
+        height: auto;
+    }
+    .hdi .text2 {
+        height: auto;
+    }
+    .hdi .head3 .neighborhood-text {
+        height: auto;
+    }
+    .hdi .para3 {
+        height: auto;
+    }
+    .hdi .item .svg-icon {
+        left: 30%;
+    }
+    .hdi .item {
+        margin-top: 45px;
+    }
+    .hdi .schools {
+        margin-top: 66px;
+    }
+    .hdi .schools .schools-icon-container {
+        height: 40px;
+    }
+    .hdi .schools .icon-container .icon{
+        top: -64px;
+        left: 11px;
+        height: 40px;
+    }
+    .hdi .schools .icon-container .icon svg{
+        max-width: 100px;
+        max-height: 100px;
+    }
+    .hdi .cline-info {
+        font-size: 15px;
+    }
+    .hdi .footerdiv2-container {
+        margin-top: 10px;
+    }
+    .hdi .footerdiv3 {
+        margin-top: 10px;
+    }
+}

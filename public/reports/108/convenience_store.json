@@ -1,0 +1,150 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4611743,
+               "lng" : -113.5289125
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.46241733029149,
+                  "lng" : -113.5274480697085
+               },
+               "southwest" : {
+                  "lat" : 53.45971936970849,
+                  "lng" : -113.5301460302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ae85c39e761a08c4668f2cb3804675df0b36058c",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112034243339948647667/photos\"\u003eChristopher Lui\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxFW3bb24ELjo0yqnHB_DkGaSqErnVf-N9-tLXeSLOBl00uFDkSfisiNanu7s1tW0l6dgJeXIqTcJJwcr2bUygkuOS2011pXZM6yPDjoN1NujFkIsXUpG-wFTt1pO0k3QEhBHSV9RhasND19ZSqZzsJN-GhTk3ZX6pmA329ZP2Vru5b8znT5FmA",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJ1d72hQMfoFMRhT6gKaoWNDo",
+         "plus_code" : {
+            "compound_code" : "FF6C+FC Edmonton, Alberta, Canada",
+            "global_code" : "9558FF6C+FC"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ1d72hQMfoFMRhT6gKaoWNDo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "280 Saddleback Road, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.48940369999999,
+               "lng" : -113.5151804
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.49058998029149,
+                  "lng" : -113.5137493697085
+               },
+               "southwest" : {
+                  "lat" : 53.48789201970849,
+                  "lng" : -113.5164473302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "926b01f068d522ae5e626b7a66c7c686525fd30d",
+         "name" : "Rexall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106460272334827467471/photos\"\u003eChristopher Gaul\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2ToTPFCh-Gn3BxCtRZLVT4GtKatCid2dlo8K0t0HXSP1IdSArN1P9vgrdA6vNWetOKUKQzhjDNTpe0g8oNPaSQfMA90eVO6_xUzU2nXqyCDYX8PcdU4EYXn3ViC9_EQqEhC-KZzNnd2GpuVlu7A0CF7WGhSrDUbeivL-khp7mcc3I-v3_CmsXQ",
+               "width" : 3984
+            }
+         ],
+         "place_id" : "ChIJBfP-uUUfoFMRsVbL0cvmR_4",
+         "plus_code" : {
+            "compound_code" : "FFQM+QW Edmonton, Alberta, Canada",
+            "global_code" : "9558FFQM+QW"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJBfP-uUUfoFMRsVbL0cvmR_4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "pharmacy",
+            "convenience_store",
+            "beauty_salon",
+            "store",
+            "health",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "11080 51 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4780976,
+               "lng" : -113.5034848
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4794435802915,
+                  "lng" : -113.5024606697085
+               },
+               "southwest" : {
+                  "lat" : 53.4767456197085,
+                  "lng" : -113.5051586302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "17d67f728784163b16f728b62c1a8348924709f9",
+         "name" : "Mini Mart",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJO4NE9TkfoFMRSmAuPxnDR5M",
+         "plus_code" : {
+            "compound_code" : "FFHW+6J Edmonton, Alberta, Canada",
+            "global_code" : "9558FFHW+6J"
+         },
+         "rating" : 3,
+         "reference" : "ChIJO4NE9TkfoFMRSmAuPxnDR5M",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "4121 106 Street Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,961 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQEAAIAAG_09P3XEkUSqc-kZGKhjzC4a63iOg8OHriFAdB0z1c0gxwaiKv7Ie3RCaCvGEjcvMQO2SjeHyC2K1OCebfIzS2nOEDp5HK_-vxT08a3OUbedVC09YrZCtjjjVn4raidzlhuJUYv8IpGkdZh2C2JakCv6IsL4ijQlo_gOFOBgoL3Wui8uRaG8csn01VybD1hO9yztgfNmIcU9CYP1ar60Kd17sNmtlAbxSwbvRiNRBRHQdeMuGroKFIJPIsAYXSd-6tSvxryZQtDvZF0VXsMkysk5ZK03WAnPDt6RylF1H8edm2nhkGiuEyodUffVg58eD4pbk5nbF5eXAM1IdZ5ixf4zGefznwvucLUrPhQJy4YQfACTzUH1jLzZTgRYkU5ttYVM9rlQZwihiAYJxWxfOD8oQ6jMOJpZxLqk8V8IOdU16IcCVJ0ig-piojcTZ3wjavLKS0jOaQcGB8KcBzbD6Cji0XqQhBvbOg0sTK5cUyfb1QkCGyZX9OaMOxvNaf0JqU14KrOfAPGpZmROjEpzGH-ZzRVoriFX2COc5rgyivsfaRgR7KRoLhZN5BG6eAmRQxBPNweUsQWvN5VmuKWZ-JKg3sW0L6nS12QcANQ1HQ7t2qlK6-MRbRjOA5YEeyENWbA-SSfVSJMOxJH7EQftmvaMidApaLPW5e5iTdilaa2EhBioSobso5hJqHSLTagTvb5GhSvPD5iSuUOVopEp17OpGHD_m3s1w",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7035431,
+               "lng" : -79.41435779999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7048090302915,
+                  "lng" : -79.41297636970849
+               },
+               "southwest" : {
+                  "lat" : 43.7021110697085,
+                  "lng" : -79.41567433029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "7b0a3184177183c7d379cf31a1996a82f89e9728",
+         "name" : "Hotel Gelato",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113543848177593034596\"\u003eAlejandro Mesa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAROOGtERehqHo8phXZPvzW1Tu56sl_wcZ49To_ZhrSBafyGJO7C5MpzZblip61mPee1qkg449hS_kXZ3f_cmnMhNT2xXYAA5uOW_JXWk93QKM21kLZE_wdSKy-ehQ-U15EhBHqBIDMkYJBMIZ0OxQE4EFGhStw3azwokW3JuTtB-yYs3wLaEG0w",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJI8719g0zK4gRKEFgCLVt6dQ",
+         "plus_code" : {
+            "compound_code" : "PH3P+C7 Toronto, ON, Canada",
+            "global_code" : "87M2PH3P+C7"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJI8719g0zK4gRKEFgCLVt6dQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 222,
+         "vicinity" : "532 Eglinton Avenue West, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.70118119999999,
+               "lng" : -79.45251879999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7024611302915,
+                  "lng" : -79.45114431970849
+               },
+               "southwest" : {
+                  "lat" : 43.6997631697085,
+                  "lng" : -79.4538422802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "c4d7eec520d555c16c93b4c4b8d35d4cf44c2212",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104858865539958731900\"\u003eFrank Dargazli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAP30xgcfI35z8XZOotTEYg9cMVlVpJzYlyrruN85Jib0axIy0OBDdXXvhf1v0bDafRnYQCD02e-t6sbAhECVed4Ic1tUqi9vrArrIs0i_gc4ZbfcUqmMzv0igHfx8LHnEEhBQUbEHch8IhOFO-AnwT8_DGhQTh9o3jTQjtb394_3FtuN0X5zT3Q",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJSyWgvukzK4gRlCeQssJwTAQ",
+         "plus_code" : {
+            "compound_code" : "PG2W+FX Toronto, ON, Canada",
+            "global_code" : "87M2PG2W+FX"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJSyWgvukzK4gRlCeQssJwTAQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 434,
+         "vicinity" : "2700 Dufferin Street, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7205021,
+               "lng" : -79.430397
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7218622802915,
+                  "lng" : -79.42898951970849
+               },
+               "southwest" : {
+                  "lat" : 43.7191643197085,
+                  "lng" : -79.4316874802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "5121dac9227cd8a7c165799242d13842a7588de6",
+         "name" : "Second Cup Coffee Co.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117448781507603488406\"\u003eAnouar Sarout\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEJKe_PUWhHrf7aLUDUW2XpC1jMi4uKg8waabXoyed_CFbk1kUqdImtTi3WJJBaaXrWR3-JOEbjUMKmISrMJNTfGl395FiTTO1TgOWaaG8CY1FKAVcCKnSAWEk7aitNOcEhBfKhfsxrelnXIDI1eT67uxGhThY6GJwp_BJ37EztF9CC_PJBL2Dg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJaeFpRqszK4gRgPzrF-SMc_I",
+         "plus_code" : {
+            "compound_code" : "PHC9+6R Toronto, ON, Canada",
+            "global_code" : "87M2PHC9+6R"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJaeFpRqszK4gRgPzrF-SMc_I",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 257,
+         "vicinity" : "490 Lawrence Avenue West, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.719793,
+               "lng" : -79.43053399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7212653302915,
+                  "lng" : -79.42923421970849
+               },
+               "southwest" : {
+                  "lat" : 43.7185673697085,
+                  "lng" : -79.4319321802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "53af286083ccd08389d74552df321676d5ba2ce1",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 305,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101867391327288003646\"\u003eTim Hortons\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAfLXcpR3AqOcF3X8zYx2LPSuQJqURCSMH3Kf93eG4JNL8Gi-L39TE7m007OfHsIcRLfLhvbZ-EJY8UQ4Vn9hfcxqTTGUCo5ah_iCqkIAw-qII1rSp8BGFRzE7uXsmz8LkEhDEx0fp6psA2eQMW-M6vqbBGhR2Oi6cympQzleIU_WN1xytezF4kA",
+               "width" : 549
+            }
+         ],
+         "place_id" : "ChIJewiKRaszK4gRY082bIntE0k",
+         "plus_code" : {
+            "compound_code" : "PH99+WQ North York, Toronto, ON, Canada",
+            "global_code" : "87M2PH99+WQ"
+         },
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "ChIJewiKRaszK4gRY082bIntE0k",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 93,
+         "vicinity" : "3090 Bathurst Street, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7001131,
+               "lng" : -79.43058769999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.70136453029149,
+                  "lng" : -79.42919856970849
+               },
+               "southwest" : {
+                  "lat" : 43.69866656970849,
+                  "lng" : -79.4318965302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "f350ae711985ade06075d6b448dedbee73b8c6a4",
+         "name" : "3SK Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106166637238140662533\"\u003e3SK Cafe\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbcRDcc_m1jKcgtGHHH4LjSJX6Zv9GUYaBlFQPB8g2pShDGZXDUuIa_rsHsGpOXjfl_C-lwAmpv6ljVrlG2mZV0IXFqASxVIkkXTML8vu4RbB2OynwlirIG5rrabjJlQREhCIiJAopTSoz9SWjQBZdYBkGhSu1s3iwBPWJqvgwBzu9Wog-xpfnw",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJ5fVxSZ8zK4gRQWuMQEba4JU",
+         "plus_code" : {
+            "compound_code" : "PH29+2Q Toronto, ON, Canada",
+            "global_code" : "87M2PH29+2Q"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ5fVxSZ8zK4gRQWuMQEba4JU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 115,
+         "vicinity" : "1054 Eglinton Avenue West, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.71810199999999,
+               "lng" : -79.42922609999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7194397302915,
+                  "lng" : -79.42797486970849
+               },
+               "southwest" : {
+                  "lat" : 43.7167417697085,
+                  "lng" : -79.4306728302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "bbffa28200d5cd5df544189e1c15af056a423a1f",
+         "name" : "Auleaf",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113425737420351336113\"\u003eDan Eliasoph\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAASB0fq_wkDjNI9XGKSjLhJ-9q8XOeklBAkn7THFno0oe7QnkOUnKCBPvY-Du2evC96TW3HIXc8_fEvxtBfjj08MNneKMM0P-ZhFZlrgVxoXhrUtYoSzud4636RI5Z0jSEhCL8p9ZxJGddRxT12BpXKOFGhT60coAoP9QwGPyzZZRtZv2CtNXFw",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJMakNDqszK4gRryskJ6gzUfY",
+         "plus_code" : {
+            "compound_code" : "PH9C+68 North York, Toronto, ON, Canada",
+            "global_code" : "87M2PH9C+68"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJMakNDqszK4gRryskJ6gzUfY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 121,
+         "vicinity" : "3023 Bathurst Street, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7036411,
+               "lng" : -79.4136884
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7049257802915,
+                  "lng" : -79.41231346970849
+               },
+               "southwest" : {
+                  "lat" : 43.7022278197085,
+                  "lng" : -79.4150114302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "f6ec4e47006b505c0f14d0f42f3a88475f1a8c4a",
+         "name" : "Second Cup Coffee Co. featuring Pinkberry Frozen Yogurt",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115203283185047377541\"\u003eTony Gold\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABkKXdpzzBKlcDo-boXWbHtr_EzN7wk7CoK0Fs8OuW1dTO7Iv5GJxQW4TYF7CipjBORrc46ivpzYERkQ5JQbTnDMg1ED9lhOm29XBdQTG_MNFe5AjKcIbL8RzFi3IJy0YEhD2n4U71StvlNyA0cvmVKaQGhRveECno-IzspKUMWl7sz46y3cYQg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJI3SYJHAzK4gRrCsaQbR2qDw",
+         "plus_code" : {
+            "compound_code" : "PH3P+FG Toronto, ON, Canada",
+            "global_code" : "87M2PH3P+FG"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJI3SYJHAzK4gRrCsaQbR2qDw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 84,
+         "vicinity" : "518 Eglinton Avenue West, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.70405,
+               "lng" : -79.41196099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.70531623029149,
+                  "lng" : -79.41057851970848
+               },
+               "southwest" : {
+                  "lat" : 43.7026182697085,
+                  "lng" : -79.41327648029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "dc0037746c39a50ab021255a4ea28469febf1ec8",
+         "name" : "The Bagel House",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100801033845098454236\"\u003eEri Mott Nakahara\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4KkkCbVKo_uHEwc3RO_xQMlOUeRETNkn_eNcL3RTLCguUX0Ku58tT-i9lJa-4KQIKGGtxU1ciKyCopD4qGlBhg41u8oziasdZnoG9WtdFZMSHKD04-XGRfarckL1fQ3ZEhAOtuq01hGcqv8Pjx7ONTIkGhSR6tJF4FUcapBGDkciCgWLeEOPBw",
+               "width" : 2880
+            }
+         ],
+         "place_id" : "ChIJ7XPmKBIzK4gRMf9ydghbBcI",
+         "plus_code" : {
+            "compound_code" : "PH3Q+J6 Toronto, ON, Canada",
+            "global_code" : "87M2PH3Q+J6"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ7XPmKBIzK4gRMf9ydghbBcI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "bakery",
+            "meal_takeaway",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 110,
+         "vicinity" : "450 Eglinton Avenue West, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7163658,
+               "lng" : -79.44681949999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7176301302915,
+                  "lng" : -79.44551886970849
+               },
+               "southwest" : {
+                  "lat" : 43.7149321697085,
+                  "lng" : -79.4482168302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "dce2ea40b2bea6d25537138a0c737a4b940ea539",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117378921583620319300\"\u003eAndrew Kachaniwsky\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXHockVDRukhEuJ9uId0m31fOIT4uvULLNiB0hdP8WJfZWU_asr8PbUoR867W8sYBTeJhctpk3JTJtjRI4h1U5iUFRaZdk_EWd_XvPhZJ1BbbhhkEyY5xLuGG3yVnLTTtEhBwd1PIWJVBxBgfL9NszPuVGhR7rUfySqFH34u30zrUrdaWgTRUxA",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJM1zSHckzK4gRoqBCYa2PZFM",
+         "plus_code" : {
+            "compound_code" : "PH83+G7 Toronto, ON, Canada",
+            "global_code" : "87M2PH83+G7"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJM1zSHckzK4gRoqBCYa2PZFM",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 315,
+         "vicinity" : "750 Lawrence Avenue West, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7049187,
+               "lng" : -79.4522381
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7062384802915,
+                  "lng" : -79.4511207197085
+               },
+               "southwest" : {
+                  "lat" : 43.7035405197085,
+                  "lng" : -79.45381868029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "620aa21869869d763c4d429b03c49c8f5d24189b",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104858865539958731900\"\u003eFrank Dargazli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0BVMZf8BPmzY0vgfh6qgAAGCQ1ndjo0F66HHNnjJNrYpwAPzjQvqRVS3NNhvb0glpv5XzPlSVuhS7F36a8AIvGXMVNrcMZ07cin4ImRQBn7Zg-pPcleP5_khCD1iOUFnEhCLhZbFccNrcj8o8OOBkW1GGhT9eOe8VxYBd4InwL_IxBFJw42Hbg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJbVatlsEzK4gRYM_XW5nP4v8",
+         "plus_code" : {
+            "compound_code" : "PG3X+X4 Toronto, ON, Canada",
+            "global_code" : "87M2PG3X+X4"
+         },
+         "price_level" : 1,
+         "rating" : 3.1,
+         "reference" : "ChIJbVatlsEzK4gRYM_XW5nP4v8",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1351,
+         "vicinity" : "2781 Dufferin Street, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7169085,
+               "lng" : -79.4473814
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7184337302915,
+                  "lng" : -79.44644211970849
+               },
+               "southwest" : {
+                  "lat" : 43.7157357697085,
+                  "lng" : -79.4491400802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "0e359c215f0fd74f70d72eefa559a1acee8f5f53",
+         "name" : "Real Fruit Bubble Tea",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112320891733939714829\"\u003eReal Fruit Bubble Tea\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAntlKRKP1GL0_cdI7m0PRxYi1VNg6Yeo0tkmScmiBwklR8KgCjqcenU6A5jMfLWHlu_dJy7h45Ye6Q4bMyqPJy0SkT6fl6McD2kyCGfrckem7gKGlFBZTlVgtFm_PxRUPEhDHzyqtrDA6SqVngnFkLxPEGhQ40bVdhlXySisp2W1nRcq2GHWKNA",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJG-LnD7YzK4gR5Z7UXeftv9E",
+         "plus_code" : {
+            "compound_code" : "PH83+Q2 Toronto, ON, Canada",
+            "global_code" : "87M2PH83+Q2"
+         },
+         "rating" : 4,
+         "reference" : "ChIJG-LnD7YzK4gR5Z7UXeftv9E",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 156,
+         "vicinity" : "Lawrence Square, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6957156,
+               "lng" : -79.44913919999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6971909802915,
+                  "lng" : -79.44783356970849
+               },
+               "southwest" : {
+                  "lat" : 43.6944930197085,
+                  "lng" : -79.4505315302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "a32335491025558db956aeec779638ec2e1b1966",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116124106043749090192\"\u003eAnthony Bernstein\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAiRb92ABsF-cauJOe8CaVide8TCidMDwk-hqvw33hXWFxlYLJVWghGUh5gSte5OYGPrd3A4cX0pBLvGRJJLtNBWtU3jDf_-7kDjEzG0xddZ74cOJlr8rqkYNJ8ZeMoWdfEhCXJdhS3ubb8Nag1GeOuXM9GhQvBtTfHWDpMQ7AHXoacCB9Xq-qEA",
+               "width" : 3872
+            }
+         ],
+         "place_id" : "ChIJeVch3-wzK4gRbZc7WKhLHr4",
+         "plus_code" : {
+            "compound_code" : "MHW2+78 Toronto, ON, Canada",
+            "global_code" : "87M2MHW2+78"
+         },
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "ChIJeVch3-wzK4gRbZc7WKhLHr4",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 152,
+         "vicinity" : "1801 Eglinton Avenue West, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7042727,
+               "lng" : -79.40919269999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7057044302915,
+                  "lng" : -79.40787741970848
+               },
+               "southwest" : {
+                  "lat" : 43.70300646970851,
+                  "lng" : -79.4105753802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "27987c37cdf18ce88d2082434dfe4765a794dbd4",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110478783627670382478\"\u003eBen Kayfetz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0JqeobxlWwOs6Z2QdzW62tdWTyi_eUJxy82E0p_PkBE5F0aOKtAvMRqyXHpgOt9Qd4q1Pba2xHs0K_sspF5C6S_IyIDcdyF19zUeaqMrqaSYyreIp4S-ScIUBv0ZCMgnEhDClV8ual1qAXW1uBZ4m8QGGhQXMoYKuqNxSJwygkmRHgR9MO95TQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJr9JlUBEzK4gRicKexx9CVm0",
+         "plus_code" : {
+            "compound_code" : "PH3R+P8 Toronto, ON, Canada",
+            "global_code" : "87M2PH3R+P8"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJr9JlUBEzK4gRicKexx9CVm0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 130,
+         "vicinity" : "333 Eglinton Avenue West, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6978553,
+               "lng" : -79.4391162
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.69929133029149,
+                  "lng" : -79.4378001697085
+               },
+               "southwest" : {
+                  "lat" : 43.69659336970849,
+                  "lng" : -79.4404981302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c60fd7e74e5c16063b7d965ab5708957f8f208bf",
+         "name" : "Coffee Time",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116124106043749090192\"\u003eAnthony Bernstein\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgQzkH9jfBqeCigDJx4cF_7v8uMKQayYd0MoOtQ63Y6MUw_dhzwvW-6jLDJKexBA6uNuOQjqX81JOQeswnxdch9WBaoByG3HPvP43TdBX52JSFN7WbhJ6mpTYq3EKuhIIEhAfKo6FE8mdMuTw6eOH4jLQGhTtJ8Y-hL2RT0GAT13yJhfYjwcQlQ",
+               "width" : 3872
+            }
+         ],
+         "place_id" : "ChIJ-2b8I5czK4gRtDHuZHhh-SQ",
+         "plus_code" : {
+            "compound_code" : "MHX6+49 York, Toronto, ON, Canada",
+            "global_code" : "87M2MHX6+49"
+         },
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "ChIJ-2b8I5czK4gRtDHuZHhh-SQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 223,
+         "vicinity" : "1471 Eglinton Avenue West, York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7045037,
+               "lng" : -79.40711039999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.70584008029149,
+                  "lng" : -79.40582421970849
+               },
+               "southwest" : {
+                  "lat" : 43.7031421197085,
+                  "lng" : -79.4085221802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "435dff1895303fe07c1ea52c35a3b72004df0246",
+         "name" : "Crosstown Coffee Bar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 394,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117511071502244974101\"\u003eCrosstown Coffee Bar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1DylLqghwE3_4ZGrE71cWtcxQidYrfw1wTVQb9pxLGzCacyyQQEi8ptqF19o8s4mBcE9aDdVzrK_AQTOb3G9KkhhB6uxiQe12XuZEzXV93SV9_3yRWM2K0l9B-ITGW0NEhAm4RXbn5hdGkwFdIYUFmGVGhRB5redOt8KN15gLFsUi5b9LawYYA",
+               "width" : 590
+            }
+         ],
+         "place_id" : "ChIJn__6vRYzK4gRW1LFTqUmtBo",
+         "plus_code" : {
+            "compound_code" : "PH3V+R5 Toronto, ON, Canada",
+            "global_code" : "87M2PH3V+R5"
+         },
+         "price_level" : 1,
+         "rating" : 4.7,
+         "reference" : "ChIJn__6vRYzK4gRW1LFTqUmtBo",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 172,
+         "vicinity" : "187 Highbourne Road, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.70333329999999,
+               "lng" : -79.4136111
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7047673302915,
+                  "lng" : -79.4122964197085
+               },
+               "southwest" : {
+                  "lat" : 43.7020693697085,
+                  "lng" : -79.4149943802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "15b2b319cdefc470a4cedfe52e5d0679c3be09b8",
+         "name" : "The Mad Bean Coffee House",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 450,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114312401009428083402\"\u003eThe Mad Bean Coffee House\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAhr2f8Iz9t1_kJwqiSAWoY-UWJyxsDV-pAaXTdUWU6WVTSfldjUJnO9IweAhXwR971JNoFxtBxjHFTHRXl-x8GEaV-s4az81mik9uKAuKXkcmYta3zaUYMKcOJPbdCk5wEhDeYvU4jQSYKPq4GYMpW6XcGhSjw5zBrFjx-pUAm4iERctMQdjhYQ",
+               "width" : 590
+            }
+         ],
+         "place_id" : "ChIJ_zyjDhIzK4gRTphGbg8SayE",
+         "plus_code" : {
+            "compound_code" : "PH3P+8H Toronto, ON, Canada",
+            "global_code" : "87M2PH3P+8H"
+         },
+         "price_level" : 1,
+         "rating" : 4.6,
+         "reference" : "ChIJ_zyjDhIzK4gRTphGbg8SayE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 188,
+         "vicinity" : "519 Eglinton Avenue West, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7007335,
+               "lng" : -79.4274949
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7020117302915,
+                  "lng" : -79.42611521970849
+               },
+               "southwest" : {
+                  "lat" : 43.6993137697085,
+                  "lng" : -79.42881318029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8f442560dbf6f6405d843bfa93ddc059e6f594a6",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113547490075015854217\"\u003eLance Alexander\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAq8w78-2CFg5SuuqPjGPsLq2OOUUFub0hgNYKh_SfN8oG2wp74BlvnT2J50Hdz5Wj3g_bIlaZNv1wbscVYuy4BbneYmSVIB8boDFOpQcLwDZZH5sHE0tSVM-e3vEkYbBMEhDw2R9BW7foOFpB3G1wXG0YGhR52TwCq365ZyffpsISU2wP1CmmhA",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJfV9wiJ8zK4gRGWgoOXMWf4U",
+         "plus_code" : {
+            "compound_code" : "PH2F+72 Toronto, ON, Canada",
+            "global_code" : "87M2PH2F+72"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJfV9wiJ8zK4gRGWgoOXMWf4U",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 298,
+         "vicinity" : "900 Eglinton Avenue West, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.70415790000001,
+               "lng" : -79.4118615
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7053841302915,
+                  "lng" : -79.4104628197085
+               },
+               "southwest" : {
+                  "lat" : 43.7026861697085,
+                  "lng" : -79.41316078029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e76c1f0135f3b83652af023eda1a83286700cac9",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113547490075015854217\"\u003eLance Alexander\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKOrVGj-P-y1ahh4tjWs24UhEQFoU2YgMeYTG3_7fDWLUsX8gOIblvno-LY7pnV8Yj2G8hpNdhnEJ0MfQlqgFVEsFbqyo99Nmt7wTxC5kSGlVj0tLJWeVkbhAFpm_7mHkEhB3P8nn4onzChly1s5MKDQPGhTBqNbdeJ7IE_WwjCI5HnW7aBR7iQ",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJ00p-KRIzK4gRNm6ECJcmkFI",
+         "plus_code" : {
+            "compound_code" : "PH3Q+M7 Toronto, ON, Canada",
+            "global_code" : "87M2PH3Q+M7"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJ00p-KRIzK4gRNm6ECJcmkFI",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 204,
+         "vicinity" : "444 Eglinton Avenue West, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.69949949999999,
+               "lng" : -79.4336284
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7007354802915,
+                  "lng" : -79.43221886970849
+               },
+               "southwest" : {
+                  "lat" : 43.6980375197085,
+                  "lng" : -79.4349168302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "e5d6a2614ef0a11792014340b111ec7031b8c6fd",
+         "name" : "Il Barista Espresso Bar,",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113953241135927802010\"\u003eJoshua Ivan Bonilla\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA98GhkZwE6wLX3YcxnjuAxxjA007Yw4mLWEu8Q5kqOAxT_6aDswSbCxcw8y1BWFxHz9qpqXFDDra8uOFOIznd6X1LmUAjz29aOxl8OUogxTWfVlG4GZif3RBht2K8THIpEhA-OskmkyXhOlT9fz2VvA0nGhR21dvHXZ3Y1gNyuhZKNl_IUguw3w",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJneVBvxYzK4gRJRqngVsWGvs",
+         "plus_code" : {
+            "compound_code" : "MHX8+QG Toronto, ON, Canada",
+            "global_code" : "87M2MHX8+QG"
+         },
+         "rating" : 4,
+         "reference" : "ChIJneVBvxYzK4gRJRqngVsWGvs",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "1198 Eglinton Avenue West, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7069828,
+               "lng" : -79.4426514
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.70830093029149,
+                  "lng" : -79.44144671970849
+               },
+               "southwest" : {
+                  "lat" : 43.70560296970849,
+                  "lng" : -79.4441446802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "3e32e25b706028aa66c92ce80ff63a5c41ec5e27",
+         "name" : "Yes! Convenience",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3492,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102204008151667879250\"\u003eJenni\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0-I1foKa8LFQPWTjS0mVidBECvn0_8nmPx0gwV2anLbsn0tfdGd_17PKi9GJHS23gqODqca8zJSWdbPeUZT3RRTw7O7Tfd7j3pWX_aNke7Yk9Zh692DwAgVS501EDlXcEhC6SlF9NtyiWn0eBVEY3YXaGhTHk7q_DipDWVhxsYeMkfgc5hUSUg",
+               "width" : 3492
+            }
+         ],
+         "place_id" : "ChIJgQQdZg8zK4gRJCb-NSAv-6A",
+         "plus_code" : {
+            "compound_code" : "PH44+QW North York, Toronto, ON, Canada",
+            "global_code" : "87M2PH44+QW"
+         },
+         "reference" : "ChIJgQQdZg8zK4gRJCb-NSAv-6A",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "365 Marlee Avenue, North York"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,880 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQD7gEAAGSl0u0XHz7PsWshkhA_EIEs6VvAPoaTaeGwzwCuLkOU91KGMQAUIsKltccJecH1bnNnv7YDH1w3VWDsd8CuSTP4koHtDaJ2C4xo08JMfM6pHh2iM3SU9SAw4ww9xlFsGvmjyBwlc8wxbIb7kilBqQdGvScmDesI482zvhsH9ue7H-HtBMVH6z2eoEFAZTqqx2WKW0mUunpRKrL31ZkJBxjBNtttSa0P3a3yzcfX4gDcqsdsMa7MPb6fAvS1oO73wBkuM90WT6j4wdarb2BUowjDCMY9j03m14RwMZj64Jf6aRPbbR8j5IzjRyh1ZRqFVdj1WK65tYs6P065_ayWZdadCMNqp2Q9U2aUzMU4eMqjSvNquBkors7mJh_Xesq9ZuaDZMD8dvpNOdEavxA2S18ZosZwsmloVbegOlbIun3-8pZPZrb2kU-QC0Ul5KT0cf-WjqDyvppvTCC1Q6BHTYXUtE7do2fxZm1IGeXQvFtZIMR_N6ncGgaZbjMRemQyHmSxK7pgRFk5N07S6nxr_iHYGf8Oq0F7wWXIaXd2Vzuo80g55h_Fv3JeMQV8YYBsvwg3xtsc8NN2wxmP76DS7eCJ10KAIJ_hMYBwgB-Ue-VrdlaeFgzdFTswl1BAjuBolPPDiI5wwoH1FaCVPBmz4d8SEFkLxf49yB-5aUsRTLZZUOAaFGWCYoe5PHuBIlgd1oifGZEbzwR-",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6510231,
+               "lng" : -79.41107720000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6524884802915,
+                  "lng" : -79.40977476970851
+               },
+               "southwest" : {
+                  "lat" : 43.6497905197085,
+                  "lng" : -79.41247273029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "677b5783d0204df3a5c64c008087aaad8c8c411b",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117075301956379599477/photos\"\u003eA. Park\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACwUIbhykYe86qOWT3esLVD109fqB4u30u5L-EPYMwbtWbA5tLR0yS2ovWO1ei4d7C0X8NfvAd9bpYaiOL0AFf52IrJGIJD9Q12zKAycfIfqzeyBqUk4juDZevYJOUixwEhCCPTnhN9gb4N2kOn5SeKxmGhS6l1lLknQP9na-uQFldDqWS8yAkQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJa0JJnOU0K4gRoKcK3FQ7ybA",
+         "rating" : 3.1,
+         "reference" : "CmRSAAAAPFSRUTIhAN-vve9ehRvzfd8mYwHdCypJ_RcuEtDcoNtGrjRI35CXq7clQlg2DETAPFY871ydUrqBkXnf9rWNbv-u2CUInxDQoye3yzuHX34tAdbj_1EOeHlKLyRbLX14EhANQemb2Ox4kwC7ojVf1nWKGhRqDVEh8EBpzRNIM2MFxhktEOCg2A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "883 Dundas Street West, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6497572,
+               "lng" : -79.42456749999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6509446802915,
+                  "lng" : -79.4232343697085
+               },
+               "southwest" : {
+                  "lat" : 43.6482467197085,
+                  "lng" : -79.42593233029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b2ad5db8c9f0d87137c68489d1645896d1ac73d3",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1576,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105608647507651270710/photos\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAR6XoF7gz-9P9rtpSkZl3rSatiMKKqjT-pBX0_cteOP10RfC8r7pzT_q-p6_tHfVUd4lv0m_hTk983NXFVPjXeNZ3rleX_TbIevsMHxpsxioC4skWiBtV1UxzRhXGDC2sEhDguysT3lCxuXsSLZk7RmUYGhT-olecsd-wTdTG-uMRwsadtw1qqQ",
+               "width" : 1888
+            }
+         ],
+         "place_id" : "ChIJ5e3Rovg0K4gRShUDesWXP7o",
+         "rating" : 3.9,
+         "reference" : "CmRSAAAAMxYaBrIC3o-WlQTPMjuKp_Iiv9HZkaA9Ix6GUxDKkMjKdsLgffGxj4M8PcEDUA-YrKmPRoRLBroc9tixlf93Vb0agSPpCNcpZJxJKtN91psObcIpYkqD1lynjl7R3SwHEhAWHDCdhAchKloeBCCfwNyoGhSjYaZEE8K0elyCpMBrVl_Wrcvtyg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1260 Dundas Street West, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6561432,
+               "lng" : -79.4356961
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65765828029149,
+                  "lng" : -79.43320640000002
+               },
+               "southwest" : {
+                  "lat" : 43.65496031970849,
+                  "lng" : -79.436526
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "5a6df1a7cf1a5ba334251edd3c1333a721c87e98",
+         "name" : "Shefield Express",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ64iNI1s0K4gRk15DSKewXgs",
+         "reference" : "CmRRAAAALfft3hmNz41sI_jYJOmTa2I-wrJnJgtitonrSjRRpki5NcC4PuXqDh5lkdehVeMn4V9v9PwsEDDFal1TVdAL_CLlmMQHpeXjVDDbmQEP81qsJqZipjIWpf3cWa0qUKkzEhDS4mkIXNIp5aOLM4gV0j09GhTG_ugnFNMPwVu2qX4tHNyWgxqhjA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "900 Dufferin Street, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.64957159999999,
+               "lng" : -79.42039389999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6508393802915,
+                  "lng" : -79.41901276970849
+               },
+               "southwest" : {
+                  "lat" : 43.6481414197085,
+                  "lng" : -79.42171073029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "32660bff055c5ebbe81c56543cad0f0d8c1b9d65",
+         "name" : "Sweet Addictions Candy Co",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117147382670951991170/photos\"\u003eAurelius R\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9X9UZ5nj03RXPcwhshEgHK77-pcHCwd8IDEyKaN9HGT6XJZQixpP_RdLcOlaU2FVYzwQOXRd0EuUe7RqdA4sO9CL18rvipP-7V809hj4CPKqEzVJ5fAqMxBGlHjKF3K7EhDD7WRHaxqvydct7Wm0Z6yPGhRMolgqOiQL5a26cQGHCndZCMw1kw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJM-AWZvk0K4gRScvGom3XOFY",
+         "rating" : 5,
+         "reference" : "CmRRAAAAZ9o3b7xh1d1ZmRRR986GyEb6Z-GuVcX-GBgiaQa6RUGgio8vVrxW_yW6tO_v8Rk-jJCY_LcsWWjzjdk6RwYNRNIppPBZOxo9O2A_WIMeQ5cdMYIoBYsbCXnTjIGYydAfEhAh9u4AqQsRuuYElytvBwhTGhQje_XIrcQkcAxYuIjOA09vlK72XA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1134 Dundas Street West, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6455857,
+               "lng" : -79.41095249999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6470293302915,
+                  "lng" : -79.4096400697085
+               },
+               "southwest" : {
+                  "lat" : 43.6443313697085,
+                  "lng" : -79.41233803029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c0c6653dde5773b0b6fc74ce2abb4f7069a7cf46",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116373335390434500869/photos\"\u003eJames Whitaker\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAomU44u8XBT6LhlnlP1HJ_daoC32lO4BjQZwtUApcvXkAiZVvnY3uLyh1oJD3HXhhrUZ2rqk0pQBVtKC9v51Rg_cKsUihukoSqdhjzdA2IKEPpVOSkMoYPt0jCqfK6UMmEhBJBBAg9W717rQehpDRf5HdGhSq1us9p6QkiGs1ZIpYO8SJGsWsqg",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJdbWZoOM0K4gRGRCNqE70WUs",
+         "rating" : 3.7,
+         "reference" : "CmRRAAAAo96lz-EX_cyNI8x_oae2huY_IvS85kKcNCGpYiHEpWnH4KHehOO8_wZ7wa9PdXT5pAf5Ump2YQCK6iVyXaCLNFt3tNLhLTZBY0C6hHwbsyvXBYv6fQgX6bgHjXXz0vR6EhBhQLfZlk9boH9VwdPMAv_dGhTp-oTAexsu5QNDEydMf6wNvTLIKA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "873 Queen Street West, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6608452,
+               "lng" : -79.4288729
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.66216283029149,
+                  "lng" : -79.42769076970851
+               },
+               "southwest" : {
+                  "lat" : 43.6594648697085,
+                  "lng" : -79.43038873029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e2b548e984c87f92695453b3458ba33c5f3f37b5",
+         "name" : "POPBOX MicroMrkt.",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112273433044299170168/photos\"\u003ePOPBOX MicroMrkt.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnZO23Zhs6FBr-BjNt39IhfYqCW1k1UGbIB8Xu-vd0UIcVuugPR0OJ8xSSPMT0vocir_XW_-KBUebcVPaOLPHqsvXoAMZKTdGLc_AdFEsMWYSObq63k4hzR4fPgBokF-aEhC7HXAKxi8UBxkdP990lW64GhRoGf1CFCQjttmqy4Mq8T7dOOn1WQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJCTVfWF40K4gRGRqMjuaka8w",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAA9mjCSwYDIw1ygfCm-eLQmkKgN1dGkPTSps0WeuP_bOseVSfF8I_OEDGpPioBtiDxg50N4SpaAjyoFgwWy9Vte5Mxe_9d7DsjolxBcQM-z3zVFoE6dCp_c0jf-3mhLcFpEhDqkVliHmNGUuClY3RFxTr3GhTXlJWQZAAlSEkUK07gPuOYbFLGvg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "cafe",
+            "grocery_or_supermarket",
+            "store",
+            "health",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "725 Dovercourt Road, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6504258,
+               "lng" : -79.44033349999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6516668302915,
+                  "lng" : -79.43899806970849
+               },
+               "southwest" : {
+                  "lat" : 43.6489688697085,
+                  "lng" : -79.4416960302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "dfed37c823a729c19b8f74db2e11a40d0faf704e",
+         "name" : "Express Mart",
+         "place_id" : "ChIJR1t-mk40K4gRoG0OP3rGi1o",
+         "reference" : "CmRRAAAAmtL0Bu1BtwTS4dUAPWyOFWwO_5ZHI14uhzqPnGC8NO02xIS60Hllcgl7wQDoHmZqaTsYSF2stYmdwZGpIBDUT1YirA4l-o-9jUoJ18oC2YW8Wq2OWKszKM4Xz7H-w7WNEhDCRZF-V8ag6ZwYUE6_HqVPGhQiG_jThowEgZflyRDpqT2DuijArA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1762 Dundas Street West, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.642951,
+               "lng" : -79.406953
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6443457302915,
+                  "lng" : -79.40562176970849
+               },
+               "southwest" : {
+                  "lat" : 43.6416477697085,
+                  "lng" : -79.40831973029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9ef195a5b9d331f12e9cf91ef022fa51908462d1",
+         "name" : "passport photo & QQ store",
+         "photos" : [
+            {
+               "height" : 4048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\"\u003eAndroid Dave\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGe4BYAhDT_p-JyyZJQTFD6TGrKvOtxzeAGVlMPIEtrwerPjoxAga0D0XVtDPBqbxBWw1w-lHx0vpprM09pFPBo4HyVKVWNhoGuJD0QgLAntwQfOhVygHrn0W_sVYHofUEhCqNobPjRknqBYXNH6Jy8_HGhRtEuxjjbrVXs46Wz23-SQXr0utrg",
+               "width" : 3036
+            }
+         ],
+         "place_id" : "ChIJh-mXweE0K4gRGd3K_UBqaDQ",
+         "rating" : 5,
+         "reference" : "CmRRAAAA3eD-Zz_BI-tPgnKRTbW55co70v84F9a781ddxSknxJgo6C6YCEy7JbFadpEPaJrkkMyhkDiPFC1gG8WIktNQjVltzpKtuaRPQID5V6cS6D9A1kG3ssgDZrkjbL-wuFjHEhCyaaBX0jXR1kRYh3ZS5tkKGhTeXr84Rj7Cf8GbxWvcaKrZcZk--w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "793 King Street West, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.659332,
+               "lng" : -79.438553
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6606232802915,
+                  "lng" : -79.43718166970849
+               },
+               "southwest" : {
+                  "lat" : 43.6579253197085,
+                  "lng" : -79.4398796302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "067281a86c0104a0d0bc4b1341960d160f144045",
+         "name" : "Five Star Variety",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103464334766457757859/photos\"\u003eFive Star Variety\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACoLcMbNUVFkMT1oE1wsZstnKRBM2iopK1vgyCd2N26_8-dJ1yQzzmzAZAmjMMWiLRzajuUXGiXJmHUbp-inCBmP4ssygIY6osdbdGQWpveJfbFlJf1Ilz8jCkdiw3kM8EhAt3aYSgRNTCx3acQc5oiLhGhRI3XRerLBQDWTjiJVcXlrI2FdNWg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJyYeRYkM0K4gRsmLK1rEBnKU",
+         "rating" : 5,
+         "reference" : "CmRSAAAAsm-ruqWa04EL6a3sakK4uyRAlXGm4YI4K04DBkwVyRNv3C_j-yenPTurmkPdlh3q8X0zfUFDqbx2V7ABvZ9IYQ72QS1MNtq9FKdy8oUCaU5aByzeXoZZZl_n8O9wNOjgEhCKyHyXKUCxOkN0PrxEtPc6GhQSVN1KOLVJKYzXTAAMZDbPnqU0EQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1210 Bloor Street West, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.658184,
+               "lng" : -79.3998009
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6594170802915,
+                  "lng" : -79.3984152197085
+               },
+               "southwest" : {
+                  "lat" : 43.6567191197085,
+                  "lng" : -79.4011131802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "db462afa50adf98b30133799eb20a2302de1f63f",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1576,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107402739918475882749/photos\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAeCO5Z48edKKWwjFSrpcreKQLPFj7bXb6z3HJbPpFIPdLQ0yuXyjZRxKBshw17xb4l7p33nLTQN_pDA5ADipz_6-sp9EjQAHB8YUIg-2toAvskVIwnAoLms_-1SmHgHAfEhA-prZHVbVx0YsuqPsyVrHdGhTDHBFMIUX6sGSCWgjJe6j9GIgo8A",
+               "width" : 1888
+            }
+         ],
+         "place_id" : "ChIJabfse8M0K4gR-UxJVFqyziQ",
+         "rating" : 3.8,
+         "reference" : "CmRRAAAAZKWTsxp_52KkcB3hPDB8pKATr4A37V42JAk1QjiVEJXbwRip9DhY3wM-ZECGNAPvf1iHdCqp6ITiR-EZ6JQlahQHKF0GyepIMZ4rvijRdzpIioNzAausVn-3G8SGNhKwEhBOAihPHGUUp3WDbAD-SvVyGhRmQsS5EyJgCBc04jRZP-i_uRGfkA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "260 College Street, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6372836,
+               "lng" : -79.4362304
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6385624802915,
+                  "lng" : -79.4348536697085
+               },
+               "southwest" : {
+                  "lat" : 43.63586451970851,
+                  "lng" : -79.43755163029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "f95b36cec5d2ff37fa513421bcba4cb358b33ed3",
+         "name" : "Central Market",
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115429932617669099250/photos\"\u003eDeanna E Miron\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5zA5VhUz30qNE50BFQRZSkoF4zXTHCMs7BQjrw2awhcuS7nm5z95t3LgbbqLZtd41Iz70GsI1rqBI9nDag0s-rwy7cB4RtSSCIMEA-sa0qD5XdlnyratJa06YHh1CXIyEhCqwhk_BHShaVGZ4R7LltryGhQ4gQnAuET8VhqhAVxIS6k_SswWEg",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJQXBT0a81K4gR38rDeyy6VW8",
+         "rating" : 3,
+         "reference" : "CmRRAAAAHv8ZRiql6maNgxfIvCa84xy3WMibsohKeT-47_1i1fGvsWlYjhLg1_yy05x2g_yQjyg-NhWaDZMR7mK3l9C813L23NL6t158vQPO4teZey9mfuxjBnEs0K4qZWmJ1B8mEhAUbbaZ_KWDHvxWxgatnRDvGhRLjiUMz5HY52JxdPwgnidBLxprYw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1430 King Street West, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.65536229999999,
+               "lng" : -79.41362219999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6566644802915,
+                  "lng" : -79.41225526970848
+               },
+               "southwest" : {
+                  "lat" : 43.6539665197085,
+                  "lng" : -79.4149532302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bfbdbd9dbc5d5c0ecb4393271ab865a783ed2ea8",
+         "name" : "Splish Splash",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112942586853670715121/photos\"\u003eGlenn Dickler\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2_lE__Qeh8iz8xkuT8k8_LEgpUNirYZd78x_v_DZ5iS5D3wQu3kw0_YNKLF1kQAYquSe-CEq8seffp8FArjxcCdMDNJ7JN4uo3XQcxIRwHoD_DlhSw46Y8c9NQMYhcoeEhAPqSEv4GSTkI3MmjHKsLPJGhQ3ETJzp4LZ_Y1FIEHqlahQrd2b9g",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJMUCGI-40K4gRWewh5vVR6eE",
+         "rating" : 3.2,
+         "reference" : "CmRSAAAA7Yu8AQAOqwZh-zOB7HQJ4LmsA-_WT7gfFpjyKIjmPB1syTKvoA3dW_81UZXsr0uGD0mQ9k7c9KHkrQr1uHdiZauJwTxgazHf_SOz2uhW4eMUdA3x04rihzmk5vvs4IicEhB45xWfT6Y0c2-Uwb2U3oSYGhS0AX6-bMCdfZAcGTPjUSneLY1O6g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "laundry",
+            "atm",
+            "convenience_store",
+            "finance",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "590 College Street, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6610781,
+               "lng" : -79.4303293
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6624270802915,
+                  "lng" : -79.42898031970849
+               },
+               "southwest" : {
+                  "lat" : 43.6597291197085,
+                  "lng" : -79.43167828029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "7a1993d599ff79adf5663f6371b25badc7f0e702",
+         "name" : "21 Seven Market",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108822761296561478687/photos\"\u003ePatrick Asselin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACYJV48FrpZPD6x6ty6Ssbm2jphferMdYMpwzF0GFYZXjiGgc6RLT7XaEHmAEjKE4bQK5rldMXcuUgh7YI7fueO7gFuDMOCnrtYo7daMtUArNk2OqZ-8fpcfByqef4h_bEhD2PLyfDhysYmBy7kIDYKOaGhQkYAPdvUOOKGNkEuH0LjKPXNd-qA",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJDUXafF40K4gRp1qTJ8KgugY",
+         "rating" : 4,
+         "reference" : "CmRRAAAAEuWWmRtHC6BYx0UooGDpyRL5Y1js4MNdKQXNMXWxMsMv9JlcSBGju4fLRYyMTgnlWQLG0GM219lEqXhOW3pd0ydf9J4ahPAhpMTk7evUbu0JZ3TentSL9fiE4mQ6y5IOEhBXg5fTTcdkNvMKg_9_CuLGGhRQNX3h3COfM588mH3pkUQ93FaVQA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1000 Bloor St W, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6516609,
+               "lng" : -79.446302
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6529219302915,
+                  "lng" : -79.44499631970849
+               },
+               "southwest" : {
+                  "lat" : 43.6502239697085,
+                  "lng" : -79.4476942802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "0ab149a9de38cf35e521dde4aa3bef320327cf8c",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4618,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109255711530373110456/photos\"\u003eZachariasz Billik\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAI9oLa561XOLezp-8jGk0_wpBL48GRlU-RrJO9PjXpV4wBYcmQ4CVl8rhbR_LTLOQdyUt92gJMdgdrJEWQyNCLR-p-SQ8ZQFg3EN8w94l8ecTIZQHfe59udoUBoWhQ5lKEhA7QLCM6wEgpkfuvnFOuLWuGhQue-ZVvloB4M9iCqAibaN5dsp7PQ",
+               "width" : 3464
+            }
+         ],
+         "place_id" : "ChIJCy-Yl0k0K4gRaofyG86xwKA",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CmRSAAAA62LlbLd2tjy4VlcBjf6ZCKl1pcu2y_7_uA0-pE_DaaeAS1_4x4MUgp_MHv-qqpkb-uZ-1aEv1sHdhPLWl6o_UnL69P0JfApVvTDr6H4y9a9X8Zlbb1JQPteGhVzhOOGfEhC0en5TTKSeO57Z2twlKhVNGhSSXQlpwosiMsb3rlX9uDJOyUcoZw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "2010 Dundas Street West, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6577013,
+               "lng" : -79.40038009999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6590816302915,
+                  "lng" : -79.39888256970849
+               },
+               "southwest" : {
+                  "lat" : 43.6563836697085,
+                  "lng" : -79.4015805302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b6f3d71666c5b56992e3ad711d813054825982b3",
+         "name" : "Rexall Pharma Plus",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115270095429737433208/photos\"\u003eCris Diaconu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAiLBdMzb67FL9VWp--XQFvhhPQTrTh0AfcT9-8ile3Wx142beF35ENN37xdz2OivJV0VBxKG0IB4CMDlbsB7j8JjgEdrHvAZ2UDto2BLaVoSfS8u5lBA79xJhGmJgJbeQEhAxuW3qjuZYs7fholndsJj6GhR51V9R40lHk3yZ0qtDhlDQHjifdw",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJZ1kGVcA0K4gRlJeJPAwWkVc",
+         "rating" : 4,
+         "reference" : "CmRRAAAAjCP7TuLZZIXI8V0K1tU4A-pcX_J3L_RacyR6oB2sIP9PnFK9EGtvxMHzu61mM2F-C_rLbWd5JKdafYMsfOahVFAQl8xJLNPU6zX0E74AcjkvyhKFzug5VAzyHvukjNeLEhAVaceB99gDJijmAqrKUGfPGhQ-de35od-kXNdqLC5Pm1h0lL9Cog",
+         "scope" : "GOOGLE",
+         "types" : [
+            "pharmacy",
+            "convenience_store",
+            "beauty_salon",
+            "store",
+            "health",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "474 Spadina Avenue, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6625798,
+               "lng" : -79.40395529999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6639740802915,
+                  "lng" : -79.40262416970849
+               },
+               "southwest" : {
+                  "lat" : 43.6612761197085,
+                  "lng" : -79.40532213029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c5c1679615f6ee1db7fe74c00dda6d29425b0e09",
+         "name" : "Harbord Convenience",
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116301643713030025659/photos\"\u003erobert fishman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1_YCyTMW82AqG1Ob7VlH20jKp_71E1GAb5djqZNEqccKgr0ZIyDmGZ6IGnmuah080wuXHx6wxXNsGGc-lv-fx3R9SoYiRf2Z6FhJqHWJfMy1-xr9MM03H2IlDhLCarXQEhBwAuokmrYuNZAx0WybE3ssGhT4xP-lK5flda3Fnw3Wg_bXF9mCLg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJCY19cZU0K4gRBWoGVqrYyIw",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAA81nAglMbapfMjTz_LNH5VepahXvx4iqG9eYAEgtKi4wl6_iBoGIll70uaPkOEYhWQ6BaGTDW6xvd1IM7hX0SfXZW5PifER-_WpUC0_CaU18eiAEiNl-Jn5ZrEu_tsq-mEhAvyn3lv5lhDfi89BWt6SpFGhSFmn7JkF9NhEksnIPdVo2ngYWqwA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "99 Harbord Street, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6489154,
+               "lng" : -79.40483279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6502805302915,
+                  "lng" : -79.40340136970849
+               },
+               "southwest" : {
+                  "lat" : 43.6475825697085,
+                  "lng" : -79.4060993302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "6bbcdeea3cda4b5b11edee188051da1ac8864c9f",
+         "name" : "Carlton Convenience",
+         "place_id" : "ChIJe2p5p-c0K4gR7M-HGze0yfM",
+         "rating" : 1,
+         "reference" : "CmRSAAAAOTnDR4Z__GHo1bbLSIEpYq_ACm10gAaqV930QTwSFWosLlokBAMRicdc0XRnbvCeqKUzUdHNsO1FUnBwDfkxYK_wN8NXUj5tIQuokGjeBzOs128bt-4kyAPco1ceOFkhEhBDO4MAKD_ZjgKefFx48KO7GhR4z8yaD0SMxSUKRcnLw3Dlt1ByKw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "230 Bathurst Street, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6492526,
+               "lng" : -79.42110749999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6506441302915,
+                  "lng" : -79.4197560697085
+               },
+               "southwest" : {
+                  "lat" : 43.6479461697085,
+                  "lng" : -79.4224540302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "5ba143b162266fc8c47f14378179d9072c3a3dc1",
+         "name" : "Amigo Convenience",
+         "place_id" : "ChIJtTimavk0K4gR0GOmhkeDz_c",
+         "reference" : "CmRSAAAApYUVfjxYZHl3g0CMG3SEQnqgoRlOktZHRvRbJ1cMQ1ff1XWH5RRo6YflUIlb6WUGLZ9U4MimoO9i3Jn1ksYtV54K-975p15yTu7Q6SJJYa9kUQF5E6FOBQ4_sBNfcYHwEhClgHFF51lAuX4GzYfCil2rGhTA8ZLgNO12yQM4oJCfVuY1KtxHZw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1151 Dundas Street West, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6545368,
+               "lng" : -79.4224804
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65583643029149,
+                  "lng" : -79.4211115197085
+               },
+               "southwest" : {
+                  "lat" : 43.6531384697085,
+                  "lng" : -79.42380948029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "d1d73e7f563362e6458ac8e867c2b8ef25fe74f6",
+         "name" : "College Variety Plus",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3872,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\"\u003eAnthony Bernstein\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9VJVGQU_rwqqvkvU98QRJ1bAaff2QcHN2-EImvKkr_WgWx-7OiGDY6t2AEitqYLNexyYSFhODT8kE7fGexGoR-U7dZj3EDETqYcFG2zh53XFyzvpOiSNJkC0vN5vA5wwEhBfbman8h25sD4lm_wpYzMoGhQcTZY0mOdWP35JoLLlH3m2SkX_xw",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJZ-zJCfc0K4gR6lCB5GRaCHk",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAAPPfIpvfs1MW0ySF796v_MI2xz99z2FIYrFoWhbWssdMoSwl9Bbsqrn43bpjuMNYHWyvArPXL_KQosScNkVjyxUXjaxEX4zG85KFLWTfAHPDEC0PrEtPfZ1CFnN4STxZDEhA_pgYIyc0vuVb7azMpEHFDGhTjZnV6ligRt_Sw7Un1HPGFuKAlTA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "830 College Street, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6538752,
+               "lng" : -79.42626229999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65520188029149,
+                  "lng" : -79.42502331970849
+               },
+               "southwest" : {
+                  "lat" : 43.6525039197085,
+                  "lng" : -79.42772128029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "1e7e80a48b05d5f979d6d89c83aa291c0c28d7bd",
+         "name" : "Shorty's Variety",
+         "place_id" : "ChIJ7xR1Glg0K4gRpYfWJQBca5s",
+         "reference" : "CmRSAAAAbdjSvtwCllTjw1ubOTmLeLNUiTwM_uHM4ryqLE4wiLutj7HIFjN98LtaGSwrmtF_KWui5X7UENYl9Gw1DOn34l78TMWErIcPjVvcshAUhg7ae_XJUYpDmEAGwQP6P7tIEhCglBBF8bhcAm-GLdsr9FGfGhRtUKil5H26dbXkbbrZYo6y3k1jgg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "443 Dovercourt Road, Toronto"
+      }
+   ],
+   "status" : "OK"
+}

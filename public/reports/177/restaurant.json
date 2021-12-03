@@ -1,0 +1,994 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQEBgIAAIIzj3P_97NkN5vokqxpo6etq5sB4bDATp0EMNUTOXKi4VHyxRkTHIaKNwQmjGUYoQHmIK_CImRnoOU1M9z9SV6PGV73frixOigGeJiesKH6ZJSe3jJAbIbxAgHC9TDQyqEztE2L1qIcO9jwLB2gI68f0JSjEqyn2nQzdPKcSYCjfHSVf2cs8rhCm85tIz7YIHp-eqaqXrJ-Srin76Nb1LM6w4RRcuLecYA5gA30L68WtnBMyHmvg020yUfJcMf-9zGlpMpLOXa6-FUmJk1FpHGMw_hrzfjUex-WVlXP7dCt2qWpc5wgDGcab4weMYRSxKxJtQtv-Eo2yoIBDOyvO7k3wQmQPCZThIxGfgtoTZ5r_jVfdZkuzOr3lY6i6yqWzbjU-1_Qfv9C-ihsz_UBLUsFJjkhi6kUrorvYMkuKmpIosGKXf0icj629YvLfEgf_Fz1CrVyWn_TXXjGawklFsd0kw6kBSVgpVi7Hr6KX8KHokHWTaOhDyxtLrc4b9_2VDAT9zmm-FZM59BN4faHrkABejRv4WzeLele7dBLGOm1KYjfdOU4ei7Xv_1snq1rsDGvPwW272-5SQyverzH1z1kD7Fh6A7BQ-0wdDU1PZ7e-7je_ez0IWPS7opfq_WMlPyGo9HtrPgb4OBsgj1FG89xgVnrOzrvo7RSIuBQJZwO_HnOdGDYRgUr4DZawrYvuRIQ5GYSa8bivKay2S9YXon0iBoUXWE8xnvBch6J7FDo4QcAvUGcfp4",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.42374099999999,
+               "lng" : -113.4748383
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4251067302915,
+                  "lng" : -113.4735964697085
+               },
+               "southwest" : {
+                  "lat" : 53.4224087697085,
+                  "lng" : -113.4762944302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "d7f0d98b6539fe74cbd26c0a995e4d20e6c9a824",
+         "name" : "Brewsters Summerside",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112446223957119878627\"\u003eBrewsters Summerside\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAiNL1tjHL-l8kBdHNX2gOmwjROtfbM9of7mGT7pM8nxBH58AhtR8CMIOeV5jUVtkMra9mgZIF44FOBEbD9TLnqfn7FTFqTAnk9hhOts44qZthFISVvDZV4mREJXLoP5T-EhCs_a-6rT0zkUlVKHtjE1uyGhS8tDyohA51c81rGUm_oXXtT-Paqg",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJG5ybr58eoFMRbanvpSTjlVU",
+         "plus_code" : {
+            "compound_code" : "CGFG+F3 Edmonton, AB, Canada",
+            "global_code" : "9558CGFG+F3"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJG5ybr58eoFMRbanvpSTjlVU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "liquor_store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 619,
+         "vicinity" : "1140 91 Street Southwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.42568499999999,
+               "lng" : -113.478514
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4270347302915,
+                  "lng" : -113.4770305697085
+               },
+               "southwest" : {
+                  "lat" : 53.4243367697085,
+                  "lng" : -113.4797285302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "31bc400e154264c49b5e83b58605b541a5226b5f",
+         "name" : "The Canadian Brewhouse (Ellerslie)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104644412161769047129\"\u003eJomon Jacob\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjKiKp090mIZkYtQFwnn-jNtAqnStLmFJGrfCc40QPbqEhf_p9koPH1w9ccNMDLpT_GYkCLkXbStZkS0UL9a4zwYglEd1P3lzjbrXeH3JVcEczd18feO1dYOlWAOn_ZJiEhDYfbJZmyojeASEkZgeOrZ0GhR8gR_m5YFp7XMmNZpAeMNX3esDKA",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ84LwsJ4eoFMRj7yw0rdmM-A",
+         "plus_code" : {
+            "compound_code" : "CGGC+7H Edmonton, AB, Canada",
+            "global_code" : "9558CGGC+7H"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJ84LwsJ4eoFMRj7yw0rdmM-A",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "bar", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1698,
+         "vicinity" : "9538 Ellerslie Road Southwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.42920729999999,
+               "lng" : -113.4791713
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4306197302915,
+                  "lng" : -113.4778341697085
+               },
+               "southwest" : {
+                  "lat" : 53.4279217697085,
+                  "lng" : -113.4805321302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7971d4699e9b6cff4850a465b48d2485261784ff",
+         "name" : "Pho Vietnamese Noodle Soup",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104644412161769047129\"\u003eJomon Jacob\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMXJalZSFt2DzJRVXDD9mAd5GWKpjmDAUurBzE0zZR9bOM2qha5n81IiCQRh5ksVNYOsZXEIX_nbX9vm1Bqs819z6R8bZF6qil8V0fV4l2lylxbChTTzWdsCpKOQPNDarEhDnziloPu42faVe4FnuQxxsGhTJhq2OifgFi1GDxdaQB53XovF0pw",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJoVRLXJgeoFMRN2GCNChMsFY",
+         "plus_code" : {
+            "compound_code" : "CGHC+M8 Edmonton, AB, Canada",
+            "global_code" : "9558CGHC+M8"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJoVRLXJgeoFMRN2GCNChMsFY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 368,
+         "vicinity" : "2963 Ellwood Drive Southwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.43053,
+               "lng" : -113.4708447
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4319193302915,
+                  "lng" : -113.4695683197085
+               },
+               "southwest" : {
+                  "lat" : 53.4292213697085,
+                  "lng" : -113.4722662802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "86ba17befc584bf8b11932e536c22ab5e1dec666",
+         "name" : "Zaika Bistro",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103080243317905229311\"\u003eFox Legend\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXUH7eTaLDAGQejNhUchCd3REjqxjTZOYUXHyFbIjCxG4bCOZe-gE1iIm8B_4uIpN--X2WBlssvoAGXJKlq62q0W1tbz4MWNUROrAMZRaOFHHLRZfWkZ1yTIV7AjpsEJAEhDtDdiOVFAu_GJiwZPCNC6cGhQOdx8HLS7HMYnJhFeekoMtNl3OdA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJTTeBXJgeoFMRah_pvo3iGNQ",
+         "plus_code" : {
+            "compound_code" : "CGJH+6M Edmonton, AB, Canada",
+            "global_code" : "9558CGJH+6M"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJTTeBXJgeoFMRah_pvo3iGNQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 795,
+         "vicinity" : "2303 Ellwood Drive Southwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4238139,
+               "lng" : -113.4902543
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4256314802915,
+                  "lng" : -113.4889082197085
+               },
+               "southwest" : {
+                  "lat" : 53.4229335197085,
+                  "lng" : -113.4916061802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7bf254e3b9b80a8162ee60b25afcbf44cca667c6",
+         "name" : "Chop Steakhouse & Bar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 683,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113821780146981948178\"\u003eChop Steakhouse &amp; Bar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA01uQYGJ6ZPyFTgPaSHNp75vIioGwaVzxAGnPndVLIxi2ZlpVHOnvmSR2OM6PhRUEqzsTcIoVdgU3S-gHR49mlHJvV5PRt64JpjE-dVRlt-dyV7g0me5PDIm9hV9HXBb4EhDaFd2xLAOTl47_yAUVH_uEGhSBBMWL0R11L8xygtL3bgEKJKSc2w",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJWT3jtIQeoFMRuuwr6WIL3rM",
+         "plus_code" : {
+            "compound_code" : "CGF5+GV Edmonton, AB, Canada",
+            "global_code" : "9558CGF5+GV"
+         },
+         "price_level" : 3,
+         "rating" : 4.4,
+         "reference" : "ChIJWT3jtIQeoFMRuuwr6WIL3rM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 902,
+         "vicinity" : "10111 Ellerslie Road Southwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4238389,
+               "lng" : -113.4764903
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4251888802915,
+                  "lng" : -113.4750190197085
+               },
+               "southwest" : {
+                  "lat" : 53.4224909197085,
+                  "lng" : -113.4777169802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cea59a8ed26148c9fdd8aeab5f7af6228cfdf492",
+         "name" : "Mary Brown's Chicken & Taters",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109525925147118207638\"\u003eBen Michelin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXT9gIWwQO37Yd-DC4P5XKVHRWXjiQ2CnlrfBDdFyYGlwuiKzDaUtETb7gYh76G-fH-zQ7Mbrv1f_vM6paR1xdGrCDgrQ925CiMoktHyaU_NhEhaJYuBITymGaI9aolk0EhDuQjiNqYOm9IXIkfvqOGYAGhQI355F64xuxK_45zuPZnSMPLdt9Q",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJibq5oJ8eoFMRCmzlK3i0UpU",
+         "plus_code" : {
+            "compound_code" : "CGFF+GC Edmonton, AB, Canada",
+            "global_code" : "9558CGFF+GC"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJibq5oJ8eoFMRCmzlK3i0UpU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 307,
+         "vicinity" : "1042 91 Street Southwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.42911719999999,
+               "lng" : -113.4785559
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4304660302915,
+                  "lng" : -113.4773014697085
+               },
+               "southwest" : {
+                  "lat" : 53.4277680697085,
+                  "lng" : -113.4799994302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c74f994ab378c7203a626c814c20056844dd3116",
+         "name" : "Kami Sushi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109726920285488924189\"\u003eBang Nguyen\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAi3Jk-IFnWFXOlGg9ncbgMJliJemqAVq80kvmbNCTdv5boNEYSQZqmgrmhccAcZcFKgC69_wtvn1Xpj5Wj502CrwedA-R-4G1VMELzbvGkINB09lPZHWXyUJHjfsNR4DgEhBPfxjTHqjbcG-b94A6P0WbGhTxPS025ujxEDB3Va1zLiHdl__h-w",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJTTeBXJgeoFMRab--LSasy04",
+         "plus_code" : {
+            "compound_code" : "CGHC+JH Edmonton, AB, Canada",
+            "global_code" : "9558CGHC+JH"
+         },
+         "rating" : 4,
+         "reference" : "ChIJTTeBXJgeoFMRab--LSasy04",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 121,
+         "vicinity" : "2915 Ellwood Drive Southwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4233896,
+               "lng" : -113.4764417
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4247411302915,
+                  "lng" : -113.4749894697085
+               },
+               "southwest" : {
+                  "lat" : 53.4220431697085,
+                  "lng" : -113.4776874302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d7023b496c06cd74616f1798354cd37dffa64ea2",
+         "name" : "Mini Mango: a fresh take on Vietnamese cuisine",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110570304679441958930\"\u003eClinton Kirk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAM6rkcHQ4yzTxr-x-cH6O_KyQwEgPB11ZqMo3EFTFYQxQYL69WF-9e6PoPEUruwuoukRopjelsZQX5R8S8xMao2MrTXH2lk6lMRjEwstgj9zYGi0us7pgYmlzWiMG0nMcEhCw0GQh1jXgV-JAsTCtyH4mGhRlq7EEU7A38EFB31Wr9rXjxYwsqQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJhyzDpZ8eoFMRKPe-2bcdWxc",
+         "plus_code" : {
+            "compound_code" : "CGFF+9C Edmonton, AB, Canada",
+            "global_code" : "9558CGFF+9C"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJhyzDpZ8eoFMRKPe-2bcdWxc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 343,
+         "vicinity" : "1056 91 Street Southwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4260159,
+               "lng" : -113.4780031
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.42736473029149,
+                  "lng" : -113.4766207697085
+               },
+               "southwest" : {
+                  "lat" : 53.42466676970849,
+                  "lng" : -113.4793187302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0435ad65a4aeee3c0343cbedc065b44dbb252f57",
+         "name" : "Spot on Donair & Kebab",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116614263335507947796\"\u003eSpot on Donair &amp; Kebab\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA523Lj3X5VeuI8c1IhEsNv2kQ4Tp_4EoZSxXTMhdJZbBs0LBA-6pghkQkMRMX7EFbukMmok_eWP73gyd--3hVkFmudr1euS6JOCGtzfKaxOKJazmNJjWE1W5Ikkd5PRcZEhAnIcvsxcY5tYi19I-JRta3GhRP6vfqazOeHpk-LHqZBMG0yK4aLA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJg21lx54eoFMRflql7plQghg",
+         "plus_code" : {
+            "compound_code" : "CGGC+CQ Edmonton, AB, Canada",
+            "global_code" : "9558CGGC+CQ"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJg21lx54eoFMRflql7plQghg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 206,
+         "vicinity" : "9516 Ellerslie Road Southwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4262958,
+               "lng" : -113.4815798
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4276450802915,
+                  "lng" : -113.4800458197085
+               },
+               "southwest" : {
+                  "lat" : 53.4249471197085,
+                  "lng" : -113.4827437802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "64eda35548bfbd2abd2bc4e0fde99b8f2ae59665",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108056308214657461425\"\u003eJake Hammell\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASTmmwLRs1QI9xD7M7AHY-Q75VPqDFKGYTxrZV5_U6mFFKMVk5AmLchyjeOGJyir_rpEYbfoY0pG1voo1whMd3wKQwRN7C4tw44uYEeI6zm3oMg_amXDzq85eOC9_fk-9EhAyMqUHXR41_wspw-fVfZwdGhT_huXr3_ghGcwVamWZy4trrvtIRQ",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJo5tQsJ4eoFMR-YduLUAwXqk",
+         "plus_code" : {
+            "compound_code" : "CGG9+G9 Edmonton, AB, Canada",
+            "global_code" : "9558CGG9+G9"
+         },
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "ChIJo5tQsJ4eoFMR-YduLUAwXqk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 114,
+         "vicinity" : "824 Parsons Road Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.44381699999999,
+               "lng" : -113.4840635
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.44523848029149,
+                  "lng" : -113.4826071697085
+               },
+               "southwest" : {
+                  "lat" : 53.44254051970849,
+                  "lng" : -113.4853051302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "51ae3e06778bf8baf474e54bc7e91452206a54e9",
+         "name" : "Famoso Neapolitan Pizzeria",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117287658750887969071\"\u003eRichard Sager\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANqu92eqDCb8XOmltPssXkMzG_ney52lJZBwWGlSHMB6cqrEfENFUbPRwXc8j0sw3eMohP5Tigy7wtzh-F_vyahz78DmxsWrSJGbA_qZgTcJYMrL-5J4QMBnrxM7zWVUhEhCmYg6n48aQeMGgZXFSUTGKGhTBPdyf8xH_v_DOdwWUMcjz-H-iNQ",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJkW22h8AeoFMR0iDA5YaHy8M",
+         "plus_code" : {
+            "compound_code" : "CGV8+G9 Edmonton, AB, Canada",
+            "global_code" : "9558CGV8+G9"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJkW22h8AeoFMR0iDA5YaHy8M",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 554,
+         "vicinity" : "1437 99 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4313557,
+               "lng" : -113.4697287
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.43262403029149,
+                  "lng" : -113.4682256697085
+               },
+               "southwest" : {
+                  "lat" : 53.42992606970849,
+                  "lng" : -113.4709236302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3ac83dba35aeb26e55e532741cf5db1a4e42494d",
+         "name" : "Indian Restaurant Rasam Cuisine",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 405,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115669705159979373201\"\u003eIndian Restaurant Rasam Cuisine\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAe19Bl0NTSGmxSdQC82401j0NgWr-j_KIX7EhLpXe9TM2OXOB69HtvePUSZ1BgmAIi5xWnX7wqntIUHfzP5bb3GTPlUrnFtLQkyl0XyBAc-D4FQT4n5C9ZzpmS-Dn5v5yEhAKmgsBCrP70UdL7KLei3c-GhQiiGKy9uJM-UcZYSMFFzp8iLEw4w",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJ5VCrqKMeoFMRkIk7ToVhAmE",
+         "plus_code" : {
+            "compound_code" : "CGJJ+G4 Edmonton, AB, Canada",
+            "global_code" : "9558CGJJ+G4"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ5VCrqKMeoFMRkIk7ToVhAmE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 211,
+         "vicinity" : "248 91 Street Southwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4242903,
+               "lng" : -113.4620511
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.42590003029149,
+                  "lng" : -113.4607089197085
+               },
+               "southwest" : {
+                  "lat" : 53.42320206970849,
+                  "lng" : -113.4634068802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c61da1826e0b25bb1f6f2240f1c2174709f7dc1e",
+         "name" : "Circle K",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100702308707158983692\"\u003ePriscila Fl\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAd4fgNP2wUNDEDnEZuhAeqwOYHUj9PlqEqxO83dDEyyIe2oiohLPxouqpu-394WX6zmFayBgPiL7zcGkmOXRow1axj1TZ9hoYee8hfKdfPIeWCjNtmkO_Onc2E7NShCHKEhC8RWSyR2nHJFJY5C_YI0A0GhTedh9H2DD8l0g0gTs8YcMcx4Q88A",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJo20W06EeoFMRdyuWKfQL-rs",
+         "plus_code" : {
+            "compound_code" : "CGFQ+P5 Edmonton, AB, Canada",
+            "global_code" : "9558CGFQ+P5"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJo20W06EeoFMRdyuWKfQL-rs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "atm",
+            "meal_takeaway",
+            "finance",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 17,
+         "vicinity" : "8403 Ellerslie Road Southwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4260472,
+               "lng" : -113.4757368
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4275040802915,
+                  "lng" : -113.4743871697085
+               },
+               "southwest" : {
+                  "lat" : 53.4248061197085,
+                  "lng" : -113.4770851302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9e74be472f58a24fc7294083df99b9ffa2bc6749",
+         "name" : "Pizza Hut",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112360671683992129839\"\u003ePizza Hut\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAD9hDq8wjcVAf9purJW6JKAT6UEWWzBy25C8-EvgiP8jBpKRq3ksWwuKfTym-zS5XIpSZbzvHGbggz4d9rVIunkumvlPlR8KtljO5MS0wOHUmmmsv62LNrnx1cjNDNRD_EhAe9Ok6HGUlJ0eF8_Yq4a0oGhRiIba2ZPiKJ0_A1yzZ9gDKd5lSHg",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJsXIVI58eoFMRccLQIvV3THc",
+         "plus_code" : {
+            "compound_code" : "CGGF+CP Edmonton, AB, Canada",
+            "global_code" : "9558CGGF+CP"
+         },
+         "price_level" : 2,
+         "rating" : 2.9,
+         "reference" : "ChIJsXIVI58eoFMRccLQIvV3THc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 138,
+         "vicinity" : "9224 Ellerslie Road Southwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.42599999999999,
+               "lng" : -113.475952
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.42722248029149,
+                  "lng" : -113.4745946697085
+               },
+               "southwest" : {
+                  "lat" : 53.42452451970849,
+                  "lng" : -113.4772926302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "87c253ddf5d3b08e71038e7705d132dde8b78392",
+         "name" : "Wok Box",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 420,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112145957131248300426\"\u003eWok Box\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwzi_myorqMBcMJBVoQ-yWS68I2CqUATHY2KmCcLzurawWnGx9oUxl4VlH0sBjHiEBc7nk2EnDDZxLI4CUW3s4eYT2jdVDDmkVYF3Tw6UDVNBwuXPa-ZdTbg6kseGKaodEhC8ecF4IPX6aLBOLvpMBbEyGhQZ00-wNzOXUFr2njyQ02KYw5DLrQ",
+               "width" : 1135
+            }
+         ],
+         "place_id" : "ChIJ_9_7MJ8eoFMRHUWpVYfJ_Qs",
+         "plus_code" : {
+            "compound_code" : "CGGF+9J Edmonton, AB, Canada",
+            "global_code" : "9558CGGF+9J"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJ_9_7MJ8eoFMRHUWpVYfJ_Qs",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 139,
+         "vicinity" : "9228 Ellerslie Road Southwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4260235,
+               "lng" : -113.4762652
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4274927802915,
+                  "lng" : -113.4749132697085
+               },
+               "southwest" : {
+                  "lat" : 53.4247948197085,
+                  "lng" : -113.4776112302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "393151478299813d389f0e877f0c6efceae41ec2",
+         "name" : "Freshii",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110276671939580421496\"\u003eCory J\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAs1OhlofthKQ0mBDE9xzC3S8eTO8fGA6PjcVCAxRKRwBGIy0WwY9CdHn50KX6OZoHDzIJpLG_mak-ZeEaipOvnCemeunSyeO_8UDSdOcIX6Q1DAOyHd517Gyh3uuz3bPhEhCof_Dxd8IGEtD19E_Ef08sGhRrDGrPrf6e-uV7mgmzSCKcMOy09A",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJL9zbMZ8eoFMR2f2L4qMNXcs",
+         "plus_code" : {
+            "compound_code" : "CGGF+CF Edmonton, AB, Canada",
+            "global_code" : "9558CGGF+CF"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJL9zbMZ8eoFMR2f2L4qMNXcs",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 124,
+         "vicinity" : "9240 Ellerslie Road Southwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.42988130000001,
+               "lng" : -113.4782617
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4312277302915,
+                  "lng" : -113.4770761197085
+               },
+               "southwest" : {
+                  "lat" : 53.4285297697085,
+                  "lng" : -113.4797740802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "618d7a8fe089521a50364abe1ce98da8f6278da2",
+         "name" : "Korean Grill 2 (wing Chicx)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2269,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102854899565071601893\"\u003eKorean Grill 2 (wing Chicx)\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1XZlfSGP3ECwzO07HYlX7G9gbq7ZAjU1Sae7Y4JcmbVzrkgCMmtjwtM61f0ELqi21TRrJygDjIBu0iXU_appOVGF0LOfWk1EfXnMGk4VU-2_UrqHtZFXkh2bo_wfzEG_EhD-NbQrdBrwmxW_JGyGFH8rGhQTyA_KYxtE9bYeOjYk8uCPfMQmvQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJEUQBaZgeoFMRe7pzMF87vNw",
+         "plus_code" : {
+            "compound_code" : "CGHC+XM Edmonton, AB, Canada",
+            "global_code" : "9558CGHC+XM"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJEUQBaZgeoFMRe7pzMF87vNw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 293,
+         "vicinity" : "2912 Ellwood Drive Southwest #28, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.430252,
+               "lng" : -113.4783791
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.43159918029149,
+                  "lng" : -113.4771430697085
+               },
+               "southwest" : {
+                  "lat" : 53.42890121970849,
+                  "lng" : -113.4798410302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e57965321b44924db4cec518a40e261cbacda875",
+         "name" : "Golden Taste Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100969293999399856079\"\u003ecodey sommer\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANFPMPMjLcpmnCwuT65pLvYlCupFMIt01gLe_wgy2hzOdzUowDytwtX7JVO6MAFZRR44G6XNdW_i3HntDt4fgg8dsuT7YhTjtq_VtGgyeOzwxyD9ItWHSor5yO6OVdzIGEhDcpIajwhkK_H2yTL3jwZZiGhQGFBAvq1wE7V25GG3N8MnYeSbN7A",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJuUGmbJgeoFMRr13RR0yHBIU",
+         "plus_code" : {
+            "compound_code" : "CGJC+4J Edmonton, AB, Canada",
+            "global_code" : "9558CGJC+4J"
+         },
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "ChIJuUGmbJgeoFMRr13RR0yHBIU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 153,
+         "vicinity" : "2940 Ellwood Drive Southwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.42901639999999,
+               "lng" : -113.4785563
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4303652302915,
+                  "lng" : -113.4773014697085
+               },
+               "southwest" : {
+                  "lat" : 53.4276672697085,
+                  "lng" : -113.4799994302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c1316ff186d6e9aa5cdc9d0871e7b40b4e666f5b",
+         "name" : "Town Square Brewing Co.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103727748711738600941\"\u003eTown Square Brewing Co.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIghqDNPb-RutFxLkW2knFTp3gFKNUxqvsjaLNlqgc_D56GuhQKMDPbcjjS0qpWhIZLZbKWQn-NdN6OpM-3FtYUCuhG1ePsE5zDw1-iVKct4-LcDNmMMdXTEoWzET859jEhC806ZZ9g6SqbK_Wze62HrOGhSqkSD9lrD_z2uLvLJ5-vFqxtvHUw",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJb83cWJgeoFMR3DdDhqdO_p4",
+         "plus_code" : {
+            "compound_code" : "CGHC+JH Edmonton, AB, Canada",
+            "global_code" : "9558CGHC+JH"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJb83cWJgeoFMR3DdDhqdO_p4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "bar", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 450,
+         "vicinity" : "2919 Ellwood Drive Southwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4297222,
+               "lng" : -113.4788888
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4310165802915,
+                  "lng" : -113.4775402697085
+               },
+               "southwest" : {
+                  "lat" : 53.4283186197085,
+                  "lng" : -113.4802382302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ed3f26c43a268218d366c844e14dd21e678e487c",
+         "name" : "Summerside Pizza & Donair",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104641124717962441009\"\u003eKeyur Shah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALRVqevMZKlfY3Ay7-Estg3BAztLR3jWYCg6sc7VEvQiO10k8BkKEfz9GkLEAoTk7SrbDZf3P9nZVJYC0pvnmY6KXlvApg5o0iyPyUBGSO-bNb1VtUJHEv2VRCHOQysjyEhCiJb7tgfaNnK5S2PqKTbkaGhTvwA-hwtBuJ_QZAXK63FbsmwUODA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJw4nMBKMeoFMRB8iUeOOXp1w",
+         "plus_code" : {
+            "compound_code" : "CGHC+VC Edmonton, AB, Canada",
+            "global_code" : "9558CGHC+VC"
+         },
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "ChIJw4nMBKMeoFMRB8iUeOOXp1w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 178,
+         "vicinity" : "2956 Ellwood Drive Southwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

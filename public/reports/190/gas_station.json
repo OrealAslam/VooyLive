@@ -1,0 +1,133 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.54846810000001,
+               "lng" : -113.4757258
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5497785302915,
+                  "lng" : -113.4742666697085
+               },
+               "southwest" : {
+                  "lat" : 53.5470805697085,
+                  "lng" : -113.4769646302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "HUSKY",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111252995738516951595\"\u003ealee x\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLIOdHOMU0dk3OhKVbRzAHzKZYjKpHk0tyeP5lK0rV7Z86UVOOhtF521xHMmQAuldz1gPnfMv8G1V7u9duGnVQ-r7625u62PocUc_rPW2vDQBQUnD57tqPzDzBJpSD7DnOywKQEDXMPyJqB1gSZiSJjrDxyRAl-3TFsuodTP46pKmad",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJTXOSoFcioFMRlySghllKqgI",
+         "plus_code" : {
+            "compound_code" : "GGXF+9P Edmonton, AB, Canada",
+            "global_code" : "9558GGXF+9P"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJTXOSoFcioFMRlySghllKqgI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 134,
+         "vicinity" : "9208 Jasper Avenue, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5463127,
+               "lng" : -113.4797815
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5475607802915,
+                  "lng" : -113.4783834197085
+               },
+               "southwest" : {
+                  "lat" : 53.5448628197085,
+                  "lng" : -113.4810813802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Hughes Car Wash",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104064757773406478050\"\u003eCarl Swanson\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLryV54wq4V5BiUw0hl2uKC5kgBva4tNcdnLsl_IFUHaZ50kywStOAFVjubN2PmvB3-AyKQBiqRWHObXW3obeyWrCJT9aHm5qdO1zW_5ciy56-7gJ_KQ1s4yewM7YFSmXWOcxrL0-W_2au3EvM8sQJhazYN69lhZt8G0RvWmUrtq1i4",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJz9JnplAioFMRzLP7o3aYMuw",
+         "plus_code" : {
+            "compound_code" : "GGWC+G3 Edmonton, AB, Canada",
+            "global_code" : "9558GGWC+G3"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJz9JnplAioFMRzLP7o3aYMuw",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "car_wash", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 140,
+         "vicinity" : "9502 102A Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.550922,
+               "lng" : -113.4829389
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5523879802915,
+                  "lng" : -113.4816466197085
+               },
+               "southwest" : {
+                  "lat" : 53.5496900197085,
+                  "lng" : -113.4843445802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Central Fuel Site",
+         "place_id" : "ChIJaWSsPiQjoFMRcSRHodhSyDg",
+         "plus_code" : {
+            "compound_code" : "HG28+9R Edmonton, AB, Canada",
+            "global_code" : "9558HG28+9R"
+         },
+         "reference" : "ChIJaWSsPiQjoFMRcSRHodhSyDg",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "9515 106 Avenue Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

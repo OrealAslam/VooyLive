@@ -1,0 +1,587 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6910271,
+               "lng" : -79.2879021
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6925183802915,
+                  "lng" : -79.2866115197085
+               },
+               "southwest" : {
+                  "lat" : 43.6898204197085,
+                  "lng" : -79.28930948029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "7d67fc4f3fc87851b9d3137235a68901371ba8aa",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1632,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\"\u003eAnthony Bernstein\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4RJwZvceMivF8BxnJhI6i1ZTW6IwGN3ONr0f1N03Dq-_XK0eXQXgupa7-LikIJanBJ660ecGWaxlmpL4xgdRGTzs186XfHObg0i2J6seqaLqSCzreabeNG01EBIdrxyWEhABKkTag0jNS40YblBcd2NpGhRlQeCcjNzZzDQuWB4udI6c4fS9XQ",
+               "width" : 2464
+            }
+         ],
+         "place_id" : "ChIJz_eGXJ7O1IkRt7CfgHfkB3o",
+         "plus_code" : {
+            "compound_code" : "MPR6+CR Toronto, Ontario, Canada",
+            "global_code" : "87M2MPR6+CR"
+         },
+         "rating" : 2.9,
+         "reference" : "CmRRAAAAczX91jDXb6EbIGv4ismY6oOyv0VuZJtmUN7oqT0kbLZz9Dw4eGHGxNg1LWsu7bqvYMsgEs-9LG4X3Z_PQtKgpmCyqnxVu4M6C9l4yLcB7zHAHl1ubemvHIOpS4njyaO2EhCWRPRv2YknSNERy78zy1VhGhTxPvyf-F7jAIEkV7WtCFQyo4Cw8Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "car_wash",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "3075 Danforth Avenue, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.69741899999999,
+               "lng" : -79.3298207
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.69888363029149,
+                  "lng" : -79.32851021970848
+               },
+               "southwest" : {
+                  "lat" : 43.69618566970849,
+                  "lng" : -79.3312081802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "e7bff2e67b9cea876c33a2b5ca88d3d2a41b71e5",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106426158692775944866/photos\"\u003eSteven C\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqG9rtdn0sHSW70dGMKvpEP5m_fx5lnNELvigNsZHWCG36PLwiBDf1rlTZ0xQERENSUaAWyg_iGUvHUi2iaEMdhgPzou8mksiB7q9tHbe7widrMBxvqEl7_gFeFohb39bEhDUAhRjc1yNf6Oc9SOK8Q3OGhQKGiWlNi6_zgFJbLJj4JB2fPx_lg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ-80CQ1nM1IkRhVzfoiiqsj4",
+         "plus_code" : {
+            "compound_code" : "MMWC+X3 Toronto, Ontario, Canada",
+            "global_code" : "87M2MMWC+X3"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CmRRAAAAgxSZ4gDFb4eS3rIlFaaLQxiXo3U1KjT-o1cIjSaarQPPuC_FCd5jg895HzBeVIBaIa35EXL30VJOMHdpgjbdFHUr6z6WdYc2HUkxROAk-TfTK5rss17Uffv3hMIQhu9pEhDYh0iYNXkdHn6krQl3tVcXGhSXTbX1env9F_ux5-nAKUBEAnWtdg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "521 O'Connor Drive, East York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6865617,
+               "lng" : -79.30818889999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68791068029149,
+                  "lng" : -79.30683991970849
+               },
+               "southwest" : {
+                  "lat" : 43.6852127197085,
+                  "lng" : -79.3095378802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "b4b2ce10d8bea4c88ccd220d62179b90e1913264",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108600277399770837070/photos\"\u003eUbaid Hafiz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFwGiY4VIpnfmXWEb5T0hW2u5cdImkdEZgesgDYTsGst5V0Fdv5XY1DcdRDtx_G8PUSsp9dEA7xMUGbAGX9a2oemWx1ADrGVFyZkOv_h17T48kzhJ7FOdpFOD8WQLEhYoEhAd6tP25KF4dcOd8LC-il1iGhR1l31Z3Erx0PQD_6Z3YB3I-bEZYA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJy-q_RxTM1IkRi1Vj1aaX3-Q",
+         "plus_code" : {
+            "compound_code" : "MMPR+JP Toronto, Ontario, Canada",
+            "global_code" : "87M2MMPR+JP"
+         },
+         "rating" : 3.7,
+         "reference" : "CmRSAAAAF3np6d-nKICxHY3GFxlr-KCLwi73uzmCWewpz1g0BHAxalvlCQM0RLg2YgMw1Qq6fVmzK0QTjdVmcR1KSU4EXpVuJkAOdOOPNPlMJoN6v3INRJQWxfaKsKI72EuOr7JKEhAOqDDjNRrTOIqbXUJNZhU0GhR5cqznP2bx3wPFFw7qLtqiXRv9xA",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "2265 Danforth Avenue, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6975978,
+               "lng" : -79.3291095
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6990491302915,
+                  "lng" : -79.32780236970849
+               },
+               "southwest" : {
+                  "lat" : 43.6963511697085,
+                  "lng" : -79.3305003302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "d494586f55be4f6800cd781f45a33f2484ac948d",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108245833232493443109/photos\"\u003eThushanth Manohar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvc_pKvZnUdr6czriXIgyXQr3ybkzujo_cBevCtoDSWu8IFbHkNJQ56-AGNqj0tYpPmDrXSjSC_u8xlbH2VQJZimSOhseRY4IVQiOpVvTFbsn0roTyk8seV9oWtFZ833YEhA5PzVlIQBVJcHn9S4his2OGhTuwNZZy8aLTjfm8Ch29R40-z1oVg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJac-mxFvM1IkRgVortUbt9Xw",
+         "plus_code" : {
+            "compound_code" : "MMXC+29 Toronto, Ontario, Canada",
+            "global_code" : "87M2MMXC+29"
+         },
+         "rating" : 3.8,
+         "reference" : "CmRRAAAA8klPpmvO9QTkv0xSXPvUsbogAE8nVvjixfmL-3esgFp4nCsLtQgTGsIF37TA2co4Jdqkf4SDwt_pWrJP5tuo8Q8Bi_vqDDynuxDkl-uwcCq2lafwhIDBbN2dzI91RIEPEhAVIyqtps9CMPA4FKAptcGLGhTUnATr4yCUd-4XE96WSGRoLdN8tg",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "561 O'Connor Drive, East York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6879401,
+               "lng" : -79.32881209999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6893764802915,
+                  "lng" : -79.32749956970849
+               },
+               "southwest" : {
+                  "lat" : 43.6866785197085,
+                  "lng" : -79.33019753029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "3c0373fbe77e34ace87ce3bff9f8f66a2e62bd0b",
+         "name" : "Go Go Gas Bar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102200643258623092962/photos\"\u003eJarrett Tamaki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0apNYjT0qjkhGKFRi2KpdhoXKgjxoBAY422svnAw4gBSdvQxuK2q8UgYFbC1taqN9s-N_pH4QIkmbL9W0V4u01p9RKIRLizhA23FrdWRNxcb_QRMkhsRhbd7hYKopQE4EhBkVqqf6SKKDdnWYw3rAWyGGhQk8W33Y-m0XALv6Z_GRQOb8wIK0A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJWx8Jx2bM1IkRKOePWVzPHvU",
+         "plus_code" : {
+            "compound_code" : "MMQC+5F Toronto, Ontario, Canada",
+            "global_code" : "87M2MMQC+5F"
+         },
+         "rating" : 4.4,
+         "reference" : "CmRSAAAAslOvQJtsq_fdVoHVYxvhEQRCkiq1QRzJZL6fisowuzduXBQiiLc3uOnKF9hEJoMHLbVQkzNODHpWZ3ImoWpgErIV3er_w1YXLaOJjQYGHL3KUPXtJ9E4hd7bo7yTg8TnEhC60HXuJj6dGNR_afDa8HQsGhSTlm7nw9l1oSBQxNenWRMNu36nCg",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "car_repair", "point_of_interest", "establishment" ],
+         "vicinity" : "483 Sammon Avenue, East York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6976054,
+               "lng" : -79.329133
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.69905088029149,
+                  "lng" : -79.32782346970848
+               },
+               "southwest" : {
+                  "lat" : 43.6963529197085,
+                  "lng" : -79.3305214302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7e450abeb675f32887680b4d02460c63aea3c952",
+         "name" : "Circle K",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113848706222504332310/photos\"\u003eCircle K\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkBtxR9SiiE2QNDJ01_slQzBgSYXhoHv0XX8zBCdZRVmOKLuUF67ErrLWRl4iJ3yLN1QJep2bv-ifK4qudohGcVKm48yQ4QNm8PgoWAk1JP2bVZVoEaJ1NeavgvZBBzbiEhAcuim-zcJ1smZXkmJlHVFhGhSgmZafKD5z2DgQi9KTwjwl1jzWxg",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJEW-U51vM1IkR06AzpqngirM",
+         "plus_code" : {
+            "compound_code" : "MMXC+28 Toronto, Ontario, Canada",
+            "global_code" : "87M2MMXC+28"
+         },
+         "rating" : 1,
+         "reference" : "CmRSAAAA0idoHREgYf7lfeS8iBKNKDKwBSdYz3JK4uwE9dAKcJiTdipkDxaWR1U7PM34Qog7HsuDLAm3dNcHAfr3E9cbawvVl2dqUFwL05o_XwXO71judPn7hZ4zjGhPCamwaICHEhBXzkI3tRvApYuOG_9iGEdYGhRj3bacuYJ3v-f3dOMVUjHWR3taWw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "atm",
+            "cafe",
+            "car_wash",
+            "gas_station",
+            "finance",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "561 O'Connor Drive, East York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.70790179999999,
+               "lng" : -79.300499
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7093698302915,
+                  "lng" : -79.2991996197085
+               },
+               "southwest" : {
+                  "lat" : 43.7066718697085,
+                  "lng" : -79.30189758029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "0fc14af23d1a5c7f3eb4783fb59821c91fe81e5d",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3672,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116171569198489095522/photos\"\u003eMatt Brayman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzQhr4KTAZCeYHG30SrAp5vcT9YWgS3ajoYUqZBsVFP6p1gGEu3O1OTtgpNdnQv1uoo-BExfXCtIAF8yXn97x5PaGfegG1gXlu0ggmCRR4kghhI64hsqbSsWV7SeHWx7BEhDSdl75sMItRpEgvZP6TBoGGhQopOocT-P7ZHr2T-2N0l1SomylEA",
+               "width" : 4896
+            }
+         ],
+         "place_id" : "ChIJWTp5stLN1IkRT5AxfSHveUA",
+         "plus_code" : {
+            "compound_code" : "PM5X+5R Toronto, Ontario, Canada",
+            "global_code" : "87M2PM5X+5R"
+         },
+         "rating" : 3.4,
+         "reference" : "CmRRAAAAQsbuXuf4fb8EslwyWyuuTo7opE7HDA6FXX29yqnH34PGHk1cdDRP2TZQBqp5n_dpqyGyr1qvWH47pEP5iqfcnWesbjVVbMlDmwKJrQlpSSN0K34NKXfCjAYvpf7DANo1EhDRWAhzT6pK4YS12vJVdnHGGhRP8Qn5I9ofeJMrl0ZI6gnCXz5nPw",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "2915 Saint Clair Avenue East, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.68356399999999,
+               "lng" : -79.301248
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6849920302915,
+                  "lng" : -79.29993201970849
+               },
+               "southwest" : {
+                  "lat" : 43.6822940697085,
+                  "lng" : -79.3026299802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "90702844ed993942bf1655ced37829ac3d0a9b35",
+         "name" : "Xtr",
+         "place_id" : "ChIJBT7sCBrM1IkRe9SenICc1Yg",
+         "plus_code" : {
+            "compound_code" : "MMMX+CG Toronto, Ontario, Canada",
+            "global_code" : "87M2MMMX+CG"
+         },
+         "reference" : "CmRSAAAAwmTHx2_DHfZZDvA7yCbWhQJAQp5WNcWc3WIw9CipMQvVULLaIoAEIomb7KZBEpIJSk9N_YgXMvikIvF9c64erF7QPsmO2XKaE7AW2EUXVtR4zdbGCB1axGONkYB_TJoAEhDsY9QNTUzs1riJAludB814GhQp-VTncn72NDfAu1MvyJidvGxmvg",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "2185 Gerrard Street East, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6833987,
+               "lng" : -79.30108539999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6849187302915,
+                  "lng" : -79.29980786970849
+               },
+               "southwest" : {
+                  "lat" : 43.6822207697085,
+                  "lng" : -79.30250583029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "2f3ee7753a34043bf8359050e47535c53b165a31",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101691074875257287366/photos\"\u003eMUHAMMED MALIK\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApMHD4VU766x_7qiwXpqrmzCGkxcOkEAbBa4DcGu6dm0TMeC8rlZ-3hhYUtr-p8MwM0789rBv33IuTkmZgJWnoON1DpmNd036x1zaf4p2ewrTZl22Td61LmBHxVARtO1yEhBL4EnJtRPOTAZrs0akiLyqGhRyrk-sQVZneGsMhIAQVm0M15HhIg",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJKQKqrRvN1IkRnBoFAbrMKOw",
+         "plus_code" : {
+            "compound_code" : "MMMX+9H Toronto, Ontario, Canada",
+            "global_code" : "87M2MMMX+9H"
+         },
+         "rating" : 5,
+         "reference" : "CmRSAAAAACcYuBVyvvXhao0Epf9lALnsf1bse0Yv8bBrpmREHmZ58Fb6bzyglm9b__H2gwAPl-ylpISPNHlxxzv2QXW9VqpT4403D3fqWtwfOxG4cGpqPluS7npK85LqNiAfwb0fEhBpX966T5PRD-DUeGT5zh1AGhQrYLb-d_BvLbdjVvNXyk6Ulw3Mqw",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "2185 Gerrard Street East, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6910333,
+               "lng" : -79.2879037
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6925215802915,
+                  "lng" : -79.28661186970849
+               },
+               "southwest" : {
+                  "lat" : 43.68982361970851,
+                  "lng" : -79.2893098302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "735fc1e79f6cbf283ea3fa706854108438d7185e",
+         "name" : "Circle K",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118001388189409480644/photos\"\u003eCircle K\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABqpL6hneEYMiB9WRPjQ-0Xx3XnN8QecSl1dCfiyb8sZUwV0_gSbpqsK-MTv7jrufrBtZeg974XGr3YUHo9IjuK4ZN6IItWXVpyjcl47e0RldJDu33R3_CWnEEPwgwQDdEhBzT9DE5hSddqNUV5lAKiniGhSRSS1GoDjEid88ifm0ueXBbyYgmg",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJnUFyXJ7O1IkRxoSj5p_eaPU",
+         "plus_code" : {
+            "compound_code" : "MPR6+CR Toronto, Ontario, Canada",
+            "global_code" : "87M2MPR6+CR"
+         },
+         "rating" : 1,
+         "reference" : "CmRSAAAAZoYQTkb4CSBIfhgD8A6MoZOXLUVOZuocwnfDbzXMe15z9RT_FoT4EVCTYD4wzRJRw0IevbYVQS6bVg40J9CuxPbNkNZSbFYUNKNcg2WIawi8XVRIGjNCC_SwaICw2jiBEhAz2xI1pUQ3Dh-ZCOt-2fJJGhTAC2cySmzCWgNT-FD0AWl_Lssa0Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "atm",
+            "cafe",
+            "car_wash",
+            "gas_station",
+            "finance",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "3075 Danforth Avenue, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.68708170000001,
+               "lng" : -79.28722689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68848373029149,
+                  "lng" : -79.28563246970849
+               },
+               "southwest" : {
+                  "lat" : 43.6857857697085,
+                  "lng" : -79.2883304302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "f86741d273270495306e6ba89345a4c612a7649a",
+         "name" : "Mobil Gas Bar",
+         "place_id" : "ChIJda04xaHO1IkR0lk8Ghy6Hh4",
+         "plus_code" : {
+            "compound_code" : "MPP7+R4 Toronto, Ontario, Canada",
+            "global_code" : "87M2MPP7+R4"
+         },
+         "reference" : "CmRRAAAAhtbdU8JUM_TuQzcBu0isgeMjM1gXG8tetk00Jg-Y9QmXbJM5awFAZvbwFeUTPRxu3HXVaeuDZiV_th5G85w1-BulHyMBd8UwbnFSRy58uxQSXsNdLDBqEHIbEnUfv42-EhD3SBr1jvh2S6HK7nF51Ix3GhRGUvUwPgNrW8t8m4hPt5aO_VF7-g",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "600 Victoria Park Avenue, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6870786,
+               "lng" : -79.28714590000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6884727302915,
+                  "lng" : -79.2855880697085
+               },
+               "southwest" : {
+                  "lat" : 43.6857747697085,
+                  "lng" : -79.2882860302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "a0d47a3ca730a82ddf95c628efa2da13a28662a2",
+         "name" : "Mobil",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116434591653906538710/photos\"\u003ePagan Eka Cheung\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA02CX7BAjiysY9wxZ8LESG9XD2sxZwNFOBaJSJXSTHGRp8l_rkz5oAUKgCjhUaRs-hzxsyyUPPig4N9TrLZzOrRsX_rC_fuSRyBDJTbWTZqzbWjp9ItKor7EShGIG1JErEhDxZQUZ0agZyi2KEM7s5jOyGhQrAnnOHDvpchD2V8CW90-nHlHkyQ",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJL42Er8XP1IkRRFjjnpfCILo",
+         "plus_code" : {
+            "compound_code" : "MPP7+R4 Toronto, Ontario, Canada",
+            "global_code" : "87M2MPP7+R4"
+         },
+         "rating" : 4.2,
+         "reference" : "CmRSAAAArpdqUE3MmGGEntPAM4qqtAEaC5gQk_4vj1HuhLJQHKwKQ8HeFhG2iGEuvqwZYNMSeIMVceXlzXox8JnPahIkKuIBretdanfH4HFX65YN1RVPZycEaMNsU4-uFvFqbdS9EhDCctsXXAibfEeYsRKc9UfkGhTKFLPHTP9UqZFlda6l2Ui2czmyAA",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "600 Victoria Park Avenue, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.692314,
+               "lng" : -79.28431209999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6935754802915,
+                  "lng" : -79.28292521970849
+               },
+               "southwest" : {
+                  "lat" : 43.6908775197085,
+                  "lng" : -79.28562318029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "6e1d9fe777d80e6f8e584236c285882264e20b04",
+         "name" : "Gas Star",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104798864918913888229/photos\"\u003es E\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADHfwyeF01a6bj1x5tgxPkpJW_362bbNR3B0ISRIhxUk40JS0OwxSiEXke04uR-n7dV8O_pvpvSfRiT1ksJnvt4iqUA_QpS9VUSd6N-dSxXYa2e4S-QRKIvJV6itcM56AEhBSNYtSIyXLCmatESfJYXGaGhTSxs3xT-sam39lB1GpjbP6THoY-Q",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJs6uS_pvO1IkRKyLN6fg7p0A",
+         "plus_code" : {
+            "compound_code" : "MPR8+W7 Toronto, Ontario, Canada",
+            "global_code" : "87M2MPR8+W7"
+         },
+         "rating" : 4.1,
+         "reference" : "CmRRAAAAo1YGgsiVVjlVmdrtOcR81gNasGsV7KyekcrMfNQasVKd9TakfOn2mYCBjLv3hXVc-Y3oTfEiynrTk02hI6QePsMz-lx2-dLpnHWuGCe5df2FCNOdbYFPptMeULWPyTsFEhBfD35hTRjPpgnzNJ5b7SQqGhTZFcx8tIfz4SDmMDvmM1o7tg2D6g",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "3180 Danforth Avenue, Scarborough"
+      }
+   ],
+   "status" : "OK"
+}

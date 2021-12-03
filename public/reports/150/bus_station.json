@@ -1,0 +1,823 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQECwIAAGjNB91S-VR3SNJt57IAtSvE-afxiqFAESUAg1x4dK5-_jZHB7UDlrCsi-YTTphlLcGojGLQB6Kq59-gyMUqDjIxAFLJTMopICU30hzs4dxXbam96GzMzl9chQCy5wJWVGvDNyXYMvc7M0D-yvOoBupLyz-HkL73W3pWA1e75rtCNCg-ZsT2Dpe-9SY7uG_-UNUYfjAevBv2MZ8BqJOzDJZTfkMYVLnnjpXymjh6d11ERK8FB4u6A_K6BRWIiSNLBywrZuguRBs7VCJaqzQm9LHJJXAJ0CKrmzUsLD0cVIwMWk6LpUdJUA8ux3nWnwOhfBly1RxLX3UUE2Th7HsWolSzeMxIdh7hCNk7NsM8FK746IhiMAQwKf-kcx47XEwBprPWC8RG1A5yXvdPpNJZQrAtyKQgyAEz0LnlDK_CM2ZHCV9i8Xc9q0oonUypUJpUdJ0shNU2pWGUFdH6_un41MvPGzMKrxh4K8LBlcXjMWPSp5Yo7XoPQybiVzRDfwavhfsA3menLS0y5cv6HLzbmAbstY3eE1t8S_oBDRLzVmuISvXyxtt9puJZ7CQ1Z6jnuN4UmKwH5YOx2v-RB2bwwDlXJopX7ECko1v1lwGIdiQ24cTerEntoUQJa6UHf1_sjl-hSfVUudW17oJGYRjVf6lq5uLtMzslUW83e7J2QC2vghOgKNlGnPa1Y1HrzYMYaBIQc0_imp20unJhhGQ7Bf5nAxoUfsqwf7jd7Nj0IPZCGakJq0ZJQ4k",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7736562,
+               "lng" : -79.4434686
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7750415802915,
+                  "lng" : -79.4421381197085
+               },
+               "southwest" : {
+                  "lat" : 43.7723436197085,
+                  "lng" : -79.44483608029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "f326737f89897e181e8f299dd74e677d214fc3ed",
+         "name" : "Finch Ave West At Bathurst St",
+         "place_id" : "ChIJy7qJC5QtK4gRRZHHkI3JUQY",
+         "plus_code" : {
+            "compound_code" : "QHF4+FJ Toronto, Ontario, Canada",
+            "global_code" : "87M2QHF4+FJ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJy7qJC5QtK4gRRZHHkI3JUQY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.809254,
+               "lng" : -79.454201
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.81079728029151,
+                  "lng" : -79.45295556970848
+               },
+               "southwest" : {
+                  "lat" : 43.80809931970851,
+                  "lng" : -79.4556535302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "bda639a656d7e86560671d3cda4b86597a71daff",
+         "name" : "Promenade Terminal at Promenade Cir (Mall North Entrance)",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100076959601235141870/photos\"\u003ePrasad Mapatuna\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmmDX6fz3ks5rcgPsp9hejD1NUI38mh4t55htUM9lLqTz3jLNXyYdZFMLZg-8ZjygNir1E6ZxesHnoEYyThlFFCIQeMlk4b8jmzPpgWKUw8eloldBYsfCauCi7op5gIvKEhB_X39lN52977QP8ofex95TGhRQfaE7Wx7fihrHbDtpWmVE3aP9Rg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJhUtSJTosK4gRn0Os7WszXfQ",
+         "plus_code" : {
+            "compound_code" : "RG5W+P8 Vaughan, King, ON, Canada",
+            "global_code" : "87M2RG5W+P8"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJhUtSJTosK4gRn0Os7WszXfQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.8094549,
+               "lng" : -79.4540336
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8107970302915,
+                  "lng" : -79.4529562197085
+               },
+               "southwest" : {
+                  "lat" : 43.8080990697085,
+                  "lng" : -79.4556541802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "946b88fec8b9b0e17f0464b73f0140f24a5733e3",
+         "name" : "Promenade Terminal Platform 3",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105320414435507617357/photos\"\u003eOfficialG Tui\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAadGeghmcvTEsQRxKhuZYJTJwU3u15teP2ypyW2HVOpyvlzVVvOhnaNTLH21hQSYfsLydFTCxkjtCdTX58QnECDFWVbl7eTB7hBcWh59ZK5wjI8K8L-SVJ7YkoDrfrVvAEhDo7BsLGtlNzjoJwDeZvP_fGhS3XiKRSovTNUhu-5S1TMQKLDcJXQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ_dElLDosK4gR_7XoRnIBjxk",
+         "plus_code" : {
+            "compound_code" : "RG5W+Q9 Vaughan, King, ON, Canada",
+            "global_code" : "87M2RG5W+Q9"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ_dElLDosK4gR_7XoRnIBjxk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 12,
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.79613649999999,
+               "lng" : -79.41974359999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.79744378029149,
+                  "lng" : -79.41847761970848
+               },
+               "southwest" : {
+                  "lat" : 43.79474581970849,
+                  "lng" : -79.4211755802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "9144ebdc91bcb77baadf972bfb873542d722b9be",
+         "name" : "Yonge St / Abitibi Av",
+         "place_id" : "ChIJmX_x3_0sK4gRLB9kcT-H70Q",
+         "plus_code" : {
+            "compound_code" : "QHWJ+F4 Toronto, Ontario, Canada",
+            "global_code" : "87M2QHWJ+F4"
+         },
+         "reference" : "ChIJmX_x3_0sK4gRLB9kcT-H70Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7936753,
+               "lng" : -79.41880639999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.79501458029149,
+                  "lng" : -79.41753981970849
+               },
+               "southwest" : {
+                  "lat" : 43.79231661970849,
+                  "lng" : -79.4202377802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "128369c5a3847bf169b1c7271e735fd9d63123dd",
+         "name" : "Yonge St At Madawaska Ave",
+         "place_id" : "ChIJkxxoFwItK4gRB2RaKEUxnGI",
+         "plus_code" : {
+            "compound_code" : "QHVJ+FF Toronto, Ontario, Canada",
+            "global_code" : "87M2QHVJ+FF"
+         },
+         "reference" : "ChIJkxxoFwItK4gRB2RaKEUxnGI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7979299,
+               "lng" : -79.41979889999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7993241802915,
+                  "lng" : -79.4184690197085
+               },
+               "southwest" : {
+                  "lat" : 43.7966262197085,
+                  "lng" : -79.4211669802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "7869a6101199edac5e2404ffc202918f51a0da5e",
+         "name" : "Yonge St At Steeles Ave East",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100076959601235141870/photos\"\u003ePrasad Mapatuna\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAeLbqvEWJ6d0jCCFm7sFHmXmNH5fx6YClSxk_AUg-QMgLJ1v8-PXn-T4CJnhVuUpljjfnf88pt5KZnVGg_cAwzdDf9jV86WfyVXYnw0sBaN5-grdz5g1gslDNQhSAzXuJEhA6eo73xuRQgTWzrH0OcyVnGhRefbyl6rRta2jFl6NG4dv1bwZQTw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ9432J_wsK4gRCuE0Sqvvmbc",
+         "plus_code" : {
+            "compound_code" : "QHXJ+53 Toronto, Ontario, Canada",
+            "global_code" : "87M2QHXJ+53"
+         },
+         "reference" : "ChIJ9432J_wsK4gRCuE0Sqvvmbc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.801566,
+               "lng" : -79.42076969999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8028985802915,
+                  "lng" : -79.41952181970849
+               },
+               "southwest" : {
+                  "lat" : 43.8002006197085,
+                  "lng" : -79.4222197802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "42310230cbc487ec51010cefb62e72a7ae11c37e",
+         "name" : "Yonge St / Meadowview Av",
+         "place_id" : "ChIJsZbrc_ksK4gRP60Kcxw3f3g",
+         "plus_code" : {
+            "compound_code" : "RH2H+JM Markham, Ontario, Canada",
+            "global_code" : "87M2RH2H+JM"
+         },
+         "rating" : 3,
+         "reference" : "ChIJsZbrc_ksK4gRP60Kcxw3f3g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7820985,
+               "lng" : -79.41593929999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7834414302915,
+                  "lng" : -79.41463806970849
+               },
+               "southwest" : {
+                  "lat" : 43.7807434697085,
+                  "lng" : -79.41733603029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "813994cdabe59e8a52ac5d81fe817f832c8934a1",
+         "name" : "Bishop Ave",
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104459950846720028918/photos\"\u003eMuneeb Khatana\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACDav2LigzxEsw6b0mWErJjCdnbGFfDr3bSEUJD-1IO9SJlX9l-H379si0fK5lmiNgvVgQV-JfIPxpf6fc4hQZGpcnw-aIBNRAeXk4ZKE_uFprX9haSKLq1NeNALWrMTzEhCCBRZEgZDJ-7uI0dUwgU_BGhTYORVRpSBkOqXchJYoRGjZwE8bkQ",
+               "width" : 2736
+            }
+         ],
+         "place_id" : "ChIJe2MwRA4tK4gRk5NAe83SC2w",
+         "plus_code" : {
+            "compound_code" : "QHJM+RJ Toronto, Ontario, Canada",
+            "global_code" : "87M2QHJM+RJ"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJe2MwRA4tK4gRk5NAe83SC2w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 13,
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.78205550000001,
+               "lng" : -79.4158035
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.78339073029149,
+                  "lng" : -79.4145630197085
+               },
+               "southwest" : {
+                  "lat" : 43.78069276970849,
+                  "lng" : -79.4172609802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "b6cc8e22c3a00d35351c4541a426fe6d0495250b",
+         "name" : "Finch",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106165831833955471254/photos\"\u003eXING CHEN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXjKdbpiYg2peTvTI5bq_N-3VFLOgiwtSa1UodqDAgK9nV6oNxwl05PoPpAbIFy-uR6tjmwoePjxb91RjPVqgmOMJB46IZwfdG9P6zg5Vz2H3IV9_jjKzY-u5AP_yRu_yEhDNLmlENVP5kv4PZIKKjzv-GhTrhk94SK8P2jUNUxMyuVsnhZWAWQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJZTchRg4tK4gR7a9UBcqTAlc",
+         "plus_code" : {
+            "compound_code" : "QHJM+RM Toronto, Ontario, Canada",
+            "global_code" : "87M2QHJM+RM"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJZTchRg4tK4gR7a9UBcqTAlc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 38,
+         "vicinity" : "5697 Yonge Street, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.78143000000001,
+               "lng" : -79.415193
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7827490302915,
+                  "lng" : -79.4139638197085
+               },
+               "southwest" : {
+                  "lat" : 43.7800510697085,
+                  "lng" : -79.41666178029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "32f0a3f8016e6f5986d54f5a9a482c12b350713c",
+         "name" : "Finch Station",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106165831833955471254/photos\"\u003eXING CHEN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbmrxIjBBLlpVkGYZtMB5osHZGvo6W9Ie8d0suds23GO5Rakc_Utmcf_wR5YKQqUhgYqkKGu2-wY1_UZ1Bhyfj2NmH3mGtfiBq8YGRs030R5AFHdsKvQO3PA2ybtPF5j5EhABwfJPDb-N__yy_DrK4imkGhR_csZ9aFWbbYANrXm0yqvxX9aEEw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ7z0GPg4tK4gRQ7yBkgZ9qRw",
+         "plus_code" : {
+            "compound_code" : "QHJM+HW Toronto, Ontario, Canada",
+            "global_code" : "87M2QHJM+HW"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ7z0GPg4tK4gRQ7yBkgZ9qRw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.78126899999999,
+               "lng" : -79.415131
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.78259918029149,
+                  "lng" : -79.41391386970851
+               },
+               "southwest" : {
+                  "lat" : 43.7799012197085,
+                  "lng" : -79.41661183029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "6e20c29e09d252b2b7d2f689ad694c0cae52b987",
+         "name" : "Finch Station",
+         "place_id" : "ChIJOdFkFg4tK4gRh-48dDPj70I",
+         "plus_code" : {
+            "compound_code" : "QHJM+GW Toronto, Ontario, Canada",
+            "global_code" : "87M2QHJM+GW"
+         },
+         "reference" : "ChIJOdFkFg4tK4gRh-48dDPj70I",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.781433,
+               "lng" : -79.415024
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7828120302915,
+                  "lng" : -79.41354236970849
+               },
+               "southwest" : {
+                  "lat" : 43.7801140697085,
+                  "lng" : -79.41624033029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "b1dccb20009e790e4634c2e11c9bf5dff81826a2",
+         "name" : "Finch Station",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105050402793527455574/photos\"\u003eHarish Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPmV4q3MfAj-jJrwznWJpA1oJ_c4Z-jhMoKkSGtzDkHEverOfs19863jLuNNG2qu0_waf_m2cbC5FxE0iiyrHaOGokPSiq-xHjPZV5necQ_WuaXzrI-CC_jBjhuyH-ugVEhAu8iRqgeBBeuvnhBkYKyLIGhR7oFGR-J-CYdHLOIigHpUAbN4xQA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJNbBvPQ4tK4gRhfQZpb8O_OQ",
+         "plus_code" : {
+            "compound_code" : "QHJM+HX Toronto, Ontario, Canada",
+            "global_code" : "87M2QHJM+HX"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJNbBvPQ4tK4gRhfQZpb8O_OQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 131,
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.781111,
+               "lng" : -79.415064
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.78243958029149,
+                  "lng" : -79.4138583197085
+               },
+               "southwest" : {
+                  "lat" : 43.7797416197085,
+                  "lng" : -79.41655628029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "fae6ad2e58d1036627b5b814f73912c0d228bec8",
+         "name" : "Finch Station",
+         "place_id" : "ChIJLbjOFg4tK4gRjWGhDUgU6KU",
+         "plus_code" : {
+            "compound_code" : "QHJM+CX Toronto, Ontario, Canada",
+            "global_code" : "87M2QHJM+CX"
+         },
+         "rating" : 3,
+         "reference" : "ChIJLbjOFg4tK4gRjWGhDUgU6KU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.780941,
+               "lng" : -79.414993
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7822127302915,
+                  "lng" : -79.4137484197085
+               },
+               "southwest" : {
+                  "lat" : 43.7795147697085,
+                  "lng" : -79.4164463802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "203abbc87d9790cb72e38612da950a34e2d04d13",
+         "name" : "Finch Station",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100076959601235141870/photos\"\u003ePrasad Mapatuna\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAolh_b8nnIvb8rK3KDXvfRpL26Ic7gis1v6sPoAq5j_8DCuOlwe4p9mwxNmrbULZHQg68UUPY8_FldStR8bxrSsCIhHpoes7Uj_c9_pFw9cN9sXJcPLtEtkXeizZva4knEhChAZy6mhHUBEHE0ATBzW2GGhSJr3Ru27X1_WKdA0swm3pNrGQXSg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ4R9lFg4tK4gR8D2oL5xx--k",
+         "plus_code" : {
+            "compound_code" : "QHJP+92 Toronto, Ontario, Canada",
+            "global_code" : "87M2QHJP+92"
+         },
+         "rating" : 3,
+         "reference" : "ChIJ4R9lFg4tK4gR8D2oL5xx--k",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.78078600000001,
+               "lng" : -79.41492699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.78211023029151,
+                  "lng" : -79.41369321970849
+               },
+               "southwest" : {
+                  "lat" : 43.77941226970851,
+                  "lng" : -79.4163911802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "49965f68e62d40a64b9b42b5902efa02ba19a403",
+         "name" : "Finch Station",
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111349253140287857775/photos\"\u003eJohn Mark\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAA_FmWvkvH4wZmvz9Z7WddW75Guv1jEQdrX2mXBq-WJHk2RgBjPf1xhrK2RNg4YMufv0FSVet5GsU59ZW1MNegN1qqhUwvvQphwsfsFW2yQALSauD-uWsyj75o5xCwQcwlEhAEPfex8LaoU5G5UAWROSe4GhSp2ejK6gsbU1mHG_Ahcuwvh6-ktA",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJOe4gEA4tK4gRtBYAK8kcV0U",
+         "plus_code" : {
+            "compound_code" : "QHJP+82 Toronto, Ontario, Canada",
+            "global_code" : "87M2QHJP+82"
+         },
+         "rating" : 5,
+         "reference" : "ChIJOe4gEA4tK4gRtBYAK8kcV0U",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.780942,
+               "lng" : -79.414829
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.78220838029149,
+                  "lng" : -79.4136595197085
+               },
+               "southwest" : {
+                  "lat" : 43.7795104197085,
+                  "lng" : -79.41635748029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "9d8de0041bf03be505cc2a1d862845f0f1158acc",
+         "name" : "Finch Station",
+         "place_id" : "ChIJmWyCEA4tK4gR0CwXA3CYKXE",
+         "plus_code" : {
+            "compound_code" : "QHJP+93 Toronto, Ontario, Canada",
+            "global_code" : "87M2QHJP+93"
+         },
+         "rating" : 2,
+         "reference" : "ChIJmWyCEA4tK4gR0CwXA3CYKXE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.780619,
+               "lng" : -79.414857
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7819460802915,
+                  "lng" : -79.41362881970849
+               },
+               "southwest" : {
+                  "lat" : 43.7792481197085,
+                  "lng" : -79.41632678029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "4ec415dd3abf6a5ab167f2ba6cce2ec74310c386",
+         "name" : "Finch Station",
+         "place_id" : "ChIJH_d4Dw4tK4gRop2hO2PKEQ8",
+         "plus_code" : {
+            "compound_code" : "QHJP+63 Toronto, Ontario, Canada",
+            "global_code" : "87M2QHJP+63"
+         },
+         "reference" : "ChIJH_d4Dw4tK4gRop2hO2PKEQ8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.78073,
+               "lng" : -79.41474599999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.78204228029151,
+                  "lng" : -79.41358801970848
+               },
+               "southwest" : {
+                  "lat" : 43.77934431970851,
+                  "lng" : -79.41628598029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "92ea0dbbb2aa772b6e2d6fa381dc970e653a0586",
+         "name" : "Finch Station",
+         "place_id" : "ChIJ_2ZIBQ4tK4gRVRUfuTsZiEI",
+         "plus_code" : {
+            "compound_code" : "QHJP+74 Toronto, Ontario, Canada",
+            "global_code" : "87M2QHJP+74"
+         },
+         "reference" : "ChIJ_2ZIBQ4tK4gRVRUfuTsZiEI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.78048700000001,
+               "lng" : -79.41481
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7818139802915,
+                  "lng" : -79.41358231970851
+               },
+               "southwest" : {
+                  "lat" : 43.7791160197085,
+                  "lng" : -79.41628028029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "9bd6df40940155373e0621fd7e41e002d7f9f57e",
+         "name" : "Finch Station",
+         "place_id" : "ChIJB8IgBg4tK4gRnKcvvUAyuDI",
+         "plus_code" : {
+            "compound_code" : "QHJP+53 Toronto, Ontario, Canada",
+            "global_code" : "87M2QHJP+53"
+         },
+         "reference" : "ChIJB8IgBg4tK4gRnKcvvUAyuDI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.780468,
+               "lng" : -79.41463499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.78178063029149,
+                  "lng" : -79.41348651970848
+               },
+               "southwest" : {
+                  "lat" : 43.7790826697085,
+                  "lng" : -79.41618448029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "23b27185293285d68f38a14091323ad79a0d7578",
+         "name" : "Finch Station",
+         "place_id" : "ChIJQbArBA4tK4gRplUjOQYMgg4",
+         "plus_code" : {
+            "compound_code" : "QHJP+54 Toronto, Ontario, Canada",
+            "global_code" : "87M2QHJP+54"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJQbArBA4tK4gRplUjOQYMgg4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Canada"
+      }
+   ],
+   "status" : "OK"
+}

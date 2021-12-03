@@ -1,0 +1,755 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQECwIAAMDBTCFh9JstaNHR6GJPZZ7hxoSueQ7LI9V_MgbZ8ZG4Vk_D2RutJWmJ-dIi_lPHIaoXHAXCsKJh8mu96ZEEXR1ECoi6DNcljZ3mEeelrlVe4gErMx_m8OJZcle7VYsYAuHHpRPEgN1LSWzduIdEeVBd5XFVAQqivuuABpF7pBH-T2lP44fN08ReUns22Cga7Ahdx0vba7OA751Q1b2VoYRyA5DPlr5wtBWAElKZNr7wpJzpXVeUPQ_gS486_JsszhAj6LSvpPevf03KLQa6EZftejPuBDIL3dIe02ARol8j19f1q908eTG59PCnNn8XgXy5QBOf-mGbvRGAPnLK39dHRMVF2zTVcjFrCjimf16g2HvyPb_FsRVKuFeCN-bHdHqPsKqA_ZIKu_ujGunLlrp0entlqllXOd5BoSnkVc4jBXL4qaLtjm3hsFiOoJfE3oHw_NEpdQfGEXnwyplh1-43vs9FJXXjAY5fFu0hnFvipgdIjs02-kab0_ogxR4qkMnVWDlrFsYeHryNGNRxqSQTs64Zdxby-_Mw24UgnShB0z480rtlXohoMwo1VFU1s2bT6aHxZiH8kEZhZXopp3iefZ-auIA29Xpx3yRlCJdMrZCROZZA1s-nykycX-DzXVk1n0NSrY7zt-DnAnc-wl1VMPnbvBwb8e2GAyxaCMQCoVXZIKvwRGj0Ec1IifEUKBIQMWcQrXqUJ78XojVJTvv0GhoUxLodSajM7UiNO1IuVOoco8aHyqk",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.746051,
+               "lng" : -79.27380599999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7473554302915,
+                  "lng" : -79.2724390697085
+               },
+               "southwest" : {
+                  "lat" : 43.7446574697085,
+                  "lng" : -79.2751370302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "c80897357b6d0bea37a0138d85cdf74f054b3d9d",
+         "name" : "Kennedy Rd At Radnor Ave",
+         "place_id" : "ChIJdcED0ePR1IkR_ArDDb8W2Ok",
+         "plus_code" : {
+            "compound_code" : "PPWG+CF Toronto, Ontario, Canada",
+            "global_code" : "87M2PPWG+CF"
+         },
+         "rating" : 4,
+         "reference" : "ChIJdcED0ePR1IkR_ArDDb8W2Ok",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.745858,
+               "lng" : -79.273437
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.74719333029149,
+                  "lng" : -79.27215291970849
+               },
+               "southwest" : {
+                  "lat" : 43.7444953697085,
+                  "lng" : -79.27485088029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "c70718803c9658bdce21d66682aa4a53a167e402",
+         "name" : "Kennedy Rd At Radnor Ave",
+         "place_id" : "ChIJbZ_Q1ePR1IkRJySEvgAAlgc",
+         "plus_code" : {
+            "compound_code" : "PPWG+8J Toronto, Ontario, Canada",
+            "global_code" : "87M2PPWG+8J"
+         },
+         "rating" : 5,
+         "reference" : "ChIJbZ_Q1ePR1IkRJySEvgAAlgc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.74815299999999,
+               "lng" : -79.27439799999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7494906302915,
+                  "lng" : -79.27310331970848
+               },
+               "southwest" : {
+                  "lat" : 43.7467926697085,
+                  "lng" : -79.2758012802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "7f5e0c2ce437df57c7ca481ce288cf425c3fffb6",
+         "name" : "Kennedy Rd At Flora Dr",
+         "place_id" : "ChIJ2WUlCuTR1IkR7IJDIw1nNTY",
+         "plus_code" : {
+            "compound_code" : "PPXG+76 Toronto, Ontario, Canada",
+            "global_code" : "87M2PPXG+76"
+         },
+         "reference" : "ChIJ2WUlCuTR1IkR7IJDIw1nNTY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.748504,
+               "lng" : -79.27477600000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7498635802915,
+                  "lng" : -79.27336791970851
+               },
+               "southwest" : {
+                  "lat" : 43.7471656197085,
+                  "lng" : -79.27606588029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "7cf701689fb714df65b22f8dbca040583839faf5",
+         "name" : "Kennedy Rd At Flora Dr",
+         "place_id" : "ChIJnRwkc-TR1IkRiGBlHLL-FoA",
+         "plus_code" : {
+            "compound_code" : "PPXG+C3 Toronto, Ontario, Canada",
+            "global_code" : "87M2PPXG+C3"
+         },
+         "reference" : "ChIJnRwkc-TR1IkRiGBlHLL-FoA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.74878399999999,
+               "lng" : -79.277963
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7501329802915,
+                  "lng" : -79.2766140197085
+               },
+               "southwest" : {
+                  "lat" : 43.7474350197085,
+                  "lng" : -79.27931198029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "130b3ce8e7a5453cdbfb2e3ac958ad9f95f54701",
+         "name" : "2239 Lawrence Ave East",
+         "place_id" : "ChIJAWdopOTR1IkR7YUtbs0gnxY",
+         "plus_code" : {
+            "compound_code" : "PPXC+GR Toronto, Ontario, Canada",
+            "global_code" : "87M2PPXC+GR"
+         },
+         "reference" : "ChIJAWdopOTR1IkR7YUtbs0gnxY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.74871,
+               "lng" : -79.27950799999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.75005898029149,
+                  "lng" : -79.27815901970848
+               },
+               "southwest" : {
+                  "lat" : 43.7473610197085,
+                  "lng" : -79.2808569802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "5ba822ef7626cda9cb92711cd272209c70339066",
+         "name" : "2216 Lawrence Ave East",
+         "place_id" : "ChIJC0gFV_vR1IkRZyuRAZ3Bev8",
+         "plus_code" : {
+            "compound_code" : "PPXC+F5 Toronto, Ontario, Canada",
+            "global_code" : "87M2PPXC+F5"
+         },
+         "reference" : "ChIJC0gFV_vR1IkRZyuRAZ3Bev8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.742222,
+               "lng" : -79.272222
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.74357098029149,
+                  "lng" : -79.27087301970849
+               },
+               "southwest" : {
+                  "lat" : 43.74087301970849,
+                  "lng" : -79.27357098029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "d9a02a7e0faa7caed37b890695eeebc29e04aab1",
+         "name" : "Kennedy Rd At Ranstone Gardens",
+         "place_id" : "ChIJu5qpFh7O1IkRKqKeiITLyqQ",
+         "plus_code" : {
+            "compound_code" : "PPRH+V4 Toronto, Ontario, Canada",
+            "global_code" : "87M2PPRH+V4"
+         },
+         "reference" : "ChIJu5qpFh7O1IkRKqKeiITLyqQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.748124,
+               "lng" : -79.281211
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7494074802915,
+                  "lng" : -79.27983606970849
+               },
+               "southwest" : {
+                  "lat" : 43.7467095197085,
+                  "lng" : -79.2825340302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "b00f9e7ac4f35f35d7933e2189bdf34e9b63a6fe",
+         "name" : "Lawrence Ave East At Canlish Rd East Side",
+         "place_id" : "ChIJE3h5hfzR1IkRzo_Y8HX7Tao",
+         "plus_code" : {
+            "compound_code" : "PPX9+6G Toronto, Ontario, Canada",
+            "global_code" : "87M2PPX9+6G"
+         },
+         "reference" : "ChIJE3h5hfzR1IkRzo_Y8HX7Tao",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.74928899999999,
+               "lng" : -79.27470699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.75063078029149,
+                  "lng" : -79.27340716970849
+               },
+               "southwest" : {
+                  "lat" : 43.7479328197085,
+                  "lng" : -79.2761051302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "a4994399296058e17d2d923dc13da4197a849f14",
+         "name" : "Kennedy Rd At Lawrence Ave East",
+         "photos" : [
+            {
+               "height" : 3216,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\"\u003eAnthony Bernstein\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvOwW9QPljgzPQI4vG4FQzaLUMnldu8kFa_WAnB7obVlmOtHW1LkXFAtrC4kH4h9gjcArjA4-jUqW2rGLayRei456aHaxoyoCywUAL_vfVL-LhZOv-88hTuh0N3npIhbDEhDB22eoXt0ZmK4OSZxBBrspGhTPX58rrho04OTSeCS_435_Kzg9jA",
+               "width" : 4288
+            }
+         ],
+         "place_id" : "ChIJYUD4P-TR1IkRidb_UUE4V2Q",
+         "plus_code" : {
+            "compound_code" : "PPXG+P4 Toronto, Ontario, Canada",
+            "global_code" : "87M2PPXG+P4"
+         },
+         "reference" : "ChIJYUD4P-TR1IkRidb_UUE4V2Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.749501,
+               "lng" : -79.275628
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7508338302915,
+                  "lng" : -79.2742727697085
+               },
+               "southwest" : {
+                  "lat" : 43.7481358697085,
+                  "lng" : -79.27697073029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "33c3db8377c132a292abd42c30fcbb3985315537",
+         "name" : "Lawrence Ave East At Kennedy Rd West Side",
+         "photos" : [
+            {
+               "height" : 3216,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\"\u003eAnthony Bernstein\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyRmwOPcF-3-zVSBD7QF24dsXhXSAp_Ln6ycRU15Pd27l8nzwg87NdaMtxuwQxbM4icBrQcAamMtV_XffOn9mg0kBvU9pMOFfiN4-kPGfWb8FYyJy3CPkrErzbB4XWf2uEhBndNtIWIHf0_URSFKjI7sZGhQLOsfL0Bl5wLtGVMnr1R-KQjyHiA",
+               "width" : 4288
+            }
+         ],
+         "place_id" : "ChIJa_9SXOTR1IkRqK52htlrtPE",
+         "plus_code" : {
+            "compound_code" : "PPXF+RP Toronto, Ontario, Canada",
+            "global_code" : "87M2PPXF+RP"
+         },
+         "reference" : "ChIJa_9SXOTR1IkRqK52htlrtPE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.74206599999999,
+               "lng" : -79.271884
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7434015802915,
+                  "lng" : -79.2705968697085
+               },
+               "southwest" : {
+                  "lat" : 43.7407036197085,
+                  "lng" : -79.2732948302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "19bd016f3e28e9552602cb5729707a20981615a1",
+         "name" : "Kennedy Rd At Ranstone Gardens",
+         "place_id" : "ChIJt1goPh7O1IkRi6ypHCaPeZc",
+         "plus_code" : {
+            "compound_code" : "PPRH+R6 Toronto, Ontario, Canada",
+            "global_code" : "87M2PPRH+R6"
+         },
+         "reference" : "ChIJt1goPh7O1IkRi6ypHCaPeZc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.749499,
+               "lng" : -79.27429099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.75088488029149,
+                  "lng" : -79.27295691970849
+               },
+               "southwest" : {
+                  "lat" : 43.74818691970849,
+                  "lng" : -79.2756548802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "7d5a6b2e6a9229b260ababb5508bda4f55663f2f",
+         "name" : "Lawrence Ave East At Kennedy Rd East Side",
+         "photos" : [
+            {
+               "height" : 599,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116448320615989925333/photos\"\u003eKiMAGIC KiMAGIC\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAByojrIZlLBWul7dBf5Fpao6G6DzPY8uYcTMOzsGjo2RjzqIQvJuGrp5TVRwge7tdBn-ljWWJ-t_YSMG3D4EhrbwC62tkrgh8YXPGxYJLlIgjsXZma_MxAz9ZeJ9Ql51gEhADVQBYpk5VBlQTcZ5nzKxrGhS5_j1MShZdLRdkJlm5139GN_jJQg",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJdekLPOTR1IkRaHgl948nPUs",
+         "plus_code" : {
+            "compound_code" : "PPXG+Q7 Toronto, Ontario, Canada",
+            "global_code" : "87M2PPXG+Q7"
+         },
+         "reference" : "ChIJdekLPOTR1IkRaHgl948nPUs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.749714,
+               "lng" : -79.275171
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7510673802915,
+                  "lng" : -79.27379346970851
+               },
+               "southwest" : {
+                  "lat" : 43.7483694197085,
+                  "lng" : -79.27649143029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "838badf2d3d5de7eebbbc3f67ac3f3563e1437c3",
+         "name" : "Kennedy Rd At Lawrence Ave East",
+         "photos" : [
+            {
+               "height" : 3216,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\"\u003eAnthony Bernstein\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1GwPzQz7MTcK6i2ZvRHosQlt20r6jK861cTkR02uUrqp5mAgvv4j1RNTjZwvyE0i-XwRJY3T_-wP_q3vOKXJGhoCjJAp-jROWJNWkr8BfteFd2kTy-MJHzaIIYa3PW7rEhBJ3_sAWy5uDRjtQpu4qoleGhTWEJOcOqyMLqLRNaBsRCpTq76O3Q",
+               "width" : 4288
+            }
+         ],
+         "place_id" : "ChIJpcNIROTR1IkRiORJYQ8l8OE",
+         "plus_code" : {
+            "compound_code" : "PPXF+VW Toronto, Ontario, Canada",
+            "global_code" : "87M2PPXF+VW"
+         },
+         "reference" : "ChIJpcNIROTR1IkRiORJYQ8l8OE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.74824,
+               "lng" : -79.28185599999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7495889802915,
+                  "lng" : -79.28050701970848
+               },
+               "southwest" : {
+                  "lat" : 43.7468910197085,
+                  "lng" : -79.2832049802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "b5aa7494af043f2d6b26da905af7b26b3e4b47c5",
+         "name" : "Lawrence Ave East At Canlish Rd West Side",
+         "place_id" : "ChIJBwMVffzR1IkRV2FbFBwuOGs",
+         "plus_code" : {
+            "compound_code" : "PPX9+77 Toronto, Ontario, Canada",
+            "global_code" : "87M2PPX9+77"
+         },
+         "reference" : "ChIJBwMVffzR1IkRV2FbFBwuOGs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.743946,
+               "lng" : -79.28329599999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.74528353029149,
+                  "lng" : -79.28200171970849
+               },
+               "southwest" : {
+                  "lat" : 43.7425855697085,
+                  "lng" : -79.2846996802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "253d8922fd0e5aac4f6b850c4dc7e46b989481a9",
+         "name" : "Birchmount Rd At Modern Ave",
+         "place_id" : "ChIJmx4SCwLO1IkRo2oY3c0wulg",
+         "plus_code" : {
+            "compound_code" : "PPV8+HM Toronto, Ontario, Canada",
+            "global_code" : "87M2PPV8+HM"
+         },
+         "reference" : "ChIJmx4SCwLO1IkRo2oY3c0wulg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.744278,
+               "lng" : -79.28365099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7456369302915,
+                  "lng" : -79.28225431970849
+               },
+               "southwest" : {
+                  "lat" : 43.7429389697085,
+                  "lng" : -79.28495228029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "2f77d11ce7fc56e959762cd74810ff01623667f8",
+         "name" : "Birchmount Rd At Modern Rd",
+         "place_id" : "ChIJ0_tF9v3R1IkRVk7WXrDv2Ik",
+         "plus_code" : {
+            "compound_code" : "PPV8+PG Toronto, Ontario, Canada",
+            "global_code" : "87M2PPV8+PG"
+         },
+         "reference" : "ChIJ0_tF9v3R1IkRVk7WXrDv2Ik",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.742066,
+               "lng" : -79.28254299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7434057802915,
+                  "lng" : -79.28123881970849
+               },
+               "southwest" : {
+                  "lat" : 43.7407078197085,
+                  "lng" : -79.28393678029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "d986941d57807cb0e39e8384575e927e59d6d580",
+         "name" : "Birchmount Rd At Flora Dr",
+         "place_id" : "ChIJbY4UTgLO1IkRwDLa_MHOzVA",
+         "plus_code" : {
+            "compound_code" : "PPR8+RX Toronto, Ontario, Canada",
+            "global_code" : "87M2PPR8+RX"
+         },
+         "rating" : 4,
+         "reference" : "ChIJbY4UTgLO1IkRwDLa_MHOzVA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.742171,
+               "lng" : -79.28278299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.74353008029151,
+                  "lng" : -79.28138761970848
+               },
+               "southwest" : {
+                  "lat" : 43.74083211970851,
+                  "lng" : -79.28408558029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "4f723ac7bd8ae870d88ecbe234d87b34dc62a161",
+         "name" : "Birchmount Rd At Flora Dr",
+         "place_id" : "ChIJWU3WTgLO1IkRNl3qf-FxKbI",
+         "plus_code" : {
+            "compound_code" : "PPR8+VV Toronto, Ontario, Canada",
+            "global_code" : "87M2PPR8+VV"
+         },
+         "rating" : 5,
+         "reference" : "ChIJWU3WTgLO1IkRNl3qf-FxKbI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.740871,
+               "lng" : -79.282274
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.74223068029151,
+                  "lng" : -79.28087491970849
+               },
+               "southwest" : {
+                  "lat" : 43.73953271970851,
+                  "lng" : -79.2835728802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "b18558fc0fb5a3922650bf08d1239200bc5f964c",
+         "name" : "Birchmount Rd At Crouse Rd",
+         "place_id" : "ChIJP4NgpAPO1IkRD5UED1iU9es",
+         "plus_code" : {
+            "compound_code" : "PPR9+83 Toronto, Ontario, Canada",
+            "global_code" : "87M2PPR9+83"
+         },
+         "reference" : "ChIJP4NgpAPO1IkRD5UED1iU9es",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.74066699999999,
+               "lng" : -79.28196699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.74200473029149,
+                  "lng" : -79.28067056970849
+               },
+               "southwest" : {
+                  "lat" : 43.73930676970849,
+                  "lng" : -79.28336853029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "9cd266010b8ce56ecb8d8c668c4b78bde2b9b2b9",
+         "name" : "Birchmount Rd At Crouse Rd",
+         "place_id" : "ChIJpwAboQPO1IkRycpQSw0HF9U",
+         "plus_code" : {
+            "compound_code" : "PPR9+76 Toronto, Ontario, Canada",
+            "global_code" : "87M2PPR9+76"
+         },
+         "reference" : "ChIJpwAboQPO1IkRycpQSw0HF9U",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      }
+   ],
+   "status" : "OK"
+}

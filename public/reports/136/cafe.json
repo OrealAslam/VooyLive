@@ -1,0 +1,927 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQEAgIAAADndP5WeVweoUsjHNOM27ztaeKFYvMyxpHxGfQd3z61wTw1k_jM1qDY3ZSEsrjLsymb0bZbsanqs2gZPyDOT7S3DGODJCwAPynjpR4Hdcz_4sz4fzwglgjB-VANADbrmJQ9PEro3CVaDXopP9Fjo--LNUncqzx7uPUZGMc9zTogRT6zIOYsU3cev1SMNJEpvo2qwgLhwuOGQeLXXdT7sAllbc-6V0vzpw91NsESKGTwXdJNwF_K7W45yWxHPOPmsoJ5yKYWbLon9AwOf5WtnPPVlUzM5sg0kTc5kvU2UNxa2qjY_lDmP1ZlWtF5Y_6BNfTlN9JapUfMkdq4dWnWAQ0B2L9eYLwHAxg2jX4uOZMwoomlEm4HbHIfF7kIOocWkZ-m53RiRG4J2Vh-CGMb1PI7U0RJP8sj5wTcT6gBL7RwrTi_Q8qagCfOdX96idyZE15JHIgHEE3U4RNUOOTrN6WQO3bOTPtNny3gQghbdgDFokhL46rahFinUwWFyoiJSeDJsqmwWnhFz3zvO-sM-hymohJ_t3nNOxdelpIzVed3hn2Pmecsl4xMC2llwIwpZmp9wuZhbnLxx09nNdBoaSdsHdTJP_MsNjpNIMrVTKrB1ak97JXfKJavDT_Eahk-tsbWeqHrAb2q-GUKCcQvDE4g-X7vmW03X7zHNO4tm7tQfUAlwE6_CRMk1aAS9HXJpRIQurSdZFaQdhBxEUZNhr1M8BoUBPTGxXgtiN4eq4jXQJmdb5G1eLg",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7715682,
+               "lng" : -79.3203922
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7728786802915,
+                  "lng" : -79.31902241970849
+               },
+               "southwest" : {
+                  "lat" : 43.7701807197085,
+                  "lng" : -79.32172038029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "330a9acc03f1593c1e93b0187cc9a4a07104e99e",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3672,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101423430390164909239/photos\"\u003eBen Sanders\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2vjfSFjkmtftFJHkQ02Xu0SsqtncsjN8hJWETU47AGOlSBXJpUrMpWDjQkNJ_zhEhCfzM1IVmMBOCLkmPaEnEr3_Sa_ShLmKn3IsCQzkWdpw-y7yA2W2zDQO1eM4j_9sEhABejvpeMzjqGgIqeUFqjDjGhQ3Mp0_kKvbf22sE62ZkzUeQRB7Tg",
+               "width" : 4896
+            }
+         ],
+         "place_id" : "ChIJizWsh0TS1IkRPqFEF9yzE9k",
+         "plus_code" : {
+            "compound_code" : "QMCH+JR Toronto, Ontario, Canada",
+            "global_code" : "87M2QMCH+JR"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJizWsh0TS1IkRPqFEF9yzE9k",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 655,
+         "vicinity" : "2501 Victoria Park Avenue, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7755898,
+               "lng" : -79.31783779999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7770218302915,
+                  "lng" : -79.31621271970849
+               },
+               "southwest" : {
+                  "lat" : 43.7743238697085,
+                  "lng" : -79.31891068029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "5103e5a6b1ab5f8d0624543d837be774fce53773",
+         "name" : "Le Cafe Michi",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110649663906955649998/photos\"\u003eWinnie Pao\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2uIzNiDFtMT7MA40cmlDJcI9BSqEHWPLZTF0XM1KCa8ci4oT0ryFLIzwGaTNOMRAYivE8cCHgbGmaNhZejJlURuRgaJK9FM6h9ysFiApkkxPtDydYVx-_GRy5nrWvnszEhDkKgwqs0wXoHNY6GqbCsofGhSUsApO5jyGrbEgYDDHNuD81jxx2w",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJVbFVp0jS1IkR4cHsBOFtmtw",
+         "plus_code" : {
+            "compound_code" : "QMGJ+6V Toronto, Ontario, Canada",
+            "global_code" : "87M2QMGJ+6V"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJVbFVp0jS1IkR4cHsBOFtmtw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 324,
+         "vicinity" : "1802 Pharmacy Avenue, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7838083,
+               "lng" : -79.293351
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7852294302915,
+                  "lng" : -79.29215546970849
+               },
+               "southwest" : {
+                  "lat" : 43.7825314697085,
+                  "lng" : -79.2948534302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "f892ff6052e07f49591d06f68e18100f779ecc92",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108535864130792812285/photos\"\u003eK Lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAh20y6I7hAK7ebU12OFNiHQZ_e-HRynhrin7UflakVi_Wbtgjw1XbVslajFhj8BJmxl_-oaclMT8IpP3qmgezPaW--NUT90law-e8wFsKKrqU34XLxWAVgyEZwUIfChUoEhCxqQAdADd-OUeik3ruIi3RGhRfZk8NczioaP0lPzBvznLCLH292Q",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJRw6a2CrS1IkR6vxmdL4Ycng",
+         "plus_code" : {
+            "compound_code" : "QPM4+GM Toronto, Ontario, Canada",
+            "global_code" : "87M2QPM4+GM"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJRw6a2CrS1IkR6vxmdL4Ycng",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 87,
+         "vicinity" : "3850 Sheppard Avenue East, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.796375,
+               "lng" : -79.318681
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.79777573029151,
+                  "lng" : -79.31716016970849
+               },
+               "southwest" : {
+                  "lat" : 43.79507776970851,
+                  "lng" : -79.31985813029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9a76a04d3e2117000d9b5c162c62062b1e4010c2",
+         "name" : "Eggsmart",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110123134542227265120/photos\"\u003eRichard Tung\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1u-HeNYudNFEBnzakFa0vz0QLTNTnyivLVxF2NY62ayl3l4UOMk_OSaavn37JDHJWUFFj_tRBMIwM4yHL2oD0G5V39N7h55is4CMAXUB7sFAV_PEynR2sz4KI5ygA4-FEhDzH2645zNAD4dDJ48LoKn2GhRAMp7aHNoF2293I4dT0-rPEPlRZQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJVe8Oo7nT1IkRXXyFfZdDmgY",
+         "plus_code" : {
+            "compound_code" : "QMWJ+HG Toronto, Ontario, Canada",
+            "global_code" : "87M2QMWJ+HG"
+         },
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "ChIJVe8Oo7nT1IkRXXyFfZdDmgY",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 165,
+         "vicinity" : "West of, Warden Avenue, 3268 Finch Avenue East, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7780451,
+               "lng" : -79.30886289999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7794227802915,
+                  "lng" : -79.3074170197085
+               },
+               "southwest" : {
+                  "lat" : 43.77672481970851,
+                  "lng" : -79.3101149802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4826ea450c8e33943d1aa32f3381d90cfa358ac5",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115804442842114515008/photos\"\u003eTony Dixon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOiEf8Uje8G0L4uA4RT5EgIKzwyEAjCcqAa8ollDX8y6nrvMHkdoHyGDw0pOSwFCa20nn1LW47yOUnKfQKhalGfqTy1qnpRAgYy7Z_8-O7OiApd2CfxmAOap_0uzUD5NZEhDz4Wxi6Kweb6aKmkiqYr2bGhSOj6vQAfv6lZzpRmhQki4djQs4Ew",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJi_ej7TbS1IkRFgeZ5AYqcjo",
+         "plus_code" : {
+            "compound_code" : "QMHR+6F Toronto, Ontario, Canada",
+            "global_code" : "87M2QMHR+6F"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJi_ej7TbS1IkRFgeZ5AYqcjo",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 1132,
+         "vicinity" : "3305 Sheppard Avenue East, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.79886459999999,
+               "lng" : -79.3190565
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.80012068029149,
+                  "lng" : -79.31772276970848
+               },
+               "southwest" : {
+                  "lat" : 43.7974227197085,
+                  "lng" : -79.32042073029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5700ca776d903e7282688fa49d363408aafc6016",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117916763072389873873/photos\"\u003eGreg Keane\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKlkpFV7UaP_KPiPK9IS38k6kDJuWnxaQxWBmP5uZjkmZNNErVf_DkN66_lo_szw5ZSNekqd7d32Ak8aDS78ybqeDRyGeYzdwe3cPlwSB9J9-m_V1JKWOIgXaFjYIrKDLEhALyv1xh0_vVhjuRd2eD_HkGhRW96LUd5S6kCkd_31IZqeOVdq6tA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJn7Iw6bvT1IkReDkMsXeZCDI",
+         "plus_code" : {
+            "compound_code" : "QMXJ+G9 Toronto, Ontario, Canada",
+            "global_code" : "87M2QMXJ+G9"
+         },
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "ChIJn7Iw6bvT1IkReDkMsXeZCDI",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 181,
+         "vicinity" : "2900 Warden Avenue, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7852699,
+               "lng" : -79.3099862
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7866462302915,
+                  "lng" : -79.30852886970848
+               },
+               "southwest" : {
+                  "lat" : 43.7839482697085,
+                  "lng" : -79.3112268302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "455e6df0f3cfc7baa8b889856c0d52a61e8ad73f",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 950,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110440600942274179175/photos\"\u003eTim Hortons\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-JSlK_G_eJ6p9VHSUHpuFTxUSN47kV_fOpZg2jxrdtovEgGPSQNKjYfuk3iewXRva2f9asWpVHh7NFEw5HMoK8Fctolz9J1aJZuauaOmUYj6qSbnu5shQ5RMubdEJPY1EhAuON7Q9JTZ9teiUrLAl6FuGhRH_MyeoCqTSRM9utzGk2pGD_K1Og",
+               "width" : 950
+            }
+         ],
+         "place_id" : "ChIJn5Di37vT1IkRwsPBCFsraBE",
+         "plus_code" : {
+            "compound_code" : "QMPR+42 Toronto, Ontario, Canada",
+            "global_code" : "87M2QMPR+42"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJn5Di37vT1IkRwsPBCFsraBE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 555,
+         "vicinity" : "2363 Warden Avenue, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7943061,
+               "lng" : -79.3300047
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7955546302915,
+                  "lng" : -79.3286144197085
+               },
+               "southwest" : {
+                  "lat" : 43.79285666970851,
+                  "lng" : -79.33131238029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ccead797099aaf61c74322c4fdeeb3e9d35aa162",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1824,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100901086708116663062/photos\"\u003esanata soon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAA8NzQf-FPT9b5cJjrD_PWevbrxQ-6KVZacZk-Jn-hxTq3R0i7k13VkjB5TY2CSWpLjc6sQL5-KAPi00E1a9lOORp7z4REPu9k4SODLExhkiWUNGfk2fFIay0wBN6uQu3sEhBdtwicukpwcw9ZDFD7_E1jGhQzBRJ-P5y3AxgrFx5sahx8twNN9A",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJf6aOZsfT1IkRIKETv79Sb5Y",
+         "plus_code" : {
+            "compound_code" : "QMV9+PX Toronto, Ontario, Canada",
+            "global_code" : "87M2QMV9+PX"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJf6aOZsfT1IkRIKETv79Sb5Y",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 867,
+         "vicinity" : "2936 Finch Avenue East, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.798281,
+               "lng" : -79.3183172
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7995705802915,
+                  "lng" : -79.31720176970849
+               },
+               "southwest" : {
+                  "lat" : 43.7968726197085,
+                  "lng" : -79.3198997302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "d81c08883948f678085f656ac1a1178a5d4e76f3",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110123134542227265120/photos\"\u003eRichard Tung\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPE2yvThkTRc3S0TU5E0zEmPE-yMlzp7Wgdwr8LUWKomDVgF_H7Abdc1YoAbgXe7pKAB-7L1_X0mgMZmt4j9ES-zsRWOPuYrlAylgKxC7y6fzPj309UzFf8JiM1sp9ARkEhCWMAeMLRDKjvf0NjTqZPkjGhS9vVb90EcHiPeWbnqZPZlaBEKmmA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJn5Di37vT1IkR2L2KgbNWLOE",
+         "plus_code" : {
+            "compound_code" : "QMXJ+8M Toronto, Ontario, Canada",
+            "global_code" : "87M2QMXJ+8M"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJn5Di37vT1IkR2L2KgbNWLOE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 70,
+         "vicinity" : "2900 Warden Avenue Unit 149, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7815393,
+               "lng" : -79.29890739999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.78281758029149,
+                  "lng" : -79.29753801970848
+               },
+               "southwest" : {
+                  "lat" : 43.78011961970849,
+                  "lng" : -79.3002359802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "fcba162d271a986f43559ed74b7048f34426addc",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101732592178737163156/photos\"\u003egopi menon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8fhx2lilGNKITYG0cr7b2ORVDeFpMPNBIdpiBUIeqDXhHxN-FrPhA0gQ-_yBayjTaID1mZm8SU8SJyUYc08i-txkysJ0-aQ9wAfUaU0XQdEizJUTUzkFfaUUeC7kTxSEEhBrUpo8AJOBCnZgrqFu9s54GhSIM8952jZ390enOwmN_luCvIOkdQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJrVLjAC3S1IkR0ufum-zl4Bg",
+         "plus_code" : {
+            "compound_code" : "QPJ2+JC Toronto, Ontario, Canada",
+            "global_code" : "87M2QPJ2+JC"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJrVLjAC3S1IkR0ufum-zl4Bg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 158,
+         "vicinity" : "3600 Sheppard Avenue East, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.793453,
+               "lng" : -79.32459799999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7946935802915,
+                  "lng" : -79.32356706970849
+               },
+               "southwest" : {
+                  "lat" : 43.7919956197085,
+                  "lng" : -79.32626503029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "374f88b4db46360166755e0f35a5e44414875cec",
+         "name" : "OK MART CONVENIENCE",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100387429236747541599/photos\"\u003eOK MART CONVENIENCE\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAJdRaiiDu7AZPUXGEmCNfbSh994Po7QCkZhBk9xpaOj6tROADo0xp67MKTFH1azlBQH5EvQR1Pw8ukQAN7TKNpzJ0DhllHBySlpeGzjRDBfrgVzUcmpwz0TAYBKafXcLrEhCwS_KIKLe52WykUKpS7rGZGhQp44b-l4mL_6mPnFtroGFbQ5-yzg",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJdauIPhnT1IkRYOFju-OwFzs",
+         "plus_code" : {
+            "compound_code" : "QMVG+95 Toronto, Ontario, Canada",
+            "global_code" : "87M2QMVG+95"
+         },
+         "rating" : 5,
+         "reference" : "ChIJdauIPhnT1IkRYOFju-OwFzs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "cafe",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "2529 Pharmacy Avenue, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7721872,
+               "lng" : -79.32118579999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7734710302915,
+                  "lng" : -79.3198324197085
+               },
+               "southwest" : {
+                  "lat" : 43.7707730697085,
+                  "lng" : -79.32253038029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "85f789754417144b07055bd6e8f915bf8c63fbd4",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111608076243397064994/photos\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAE5RZ1I4WRybyY1BW7IxxFBdK09raPvU7wStnOc4Uguh_qhmw_WGQhTeVxoBkVZnDc-_oxwTvD9GPPGA9zVoOHK_g94Rjwc3wlV53lTinnyNDVt7AnmStm-wZLOLM_Ka9EhCTBdGAL7Xszks8C79yzESMGhR7_5J-h_5a-JpXjT0OyGyb6MnhNA",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJxZBCjUTS1IkR2H34LzKRi9M",
+         "plus_code" : {
+            "compound_code" : "QMCH+VG Toronto, Ontario, Canada",
+            "global_code" : "87M2QMCH+VG"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJxZBCjUTS1IkR2H34LzKRi9M",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 584,
+         "vicinity" : "2555 Victoria Park Ave Victoria Commons, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7929413,
+               "lng" : -79.3303378
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7942902802915,
+                  "lng" : -79.32898881970848
+               },
+               "southwest" : {
+                  "lat" : 43.7915923197085,
+                  "lng" : -79.33168678029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "ee1118b1d5a3e7ff524f3d549afce77a7d0e78f8",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2248,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110411481897237002856/photos\"\u003eO. Strictest\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9z1zeVo6UOmGDIdAPxrWhF-XpoCr0JyMj-Lls2GGbumxembsbo5Vml0f8S30QumtL-kkgS0e0sc1-QiYh4gLQ4sNDXCzlOuAhLFpVVxB7NzcqwUp2-8BIzRo3n0ab60TEhAQoNMXGtyXxPx9nGMHfRnYGhSzdKuH87WctV-eiqpK1vxNrkbT8g",
+               "width" : 4896
+            }
+         ],
+         "place_id" : "ChIJ-XNnO6nT1IkR1-DTAQfTjDk",
+         "plus_code" : {
+            "compound_code" : "QMV9+5V Toronto, Ontario, Canada",
+            "global_code" : "87M2QMV9+5V"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJ-XNnO6nT1IkR1-DTAQfTjDk",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 51,
+         "vicinity" : "3101 Victoria Park Avenue, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7839742,
+               "lng" : -79.292734
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7852018802915,
+                  "lng" : -79.29137581970849
+               },
+               "southwest" : {
+                  "lat" : 43.7825039197085,
+                  "lng" : -79.2940737802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "167ba23f05f8d3fb726ad9154b7beaea51946201",
+         "name" : "real fruit bubble tea",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113927410498063656970/photos\"\u003evipal patel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzjjpW3jCDhGnmHnEryuxbJrRMHKtCR2miLldXnSavrCZ-IRKtXOW-LZ1t3VkrtMUtq1ExOIZIYBXSNh3eQ01j_kMuUkokJ3S0TTNaI0Is-N8biQhrDL-1QieQXt4AV18EhBKxuER6Kz6rE5vA5TNdpUzGhSwPEd_qbGe2AZOj9FMedm3tLW1lA",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJNwecIdXT1IkR4558KCtnUIA",
+         "plus_code" : {
+            "compound_code" : "QPM4+HW Toronto, Ontario, Canada",
+            "global_code" : "87M2QPM4+HW"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJNwecIdXT1IkR4558KCtnUIA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 54,
+         "vicinity" : "3850 Sheppard Avenue East, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.78494329999999,
+               "lng" : -79.29120709999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7863364802915,
+                  "lng" : -79.28987691970849
+               },
+               "southwest" : {
+                  "lat" : 43.7836385197085,
+                  "lng" : -79.2925748802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e0a5448bbc980d84e31c7b3ebedf4885b0533f7c",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101125879646724345924/photos\"\u003eFenson Lin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIF-EI7k9E0EYHtN6iIDZ9IUNLQtoIUaKYLn_0KD9smyr6RD7xjmNegw2lObIdNJnFVy7k3KYq4FN3NM4Jp4A0tHKJ2WHTlsUNvAuQy8O0dQLj5Nciz_P5308_cINWSPPEhDOVZkziSxAnk3d9y6ZJml4GhSNEb4ripZe7r9WmGSpxPvnjz8jeg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJC1__VNXT1IkRmrC6eLRAxpc",
+         "plus_code" : {
+            "compound_code" : "QPM5+XG Toronto, Ontario, Canada",
+            "global_code" : "87M2QPM5+XG"
+         },
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "ChIJC1__VNXT1IkRmrC6eLRAxpc",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 469,
+         "vicinity" : "3850 Sheppard Avenue East WAL-MART - AGINCOURT S.C, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7724712,
+               "lng" : -79.32884059999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7736119802915,
+                  "lng" : -79.32740476970849
+               },
+               "southwest" : {
+                  "lat" : 43.7709140197085,
+                  "lng" : -79.33010273029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "90b285bd91fd60ef342ab0447b5b78b42e876964",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 950,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104845303142457138871/photos\"\u003eTim Hortons\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArU-MlAyO2Y83cwimwprXnANBxkro20B2DxJwfbK8vruc4JH_6kPjjkjCJ1-Auc3iOABbrW4mfJIp1FmZXAL6nZOBpR0st2xlovaiYYMOZNtgk7wlJQYlRWN7xeqkCfvnEhBBVI9zeSxm-ChHsCLKjj6JGhSP7ngd4Jf_6WE82df6WJU7jJGlqw",
+               "width" : 950
+            }
+         ],
+         "place_id" : "ChIJdU1c8FvS1IkRtl2eSHgw8QE",
+         "plus_code" : {
+            "compound_code" : "QMCC+XF Toronto, Ontario, Canada",
+            "global_code" : "87M2QMCC+XF"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJdU1c8FvS1IkRtl2eSHgw8QE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 17,
+         "vicinity" : "2225 Sheppard Avenue East, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7748406,
+               "lng" : -79.3343447
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7761830302915,
+                  "lng" : -79.3330478197085
+               },
+               "southwest" : {
+                  "lat" : 43.7734850697085,
+                  "lng" : -79.3357457802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "1fac916c04c54f3c7558c058b9789b128e2024de",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3036,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110440100409080005381/photos\"\u003eAndaleeb Kabir\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAoL5VWn5ElzlSaf0LM_m-6pvF1wm_HW6vYPOinf1epEIrC_GEDa3jg_G6oNv-Z6zg1j8qP0-YHshX5nQEQVbJU9LGHd48Mj08wnaLdsukCQ34gGTG0BQstvLJy9QqgffhEhA4NZ_g8pN93D2CsBMlo6wLGhR1ARcPn9HwbQnBsGvKHdIZbpzecQ",
+               "width" : 4048
+            }
+         ],
+         "place_id" : "ChIJ2YLKZljS1IkRnY-MelZkuyk",
+         "plus_code" : {
+            "compound_code" : "QMF8+W7 Toronto, Ontario, Canada",
+            "global_code" : "87M2QMF8+W7"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJ2YLKZljS1IkRnY-MelZkuyk",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 1017,
+         "vicinity" : "2075 Sheppard Avenue East, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7897194,
+               "lng" : -79.30298139999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7910480802915,
+                  "lng" : -79.30172216970848
+               },
+               "southwest" : {
+                  "lat" : 43.7883501197085,
+                  "lng" : -79.3044201302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "f72722e89dd4331bc3e0f443e7cd967f7cd4c152",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109865370395892566304/photos\"\u003eGabriel Leung\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3saAyipHX-cgSBiXniwcVeuTvYZBJs0me4ikGOJwI0NsB9DvZ2SsB54a_td_UTQ6Ma31ZE07KoND9ZUSPls5CaAvQZ7yT2ZkL4oxF7ZZM9GcUwRznkQ8V4PAAriNhKnsEhBcGkaOHYzKGMKsvgsOHEMYGhTTHTQNNr4kmZ0OJAMTsyqdpnsH1g",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJCYGLW1XT1IkR45i4BLL2oHQ",
+         "plus_code" : {
+            "compound_code" : "QMQW+VR Toronto, Ontario, Canada",
+            "global_code" : "87M2QMQW+VR"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJCYGLW1XT1IkR45i4BLL2oHQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 23,
+         "vicinity" : "2600 Birchmount Road C, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7900666,
+               "lng" : -79.3029853
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7914504302915,
+                  "lng" : -79.30149956970848
+               },
+               "southwest" : {
+                  "lat" : 43.7887524697085,
+                  "lng" : -79.3041975302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "357f7db79654a0763ef46bde8c6b8a8ea33083b2",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110123134542227265120/photos\"\u003eRichard Tung\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAoZGZIZ1kBs3RhNwpsLUJ7h9Z41zdXvNJTin8czsKKVcrvSr45JtmQ07Q4aGx6ztPG5KRXsO_zJi_A0pHaLn_Nmf3eutSFFPHwBWtF1S3fyZ2SjMYBk58YRGVEtufvzqEEhBM3jiPxQY7K4NLCXnOD8g4GhTMzl1kWY8JCY0I_7f6BGl4I34B8g",
+               "width" : 2880
+            }
+         ],
+         "place_id" : "ChIJv7MyAZDT1IkRVzv4iHauQ_Y",
+         "plus_code" : {
+            "compound_code" : "QMRW+2R Toronto, Ontario, Canada",
+            "global_code" : "87M2QMRW+2R"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJv7MyAZDT1IkRVzv4iHauQ_Y",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 17,
+         "vicinity" : "Leacock Crescent, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7973411,
+               "lng" : -79.31496109999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7985134802915,
+                  "lng" : -79.31353371970849
+               },
+               "southwest" : {
+                  "lat" : 43.7958155197085,
+                  "lng" : -79.31623168029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "a0c183951f9e62f0fcd26ac144a905a1524d946c",
+         "name" : "Coffee Here",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102246995581096752176/photos\"\u003eKopi Maheswaran\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA64W2-iuXXUUVsxxT56x285mqxQ3KYM6ICkmOO_9sNfR86mFVKEwKkMIbf4B5HehyRa4rjHsty7As6tU9TRr1KW_O3zjgSm2GKMnirKW-v37TA6T3LfTZcoF2zniPKbcKEhAL8vhaT8_VgCFiC8LmHEipGhQ06jM_s0lpj2hqX7brijbHdykpxg",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJhfqn8LjT1IkRpMkao5AZKl4",
+         "plus_code" : {
+            "compound_code" : "QMWP+W2 Toronto, Ontario, Canada",
+            "global_code" : "87M2QMWP+W2"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJhfqn8LjT1IkRpMkao5AZKl4",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "3430 Finch Avenue East, Scarborough"
+      }
+   ],
+   "status" : "OK"
+}

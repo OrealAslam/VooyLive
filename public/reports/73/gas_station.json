@@ -1,0 +1,96 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6519594,
+               "lng" : -79.5262695
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6532383802915,
+                  "lng" : -79.52476556970849
+               },
+               "southwest" : {
+                  "lat" : 43.6505404197085,
+                  "lng" : -79.5274635302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "9bc3124dad72d4c5fb22d92b291d5882cd4a9d8e",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2679,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110411481897237002856/photos\"\u003eO. Strictest\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-KhOlzQZBcWoInzctTjg___83xTD4azuHz7TnGFznR6HhtrymFNF7Rnz0yrVvlI8RWOJrpQhOsDVhJ3mLtouC1oO75W7HC1y5ra8KaUM_EIXulRNMQdgPafbV7PlWZjUEhAghecjjW2HxAgR4U8bnMZdGhQC6ieyUs30Kep9iflk4L2k9uofbg",
+               "width" : 4896
+            }
+         ],
+         "place_id" : "ChIJS6QZd6g3K4gROJ6dJTzOmyE",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CmRRAAAAWtoJoubTN6xyjRR6jX8TfcwrLxFQToKx0lSD7A-bNq8uqV422NUcwN6F_A9haG7HrtXOIAfZlCsh1Tw5skfc_ohIFD4vvfnUeyHXtHj9rjrX80gSwSGs3aOwPY1ZboI2EhB3l6mPvvbTuGgL3uZETFseGhQgc6AniKa-lqXULSrXmZcxtLbI0g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "4758 Dundas Street West, Etobicoke"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.660205,
+               "lng" : -79.5129407
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.66135888029149,
+                  "lng" : -79.5114489197085
+               },
+               "southwest" : {
+                  "lat" : 43.6586609197085,
+                  "lng" : -79.51414688029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "aecfa400aab489ba7d84f82dd1e3843b15d913a7",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106341044498666213775/photos\"\u003ePromod Sharma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA95t4sYi-fKo6Omh6KaSB2QGhbUtPqxNPWUrjj-Ba9BDlsj93-gTd4J6ZfVHu_eaHDOIECb5ihCpRa_BWfTsJDJOmhuqCYz2qNkTESRsxK8vUSJh9mYwhmwdez2Ik5bNvEhBulBjpvmayOG765LkTYZp0GhRHxf9sQBnYTlpMC809xfNgz02ikg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJXZVPH_02K4gRSppDAeFT1lI",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAAyEg1MDIbgjwnZg5hqUSow-BkWm6fILzMbOCY5GhOv0uXTiH08m7kc7EQByv2-s6Utopyn0uiYb8B5kQBLx6Y2JWNX6Di5mggYnsZySJDwn21ho8BRSzB915K7Ie5fKKnEhDX991cFe2rNVctK3Niax-_GhQGY9IJjhDB8yNggGFpFNv9bGtLVg",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "4230 Dundas Street West, Etobicoke"
+      }
+   ],
+   "status" : "OK"
+}

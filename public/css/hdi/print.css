@@ -1,0 +1,462 @@
+@media print {
+
+  @page {
+        size: Letter;
+        /*size: Letter;*/
+        /*size : 8.5in 11in;*/
+        margin: 10px 10px;
+
+  }
+  body {
+    -webkit-print-color-adjust: exact !important;
+  }
+
+
+
+.color-white {
+    color: white !important;
+}
+.bgcolor-white {
+    background: white !important;
+}
+.color-black {
+    color: black !important;
+}
+.bgcolor-black {
+    background: black !important;
+}
+.table-row-bg td{
+    background: #f1f1f2 !important;
+}
+
+
+
+
+
+  .col-print-1, .col-print-2, .col-print-3, .col-print-4, .col-print-5, .col-print-6, .col-print-7, .col-print-8, .col-print-9, .col-print-10, .col-print-11, .col-print-12 {
+    float: left;
+  }
+  .col-print-12 {
+    width: 100%;
+  }
+  .col-print-11 {
+    width: 91.66666667%;
+  }
+  .col-print-10 {
+    width: 83.33333333%;
+  }
+  .col-print-9 {
+    width: 75%;
+  }
+  .col-print-8 {
+    width: 66.66666667%;
+  }
+  .col-print-7 {
+    width: 58.33333333%;
+  }
+  .col-print-6 {
+    width: 50%;
+  }
+  .col-print-5 {
+    width: 41.66666667%;
+  }
+  .col-print-4 {
+    width: 33.33333333%;
+  }
+  .col-print-3 {
+    width: 25%;
+  }
+  .col-print-2 {
+    width: 16.66666667%;
+  }
+  .col-print-1 {
+    width: 8.33333333%;
+  }
+  .col-print-pull-12 {
+    right: 100%;
+  }
+  .col-print-pull-11 {
+    right: 91.66666667%;
+  }
+  .col-print-pull-10 {
+    right: 83.33333333%;
+  }
+  .col-print-pull-9 {
+    right: 75%;
+  }
+  .col-print-pull-8 {
+    right: 66.66666667%;
+  }
+  .col-print-pull-7 {
+    right: 58.33333333%;
+  }
+  .col-print-pull-6 {
+    right: 50%;
+  }
+  .col-print-pull-5 {
+    right: 41.66666667%;
+  }
+  .col-print-pull-4 {
+    right: 33.33333333%;
+  }
+  .col-print-pull-3 {
+    right: 25%;
+  }
+  .col-print-pull-2 {
+    right: 16.66666667%;
+  }
+  .col-print-pull-1 {
+    right: 8.33333333%;
+  }
+  .col-print-pull-0 {
+    right: auto;
+  }
+  .col-print-push-12 {
+    left: 100%;
+  }
+  .col-print-push-11 {
+    left: 91.66666667%;
+  }
+  .col-print-push-10 {
+    left: 83.33333333%;
+  }
+  .col-print-push-9 {
+    left: 75%;
+  }
+  .col-print-push-8 {
+    left: 66.66666667%;
+  }
+  .col-print-push-7 {
+    left: 58.33333333%;
+  }
+  .col-print-push-6 {
+    left: 50%;
+  }
+  .col-print-push-5 {
+    left: 41.66666667%;
+  }
+  .col-print-push-4 {
+    left: 33.33333333%;
+  }
+  .col-print-push-3 {
+    left: 25%;
+  }
+  .col-print-push-2 {
+    left: 16.66666667%;
+  }
+  .col-print-push-1 {
+    left: 8.33333333%;
+  }
+  .col-print-push-0 {
+    left: auto;
+  }
+  .col-print-offset-12 {
+    margin-left: 100%;
+  }
+  .col-print-offset-11 {
+    margin-left: 91.66666667%;
+  }
+  .col-print-offset-10 {
+    margin-left: 83.33333333%;
+  }
+  .col-print-offset-9 {
+    margin-left: 75%;
+  }
+  .col-print-offset-8 {
+    margin-left: 66.66666667%;
+  }
+  .col-print-offset-7 {
+    margin-left: 58.33333333%;
+  }
+  .col-print-offset-6 {
+    margin-left: 50%;
+  }
+  .col-print-offset-5 {
+    margin-left: 41.66666667%;
+  }
+  .col-print-offset-4 {
+    margin-left: 33.33333333%;
+  }
+  .col-print-offset-3 {
+    margin-left: 25%;
+  }
+  .col-print-offset-2 {
+    margin-left: 16.66666667%;
+  }
+  .col-print-offset-1 {
+    margin-left: 8.33333333%;
+  }
+  .col-print-offset-0 {
+    margin-left: 0%;
+  }
+  .visible-xs {
+    display: none !important;
+  }
+  .hidden-xs {
+    display: block !important;
+  }
+  table.hidden-xs {
+    display: table;
+  }
+  tr.hidden-xs {
+    display: table-row !important;
+  }
+  th.hidden-xs,
+  td.hidden-xs {
+    display: table-cell !important;
+  }
+  .hidden-xs.hidden-print {
+    display: none !important;
+  }
+  .hidden-sm {
+    display: none !important;
+  }
+  .visible-sm {
+    display: block !important;
+  }
+  table.visible-sm {
+    display: table;
+  }
+  tr.visible-sm {
+    display: table-row !important;
+  }
+  th.visible-sm,
+  td.visible-sm {
+    display: table-cell !important;
+  }
+
+ .noBreak {
+    page-break-inside: avoid;
+  }
+  .pageBreakAfter {
+      page-break-after: always;
+  }
+
+    body > div.page-header {
+        display: none;
+    }
+    body > div.sharethiscontainer {
+        display: none;
+    }
+    body > footer.style-5 {
+        display: none;
+    }
+    .no-print {
+        display: none;
+    }
+
+    .common-report {
+        display: none;
+    }
+
+
+   a[href]:after {
+      display: none;
+      visibility: hidden;
+   }
+
+
+  .container {
+    width:100%;
+  }
+
+  .hdi {
+    width:992px;
+    /*margin-top: 20px;*/
+  }
+
+    .hdi hr.style1{
+        border-top: 4px solid #000000;
+    }
+
+    .hdi .head1 {
+        font-size: 48px;
+        line-height: 1em;
+        height: 48px;
+        margin-top: 0px;
+        margin-bottom: 5px;
+    }
+    .hdi .head2 {
+        font-size: 38px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        line-height: 1em;
+        height: 38px;
+    }
+    .hdi .para1 {
+        font-size: 18px;
+        margin: 5px 0 5px 0;
+        line-height: 1em;
+        height: 18px;
+    }
+
+    .hdi .text1 {
+        font-size: 30px;
+        margin-top: 10px;
+    }
+    .hdi .text2 {
+        font-size: 30px;
+        margin-top: 10px;
+    }
+
+    .hdi .vdiv-container1 {
+        margin: 5px 0 5px 0;
+    }
+    .hdi .head3 {
+        padding: 5px 10px 5px 10px;
+        border-bottom: 5px solid #000000;
+    }
+    .hdi .head3 .about-this-home {
+        font-size: 25px;
+    }
+    .hdi .head3 .neighborhood-text {
+        font-size: 20px;
+        height: 20px;
+    }
+    .hdi .para3 {
+        font-size: 16px;
+        line-height: 1.3em;
+        padding:5px;
+        box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+        height: 165px;
+    }
+
+
+    .hdi .item-container {
+        margin-top: 0px;
+    }
+
+    .hdi .item {
+        border: 2px solid #000000;
+        margin: 38px 25px 5px 25px;
+    }
+
+    .hdi .item .svg-icon-container {
+        margin-left: auto;
+        height: 40px;
+        position: relative;
+    }
+    .hdi .item .svg-icon {
+        position: absolute;
+        top: -40px;
+        /*left: 50px;*/
+        left: 26%;
+        height: 80px;
+        width: 80px;
+    }
+    .hdi .item .svg-icon img {
+        max-width: 80px;
+        max-height: 80px;
+    }
+    .hdi .item .svg-icon .icon-content svg {
+        width: 80px;
+        height: 80px;
+    }
+
+    .hdi .item .text-block1 {
+        font-size: 20px;
+        height: 20px;
+    }
+    .hdi .item .text-block2 {
+        font-size: 20px;
+        height: 20px;
+    }
+    .hdi .item .text-block3 {
+        font-size: 20px;
+        height: 30px;
+    }
+
+    /*-------------------------*/
+    .hdi .schools {
+        margin-top: 65px;
+    }
+
+    .hdi .schools .schools-icon-container {
+        height: 40px;
+    }
+
+    .hdi .schools .icon-container{
+        position: relative;
+        height: 40px;
+    }
+    .hdi .schools .icon-container .icon{
+        position: absolute;
+        top: -64px;
+        /*left: 50px;*/
+        left: 19%;
+        height: 100px;
+    }
+    .hdi .schools .icon-container .icon svg{
+        max-width: 100px;
+        max-height: 100px;
+    }
+    .hdi .schools .title{
+        font-size: 20px;
+    }
+    .hdi .schools .table {
+        margin-bottom: 5px;
+    }
+    .hdi .schools .table thead tr th{
+        font-size: 17px;
+        border: none;
+        padding: 2px;
+    }
+    .hdi .schools .table tbody tr{
+        border-top: 1px solid #ffffff;
+        border-bottom: 1px solid #ffffff;
+    }
+    .hdi .schools .table tbody tr td{
+        font-size: 15px;
+        padding: 2px;
+    }
+
+    .hdi .footer-top-line {
+        margin: 5px 0 5px 0 !important;
+    }
+
+    .hdi .for-more-info {
+        font-size: 20px;
+        line-height: 1em;
+    }
+    .hdi .cline-info {
+        font-size: 15px;
+        line-height: 1.3em;
+        margin-top: 10px;
+        word-break: break-all;
+    }
+    .hdi .footerdiv2 {
+      /*
+        height: 138px;
+        position: relative;
+      */
+    }
+    .hdi .footerdiv2-container {
+        margin-top: 24px;
+        font-size: 12px;
+        /*
+        bottom: 10px;
+        */
+    }
+    .hdi .footerdiv2-container .client-logo-footer{
+        /*margin-bottom: 5px;*/
+    }
+    .hdi .footerdiv3 img {
+        height: 120px;
+    }
+    .hdi .client-logo img {
+      max-height: 53.21px;
+    }
+    .hdi .footerdiv1 .client-image img {
+      max-height: 105px;
+    }
+    .hdi .footerdiv2 .footer_text {
+      font-size: 12px;
+      margin-bottom: 5px;
+
+    }
+    .hdi .text-editable div.content:empty:not(:focus)::before{
+        content:'';
+
+    }
+}
+

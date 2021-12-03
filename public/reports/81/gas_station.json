@@ -1,0 +1,742 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.628245,
+               "lng" : -113.4856978
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6298282802915,
+                  "lng" : -113.4843305697085
+               },
+               "southwest" : {
+                  "lat" : 53.6271303197085,
+                  "lng" : -113.4870285302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "79b320a2a2970ab5f3577407a7e76b777c8b47b8",
+         "name" : "Hughes Car Wash",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJJ5LGa8YkoFMRbel_AgqVPgw",
+         "rating" : 4,
+         "reference" : "CmRRAAAAU32lMlxtpSV2kWv_2q6UbNqFMcXLwoYpv_Fk7X9KUN2AAihUK6yJyROrmzkX2DoKqRpOICsV-0gfGGilu5eX2Ec811J7YKxIIt8RF4TMosVW9H-Lf_77cznP6aJXkL8JEhAxlTqKltcjvgT1Vqb5lOYdGhS4gfxgp1gFs9fk-2yTaSV4BJTnHw",
+         "scope" : "GOOGLE",
+         "types" : [ "car_wash", "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "9551 167 Avenue, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6211298,
+               "lng" : -113.4682063
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6223105802915,
+                  "lng" : -113.4668471697085
+               },
+               "southwest" : {
+                  "lat" : 53.6196126197085,
+                  "lng" : -113.4695451302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9a8a1ec59368b47814bf353cf7bcb48326bbf6da",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112000279657034714372/photos\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZlWZldKcXktDx3FeGt17S5hLeSz_6ngxka1JMeReJ5jxhNUnjJpxXQgY_WNDogPasm2hFrKIzKZWSoBgl12QFE7gNOXLye016dLPFLD4lXeVhr24OTKCY02u3ecw-JvMEhCNnPQsVb7gBbFUY9r2RhFhGhS3JYX2KdQAMGNmqc0Dr_cdVmrARg",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ61qzxLMkoFMRy5HfKMS4qs0",
+         "rating" : 3.3,
+         "reference" : "CmRSAAAANzkDvxCAF0y1jQqHir236k8tz2PezbZyc3PRWGdD6cP8QTCUeNJ_kQy4L_RY34csLIb8plGQSFbkRpMSZHFALVve28odiCaF4hgVu_7kHQIwX-1l-Hcy2GdJ7UTUZsikEhBXp4UjftiuBLwsgaGVIwaAGhTNSz7K_ylYD3WyyDILoDCpA4Z4NA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "8210 160 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.63888799999999,
+               "lng" : -113.4926943
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.64023333029149,
+                  "lng" : -113.4910314197085
+               },
+               "southwest" : {
+                  "lat" : 53.6375353697085,
+                  "lng" : -113.4937293802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "db41f3613e7625bf6abf74cfdfb78fd4c3f93832",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115733561434214412689/photos\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABIqqJevajCi8fS8OKrc2eXtl2ncozYeOE7y4JumgKcIU5Zy_ZIMKcD31xtSLVZy09JYAIOSyp_7iu2r7-c2r0bvmgBrTvc3O82jMST_MxovKoyYplA3wq4SpWATONTQXEhCXn3S4EVRFm64H5gKTYafCGhSRtpy3Fe8mHhaJy47LxThOhM2SiQ",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJeWyX49AkoFMRM4rrN70DJgw",
+         "rating" : 3.9,
+         "reference" : "CmRRAAAAj6F4X2uuLNHsAO_4eWkFlYN55l_VwG4gs8_E1OdsUtu9XqfFCMIo9kOzUvIGCOFx0eSLIJZJQQRaSx0Krjvqnh73TYHFQ2Zkn9i04bvnm6_Vyg9kGd0avRof1ljvIvWFEhAf7RNYrbz5zznSZlOf063NGhT-hwAXuxi0Vfc8OfM66JlBZSFBJw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "17604 97 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.62904589999999,
+               "lng" : -113.4605308
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.63038828029148,
+                  "lng" : -113.4587823197085
+               },
+               "southwest" : {
+                  "lat" : 53.62769031970849,
+                  "lng" : -113.4614802802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "44a3e24573e903ed1a0536719f5a9802e0b140bb",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102003789368850416017/photos\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgGfZIN2HUKBSMTz88dWtaXEXh1qbtLU2B9cwcect6lhsAlcT9iCIhkPc5SyeIFFJhOAXkDQwHYjrtN-DIIOImwP5NGDQdgIBgb0JwN1Iw7NulUkdqJQEp5e7Cz0UOK6XEhCrymGAbdHjCSEumwMRkvb8GhTvusjhW66am5aec7UpYn8gSuL0sw",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJEf5lGEo7oFMRF3jPBtE9-lc",
+         "rating" : 2.9,
+         "reference" : "CmRRAAAAKHLfYUIsHjEnZIDIxntb1IzPIEiwxDCKRat3GBWsj0iEC91oGArfGwzCjuc_-B6_lXm5eHMgLBko6yiaDQD8HqFcifR_WhfcSvlqXX9EEqeooX0VNfJ9lumtNOmqDSrrEhANRjzMBmZF2sVuSJMP8pV2GhRpX-gTuYq_PTZDjvC06mF1uMTtHA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "16720 76 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.62940010000001,
+               "lng" : -113.4974028
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6307532802915,
+                  "lng" : -113.4965711697085
+               },
+               "southwest" : {
+                  "lat" : 53.6280553197085,
+                  "lng" : -113.4992691302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ed59b31f9b46e7ede90694c90763d84f6bb9028b",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101413463172539307347/photos\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnxgBxGILt3dmHxm8P7c1Hk77VdsqK3xWCVQlM3rduR15KCe7Midz5OTVPNr_FknwnhSzYIDldyz3eDmAoCQkyu09VWBJnXcdrF1hJuCJrsBplefJ6sF5qfem26BKaE6UEhBOaXwOtTt5OVdmlog-jVIEGhSmgx4I_zYSK-HIodXvjfxhsCi95Q",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJkRno7sMkoFMROWlenhWqOVM",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAA_W0m1LBm7E4xScj_pnVLTj5GEv6mKCcgn535iGM_ujc-h5Jc9UHIOBT8cK0b67x_am66LEFZK83yFnizIhE1NEWLU3uh7_vctI15UWNaxqkZe-OOclfMgoP_I1fe2qNREhBsDR-g1LBxSEvLBnVAGdwmGhR1DwoQNZuHZudG2Cci6hirQ4APVQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "16703 100 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6291805,
+               "lng" : -113.4808635
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.63052968029149,
+                  "lng" : -113.4798575697085
+               },
+               "southwest" : {
+                  "lat" : 53.62783171970849,
+                  "lng" : -113.4825555302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "663a123a2b1678ef7fc9c157364e7ac686187a5d",
+         "name" : "Mac's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJv9V2P8kkoFMRo4KYdPclalw",
+         "rating" : 3.7,
+         "reference" : "CmRRAAAAk_ntu2GClAGl403H8joAYmynUrhLdKkrivWWjo7p70ZWAzcCJ2_sAn3z8clZ-GfuTPcPR9ydu1ILe4s_iPdQrmQfrlaoSz7epFmUaFOvfo-kru-DeiqYN4CRchqpI1hxEhCm0s8IlqrkuMXoF4BMTv7DGhQrTxWnEqhFNjNoVgOQ6oyHur0gWg",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "gas_station", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "16741 91 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6291913,
+               "lng" : -113.4811317
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6305404302915,
+                  "lng" : -113.4799916697085
+               },
+               "southwest" : {
+                  "lat" : 53.6278424697085,
+                  "lng" : -113.4826896302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "5bb0f7e249a04f99976dbfec60ad0c80a1c6211a",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJTxzIDskkoFMRaljLTvxGhLA",
+         "rating" : 3.5,
+         "reference" : "CmRSAAAARHkr_WU7sLLIILGPS6OZrLlMJT-BIkgmClaCIrWxQ8TSCHVEyoi1lrfIArwTy2TdN6r4to5xeHrYJNTkMPsyNdbX92b20RYB-N6Q_HtTMUESFaTCW2sCQdiBxl2ncrPnEhChUgMGGAzPyhQfYhKwdN4SGhRAcoBxtXSWy7pMT7vSftIGSQpo4Q",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "16791 91 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.625402,
+               "lng" : -113.491148
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6267510302915,
+                  "lng" : -113.4901081697085
+               },
+               "southwest" : {
+                  "lat" : 53.6240530697085,
+                  "lng" : -113.4928061302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "a02243fdf545aeb509ea55f07a7f2fbad2732230",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110746927392327489101/photos\"\u003eMichael Lyman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEDh7eRuH2rDj9iWlC_yGIC3Y2ipKhtRhxXb99_A9YQh8yT2ftyEO9tZYD20YlVledX8HVTJqH05FEywdoG58Jr2xqkCh24tli8Zvjj-OTsD2BZQ06QFEsqAuN4wxbkc1EhC_Eo1AvP6g1r8hgQeDBpmNGhTFKhKgS_a6sayONbtq1MdeTepEhA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJRRBFVVVVVQURxxHQwzc4EC0",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAA09A2-gk_ce-eRJXXXXCO2QaE7PewQYgSlGGlvkyi92vrZOKs7Mu2u-U5xbJDje9xEpWWfs9yHxnCmEfT7H5j0_M76CstEABLmGLCGcYJY48sfmxwmQ42lpPPlCeDShY0EhDe8vW1uRacXlV-XA97iY9pGhS-q2JjI0m4Bcrp5uwBCGV0MFW55g",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "16435 97 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6216392,
+               "lng" : -113.4907371
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6228284802915,
+                  "lng" : -113.4893832697085
+               },
+               "southwest" : {
+                  "lat" : 53.6201305197085,
+                  "lng" : -113.4920812302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "728e0b0ca7ad1af1d7cccd4e7176015b2406def2",
+         "name" : "Fas Gas Plus",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118308993840070597119/photos\"\u003eFas Gas Plus\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcn_7IPDzcrRFCA-MusMHdtIjQYhZX4Unwo-I6Tc62obn5FKKaKi7pIco7FEiPf8GRIaGosFzgmj2x0UHhM1L1EKUUgEAC2HVPAXAFwsuCBX70_U_F4htzNRR-fTLgmaMEhAtbopMXOiWW4rdtLVzrWGTGhRjdsvP_sElyEWRiRu4lQmf_qQ-uA",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJabneLb8koFMRCWmVhVlRFVk",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAAwt0qvEYRhjpLR5J3ndaL_Pu27Z1EdEMbZaEI2w9G5cAf9-ZZkf1E19mVtdSIo_4qknEnLjGTjN30Qds9R8GuklbfhQdetw6xewtlNT2fxAIJsCNs_YNj8cgSFc2dvHiDEhC9WEumdXmgL4zhma4hrASyGhRG2XNFk9ozEzsVDC09rO2ol-FDFQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "convenience_store",
+            "finance",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "9618 160 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.618845,
+               "lng" : -113.501818
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6203002802915,
+                  "lng" : -113.5005633697085
+               },
+               "southwest" : {
+                  "lat" : 53.6176023197085,
+                  "lng" : -113.5032613302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "2ff1be031a220ad8cf51a45eca79ccdc01853740",
+         "name" : "TEMPO, Tay's Food Store",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3328,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102055007821516666557/photos\"\u003eKlad Alzobi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFN8OLH4BG0q2ZW_SJ4Dsn05EgOp95N0lSW41D0nGCPAZZWU_46PBI9j0h7xVRm_4uQrwCUVXYjmzHjjbKgxVwXDFjhhg-QTEsGFHhB3UsHQ0MvAUli9UWCqY_lgeTriDEhA-ad9th7IMC_L_Qp584tgoGhQYzYQmAhq1Qg44ZzEsYXHsDel4iw",
+               "width" : 1872
+            }
+         ],
+         "place_id" : "ChIJM-08_pQkoFMR_hXnN-gIgag",
+         "rating" : 3.3,
+         "reference" : "CmRSAAAAMzbB7Y26tXmRLTAijx01nEWvBjvRZT6-gi7uRCW3nKF1Wj7VcAB5QnypPuKsk-GZvqMzUPKQCKPBOjDZgzQrzyZUd83dk3u8CyfTJilYvcV713HGOvB3plvIyvdYGSEBEhDNpr3bFfeiQO14iJzd1cJBGhQfgHNpRWnVhyEE-tYFVC20C4qhnA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "10415 158 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6292453,
+               "lng" : -113.4654261
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6303753302915,
+                  "lng" : -113.4640801697085
+               },
+               "southwest" : {
+                  "lat" : 53.6276773697085,
+                  "lng" : -113.4667781302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "3ee3135f3f970c3c679e016359418551ae497812",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108903692046397772687/photos\"\u003ePetro-Canada\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6Q5qcW3O1HyzA5tPlLP9fo9x8ucB1u8PtmAKP4lj_cvNsda5I90K8HkxrLEr-a8yS7HyU4MntYtjg7C1MH7g7v8qC3p-Tygfj1avMpp0BG3gQBTtVlp9G50W9VZGoM6CEhDQCXTOkNzn8X-kSzjsKoDpGhTSHrblXDEUt3yp56O_eWN0cNOQWA",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ8cjWYzU7oFMRoCVv1Sj3J1U",
+         "rating" : 3.7,
+         "reference" : "CmRRAAAAjBj-tM-tDGr4YGYWn9Tg6mE9Mz9WjMrq2gDV2CcKPb4bq5YoZoMmSKGjFIkkb6THS3F4ar07BJHlLFZKOkra1w7dhMLC4OiIek_mkeLwUN4ai17t7X8c2O3pNNHojUD0EhDmnyHBIsyDJTKagqohMYzsGhQzIWs8R7oN1jj4-krLaB6XXoFVTA",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "8030 167 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6338573,
+               "lng" : -113.5173963
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6349938302915,
+                  "lng" : -113.5160707697085
+               },
+               "southwest" : {
+                  "lat" : 53.6322958697085,
+                  "lng" : -113.5187687302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "7f291e59e8b9442876a893dc7c446bdd014466dd",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117363271170345438423/photos\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAhzHfIVt_3Pff03jXkFQH9YU9PU_9g8gbih-qTpMyJdTxESuYYyge96zoid9MuGWEM8I_fAiVXvLpc9aq7-jzT7BQja73fefydrqPyrJg4-kpJE2Xc3JJnbQdWe-8uLebEhCOFSuirlnOj_EKV2g72yM2GhQ5l4NVNhh1amIpv-8lvJsUjRUrpA",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ95wykuYkoFMRJAlJ-XOraPM",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAAlJn3GkcWesYehfW29imP4GPa5UVldjhJgY5t4Woc6m9CyNYSOpiEJmblz2VsANDnD8EkiDvoHv9sdJFgyBP_GpxMQW-hDF05uCuE8k7DtbAFo-vk-Ww9JWJGcnHjk5-jEhCVAa_RqCd5n-FDP1IC3nkCGhSft6xUv-Tio5EnLEQBeZ4NAVHSsw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "11220 171 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.614372,
+               "lng" : -113.490829
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6156064802915,
+                  "lng" : -113.4894880697085
+               },
+               "southwest" : {
+                  "lat" : 53.6129085197085,
+                  "lng" : -113.4921860302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "16244b5a6f01ce977ce2d515cb7831beab19d421",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 489,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104851171257693385857/photos\"\u003ePULIKEN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARaX6rCjUhwchQ5UX8Mq2UdxGY7Xlpb1r8y9eBD1L_eJHN__7x0F7S8manos3APT8U-UmQuqdR7Ux7Uf5nyDmChWl9kdM8Ktqfijtv30UzXr4DCg6LlaNTMd9iUC3BfYxEhBwQwwqLcM39r9hwnsoIVZyGhTeKHu9jIOT_xAS4mc-TvH0edMdGA",
+               "width" : 843
+            }
+         ],
+         "place_id" : "ChIJgfZda70koFMRjRuArTedcQw",
+         "rating" : 3.5,
+         "reference" : "CmRRAAAAJGd2G0lpkhDK_1ydWeuyqlg_lacO98-3bMEgoJXI7bqBowmcff7BEO01cejzpymlmNrs4eqnaQTm8rMkKRuNKDT0lgiUO_J6CxcZpiMPY-tDDUl_poF9T2J14GYPU0O1EhDZgn_b3Vgi2QYiXwLYumXVGhSh2TyskMrtvyUtJ2l3WqH5epOcrQ",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "9628 153 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.61453650000001,
+               "lng" : -113.4908268
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6156888302915,
+                  "lng" : -113.4894916197085
+               },
+               "southwest" : {
+                  "lat" : 53.6129908697085,
+                  "lng" : -113.4921895802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "d34337ec0993b04e191f5647df8ea089d663ca47",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100383389239405769011/photos\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3Tyb4V7R9xMccPoIL6jB83i9q17EIeBaKlPBuQuXIIWwYjrUDwq2NXzSr6jPG9fqlBc14qfig-lPbHbig7bgniru8ZKJLKg9ZEOWvOdD5aQlomz2OOV4b30fBKYtupsdEhD_VzOuAQNqbNNLbcDof4CdGhT6KyDXEzHhTolPUiBRqBASYA5zEA",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJyX9fbb0koFMR5f_RVRm3xQQ",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAAT9VsJUALOR1sNNmNWzOz5cQhdRVebs_-1bc5CNEMg8DOZaCUeoDLPrTIn7EeYzUPm_oeb0JcOooyENhrF_lbpUX8pENWEOYWrvoPopsDdAmu1uQxyWrtb3aBsuHQ8cVhEhAFVmXWTDTRToT0RmxH11h0GhRT4RwuR_7vlt7rduJ1OgzLdiWEwA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "9628 153 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.61439319999999,
+               "lng" : -113.493727
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.61560808029149,
+                  "lng" : -113.4923789697085
+               },
+               "southwest" : {
+                  "lat" : 53.6129101197085,
+                  "lng" : -113.4950769302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "aefebcca9b8c3cd927af318e93680d4703b52d2a",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110530322675614937150/photos\"\u003eShell\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARnPYoFvD_HwGBVNfOgdpBjFV_snWrzYp9cmdUx86KcpGZeOd_wYWfulWfRXWX4qNPuPAqNmh322rrE5EJHTkUyZO0G7sbSflVe6ZBqXyBfyrw9YdQwyaY6i6f0z92nqXEhB8dVIVciRIsayFbRC-TnSnGhSLTFl2w_Ve3lz7emFHwwI2_baFfQ",
+               "width" : 303
+            }
+         ],
+         "place_id" : "ChIJXY4LzpckoFMRNT7oRDslvy0",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CmRRAAAASozm0fTVSYweGjjwXDnh2MU0aqW-fgK1lb5C_vYkoivUpdKXMrm40Jcl3BfJPuL9zIYT_FjrZANTsIzNiYDGOXFkY99dy7af_ZLrcdTNizk7q9Sb5r8NSZbU__i6ohMPEhBVDbREV69bmCdwUEjLnagKGhR5x9YWLxBesDr1M3WI14b69Fnkjw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "convenience_store",
+            "car_wash",
+            "finance",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "9804 153 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.62766790000001,
+               "lng" : -113.5082595
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6290168802915,
+                  "lng" : -113.5069105197085
+               },
+               "southwest" : {
+                  "lat" : 53.6263189197085,
+                  "lng" : -113.5096084802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "44e397d88d384a03b617bd6b4e87c45a8255d106",
+         "name" : "WAYSAVE",
+         "place_id" : "ChIJsQRbvOkkoFMRVRVESAP9RXo",
+         "reference" : "CmRRAAAAm51-Rn9F1gahu-llHLebjYWug2af9b9wZzd1CLpHDISL0K-GKDPhRxJINiIbL3w3_vdZ0h7HZDqWD3opHurvK8Q_X0rW4AabMOujtaD4SzHNdL19cDJEGA2WFGK7_QrsEhDAKWItY_VXDp3oJJU0GDTDGhTgZfTKnmym5miALDrFOBn7ZBSrdQ",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "209 10807 CASTLEDOWNS RD, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6204585,
+               "lng" : -113.5038052
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6218239302915,
+                  "lng" : -113.5025439197085
+               },
+               "southwest" : {
+                  "lat" : 53.6191259697085,
+                  "lng" : -113.5052418802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "ca1fc7be022cbff863f8853a74392f978dec7218",
+         "name" : "Belvedere Station",
+         "place_id" : "ChIJkf3-2ZQkoFMRuEmSPArlIQA",
+         "reference" : "ClRQAAAAb3myUSAByDtXWLviJY7yXsRWwEKqfxQLxP4Xz9jZtdvZuYXRvMdiD0OdOKlymmF0qH5jv-0zZ5X0J35wLCskADB2MYBYForAYD1Yvcp8rc8SEHzkZiJ4_XQ5DvqM27DvSEUaFJM55cf6Y2Gie4ukh19KieuaD99q",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "87 Stirling Road Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.616395,
+               "lng" : -113.4902749
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6177357302915,
+                  "lng" : -113.489548
+               },
+               "southwest" : {
+                  "lat" : 53.6150377697085,
+                  "lng" : -113.4924556
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "38fd071bb0641a23366ce48b0cd398d861324e0f",
+         "name" : "Mobil",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJNxPXCW8loFMRwQblR_XMVmc",
+         "reference" : "CmRRAAAAdXBCXkwAXi-4v7HyuGMWzWt2-LdBd1SG7qCh2QEzkJNLGQaoQ0yZXIN9PCPReRbJ5mwgDnZ560HqQWViC-9Ia1A5TQZuJp5FnDrsOr2fkVolL30KJ3l7nJdlImTGpQlyEhAgkJD2MeajILHU_rZ95jsgGhRpc4m5mLzqZ5BpxCojKMdp9Z83ag",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "15505 97 Street Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

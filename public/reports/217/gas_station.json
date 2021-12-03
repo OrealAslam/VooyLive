@@ -1,0 +1,113 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.0872542,
+               "lng" : -114.1302394
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.08862783029149,
+                  "lng" : -114.1288185197085
+               },
+               "southwest" : {
+                  "lat" : 51.08592986970849,
+                  "lng" : -114.1315164802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Co-op Gas Bar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107745878225955620277\"\u003eCo-op Gas Bar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJyo3JW3U_BmPug6ZLT9tIJcDvHuK3JDubVhQGg7TQEQeWOhWTTGqPvv0yPM4NmKa9c7QYPSE_JJxesYeDGbGspolKCyfX8eGeAwbgGq4ZVcjR5kFzh4egcc8dFdtrpk1B6anwGDB3_PvlhUhpk-fNgl_lZxG1zC_eYFNGmuPWX2WAY",
+               "width" : 5992
+            }
+         ],
+         "place_id" : "ChIJq7jn-xJvcVMR1fI9Ovz0hWU",
+         "plus_code" : {
+            "compound_code" : "3VP9+WW Calgary, AB, Canada",
+            "global_code" : "95373VP9+WW"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJq7jn-xJvcVMR1fI9Ovz0hWU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 15,
+         "vicinity" : "4122 Brentwood Road Northwest, Calgary"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.0691697,
+               "lng" : -114.1288121
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0704049802915,
+                  "lng" : -114.1275926697085
+               },
+               "southwest" : {
+                  "lat" : 51.0677070197085,
+                  "lng" : -114.1302906302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102162982525917140776\"\u003eMike Larsson\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIFP7IX6nmNjTeHZyRxBr46mUUQcgJz8IhVCT8nVqqm9WlhXGUAXrxMAUQsV3sAvSaims7u5feNwstD-aSR6n-s65rAo7iByakOLmJBWqQGXjve85AQzmJO9tQL0i3sA0xMOi15N2BgQYnWFGfd9AeU7pBjcmDxaWq4RBFgwBQcvfUf",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJQ_MAsKhvcVMRsIjCc7ex-LE",
+         "plus_code" : {
+            "compound_code" : "3V9C+MF Calgary, AB, Canada",
+            "global_code" : "95373V9C+MF"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJQ_MAsKhvcVMRsIjCc7ex-LE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "meal_delivery",
+            "finance",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 37,
+         "vicinity" : "1820 Uxbridge Drive Northwest, Calgary"
+      }
+   ],
+   "status" : "OK"
+}

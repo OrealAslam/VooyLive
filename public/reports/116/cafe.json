@@ -1,0 +1,554 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.454525,
+               "lng" : -113.5644582
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4558779302915,
+                  "lng" : -113.5635951697085
+               },
+               "southwest" : {
+                  "lat" : 53.4531799697085,
+                  "lng" : -113.5662931302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "174cb6ec132095f4848729152673540ddbbe05bb",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101610725505918033033/photos\"\u003eDouglas Wong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4SS3V_JETyKR13E8BSTI974NhcTUlTal1tfyLQBCLRcXdT66oBMsA7in_lBHu4zN-ofhIE9kbv-VdDa-atLHf8K210kX-gTM1smxY4dDU1XyswlrTocLlntFGgcX7yS9EhCAd3eL5l7gUX8M-h-dSrxrGhQjF9al22ZrzhzSQoPnYih0V1o1rA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJD3kEsbYfoFMRV1eIMdBCFpA",
+         "plus_code" : {
+            "compound_code" : "FC3P+R6 Edmonton, Alberta, Canada",
+            "global_code" : "9558FC3P+R6"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJD3kEsbYfoFMRV1eIMdBCFpA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "2309 Rabbit Hill Road Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4537108,
+               "lng" : -113.5675161
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.45492033029151,
+                  "lng" : -113.5661655197085
+               },
+               "southwest" : {
+                  "lat" : 53.45222236970851,
+                  "lng" : -113.5688634802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "d85b9ccffb289c73c7c35f97ff29d4799af9fd12",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111599126624892082732/photos\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdFO1x-zxwkrLkUBELjNPs4LCziC90QH_NXgDwxZkiU1ZF4I3DBT7390GCxhkfGbna-DELyLwmbkHcC46vSkw9CJWa3Hv3y1r87gaSwx-1tbohtbY6wLParmd3WU7YcBEEhAKl4tNyYwR13wDbEFpGFT9GhQ2AhHDT_nLwbWV23FnYCvX7Z6WJA",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJrWExmrYfoFMRjYU4x-Ptf6k",
+         "plus_code" : {
+            "compound_code" : "FC3J+FX Edmonton, Alberta, Canada",
+            "global_code" : "9558FC3J+FX"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJrWExmrYfoFMRjYU4x-Ptf6k",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "The Shoppes at Terwilleger Gardens, 14239 23 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.469109,
+               "lng" : -113.5863392
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4705550802915,
+                  "lng" : -113.5849280697085
+               },
+               "southwest" : {
+                  "lat" : 53.4678571197085,
+                  "lng" : -113.5876260302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ca315e5d75f20c530cf9e56973cadc076d24940f",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113514544877129768284/photos\"\u003ekm8831\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEAIq-NdzRhk9KZXS2A1iOaTq7d7tpR-Q-WKBn6gDh4m2-PPxLzTL6u_1YyjJPbD4y3bsr6kySJp5VE_OLubkf0EzBR6l6ZjZWI_MleNccSCb0jOdc8DFBRIV7lKdZfOgEhDgPd9hJL0D_eANYq1gnGhjGhQh7rToPuvM7c_bCUxLPmvqKZ1xwA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJJ0QS0-ofoFMR2forMIB7Vv0",
+         "plus_code" : {
+            "compound_code" : "FC97+JF Edmonton, Alberta, Canada",
+            "global_code" : "9558FC97+JF"
+         },
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "ChIJJ0QS0-ofoFMR2forMIB7Vv0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "494 Riverbend Square Road Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.468706,
+               "lng" : -113.584392
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4700110802915,
+                  "lng" : -113.5828517197085
+               },
+               "southwest" : {
+                  "lat" : 53.4673131197085,
+                  "lng" : -113.5855496802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "6e7375e79fd60012518cba57e20222addeff91c9",
+         "name" : "Second Cup",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 636,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117616951484012763796/photos\"\u003eSecond Cup\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-LKsig_x7dsLrXCTU2Yt8Sz6mcel7sIvA5aU3GhaMLcRCRP70_1n0pol5g2b0nRP7r-8IedYi_fzAZYzgSY1K_5B-nrRkBafRKkZeupofTkuchYwE1K7nEFKLSZYB8QCEhACZzcObNSpNkcAUC33TUujGhStThZK3LLX036Rlo3a3NIighPg9A",
+               "width" : 636
+            }
+         ],
+         "place_id" : "ChIJJ0QS0-ofoFMRUnVa4pAMD0A",
+         "plus_code" : {
+            "compound_code" : "FC98+F6 Edmonton, Alberta, Canada",
+            "global_code" : "9558FC98+F6"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJJ0QS0-ofoFMRUnVa4pAMD0A",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "478 Riverbend Square Road Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.45812859999999,
+               "lng" : -113.5818422
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4592599802915,
+                  "lng" : -113.5802343197085
+               },
+               "southwest" : {
+                  "lat" : 53.4565620197085,
+                  "lng" : -113.5829322802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "d61df136661bf7d02041b5095bd80973473260ee",
+         "name" : "Second Cup",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116654773125659834258/photos\"\u003eMark Hubley\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-f33rIRS18GIUaxNRCpaE111MGze9wX-sHV0o2Gz16ZC-L1HlN-39xci3BsM4JAWIF3GoHPU10wQveIik4Dup56-GSch9Telsfr4FqHZ11Aobm-v3AQoF_0iSJdNKXAQEhAhcXUJN8aDVpWFrBLdPmj5GhQRdjhWesqe1RQZ1CRQR1wLopDWng",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJt6in-MYfoFMRg1MV8YzzGg0",
+         "plus_code" : {
+            "compound_code" : "FC59+77 Edmonton, Alberta, Canada",
+            "global_code" : "9558FC59+77"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJt6in-MYfoFMRg1MV8YzzGg0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "2051 Leger Road Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4588421,
+               "lng" : -113.5915688
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4603016802915,
+                  "lng" : -113.5903950197085
+               },
+               "southwest" : {
+                  "lat" : 53.4576037197085,
+                  "lng" : -113.5930929802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4ac08f1811112f75ebf1add9f1e42330580823df",
+         "name" : "Mac's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117454224015543259974/photos\"\u003eFrederick Cundict\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAy-SizzYDDFTfTspjzRpusbupzF-HTM1Cam3Hu0h9U7IK8fh7Mb6fdXRugPlMITUEE4KdicJl0pkMxWaZlr9L8Hao0d6iflSOAJb-_qOQRMhDcRUG1AeXrvX2nBvVwvV-EhB43ySRMX7Hz4yQRFZ38RpEGhR_jVYtg2k2Lhv7eaVM3epujiQrIg",
+               "width" : 3036
+            }
+         ],
+         "place_id" : "ChIJBcz-fMQfoFMRtbzcOJ6HbUY",
+         "plus_code" : {
+            "compound_code" : "FC55+G9 Edmonton, Alberta, Canada",
+            "global_code" : "9558FC55+G9"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJBcz-fMQfoFMRtbzcOJ6HbUY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "atm",
+            "cafe",
+            "finance",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "103 Haddow Close Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.44512599999999,
+               "lng" : -113.578131
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4464753802915,
+                  "lng" : -113.5766694197085
+               },
+               "southwest" : {
+                  "lat" : 53.4437774197085,
+                  "lng" : -113.5793673802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a3da2e1d5a3fa082c18dfdb7eafb54838a0c8b9a",
+         "name" : "Mac's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110268767284249713695/photos\"\u003eJason Cobb\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxnOW90eMWqNDlFcPsK_p0JRiuANs35TyoaW8FcCKX2ZpzRo5k9Qar36gFuebmq7JejhESpRd9X70wcvqmYxmfYDEEZ_dEWXD5JmU7N4muXZjRQvwuVFbdy14Z88Q5JSKEhBS5AQUrqnRiTsc6HLeMoeDGhR6TECm_jXzrMc-SJ0f1kRr7BOfiw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJUz1NucwfoFMRde2N8diUVM4",
+         "plus_code" : {
+            "compound_code" : "CCWC+3P Edmonton, Alberta, Canada",
+            "global_code" : "9558CCWC+3P"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJUz1NucwfoFMRde2N8diUVM4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "atm",
+            "cafe",
+            "meal_takeaway",
+            "finance",
+            "store",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "1704 Towne Centre Boulevard Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.46839240000001,
+               "lng" : -113.588376
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4698704302915,
+                  "lng" : -113.5869363197085
+               },
+               "southwest" : {
+                  "lat" : 53.4671724697085,
+                  "lng" : -113.5896342802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "f328fd8e628a597e7ddb057b7b3d5a720a4d099b",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100238833938844672291/photos\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARZMgVZ5zyPgWiS7bKm1tHEDZuO99hQ-ZpLWG-Ka5GMvL72u4ShD2uP2l_eWaqA9Pf66vPPp7ojRzYkpXmsoc2IbZ0lzDd2xVEVKmCt5NVkxOD_nE_P6TeS7eyBf2DOyQEhDqbgaKxykSEzqK56bSKYUiGhR1XXU6jfnq0VQMkBlQOvD_PI41DQ",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJwW-HFJUfoFMRtwIsajDLUyY",
+         "plus_code" : {
+            "compound_code" : "FC96+9J Edmonton, Alberta, Canada",
+            "global_code" : "9558FC96+9J"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJwW-HFJUfoFMRtwIsajDLUyY",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "Safeway Grocery Store, 576 Riverbend Square Road Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.454829,
+               "lng" : -113.5665455
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4562645302915,
+                  "lng" : -113.5651884697085
+               },
+               "southwest" : {
+                  "lat" : 53.4535665697085,
+                  "lng" : -113.5678864302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "7b3d67890047d7dfa5e1149668047044370c8420",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 950,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116151737988498574135/photos\"\u003eTim Hortons\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFD5XENUTIoGhefLDQSnyvTY0gvpYLStGRlhjtKVgDNuKajJRf_3upmlyVjVF5xZlrAa-h9-ZLh7-sUpk8m7ZxIp0Ljc1cILrF6GdJJvyrW2PIbnahzSrf6mmmHfrGrY7EhAml0GrxcD3UHnnf1GUMV8tGhTCLwyV6Y9xj55l3rq3NrhB2bZQRA",
+               "width" : 950
+            }
+         ],
+         "place_id" : "ChIJDYVkuLYfoFMRjD3iH7FsIak",
+         "plus_code" : {
+            "compound_code" : "FC3M+W9 Edmonton, Alberta, Canada",
+            "global_code" : "9558FC3M+W9"
+         },
+         "price_level" : 1,
+         "rating" : 3.3,
+         "reference" : "ChIJDYVkuLYfoFMRjD3iH7FsIak",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "14204 23 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.455386,
+               "lng" : -113.564342
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.45673498029149,
+                  "lng" : -113.5629930197085
+               },
+               "southwest" : {
+                  "lat" : 53.45403701970849,
+                  "lng" : -113.5656909802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bfa5400fa04a1c2a716d8d3cc9e85178803603c2",
+         "name" : "Fuss Cupcakes (Terwillegar)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1884,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116155656662615664059/photos\"\u003eCourtney W\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAC6q5vN94tmXa0bkZHhvYh--4EM11HIncAvK__rUq8nSCS1HVsMTQR05sWL9nD0WmZd1iP2uHEjmdtaIIgPYR66oD4943JTHG8d8MXcIJvAzmNLGUNhhoSkTAI7QmQvCoEhDNXga3RhZZ91DleOIbZG3KGhQkSOdjKnHF3wFcaUDNbzZUUybfPQ",
+               "width" : 3438
+            }
+         ],
+         "place_id" : "ChIJiR7lN7EfoFMRn7jCsHxjpCw",
+         "plus_code" : {
+            "compound_code" : "FC4P+57 Edmonton, Alberta, Canada",
+            "global_code" : "9558FC4P+57"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJiR7lN7EfoFMRn7jCsHxjpCw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "2339 Rabbit Hill Road Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4534908,
+               "lng" : -113.5690622
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4548397802915,
+                  "lng" : -113.5677132197085
+               },
+               "southwest" : {
+                  "lat" : 53.4521418197085,
+                  "lng" : -113.5704111802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "5a6d464e338c102782fe278ee691c23bac2991fd",
+         "name" : "Neighbours Coffee",
+         "place_id" : "ChIJ9xN5e7YfoFMR5FB1w3-0sa0",
+         "plus_code" : {
+            "compound_code" : "FC3J+99 Edmonton, Alberta, Canada",
+            "global_code" : "9558FC3J+99"
+         },
+         "reference" : "ChIJ9xN5e7YfoFMR5FB1w3-0sa0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.44500499999999,
+               "lng" : -113.577543
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4463544302915,
+                  "lng" : -113.5762945197085
+               },
+               "southwest" : {
+                  "lat" : 53.4436564697085,
+                  "lng" : -113.5789924802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "9e8aa05e9c6fc7ba8d1c24a53cb5f4d1df040f11",
+         "name" : "Remedy Cafe Terwillegar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103093281898847271618/photos\"\u003eFusion Titanium\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXWpcJkb_wVzNvLG_wr6WeBYkRSSSIPuHkhJ1E2l5a_A6Nxk8Tcu5HDBiq5-6vQQ_7CsAIXOvrRSOyWXO2TlN85_gGx1FyzosKD1Q_cLLq7cxy7QKxQjY6BgHIQColf6iEhCyTUHTZqtklc7Dx-Aj8QKAGhTfJyP7icBMyNS9LJfYkb8IsAfVmQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJCeLbSTMeoFMRRvvRZhDjZjo",
+         "plus_code" : {
+            "compound_code" : "CCWC+2X Edmonton, Alberta, Canada",
+            "global_code" : "9558CCWC+2X"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJCeLbSTMeoFMRRvvRZhDjZjo",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "1707 Towne Centre Boulevard Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

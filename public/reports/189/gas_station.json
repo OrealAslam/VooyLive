@@ -1,0 +1,869 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5821718,
+               "lng" : -113.4503635
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5834125802915,
+                  "lng" : -113.4488742197085
+               },
+               "southwest" : {
+                  "lat" : 53.5807146197085,
+                  "lng" : -113.4515721802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Hughes",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJpebkcjkjoFMRJ2iwoP_0QtQ",
+         "plus_code" : {
+            "compound_code" : "HGJX+VV Edmonton, AB, Canada",
+            "global_code" : "9558HGJX+VV"
+         },
+         "rating" : 4,
+         "reference" : "ChIJpebkcjkjoFMRJ2iwoP_0QtQ",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "car_wash", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 78,
+         "vicinity" : "12504 Fort Road Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5901979,
+               "lng" : -113.4188182
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5916061802915,
+                  "lng" : -113.4174444697085
+               },
+               "southwest" : {
+                  "lat" : 53.5889082197085,
+                  "lng" : -113.4201424302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Hughes Car Wash",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107117987141592631514\"\u003eJoe Jo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLhrD9-y25uYDfE6BFGaJW9mU4Or7hbRtQts_LhK6Tgv3q1e1qmGH0iel3KjvROTikVsBjn0mJRH4siJiralvirWsydJ6IOU64C8T1Ti1jRYWSVaNDlcgzP0_XdHP8aCj13PCbj8sH8_KBS-eQyBmkMpdRGlg4Zi0eOVEZX-aieCFCb",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ2813Ask8oFMR8g6om7GnDMU",
+         "plus_code" : {
+            "compound_code" : "HHRJ+3F Edmonton, AB, Canada",
+            "global_code" : "9558HHRJ+3F"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJ2813Ask8oFMR8g6om7GnDMU",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "car_wash", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 160,
+         "vicinity" : "5012 130 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5925241,
+               "lng" : -113.4425808
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.59387373029149,
+                  "lng" : -113.4413861697085
+               },
+               "southwest" : {
+                  "lat" : 53.5911757697085,
+                  "lng" : -113.4440841302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "HUSKY",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109150972788146004359\"\u003eHUSKY\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI8D1VxncCmBsPLJlqItF3iDUWQarD26dyaqV_B2krxwvLvDKQjVc-wS6TUmswB9C5TkG6C2gRRVBZaYi0XdOYZQinZZ8pIG86TnEQG8Ciy_PohVjlzUWtDT6BPk5ssCPXw_ndeWce6aFy-DrdJ0MsszYjv-aG6jV2nYflQO7Nu7Uo3",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJq-bkcjkjoFMR_qyWRpW7s4U",
+         "plus_code" : {
+            "compound_code" : "HHV4+2X Edmonton, AB, Canada",
+            "global_code" : "9558HHV4+2X"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJq-bkcjkjoFMR_qyWRpW7s4U",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 116,
+         "vicinity" : "13203 66 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.589037,
+               "lng" : -113.4188091
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5904604802915,
+                  "lng" : -113.4174618197085
+               },
+               "southwest" : {
+                  "lat" : 53.58776251970851,
+                  "lng" : -113.4201597802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "HUSKY",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117769094947384584170\"\u003eHUSKY\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ3d61FvhDL1f4zw6wFlOtmsQy7bDrSo07CtHCc1eBSIA6c2HZY9MGQ-GPk59Cb_ZsgHQAkQ39MwHP7eh_SJLTzHPNm6LxMk0Ue_BMLbgd8nLH6W-FPD8waEhQ5It_GnrJi39JXoKuekq2kBvgNY8cT1G73Cir-wuoGbzaoeMVxMiEC",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJx427Hck8oFMRihlnPla9yQQ",
+         "plus_code" : {
+            "compound_code" : "HHQJ+JF Edmonton, AB, Canada",
+            "global_code" : "9558HHQJ+JF"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJx427Hck8oFMRihlnPla9yQQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 63,
+         "vicinity" : "12986 50 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.57988979999999,
+               "lng" : -113.433394
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.58141613029149,
+                  "lng" : -113.4323347697085
+               },
+               "southwest" : {
+                  "lat" : 53.57871816970849,
+                  "lng" : -113.4350327302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Petro-Pass Truck Stop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103420774125031870383\"\u003eHardeep Dhami\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJejrIlvEXvTYkqHTP58JskDK12aZ7Oxu98uqSdGIwDkn1uTaou-Hj5t_id4RWfogdwxTJyKgjH3F3B0io-AALmqd8iNjbKg6y7OMCCwfWyXPkLxlJIoCzwWkLrr4exEvuoBJMmjSFfBxvTRzb0AjH6E7AcQlcCYtstnhs-a-luC5Ko",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJv9NK9TEjoFMR8FU-GyAV8N0",
+         "plus_code" : {
+            "compound_code" : "HHH8+XJ Edmonton, AB, Canada",
+            "global_code" : "9558HHH8+XJ"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJv9NK9TEjoFMR8FU-GyAV8N0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "car_wash",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 57,
+         "vicinity" : "6031 125 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5970066,
+               "lng" : -113.4175622
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5983555802915,
+                  "lng" : -113.4162132197085
+               },
+               "southwest" : {
+                  "lat" : 53.5956576197085,
+                  "lng" : -113.4189111802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Costco Gasoline",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115917069696865904580\"\u003eThe BoneMan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLXUfRW359UgEPxLroDixj8FzpaBn5BvuMuFnkDEirHXhCYMCik3YefngG6jxC4HNQ3uDiFf6yfXUl3IVZXuwRR0ohKXaS79qXxC0ZsNjp4UIo0z9waik0acrt4bvqW_JNGgb1qIHRq7R4Tg8tE4JG5kUKRirZYho2X_wYxH1j4Dweb",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJR_N6ubk8oFMRnAHio_yiuO8",
+         "plus_code" : {
+            "compound_code" : "HHWJ+RX Edmonton, AB, Canada",
+            "global_code" : "9558HHWJ+RX"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJR_N6ubk8oFMRnAHio_yiuO8",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 130,
+         "vicinity" : "13650 50 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.59766320000001,
+               "lng" : -113.4140542
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5990173302915,
+                  "lng" : -113.4124448697085
+               },
+               "southwest" : {
+                  "lat" : 53.5963193697085,
+                  "lng" : -113.4151428302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3888,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106616784861150642596\"\u003eParthenogenesis Man\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLPgn_g4M8x4g7MnMBqsfB1p5bNePf9Zlrz3vnWRY1oo_RqHaKB78CP9mtMUm2Krt1HAYwqu3V3zuFgyy0hZMdIkQcBpjPHHaGYxwNp3eAbiUVZtNdOkIbW4kUPGnCefOapTldwFhA1ao9Zk4XGl6ipA79aEhs05VAbWWkCKtVe3VaP",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJ7UsbF7k8oFMR74h_5RghnBs",
+         "plus_code" : {
+            "compound_code" : "HHXP+39 Edmonton, AB, Canada",
+            "global_code" : "9558HHXP+39"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJ7UsbF7k8oFMR74h_5RghnBs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 5,
+         "vicinity" : "13704 50 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.59263850000001,
+               "lng" : -113.4665005
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5938322302915,
+                  "lng" : -113.4650381697085
+               },
+               "southwest" : {
+                  "lat" : 53.5911342697085,
+                  "lng" : -113.4677361302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114916051846231954151\"\u003eAdetoyese Oyedun\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLoAW63tx7-vosH-cS9uyxBvDnNAgdHSVuG_StqEOapw61hKDE-Xq5F8F_vvOGtYqfkvywA2jgIC_57r9BfSqPj94vTuSt6UoeKfENvOO_cB4JgRKbGCwaMRY0dc0BaM2b0MV1T9M25I-LRETZqC0cLP7nTJCA16wGaidwYkikZc7oj",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ6QnA62hlcVMR6Y9rj8WFgG4",
+         "plus_code" : {
+            "compound_code" : "HGVM+39 Edmonton, AB, Canada",
+            "global_code" : "9558HGVM+39"
+         },
+         "rating" : 2.7,
+         "reference" : "ChIJ6QnA62hlcVMR6Y9rj8WFgG4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 28,
+         "vicinity" : "13203 82 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5989453,
+               "lng" : -113.4433512
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.60029678029149,
+                  "lng" : -113.4420595197085
+               },
+               "southwest" : {
+                  "lat" : 53.5975988197085,
+                  "lng" : -113.4447574802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJR9fNXU0joFMRnUaY4UbNvRA",
+         "plus_code" : {
+            "compound_code" : "HHX4+HM Edmonton, AB, Canada",
+            "global_code" : "9558HHX4+HM"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJR9fNXU0joFMRnUaY4UbNvRA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "car_wash",
+            "meal_delivery",
+            "finance",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 43,
+         "vicinity" : "13610 66 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.59833330000001,
+               "lng" : -113.4216666
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5998703302915,
+                  "lng" : -113.4201672697085
+               },
+               "southwest" : {
+                  "lat" : 53.5971723697085,
+                  "lng" : -113.4228652302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Petro-Canada & Car Wash",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107117987141592631514\"\u003eJoe Jo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJhOVXM_Rp7RxRJuHNAUBbt6kKVTt23y9EWHoI_4AaSofqdEnKZW22GUHRXAOTsVLgmw8FLn6PZKD22vEgy1YNRI9WmQzwD_sK9QMWHmBNzgUaq18y029Ze-PUPusnqthcRUV4AJKwKV1QuhxbZfYd6l7W1KKUpJVKF6bx67YhXDqas",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJCzw3A7k8oFMReKR00smC1cc",
+         "plus_code" : {
+            "compound_code" : "HHXH+88 Edmonton, AB, Canada",
+            "global_code" : "9558HHXH+88"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJCzw3A7k8oFMReKR00smC1cc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 193,
+         "vicinity" : "5011 137 Avenue NorthWest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.58589449999999,
+               "lng" : -113.4278135
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.58733533029149,
+                  "lng" : -113.4264644697085
+               },
+               "southwest" : {
+                  "lat" : 53.5846373697085,
+                  "lng" : -113.4291624302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Kennedale Fuel Site",
+         "photos" : [
+            {
+               "height" : 2109,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101728822948513079044\"\u003eJohn Van Hal\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIVuiGrs25iy4HqkLli8Vn6AaPo5LzMY8abB1LcCMkvd8p3QeB3_E2-RFwkIdT8205xP1JSRJnRLykSONqBCJs4uPsrpTIjYJRGC8sAMH4CYrFDVs1NSvNGeCpGpTr95fc4MnSUvdbSHCYJUt_6saYcXam0-gR2_PtTHjQ9lOSy1YNm",
+               "width" : 2835
+            }
+         ],
+         "place_id" : "ChIJ6dbCl7o9oFMRPchscZCe7j8",
+         "plus_code" : {
+            "compound_code" : "HHPC+9V Edmonton, AB, Canada",
+            "global_code" : "9558HHPC+9V"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ6dbCl7o9oFMRPchscZCe7j8",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "5611 128 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5821718,
+               "lng" : -113.4503635
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5834125802915,
+                  "lng" : -113.4488742197085
+               },
+               "southwest" : {
+                  "lat" : 53.5807146197085,
+                  "lng" : -113.4515721802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Hughes Car wash",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109008579360474168933\"\u003eShannon B\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKvDEw4gXK1NpI74HyHkLPKVNepvh14LhA6-gQtw2r8cg32_5aFtEfkd87wKuUgQaR_U8PjGLjvXtL7j2RBiFII78qgy_yqNVlviNgEtOxk5Zf7foZhe9dOPGwHmGvxlVPe8gdCCIouDK7KVC958I7zE-4Kkfluk20UOceG5ae6W2z-",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ38ct9s8joFMR0e0Ac2sxFtQ",
+         "plus_code" : {
+            "compound_code" : "HGJX+VV Edmonton, AB, Canada",
+            "global_code" : "9558HGJX+VV"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJ38ct9s8joFMR0e0Ac2sxFtQ",
+         "scope" : "GOOGLE",
+         "types" : [ "car_wash", "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "12504 Fort Road Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.58054019999999,
+               "lng" : -113.4317494
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5821430302915,
+                  "lng" : -113.4308144697085
+               },
+               "southwest" : {
+                  "lat" : 53.5794450697085,
+                  "lng" : -113.4335124302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Edmonton East UFA Petroleum Agency & Cardlock",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115227068090786826594\"\u003eBozko\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ1qg_HNuEmcGQgy1UAtCQJiLUZ4FxUwsj61HHryKPbT_k5Nx7KFXdK4hMeuog5ZEI5o65lIXDSwBuJVyhLHj0BxcUbIm5VhfOSoBUriS5Qz1wo1PE0w1WV_I-n6qnJdluF7V_D7HIirXdUlH-a-OKi3Eb6UqCaxi7ljdBbb-zF3HvO",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ9b2e9O0joFMRhpQezFI_E_M",
+         "plus_code" : {
+            "compound_code" : "HHJ9+68 Edmonton, AB, Canada",
+            "global_code" : "9558HHJ9+68"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ9b2e9O0joFMRhpQezFI_E_M",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 47,
+         "vicinity" : "5903 125 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6013658,
+               "lng" : -113.4207594
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6027046302915,
+                  "lng" : -113.4194858197085
+               },
+               "southwest" : {
+                  "lat" : 53.6000066697085,
+                  "lng" : -113.4221837802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Safeway Fuel Station",
+         "place_id" : "ChIJ1_5zhbo8oFMRggUDwWRg8DQ",
+         "plus_code" : {
+            "compound_code" : "JH2H+GM Edmonton, AB, Canada",
+            "global_code" : "9558JH2H+GM"
+         },
+         "price_level" : 2,
+         "rating" : 3,
+         "reference" : "ChIJ1_5zhbo8oFMRggUDwWRg8DQ",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "500 Manning Crossing Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.601378,
+               "lng" : -113.4207536
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6027161802915,
+                  "lng" : -113.4194849697085
+               },
+               "southwest" : {
+                  "lat" : 53.6000182197085,
+                  "lng" : -113.4221829302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Safeway Gas Bar",
+         "place_id" : "ChIJG2bG-bo8oFMRSlrD-VJv0kY",
+         "plus_code" : {
+            "compound_code" : "JH2H+HM Edmonton, AB, Canada",
+            "global_code" : "9558JH2H+HM"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJG2bG-bo8oFMRSlrD-VJv0kY",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 23,
+         "vicinity" : "440 Manning Crossing Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.59762079999999,
+               "lng" : -113.4142928
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5989682302915,
+                  "lng" : -113.4128894697085
+               },
+               "southwest" : {
+                  "lat" : 53.5962702697085,
+                  "lng" : -113.4155874302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "ESSO 7-Eleven 37815",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1296,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102530310973299049475\"\u003eClarence Gadowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLWuD6AknXL6ELSWLEwNfiAKdhWCF8xmjuqR8vshIDWKDlXVziZSTzDkU1Li1D1AwLBUWfZ47vwUhGj7X6W5STblq3jT_0YLFdjGmURO29d9SKv3sSTvnQxp4gX0ghHAJ8eFIwh75XuuLRfPpXAR5rqgDjorr4HJIDBAlPn4Mn3HLho",
+               "width" : 976
+            }
+         ],
+         "place_id" : "ChIJi-khPLk8oFMRj6L1xe8hwZM",
+         "plus_code" : {
+            "compound_code" : "HHXP+27 Edmonton, AB, Canada",
+            "global_code" : "9558HHXP+27"
+         },
+         "rating" : 4,
+         "reference" : "ChIJi-khPLk8oFMRj6L1xe8hwZM",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 110,
+         "vicinity" : "13704 50 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5976939,
+               "lng" : -113.4144707
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.59908618029149,
+                  "lng" : -113.4126561197085
+               },
+               "southwest" : {
+                  "lat" : 53.5963882197085,
+                  "lng" : -113.4153540802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Esso",
+         "photos" : [
+            {
+               "height" : 3888,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106616784861150642596\"\u003eParthenogenesis Man\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL6FAJ9O85Y-tKJu_nfvdHEQJzBMEU9iwTkBdUlB3X1h5BChV6Yv4cYtRRZGP9kuqkfVFTlxm2cI25vt8vO1j-yC5TimtUGEPbu-93oG5_cdnJpZ7TRwtOXMlzkeCQTi10NYlTmJB06wJ2dWdoFvuvSrtBtLDewfDRYUglDBV5q3nYa",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJIaFYPLk8oFMROsAfX1_PdUQ",
+         "plus_code" : {
+            "compound_code" : "HHXP+36 Edmonton, AB, Canada",
+            "global_code" : "9558HHXP+36"
+         },
+         "reference" : "ChIJIaFYPLk8oFMROsAfX1_PdUQ",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "13704 50 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5926112,
+               "lng" : -113.4667378
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5939589802915,
+                  "lng" : -113.4656011197085
+               },
+               "southwest" : {
+                  "lat" : 53.5912610197085,
+                  "lng" : -113.4682990802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114916051846231954151\"\u003eAdetoyese Oyedun\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKwHSmfqqUmMYobEulmFPWlkZqRuIdkHbQsxwImfqUndAn508rZDHKxjH_uB2s_DEcXiRJch7dQ9OW5AjcbZ5HK9PwKXGmHd6r7fJzJH-IqwNvhJWPzx2c_3OBfY5u9tmZJgeiimRbQyrstQc1aNzurQEDSFLelR_0xYV1ipywIsKLb",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJtQmnEUMjoFMRzV1bDMQKaks",
+         "plus_code" : {
+            "compound_code" : "HGVM+28 Edmonton, AB, Canada",
+            "global_code" : "9558HGVM+28"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJtQmnEUMjoFMRzV1bDMQKaks",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 62,
+         "vicinity" : "13203 82 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5976917,
+               "lng" : -113.4111417
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5990297802915,
+                  "lng" : -113.4099224197085
+               },
+               "southwest" : {
+                  "lat" : 53.5963318197085,
+                  "lng" : -113.4126203802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "MOBIL@ - 1766",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2218,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110657774316045666629\"\u003eStellar Creations\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIyha_advoyM2NFoPfCVj5WnldJxM9SXQcU5gwH_4-qTPvL-dBkbkG8kDht3yXXpX1nrptnOuveKH2kzjDNc3EpsuSwOGTpCsVGOLmSKQu4Z6HGaNKFRhO8iEQqx852JYYJpaGBO7zUYlEnjCJ2DLAKczR8AmmMW-DJD0r5hJBxvkBg",
+               "width" : 4656
+            }
+         ],
+         "place_id" : "ChIJGXzJ3rw9oFMRn5A0TZ2oZxw",
+         "plus_code" : {
+            "compound_code" : "HHXQ+3G Edmonton, AB, Canada",
+            "global_code" : "9558HHXQ+3G"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJGXzJ3rw9oFMRn5A0TZ2oZxw",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 138,
+         "vicinity" : "4950 137 Avenue NorthWest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

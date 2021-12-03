@@ -1,0 +1,997 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEDrfwTbremCJvSiPqFtT6-qqlt30rr4ll58L0qBJkkjiGgPdGYvOqYvdkV84eRGe-9byrNCS2snDvtsW-qWfrJ3YY75l1inwmUfsYWkMScTumrs0mm_lG6nPdhHsKQGtnggANUYFNPqPtAdcBzmUJF59bDpXQnGkl6qDB34CxytoAbJrhT9Zy-dnQdSxNfl2u2NEbrwcq2Flx6iwHmXKKLwEE0XOA9ntoKueOTf81eDzKyIFOhiNvMz9-Eai1MKgaeKg2ymqigl4Fd3wY_P5qm3453IoI4wMfSZPcwX3ORhgmY5mOeSkT6fcCKsHRgmeTAisB66qPKOIIn2wVtUd_i4yypxJyDs1aY7Fff0YHMif3tz6LjAniShuZcNw-SIxuBsrkbHc2zotd_8H8Qps_X4zYttv0AxcraPdvWmWfVnS07JRwtIenDGRz3XXAnS82rrkpzOX1GEr79cCi97jKHDwR5POwpUMGYGPWzV4sliuEeniidMg_qJn7OgwDI3M9PeOQOp4DwoFU43iCk-mXM2gU3Iki_IbOijqEFOhcsV31xoWToeP68mymbQnXjJ0qDvZkzVe9I42sP2Ybq1v2c4d6GkZU5OPkQeKpYjTVH_YyZEvmRH0I2xcId9DSO9C3DHtk8jzbqXHh_0zRme6kwMZJ7o8leS_EJv8enZmaAB8my440gQpMb1k53tUlbAsQvxRpKIZ47PKouI-i-2cLiCQxmCMb7JWe3z631qg9TcgRc-Qbzqk1Z0mQ",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.67223369999999,
+               "lng" : -79.290419
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.67350408029149,
+                  "lng" : -79.28902956970849
+               },
+               "southwest" : {
+                  "lat" : 43.67080611970849,
+                  "lng" : -79.29172753029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Tori's Bakeshop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3006,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101100952608807952978\"\u003eFabrizio Bovinho\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC4CCCRWhDo40jcWOxtWbcZsJ217oQ_Zwa9_Z2cSbxEvu30vbJFkX32fboJxQpwcS7TVjZu0R2_-weTZ5KAevNMswyjDRYSXDHIjRwZaxYgwAlUQ5YOpHcRv-cJYEQtbl-eMqwcx71auassga-ijO_J40MJETa85BtsX3Mqe-hYzd_H",
+               "width" : 5344
+            }
+         ],
+         "place_id" : "ChIJ30MrxITL1IkR0xEhpCQihEs",
+         "plus_code" : {
+            "compound_code" : "MPC5+VR Toronto, ON, Canada",
+            "global_code" : "87M2MPC5+VR"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJ30MrxITL1IkR0xEhpCQihEs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 420,
+         "vicinity" : "2188 Queen Street East, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.68986799999999,
+               "lng" : -79.293306
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.69132558029149,
+                  "lng" : -79.29198716970849
+               },
+               "southwest" : {
+                  "lat" : 43.68862761970849,
+                  "lng" : -79.2946851302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Country Style",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2272,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116124106043749090192\"\u003eAnthony Bernstein\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDxPucQPGRFGS4F_sUBMgrzEE6dBHJIWSIOJISFr3pWla8ri8xyyS6oLRqIqlZG-icn72fPlE7PBzVqMVuJ2FSR9dKNIm61mjXehtTGpWU7ekh8wpCZp68sZt5-5-Sf0OvZREvHKikdl09pIEmawIB3XWPmdLQSddeJGqvUDBOND3z2",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJS6PiuiHM1IkRN_mvppiB8Qw",
+         "plus_code" : {
+            "compound_code" : "MPQ4+WM Toronto, ON, Canada",
+            "global_code" : "87M2MPQ4+WM"
+         },
+         "price_level" : 1,
+         "rating" : 3.1,
+         "reference" : "ChIJS6PiuiHM1IkRN_mvppiB8Qw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 172,
+         "vicinity" : "2929 Danforth Avenue, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.68814919999999,
+               "lng" : -79.2885175
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68942538029149,
+                  "lng" : -79.28714051970849
+               },
+               "southwest" : {
+                  "lat" : 43.68672741970849,
+                  "lng" : -79.28983848029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100105609861800838167\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED24jJXFYpRgyihPAp2pE3VfBJRQjzuExtV7k5ZANud6sMMneWTm31u70Fb2fkREIMWKga5fxmuDfl0C-1ZIy_ISTUncxrL1MaL-TSjxXA_xP6-nUwq-N7YdKO6cAAlWMYhD9nwmQwIymL7H_OaU4zhJFD3jVS5ol44cP7CCuawaij5",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJH6NTkJ_O1IkRiRhrh1HX5mY",
+         "plus_code" : {
+            "compound_code" : "MPQ6+7H Toronto, ON, Canada",
+            "global_code" : "87M2MPQ6+7H"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJH6NTkJ_O1IkRiRhrh1HX5mY",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 160,
+         "vicinity" : "50 Musgrave Street, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6909928,
+               "lng" : -79.28787659999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6923050302915,
+                  "lng" : -79.28651161970849
+               },
+               "southwest" : {
+                  "lat" : 43.6896070697085,
+                  "lng" : -79.2892095802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109137204574000037551\"\u003eHabib Khan\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECF3bKMlk-2ZrmT4TCDJZ6xsZI3vxoGRiqJ4i6ZQI3jllp7tg-2g5nmMBpAlMlUjwu9ek64qhr2XO0wRyeqfAZ1-CYqMFTAroYUccAB_8JsCZBzl6M8wUFzhngDpCJfa5INzIMYjfPUKjFAaGbf0zR80zFdpFfSyHrbQppul4btYe8F",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJK7rrQp7O1IkRi3tpGTulsbw",
+         "plus_code" : {
+            "compound_code" : "MPR6+9R Scarborough, Toronto, ON, Canada",
+            "global_code" : "87M2MPR6+9R"
+         },
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "ChIJK7rrQp7O1IkRi3tpGTulsbw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 156,
+         "vicinity" : "3075 Danforth Avenue, Scarborough"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.68849509999999,
+               "lng" : -79.30184199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6897420802915,
+                  "lng" : -79.3005054697085
+               },
+               "southwest" : {
+                  "lat" : 43.6870441197085,
+                  "lng" : -79.30320343029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Pavillion Pastries Cafe",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109390138122314419893\"\u003eFiona Yeung\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBjtZSj8gTxJYvj09Z_y9bheCWdY6GGKFYASZO211kyR6gCR8vzlqstkRcv7h_eci4_PRJ-hxF_sKXeoU6j8jsVeR5qaUqhe03eX8gDqSHbWc5RUCJsdQNhXHd1pnbM3jESAdQ6L64iAdlNXqghfYcPGk3bUzGGWZqKHt06SmhUbdgS",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJlSJD9hfM1IkRitKs5cGDLVA",
+         "plus_code" : {
+            "compound_code" : "MMQX+97 Toronto, ON, Canada",
+            "global_code" : "87M2MMQX+97"
+         },
+         "price_level" : 1,
+         "rating" : 4.4,
+         "reference" : "ChIJlSJD9hfM1IkRitKs5cGDLVA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 142,
+         "vicinity" : "2554 Danforth Avenue, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6947157,
+               "lng" : -79.28913279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.69606468029149,
+                  "lng" : -79.28778381970848
+               },
+               "southwest" : {
+                  "lat" : 43.69336671970849,
+                  "lng" : -79.2904817802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Daily Perk Coffee Co Ltd",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2582,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105604559513658571877\"\u003eRobert Mesina\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAa-rVpiVi9jWqJio8s5lUXCaQb6NjiP8n3yD1In4zUN6ZhHklXPPZ1ZbqG7SCOiKEWhiuHvIazx4QGiOihS-9I3eoc7rNKTEHBECSxbgHesS-uhgKHZrlpnvHDPqdQo8ShTzG5ip9pgEVsZ30wzxmn49TfI9fLZXTqAVDf05QKuECb",
+               "width" : 3610
+            }
+         ],
+         "place_id" : "ChIJReusQCjM1IkR-oQHjrPcek4",
+         "plus_code" : {
+            "compound_code" : "MPV6+V8 Scarborough, Toronto, ON, Canada",
+            "global_code" : "87M2MPV6+V8"
+         },
+         "rating" : 4,
+         "reference" : "ChIJReusQCjM1IkR-oQHjrPcek4",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 27,
+         "vicinity" : "Victoria Park Subway Station, 777 Victoria Park Avenue, Scarborough"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6862321,
+               "lng" : -79.3111601
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68760528029149,
+                  "lng" : -79.30973041970849
+               },
+               "southwest" : {
+                  "lat" : 43.6849073197085,
+                  "lng" : -79.31242838029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Coffee Time",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108822761296561478687\"\u003ePatrick Asselin\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDWNrccXrM8dhWVfzI4M2HqR5oIgVy4AWiUuompukR47t0hPaPtlMTNsrk9QZD7k91lWFgmzqredTkDTmhw_aZUPNFklbKSaOFZzNaBw-FTpUnyutLsdonWF_mZ7S_rrbeWLyaz82M4GuF1QXhYHRe8AV7U_nFBcHKxus90X3W9dxEF",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJLZpUlBTM1IkR9UM-xT-aRYs",
+         "plus_code" : {
+            "compound_code" : "MMPQ+FG Toronto, ON, Canada",
+            "global_code" : "87M2MMPQ+FG"
+         },
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "ChIJLZpUlBTM1IkR9UM-xT-aRYs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 103,
+         "vicinity" : "2146 Danforth Avenue, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6698363,
+               "lng" : -79.301783
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6710988802915,
+                  "lng" : -79.30040116970849
+               },
+               "southwest" : {
+                  "lat" : 43.6684009197085,
+                  "lng" : -79.3030991302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Bud's Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 809,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105108204402607000300\"\u003eBud&#39;s Coffee\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBzT1loZ-vgmGGCx676t48sVqLFr3G9-WbLYmBs_4Vg1CHVlsA4VfFyvKkDBYJEmynrCcC_ZJAOYA-gjJ6LyH2CBL36t9DJbdyV3M1dRsaYN803v_wM2TUsp1NIvMYSI_ApGtE4rZLGjGnGKKwi1OB2W-KYv579yiPVFWIS1E7CEZHL",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJx1NgxPfL1IkRGjqvyJghqig",
+         "plus_code" : {
+            "compound_code" : "MM9X+W7 Toronto, ON, Canada",
+            "global_code" : "87M2MM9X+W7"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJx1NgxPfL1IkRGjqvyJghqig",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 248,
+         "vicinity" : "1966 Queen Street East, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.69642959999999,
+               "lng" : -79.2944413
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.69767493029149,
+                  "lng" : -79.2930833697085
+               },
+               "southwest" : {
+                  "lat" : 43.6949769697085,
+                  "lng" : -79.2957813302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kaygee Construction Inc. o/a A. G. Designs",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ_eCcbybM1IkRpYCmeq491T8",
+         "plus_code" : {
+            "compound_code" : "MPW4+H6 Toronto, ON, Canada",
+            "global_code" : "87M2MPW4+H6"
+         },
+         "reference" : "ChIJ_eCcbybM1IkRpYCmeq491T8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "cafe",
+            "bar",
+            "general_contractor",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "1 Massey Square, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.672704,
+               "lng" : -79.28803599999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6739819802915,
+                  "lng" : -79.28665876970848
+               },
+               "southwest" : {
+                  "lat" : 43.6712840197085,
+                  "lng" : -79.28935673029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Ed's Real Scoop - Beaches",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115763270629714646947\"\u003eBryan MacDiarmid\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB2plF_y42TtQBBrzpOtFt9XHa-O5Si8rlGBZp92RvrOJ3I5H2iRZ83tnZCfteCjaIWDBcEuyOQFkIrfTfsHeN-VE_6eTm9WISqM0AfMlR8yAga15U2K6T4bHZHhFn01SyuZA4qBMZWY1qBkyr4XpUUUpvzbsS2w7SdkzbynvVn8npU",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ_W_CMKrO1IkRMkUj3mb3Iys",
+         "plus_code" : {
+            "compound_code" : "MPF6+3Q Toronto, ON, Canada",
+            "global_code" : "87M2MPF6+3Q"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJ_W_CMKrO1IkRMkUj3mb3Iys",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 735,
+         "vicinity" : "2224 Queen Street East, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6856078,
+               "lng" : -79.3139362
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6868781302915,
+                  "lng" : -79.31255866970849
+               },
+               "southwest" : {
+                  "lat" : 43.6841801697085,
+                  "lng" : -79.31525663029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Zav Coffee Shop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114008745891440928257\"\u003eZav Coffee Shop\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED-YJX56pimqOTPfPviWmD9Y8wQrLPeZQVGdnoNeMcL7ys5qFtNBWdqsXPAqEH4MDtlBOXPnmtHYdv77-PqS9vID4Ki3xWOS3Xjv47ySIhMdsMgICxRJbS5baG8duChZAHgsLdDM8zD_wFGrnV6A-ilgqN-VrMIEQ_tiC5RCCaAR7ZT",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJs2bjXmvM1IkRC8VltIK2IWU",
+         "plus_code" : {
+            "compound_code" : "MMPP+6C Toronto, ON, Canada",
+            "global_code" : "87M2MMPP+6C"
+         },
+         "price_level" : 1,
+         "rating" : 4.6,
+         "reference" : "ChIJs2bjXmvM1IkRC8VltIK2IWU",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 234,
+         "vicinity" : "2048 Danforth Avenue, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.685084,
+               "lng" : -79.3149073
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68643298029149,
+                  "lng" : -79.31355831970849
+               },
+               "southwest" : {
+                  "lat" : 43.68373501970849,
+                  "lng" : -79.3162562802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Cafe Cocoro",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100945275772833613014\"\u003eCafe Cocoro\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC4id3Mqa5yxzw-4RvDYRcDx-lYxo8Hpqrwa2kp84fFkQDb71rQpjymDwF4FSd3RqFaXXYXIOR0UM5zpQzBuTT_MIFyuXKrDY-JTFxLpl9yRnn2JZigPvsuq3U6Zzc5oDMNgeir4ReP4XUUcfR4Wj7jUVQzYq1KZYoQeyH0AaFmoXga",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJCS3YhGzM1IkRJ5mcK7AF-Xw",
+         "plus_code" : {
+            "compound_code" : "MMPP+22 Toronto, ON, Canada",
+            "global_code" : "87M2MMPP+22"
+         },
+         "price_level" : 1,
+         "rating" : 4.7,
+         "reference" : "ChIJCS3YhGzM1IkRJ5mcK7AF-Xw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 266,
+         "vicinity" : "1989 Danforth Avenue, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6780488,
+               "lng" : -79.3147736
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6793977802915,
+                  "lng" : -79.31342461970848
+               },
+               "southwest" : {
+                  "lat" : 43.6766998197085,
+                  "lng" : -79.31612258029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Bodega Henriette",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2841,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113488089404741649722\"\u003eJenny Lam\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBMgeuDKMDifQ25c4oOLzRpanuoFX7IYtuH53tMAfcVcGzlMnCxdaLhVZIcxe09WEgTQ3coJwtMybVnJ6_FLK8vBOfMbMugTbS7Kx4QmEAn36Pl-OtdtPTuHXiFdXqBwDf4QT_NThD7LJd5mwvua0XUpUC4QjaAwj_VlHgzjkG7wtIs",
+               "width" : 3789
+            }
+         ],
+         "place_id" : "ChIJjV1qG3PM1IkR8dqA_1b57Hc",
+         "plus_code" : {
+            "compound_code" : "MMHP+63 Toronto, ON, Canada",
+            "global_code" : "87M2MMHP+63"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJjV1qG3PM1IkR8dqA_1b57Hc",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 552,
+         "vicinity" : "1801 Gerrard Street East, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6808819,
+               "lng" : -79.284944
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6822007802915,
+                  "lng" : -79.28369176970848
+               },
+               "southwest" : {
+                  "lat" : 43.6795028197085,
+                  "lng" : -79.2863897302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113620563874230673216\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB2zJqvOIFLB4C-zn-gryLtKKx9ifPB6g9sIOQIPJkIUIgkhN65iL4tIDHMiy2t8McXAy8i9zFbmQlN7jsNnZqOqzW1x6ZSc5BBm8pmvOgjASW91LGqaz1tHqgIFWxy4i1pfLuaHqmF1goDnhxCGDNjtGtL7Uo74AXHrV80IQuDoBWi",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJWd1KhKbO1IkR9nXeOAqpVpc",
+         "plus_code" : {
+            "compound_code" : "MPJ8+92 Toronto, ON, Canada",
+            "global_code" : "87M2MPJ8+92"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJWd1KhKbO1IkR9nXeOAqpVpc",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 236,
+         "vicinity" : "1020 Kingston Road, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6875527,
+               "lng" : -79.2865575
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6889587302915,
+                  "lng" : -79.28527456970851
+               },
+               "southwest" : {
+                  "lat" : 43.6862607697085,
+                  "lng" : -79.28797253029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114842505477372159901\"\u003eChen Shaowei\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBRWfBhiC87Lbln4lXmj7lJf-tbm5OVjrE4YGyaCZ5xg_UDlF5RZ_PiTEVFHw40JRfoK4FDOiwJCyCcwSlgLtWD6w85rRtz2NTo8AvbVJKzEX4tp7ZbU9i90RVRMGuP1PViQHRSrsjG9fvTHpbyn-9ghi_gtsvsvaCHdu6lFLVTBmf5",
+               "width" : 4208
+            }
+         ],
+         "place_id" : "ChIJfU-mYJ_O1IkRlOYFOIGB_WY",
+         "plus_code" : {
+            "compound_code" : "MPQ7+29 Scarborough, Toronto, ON, Canada",
+            "global_code" : "87M2MPQ7+29"
+         },
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "ChIJfU-mYJ_O1IkRlOYFOIGB_WY",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1702,
+         "vicinity" : "2480 Gerrard Street East, Scarborough"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.67289969999999,
+               "lng" : -79.28705189999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6741825302915,
+                  "lng" : -79.28567111970848
+               },
+               "southwest" : {
+                  "lat" : 43.6714845697085,
+                  "lng" : -79.28836908029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Remarkable Bean",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 820,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110099692068796552279\"\u003eRemarkable Bean\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAwYXY_-i44tXZhSF4S47SNOf8St6ldp1NofH9EnD_CJMlQJ4YMxKrd7j91jCL2KS7xquT9fba9c8ZMo_HKcbseSfwq7e36fS0gjrVnPCArr4npd_nlaJBEwjmu46UPYRfYuTSuve2dPo3qePzRaTWZPGU6_U6hkF8Qpsdydc5Cy56l",
+               "width" : 1538
+            }
+         ],
+         "place_id" : "ChIJGaAd0qvO1IkR7H8vu1nRChw",
+         "plus_code" : {
+            "compound_code" : "MPF7+55 Toronto, ON, Canada",
+            "global_code" : "87M2MPF7+55"
+         },
+         "price_level" : 1,
+         "rating" : 4.4,
+         "reference" : "ChIJGaAd0qvO1IkR7H8vu1nRChw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 335,
+         "vicinity" : "2242 Queen Street East, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6711451,
+               "lng" : -79.2956351
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6724193302915,
+                  "lng" : -79.29424246970849
+               },
+               "southwest" : {
+                  "lat" : 43.6697213697085,
+                  "lng" : -79.29694043029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Juice & Java Cafe",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103758146677640115314\"\u003eN. B.\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA4FlruTxVhwcoJOwT7N1iCtmA6-pTtaPKPTd-8aYpusIkyCje8rdFBB5pOw-iBVNX44T3oNWIAGm32-qsEOVBgniDjLz19-yDgNI1pEvFtsYmsdjKFfnbqWNYWPutIkBMxgXJDyG6C7_woYUJ0QPAQ2GyQ2wh8HMZZjmkuibWkTOkn",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJGzpiywDM1IkRtFK9CXdhOBU",
+         "plus_code" : {
+            "compound_code" : "MPC3+FP Toronto, ON, Canada",
+            "global_code" : "87M2MPC3+FP"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJGzpiywDM1IkRtFK9CXdhOBU",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 183,
+         "vicinity" : "2102 Queen Street East, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.680861,
+               "lng" : -79.2871176
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6821900802915,
+                  "lng" : -79.28582816970849
+               },
+               "southwest" : {
+                  "lat" : 43.67949211970851,
+                  "lng" : -79.2885261302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Savoury Grounds Coffee Co.",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2514,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102056096619125183543\"\u003ecolin munro\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDuzgjJ-i_E4SlPNSYhKn8dGa-uLJ42o_ZWveoXZW_11E6zSyWYbjJGu44OpdGlJCclTLCJ8OtBcM8UV8FmMhm7P7TK4-BcG__LynvHDE5EfPRRNxqgDKFbccMvE9oH3wzdP_Ch1NHVRSxzRBMWz58y-_WCMiU0FxryKMNqC3Am3ZDr",
+               "width" : 2515
+            }
+         ],
+         "place_id" : "ChIJ6xkZ_KbO1IkRIY6z3c16aIU",
+         "plus_code" : {
+            "compound_code" : "MPJ7+85 Toronto, ON, Canada",
+            "global_code" : "87M2MPJ7+85"
+         },
+         "price_level" : 1,
+         "rating" : 4.8,
+         "reference" : "ChIJ6xkZ_KbO1IkRIY6z3c16aIU",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 103,
+         "vicinity" : "283 Scarborough Road, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.680705,
+               "lng" : -79.28654569999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6819984802915,
+                  "lng" : -79.28517901970849
+               },
+               "southwest" : {
+                  "lat" : 43.6793005197085,
+                  "lng" : -79.28787698029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "The Porch Light",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114846433247051927359\"\u003eThe Porch Light\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC0uttUFVmZadBtLWw0rmirgNcdcDfOrJxediQtsgQivZMczvdL68RshomkDy2gibmfWdhbBAXKYOb9vesPzE2eLbTEqbPquCUI3DzJ7YLUjAduNtZMJtDClZgjgFwwtsOWFWVxsL19rXlgwphGjlIxxjl3Eb503UH4XXDHcuCl4bBQ",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJT4wY96bO1IkRCLUfBOb1960",
+         "plus_code" : {
+            "compound_code" : "MPJ7+79 Toronto, ON, Canada",
+            "global_code" : "87M2MPJ7+79"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJT4wY96bO1IkRCLUfBOb1960",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 158,
+         "vicinity" : "982 Kingston Road, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6808327,
+               "lng" : -79.28570000000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6820996802915,
+                  "lng" : -79.2843384697085
+               },
+               "southwest" : {
+                  "lat" : 43.6794017197085,
+                  "lng" : -79.28703643029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Major Treat Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112862585273042907074\"\u003eMajor Treat Coffee\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECfUhyavWBozGG7ApiX2e3Y-MwUazJvHE5hC5eUcDSOhQnN8CfDNOyKmSa8Y-Xb4eETdsgADlcRoLs2RwthT0cGznM6fDH4WrJIczW1TERkFjcgZBuMICdZ2LbsLZI9uo6HLzdnu2d9WmLUQWcerLhn8uFCreXHkp9y7dXRrz69jbsU",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJY1xJEy7P1IkRBHkBntAcdvU",
+         "plus_code" : {
+            "compound_code" : "MPJ7+8P Toronto, ON, Canada",
+            "global_code" : "87M2MPJ7+8P"
+         },
+         "reference" : "ChIJY1xJEy7P1IkRBHkBntAcdvU",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "vicinity" : "998 Kingston Road, Toronto"
+      }
+   ],
+   "status" : "OK"
+}

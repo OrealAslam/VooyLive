@@ -1,0 +1,717 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQECwIAAJ0GI9CDAWHW1-GLwvhVJM72ml3dQVp4_Z_87YKc9OG8dR6hiDQOx1tdqthvtyR5XclmSIlBIYgPfrLU5RlaIhHfdtBhUbEe9zMG47Iwl2iotrzObwaHNEi77msn5j1wuvIzC79BBj_-DTMNkpaOhGUS6O2vn4Qx1_wLm3EnIX0hCRMcQTvBtGMgzIm5d9EDX78OzaiVm775JXgY6XK5_PM8N87vx7ojCM1YyEc_jASaVAfAfxVNAithmTU_VNJ7NFTIWsSz90d9mKHI8Q07Q0mt5yxAThGlrybzy-D-kwI3bQbjwqi5GtnJFW81kgdPj-q08yq7sL_Kkf4uURZzFXY--cJP0q7R37VrjLK9LrhiQKh-JIGoR-cGpEdL1IvX96hD_Fs1NHcorwHloEIcZvvG7CX9ttQr6KIe0YCzPZkZiizlUYKu5ELtnCkmalRsmZilxjTYvl8K8dmF9TC_MbAlAjwOEqj8eTEVGKVymSkCKJsZVwmFOQPcbQqMznOAeGE96fr6kmgsG4l9HI9qE7dKt8HWUkRcIC2wFCca1nS_y_R_ixZzdBdn5ICyxKhBqoZprSvFy0_rObB6tnZSgwVED5MP-bCKlcJQqr-bYIihAp7logegnA1L9jBSwNVn7k4cNW5bwsvktY-3ntWM1AVKp1DJiV256YlVs9UYv1qsLnB01de1xFNSlz976vHR8hIQ00gsX7LdVEnQNUL7iqbkBRoUKbsF5T6h2I7IrHMrrO6vp39ppdo",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.784916,
+               "lng" : -79.31310999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7862906302915,
+                  "lng" : -79.31177211970849
+               },
+               "southwest" : {
+                  "lat" : 43.7835926697085,
+                  "lng" : -79.3144700802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "329a554c283aa4a6a85c0c3d8ca989e23aec043c",
+         "name" : "Huntingwood Dr At Bridlewood Blvd",
+         "place_id" : "ChIJdzFgU7XT1IkRAkXRkSvFCq0",
+         "plus_code" : {
+            "compound_code" : "QMMP+XQ Toronto, Ontario, Canada",
+            "global_code" : "87M2QMMP+XQ"
+         },
+         "reference" : "ChIJdzFgU7XT1IkRAkXRkSvFCq0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.784611,
+               "lng" : -79.315056
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7859250302915,
+                  "lng" : -79.31369096970849
+               },
+               "southwest" : {
+                  "lat" : 43.7832270697085,
+                  "lng" : -79.3163889302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "0587c61b34b328bb436caa37e2d0298a024c3426",
+         "name" : "Huntingwood Rd At Ridgecrest Dr",
+         "place_id" : "ChIJC4II0UrS1IkRd5MFgR-NGXA",
+         "plus_code" : {
+            "compound_code" : "QMMM+RX Toronto, Ontario, Canada",
+            "global_code" : "87M2QMMM+RX"
+         },
+         "reference" : "ChIJC4II0UrS1IkRd5MFgR-NGXA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.785151,
+               "lng" : -79.31269
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7864641802915,
+                  "lng" : -79.31132591970849
+               },
+               "southwest" : {
+                  "lat" : 43.7837662197085,
+                  "lng" : -79.3140238802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "74c3189881b2fe738283c8198efc6e871eaa5d9c",
+         "name" : "Huntingwood Dr At Kenmanor Blvd West Side",
+         "place_id" : "ChIJ32bpqcrT1IkROcXiMGVukJU",
+         "plus_code" : {
+            "compound_code" : "QMPP+3W Toronto, Ontario, Canada",
+            "global_code" : "87M2QMPP+3W"
+         },
+         "reference" : "ChIJ32bpqcrT1IkROcXiMGVukJU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.784423,
+               "lng" : -79.315314
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7857843802915,
+                  "lng" : -79.31397111970848
+               },
+               "southwest" : {
+                  "lat" : 43.7830864197085,
+                  "lng" : -79.3166690802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "1657eb45b16a9c414bea6f2123e46c24b359f1e5",
+         "name" : "Huntingwood Rd At Ridgecrest Dr",
+         "place_id" : "ChIJ66Dd2UrS1IkRdRI4plJqp28",
+         "plus_code" : {
+            "compound_code" : "QMMM+QV Toronto, Ontario, Canada",
+            "global_code" : "87M2QMMM+QV"
+         },
+         "reference" : "ChIJ66Dd2UrS1IkRdRI4plJqp28",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.78558399999999,
+               "lng" : -79.311132
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.78693298029149,
+                  "lng" : -79.30978301970849
+               },
+               "southwest" : {
+                  "lat" : 43.7842350197085,
+                  "lng" : -79.31248098029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "de0f1fa08aa5ab5119f54e5cfc8af745b03b3ee1",
+         "name" : "Warden Ave At Huntingwood Dr",
+         "place_id" : "ChIJHekkwcrT1IkRCLVNd0bB6Ac",
+         "plus_code" : {
+            "compound_code" : "QMPQ+6G Toronto, Ontario, Canada",
+            "global_code" : "87M2QMPQ+6G"
+         },
+         "reference" : "ChIJHekkwcrT1IkRCLVNd0bB6Ac",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.78527399999999,
+               "lng" : -79.31069099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.78657393029149,
+                  "lng" : -79.30931686970848
+               },
+               "southwest" : {
+                  "lat" : 43.7838759697085,
+                  "lng" : -79.3120148302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "f2e92b99ea290dcea1f40bfee769e78684e95aff",
+         "name" : "Warden Ave At Huntingwood Dr",
+         "place_id" : "ChIJT204xcrT1IkRiNlwBinewrQ",
+         "plus_code" : {
+            "compound_code" : "QMPQ+4P Toronto, Ontario, Canada",
+            "global_code" : "87M2QMPQ+4P"
+         },
+         "reference" : "ChIJT204xcrT1IkRiNlwBinewrQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.783684,
+               "lng" : -79.317182
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7850084302915,
+                  "lng" : -79.31579851970849
+               },
+               "southwest" : {
+                  "lat" : 43.7823104697085,
+                  "lng" : -79.3184964802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "d022b50d0571af9383e1b5833b387568647f8b98",
+         "name" : "Huntingwood Dr At Kilkenny Dr",
+         "place_id" : "ChIJlR1kbEvS1IkRo9RRdhF9UCY",
+         "plus_code" : {
+            "compound_code" : "QMMM+F4 Toronto, Ontario, Canada",
+            "global_code" : "87M2QMMM+F4"
+         },
+         "reference" : "ChIJlR1kbEvS1IkRo9RRdhF9UCY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.78562600000001,
+               "lng" : -79.310642
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7869449802915,
+                  "lng" : -79.30927886970849
+               },
+               "southwest" : {
+                  "lat" : 43.7842470197085,
+                  "lng" : -79.3119768302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "6b36340019b323facdef969378700e41e084b505",
+         "name" : "Huntingwood Dr At Warden Ave",
+         "place_id" : "ChIJiSwrw8rT1IkRewPh94hI7iU",
+         "plus_code" : {
+            "compound_code" : "QMPQ+7P Toronto, Ontario, Canada",
+            "global_code" : "87M2QMPQ+7P"
+         },
+         "reference" : "ChIJiSwrw8rT1IkRewPh94hI7iU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.783539,
+               "lng" : -79.317151
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.78489793029149,
+                  "lng" : -79.3158166197085
+               },
+               "southwest" : {
+                  "lat" : 43.78219996970849,
+                  "lng" : -79.31851458029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "186e5d1df2f2e4650944bce981d479728d9c0dfa",
+         "name" : "Huntingwood Dr At Kilkenny Dr East Side",
+         "place_id" : "ChIJQ8cJbUvS1IkR5AYh6Z26wFo",
+         "plus_code" : {
+            "compound_code" : "QMMM+C4 Toronto, Ontario, Canada",
+            "global_code" : "87M2QMMM+C4"
+         },
+         "reference" : "ChIJQ8cJbUvS1IkR5AYh6Z26wFo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.78561699999999,
+               "lng" : -79.31013000000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.78699648029149,
+                  "lng" : -79.3087954197085
+               },
+               "southwest" : {
+                  "lat" : 43.7842985197085,
+                  "lng" : -79.31149338029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "f3a65bfc7830eb9137beb767c970d944c602e8ce",
+         "name" : "Huntingwood Dr At Warden Ave East Side",
+         "place_id" : "ChIJ3TVS3srT1IkRLDvjm0DhD8E",
+         "plus_code" : {
+            "compound_code" : "QMPQ+6W Toronto, Ontario, Canada",
+            "global_code" : "87M2QMPQ+6W"
+         },
+         "reference" : "ChIJ3TVS3srT1IkRLDvjm0DhD8E",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.78613800000001,
+               "lng" : -79.30852700000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.78750833029149,
+                  "lng" : -79.3072045697085
+               },
+               "southwest" : {
+                  "lat" : 43.7848103697085,
+                  "lng" : -79.30990253029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "bdff3914316357add26b86de6be66e59a2417e04",
+         "name" : "Huntingwood Dr At Davisbrook Blvd",
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114724619708394171452/photos\"\u003eCarlos Lara\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQLuHXCAsfXunqeG2AmWEXOvpDe5g8oazl8Gb3-vC3DhIcqH4aH1vWbQyR04-zDibYMwBDNyey3Cu1EEamX6cv3xXUTOE-PYb2yaFxda-W2cGEkhtw5iTGeT1ZjG97Jo8EhABxhFbShijFpIy7U1C6rRPGhSSGhLqbbPK_uN9GIgDucyB5coFyA",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJ31NNbcvT1IkRMg9-F8kb3jI",
+         "plus_code" : {
+            "compound_code" : "QMPR+FH Toronto, Ontario, Canada",
+            "global_code" : "87M2QMPR+FH"
+         },
+         "reference" : "ChIJ31NNbcvT1IkRMg9-F8kb3jI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.78224699999999,
+               "lng" : -79.31868899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7836220302915,
+                  "lng" : -79.31737946970848
+               },
+               "southwest" : {
+                  "lat" : 43.7809240697085,
+                  "lng" : -79.32007743029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "f226a06218dede9c134fba9b712758ab213a4615",
+         "name" : "Huntingwood Dr At Batterswood Dr",
+         "place_id" : "ChIJSU7YdkzS1IkRt7YWV6tv5iM",
+         "plus_code" : {
+            "compound_code" : "QMJJ+VG Toronto, Ontario, Canada",
+            "global_code" : "87M2QMJJ+VG"
+         },
+         "reference" : "ChIJSU7YdkzS1IkRt7YWV6tv5iM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.786614,
+               "lng" : -79.30822400000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7879532802915,
+                  "lng" : -79.3068475197085
+               },
+               "southwest" : {
+                  "lat" : 43.7852553197085,
+                  "lng" : -79.3095454802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "e8481c4ff1fa2b8780042d1e8392cb2d7e567bf2",
+         "name" : "Huntingwood Dr At Davisbrook Blvd",
+         "place_id" : "ChIJYRbOdcvT1IkRHsXSLdUTB1c",
+         "plus_code" : {
+            "compound_code" : "QMPR+JP Toronto, Ontario, Canada",
+            "global_code" : "87M2QMPR+JP"
+         },
+         "reference" : "ChIJYRbOdcvT1IkRHsXSLdUTB1c",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.781015,
+               "lng" : -79.30915299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.78237208029149,
+                  "lng" : -79.30776506970849
+               },
+               "southwest" : {
+                  "lat" : 43.7796741197085,
+                  "lng" : -79.3104630302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "94f5078a0a965b229d913045a37ce69cada00a31",
+         "name" : "Warden Ave At Bowater Dr",
+         "place_id" : "ChIJUa_HRzTS1IkR_VdJxgi7vqw",
+         "plus_code" : {
+            "compound_code" : "QMJR+C8 Toronto, Ontario, Canada",
+            "global_code" : "87M2QMJR+C8"
+         },
+         "reference" : "ChIJUa_HRzTS1IkR_VdJxgi7vqw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.78104599999999,
+               "lng" : -79.308874
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.78239498029149,
+                  "lng" : -79.30752501970849
+               },
+               "southwest" : {
+                  "lat" : 43.77969701970849,
+                  "lng" : -79.31022298029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "e005eb65acaa8c3940302b67e235cb91d7d3aa28",
+         "name" : "Warden Ave At Bowater Dr North Side",
+         "place_id" : "ChIJ6xYrQTTS1IkRJK5z4wU0Zkg",
+         "plus_code" : {
+            "compound_code" : "QMJR+CF Toronto, Ontario, Canada",
+            "global_code" : "87M2QMJR+CF"
+         },
+         "reference" : "ChIJ6xYrQTTS1IkRJK5z4wU0Zkg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.781813,
+               "lng" : -79.319901
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.78312443029149,
+                  "lng" : -79.31853246970849
+               },
+               "southwest" : {
+                  "lat" : 43.7804264697085,
+                  "lng" : -79.32123043029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "6baac538cfad0ad5175d1675d9b70df33bf0c9fb",
+         "name" : "Huntingwood Dr At Pharmacy Ave",
+         "place_id" : "ChIJ02a3P0zS1IkR_7S3Qg9B5h4",
+         "plus_code" : {
+            "compound_code" : "QMJJ+P2 Toronto, Ontario, Canada",
+            "global_code" : "87M2QMJJ+P2"
+         },
+         "reference" : "ChIJ02a3P0zS1IkR_7S3Qg9B5h4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.78181499999999,
+               "lng" : -79.32032099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.78317183029149,
+                  "lng" : -79.31893751970848
+               },
+               "southwest" : {
+                  "lat" : 43.7804738697085,
+                  "lng" : -79.32163548029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "d632210555c2feeaf08b7f3c913265d821969509",
+         "name" : "Pharmacy Ave At Huntingwood Dr",
+         "place_id" : "ChIJoxkAOUzS1IkRddc7isBZFmI",
+         "plus_code" : {
+            "compound_code" : "QMJH+PV Toronto, Ontario, Canada",
+            "global_code" : "87M2QMJH+PV"
+         },
+         "reference" : "ChIJoxkAOUzS1IkRddc7isBZFmI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.781461,
+               "lng" : -79.32001099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7828043302915,
+                  "lng" : -79.31868726970849
+               },
+               "southwest" : {
+                  "lat" : 43.7801063697085,
+                  "lng" : -79.32138523029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "8482a00693cfd19e811a6d72b4e07a1209d6882e",
+         "name" : "Pharmacy Ave At Huntingwood Dr",
+         "place_id" : "ChIJQ-z6PEzS1IkRfz-e2KWFVqQ",
+         "plus_code" : {
+            "compound_code" : "QMJH+HX Toronto, Ontario, Canada",
+            "global_code" : "87M2QMJH+HX"
+         },
+         "reference" : "ChIJQ-z6PEzS1IkRfz-e2KWFVqQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.78519,
+               "lng" : -79.32161500000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.78653123029149,
+                  "lng" : -79.32030136970849
+               },
+               "southwest" : {
+                  "lat" : 43.7838332697085,
+                  "lng" : -79.32299933029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "cfee53b497ed1369f0969c4081995b8fdc68c5b1",
+         "name" : "Pharmacy Ave At Rosscowan Gate",
+         "place_id" : "ChIJX3onL03S1IkRo3xV_JSd8J4",
+         "plus_code" : {
+            "compound_code" : "QMPH+39 Toronto, Ontario, Canada",
+            "global_code" : "87M2QMPH+39"
+         },
+         "reference" : "ChIJX3onL03S1IkRo3xV_JSd8J4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.78155599999999,
+               "lng" : -79.32044499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.78292133029149,
+                  "lng" : -79.31910421970849
+               },
+               "southwest" : {
+                  "lat" : 43.78022336970849,
+                  "lng" : -79.3218021802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "82b43695307d3a00f588842245bbc6dd7b5a2068",
+         "name" : "Huntingwood Dr At Pharmacy Ave",
+         "place_id" : "ChIJ5V1kOkzS1IkRmA__5sEQNvg",
+         "plus_code" : {
+            "compound_code" : "QMJH+JR Toronto, Ontario, Canada",
+            "global_code" : "87M2QMJH+JR"
+         },
+         "reference" : "ChIJ5V1kOkzS1IkRmA__5sEQNvg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      }
+   ],
+   "status" : "OK"
+}

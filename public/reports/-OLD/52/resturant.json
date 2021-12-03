@@ -1,0 +1,795 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQD5gEAAF2NOhKfdsYktD5yGpWK6LC0XK3tBIj7ink53lqC2hCKQjI_Ek91IHjud19PlUzu6EwFkTfjhyCF8PbP-1dyW4O_QlGcKydXdkoML8qlYDCT2ob2TSM7LnUBCk99VX6_xmhkaX9bca6dzgR84IlEIlUA2abgPsU6XgOvbr0Da_XdPXRBbmRd41MFncblRgoY0HLoudMvt1PxIqie1JG-KGbl-VG9ZF_HX09SNst98Wda5sA0ppN0brAoOa-1WCrea34bC2HXePLkpYxpm3jyjX7ENjRVAQ9aosmm-giU5Z3V0R-8oPr_Auvu4fQnOrXBSryUEl6qcynd9NB51JysCpOkey1rMEKl4zKuAmWSYqAIcpttz-mWjg5sXQ2Esq5tr4_y1SlRpkVwHWpU_JMOmfZ1CsFeevxCoq3DxsPh4WUcU7VaD26aXng_O9kg_RbX5VfgjpM4p8BLi7ASnDBtlPk6lA7ARUfPlWxW1OxKRxT9ZYHrEmqYVP496WzCa2mkggr8qbbuZ2Z_mXPQ7atgkuKhL6-1B9p62yBL_Yg9G_PHPRuHzmJ-nPctynkCE8zeAcHvTJ80gcE6QV7YDspSi29oWi_2V0_3Ho2JJc_hJUaY3P5TwqlsASalOyGJkw2_uQG4iG1L-ZDSUXgoJKa-ezwSEMknbdFDtjbcTP91Tb-2-6oaFAk7O6BO0TAjjZXSdwDArDBuCrbV",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.544389,
+               "lng" : -113.4909267
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7160999,
+                  "lng" : -113.2731591
+               },
+               "southwest" : {
+                  "lat" : 53.395655,
+                  "lng" : -113.7147381
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "c700141550008fa06f546762bc7f002e9ea101c7",
+         "name" : "Edmonton",
+         "photos" : [
+            {
+               "height" : 3632,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109339704651273913033/photos\"\u003eNorm Kerychuk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMyoYtD5RGpkuNVbxaAYvb5MzXimKLxvBooZ9aEKiClAkxqaj1HXNOW-sy1txog-d20eAH6A5gCNbfpK_Bdjn_DMDkti572OLBdZz1T18c6490PRMxG3tdNSeGm9aNdjaEhAzIVcxDAvqrFYfEJn2WP-EGhSKpwh3Wc_hCkbMgGZLZAFTaaxtrQ",
+               "width" : 5456
+            }
+         ],
+         "place_id" : "ChIJI__egEUioFMRXRX2SgygH0E",
+         "reference" : "CmRbAAAAWoEpvA6gnxRr5EPM3MKa5khQ3ZHgapvkTmjAt2wj014qvb5oMOfspImZvOiFlNLjkOCDuHaa_cfXX6iDMp0tHH1qBrs9dz59mqAvL4anMXSZlYn88hULlo8fIUPdBydsEhD72EG7SFSf5kxUEqlfRqEHGhSEXnT5swBQfrxtz3hzavt-8HV_-g",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6230118,
+               "lng" : -113.4885479
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6247485802915,
+                  "lng" : -113.4872295697085
+               },
+               "southwest" : {
+                  "lat" : 53.6220506197085,
+                  "lng" : -113.4899275302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "038fae26f288ddd4f040e8995fad33a92005e50f",
+         "name" : "Canadian Tire",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108187587142826351572/photos\"\u003eKev P\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPgxge-evNrW9TE_2DJ37VPWfiPj82Oo3_doDnRbmhoB672v2gwagsi9wraRMDpi9mYQWS_lRyRO7mTfyFMgJumzF-7HgkWEQwQj-HoyQHPvY7lQxtjvhTQal4h7TIFKUEhDgkp5BpCyO6LeaDT8N8xWCGhSLLJoYAZWN5OwchK-gl24pGCwC1A",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJkeSZprgkoFMROcnRSijm2rg",
+         "rating" : 3.2,
+         "reference" : "CmRSAAAAIVNb1IVtk6c2iisL75bsSa-4_Z1Uby08s59EdS_wapaBopByTvn-998mBxKS9t3snz7bgAqcJV-6g6W2eHvPC90vP_mE8_fovtvxMp47-VjHFzBFn-qIhY4AQ_dl9lwVEhBnWp88_Nny6OSWeWx35salGhTuRZ97yPAF7ClAwAGYJxnRzyn-FQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "department_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "9603 162 Avenue, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6273479,
+               "lng" : -113.491081
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6286960802915,
+                  "lng" : -113.4900771197085
+               },
+               "southwest" : {
+                  "lat" : 53.62599811970851,
+                  "lng" : -113.4927750802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "8ee4448adc9bb01aefa8dea0c7be1ddf80ebd200",
+         "name" : "Boston Pizza",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106729582216033625762/photos\"\u003eRacheal Cardinal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWzw7aYbX-Rql2jTe6FPwtPKogCw35B5Q-wX__cqGAgnCHHgUgbweMlduVK0mVH8y7n0CY2x3P6IMl61FBCxeeS2tI3QcLUAQnxZ_mJxOm_Be6jnzWfMKWrmoGLsctd6_EhCvQcR8Xt-tALTjnZmeiPayGhQoGYl5LYEQ1n1C18n8CoKDE2zAhw",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ82ytfcYkoFMRrtoYGk8b0MY",
+         "rating" : 3.8,
+         "reference" : "CmRSAAAAwI8OV0Vry8C2Rl7MGvS0GIOa1qX5FcKHPVKZFjk4gHTSDwwTxmDn3G5hU7hu4hclx5_vQf8O2FGgU-0DEMqbk4AvxuLGSfq6hpj2A9Hhl02bhzIS7QDvT3QBvobeKi_2EhCpPAua4h6cQpsH5OFw_-clGhS7M_pf7XjqNeUB6vVcUgKyLPNqGw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "16521 97 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.619025,
+               "lng" : -113.489898
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6203739802915,
+                  "lng" : -113.4885490197085
+               },
+               "southwest" : {
+                  "lat" : 53.6176760197085,
+                  "lng" : -113.4912469802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "ff12bed4ca16c1be6bd9179d3860aae996dfbd71",
+         "name" : "Yogalife Studios",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 533,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105840086541731504955/photos\"\u003eYogalife Studios\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqviv2s3u21WJiAkU4Sx1PvxlBM-JK7ZzPsciL9HThJh_z9yfxHZVP9-iUFbGbAgGQtFiSGNjUuZ3oC2rR_s7lGtHX2Lfr-UGsatv_bjvipajGzLyZjGUXZPkrX-oYZLNEhAxtm5U52uit53WtiUAFwKaGhQZljOQ9w7nhMOuKyTuAOoPbQOjZA",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJF8fhwMQeoFMRATew4j2o9_Y",
+         "rating" : 4.8,
+         "reference" : "CmRSAAAA_OUO3BdpgZ4SzctfmdSiaOjciYRUaWdZDKrh2uPRXBHgt-y82oQv8lKW_0Yx8k4D74Yu55tkogQq9yL5NRrIO4HoeXDzCGYE9ULfikHOyPlfTV60At4ZoCaXFqAe4i3HEhCiHtpv0RoVMNDzVrxf4BBzGhSgYI4LyMATND6vx0-KiMk2qQqbgQ",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "15823 97 Street NW, Unit 208, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6206135,
+               "lng" : -113.4667149
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6220593302915,
+                  "lng" : -113.4653656197085
+               },
+               "southwest" : {
+                  "lat" : 53.6193613697085,
+                  "lng" : -113.4680635802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a2e0f2c1f2ce8f52064219fdf412bf7230f58866",
+         "name" : "Papa John's Pizza",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 315,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118442691725637483704/photos\"\u003ePapa John&#39;s Pizza\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcHZ2mQ6fRG6evGFXSQFt40RZw5YKQpjP1egsduwKyNUcsm7aZRlu4nf03hhIY9KV4wY6uHlI-1llZt1n7LxxynO0JrFY7LWOK62AnQnKVtRhHvwGpW0p6HLcmkhjYpHlEhDQQDs2PconZ0SKEVM7hIG7GhRRbAjofGbWvq0ZnDkC25Q1GPBizQ",
+               "width" : 562
+            }
+         ],
+         "place_id" : "ChIJ1dUxrrMkoFMRajBlnLbFyLs",
+         "rating" : 4,
+         "reference" : "CmRSAAAAup3TOlUo0fSaU8QnR8UTF8YxT3iS2cYUSyXjQLwCCXdxQAqjYI_gAkyiO-u0PVN-KFkLN9VfTXJb03lYH-e74bA6-O34Xsg6PWB3iBu-9SGIbwnl052mG20sQbjN7cGEEhD8BP7yE-DoBelWBIV9ZO8XGhQZpCWuXi0qebi4qOn7uclNp-RxPQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "8127 160 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6267264,
+               "lng" : -113.4900129
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6279984802915,
+                  "lng" : -113.4884700197085
+               },
+               "southwest" : {
+                  "lat" : 53.6253005197085,
+                  "lng" : -113.4911679802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "aaace055c51ac14a0f19db3fd6c65ea0653721e4",
+         "name" : "Body Polish Day Spa",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107531741167188858319/photos\"\u003eTam\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXHQzxB7F33qBYWcjwzcijz-dsVrXsZpccnGEgdV8jhCB96u0Z33ZJF2_UhT5LhJisPYMV3vE1SzmAVaM-3GRaoKpQRwU3gS3CGh_0DcEAx8V76VU0xZ5xPRyuyS3k_6fEhAppLiBD2jpi-GcxCNWXdHKGhRCuBHgr91oOtZggKU-7vogB3w06g",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJFy_SD8ckoFMRaaUzJ73Hz78",
+         "rating" : 4,
+         "reference" : "CmRSAAAA9xgBsq3H8KZ4xJWdUdI_h-bACwIu3XVQP-K7_OBB_4Axiz1AeM3Q8hQzNHLgIlLFgug-gmxr1hURJTIZNhXkrKY-mBN1uzo7myArDjTsjjMRIhLzbVh6PmX40VsI2RNQEhDEBfYLCSTfZ78RVaKJebuBGhR84CDQQjiQYOzIOuysP3Q3os6xcg",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "spa", "point_of_interest", "establishment" ],
+         "vicinity" : "9622 165 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.62845739999999,
+               "lng" : -113.4903822
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6299539302915,
+                  "lng" : -113.4890361697085
+               },
+               "southwest" : {
+                  "lat" : 53.6272559697085,
+                  "lng" : -113.4917341302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9a3ffe972bceca923f22366900f5c5cbe2481928",
+         "name" : "Fuss Cupcakes",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2833,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108807917984550459903/photos\"\u003eFuss Cupcakes\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0JYkcZmSMqBmbguUpibffez__xQAyJdZCE1RvyDqdp-VwoWLVDyYipZSELlkeS6YimsoJfgVNXkvWeaBcR63buYeOhZz3BzYjZtukyPGS1LxrdzuN8vlW2l90KlgynK0EhCEl5L9G3yGE8_QGfVKLey4GhQprzR26KOLzdGDakxNh-CeY3lK_A",
+               "width" : 4775
+            }
+         ],
+         "place_id" : "ChIJacn99g8ioFMREMBulBzypig",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAA4GziOoCXpFwRAd92CAS3xgDVIwwMJplTsB-UBIYwr--xWfx4_qkHAMnX3MpwLYani39nNnEDH9fGXuNvOOWBOOcC0f0S6WM_ijETueOEP375jUUERcaMp-RxAoghPzovEhAzm52BvuEYjNCtXSzG-BUEGhQxhpi4iC5-BI2g-7yU9TEBsbtH6Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "9637 167 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.628245,
+               "lng" : -113.4856978
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6298270302915,
+                  "lng" : -113.4842845197085
+               },
+               "southwest" : {
+                  "lat" : 53.6271290697085,
+                  "lng" : -113.4869824802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "79b320a2a2970ab5f3577407a7e76b777c8b47b8",
+         "name" : "Hughes Car Wash",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJJ5LGa8YkoFMRbel_AgqVPgw",
+         "rating" : 4,
+         "reference" : "CmRRAAAAJs1VK6IQ_dTplxKGlqxaUXiNEa2YUi7LOJWamA1GnjDwuFYVLML6SjmQWT-2X99tTouN3YxJUHho4NhhWH7eB3BRSsUfZHWOnsyq3tJZncDdKoL49o5w6XK-aJD43mHUEhB0J_Dr10HjPiMWsI1OfY1MGhTKejZXFJ70BdXmho4BHjQy4ewfRw",
+         "scope" : "GOOGLE",
+         "types" : [ "car_wash", "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "9551 167 Avenue, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.62840259999999,
+               "lng" : -113.4875859
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6297526302915,
+                  "lng" : -113.4860193197085
+               },
+               "southwest" : {
+                  "lat" : 53.6270546697085,
+                  "lng" : -113.4887172802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8c6610f0b30fd1c33d2839b087f6199bd2678e47",
+         "name" : "Panago Pizza",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100378591081499074905/photos\"\u003ePanago Pizza\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOQDnIiYtqDWH-P-rLC58bnC4r9R0yCY-CxdmkO5m3_DB3Qddy29Oun2U2S8QgQpuqcrTYWtWXTy6ee5miL5UVxvV2hmPT_JtJqUB8q0Dh1qj4_bKhllWL_anGpm7x58QEhCN_zxxmxFGJZaKjMPLrogOGhS6lI0ouDY1-yxC2I24wuMjdG5G3A",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJcxshJ8YkoFMRFQOb_KCmHs8",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAACGutDD_cdKPRgJXIpDbvj-XpRU56p5JQ1i8t5ilrRfhWBY1QT5f3dYCu1EI4PJ-IjcZySPL82xM04UnLNtOniR-ko2B71d4CWgV8CE0JnPiNIVs1TTeE_sdsuBMzfCW1EhBHpKowon8Kw8iD1i5UISwnGhQHfnmwVPQ9bXPLRJ3zn1Rv8LL-ng",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "16652 95 Street, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.628211,
+               "lng" : -113.488103
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6295599802915,
+                  "lng" : -113.4867540197085
+               },
+               "southwest" : {
+                  "lat" : 53.6268620197085,
+                  "lng" : -113.4894519802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "27478896df689532e8e09e1fc8fd95c3811133f0",
+         "name" : "Bunches Flower Co.",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 666,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104851171257693385857/photos\"\u003ePULIKEN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQk2XuUcSd3apVMyQ-08b7EJf6UtmQM4NU5bzR_kIL0C7yWuoJJaJ19jx-GWuiP0UJwe48xa_pHIPDIHpcxbYZzHqU7YvtGoDFQyPef44O3O_Tfmt-fqJ-zBMVuIWq89pEhDSXH-RQVVhezVVhsIw9t6uGhQ-ArtM368ANqlJ98bOnvUXF17kuw",
+               "width" : 994
+            }
+         ],
+         "place_id" : "ChIJtWz4JsYkoFMRC7_dui_9_Nk",
+         "rating" : 3.7,
+         "reference" : "CmRSAAAAexbsGBFZPrePzHeiXB4_OYTtXm3WSxl1gqf43NPdeDBIGhytruz608gLPglIHj_6XKPFVwDEZa0vzGvB4PobIgoMgKpi-51trx1NsGGVPR20t0dj7oxkUNcEGhmus3jLEhBtDaxsGJX4rw2tpBW3l2UhGhQhO8b-nZGLZJtWqu_1dYA68kSgnw",
+         "scope" : "GOOGLE",
+         "types" : [ "florist", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "16648 95 St NW Namao Center, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6203484,
+               "lng" : -113.4897818
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.62133283029149,
+                  "lng" : -113.4888454697085
+               },
+               "southwest" : {
+                  "lat" : 53.61863486970849,
+                  "lng" : -113.4915434302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "68784f3a6526c47a39f58af1ffc1439386750ca7",
+         "name" : "Shoppers Drug Mart",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101937082680025504532/photos\"\u003eAlex I.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7D_XXFvdxqoBOpiRiQWE42KvcKPIRrFmpXJ8MbcYsP9Cq8eZ_9zr4VpOdq8MxNUcquWxbjbhBJrHd0NTWDeJte8BIrNc_6LoIcQK8NYpbWqexJ6HosHT_sWOrf7XZWXlEhCIobc8i-t5HAXUV6vGFPipGhSaSD9iWNsfGOTVnRLdDqZKLxInog",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ2388pUIwoFMRmiHf6hDW8C8",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAARs90nQSHZjdDIZ8aCVZaqeoxI0AXE0j_m2r-pIMVzk75h1o1AFQ5OSTpLdg1g4V-zI2O3WFl9ZqEQ0yIdIadQ1JGannPaLtsli4hbKWl8e6KVhh73kgxqU-R8rWpNFVyEhDBVKLPXqLSoDsM91bpqaVyGhT_NwTzz2pNzhI17NmjCEbcFVb8_g",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "store", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "15969 97 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6206107,
+               "lng" : -113.4664379
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6220577802915,
+                  "lng" : -113.4650886197085
+               },
+               "southwest" : {
+                  "lat" : 53.6193598197085,
+                  "lng" : -113.4677865802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7ddcd4b4dfb918a0cd342d2d0902908f6e3a3b28",
+         "name" : "Medi Massage",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJG29GrrMkoFMRKJQpUch6cUY",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAASf6fmCFYtY1QigX6ZkMlo44qVC3ZIHJ3oq3CisMPm0rzImlaGVFLWFIo_OwS08vVmez0vFwRNxTMFihPWhLOC4AquvHWJ4Hu1fLGV-1sTcintsmBVGvbo7WtqVmqRIPSEhCvYn5RhniXnwbP2eml8HqSGhQWWOPwSawA7vtNPRxXYFT3pa92uA",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "8119 160 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6294943,
+               "lng" : -113.4665123
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6308489302915,
+                  "lng" : -113.4655664697085
+               },
+               "southwest" : {
+                  "lat" : 53.6281509697085,
+                  "lng" : -113.4682644302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "97d6c5d5b3eab25f47cd4e41c60e6614a145bb46",
+         "name" : "Rexall",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2168,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108715131321621114811/photos\"\u003eDan Pocsidio\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAR4dYmEFStHfc38jl1vB8fI0wAXKPI10ArXZ1FU6Dp4rdOUsFS5Wt6LK--CaDc5niZYl6t2M0AzjpBirgvIYwoSxsf7tyC7vBUYjgxWBjAkEZctHRWOSD6E-2sv1hOn1hEhDrQDSMKtaxeVbecoFlcqsWGhQzKjqa4jWVNuM_ttutkiZp835jdw",
+               "width" : 2167
+            }
+         ],
+         "place_id" : "ChIJe9ktlmojoFMRAKNuczwizWc",
+         "rating" : 2.9,
+         "reference" : "CmRRAAAAztli9x_kc25iVAjlXV7G4ePeGQBRZLU5dqQIgONsI803Mns3-Z-eHCqUdDw702GeyCIwzrbYNwSdzJU1b2pu3Zp6kd0tB5e0GRboDs6-C8SjTLFlUCFh7LFRerD_75mOEhCeDgufCNWiWzmEbXi3yyVfGhRn8Hhj1hQrJfqGQPuQH7l8fuHpVQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "pharmacy",
+            "convenience_store",
+            "beauty_salon",
+            "store",
+            "health",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "16703 82 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.629431,
+               "lng" : -113.4664618
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6307859802915,
+                  "lng" : -113.4655424697085
+               },
+               "southwest" : {
+                  "lat" : 53.6280880197085,
+                  "lng" : -113.4682404302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "319f04dfbf7730f96a279506fdc25105fd1880e3",
+         "name" : "Rexall",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104711613148516976468/photos\"\u003eLee Nedyaj\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjpWYbi8HnBg-O1wsMmS0mu7bFkvlyDnh9-zTWs_YmopHssIu_NzUc5xu48lymCknA9F_pDad33TEuCUDCtJw8Fyt6_RmQ66mCy0wXqO05SIR8GWx1ET7U16AsZUHbHGUEhCwO-JuQNy7TKr6GkaFjvmoGhQa32FA6BMjVkSMf0PRqsbSv5oIGQ",
+               "width" : 1944
+            }
+         ],
+         "place_id" : "ChIJu7dl10EjoFMR2ijoVQB526M",
+         "rating" : 2.4,
+         "reference" : "CmRSAAAA37eV9BjV4_0kSL2m2l4EA4CJSYLlvmouf-LQPxJjtPX6dyFsuJDvleltcCNrRxD_nOjPza4WT-I8VnEy89qnah4a5oIoCx3_I5_bD78Duky82lp5VCH1ivDXWKIxWpWlEhBUCwvPAD2jr9u-lwANiFEZGhRle4svhTju34zU9WlT4QKTJRrhHQ",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "store", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "16703 82 Street Northwest #102, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6208256,
+               "lng" : -113.4908059
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6223534302915,
+                  "lng" : -113.4894544197085
+               },
+               "southwest" : {
+                  "lat" : 53.6196554697085,
+                  "lng" : -113.4921523802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "a921da8d02e5b30a8339038a745564a4587be13c",
+         "name" : "BMO Bank of Montreal",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 658,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104851171257693385857/photos\"\u003ePULIKEN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_E_PbCeD_RICSyN2NCTnGhb3Skyh1gvn3soSNQ3SFPoqgWVHIGCJS2ermGPazFNOBfI1efhuACUZYd1I7JsRFaW0WD9FBKk-9wmWKFR9Ss4VHT8WHnHDsHJSUlUf1EBnEhDrASO4QwGLbJIc7mhWMZhBGhTko3pSSDNBU9VvAdDzevnAjGFQjA",
+               "width" : 983
+            }
+         ],
+         "place_id" : "ChIJycPsJr8koFMRYl0QoimGGzA",
+         "rating" : 3.7,
+         "reference" : "CmRRAAAA1eJ6IzyFNJQUB25AMqt4w-gDydW21yTLn1t59DzbjiXfyTbCPDpGCNTHQM2VsXlmARzThnnupXnTrcQSzAVSnKkxDWX152KQRxXJvbPoZQlmYgYg6rKbfmNorCn0ap8oEhCdVn3r3anolPWBgU0JfN5eGhQXu7SuLfYboRxwRT-9Itqk5NrZCA",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "9625 160 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6230173,
+               "lng" : -113.49487
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6243662802915,
+                  "lng" : -113.4935210197085
+               },
+               "southwest" : {
+                  "lat" : 53.6216683197085,
+                  "lng" : -113.4962189802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4d8d9e07b5df18424b012872f010d9a527560bb6",
+         "name" : "Andruchow Auctions Ltd",
+         "place_id" : "ChIJvdMxfb8koFMRuUVM413AJLo",
+         "rating" : 1,
+         "reference" : "CmRSAAAArs8fKCNEN_WLKQbSfgeMQtbVHqqyHjIXTKRhK4eLjcBce3CwYKU6M__WBDcHYj51iMvsp8Qx_zIqbioHh32qoMYpSWso2gDPE4lSU2JvRjhIAoIltRDi6u44SAoXsY2jEhBhvgzh278bv4l_g8QzQP4LGhQHWj1p9o2iVcWT3CPsatEIaJaJ1g",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "16135 99 St NW, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6269582,
+               "lng" : -113.4745857
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6285343802915,
+                  "lng" : -113.4734581697085
+               },
+               "southwest" : {
+                  "lat" : 53.6258364197085,
+                  "lng" : -113.4761561302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "179b20827e9a5e6d964de013d0e0c30ad9aa45eb",
+         "name" : "Florence Hallock School",
+         "place_id" : "ChIJn7B0D7YkoFMRCYDlAC1ZMHU",
+         "rating" : 4,
+         "reference" : "CmRRAAAAPo05GiNXMtilXpF1kxzfaSzLZc3moZi43cTxf64AabVpp3O_LAyTTUlmV20ZqE2x_FHOuhJBBrL7bsLa-LCKqLFjcNJB9r7sy3ktQJDYO5o7qUCKTflfofNx_Zu-nd3uEhCdGVYfcQ8mObfWjdJCmDiGGhT2Kw-Lvsj6k_b4sxsLWv_chGmzbw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "16437 87 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.622528,
+               "lng" : -113.4905639
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.62387438029149,
+                  "lng" : -113.4898075197085
+               },
+               "southwest" : {
+                  "lat" : 53.62117641970849,
+                  "lng" : -113.4925054802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8ce15474025384cb2ec5246554ff637929afd1ea",
+         "name" : "Great Clips",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 337,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112831166616170697067/photos\"\u003eGreat Clips\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAugLHUI-BwIBPGtO9n5nQsufGVbl-le7OD4MML3fVPbH3co0vHlodQbm2A_NUDwbc9uG1Ga2vARlXg8IrLoSz8EXDomXSk39OAxMIMEMYlKtFv70S33AtF-LivN0QBfIDEhDKgimegwuvRHhv_jJecR7CGhTrGWN8ZRluqrb2sXTT5KHtgPs9Aw",
+               "width" : 445
+            }
+         ],
+         "place_id" : "ChIJ8dGzJL8koFMRC4jh5btssrk",
+         "rating" : 2.9,
+         "reference" : "CmRSAAAAzlSTiM7x8CVJm6eRrqrU4vCNJ5Ab1kSKF3M0gT_nzS_8IsVWrB974Gn7kf27CWnfHaPmnyG6vUOYZSKiv2iiVI2MdHzgxs3Uzs18_f8_8SRWfku-46a0NzbH-wnwnxK3EhCWy-K9AxWaOFvE9-bGfXD4GhRO7yuukbqykVfLI80qYvHyfAOPgg",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "hair_care", "point_of_interest", "establishment" ],
+         "vicinity" : "16053 97 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.62054759999999,
+               "lng" : -113.4667796
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.62202643029149,
+                  "lng" : -113.4654302197085
+               },
+               "southwest" : {
+                  "lat" : 53.61932846970849,
+                  "lng" : -113.4681281802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7d83f5a55cae5b401ad8a223a3ffd3b239c6d76c",
+         "name" : "Rock It Out Salon",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3072,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101937082680025504532/photos\"\u003eAlex I.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANrLzAZ9Qk34LkSLNIggQsZqgLEjvemVld27i35L7MVDIW74i5JrR6nlt9HjrJ-NqFLL7cZwZSrYVN8qdzEJ2jW1sVs9m3XXq2yax0uXNtDeYDhQZf79MdFLVCccgaGRlEhD7SSgP4CGUbjR3YbEPULpGGhSx5qPeiAtT6cTm0qXfhtdPa92h2g",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJO3o3rrMkoFMR_k5npG3nfyc",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAA0JSZ5qy1a4j1CpHviuIgNYMaX273AL81xxcJnQJ36Ec1iYhwT7tRR-obDsvdM_-1LGj_p4qyDAj2a8PsgyHsqMyhzHKOPHLYGfq0lD0YCBarWsJna68zCad5Lvy_AoJdEhA3ZTdTkIa3qgR773O4QrK_GhT2oWAzrJ9ukt-BMIhigKxd7VTDUA",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "hair_care", "point_of_interest", "establishment" ],
+         "vicinity" : "8123 160 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.64837010000001,
+               "lng" : -113.3724878
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.715917,
+                  "lng" : -113.271525
+               },
+               "southwest" : {
+                  "lat" : 53.51432699999999,
+                  "lng" : -113.492129
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "0aca35904f474bd324ceaf0aed70f82697632c5d",
+         "name" : "Northeast Edmonton",
+         "place_id" : "ChIJXRPqUIc8oFMRHpvUQI6ASbA",
+         "reference" : "CmRbAAAAcR2pJjbD1R-KS-_cLr-OAm3Rz0EpI4yq3sZ6YVXYxFW0evLFJLhvOp5672MaJtvVD7kiIkyujzZZ9c3_qI3MjHwA0AA6C4LTSX8GKpX0dl98_UNl-MhrV-iB3NqHYpOpEhBf1-J-4l72lGjPx3fFjDuPGhT8kk6hYgNylrtLXMZ5WYqx3cNmDg",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

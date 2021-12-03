@@ -1,0 +1,127 @@
+<?php
+
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+use App\FaqQuestionTitle;
+use App\FaqQuestionAnswer;
+use Yajra\Datatables\Datatables;
+use Session;
+
+class FaqQuestionTitleController extends Controller
+{
+    /**
+     * Display a listing of the resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function index(Request $request)
+    {         
+         if ($request->ajax()) {
+            $faqQustionTitle = FaqQuestionTitle::latest()->get();
+
+            return Datatables::of($faqQustionTitle)
+
+                ->addIndexColumn()
+                ->addColumn('action', function($row){
+                   $btn = '<a href="'. route('faq-question-answer.index',['titleId'=>$row->id]) .'" class="btn btn-info btn-sm btn-flat" data-toggle="tooltip" data-placement="top" title="Show">Manage Questions</a>';
+                   $btn = $btn.' <a href="'. route('faq-question-title.edit',[$row->id]) .'" class="btn btn-primary btn-sm btn-flat" data-toggle="tooltip" data-placement="top" title="Edit"><i class="fa fa-pencil"></i></a>';
+                   $btn = $btn.'<form action="'.route('faq-question-title.destroy',$row->id).'" method="POST" style="display: inline-flex;">';
+                   $btn = $btn. csrf_field();
+                   $btn = $btn. method_field('delete');
+                   $btn = $btn.' <button class="btn btn-danger btn-flat btn-sm remove-cr"  data-toggle="tooltip" data-placement="top" title="Delete"> <i class="fa fa-trash"></i></button>';
+                   $btn = $btn.'</form>';
+
+                    return $btn;
+                })
+                ->rawColumns(['action'])    
+
+                ->make(true);
+        }
+        return view('admin.faqQuestionTitles.index');
+    }
+
+    /**
+     * Show the form for creating a new resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function create()
+    {
+       return view('admin.faqQuestionTitles.create');    
+    }
+
+    /**
+     * Store a newly created resource in storage.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @return \Illuminate\Http\Response
+     */
+    public function store(Request $request)
+    {
+       $input = $request->all();
+
+       FaqQuestionTitle::create($input);
+
+       Session::flash('success_msg', 'Faq Question Title Create Successfuly');
+       return redirect()->route('faq-question-title.index',['titleId'=>$request->faq_question_title_id]);  
+    }
+
+    /**
+     * Display the specified resource.
+     *
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function show($id)
+    {
+        //
+    }
+
+    /**
+     * Show the form for editing the specified resource.
+     *
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function edit(FaqQuestionTitle $faqQuestionTitle)
+    {
+        return view('admin.faqQuestionTitles.edit',compact('faqQuestionTitle'));
+    }
+
+    /**
+     * Update the specified resource in storage.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function update(Request $request, FaqQuestionTitle $faqQuestionTitle)
+    {
+       $faqQuestionTitle->update($request->all()) ;
+       
+       Session::flash('success_msg', 'Faq Question Title Update Successfuly');
+       return redirect()->route('faq-question-title.index'); 
+    }
+
+    /**
+     * Remove the specified resource from storage.
+     *
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function destroy(FaqQuestionTitle $faqQuestionTitle)
+    {
+       $faqQuestionAnswers = FaqQuestionAnswer::where('faq_question_title_id',$faqQuestionTitle->id);
+
+       foreach ($faqQuestionAnswers as $key => $faqQuestionAnswer) {
+           $faqQuestionAnswer->delete();
+       }
+
+       $faqQuestionTitle->delete();
+
+
+       Session::flash('success_msg', 'Faq Question Title Delete Successfuly');
+       return redirect()->route('faq-question-title.index'); 
+    }
+}

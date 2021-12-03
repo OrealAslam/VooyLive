@@ -1,0 +1,294 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.80158180000001,
+               "lng" : -79.19909559999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8028870302915,
+                  "lng" : -79.19794781970849
+               },
+               "southwest" : {
+                  "lat" : 43.8001890697085,
+                  "lng" : -79.2006457802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "74cc4a31de1602f49070bde01d8ee75e3944852e",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105644538778724590931/photos\"\u003eLeonard E\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANHWqpOXG4Uti7HOjdmoA1S3l5YdGna0_umKC-9Ogd2C93Yd6dkd-v_sbfVEYAqka5T0K-6GVmpxg1UeNBNhaqqfDUUZ7VIkDnokPAu3F5YEDsPIg0BQJTLBNN9TQqbwqEhBGxBpaJQQgzS1xA1Bq_nnFGhQlbllhuCRF0Y3hdRTF-qlR9ksrvA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJZUvdEAja1IkR64L7S8LrCrU",
+         "plus_code" : {
+            "compound_code" : "RR22+J9 Toronto, Ontario, Canada",
+            "global_code" : "87M2RR22+J9"
+         },
+         "rating" : 2.7,
+         "reference" : "ChIJZUvdEAja1IkR64L7S8LrCrU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "car_wash",
+            "store",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 14,
+         "vicinity" : "1149 Morningside Avenue, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.80331260000001,
+               "lng" : -79.192342
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8046803802915,
+                  "lng" : -79.19116861970848
+               },
+               "southwest" : {
+                  "lat" : 43.8019824197085,
+                  "lng" : -79.1938665802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "265a74a21d2f86479be37f38a4b2f881e02a5807",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109281505387144666465/photos\"\u003eA W\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA89fcsjAEhyH-If2EnF4oF7t0YnTjXBE8CG0v9Z30-vc1zs-s6oC0ePotmwMvqHYIlxVieWvPvU0lb1G1xC-rnJreLRPFesaz3zDlDtYkh1OvDTV_nBiryalqs_dAV1MYEhDCydQHsmsaFFz4ts7-uFG1GhThf04hxjdBDO77sewqn71ctXoGAQ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJTxyEsAXa1IkRxrsSGl7VFNM",
+         "plus_code" : {
+            "compound_code" : "RR35+83 Toronto, Ontario, Canada",
+            "global_code" : "87M2RR35+83"
+         },
+         "price_level" : 2,
+         "rating" : 3.1,
+         "reference" : "ChIJTxyEsAXa1IkRxrsSGl7VFNM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "convenience_store",
+            "car_wash",
+            "finance",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 28,
+         "vicinity" : "8301 Sheppard Avenue East, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7901759,
+               "lng" : -79.1957864
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7915485302915,
+                  "lng" : -79.1947018197085
+               },
+               "southwest" : {
+                  "lat" : 43.7888505697085,
+                  "lng" : -79.19739978029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "0567c491b932dcac0708ce3ca5b42902f15b1095",
+         "name" : "Village Smoke & Gift",
+         "place_id" : "ChIJMwVQUXTa1IkRiIRUc3lB0Qw",
+         "plus_code" : {
+            "compound_code" : "QRR3+3M Toronto, Ontario, Canada",
+            "global_code" : "87M2QRR3+3M"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJMwVQUXTa1IkRiIRUc3lB0Qw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 3,
+         "vicinity" : "778 Military Trl, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.78398110000001,
+               "lng" : -79.2044533
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7852628302915,
+                  "lng" : -79.2030677197085
+               },
+               "southwest" : {
+                  "lat" : 43.7825648697085,
+                  "lng" : -79.20576568029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "941c2ff9389e5c80f3d036e82748f34d2dd04404",
+         "name" : "HappyMart",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJpbGj5-_R1IkRZsvNZhvpmDI",
+         "plus_code" : {
+            "compound_code" : "QQMW+H6 Toronto, Ontario, Canada",
+            "global_code" : "87M2QQMW+H6"
+         },
+         "reference" : "ChIJpbGj5-_R1IkRZsvNZhvpmDI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "2876 Ellesmere Road, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.8013397,
+               "lng" : -79.20037909999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.80270978029149,
+                  "lng" : -79.19894396970848
+               },
+               "southwest" : {
+                  "lat" : 43.80001181970849,
+                  "lng" : -79.20164193029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "07e04de824c2276be78e511ca8f5d2a94a46678f",
+         "name" : "BK Variety",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117525489191698472910/photos\"\u003eMichael Rosario\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0goaLpT43AkID9Mzkp3cMf48MUBmSlED4AAbPYo9pEL9THDsnRN6VHvTH8yNv9UcGC4SMZwYly9IZOLnTdNgpm-K9Ak5bn_5A6CSV5tG82yqgAflkSPQlKwuXfZS2K9UEhC5fuXjsaw_jy-5DdHaiAigGhSKbpm8SI4kOARY20frAxz48xYFQQ",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJgVasjKfQ1IkRTGQmgoPilSk",
+         "plus_code" : {
+            "compound_code" : "RQ2X+GR Toronto, Ontario, Canada",
+            "global_code" : "87M2RQ2X+GR"
+         },
+         "reference" : "ChIJgVasjKfQ1IkRTGQmgoPilSk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "1154 Morningside Avenue, Scarborough"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7957942,
+               "lng" : -79.2262456
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.79719658029149,
+                  "lng" : -79.22497216970849
+               },
+               "southwest" : {
+                  "lat" : 43.7944986197085,
+                  "lng" : -79.2276701302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c387e86f081b32e463fc7307f8977279c3d0b8d1",
+         "name" : "Lapsley Food & Convenience",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112708357316892724039/photos\"\u003eSamuel Asirvatham\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA15DUsjcK5SNNIR-vjTYtsUBaq4FsiSkZ5ZNsjTu9MQAQ7k81WrcIesMn7gXgldU9lhMlb4xj_pMBd6kdM_vXemRkRCM8c0uvI4jaFlTZpwX-iKG-vrQd4ep1O5h6S0ALEhB3a2cGXZJ6saoga_gberrqGhRhKDrf2d7JiZ7bylMzatjCIeamzw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJYUul5MHQ1IkRoL13tc-HMwk",
+         "plus_code" : {
+            "compound_code" : "QQWF+8G Toronto, Ontario, Canada",
+            "global_code" : "87M2QQWF+8G"
+         },
+         "rating" : 2.6,
+         "reference" : "ChIJYUul5MHQ1IkRoL13tc-HMwk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 7,
+         "vicinity" : "35 Lapsley Road, Scarborough"
+      }
+   ],
+   "status" : "OK"
+}

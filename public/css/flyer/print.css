@@ -1,0 +1,365 @@
+@media print {
+  @page {
+        size: Letter;
+        /*size: Letter;*/
+        /*size : 8.5in 11in;*/
+        margin: 10px 20px;
+
+  }
+body {
+  -webkit-print-color-adjust: exact !important;
+}
+
+
+  .col-print-1, .col-print-2, .col-print-3, .col-print-4, .col-print-5, .col-print-6, .col-print-7, .col-print-8, .col-print-9, .col-print-10, .col-print-11, .col-print-12 {
+    float: left;
+  }
+  .col-print-12 {
+    width: 100%;
+  }
+  .col-print-11 {
+    width: 91.66666667%;
+  }
+  .col-print-10 {
+    width: 83.33333333%;
+  }
+  .col-print-9 {
+    width: 75%;
+  }
+  .col-print-8 {
+    width: 66.66666667%;
+  }
+  .col-print-7 {
+    width: 58.33333333%;
+  }
+  .col-print-6 {
+    width: 50%;
+  }
+  .col-print-5 {
+    width: 41.66666667%;
+  }
+  .col-print-4 {
+    width: 33.33333333%;
+  }
+  .col-print-3 {
+    width: 25%;
+  }
+  .col-print-2 {
+    width: 16.66666667%;
+  }
+  .col-print-1 {
+    width: 8.33333333%;
+  }
+  .col-print-pull-12 {
+    right: 100%;
+  }
+  .col-print-pull-11 {
+    right: 91.66666667%;
+  }
+  .col-print-pull-10 {
+    right: 83.33333333%;
+  }
+  .col-print-pull-9 {
+    right: 75%;
+  }
+  .col-print-pull-8 {
+    right: 66.66666667%;
+  }
+  .col-print-pull-7 {
+    right: 58.33333333%;
+  }
+  .col-print-pull-6 {
+    right: 50%;
+  }
+  .col-print-pull-5 {
+    right: 41.66666667%;
+  }
+  .col-print-pull-4 {
+    right: 33.33333333%;
+  }
+  .col-print-pull-3 {
+    right: 25%;
+  }
+  .col-print-pull-2 {
+    right: 16.66666667%;
+  }
+  .col-print-pull-1 {
+    right: 8.33333333%;
+  }
+  .col-print-pull-0 {
+    right: auto;
+  }
+  .col-print-push-12 {
+    left: 100%;
+  }
+  .col-print-push-11 {
+    left: 91.66666667%;
+  }
+  .col-print-push-10 {
+    left: 83.33333333%;
+  }
+  .col-print-push-9 {
+    left: 75%;
+  }
+  .col-print-push-8 {
+    left: 66.66666667%;
+  }
+  .col-print-push-7 {
+    left: 58.33333333%;
+  }
+  .col-print-push-6 {
+    left: 50%;
+  }
+  .col-print-push-5 {
+    left: 41.66666667%;
+  }
+  .col-print-push-4 {
+    left: 33.33333333%;
+  }
+  .col-print-push-3 {
+    left: 25%;
+  }
+  .col-print-push-2 {
+    left: 16.66666667%;
+  }
+  .col-print-push-1 {
+    left: 8.33333333%;
+  }
+  .col-print-push-0 {
+    left: auto;
+  }
+  .col-print-offset-12 {
+    margin-left: 100%;
+  }
+  .col-print-offset-11 {
+    margin-left: 91.66666667%;
+  }
+  .col-print-offset-10 {
+    margin-left: 83.33333333%;
+  }
+  .col-print-offset-9 {
+    margin-left: 75%;
+  }
+  .col-print-offset-8 {
+    margin-left: 66.66666667%;
+  }
+  .col-print-offset-7 {
+    margin-left: 58.33333333%;
+  }
+  .col-print-offset-6 {
+    margin-left: 50%;
+  }
+  .col-print-offset-5 {
+    margin-left: 41.66666667%;
+  }
+  .col-print-offset-4 {
+    margin-left: 33.33333333%;
+  }
+  .col-print-offset-3 {
+    margin-left: 25%;
+  }
+  .col-print-offset-2 {
+    margin-left: 16.66666667%;
+  }
+  .col-print-offset-1 {
+    margin-left: 8.33333333%;
+  }
+  .col-print-offset-0 {
+    margin-left: 0%;
+  }
+  .visible-xs {
+    display: none !important;
+  }
+  .hidden-xs {
+    display: block !important;
+  }
+  table.hidden-xs {
+    display: table;
+  }
+  tr.hidden-xs {
+    display: table-row !important;
+  }
+  th.hidden-xs,
+  td.hidden-xs {
+    display: table-cell !important;
+  }
+  .hidden-xs.hidden-print {
+    display: none !important;
+  }
+  .hidden-sm {
+    display: none !important;
+  }
+  .visible-sm {
+    display: block !important;
+  }
+  table.visible-sm {
+    display: table;
+  }
+  tr.visible-sm {
+    display: table-row !important;
+  }
+  th.visible-sm,
+  td.visible-sm {
+    display: table-cell !important;
+  }
+
+ .noBreak {
+    page-break-inside: avoid;
+  }
+  .pageBreakAfter {
+      page-break-after: always;
+  }
+
+    body > div.page-header {
+        display: none;
+    }
+    body > div.sharethiscontainer {
+        display: none;
+    }
+    body > footer.style-5 {
+        display: none;
+    }
+    .no-print {
+        display: none;
+    }
+
+    .common-report {
+        display: none;
+    }
+
+
+   a[href]:after {
+      display: none;
+      visibility: hidden;
+   }
+
+
+  .container {
+    width:100%;
+  }
+
+  .flyer {
+    width:992px;
+    margin-top: 20px;
+  }   
+
+  .color1 {
+    color: #de082d !important;
+  }
+  .color2 {
+    color: #39549f !important;
+  }
+  .color3 {
+    color: #ffffff !important;
+  }
+  .color3 > div {
+    color: #ffffff !important;
+  }
+
+  .color4 {
+    color: #000000 !important;
+  }
+  .background1 {
+    background: #39549f !important;
+  }
+  .background2 {
+    background: #de082d !important;
+  }
+  .background3 {
+    background: #0961a9 !important;
+  }
+
+
+
+  .flyer .address1 {
+      font-size: 60px;
+  }
+  .flyer .big-image img {
+    height: 700px;
+  }
+  .flyer .overview {
+      font-size: 19px;
+  }
+  .flyer .overview-text {
+      font-size: 20px;
+      line-height: 1.5em;
+      height: 300px;
+  }
+  .flyer .features {
+      font-size: 19px;
+  }
+  .flyer .features-text {
+      font-size: 20px;
+      line-height: 1.45em;
+      /*height: 255px;*/
+      height: 300px;
+  }
+  .flyer .for-sale {
+    padding: 50px 20px;
+  }
+  .flyer .more-info {
+    margin-bottom: 16px;
+  }
+
+  .flyer .more-info p{
+    font-size: 15px;
+    color: #ffffff !important;
+  }
+  .flyer .to-order p {
+    font-size: 9px;
+    color: #ffffff !important;
+  }
+
+  .flyer .for-more-info {
+    height: 255px;
+  }
+  .flyer .more-info p.email {
+    font-size: 13px;
+  }
+
+  .flyer .three-images-img1 img {
+    height: 222px;
+  }
+  .flyer .three-images-img2 img {
+    height: 222px;
+  }
+  .flyer .three-images-img3 img {
+    height: 222px;
+  }
+
+  .flyer .page2-section1 .two-images-img1 img {
+    height: 231.85px;
+  }
+  .flyer .page2-section1 .two-images-img2 img {
+    height: 231.85px;
+  }
+  .flyer .page2-section1 .property-info {
+    font-size: 26px;
+  }
+  .flyer .page2-section1 .property-info .property-info-text{
+      height: 211.85px;
+      font-weight: bold;
+  }
+
+
+  .flyer .img8 img {
+    height: 255px;
+  }
+  .flyer .img9 img {
+    height: 255px;
+  }
+
+  .flyer .text-editable div.content:empty {
+    opacity: 0.4;
+  }
+
+  .flyer .text-editable div.content:empty:not(:focus)::before{
+      content:'';
+
+  }
+  .flyer .footer {
+    font-size: 9px;
+  }
+
+}
+

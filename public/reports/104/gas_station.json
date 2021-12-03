@@ -1,0 +1,348 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.68230509999999,
+               "lng" : -79.47210459999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68370178029149,
+                  "lng" : -79.47055311970848
+               },
+               "southwest" : {
+                  "lat" : 43.68100381970849,
+                  "lng" : -79.4732510802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "ffc0bcfc7a5b686ee40a47c891b44719c97133a2",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3072,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102512170369022767027/photos\"\u003eThupten Choephel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvSJ6aedaMQHReCOXRC-yOMn65zIV_vq4_OaLfwerAV9L5iUIa12WjE4TI5xLTrrvavj68s3AhW5j8TQwLk518q6hTfTincf12QorUa-suEo2lLZC6s3uLOmfTvGXhrd5EhAe1YK9v7erJjAPRuA_O-o7GhTMo6pQczfEdOh6EeNB8QulR2mo_A",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJhV6HFao2K4gRq0gmxnuY3jc",
+         "plus_code" : {
+            "compound_code" : "MGJH+W5 Toronto, Ontario, Canada",
+            "global_code" : "87M2MGJH+W5"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CmRRAAAAd5VtwTz8JcbHFG_hGC6XflBK8dxdEeUlYU147UArmv7I9FDrvMxuWQJY1AuOD473WnD-gxvzuR-D5zvwSQCunffKaBQYXV4y3tvKMwrbdSWpBrnbODRd4s3j0ETVZ8DDEhCDZFRT5AS_F-nUs_AQHOLGGhQGoecCGQSb_a1mh_isAXLUBCXgbQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1610 Keele Street, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.685005,
+               "lng" : -79.447693
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6863539802915,
+                  "lng" : -79.4463440197085
+               },
+               "southwest" : {
+                  "lat" : 43.6836560197085,
+                  "lng" : -79.44904198029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bbca8fe65a5dc3f00e1060d3d4861fb79e27bcf6",
+         "name" : "Frank Malfara Service Station",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJL3eeNfUzK4gRKTcBnIopPJM",
+         "plus_code" : {
+            "compound_code" : "MHP2+2W Toronto, Ontario, Canada",
+            "global_code" : "87M2MHP2+2W"
+         },
+         "rating" : 3.4,
+         "reference" : "CmRSAAAAASjy8t466xr_-SZC4PwjbXrLcaBNE2inkSzvXpxFJH66OnAhL3oc5XlVqRY5y6BA1Y3jOtZMkGiJ8ClVLcFJh6IAXyZbhlrUKLjIOPJrWJYnGOVB9gv7rLlnQGkDl1sEEhChf4Rl8oYsIi7czs9RLgBrGhRpNU-ZBxxqSzjq8SEcK-vzGLIobw",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "car_repair", "point_of_interest", "establishment" ],
+         "vicinity" : "165 Rogers Road, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6817349,
+               "lng" : -79.4672058
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68317578029149,
+                  "lng" : -79.4658942697085
+               },
+               "southwest" : {
+                  "lat" : 43.68047781970849,
+                  "lng" : -79.46859223029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "f942ef26e3be7a5ea9686990a907f80774fb6b98",
+         "name" : "HUSKY",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118342727078507391219/photos\"\u003eHUSKY\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJ2gvdaVvhyebaycl8RVcE3AfyUevVDXnG0c6kChKmP77tySBBl6tPcQwasupjxRLbywxtyspWuaqbyBVvS6xre_ZR0Ne2LTw2293Fi8NcmOmU9zXB89AU0V3dMepdL7fEhCyGGLrpBaNPGhkbKPu2ycWGhSqNBjzTXoOX78RIFJ8UTuLFuRCuQ",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJh9mRdQE0K4gRolUGipZJWt0",
+         "plus_code" : {
+            "compound_code" : "MGJM+M4 Toronto, Ontario, Canada",
+            "global_code" : "87M2MGJM+M4"
+         },
+         "rating" : 3.5,
+         "reference" : "CmRSAAAAG2gNKwZGhD_UDODKSDRsUZzaN9YjCausxQ7UiFUuc-ZzThb1-DmlwVQFmkpELj3-q5PTfbaa3w-aaDwImR3Toa8OFwnWrywdrABMS3LWhY71wiEchpMAQRK50qBABjavEhCMFhvR8AxFAaV9qqtghtp3GhTHJpmznL4ojhi8hh5xhmoeXMmonQ",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "481 Rogers Road, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6906749,
+               "lng" : -79.46278099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.69202388029149,
+                  "lng" : -79.4614320197085
+               },
+               "southwest" : {
+                  "lat" : 43.6893259197085,
+                  "lng" : -79.4641299802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9275826fb23ccda42df560428414fbc77b0d2de3",
+         "name" : "Clear Ice Solid Blocks Inc",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJpVZfz_szK4gRvPIr8eb3nOc",
+         "plus_code" : {
+            "compound_code" : "MGRP+7V Toronto, Ontario, Canada",
+            "global_code" : "87M2MGRP+7V"
+         },
+         "rating" : 3,
+         "reference" : "CmRSAAAARk3dt_AGNGm45qyRP14suPxQfDX_J2glzcxo5c21HO7kKFOXvdQQFZH-YkQWvRQiViFkDl0jD10Q6s4UdC0sRm0CbqK6bICja1LYT3M_pmZoRqbq6nd9nHoq6f2lN0sIEhC2bVu1QosE2K9z155S7QYXGhQIXEQkM0_H4bEjjDzhKAJSUKSFQA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "post_office",
+            "gas_station",
+            "finance",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "464 Gilbert Av, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7024169,
+               "lng" : -79.44150359999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7036387802915,
+                  "lng" : -79.44009811970849
+               },
+               "southwest" : {
+                  "lat" : 43.7009408197085,
+                  "lng" : -79.4427960802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "4a12d723ee154dc71dae15f3b7d9bd339b05da9f",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1697,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105175761337711150993/photos\"\u003eDan Levy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlz_l3jYsEzbR0DhlbI-CS7lMbJwz75twHayrS2IBMzuBQLuVJ7ape1U4NsLzkqI9l1G_yzEhfkamD3rjm2Ayj3fkKkGTMaGc0DQWy40cM4umyBuYCkk-V0STclLNJhkOEhBdEqU2gjJQxsoJARVbo15NGhQfN2r1HTrgmNAAhw4I8fB8LZ8k3g",
+               "width" : 2262
+            }
+         ],
+         "place_id" : "ChIJdwTM9b0zK4gRTzK1TGg-E84",
+         "plus_code" : {
+            "compound_code" : "PH25+X9 Toronto, Ontario, Canada",
+            "global_code" : "87M2PH25+X9"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CmRSAAAABkpr_redGqg7l2_3G3Wd0j13qe_HhUBZ294g393muvCy9fPnn2LwijkkuS4jSxDm0AShDFQnhFNZQtxDvfzttqZlCbQZDlcR7Qp_TsGUUxUb63wVH8nqMm7bxYwJKyFGEhBhQTA1r0uT3nI9gpmurexaGhSf86RjcgfiSOjpskL_p9WfXkj9hw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "850 Roselawn Avenue, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6929691,
+               "lng" : -79.4411911
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6942607302915,
+                  "lng" : -79.43989151970848
+               },
+               "southwest" : {
+                  "lat" : 43.6915627697085,
+                  "lng" : -79.44258948029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "80f974c03f7e583d8bf7140c0bb03f0799688a5b",
+         "name" : "Ultramar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118130316802689090419/photos\"\u003eUltramar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQ2GN4ME-3eS1iFCZ663DGIuiQgSDwJUvz0Z92BQRpEVckyF5FsdITPzNNvcAzaVyQkWMR2Hc38iwS86jhr91k8bb0G0evXo2K9TIOkTCCcnJ4iEkdYs9QZuPpOnd8Dd2EhBcYdF_DvpQMkFvQh6zLs7aGhTHS1x6SSR2EbeavJdw3tfwKEh1xg",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJsdam45EzK4gR2zs_Xtp8V3w",
+         "plus_code" : {
+            "compound_code" : "MHV5+5G Toronto, Ontario, Canada",
+            "global_code" : "87M2MHV5+5G"
+         },
+         "rating" : 3.9,
+         "reference" : "CmRRAAAA0VdOWbbDiS2X6yEW4n_yMoYxFe-b6o1ilEhW9rsu3Nsx2yRBugNrq4Za2nP-G4xuyidMmCGuKJ2ZM7R-EwXS8ZdlF2TpByHAa0DhOuqhk54ncP4ffyGB7okM3EP-OV9yEhCN5-H9kpjlzjmO7z_ngC1aGhR2T7JEzjsH2fQx9Hb4uQjxv2eWig",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "637 Vaughan Road, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6849825,
+               "lng" : -79.447688
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6864117802915,
+                  "lng" : -79.4463834197085
+               },
+               "southwest" : {
+                  "lat" : 43.6837138197085,
+                  "lng" : -79.4490813802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "447e43d66646008ca55aeef52df8e9689585094a",
+         "name" : "XTR",
+         "place_id" : "ChIJmWaeNfUzK4gRojux0dfSIzY",
+         "plus_code" : {
+            "compound_code" : "MHM2+XW Toronto, Ontario, Canada",
+            "global_code" : "87M2MHM2+XW"
+         },
+         "rating" : 3,
+         "reference" : "CmRRAAAA6ehyoQpWhLf0IEqOi7v6jYhHck0sKDIpr_22o0usjwenii8baTTkHPqRRuo0AUyBzpzz4R41AUs6hW9aiY73VbcHlcjWBcGSUab3sfCu6Tf-lE6n2y1vA3yTdLC4qsrAEhAfvltEW9m-Vy5edr3a0kNgGhTlwgqREeTEb8mOv-T6-lkxriCjZw",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "165 Rogers Road, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.697654,
+               "lng" : -79.4404567
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6990482302915,
+                  "lng" : -79.4391266697085
+               },
+               "southwest" : {
+                  "lat" : 43.6963502697085,
+                  "lng" : -79.44182463029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "82af4a0d766a1b0d3b72d38f89a2ac37d90603fe",
+         "name" : "Petro V Plus",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112942586853670715121/photos\"\u003eGlenn Dickler\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAhy8MUEQIZPHA3zl-_gU-p6pt-14p32BoGZC2LSX0N7OGCTz6WkxfZCscaBxl8Exmpy2Q690SZFjFgOuM6J7oJrH3jkNuHRr9MzYdmF1STeQkyXVvltv-2jvSAmQNr7JEEhDncq_NYHIGGscreK_Ly3kkGhRO-B5Ecn3j57GuG4INQCvPayGNrw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJLy3HyZYzK4gRofFV7XRqolc",
+         "plus_code" : {
+            "compound_code" : "MHX5+3R Toronto, Ontario, Canada",
+            "global_code" : "87M2MHX5+3R"
+         },
+         "rating" : 3.7,
+         "reference" : "CmRRAAAAqfMl01tomu95xEbwcA1Q93docRNxFAS4xgFacqLROQEEoPMcDkOnBZ1CuHlMLY2POrvd4qFipWrC2X2Hs0OwhtLEtSHabRaSKBCjeJqpC1b9KQ3cNGLZu96rIUP22yF0EhCG0Ui3CJIpRSsJRycHSdbxGhR16uZzCaFR8Ml945A7NkSHaw1SZw",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "1525 Eglinton Avenue West, York"
+      }
+   ],
+   "status" : "OK"
+}

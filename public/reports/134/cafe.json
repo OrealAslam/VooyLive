@@ -1,0 +1,509 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.1545705,
+               "lng" : -114.0539324
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1557857302915,
+                  "lng" : -114.0525844197085
+               },
+               "southwest" : {
+                  "lat" : 51.1530877697085,
+                  "lng" : -114.0552823802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "0cb7004df43efe75fda55337977f5da6477456fe",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104826494825512611803/photos\"\u003eJamil Khidri\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArq-WrwPt3In-dVbqCHzmzefrX-xEsYNBq3kiiNXST_idW3BqxHjVg0-TQahFlchYmZgtTTP4u_EWoBS14Y5R3LE2RJm1bN796f7a-PqHU8oLgIaAXDiHK8TmaDdpxNJbEhCsMtkArqk2ZPPNhagtjBOnGhREysvdhfesvxFUfbIv46ye84RTrg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJZ3LLI7xmcVMROKKM3lOQg34",
+         "plus_code" : {
+            "compound_code" : "5W3W+RC Calgary, Alberta, Canada",
+            "global_code" : "95375W3W+RC"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJZ3LLI7xmcVMROKKM3lOQg34",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 307,
+         "vicinity" : "500 Country Hills Boulevard Northeast Unit 900, Calgary"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.14886660000001,
+               "lng" : -114.0717756
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1503436302915,
+                  "lng" : -114.0705994197085
+               },
+               "southwest" : {
+                  "lat" : 51.1476456697085,
+                  "lng" : -114.0732973802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1fb4a92a62112600158bcae829c9127f74edc4d2",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114542107538463952048/photos\"\u003eJackson Le\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbCqEYls7AUQYdMP6POIfkQy1R1iAMt4qjp-hNBsWaxTDlWJQMQTBs5e7g0x3SsnPdqD7Emj90sTbJvDIy3xPpynbSmObXHnP-fzXi51csbSaQ8f9GnWL6JMbFZBaCSJSEhAPmVqCzoxSLCBR_TIfICpIGhQlCTV_vNe7kYVXdzBiLE3-QsnCAQ",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJbS8JMIpmcVMRyxaEig4sYmU",
+         "plus_code" : {
+            "compound_code" : "4WXH+G7 Calgary, Alberta, Canada",
+            "global_code" : "95374WXH+G7"
+         },
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "ChIJbS8JMIpmcVMRyxaEig4sYmU",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 646,
+         "vicinity" : "177 Country Hills Boulevard Northwest #300, Calgary"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.1484768,
+               "lng" : -114.071502
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1501096802915,
+                  "lng" : -114.0705361697085
+               },
+               "southwest" : {
+                  "lat" : 51.1474117197085,
+                  "lng" : -114.0732341302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "edcd93dea0f133c579dc61ea988d85315d00abdc",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109285626203417560343/photos\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKrSNRWln33CUHDIcXC9Ebmzw9xJI1VuRayJp39rh3JXmzq9TylQUliidiRiRq9KUnMKiuGSgy_pkm5AHcFoifO4DVtWTuRkUKL1B2CXfEAiyE-1_O-6weK70mJ890OkZEhAfZVc9d-DTT7zUTX1ez3dkGhSR64u3p_H2QKO4CGVmY4QlQY17UQ",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJbS8JMIpmcVMRitznyp32EKk",
+         "plus_code" : {
+            "compound_code" : "4WXH+99 Calgary, Alberta, Canada",
+            "global_code" : "95374WXH+99"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJbS8JMIpmcVMRitznyp32EKk",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 124,
+         "vicinity" : "Panorama Hills Centre, 177 Country Hills Boulevard Northwest #238, Calgary"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.14169039999999,
+               "lng" : -114.0684216
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.14287203029149,
+                  "lng" : -114.0672060697085
+               },
+               "southwest" : {
+                  "lat" : 51.1401740697085,
+                  "lng" : -114.0699040302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "5e1c809de747459e58377cdccaa5a05a1909a833",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116451027201311272896/photos\"\u003eKin Chan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADHlLCLmUxs27pWxs96LG_bmKP3LM4D3EPXa_VhKTNcHonP2aqetN1a5rylJJs5YD8FRcMGhq1glVNkwnIdzpN2OHMDjDs8FtQpTNFApwDsmnCbXMB5QbX0ss9HneVDeQEhCzaMbhyHX5_DmjdkwcraEGGhRPQwisPVdDAGIttFx6peHLNwfXZA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJlYemSlZmcVMRD-VO08un5WA",
+         "plus_code" : {
+            "compound_code" : "4WRJ+MJ Calgary, Alberta, Canada",
+            "global_code" : "95374WRJ+MJ"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJlYemSlZmcVMRD-VO08un5WA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 261,
+         "vicinity" : "9650 Harvest Hills Boulevard North Unit 200, Calgary"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.140773,
+               "lng" : -114.068261
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1421211802915,
+                  "lng" : -114.0668803697085
+               },
+               "southwest" : {
+                  "lat" : 51.1394232197085,
+                  "lng" : -114.0695783302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "5e1739508de10d70115c732ff9c01970af8610e1",
+         "name" : "Ten Ren's Tea Harvest Hills",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1097,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110137590406010533530/photos\"\u003eTen Ren&#39;s Tea\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0saHj5iy6dPDoIcNwLycK-pJ1pG7MJPJxnLBwTmUTU6U058ZUOB1l8dGhHfzMHtZin9Jaz71qeCHh81VJDMGCNMXuVqXfp4uzoWuy6IocSwZKiG908ze3-1uvir_oA5pEhDYhu18x1ld0ZJ-UJCrBdYIGhQmlI0jQFXW7Tro4NB7zc2x63VDdQ",
+               "width" : 1266
+            }
+         ],
+         "place_id" : "ChIJbyKiRH1mcVMRzg6sXfIHgvg",
+         "plus_code" : {
+            "compound_code" : "4WRJ+8M Calgary, Alberta, Canada",
+            "global_code" : "95374WRJ+8M"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJbyKiRH1mcVMRzg6sXfIHgvg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "9650 Harvest Hills Boulevard North, Calgary"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.1546537,
+               "lng" : -114.06041
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1560014802915,
+                  "lng" : -114.0589797197085
+               },
+               "southwest" : {
+                  "lat" : 51.15330351970851,
+                  "lng" : -114.0616776802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "c2af4691e17c9b62846bcc55edf7423937b24b6e",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116639009944863608121/photos\"\u003eDJ Rouse\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVHoM_fEXlBCHAbBU1_S5cDf2md8kmcWBn3JkQyip1ywM_PNj5TcqDqvtsPg9jOypoNPdQBL-U1r1DqCEKAC5N9AtUTPLBdXEgHyP2cNgnmyZ06SH8KZSnId4Pfi9dSyIEhAxakycD4ByxpAOFPnIPNE5GhQmFPpwZUXgCTeGeEn94hj04jDvlg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJZ3LLI7xmcVMRImMS_o9W_B8",
+         "plus_code" : {
+            "compound_code" : "5W3Q+VR Calgary, Alberta, Canada",
+            "global_code" : "95375W3Q+VR"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJZ3LLI7xmcVMRImMS_o9W_B8",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 24,
+         "vicinity" : "620 Country Hills Boulevard Northeast, Calgary"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.1610066,
+               "lng" : -114.0649312
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.16242868029149,
+                  "lng" : -114.0636098697085
+               },
+               "southwest" : {
+                  "lat" : 51.15973071970849,
+                  "lng" : -114.0663078302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "41659c997331a6d774693d5b377cbc2633bb5154",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117784042298780440799/photos\"\u003eKent Pederson\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7pFdgLz5wRVvxp2pMH3wtu6hi2eXPbBFMsalZlfttDFN7fcz2cgC4Zy-sc8-kJNTrjFKaRfX9sNDmKKtudxuhbDMgoYdHtfsYUaOg-ZJkLw-Vplo-BHtwQETgwiQXCtBEhDwRaHbiNNsoq56GAUTi78uGhSJxRZJBCM53ATMrx1zXPvqosx7Dw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJQ7KenulmcVMR_hsRXPPvsIs",
+         "plus_code" : {
+            "compound_code" : "5W6P+C2 Calgary, Alberta, Canada",
+            "global_code" : "95375W6P+C2"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJQ7KenulmcVMR_hsRXPPvsIs",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 155,
+         "vicinity" : "130 Country Village Road Northeast #605, Calgary"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.1649732,
+               "lng" : -114.0707835
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1661059802915,
+                  "lng" : -114.0695766197085
+               },
+               "southwest" : {
+                  "lat" : 51.1634080197085,
+                  "lng" : -114.0722745802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b5611099fd439ca50168bee928d8dc3f7df36de7",
+         "name" : "Mac's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJheIAXeVmcVMRJSjF2uGuU-M",
+         "plus_code" : {
+            "compound_code" : "5W7H+XM Calgary, Alberta, Canada",
+            "global_code" : "95375W7H+XM"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJheIAXeVmcVMRJSjF2uGuU-M",
+         "scope" : "GOOGLE",
+         "types" : [
+            "atm",
+            "cafe",
+            "meal_takeaway",
+            "finance",
+            "store",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 14,
+         "vicinity" : "8 Panatella Boulevard Northwest, Calgary"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.1678966,
+               "lng" : -114.0913333
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1691475802915,
+                  "lng" : -114.0899625197085
+               },
+               "southwest" : {
+                  "lat" : 51.1664496197085,
+                  "lng" : -114.0926604802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "316c8f4bcb4908f232a0e318dc9592b3c87ebcdc",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111393400839451795466/photos\"\u003eMax Hernandez\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAq7RY37M-ogahWsZwaVuWViqtq4IMJEq-fWC6mYEua3tU8kYbPSZJE1Wu9nos3fbelfhPvXHo6J-BUjdk8VetFqUqEjSRE__kk-pEpNNiPieKT80Ok57fN8Ub2Dpqc1TvEhAd_QNlxSpK9aqZzYuxmyb4GhRiSiC6ZXDyngo_muBI1SMApe2zzg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJgW8oXvhmcVMRvxFA2G23EdE",
+         "plus_code" : {
+            "compound_code" : "5W95+5F Calgary, Alberta, Canada",
+            "global_code" : "95375W95+5F"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJgW8oXvhmcVMRvxFA2G23EdE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 279,
+         "vicinity" : "1110 Panatella Boulevard Northwest, Calgary"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.1609001,
+               "lng" : -114.0681373
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1622494802915,
+                  "lng" : -114.0667518197085
+               },
+               "southwest" : {
+                  "lat" : 51.1595515197085,
+                  "lng" : -114.0694497802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "93ce837c4242b3f8a514fb97d48f70db0d863f05",
+         "name" : "Good Earth Coffeehouse - Coventry Hills",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111280868539580621156/photos\"\u003eGood Earth Coffeehouse - Coventry Hills\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXLra3sy383jZb4CY34aUWQxvuyys9_uV-BeiXgYQQQd1O8mXiz0GDHRufZqVlbsbgFIpRuOWBhMCEY635UdgM0N9bJ0xFjINgRcKkAw0vPYIfxubOL5kpquA2v7Dd1xsEhDnQokTryokxwP1pkIAjxqfGhQTqAVI1XLxl682P1souiVD54W1IA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJc2N_Iu5mcVMR06i0ttxz4Ys",
+         "plus_code" : {
+            "compound_code" : "5W6J+9P Calgary, Alberta, Canada",
+            "global_code" : "95375W6J+9P"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJc2N_Iu5mcVMR06i0ttxz4Ys",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 98,
+         "vicinity" : "104 Country Village Road Northeast #113, Calgary"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.1680777,
+               "lng" : -114.0896065
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1693776302915,
+                  "lng" : -114.0882344197085
+               },
+               "southwest" : {
+                  "lat" : 51.16667966970851,
+                  "lng" : -114.0909323802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "8f381c4873b0ac94eafb3572e8cf91462594a03d",
+         "name" : "Happy Tea",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103891703488081827480/photos\"\u003eHappy Tea\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFvGufbkdx6my7YO-p8zzAJq56l697aVomaMQ5AAHswCVdZh4iaTF6Lp0p1crXuis_N8ic5dBZhAADPs5z2PmUa70h9WmWaiygdrIOQX3Y3HH59ZAJIrihaKmPtnUhMvoEhAUgXunFW-8tytqhvqCGVokGhTi2Mg4-TEQS6QhssP7eQOlxHgpDg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJG8cNRBhncVMRhj_7Vh3ZALI",
+         "plus_code" : {
+            "compound_code" : "5W96+65 Calgary, Alberta, Canada",
+            "global_code" : "95375W96+65"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJG8cNRBhncVMRhj_7Vh3ZALI",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 34,
+         "vicinity" : "1110 Panatella Boulevard Northwest unit 250, Calgary"
+      }
+   ],
+   "status" : "OK"
+}

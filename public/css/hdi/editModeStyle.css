@@ -1,0 +1,91 @@
+/*For Inpage Editing css*/
+.hdi .text-editable {
+    position: relative;
+    /*display: inline-block;*/  
+}
+.hdi .text-editable:hover {
+    background: #fff3a5 !important;
+    color: black !important;
+}
+.hdi .text-editable:hover >div.content {
+    color: black;
+}
+.hdi .text-editable:hover .options {
+    display: block;
+}
+
+.hdi .text-editable .options {
+    /*padding-top: 7px;*/
+    /*padding-right: 7px;*/
+    /*padding-right: 23px;*/
+    position: absolute;
+    right: 0;
+    top: -15px;
+    display: none;
+    font-size: 20px;
+    line-height: initial;
+    color: red;
+    cursor: pointer;
+}
+/*
+.hdi .text-editable.welcome-text .options {
+    top: -9px;
+}
+*/
+
+
+
+
+.hdi .editableBackground {
+    background: #fff3a5;
+    color: black;
+}
+
+.fa-disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  color: lightgrey;
+}
+
+.hdi .image-editable {
+    position: relative;
+    /*display: inline-block;*/  
+}
+.hdi .image-editable:hover {
+    /*opacity: 0.6;*/
+}
+.hdi .image-editable:hover .icon-content svg {
+    opacity: 0.5;
+}
+.hdi .image-editable:hover .options {
+    display: block;
+    background: yellow;
+}
+.hdi .image-editable .options {
+    /*padding-top: 7px;*/
+    /*padding-right: 7px;*/
+    /*padding-right: 23px;*/
+    position: absolute;
+    right: 5px;
+    top: 0px;
+    display: none;
+    font-size: 20px;
+    line-height: initial;
+    color: red;
+    cursor: pointer;
+}
+/*
+.hdi .image-editable.three-images-img1 .options {
+    right: 25px;
+}
+.hdi .image-editable.three-images-img2 .options {
+    right: 15px;
+}
+*/
+
+
+/*
+.flyer .text-editable .edit a {
+    color: red;
+}
+*/

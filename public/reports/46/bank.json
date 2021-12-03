@@ -1,0 +1,88 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 50.9423114,
+               "lng" : -114.0465644
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9438730302915,
+                  "lng" : -114.0449703697085
+               },
+               "southwest" : {
+                  "lat" : 50.9411750697085,
+                  "lng" : -114.0476683302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "069da0d2b7fe4f9582993bef90acd5a68ea562b0",
+         "name" : "TD Canada Trust",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111973388962175208055/photos\"\u003eJeremy Gillespie\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAl1Alsd0t9ONHRyUFHikb8yWfVyafwUxNMtl38mdtHtSH-y6v_cqUwJKgGSiUBlWA1D0U5HGPvHucqD-FdlQrRJkS1tkOSXK4Srf4B-72QH3PfGbRMBqiEFRoyPhWeA5jEhATAuTZIsiSHvS6yFFo4YcBGhSccOTvbNbUZJhSjgSvbNHGWlIMEA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ8QYPTNt2cVMRMTmmI0ViHL4",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAAUZgyNUuSVu2_eKbaBS8HWnbHgIVOE4bhfQLBt6vWMeg3e7_KbusYL0S4oABK2B0TvWXDNGrGCC2NbXr_CZJwcksSCo9hLvZddhiR87JT4-jpjJ4qefmL_MSLOUOem64pEhDyqh3DsY5zhetNUeoZ5-ZEGhRYb-2j0yoErcY5c1CZeM5BKb-ANQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "755 Lake Bonavista Drive Southeast, Calgary"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 50.9510776,
+               "lng" : -114.0605311
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9524265802915,
+                  "lng" : -114.0591821197085
+               },
+               "southwest" : {
+                  "lat" : 50.9497286197085,
+                  "lng" : -114.0618800802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "b626586a696a5f01b7f011af32f0f00e0783b757",
+         "name" : "CIBC Branch & ATM",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113449253519698763621/photos\"\u003eObi1kaSwabby\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACnirFwElAf0W8A3zNBIQ9vMkdA7wpzoY-ymo63RE_8h7_FCXlw5AJn1hqLZ8efNCO-T_Q7uMuKobdsKjC1sW-mbVbTbjvUi0bOAGXmH0mgUbklLY0eYUBibFv1Mf-kz8EhD_YzygcGiKfUFACJFE1sVQGhQZOvNKcBl_E6XBM6QBF7OafQIc_A",
+               "width" : 5333
+            }
+         ],
+         "place_id" : "ChIJwZ_4uc52cVMR6vVYaJl0rlU",
+         "rating" : 3.1,
+         "reference" : "CmRRAAAA-WECP251Tj-ETfL_Vba6h9sdkFbss4_CJ5YTn3_W3hWHu34zZDSG9nrACheqz650Kb0ztYnJzHhl28rPJD8LLjdb_7e760jCMlETUylZOdu3TyT_4aRrKm6AOP_19d58EhDNYrg5ogI3hXbsSO9nz63pGhQ3RD5L0-jem4AVDYQoFzaLuArufA",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "324 Anderson Road Southeast, Calgary"
+      }
+   ],
+   "status" : "OK"
+}

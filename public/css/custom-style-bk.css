@@ -1,0 +1,113 @@
+body > div.page-header.style-11 {
+  padding: 100px 0 20px;
+}
+
+body > div.cps-main-wrap > div.cps-section-padding {
+  padding: 50px 0;
+}
+
+div#faq {
+  background: unset;
+  color: black;
+}
+
+div#faq div.cps-faq-accordion .panel-group .panel.panel-default > .panel-heading > .panel-title > a {
+  color: black;
+}
+div#faq div.cps-faq-accordion .panel-body {
+  color: black;
+}
+
+footer .cps-footer-upper {
+	padding: 40px 0 25px;
+}
+
+form#contactForm input, form#contactForm textarea {
+	border-color: #ea2349;
+	color: black;
+	border-image: unset;
+}
+
+form#contactForm input::-webkit-input-placeholder {
+color: black !important;
+}
+ 
+form#contactForm input:-moz-placeholder { /* Firefox 18- */
+color: black !important;  
+}
+ 
+form#contactForm input::-moz-placeholder {  /* Firefox 19+ */
+color: black !important;  
+}
+ 
+form#contactForm input:-ms-input-placeholder {  
+color: black !important;  
+}
+
+form#contactForm textarea::-webkit-input-placeholder {
+color: black !important;
+}
+ 
+form#contactForm textarea:-moz-placeholder { /* Firefox 18- */
+color: black !important;  
+}
+ 
+form#contactForm textarea::-moz-placeholder {  /* Firefox 19+ */
+color: black !important;  
+}
+ 
+form#contactForm textarea:-ms-input-placeholder {  
+color: black !important;  
+}
+input.colora, input.colorb, input.colorc, input.colord, input.colore {
+  margin: 0 !important;
+}
+.cps-banner.style-15 .cps-banner-item .cps-banner-title {
+  font-size: 3.1rem;
+}
+
+.bs-video{
+  margin: 20px;
+}
+.modal-content iframe{
+    margin: 0 auto;
+    display: block;
+}
+
+
+.connection-mock .logo-mock::before, .connection-mock .logo-mock::after {
+  background-color: unset;
+}
+.sm-logo-center-block img {
+  left: 60%;
+  width: 500px;
+}
+
+.connection-logo-item img {
+  width: 64px;
+}
+
+
+.cps-sub-section + .cps-sub-section {
+  margin-top: 40px;
+}
+
+
+.product_details_section h4.cps-subsection-title{
+  font-size: 36px;
+}
+.product_details_section p.cps-subsection-text{
+  font-size: 24px;
+}
+.cps-testimonial-item blockquote:before{
+    content: '' !important;
+}
+
+
+.selectTemplate:hover {
+  border: 1px solid red;
+}
+
+.common-report {
+  padding-top: 10px;
+}

@@ -1,0 +1,463 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.58543919999999,
+               "lng" : -113.5406426
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.58678683029149,
+                  "lng" : -113.5395741197085
+               },
+               "southwest" : {
+                  "lat" : 53.5840888697085,
+                  "lng" : -113.5422720802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "24999f5da4ef78cc6c4d4175d33e73e2fc700958",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101681229715798737262\"\u003eDean T\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmIqSrUCEOK5scxUA1tpdA2v4QN0nZYdfAJWE9ajI8Ex4bb4KkgnpEymVHuc_2knAEnYHRSIYpmf1umIdZUpvdJAW1kWiofySW322_6oK9Dv7u3e2Nw_P8AyIb03ecNF8EhBCq_zOK9hF6G34-vpAmQd9GhSygYQeVTyoJYHF9rAyQ43XwmNBmw",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJW0TVVvMjoFMR-G247QT6lfU",
+         "plus_code" : {
+            "compound_code" : "HFP5+5P Edmonton, Alberta, Canada",
+            "global_code" : "9558HFP5+5P"
+         },
+         "rating" : 2.8,
+         "reference" : "ChIJW0TVVvMjoFMR-G247QT6lfU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 28,
+         "vicinity" : "12707 127 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5853621,
+               "lng" : -113.5408478
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5867102302915,
+                  "lng" : -113.5396762197085
+               },
+               "southwest" : {
+                  "lat" : 53.5840122697085,
+                  "lng" : -113.5423741802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "b86fdfb5709923d3e918efa4d7f12d84b38b2dd8",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106353483028662654493\"\u003eJaswinder Singh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0syb6QSnQb44V14daS--rI88ZamB02CX5TLO2TLo8wtpLx_UwOwQur-5KzfflgZkaVO43xAy3z_A-mBV8Yx__R4wIco08ONy0MzZxUcz6fO2rduGIgvV4oUw9CvOuP3HEhB5fiBQ1p04o3TxXXOAGcxjGhToo3yj3-X-au9fp3upPyMnp8L-kw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJsWK6W4sjoFMRf-tTj41iwxI",
+         "plus_code" : {
+            "compound_code" : "HFP5+4M Edmonton, Alberta, Canada",
+            "global_code" : "9558HFP5+4M"
+         },
+         "rating" : 4,
+         "reference" : "ChIJsWK6W4sjoFMRf-tTj41iwxI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 113,
+         "vicinity" : "12707 127 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.586325,
+               "lng" : -113.5650891
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5877068802915,
+                  "lng" : -113.5637636197085
+               },
+               "southwest" : {
+                  "lat" : 53.5850089197085,
+                  "lng" : -113.5664615802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8cbcf1df470b4921cfba80b8b3bd82c120e9acc4",
+         "name" : "Macs Milk",
+         "place_id" : "ChIJoauLkQckoFMReZIocsJhrhM",
+         "plus_code" : {
+            "compound_code" : "HCPM+GX Edmonton, Alberta, Canada",
+            "global_code" : "9558HCPM+GX"
+         },
+         "rating" : 1,
+         "reference" : "ChIJoauLkQckoFMReZIocsJhrhM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "14121 128A Ave NW, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5926286,
+               "lng" : -113.5407023
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.59397878029149,
+                  "lng" : -113.5396014197085
+               },
+               "southwest" : {
+                  "lat" : 53.59128081970849,
+                  "lng" : -113.5422993802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "057c7475ba63d36ee41064a4edd8446eee035be0",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104587142204183884357\"\u003eLouise Piecharka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHkA4Y5vhSsrO1srNhesdkaINQwjAkhfqdy-jfF_vyNooqMSMebHNSaCVmCq-D3l5z9vLQsq0TgVaLGfi2Y-sSfAV2dxVSeL5bZ9kMZBd_13xWMRAh8raFDb2zIKbXcl-EhCa097RkPOxATGyv31yLWfUGhTbVf3yf0el_UJMToPmh-W6JjP--g",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJQwm8xnUkoFMRXmfiGSACA-g",
+         "plus_code" : {
+            "compound_code" : "HFV5+3P Edmonton, Alberta, Canada",
+            "global_code" : "9558HFV5+3P"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJQwm8xnUkoFMRXmfiGSACA-g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "convenience_store",
+            "finance",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 55,
+         "vicinity" : "13215 127 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.58774,
+               "lng" : -113.541615
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5890880802915,
+                  "lng" : -113.5400695197085
+               },
+               "southwest" : {
+                  "lat" : 53.5863901197085,
+                  "lng" : -113.5427674802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ca75de9f8ac95f24f5ee947e49075ec15d7bdf5f",
+         "name" : "Athlone Convenience Store",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2269,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115661869942421029569\"\u003eAthlone Convenience Store\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVGkROh41NfJJ2nef__c-CMkUgVet0d3K3q941mPOY_atsM2SltVtIS9E5FGbUkr24vjBjVZr1awYH331e0zceivaoC24AVhYnjHmc9uywtwani37mhvwbFzV8Y-g4rp_EhBiqk0qsQuxni8CEENjZ-NPGhTz2timuVcJW9Zms0RhVcmrbPxuAQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJj3qv44ojoFMRvXerZjUg5T8",
+         "plus_code" : {
+            "compound_code" : "HFQ5+39 Edmonton, Alberta, Canada",
+            "global_code" : "9558HFQ5+39"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJj3qv44ojoFMRvXerZjUg5T8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 7,
+         "vicinity" : "12908 127 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5879476,
+               "lng" : -113.5417777
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5892953302915,
+                  "lng" : -113.5401495197085
+               },
+               "southwest" : {
+                  "lat" : 53.5865973697085,
+                  "lng" : -113.5428474802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "1f332d3cf9c1d41e60cb87b6c02ef6a1522d5ec7",
+         "name" : "Food store",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111025117950472663111\"\u003eMatt Jarratt\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYXKWc8Nv9FiySfS5pvnrp9kmUKf1TPqVvaCHhv5SIScjPLgcUn3H2lc1cClMiv5jDKBIrYU1ys4EbwcKP5sN5OY-k8lqX4vKUyC1rqx78JvNpHLbjwPlBLZi8Zo7TNm7EhDT2zrJWMfb4TdGsuVb18tvGhQaZnZdhsgCn_2sn0NG9Do7RFR98g",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJx0ESjuwjoFMR_BQc8yYrhao",
+         "plus_code" : {
+            "compound_code" : "HFQ5+57 Edmonton, Alberta, Canada",
+            "global_code" : "9558HFQ5+57"
+         },
+         "rating" : 1,
+         "reference" : "ChIJx0ESjuwjoFMR_BQc8yYrhao",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "12908 127 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5925537,
+               "lng" : -113.5485069
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5939018302915,
+                  "lng" : -113.5473481197085
+               },
+               "southwest" : {
+                  "lat" : 53.5912038697085,
+                  "lng" : -113.5500460802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "f38c6e790d7aa565a196449838186eea2e5475c9",
+         "name" : "Wellington Reddi Mart",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115658684325431843725\"\u003eSandeep Bhambri\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5u50_X5BjTo3JpjILtlxmmpD9iR74KJc6PaCDLHfc84OfPyDLq3NUwTH70qiKYUK9i8rwdHr07wm2z0hddINFDkQ4NejYoH-EaXu1MMAo_kNOKwac7ts2DAxcalVztTTEhAY5VI7yiyn9G15vvfTfWUGGhS8UbTet0caaGnXm99_OmfmMEN4kA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJZaaC0nQkoFMRdETbQ1p_mqE",
+         "plus_code" : {
+            "compound_code" : "HFV2+2H Edmonton, Alberta, Canada",
+            "global_code" : "9558HFV2+2H"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJZaaC0nQkoFMRdETbQ1p_mqE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 9,
+         "vicinity" : "13219 132 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6037344,
+               "lng" : -113.5425864
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6050754802915,
+                  "lng" : -113.5413422197085
+               },
+               "southwest" : {
+                  "lat" : 53.6023775197085,
+                  "lng" : -113.5440401802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a6d1eef0587569a63c6a9ffe3361d254ea92f414",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3144,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110197200761188687023\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAo4a4xhVBRIC0Q8w7x3KyjztRYmGZYXReQL_2ZRKcCnkxFXpuRSwPOa0C10JS9rcrT1LfvEtfZgxtJ5K4GauphRCW3H0Uz92YIXO0KnIrriswwh2NbOltFH8o_oRoKGvsEhAV4wtUA_vIuVZ8_HrFwyeiGhQ0MiqglDxxh3hhbCQlAh0gbSGeCA",
+               "width" : 3144
+            }
+         ],
+         "place_id" : "ChIJEWhRk28koFMRaXSPQF_ymoY",
+         "plus_code" : {
+            "compound_code" : "JF34+FX Edmonton, Alberta, Canada",
+            "global_code" : "9558JF34+FX"
+         },
+         "rating" : 2.9,
+         "reference" : "ChIJEWhRk28koFMRaXSPQF_ymoY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 14,
+         "vicinity" : "14110 127 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5704769,
+               "lng" : -113.5384642
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5717405802915,
+                  "lng" : -113.5371136197085
+               },
+               "southwest" : {
+                  "lat" : 53.5690426197085,
+                  "lng" : -113.5398115802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8a4a92ab526e12dea077ec7c1c4b986640d1426c",
+         "name" : "INGLEWOOD Retail & Wholesale",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110845789093845227025\"\u003eINGLEWOOD Retail &amp; Wholesale\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyUvRjmxkYm_mQIOENDoI1BECJNFHdxDGhvwNRLnjXWh2551GlX-sBqq8Bim0fwZ-csoHYjdyAVdHB_BLoV6XVOpufR9wLLlyGtyAMlK8JeIzuT7rT1BvFwwNz61NS32qEhBPcxJWH5LHOLfUcK907Q10GhTl_n1ycr4uppwkFyjplcIGAdAXdw",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJjwQ-BEwjoFMR6gR7td2vTV0",
+         "plus_code" : {
+            "compound_code" : "HFC6+5J Edmonton, Alberta, Canada",
+            "global_code" : "9558HFC6+5J"
+         },
+         "reference" : "ChIJjwQ-BEwjoFMR6gR7td2vTV0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "12516 118 Avenue Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

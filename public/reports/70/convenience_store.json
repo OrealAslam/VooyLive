@@ -1,0 +1,190 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.61646189999999,
+               "lng" : -113.5399621
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.61781088029149,
+                  "lng" : -113.5386131197085
+               },
+               "southwest" : {
+                  "lat" : 53.61511291970849,
+                  "lng" : -113.5413110802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b9d17cb4e79e051f0bbc4320c3b18525dc858e65",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1576,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103089210852279562383/photos\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPKSiycdRQNR-3a6F5D3saOJ576a6tlgdCvs3Y0KWjYL_PhqvYtp9et_JUEHC-4f4yKiTHpb-NdxQ-aMBNNTaRR5qmpB_RxD9npsoU_uRNMB4RaFUzr17bDMPg4oUC2VgEhCmD4UATpAB5sG3Tv9hYNNVGhRolIr1YL_MHulK9YC7MPrUETWMug",
+               "width" : 1888
+            }
+         ],
+         "place_id" : "ChIJY8m_jF4koFMRkgMGtgsNBuU",
+         "rating" : 3.5,
+         "reference" : "CmRSAAAArOyOOXjf2ZJO0TgUmSw9l5sYUTGOAnz_cZ4qGuh5a1aeeuM-maUYwGczluBghqNR2JpQfyPwHoaf5CyHVhKPXvL2oyK_1_COucFJIXvwuQa2OgF6gJ5yxtxI8ki-qZ1uEhBhOB8jfKhdhWirtZV3HNOUGhQDOtRfzMxrfwWuz2ONnfMba7Pzeg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "12659 153th Avenue, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6148177,
+               "lng" : -113.5405782
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6161683302915,
+                  "lng" : -113.5395256197085
+               },
+               "southwest" : {
+                  "lat" : 53.6134703697085,
+                  "lng" : -113.5422235802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "fc82dbe06fb3c557708ff0a242d7228f502e250b",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 645,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104851171257693385857/photos\"\u003ePULIKEN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFEh5CmEolNyeHeNJ9xM9vYDqv7xGUB4tAXzvHZMgXW-Kb2EK_JfaHykhp15VX-7GOWhXiWyXNBc5TajdpT8l9HdtEztRN78S7VmGe2VNPodgSqBa66wmAU2ePH4pBlziEhAXEnZDchwCYkXF72xUec_0GhQ0JOzwvPWpSDWnQ_9Jp-4G3CQvmQ",
+               "width" : 1605
+            }
+         ],
+         "place_id" : "ChIJ4cP25F0koFMRJA68nweq1BM",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CmRRAAAA9RGipNDTAEr1ND6pp8vI6kmVJPGZwYRXi2UyFGLDNN1Y_Gs-pDw9rCepijwnykFcIeQJ_8fytVe-I0DKQg1yqVSMvQ-QI03y-R7Ar7qeLLD-rOS3lVjiRzlSHQ4zlCQfEhDG3X4bgSgTqz69_VZ0WMMGGhQqvJgwLgp0duM_hNv_4DloSnjHxQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "convenience_store",
+            "car_wash",
+            "finance",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "15131 127 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6288384,
+               "lng" : -113.5387989
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6301982802915,
+                  "lng" : -113.5374519197085
+               },
+               "southwest" : {
+                  "lat" : 53.6275003197085,
+                  "lng" : -113.5401498802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "ed16ef50ebf0e21ce5808a3466e26e9b9681d03c",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108187587142826351572/photos\"\u003eKev P\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAozu3WHodHqLpn2sk-73g1wq6Fj7K5kY476AumDtTBL7u9nS6yQgWWI9I43p9QzxBKID_UGTXRpAgz9qWz__t_PvxWvssNtXtcJQOkMDDm-XpKc5itxn4LlTCIUT5YcnUEhCdZmmTKA8AkVlA13EsoF_gGhSdiQkPPdxqRryebTyg5-VP79PsKQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ-aTOFPkkoFMRY5qfBgFQ2iM",
+         "price_level" : 2,
+         "rating" : 4.8,
+         "reference" : "CmRRAAAAvAbEDzbTvj8NTfcseIwPZtB2Y7QMYTcuY1M5TtusRzD36JBaBHmP17d3oXRIZeWEfpmoXeSOrnPnqLcbVhOnpos_Hb-VmMEr1XjfN5VbLcQGsTRqnUnDrLigZOWxjme-EhDmniH9X4xIe23pOeiKpLU7GhRKLpvtki4Xnxia7K0p5W3YaUMlmA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "convenience_store",
+            "car_wash",
+            "finance",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "12514 167 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.61480659999999,
+               "lng" : -113.5403528
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.61615558029149,
+                  "lng" : -113.5390038197085
+               },
+               "southwest" : {
+                  "lat" : 53.6134576197085,
+                  "lng" : -113.5417017802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9d45fbc075c6bb97e5f6e8c643a566a4466c720e",
+         "name" : "Select",
+         "place_id" : "ChIJ4wTvCl4koFMRxKfHUohBUcw",
+         "reference" : "CmRSAAAAbKRdpMovXVJKPDembvmo6hsMZbHzNkEqvaQafQ6yPyowZckRR0-I9ODjSRKv6tdcmbwrpCD51c4-WPVXJ5rfjY1EzqjDNBQjwXJDQ1x6-WiZ1ImorlCWDWE7HFpFEnBCEhDK2aJCJEgdMgWo2v0gO5DoGhQtgqCg6pR_IcfMx0js3nJ9ajMTKw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,113 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.46104030000001,
+               "lng" : -113.529292
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4623250302915,
+                  "lng" : -113.5279309197085
+               },
+               "southwest" : {
+                  "lat" : 53.4596270697085,
+                  "lng" : -113.5306288802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112034243339948647667\"\u003eChristopher Lui\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLz0Zt3ZAPBVdAuZSg4xCJNNVoFMAdGqaE-Aq1PuCMQ0PE1AsX5Nrtc-PV0g5SelP_flK3Hwe1GcKqX27QnKQKY0PoPY1zT7APg9ZQu8JfbTqXwlOFiufr0lkzItRgfGlPqOz57FIdNXZKa47uVKwjAwTe5eDJgRWZ9WMXC-yrOMpWa",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJ1d72hQMfoFMRhT6gKaoWNDo",
+         "plus_code" : {
+            "compound_code" : "FF6C+C7 Edmonton, AB, Canada",
+            "global_code" : "9558FF6C+C7"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ1d72hQMfoFMRhT6gKaoWNDo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 25,
+         "vicinity" : "280 Saddleback Road Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4759524,
+               "lng" : -113.5382485
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4772619802915,
+                  "lng" : -113.5368996697085
+               },
+               "southwest" : {
+                  "lat" : 53.4745640197085,
+                  "lng" : -113.5395976302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Mac's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 801,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114462118634998569320\"\u003eMac&#39;s\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKQXUZlR18weGyE0zZBCB8Aqx0JtqHCjuyhh8Cf9Y0CNNuVKRlSBpne_6fBS3Z-GC9Y-bM_2JdW_mH-Ih80jQU5f4cD2HLenZ9H8DbRjGHEN8vadhtANN1l8p5Q1Wn5me3uFLAH40CgYcWRptpiOQJccZjbGjpl-BsNnCM5gDZQBoKq",
+               "width" : 1424
+            }
+         ],
+         "place_id" : "ChIJmR-1Uw0foFMRZtklofYaeVA",
+         "plus_code" : {
+            "compound_code" : "FFG6+9P Edmonton, AB, Canada",
+            "global_code" : "9558FFG6+9P"
+         },
+         "rating" : 2.9,
+         "reference" : "ChIJmR-1Uw0foFMRZtklofYaeVA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "atm",
+            "meal_takeaway",
+            "finance",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 11,
+         "vicinity" : "11835 40 Avenue Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

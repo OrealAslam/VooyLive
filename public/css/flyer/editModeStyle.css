@@ -1,0 +1,93 @@
+/*For Inpage Editing css*/
+.flyer .text-editable {
+    position: relative;
+    /*display: inline-block;*/  
+}
+.flyer .text-editable:hover {
+    background: #fff3a5;
+    color: black;
+}
+.flyer .text-editable:hover >div.content {
+    color: black;
+}
+.flyer .text-editable:hover .options {
+    display: block;
+}
+
+.flyer .text-editable .options {
+    /*padding-top: 7px;*/
+    /*padding-right: 7px;*/
+    /*padding-right: 23px;*/
+    position: absolute;
+    right: 0;
+    top: -15px;
+    display: none;
+    font-size: 20px;
+    line-height: initial;
+    color: red;
+    cursor: pointer;
+}
+
+.flyer .text-editable.welcome-text .options {
+    top: -9px;
+}
+.flyer .text-editable.overview-text .options {
+    top: 0px;
+}
+.flyer .text-editable.features-text .options {
+    top: 0px;
+}
+
+
+
+.flyer .editableBackground {
+    background: #fff3a5;
+    color: black;
+}
+
+.fa-disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  color: lightgrey;
+}
+
+.flyer .image-editable {
+    position: relative;
+    /*display: inline-block;*/  
+}
+.flyer .image-editable:hover {
+    /*opacity: 0.6;*/
+}
+.flyer .image-editable:hover img {
+    opacity: 0.5;
+}
+.flyer .image-editable:hover .options {
+    display: block;
+    background: yellow;
+}
+.flyer .image-editable .options {
+    /*padding-top: 7px;*/
+    /*padding-right: 7px;*/
+    /*padding-right: 23px;*/
+    position: absolute;
+    right: 5px;
+    top: 0px;
+    display: none;
+    font-size: 20px;
+    line-height: initial;
+    color: red;
+    cursor: pointer;
+}
+.flyer .image-editable.three-images-img1 .options {
+    right: 25px;
+}
+.flyer .image-editable.three-images-img2 .options {
+    right: 15px;
+}
+
+
+/*
+.flyer .text-editable .edit a {
+    color: red;
+}
+*/

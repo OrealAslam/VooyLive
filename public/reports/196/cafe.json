@@ -1,0 +1,456 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.5707284,
+               "lng" : -113.396244
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5719032302915,
+                  "lng" : -113.3949247197085
+               },
+               "southwest" : {
+                  "lat" : 53.5692052697085,
+                  "lng" : -113.3976226802915
+=======
+               "lat" : 43.575543,
+               "lng" : -79.8303148
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5771628802915,
+                  "lng" : -79.82947266970849
+               },
+               "southwest" : {
+                  "lat" : 43.5744649197085,
+                  "lng" : -79.8321706302915
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+<<<<<<< HEAD
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103512041542050433717\"\u003eJessen Collingridge\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLRo9tVmrVVAD1Hln-R9HEJbatJDl3UdsmFBfDT7TW0ZRidw9zzwHIJT7epAG3lQv1uOCm99DHVRvE666LvA_hVEmganTKWo8Mt-KjAVtAOUmgDU_yTW2X44ry20coQ0QZYj7EKCBdtO29PCQ_X0jFcFddl5JMgekruw-FN6AwjIRS4",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJnTlVHyY9oFMRR6jN733rWA8",
+         "plus_code" : {
+            "compound_code" : "HJC3+7G Edmonton, AB, Canada",
+            "global_code" : "9558HJC3+7G"
+         },
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "ChIJnTlVHyY9oFMRR6jN733rWA8",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 247,
+         "vicinity" : "3522 118 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.58832930000001,
+               "lng" : -113.4217168
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.58967773029151,
+                  "lng" : -113.4202483197085
+               },
+               "southwest" : {
+                  "lat" : 53.58697976970851,
+                  "lng" : -113.4229462802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Bilotta Food Equipment & Commercial Cappuccino Company Ltd",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ1-kMYck8oFMRjgJfmW0IA4w",
+         "plus_code" : {
+            "compound_code" : "HHQH+88 Edmonton, AB, Canada",
+            "global_code" : "9558HHQH+88"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ1-kMYck8oFMRjgJfmW0IA4w",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "12936 52 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.58695299999999,
+               "lng" : -113.4178244
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.58828328029148,
+                  "lng" : -113.4163489197085
+               },
+               "southwest" : {
+                  "lat" : 53.58558531970849,
+                  "lng" : -113.4190468802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107620504582196260098\"\u003eKirk Dewhurst\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLeYw4wngiC9gnBgLpzCd_ZuppkICBCwVB-w4F9If-k8056TDAQTweRTKNvEHolfgRI_V_fR4yH_2YwZmKfjDmmKeS_Dcq9RAqndK-7rh_pXezGlx8FwMI3CmDK7z_CuLvfg6299n-FfNOjCKuS18IHZ14fuFA3qlhOTW_-GYcWKQSJ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJM1Txy848oFMRdgMy9Fol1r4",
+         "plus_code" : {
+            "compound_code" : "HHPJ+QV Edmonton, AB, Canada",
+            "global_code" : "9558HHPJ+QV"
+         },
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "ChIJM1Txy848oFMRdgMy9Fol1r4",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 860,
+         "vicinity" : "12793 50 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5648852,
+               "lng" : -113.4372863
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5662813302915,
+                  "lng" : -113.4359704697085
+               },
+               "southwest" : {
+                  "lat" : 53.5635833697085,
+                  "lng" : -113.4386684302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Mandolin Books & Coffee Company",
+=======
+         "name" : "Second Cup Coffee Co. featuring Pinkberry Frozen Yogurt",
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+<<<<<<< HEAD
+               "height" : 614,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113827309802623660375\"\u003eMandolin Books &amp; Coffee Company\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJFNMdbEZGXGcWXfZSAM9ShEGSnsgGMZlLxoxrik5iRqP18gMe9XjpAYiHmSiU4abLC6vPI-_UBX7nbSSibEM4A5nxBKmAiUFFF-33wn1Tr0dkTTeEGzMxgzDeus4K-hyHrO7deu4wq2Fy9NlBx-jkU1fHjbnwS0jbyg22KAUgXum02",
+               "width" : 461
+            }
+         ],
+         "place_id" : "ChIJQaw6uNgioFMR142pQ-F8AAw",
+         "plus_code" : {
+            "compound_code" : "HH77+X3 Edmonton, AB, Canada",
+            "global_code" : "9558HH77+X3"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJQaw6uNgioFMR142pQ-F8AAw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "book_store",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 461,
+         "vicinity" : "6419 112 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5705012,
+               "lng" : -113.4146966
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.57184908029151,
+                  "lng" : -113.4136586697085
+               },
+               "southwest" : {
+                  "lat" : 53.56915111970851,
+                  "lng" : -113.4163566302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "name" : "Take 5.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113584830279153023241\"\u003eHolly Hockridge\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ7qxDWCjXGc78xfAYP3SppP3kzRGZ0tQ1jaF5m4KB69p-G5HDk77k9YeIObdsyWDWX55pl1NoCnuYNIqxR7qvXMGUOTY0sUtR1WpchzNLcwznPJ-ToBSps8WTrtlclMqEemlqKfXEq_uKj7yieDGh92JlumGOaD5C5I1aAXM-ez7oz",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJKfOoVNUioFMRwLzxO6lF6gI",
+         "plus_code" : {
+            "compound_code" : "HHCP+64 Edmonton, AB, Canada",
+            "global_code" : "9558HHCP+64"
+         },
+         "price_level" : 1,
+         "rating" : 4.6,
+         "reference" : "ChIJKfOoVNUioFMRwLzxO6lF6gI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bakery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 694,
+         "vicinity" : "11801 48 Street Northwest, Edmonton"
+=======
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106076767166824968732\"\u003eWojtek Gidzinski\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJIaTMccxjU2jHEuwrv2MVNqKXEx-y5hIJKYf5Gre41FL1_Lx2jKSQ3R73YU2PCmSXMzEaQitHXT5tYLg-zAuLnq3xXHJR56jO9ssywLv6usKkbacpAjLwagXQwa6r4FD-P-_NMACX5sDzcP4yl-_S70gkFRKjS_Eb3-lMaGPUpObEJ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJC5QqddNtK4gR_bgRh-CUmfQ",
+         "plus_code" : {
+            "compound_code" : "H5G9+6V Hornby, ON, Canada",
+            "global_code" : "87M2H5G9+6V"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJC5QqddNtK4gR_bgRh-CUmfQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 226,
+         "vicinity" : "13850 Steeles Avenue Unit 866, Hornby"
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.5851994,
+               "lng" : -113.4191337
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5867193802915,
+                  "lng" : -113.4177583197085
+               },
+               "southwest" : {
+                  "lat" : 53.5840214197085,
+                  "lng" : -113.4204562802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1837,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109801610055392862737\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJejqm3eze_TDEuAzlLVxVnneatmZQuw43unLcXccgmkXWgsHrWCxmfnU4J-p99LIkWCX6s_YNvbbl0eYkniTcmwXs4zqREInS6exNR7RYhXSdeypDGbHZDnALBzajSXuTBG7rDUaWYNYo19SZcITdkn6DrJjec2SVEOTTRfttgdVux",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJFegK4Fo9oFMRrNHiSz6hyQk",
+         "plus_code" : {
+            "compound_code" : "HHPJ+38 Edmonton, AB, Canada",
+            "global_code" : "9558HHPJ+38"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJFegK4Fo9oFMRrNHiSz6hyQk",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 162,
+         "vicinity" : "5038 127 Avenue Northwest, Edmonton"
+=======
+               "lat" : 43.5749167,
+               "lng" : -79.83163929999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5761700802915,
+                  "lng" : -79.83048271970848
+               },
+               "southwest" : {
+                  "lat" : 43.5734721197085,
+                  "lng" : -79.83318068029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3036,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113664309233820834071\"\u003eRon Dutton\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKy0ZLa50GjQJ_Bp-quBnscd4I9x9hxd5rE61G7Ho3ClgUHsgJxq2UDn8uaWKTBMli-9MRnGpBI4HMWHAWEcJfKmE8hZYikJfiey1LTrRZpL6cuk2mkeLDXKWOvQ3c_qqXKZN0yZgPZ2ldRNqj5miUsabBPIVO6YHX7eKVoszJ-D2DI",
+               "width" : 4048
+            }
+         ],
+         "place_id" : "ChIJ0blqmQdsK4gRupLEGXU_Jgw",
+         "plus_code" : {
+            "compound_code" : "H5F9+X8 Halton Hills, ON, Canada",
+            "global_code" : "87M2H5F9+X8"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJ0blqmQdsK4gRupLEGXU_Jgw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 864,
+         "vicinity" : "13850 Steeles Avenue W 650, Georgetown"
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+<<<<<<< HEAD
+               "lat" : 53.5705124,
+               "lng" : -113.4021437
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.57179908029151,
+                  "lng" : -113.4007954197085
+               },
+               "southwest" : {
+                  "lat" : 53.56910111970851,
+                  "lng" : -113.4034933802915
+=======
+               "lat" : 43.5767843,
+               "lng" : -79.8293652
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5783493802915,
+                  "lng" : -79.82835336970849
+               },
+               "southwest" : {
+                  "lat" : 43.5756514197085,
+                  "lng" : -79.8310513302915
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+<<<<<<< HEAD
+         "name" : "Old Beverly Cafe",
+=======
+         "name" : "Real Fruit Bubble Tea",
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+<<<<<<< HEAD
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107620504582196260098\"\u003eKirk Dewhurst\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI4bRwkvnMoh0AM5zqyDAPai4MJLR5CXJB_TIWaDG98i2UCGxoCCE8_vLgGbqtu1vTWxYf5I5187SnLMfqllxaX7TUSxng_KUyr-om5zT73Tk71qSdD5BbxD5ZmLnhzfmP9MF3Ce4Ox4v2V_L5js2x91CsXqDCgwYuFupskbuuKiIER",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJAQAQqCk9oFMRHZT6xm9tdpE",
+         "plus_code" : {
+            "compound_code" : "HHCX+64 Edmonton, AB, Canada",
+            "global_code" : "9558HHCX+64"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJAQAQqCk9oFMRHZT6xm9tdpE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 100,
+         "vicinity" : "3908 118 Avenue Northwest, Edmonton"
+=======
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110301920764342775951\"\u003eMark Alfakir\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIiHnuCXcpwHFGG135AKamAfy_XhLSmAJv-ADzYdedWxD5N2PUr217NVicOu6FRmVqOaj6UIQRXR05WD9GN8yS9CXBPps26rqRojujQb6u5K4pBaipBHUY4MCTRuZ3dHHPyappALKBSiUJ5Bjp0-OdymGWDJlK9UXT_xHCQP0bJx0lT",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ7SKwjw9tK4gRbkll6tDb8XM",
+         "plus_code" : {
+            "compound_code" : "H5GC+P7 Halton Hills, ON, Canada",
+            "global_code" : "87M2H5GC+P7"
+         },
+         "price_level" : 1,
+         "rating" : 4.4,
+         "reference" : "ChIJ7SKwjw9tK4gRbkll6tDb8XM",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 94,
+         "vicinity" : "13850 Steeles Avenue, Halton Hills"
+>>>>>>> 3dcadd4499d8167da939850ae075482c54d9755c
+      }
+   ],
+   "status" : "OK"
+}

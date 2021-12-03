@@ -1,0 +1,725 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQECwIAAFHyhWgRI-6-ES0spEpnPHw_ck0YGKWaCajACM5x4vuH61KhtCSVioCApynI992rJihDvAH8buFVABIDjBocDfUhE98pB-HFGXoRq11qxZSXo8ioCTWu45aSq4LVUD3mu5bf2FUhqm9_W1OWhJ2SqDU7hcGgOyE12mH9MuvGiSnfg6HN2JXHjgnUeVqwkkvhyxUz6CPC2XqeEK7xi3oD3AcbCs3-0bUoPLIjO3dGEdlHRI2_70_YAwfYouEPMPOehFrONKOFh4XCxWeM3-4dusWDloGbg9VYOcxERgocEXGP191bEgQlfWt5NrcrjmHDfgfVlwWoPUqMYPRuOLvaAIPxnBVU_NqNnOkRtIXI_hxesTECmPZq-cyyBq5aH7xw2OWtQvQ-SMOPxHbnSbNkBH-sccEWr7K69ywZYLZX97WRuUZRIxtXpt0xom-N5KwjxsuCzhxaQvML1EofMqZJRqxXVXyRipKl4kfS-bYokF7G4SmAlUdtZOwMbHXT76mVUwBFbc4k18-H4k2WyjvhMC3QOC_Nf45q4i4iUuHGo5hKXDjs_ZSyo3g7nweq27UJQMeEYTLsT3APhY_Wx6p81onv0deDUq8AaoE0A8Bpyv6FU8pJ2U4rbnrEZ956HpM-a4wSl5ZMhRskt3IYMwAV9MOjelDn0E9Kjd9e0wzQ3dRAsHmmQfdql47ojXUmZKlY9RIQCZs8eVz3Du74Q_gxTbmcGhoU3vp-IBHvrcQ6ZVehieUMUDxYMVs",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.704723,
+               "lng" : -79.563164
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7060305302915,
+                  "lng" : -79.56197351970849
+               },
+               "southwest" : {
+                  "lat" : 43.70333256970851,
+                  "lng" : -79.56467148029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "3b0b5a53ef11b04cbef97ca3aa3e6fbffbfe041d",
+         "name" : "Kipling Ave At Belfield Rd Etobicoke North Go Station",
+         "place_id" : "ChIJBeDfiQg6K4gR4DI9ETaHk6M",
+         "plus_code" : {
+            "compound_code" : "PC3P+VP Toronto, Ontario, Canada",
+            "global_code" : "87M2PC3P+VP"
+         },
+         "reference" : "ChIJBeDfiQg6K4gR4DI9ETaHk6M",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7050248,
+               "lng" : -79.5638391
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7063928802915,
+                  "lng" : -79.5624168197085
+               },
+               "southwest" : {
+                  "lat" : 43.7036949197085,
+                  "lng" : -79.56511478029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "f0e77ed087e825f7c70e8d36ca296bc8e80d530b",
+         "name" : "Kipling Ave @ Belfield Rd",
+         "place_id" : "ChIJN14X_Ag6K4gRMhDyoVwnFgE",
+         "plus_code" : {
+            "compound_code" : "PC4P+2F Toronto, Ontario, Canada",
+            "global_code" : "87M2PC4P+2F"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJN14X_Ag6K4gRMhDyoVwnFgE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6,
+         "vicinity" : "1949 Kipling Avenue, Etobicoke"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.70394499999999,
+               "lng" : -79.566147
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.70535378029149,
+                  "lng" : -79.56481661970849
+               },
+               "southwest" : {
+                  "lat" : 43.7026558197085,
+                  "lng" : -79.5675145802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "f92152f9c7b4c5c142325745179649d1812b4ca7",
+         "name" : "Belfield Rd At Shaft Rd Etobicoke North Go Station",
+         "place_id" : "ChIJiSNg_gU6K4gRpQpV9PVJqjQ",
+         "plus_code" : {
+            "compound_code" : "PC3M+HG Toronto, Ontario, Canada",
+            "global_code" : "87M2PC3M+HG"
+         },
+         "reference" : "ChIJiSNg_gU6K4gRpQpV9PVJqjQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.70406699999999,
+               "lng" : -79.56663499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.70538368029149,
+                  "lng" : -79.56527761970848
+               },
+               "southwest" : {
+                  "lat" : 43.70268571970849,
+                  "lng" : -79.5679755802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "df0cca4e6a8519578828d9c8f3cac8cf7c92f037",
+         "name" : "Belfield Rd At Shaft Rd West Side Etobicoke North Go Station",
+         "place_id" : "ChIJ9Tq3-QU6K4gRYmqqZALO9tY",
+         "plus_code" : {
+            "compound_code" : "PC3M+J8 Toronto, Ontario, Canada",
+            "global_code" : "87M2PC3M+J8"
+         },
+         "reference" : "ChIJ9Tq3-QU6K4gRYmqqZALO9tY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.68481680000001,
+               "lng" : -79.56133
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6861021302915,
+                  "lng" : -79.55995241970849
+               },
+               "southwest" : {
+                  "lat" : 43.6834041697085,
+                  "lng" : -79.5626503802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "7d0bf7d31c42294f627282e754e5764589df512b",
+         "name" : "The Westway at Brampton Rd (Farside)",
+         "place_id" : "ChIJqwg2s-I5K4gR6iOzXxPhBF4",
+         "plus_code" : {
+            "compound_code" : "MCMQ+WF Toronto, Ontario, Canada",
+            "global_code" : "87M2MCMQ+WF"
+         },
+         "reference" : "ChIJqwg2s-I5K4gR6iOzXxPhBF4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.684643,
+               "lng" : -79.561104
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6860309302915,
+                  "lng" : -79.55977251970849
+               },
+               "southwest" : {
+                  "lat" : 43.6833329697085,
+                  "lng" : -79.56247048029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "29e0017e22230a0e6b81cd58b836055efd67dbea",
+         "name" : "The Westway At Brampton Rd",
+         "place_id" : "ChIJ_xyUsuI5K4gRszLGK2AE0Ig",
+         "plus_code" : {
+            "compound_code" : "MCMQ+VH Toronto, Ontario, Canada",
+            "global_code" : "87M2MCMQ+VH"
+         },
+         "reference" : "ChIJ_xyUsuI5K4gRszLGK2AE0Ig",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7090089,
+               "lng" : -79.5652077
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.71034383029149,
+                  "lng" : -79.5639180197085
+               },
+               "southwest" : {
+                  "lat" : 43.7076458697085,
+                  "lng" : -79.5666159802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "889429d5d935fcebeebd75c0f8febff48d0adcc8",
+         "name" : "Kipling Ave At Bethridge Rd",
+         "place_id" : "ChIJaxwp4ws6K4gRgwmt9bXtqRA",
+         "plus_code" : {
+            "compound_code" : "PC5M+JW Toronto, Ontario, Canada",
+            "global_code" : "87M2PC5M+JW"
+         },
+         "reference" : "ChIJaxwp4ws6K4gRgwmt9bXtqRA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.70932250000001,
+               "lng" : -79.5657166
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7106809302915,
+                  "lng" : -79.5643294697085
+               },
+               "southwest" : {
+                  "lat" : 43.7079829697085,
+                  "lng" : -79.5670274302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "c2f1066df9eb8fad3e4fa59a897ee6e48c04c34b",
+         "name" : "Kipling Ave At Bethridge Rd",
+         "place_id" : "ChIJKbFn-Qs6K4gR2bj4SGAKBN4",
+         "plus_code" : {
+            "compound_code" : "PC5M+PP Toronto, Ontario, Canada",
+            "global_code" : "87M2PC5M+PP"
+         },
+         "reference" : "ChIJKbFn-Qs6K4gR2bj4SGAKBN4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.71141139999999,
+               "lng" : -79.5663271
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7127465802915,
+                  "lng" : -79.56503921970848
+               },
+               "southwest" : {
+                  "lat" : 43.7100486197085,
+                  "lng" : -79.56773718029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "c487f957b88654d3157e9613e4266332f17c91d8",
+         "name" : "Kipling Ave At Rexdale Blvd",
+         "place_id" : "ChIJpyzqhgw6K4gRZO_-KXg2n-o",
+         "plus_code" : {
+            "compound_code" : "PC6M+HF Toronto, Ontario, Canada",
+            "global_code" : "87M2PC6M+HF"
+         },
+         "reference" : "ChIJpyzqhgw6K4gRZO_-KXg2n-o",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Kipling Avenue, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.71146,
+               "lng" : -79.56719199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7128143802915,
+                  "lng" : -79.56580061970848
+               },
+               "southwest" : {
+                  "lat" : 43.7101164197085,
+                  "lng" : -79.56849858029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "ded83f744c3707c9ed83be8624b41db440f53423",
+         "name" : "Rexdale Blvd At Kipling Ave",
+         "place_id" : "ChIJx2wYigw6K4gRHa3Fa8yfS0s",
+         "plus_code" : {
+            "compound_code" : "PC6M+H4 Toronto, Ontario, Canada",
+            "global_code" : "87M2PC6M+H4"
+         },
+         "rating" : 5,
+         "reference" : "ChIJx2wYigw6K4gRHa3Fa8yfS0s",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7119687,
+               "lng" : -79.5664501
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.71338068029151,
+                  "lng" : -79.5651025697085
+               },
+               "southwest" : {
+                  "lat" : 43.71068271970851,
+                  "lng" : -79.56780053029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "5a28e97874e52ba4bddc13fa4013333ec903f44b",
+         "name" : "Rexdale Blvd At Kipling Ave",
+         "place_id" : "ChIJuczFhAw6K4gRsG_Rvr51gew",
+         "plus_code" : {
+            "compound_code" : "PC6M+QC Toronto, Ontario, Canada",
+            "global_code" : "87M2PC6M+QC"
+         },
+         "reference" : "ChIJuczFhAw6K4gRsG_Rvr51gew",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Rexdale Boulevard, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.71193510000001,
+               "lng" : -79.5670016
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.71330028029151,
+                  "lng" : -79.56559101970849
+               },
+               "southwest" : {
+                  "lat" : 43.71060231970851,
+                  "lng" : -79.5682889802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "2e7b2cfd8652e7e3f6de8fb6754c2c66e63b8987",
+         "name" : "Kipling Ave At Rexdale Blvd",
+         "place_id" : "ChIJefFAjgw6K4gRaLDafpdCF4o",
+         "plus_code" : {
+            "compound_code" : "PC6M+Q5 Toronto, Ontario, Canada",
+            "global_code" : "87M2PC6M+Q5"
+         },
+         "rating" : 5,
+         "reference" : "ChIJefFAjgw6K4gRaLDafpdCF4o",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Kipling Avenue, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.69004799999999,
+               "lng" : -79.531471
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6914297302915,
+                  "lng" : -79.5301359697085
+               },
+               "southwest" : {
+                  "lat" : 43.6887317697085,
+                  "lng" : -79.5328339302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "e0656dc4033121c5d8576a90ec0df0ab01bb59cf",
+         "name" : "Trehorne Dr At Royal York Rd",
+         "place_id" : "ChIJ6eEBZjM3K4gR7jublhDQvTI",
+         "plus_code" : {
+            "compound_code" : "MFR9+2C Toronto, Ontario, Canada",
+            "global_code" : "87M2MFR9+2C"
+         },
+         "reference" : "ChIJ6eEBZjM3K4gR7jublhDQvTI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.71131099999999,
+               "lng" : -79.534256
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7127009802915,
+                  "lng" : -79.53292231970849
+               },
+               "southwest" : {
+                  "lat" : 43.7100030197085,
+                  "lng" : -79.53562028029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "50afc69fffcdc3bd6856a52a89c04b04b707195a",
+         "name" : "Knob Hill Dr At Weston Rd",
+         "place_id" : "ChIJvbkhcOowK4gRb9H-FsiEABE",
+         "plus_code" : {
+            "compound_code" : "PF68+G7 Toronto, Ontario, Canada",
+            "global_code" : "87M2PF68+G7"
+         },
+         "reference" : "ChIJvbkhcOowK4gRb9H-FsiEABE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.71640410000001,
+               "lng" : -79.5369762
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7179497302915,
+                  "lng" : -79.53549616970848
+               },
+               "southwest" : {
+                  "lat" : 43.7152517697085,
+                  "lng" : -79.5381941302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "be56a85706d9cc4758883bac851a4989e7297c6c",
+         "name" : "Weston Rd At Walsh Ave",
+         "place_id" : "ChIJX2e1sewwK4gRQyU559ZOIT4",
+         "plus_code" : {
+            "compound_code" : "PF87+H6 Toronto, Ontario, Canada",
+            "global_code" : "87M2PF87+H6"
+         },
+         "reference" : "ChIJX2e1sewwK4gRQyU559ZOIT4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.717042,
+               "lng" : -79.5379361
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7183909802915,
+                  "lng" : -79.53658711970849
+               },
+               "southwest" : {
+                  "lat" : 43.7156930197085,
+                  "lng" : -79.53928508029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "a6a757201031d8fe2c1bee682c2907e3d5991bd1",
+         "name" : "Weston Rd At Albion Rd South Side",
+         "place_id" : "ChIJiam0yuwwK4gRvu5KjVel14Q",
+         "plus_code" : {
+            "compound_code" : "PF86+RR Toronto, Ontario, Canada",
+            "global_code" : "87M2PF86+RR"
+         },
+         "reference" : "ChIJiam0yuwwK4gRvu5KjVel14Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.670486,
+               "lng" : -79.577731
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.67183498029151,
+                  "lng" : -79.57638201970849
+               },
+               "southwest" : {
+                  "lat" : 43.66913701970851,
+                  "lng" : -79.5790799802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "eacc168f815dd0bfa3a3c05a6716fc5ab934bfb7",
+         "name" : "Eglinton Ave At Rangoon Rd Walkway",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116973298211267680421\"\u003eDon Drecic\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfKXISumH3uo2grSacQbZ2NV9AY_E864nqGRsMw-9-P2i5f6zdB6PzDsmtVI-dinkZgtRSti_qFNOl9wkdp3vixaYg74IO5XMnAuMFUL4q3IPmHQUojox-QhHV_gasn8vEhAMzK8JM1CUZd7huvR4WuMCGhSeHGY8zf6KhLhqIbm7_X7kRL4x3g",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ86ZKmsY5K4gR9VmDRsH6UN8",
+         "plus_code" : {
+            "compound_code" : "MCCC+5W Toronto, Ontario, Canada",
+            "global_code" : "87M2MCCC+5W"
+         },
+         "reference" : "ChIJ86ZKmsY5K4gR9VmDRsH6UN8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.72681800000001,
+               "lng" : -79.533821
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.72814873029149,
+                  "lng" : -79.53246361970849
+               },
+               "southwest" : {
+                  "lat" : 43.72545076970849,
+                  "lng" : -79.5351615802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "4272abd22f84f49924b44f1bb4ce2b41889d2a1c",
+         "name" : "St Basil The Great College School",
+         "place_id" : "ChIJtQdWSPQwK4gRYQlxwb9DHeA",
+         "plus_code" : {
+            "compound_code" : "PFG8+PF Toronto, Ontario, Canada",
+            "global_code" : "87M2PFG8+PF"
+         },
+         "reference" : "ChIJtQdWSPQwK4gRYQlxwb9DHeA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.672229,
+               "lng" : -79.593388
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.67357743029149,
+                  "lng" : -79.5920406697085
+               },
+               "southwest" : {
+                  "lat" : 43.6708794697085,
+                  "lng" : -79.5947386302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "d9c9317cecb6fb1299647b266b35e9a0944ec9fe",
+         "name" : "Renforth Dr At Convair Dr",
+         "place_id" : "ChIJUQ8-Obs5K4gRz6MenoLoN3w",
+         "plus_code" : {
+            "compound_code" : "MCC4+VJ Toronto, Ontario, Canada",
+            "global_code" : "87M2MCC4+VJ"
+         },
+         "reference" : "ChIJUQ8-Obs5K4gRz6MenoLoN3w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.685806,
+               "lng" : -79.606255
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6871949302915,
+                  "lng" : -79.60491146970848
+               },
+               "southwest" : {
+                  "lat" : 43.6844969697085,
+                  "lng" : -79.6076094302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "cd9e878f10533f5634923c131a2780de3e26ffc7",
+         "name" : "Airport Rd At Jetliner Rd East Side",
+         "place_id" : "ChIJZUeYOXY5K4gRwiTiSntUFG8",
+         "plus_code" : {
+            "compound_code" : "M9PV+8F Mississauga, Ontario, Canada",
+            "global_code" : "87M2M9PV+8F"
+         },
+         "rating" : 5,
+         "reference" : "ChIJZUeYOXY5K4gRwiTiSntUFG8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      }
+   ],
+   "status" : "OK"
+}

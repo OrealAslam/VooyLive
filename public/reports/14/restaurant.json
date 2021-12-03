@@ -1,0 +1,975 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQEBgIAAKbHA2il7bT_PwazvZvGh5EBF78CQNwNdNozbkNBvcN_d-1fUDmy2pqNqcgE4D3Ol9sZsgnU8mZR5Xt_nEEw3O8pO4OD3QhM59KhQXkSCKh_baWGfPu8bsdUdZOtOo46Mlch5bu1sa4JRdnv5jg1yo6kBvmtWVuV-VaL2j1rZmuUcWm6FDhp7RJxwOyAhfJBsHW5l79xsNmTfHVkMeXqlGpL2v2OEOsMjpGKdrvcxi94n4UxsnjNV-_jLuRZGYTlewKLwR2bsU1EnpNFfacYP0tC85LmQvyPAp_JbLf6wRwd9mScLN76rVbHSPZkRvOrgxtYuXPtFeGPAqjc3CocGlzgfTwlI1kLq2CSiJpMCFczdlnLTPp5ZyQjRy-rJ3-iWVeu53j0nhAHpWJOpQNjbHaIztAJ5A6-G9scaogs8jlE5O23pTku9eJwXADFM12xVyqhNqy8hUijYzXQH2VY9DXyGC_NmC5DHIIgdMskXhJn8Uq26_E14FO1KcxSv7gNRM-90o3yzKbMi0yfiffcnZgmF4zzqISP6X0kpahE5wnZzsgIQ85ZKNReWusCMMWLKlRlVSQFkxO0u9pv0NMWnsHtMAldM88CqNT9dHOl5IfdbDF7QN-Dnh6BreCPXEjiiOkeBFWHOLk3kH_f4zpzVbQf7lKL_6Wl_ePn5rWU9v3C_6t7ba8uW6EymCporM1_1hIQ6aWMS4yC9y-0ZAAsm0V8oxoU_eLdebu8v4d0PFnIRadqk-86ZPA",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5998999,
+               "lng" : -113.5310172
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6011060302915,
+                  "lng" : -113.5296710697085
+               },
+               "southwest" : {
+                  "lat" : 53.5984080697085,
+                  "lng" : -113.5323690302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "670ff6b3ecb9e8c3466dda5543795c15c91dafa1",
+         "name" : "Boston Pizza",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104851171257693385857\"\u003ePULIKEN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALLueCtrr8mgSVU9hrvdqeDyqxLc9ZBhE1zN5j1H4USauzYBZ6hcNNTZ7UN3UF6Aug5X666T7YbFJR1nM1lRIJYn-OEa9kgxPq6qRj4s99iq-8NKZt6BSuteLAcftyONHEhAVcaoCxG_D0SrJ8Qfzeb86GhSonPasJSqhD8I5XYEtR_VEokQ9ug",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJgXKjynskoFMRXYlG44B2p1w",
+         "plus_code" : {
+            "compound_code" : "HFX9+XH Edmonton, AB, Canada",
+            "global_code" : "9558HFX9+XH"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJgXKjynskoFMRXYlG44B2p1w",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 511,
+         "vicinity" : "12104 137 Avenue NorthWest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5931316,
+               "lng" : -113.5402561
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5944212802915,
+                  "lng" : -113.5389352697085
+               },
+               "southwest" : {
+                  "lat" : 53.5917233197085,
+                  "lng" : -113.5416332302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4a3bffef18686132ec85776b26a7db20148e85fe",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109169096082325083168\"\u003eBrian Kimzey\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAI4pArysedQckFoUG_ZGXCYSoTGrFYo62ySffoVb9TZ2PpXmfyjZa3YFVlbqE-0D0smVptOTk2U9H0BMfhm2lEVPitpvnpX89bjGqPqI61aFQB5O71NuyCzpSq9zy7yRoEhDUFqBv7jymKTFgaaaMO_fRGhSlWhyBU0Wen30rgaUllQX5gJPYsw",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJG2Fa53UkoFMRC1fcjcvIhlY",
+         "plus_code" : {
+            "compound_code" : "HFV5+7V Edmonton, AB, Canada",
+            "global_code" : "9558HFV5+7V"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJG2Fa53UkoFMRC1fcjcvIhlY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 127,
+         "vicinity" : "12620D 132 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5930571,
+               "lng" : -113.5382933
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.59435818029149,
+                  "lng" : -113.5369449197085
+               },
+               "southwest" : {
+                  "lat" : 53.59166021970849,
+                  "lng" : -113.5396428802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "491ae4065b6faa13b50736a1f9da6bb2445adcfa",
+         "name" : "Tasty Village Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102325419731742580518\"\u003eFerdinand Aguillon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWpI54fHElJKNow3zQgW547YMHKHPVoYZFnJSAxLlhsDhHrKLGd4_xc9FdiEDgoqnQROqMc9E8xBQlHpspYuHRi16Tg7P6Mu4wLY1N-19qWRLGXFy8uLkbj9MEBMVwJf7EhAewDXe2ggsvDEzAp_jJuSsGhRq246PrVJnu_nWaycUCROKZWLO1A",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJy8onDHYkoFMR07e73gKUiuE",
+         "plus_code" : {
+            "compound_code" : "HFV6+6M Edmonton, AB, Canada",
+            "global_code" : "9558HFV6+6M"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJy8onDHYkoFMR07e73gKUiuE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 52,
+         "vicinity" : "12524 132 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5999065,
+               "lng" : -113.5619092
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6013391802915,
+                  "lng" : -113.5605598197085
+               },
+               "southwest" : {
+                  "lat" : 53.5986412197085,
+                  "lng" : -113.5632577802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "962bd7212c0f5493f68f580a8bd1633cbee72eab",
+         "name" : "The Keg Steakhouse + Bar - Skyview",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102874433024509223990\"\u003eArijit Chowdhury\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2q9elMTXrbN-rw875jChI6ink9MotxhWG6htnqC40yMmR2HeQ8vwQ36SGF9CCICD0WleRL5yzZBbklvrRrjdUDjwphqfCWDLRn22p3l1mS6LPRx-1wcYJ3_T9yDuBZoUEhBu0JN3xrqzM-DIv3EVY6ktGhQdD6M1-TAjwcWHHoQL2PZdKJumGQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJmVHlvOaYiFMRcX311UA6AGw",
+         "plus_code" : {
+            "compound_code" : "HCXQ+X6 Edmonton, AB, Canada",
+            "global_code" : "9558HCXQ+X6"
+         },
+         "price_level" : 3,
+         "rating" : 4.4,
+         "reference" : "ChIJmVHlvOaYiFMRcX311UA6AGw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1426,
+         "vicinity" : "13960 137 Avenue NorthWest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5999474,
+               "lng" : -113.5388629
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6012962302915,
+                  "lng" : -113.5375966197085
+               },
+               "southwest" : {
+                  "lat" : 53.5985982697085,
+                  "lng" : -113.5402945802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "31377193e37f7e87e68d7e1b83e3240ae8d27290",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 464,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104851171257693385857\"\u003ePULIKEN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATb4mOa6vIolGvVPwrPLIONkbF4KsyjFc7-kZ7LB2_aS7-2qrF2OZVN1SLEw7xaoLKNTJA9EUadyeQwGmr6hukp7_3jWoOfgPIZrqYx1saeSUVy__eTi--xeLYApHVHn1EhDCIVb-DrY2COsJfJUeKvOEGhSDJPOu4eynIY_rcRLjSqG8U-totg",
+               "width" : 843
+            }
+         ],
+         "place_id" : "ChIJa86rX3AkoFMRMAaYQT9JA-o",
+         "plus_code" : {
+            "compound_code" : "HFX6+XF Edmonton, AB, Canada",
+            "global_code" : "9558HFX6+XF"
+         },
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "ChIJa86rX3AkoFMRMAaYQT9JA-o",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 283,
+         "vicinity" : "12504 137 Avenue NorthWest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6005599,
+               "lng" : -113.5423031
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.60186678029149,
+                  "lng" : -113.5409552197085
+               },
+               "southwest" : {
+                  "lat" : 53.5991688197085,
+                  "lng" : -113.5436531802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b0ef87421afd44aae713c47b4412c5c2718ece49",
+         "name" : "Tokyo Express",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104851171257693385857\"\u003ePULIKEN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAonIcwo-s2_34J0N4NJpiPpu7tZo9eUtSzZ4ppHHl3jnBKhJPgh37tyEdCWYX6EGs9aqeLQVWHls1n6-rQDendvKxpKcXij3vKVOoNLw25nBapRdQJsOzIKWGACLjbl54EhDcy0Hb5Gl97suk_lQoSSnMGhQFDKIB3FlHRZld8MqUb-31mW0KJg",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJMwQ3knEkoFMRc0BbcYtRvtk",
+         "plus_code" : {
+            "compound_code" : "JF25+63 Edmonton, AB, Canada",
+            "global_code" : "9558JF25+63"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJMwQ3knEkoFMRc0BbcYtRvtk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 69,
+         "vicinity" : "12816 137 Avenue NorthWest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6151691,
+               "lng" : -113.5422983
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6165190802915,
+                  "lng" : -113.5408454197085
+               },
+               "southwest" : {
+                  "lat" : 53.6138211197085,
+                  "lng" : -113.5435433802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "315df0a5b1acabf4d97d5dc7f2507e60085c9624",
+         "name" : "PitaBake Inc.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116931365887920103110\"\u003ePitaBake Inc.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA277UDfyi3TGuN36oIVVbuIa5aMdiAM5TZ9I0Op8kcK691caEO33NvOmdgN9nTAPzs-VYctQz5lx76fhpywUORofDFYm408qo1Pl5JtcqFgGceCZDOQA5midmK27fmNyZEhCjh-N92zYKaw_QfRpWiYxiGhQXEPS4U32CDeZeqPX22IIcmeyKyA",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJOYhx914koFMRBZot_w9z68g",
+         "plus_code" : {
+            "compound_code" : "JF85+33 Edmonton, AB, Canada",
+            "global_code" : "9558JF85+33"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJOYhx914koFMRBZot_w9z68g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 408,
+         "vicinity" : "15180 127 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6005557,
+               "lng" : -113.5427966
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6018650802915,
+                  "lng" : -113.5414527697085
+               },
+               "southwest" : {
+                  "lat" : 53.5991671197085,
+                  "lng" : -113.5441507302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "04eca0039ee7fd32efaa3ad702d9017ed6240d0e",
+         "name" : "Panciteria de Manila",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3709,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112274314192357022133\"\u003ePanciteria de Manila\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFTVuANQScitJ2q96Rc1XLCPMLDBn3PTQXU1VIZ2Hpz5tANu9jeOefzpapdZ0a1JG7386IcwISkUoZDOkF_m5w_604AmuT-aF8FzzV-5S6629qbYq5bL9IFOvZrQjMK0UEhDaDUH3Skmm-W4MeFL8Ka6NGhQBWR1JV3qlzs_Rnjox--RX2tUhDA",
+               "width" : 5564
+            }
+         ],
+         "place_id" : "ChIJ0U6grVoioFMRIGrqDLMlshs",
+         "plus_code" : {
+            "compound_code" : "JF24+6V Edmonton, AB, Canada",
+            "global_code" : "9558JF24+6V"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ0U6grVoioFMRIGrqDLMlshs",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 199,
+         "vicinity" : "12832 137 Avenue NorthWest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.607822,
+               "lng" : -113.526827
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6090209802915,
+                  "lng" : -113.5254229697085
+               },
+               "southwest" : {
+                  "lat" : 53.6063230197085,
+                  "lng" : -113.5281209302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9b3956eb2acc82e8632669831c7bb0cbb260352e",
+         "name" : "Mo's Pizza & Donair",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101109289747669268844\"\u003eXtratech LTD\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPBfjessSTgBQ38jEn1aaW4Y5jwC5ecaD0CUSP18H7vLsyr2DpEadt4jFuHr5HOQceB-OXJwLkx3gwkJQhilr-SbF3OlOm-b8mysf2ed3tYijP_c2Vdsmb7ZIlmRnzkmSEhALb4FgfG3atVnBRMFSmpYmGhR8Jj6K8lLMREXOEYMRuevwKGZHIQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJm-UNi2IkoFMRZG-FPQGl5PM",
+         "plus_code" : {
+            "compound_code" : "JF5F+47 Edmonton, AB, Canada",
+            "global_code" : "9558JF5F+47"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJm-UNi2IkoFMRZG-FPQGl5PM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 157,
+         "vicinity" : "11832 145 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6162852,
+               "lng" : -113.5418086
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.61763238029149,
+                  "lng" : -113.5406180697085
+               },
+               "southwest" : {
+                  "lat" : 53.6149344197085,
+                  "lng" : -113.5433160302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2d892794be30f514594e7a1de68e89acd1817c0c",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100872725336098422163\"\u003ejagpreet dhillon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkjkbXUaqnC0tmmq94LrSkT8t_3nkiuameQcb_BMQN6e8rAoDb-zvLxxBhmXsNUEXPgLRrdfr9GVCVJJ5C0tj1A2At1itduXcph1xtV1iOb9RIGvIwMT8o3eP1sZEJ1fxEhAdCgTsQZ5SCr7lIQinr-GWGhQ69Y030lDwReHZM3p29XWyh4U8Sw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJjUmTgF4koFMRCnXpuD8FRFM",
+         "plus_code" : {
+            "compound_code" : "JF85+G7 Edmonton, AB, Canada",
+            "global_code" : "9558JF85+G7"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJjUmTgF4koFMRCnXpuD8FRFM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 50,
+         "vicinity" : "15252 127 Street, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.60237409999999,
+               "lng" : -113.5421341
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.60360378029149,
+                  "lng" : -113.5407824697085
+               },
+               "southwest" : {
+                  "lat" : 53.60090581970849,
+                  "lng" : -113.5434804302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8f3ea0f1341a944a0b47eedd0f5425154c516215",
+         "name" : "Dairy Queen Grill & Chill",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102325419731742580518\"\u003eFerdinand Aguillon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdcQC-35oRcHvIeTHx1sXQjw7VOT977MIhaFGfZ4Kt4ewuPCBIGa8WXNa3ijzHY9oebDEACvKRauGTV3pScsPKfE9d-jq6cXf1QpnlrUJ4eRu3kyCM4u21Fqozj40vVV_EhDbzt7V6FeRGb7R0_O1SgHSGhRARjc3csm_2oo0iRVe0Jh5SKDtqA",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJMa4q2m8koFMRZCYRzlDPhqE",
+         "plus_code" : {
+            "compound_code" : "JF25+W4 Edmonton, AB, Canada",
+            "global_code" : "9558JF25+W4"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJMa4q2m8koFMRZCYRzlDPhqE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 288,
+         "vicinity" : "12708 140 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6002828,
+               "lng" : -113.5511718
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.60162418029149,
+                  "lng" : -113.5500355197085
+               },
+               "southwest" : {
+                  "lat" : 53.5989262197085,
+                  "lng" : -113.5527334802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5694fca28b18f5ffb9ed1890f38c6ccea804c781",
+         "name" : "Turquaz Kebab House",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1366,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115450416758837982885\"\u003eTurquaz Kebab House\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPphV9wwZM82_ADZ2uS-IcoYhW6op3UB3I8dg61AIX50EU1peI-BwVij8wJADi56C6bcAEUgl-iXOWOi7wfO-tfjuacs1vwZhRH-uD4cscAQtMVdfAyAV6e8KKE66G-wREhADAGBF_aULLo1sxJOdJLkcGhQBy0sljpaX0NUtp_RWkKNOEHYGtA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJHfwq3G8koFMR7KU7p83Z8kE",
+         "plus_code" : {
+            "compound_code" : "JC2X+4G Edmonton, AB, Canada",
+            "global_code" : "9558JC2X+4G"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJHfwq3G8koFMR7KU7p83Z8kE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1995,
+         "vicinity" : "13310 137 Avenue NorthWest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6003273,
+               "lng" : -113.5527196
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6016761802915,
+                  "lng" : -113.5513175197085
+               },
+               "southwest" : {
+                  "lat" : 53.5989782197085,
+                  "lng" : -113.5540154802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "21d09ee5415ad4ed04aa9abbe74aee0f84665e05",
+         "name" : "Freshii",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116197543697622407821\"\u003eRichard Green\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFtLmQMhHXqpvbXAkSrAlI0oV6aCGpt0mPgW5ktIe1re5VlMtznskanPMFinzU6x5XNdSC6vnvJEo4-hDVLzcsRkj159poWvyyJ60GVG19g_mUBYtd1tWQB1L3AqkqtzgEhBghjYkb1vVhkzu63HhVQnGGhRg_fg_ag2a5BYlvqUtoxvdGUko1Q",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJD02IgXIkoFMRlnT4iXgyMzE",
+         "plus_code" : {
+            "compound_code" : "JC2W+4W Edmonton, AB, Canada",
+            "global_code" : "9558JC2W+4W"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJD02IgXIkoFMRlnT4iXgyMzE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 186,
+         "vicinity" : "13320 137 Avenue NorthWest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6016369,
+               "lng" : -113.5402207
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6029382802915,
+                  "lng" : -113.5388716197085
+               },
+               "southwest" : {
+                  "lat" : 53.6002403197085,
+                  "lng" : -113.5415695802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "18976f0eff92e16a49b2559fb8b9d892abeffe4d",
+         "name" : "Manila Grill Express",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108184207325330608295\"\u003ejovin joseph\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAw0roXACsjKZwu9l84XgMUfwgIvGw6FOKvl455caxkRS9CnPS1kDxU6E-BANLcJ8N9wCKrLcftXlruCVwnKSZ5OFoeeXBCfeU5xWnGeNueznx_s44A0ZNthMJdobKX7vMEhAN-BCmfjYr9yqTPGCsoeysGhTkDNjTuKSKspSWHG_vrsdaLlcGrg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJs-8vPXAkoFMRjtMY7xbj7GQ",
+         "plus_code" : {
+            "compound_code" : "JF25+MW Edmonton, AB, Canada",
+            "global_code" : "9558JF25+MW"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJs-8vPXAkoFMRjtMY7xbj7GQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 146,
+         "vicinity" : "13905 127 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6002722,
+               "lng" : -113.5420269
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6017216302915,
+                  "lng" : -113.5406753197085
+               },
+               "southwest" : {
+                  "lat" : 53.5990236697085,
+                  "lng" : -113.5433732802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b9657186e3f9596f5e4191a2444fbceea43e8c12",
+         "name" : "Dragon Buffet",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110290445236831916829\"\u003eBlaze\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArvW7b5jkM_-xpiQshTHWsX4AbCs5FrkpwjCjsS4VuKzOlYp6Mn6YMWcmJZ5JjkL1qjQEQcClgmNfXUkFxEVlwfn6iBfDV285xnR8w3sB0vDtyH6fIgZgGJeMgThSCd77EhDma9xtxI7cgUxAyYD6OXpSGhQTz4f4R-aL2SRb3DOPD5rSwi5cJg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJi9AMynEkoFMRVlMkqdm1fqw",
+         "plus_code" : {
+            "compound_code" : "JF25+45 Edmonton, AB, Canada",
+            "global_code" : "9558JF25+45"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJi9AMynEkoFMRVlMkqdm1fqw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 255,
+         "vicinity" : "12724 137 Avenue NorthWest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.60114249999999,
+               "lng" : -113.5400054
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.60254483029149,
+                  "lng" : -113.5386568197085
+               },
+               "southwest" : {
+                  "lat" : 53.59984686970849,
+                  "lng" : -113.5413547802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "df7bc0755b04e0164538e379870411458aff8a34",
+         "name" : "Little Bee BBQ HK Cafe",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 636,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114355123639938840533\"\u003e马翠玲\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANULxda1c8Y7virntZ8KCQSKM_jXOQfH2C0361gvLnvYq_h9w40U_rpjev6kNdIn1boVlLJZn8Pz-SFSXvr70fSXMITkMPYcfq7Prc-mntBuvkI_TCUO8D6lxeJrQfQrTEhCDDaNtuGRwv0RuB9-Bp1x3GhTJ2BimbIYvg9eCT7mqZie9vKpNSA",
+               "width" : 879
+            }
+         ],
+         "place_id" : "ChIJM34GFnAkoFMRTuzaQBEL2nE",
+         "plus_code" : {
+            "compound_code" : "JF25+FX Edmonton, AB, Canada",
+            "global_code" : "9558JF25+FX"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJM34GFnAkoFMRTuzaQBEL2nE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 178,
+         "vicinity" : "13823 127 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6007452,
+               "lng" : -113.5396584
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6020082302915,
+                  "lng" : -113.5383144697085
+               },
+               "southwest" : {
+                  "lat" : 53.5993102697085,
+                  "lng" : -113.5410124302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8c5321a0b9aeba64b42d23d0083ef9d1334fd62d",
+         "name" : "Press'd Sandwich Shop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111252995738516951595\"\u003ealee x\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHNRoND_3QVClGQzm1Wln1Td223XVY89r9OEx3wusRnhRPmiQvMFVPqW9lOiTRsj0BSpuNeixEkumih4Tk54AXTlaydyz8vtr87c16EJKYn-g_V0LrKZwU5Ovb5m1WjtdEhBWWmov58ZKlAAgCZhiwVK1GhTc697sPMDloZdYd8gvRjQv6B0k1w",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJoaaBb3AkoFMRya2Hdm582bc",
+         "plus_code" : {
+            "compound_code" : "JF26+74 Edmonton, AB, Canada",
+            "global_code" : "9558JF26+74"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJoaaBb3AkoFMRya2Hdm582bc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 135,
+         "vicinity" : "12550 137 Avenue NorthWest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5998605,
+               "lng" : -113.5553416
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6012258302915,
+                  "lng" : -113.5538586697085
+               },
+               "southwest" : {
+                  "lat" : 53.5985278697085,
+                  "lng" : -113.5565566302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e3923ac10d8cc0c1f4f466a5258fa7fd2d1b74f7",
+         "name" : "Fionn MacCool's",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118385400944988553992\"\u003eTitanium\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwpFMpUAA6kCTc0s0hXCDGAFueVzTOGmNOIw7M0CwBPLZD_oqfEMiJF5WaKbXpd7eVLX0ci-7gi1FuHmmwy0w8kFpYPFVaNKGRE5wTPHTOotllrI6-K9fCnmRkhAju_GxEhAEQPylC2d_Q3ZI5N5hRmIsGhQYh_sPpJfakZF5iTSz11OlTHj3Eg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ3RUjTW0koFMR8qt1UxKoJcg",
+         "plus_code" : {
+            "compound_code" : "HCXV+WV Edmonton, AB, Canada",
+            "global_code" : "9558HCXV+WV"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ3RUjTW0koFMR8qt1UxKoJcg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "bar", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 531,
+         "vicinity" : "13580 137 Avenue NorthWest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.599964,
+               "lng" : -113.538028
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6013848302915,
+                  "lng" : -113.5366784197085
+               },
+               "southwest" : {
+                  "lat" : 53.5986868697085,
+                  "lng" : -113.5393763802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "67d665c9ba881e5aca9763df29eeecad19958418",
+         "name" : "Pizza Hut",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102737192470643360996\"\u003ePizza Hut\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvKDmazgKsQ2jpOWYQ8wjVkco9Lq6Y5E5XeHiuWpauMrH3DHwzJ5OdghiqmyXk13WduqAV8L-1ifSwDvzvaltOBSMo_GzUZJeKCU3NOElOsV2hyyrOrDleHyR-R6XOLb-EhCrUj669zNIIlbYK-H_0GsjGhRsx02Q7Q0MxT3sTWt_h_9nmhGtOA",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJAZk7hXAkoFMRkOD05BN9apo",
+         "plus_code" : {
+            "compound_code" : "HFX6+XQ Edmonton, AB, Canada",
+            "global_code" : "9558HFX6+XQ"
+         },
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "ChIJAZk7hXAkoFMRkOD05BN9apo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 217,
+         "vicinity" : "12410 137 Avenue NorthWest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5998698,
+               "lng" : -113.5593012
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6012807802915,
+                  "lng" : -113.5579536197085
+               },
+               "southwest" : {
+                  "lat" : 53.5985828197085,
+                  "lng" : -113.5606515802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8d87b1d9442205175f79ba77de2367ea6849640b",
+         "name" : "Thai Express",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105835181756887966627\"\u003eKristopher Rekken\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6i9uAJql9lleJ7KM99hYbUyTJS9DQxubzbFKZ2EOZ1HZ_tqOHwyTD6UH9EKPmfbXyu7ooE8BxD9KqGmPPff_ilIDDYYl8HHhrxc3cxJCvc_kr4RVHSgIv7zyszTldREzEhC2z6jyx1lV3-sDz6TuzFEzGhR0etTxDD-1oB-U8lihve-LMqDCIA",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJP1cYjRIkoFMRPNFwt0dRN0g",
+         "plus_code" : {
+            "compound_code" : "HCXR+W7 Edmonton, AB, Canada",
+            "global_code" : "9558HCXR+W7"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJP1cYjRIkoFMRPNFwt0dRN0g",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 93,
+         "vicinity" : "Skyview Power Centre, 13680 137 Avenue NorthWest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

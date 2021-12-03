@@ -1,0 +1,834 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQD8AEAAF4AO2I0gtHUTHpMWOIwRE_NlxYb9_g1gNCefdPEqdpHVsy1kjX4DlyLqybD9iUb2uvDZReW16BauAs2KBkiY0OR6jYfyHG214YUatGP81BG_gnQ5z-A3XGkCa6BG1uIL0qQ1nqQUVpsFPU1XDZ7qRogcx9IM1VVxEerodTTL3_-br43fpwfC_57OJXOcTTgp_EwiPM2H21HsFZfFuv7kGyQPNJhnStHxTEskkGktWWvbvhKKyQnrHb4bFhT58Keueyg6V2d8I1sUzIQIhCyt9tSzmGmRm8hBzEXFaV-ZnJ6ZDrUoVvaRXkbWD_AtTmHVAgLWo9vb4vhgmk2O15J1L_vQqHI6Oa5guy9YWZirBWXd5bdB6QhaoriXijL6qw-bMsE-2pQufEmUJGNQNd4ZTm-Vg9cOtqBGqljLdjuyMDS3H8IkARsNxlyNyIzHw5ks_0hycJk9PpVuebajowwXEVVvuiI7TmquhzT3Wshg8H1LzuER-SpqvU7ack0vKPMe-DD4dNthTw5J6Xq__7h711W4q0Oiu6snhnLkRQikgagnpiGMCAHs5Cy8iUHvroVsWSW2IZJ-nKtpEuLKPe16T2iuOtffxKhwGiZYmt3MSTvECph__MtJOY6fneKXobCeYgHMVZuPn6ATZu2C61yJZkSEEEKVT35eku31wSZEjpdiVYaFDXxZi8nHOAnJHlsa8eKF3cBQMHD",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6975114,
+               "lng" : -79.4506047
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6988380302915,
+                  "lng" : -79.44945911970849
+               },
+               "southwest" : {
+                  "lat" : 43.6961400697085,
+                  "lng" : -79.4521570802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "01c92af6a3b4c129ba0e92efb57b285ee9cbf8da",
+         "name" : "Rexall Pharma Plus",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106491165868056550507/photos\"\u003eTom S\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxo9xOyyLT__VzulVFioQqTR2g4WQJSfoRt37unQHaLDw64KZkkgT5HRpYFWueFWNu_go7Psu_4Gcnpmlvn0yk-JQKlJyuL-IfYvh_CLhucrC_0UMlMmnViOi552SkylrEhDnj7YzoA7TpFYToCByrI1nGhTBq_4Fd5iZxnpjugJT5Z_d3agAoQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ1bLhe-wzK4gRMLP8hMxEsfw",
+         "rating" : 3.9,
+         "reference" : "CmRSAAAAkvrqO0bVJVvHLt7IWJFQKjs_3Y7aVxaExlW6fFCAo49d5dT0VCs1Iugk7NHN7tSWQRA3t2_0VcO2B05Gu4dw91AWBGfp1HNMEtAYmIV7i6TZ9j-p5RQH6cS7F59uiNY7EhB2NFVZwnxXLd6qBbgD64QwGhQBCRJsTTAhrPqwtgi9c0odPNcArw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "pharmacy",
+            "convenience_store",
+            "beauty_salon",
+            "store",
+            "health",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "2409 Dufferin Street, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6823199,
+               "lng" : -79.47208449999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6837137302915,
+                  "lng" : -79.47054511970848
+               },
+               "southwest" : {
+                  "lat" : 43.6810157697085,
+                  "lng" : -79.4732430802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "ffc0bcfc7a5b686ee40a47c891b44719c97133a2",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3072,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102512170369022767027/photos\"\u003eThupten Choephel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqzxlzT74t0SXQtd02BC7tnGCgBGvogAkXBeKuEQl1SBx1Zsnwnl9WfE2MpbGZ_4CpQMJXLa5n7XMPsUmzCUbZAj_Z4ZDdtwlrdObPs6Cctfrxr7VfaiEW8sPAG7KQh-0EhAq5DlQCtRSQR_QIlGsPSdIGhQ44kS7rCA4H-T6yXhSAifmQqBWTQ",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJhV6HFao2K4gRq0gmxnuY3jc",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CmRRAAAAGPhxBl8KpoE5bX5cHWx4UFwt2ErBFCKlECHRf72XBng-0TeVu8tgpTVw1GYqoJScIh6UVNWNcuFhW1lfIfAWTAK9nW3qkp0Pe_5aJu0WxSK4F_AXTb4JCyqLX92WelNUEhDHnc19lGG5T_-qjRhpAsfUGhSEvrQmTIinfoPHcYJIh-IaoIOJTQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1610 Keele Street, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.70357850000001,
+               "lng" : -79.47640079999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7048988302915,
+                  "lng" : -79.47528866970849
+               },
+               "southwest" : {
+                  "lat" : 43.70220086970851,
+                  "lng" : -79.47798663029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "7b022af077c5fef68e0c4f43c94b657a148eca19",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104417808822603625140/photos\"\u003eGood Four\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvBuKUimbK3dg1lvXO_41OtBZ-bRu6LDUJ3wId9WuXuug_7jbTkLi-siANqeCYv0FXauhhfg2AUSC9OqfqOR7_0zEc-wkBC-KQeD0wKjNZ-CFOLYFI9ZpXj7n3cK3WLrPEhDeAKQs08p-5U_YgHhW4mXRGhSf1z4QnW_ElVRL_nfxSuMUFK87hA",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJib5RzV0xK4gRrhoz-xvAgQw",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CmRRAAAAz1kqR_e1v3u4lBGdTiv0MQNA62glIe6kDHjU6pKJav9Es2B3Yf0irSwMlW1mEbpsxZDVqn3Z29e7qEbQSnbON02q4rprxjgU9R8Nrd8SNeYgoF5LzIUhCjnhfz15FqnNEhBta0vH0pEZsIb4NusjEYfvGhRnni0Q5ADr_iJIDy3pDf2dzgT-RA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "convenience_store",
+            "car_wash",
+            "finance",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "2291 Keele Street, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6951882,
+               "lng" : -79.45317469999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.69647328029151,
+                  "lng" : -79.4517983697085
+               },
+               "southwest" : {
+                  "lat" : 43.69377531970851,
+                  "lng" : -79.45449633029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a5c1faad6e7e71e79d8afe9838abd861ed5ee523",
+         "name" : "Bargain Club",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\"\u003eAnthony Bernstein\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAf1K_p70hg_wCmb4FyLeKnUsuQgBG4HuEyosAFrbIipzX3F7GsjDm-i6jTyzS6ZiX7PUSm2kHJQCET2DnekgzKhMoa7APFPyy1w7lf_TKp98T9Q3Qmy8Ne_xZI_p7lGnOEhBzq4NvOWO9sQm-9TcFqkXIGhQmVrYNVZbJI6QMcBj0wAY-AZ7nUQ",
+               "width" : 3872
+            }
+         ],
+         "place_id" : "ChIJk3yw3u0zK4gRzcF0qw3RLBk",
+         "rating" : 5,
+         "reference" : "CmRRAAAAgS6JD3Y0p6lTzOqkKbfq5DkLeMTrVGfZnnnM1DKAhNm2dOGLG2usH-5sDU1tsf9oShxGSlWFl5-twvbAdjjG2RdbY2aHU7nz0dJ-ykCNnMdHzX_KXJkywexpcDjYzkyzEhDNO6c9hs9VwhLZ6Uqbx9Y-GhTRts27CoK6DmFw6P1VyasVU7SMoQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1940 Eglinton Avenue West, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7024169,
+               "lng" : -79.44150359999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7036387802915,
+                  "lng" : -79.44009811970849
+               },
+               "southwest" : {
+                  "lat" : 43.7009408197085,
+                  "lng" : -79.4427960802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "4a12d723ee154dc71dae15f3b7d9bd339b05da9f",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1697,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105175761337711150993/photos\"\u003eDan Levy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADTli7QbEmXMTK0tHGUaXWbuiSrIVjaPYFn5WjJHuypaJ4EW2QhmCu8qj_8sgr4cirFGMSqVbV9Vit97wkXKqRyOmHibtodPeRAS2L6Amg7SJX6h7e3wkNmDFDZu3GsjZEhDKmHCGqAB86aXqzhYW5_ZBGhSsJs4AbJ2-Cy9KiFZCulT02czPbg",
+               "width" : 2262
+            }
+         ],
+         "place_id" : "ChIJdwTM9b0zK4gRTzK1TGg-E84",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CmRSAAAAP2uFdZzKtwToWx8nUxm9bDJp29hcA05PQ-9_a_6wL7hyRBkfiEH6ma87LRvExHPRjI224r8AQP5aABzZnTLOJ21r6KFfj2sOCUyL0tOD0X4SsRf_w0X6bMvA5AFe13mDEhCGFVZtT6ul-VUiNQguk_JJGhTdP499Oy_ZSZQjAaDZzv3xnEABCg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "850 Roselawn Avenue, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6977954,
+               "lng" : -79.4412552
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6990811802915,
+                  "lng" : -79.43988056970849
+               },
+               "southwest" : {
+                  "lat" : 43.6963832197085,
+                  "lng" : -79.4425785302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c12057d1ae4630ad927ad19b0b80f9535e728034",
+         "name" : "TreaJah Isle",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 735,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111029565886607562443/photos\"\u003eTreaJah Isle\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArXrtZeFBDhqoq-c_ycx_6bF_bRKg0XoHddR6_t367JXU32ol4YWg4uuLHoj8OnY2xU58celTE17oGPHDPzr9N8GmHi3IndUzex1VPLSOUgfzcLKAjbtbWExPDtU6fdeXEhCg0_uAD1mnHapIuCvsYC1wGhTBNIVW9a7CNudq9Oerp5QYSTCVYw",
+               "width" : 737
+            }
+         ],
+         "place_id" : "ChIJyTihtpYzK4gRby7GBWBY9Xk",
+         "rating" : 4.8,
+         "reference" : "CmRRAAAAWAIx2JGWDyjfSlAu2Tt_xvjleYsPXDu1tTwtuVLxlDoNg1ToUUJJyK3nkeRK4BLN8Qr7pazI55g1OaEEU_gGXlawJ2pOJexC56uWSWOo84TqP8lw5yFT1EL4IZZTMqVpEhBXvXocmHV6lquu-As_bRczGhSprutIN6MqRZxr7dLRPta1FHzjwg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1514 1514 Eglinton Avenue West, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6933472,
+               "lng" : -79.4613597
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.69463758029151,
+                  "lng" : -79.45998556970849
+               },
+               "southwest" : {
+                  "lat" : 43.69193961970851,
+                  "lng" : -79.46268353029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "1e6f0bc10d9c9b136e8b544efd4369ee9e89a521",
+         "name" : "Caledonia Smoke Shop",
+         "place_id" : "ChIJr7OL3fozK4gRMhJI9_ByHgw",
+         "rating" : 3,
+         "reference" : "CmRRAAAATQcznzZk2cfd2SP0rmwY8PH6Col8mkru3z0rPKwAhFUvHxZ9Vczf4_5NzXm3E9E6UPGqOn0H9PTdCbL4PHh7DbHOCupLoMqXNLcVW7i2AjC_YiZmCgUzhQ2DSPXBePaBEhANH_HpR3hW6VWwV2cS0COBGhTH5iTvf00VtNH1IZkAgTNVfOL02Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "2186 Eglinton Avenue West, Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.69482240000001,
+               "lng" : -79.45482749999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6961068802915,
+                  "lng" : -79.4534507197085
+               },
+               "southwest" : {
+                  "lat" : 43.6934089197085,
+                  "lng" : -79.45614868029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "82fb138b609f60715a379aadd2f331cbb40d7ecc",
+         "name" : "4 Your Convenience - Eglinton",
+         "place_id" : "ChIJpctgFu4zK4gRB7sYHaFdVVI",
+         "rating" : 4,
+         "reference" : "CmRRAAAAr-uBQu-FtqsF_T3p1vEc7nI1pTNFi9cv6j7kC1e9R9UUmFQ1BK4WtnM4nHV83Y6pzp7eyWpadGIg3_UdchknZKtUdSp7uSAiZOXoYGCrg81BINUvpkQx03HNBszIFkOVEhAZY-02Vw3MhivMytGRjw-eGhRoy8o3G6lU52sqS8MFmCQCtBv9xA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1990 Eglinton Avenue West, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.68727909999999,
+               "lng" : -79.4666525
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68861778029149,
+                  "lng" : -79.46537086970848
+               },
+               "southwest" : {
+                  "lat" : 43.6859198197085,
+                  "lng" : -79.4680688302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "1be98afd25d8b87873a060df82b00903e71c842a",
+         "name" : "Silverthorn Market convenience",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113758553749182301808/photos\"\u003eMike M\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAiiPW8KbXVlLtKh64zstDVQGv6qfJ_VjqWjBOKFKBmhHJVyLEF9xOT366IMDJvQ-7d8xyfpSChsccZt8lLRayLsXE54_tj7X8w7LbskG9d8Tk0vn-Lt6TVVX16E7jlPgmEhBEkmJjLGB8bFpYIxcPdYCgGhRhjwD2MUvCu3tTpnLiez1d3hA6Kw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJOfxkEP8zK4gRwoL69uiK06Q",
+         "reference" : "CmRSAAAAnuSRj8IS47_zml2kj_PAFZQoAolw55W-c3giCoHhJ_5W_0N1Ttgl63le0Qq7_orOQ6Fo_6FiZwOTl8hqRlpgYj0fN9mA6pw-ijgXc8umOfZ0hRZG_IXquIzclaTcXBntEhB92sxDkldUWFx_cZraxsN4GhQlw8cjJp8M40brkLb-HlZrMpEqTw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "467 Silverthorn Avenue, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6958448,
+               "lng" : -79.4514461
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6971937802915,
+                  "lng" : -79.45009711970849
+               },
+               "southwest" : {
+                  "lat" : 43.6944958197085,
+                  "lng" : -79.45279508029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "bd6ac4b70bc272ea8c5af503382cf93fa1ab4558",
+         "name" : "Fairway Food Mart Inc.",
+         "place_id" : "ChIJp6jusu0zK4gRwOhmDG-Q7MY",
+         "reference" : "CmRSAAAAGELpzqoTQeR72ivBzogvdPF3KFIarCLiykUa80z80yE1G7uAtxXgssQ-9lSPRvJqxTvviB6Ik73fawkKXMaPyPlINGgQpMfKpejtyZO2Ge4Ij50SD9AmaJevTEU1mlHbEhD3Nvyln5XA7tHMniKtaUKLGhQtOFAUSMQm-jI-X4a5McVwDmxIAA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6980119,
+               "lng" : -79.4515447
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6993846802915,
+                  "lng" : -79.4499915697085
+               },
+               "southwest" : {
+                  "lat" : 43.6966867197085,
+                  "lng" : -79.45268953029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "12bd66291b3fc4e387c102901128bcf7cc994d7a",
+         "name" : "Vari Coffee Deli",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJN_xjeewzK4gRzJRjqdxgx50",
+         "reference" : "CmRSAAAA5Uu7zgMuKNGVE9tclegrXuu-SIOJx3zswqI3YFW0WYi3e7Tm7EAVfomIVVOeflkU66H2SL-6GFBV9SH356jLHjSNjht8PIOkd6yYTt_e50c-PzFVW8XhBghoBnSv8cdoEhCsnBEbfB0TH4MsFcqkoGEUGhSE386DucsOcwKb9wdtiC6jme6b7A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "2432 Dufferin Street, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6955631,
+               "lng" : -79.45034459999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6969663802915,
+                  "lng" : -79.44901851970849
+               },
+               "southwest" : {
+                  "lat" : 43.6942684197085,
+                  "lng" : -79.45171648029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e3c345165b257e1ba351b8a2ce364c7034d7e410",
+         "name" : "Pat's Gift & Variety",
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112942586853670715121/photos\"\u003eGlenn Dickler\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFzJ69HAG-jBcPPHvdXh0hvja881t-zgQbrm-8AnpLX76Us3mk8-NNrHV11O56GhurjTg5fNeQxM2yMfiQn-6EDHtlsuhSHcgPKE5g3rqSHYUdC_c4qrGpMdnc4tI13MQEhCMxCZ7l6QzM4yO3ijT4QqLGhRH0RU6PUNjawdBrz1M5mAZuNpqlA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ-RL7A-0zK4gRdJLbopq9aag",
+         "rating" : 3,
+         "reference" : "CmRSAAAAxVSq10TPsmdTy8xccQcA2an8mmugFfcflwEL8OiomMgCeYnHXNVp8q1eJ-JWMf84zXSaoarvLoLhbFpWEE59gNhVBxnm6k4t23Xvq7YkZUkd_p-y1FNRLBjdrzCpAxBLEhAaEvCFzucoeyXu_TD28JPJGhTUqY3XWOeQjBwHwPzzPlzPgnXNAg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1835 Eglinton Avenue West, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6848155,
+               "lng" : -79.45852429999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6861644802915,
+                  "lng" : -79.45717531970848
+               },
+               "southwest" : {
+                  "lat" : 43.6834665197085,
+                  "lng" : -79.45987328029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "d0c667847d7d58e2d2622d9a2f32a1c7f8aeacec",
+         "name" : "Caledonia Variety",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113758553749182301808/photos\"\u003eMike M\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAc_iFLhhAZ9eXHUO5xwhAvc0-d04SUhTMhBF3J7zxaclYNb4CiajbKCFW4mKN6wYuOmlMHn31zFRS6dkvN2-xKX0d9nfvsrDz6s3Ss15O-AhkC-UXKcZIIGndhniyMdgjEhBRRSASzv3_yomzCcgTBZ7OGhReaNUkIkJyKnL74ZHKbYxPtgRf5w",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJSxZaAgg0K4gRUYiGnGOWRuw",
+         "reference" : "CmRSAAAAnAApqFULFTkAdWftRJuK7kqeCa5PqNgI5_SoSWbdHNISB8YA_ktevJ71_ez6bTF_0zYDAKnZzqgkVUX9QXzX3Lp1c3DZSq8LkPY4DPIXEEsK-weUIc62REBcHaZaSROyEhAgzwUo4IwYcwxTpzHLo2PcGhRDMI1zU_KqtvBmJGz13QQfLMpygw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "30 Corby Av, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.70131860000001,
+               "lng" : -79.45167289999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7026589302915,
+                  "lng" : -79.45038791970849
+               },
+               "southwest" : {
+                  "lat" : 43.6999609697085,
+                  "lng" : -79.4530858802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e06015576ebe129b71e1368ae6a46b214569de19",
+         "name" : "A Plus Convenience",
+         "place_id" : "ChIJwTOcSOozK4gR1c2cL5n390A",
+         "rating" : 3,
+         "reference" : "CmRRAAAA1WzvaSHAP53ToTvyQCkOc40Mr9CPVNw8lKZSrKhtJfdf2Y4q-b2GtgdmB3f4ZAAsbgM8dwNk6YKaJMNTVj-HIYcpbsv9__u1p26C7qf3GSJfg6xX5D0MhODe-5hb_GqrEhCJHnYrT1sTmv_D43nVwk1cGhTvXrp_hQan25tOFxo3XZjt65H67Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "2489 Dufferin Street, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6862004,
+               "lng" : -79.4730385
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6875173302915,
+                  "lng" : -79.4718292197085
+               },
+               "southwest" : {
+                  "lat" : 43.6848193697085,
+                  "lng" : -79.4745271802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2377d5611c83818f73e93e3b59c60422cd909201",
+         "name" : "Corner Store",
+         "place_id" : "ChIJVwPAKlUxK4gRpszVycLxQl4",
+         "reference" : "CmRRAAAAb8q-vpJjSX4u1Bp-wT_yUHGZo2kGUkUJXowgm8KsP9FwK4KXR_MBWg6plMM8eRWUYzkCjDA_iWLvzjV3XGQsvh3hytnJFyJ1pz94AZWvZMY2KjjLvkZunTSVD8zKvN5AEhChit-tM9m-ZKRXuhp6q0qiGhRT8Xy4xY0DRUSb1u26XSd16NDPwA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1745 Keele Street, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6896796,
+               "lng" : -79.476585
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6910847802915,
+                  "lng" : -79.47525851970849
+               },
+               "southwest" : {
+                  "lat" : 43.6883868197085,
+                  "lng" : -79.47795648029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "803878e30c6e294b5a51cac63dc32e797e0f882d",
+         "name" : "York Variety",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3036,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105175761337711150993/photos\"\u003eDan Levy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASo4yezYkVmbPa_o3FY_oQCS4edQzflwFlJUJzHsOneN0t4tP2Rsgbvl3EMX0OMuGkvLmAaO2Jj2cGLnI10DoDmJ_fysooATLeOpFYReQbH2lB2Y8Iq-KtRQrWPV3NnWLEhDjbFNKbOmCJdEhC9P_dTLTGhSJb8r866rEahZqVu8no_pNKJKSNQ",
+               "width" : 4048
+            }
+         ],
+         "place_id" : "ChIJ2wbWjVMxK4gRua490xhlrIw",
+         "reference" : "CmRSAAAAs1m3C8ORMOtYL2gZmWtyFMqHog9fs_Jau-mMT0ExlqVxGcS6dsvZNmws7hYmTYoC3VxRMxAQIR1c9r9H-2cf4bKgr1RCrt-Ejntl9larBIf6IpGa2ali2K0SQs_rPg8YEhC5JWanT5G-TgMYflUJSX7MGhTref7jdJAnUMu6esjM_RL3Bc1KVg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "2675 Eglinton Avenue West, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.70181660000001,
+               "lng" : -79.45178779999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.70316558029151,
+                  "lng" : -79.45043881970849
+               },
+               "southwest" : {
+                  "lat" : 43.70046761970851,
+                  "lng" : -79.4531367802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "96b6c3c74da4dedf4d8bb2ef85d216a43593bb24",
+         "name" : "Fairbank Convenience",
+         "photos" : [
+            {
+               "height" : 3200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109430581060517052881/photos\"\u003eJean-Pierre Nziya\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAv0nvOhb5r0bGy9zS8AdjX7Ddh4gZxRUD14NSoOjqB1HThLuzIRz-J1Xh1VAelL83mSHlZJZhwRGdAFi5PQpHonF2wVXuhnAbcuvZqdikGd_oshGXf8V0mE8pSxfyMIobEhArmIaNxboOZvZVsSVuPeX-GhSIS3TkaMGNBaJgDFqdOS1rnCIfLA",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJucuNQeozK4gRYdVK7CSPp_I",
+         "reference" : "CmRSAAAAo0C73NyoDdo6pXz9dYso3bjyxTMlOWo-fraWhEv17Vb4AxeF7rSbsN2Ge5am07yoA-HbIcezkLoQ19oXUAhR5F3qwwHCHUp2wM7LmvkSlFy47n25BAYcDtU96KlU-t40EhB_yxdKK-0uHNUwyWJrUGY0GhSF-Kr82bd2JW7hwNvgs4sjlY_IvA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.696517,
+               "lng" : -79.44770230000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6977426802915,
+                  "lng" : -79.44630236970849
+               },
+               "southwest" : {
+                  "lat" : 43.6950447197085,
+                  "lng" : -79.4490003302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "6703e64503c339f4b7bfe85d17426acbdb24350e",
+         "name" : "Starbank Convenience",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\"\u003eAnthony Bernstein\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkGqIPj1jKCRRSQYWkvjbuciGl27Su8ZeMD1WtYsVXzC3Eg-_5mMH8f8rcffl7GfdY7oCKJfwSiRLePVkcdMJJznsiq17eADbDbz0lzDxhOmqz6I_TB4NI3OWPwMhxYDlEhDnjt00orAseGD4Nb5pCg6oGhQpBwQipi0UfesHQ8aBked35ZXosQ",
+               "width" : 3872
+            }
+         ],
+         "place_id" : "ChIJIbz8MJMzK4gRWUfddD67fKo",
+         "rating" : 2.7,
+         "reference" : "CmRSAAAAwl4jvdC9toGdDP_IPNDBdygoy6Fo5q7-lY4zTHzDe6UI05g5BHbnwZG4fkeyXLoyHFsAEK1_oowl0ghOpdWZQBcIbuT2sxsdN02vpNWfrltnlqhuQkKwO_82hlsreAa0EhBUXyvcUUIRObVrjXwwuMhoGhTf7Tsaryato1lSHXdKvB_1nTbiKQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1736 Eglinton Avenue West, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6824979,
+               "lng" : -79.46418109999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6838892802915,
+                  "lng" : -79.46284996970849
+               },
+               "southwest" : {
+                  "lat" : 43.6811913197085,
+                  "lng" : -79.46554793029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8cfac180226591b3d65a3349ed1b23fcecdf9c12",
+         "name" : "Milk Mart",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ5TwW0QY0K4gR2L2qemRzeKg",
+         "reference" : "CmRSAAAAzdqi_n7YlMZulIvTy18TSDc9MWWLDLW-dABp63MP3gtWCaDl9xlLa5y4bkNU3tdMOg1aXb5IAeCzhxwNn5w78akXKxnVJ8DZ03brgFWP-c_B8a3XyPmu_739ekZr1p7KEhCmtii0h-4UNvJCQIMvdGkHGhS3S-kHUzNZgFJAb2hNrl0vul4pbw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "441 Rogers Road, York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6819524,
+               "lng" : -79.46662909999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6833498802915,
+                  "lng" : -79.46529996970848
+               },
+               "southwest" : {
+                  "lat" : 43.6806519197085,
+                  "lng" : -79.46799793029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "4557c65d84460c470b1541a5df530a41bbdc2403",
+         "name" : "Silverthorn Mini-Mart",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJS4Q0EwE0K4gRiRFiqgXrj_c",
+         "reference" : "CmRSAAAAsrIbWsJXfh0D1ndeFTD40EbPXsibycX0Gx3-o4gTgaoG09ka-mstgfgkjtSXilDZ3xOBKoYTZJg-92y5rHItcHQ43qsroyrv_x6ylI6VPsQQK5rAahOjikaQlQB8LjF4EhBSaw_vVP3MS55zXdRTP8a8GhS5vhbmg9ebiGS8KmgERWLkLVUyFQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "#A,, 473 Rogers Road, Toronto"
+      }
+   ],
+   "status" : "OK"
+}

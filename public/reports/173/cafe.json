@@ -1,0 +1,53 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4949192,
+               "lng" : -113.5773118
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4962183302915,
+                  "lng" : -113.5765452697085
+               },
+               "southwest" : {
+                  "lat" : 53.4935203697085,
+                  "lng" : -113.5792432302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "2276ca3ceaf10ce9b8156a33ae4c5e0e11512de2",
+         "name" : "Cafe O'Play",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4016,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113629536302745943077\"\u003eCafe O&#39;Play\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA78DNll5Pcevjs0Pjo9xtFp23AzFqvekEKv5IkjWzmUbMDIazIBY8gOC9jZ4XT2g75R33mMFCHf83_cMYVaK3P0vHmHmwWb0uDRPKMmxn181GRytfDIRxAAARz0NUmGx7EhA_AlhYegKivrXFEGAro0fuGhR0qNXUthDms-7JFy0u1zn5Ea5RlQ",
+               "width" : 6016
+            }
+         ],
+         "place_id" : "ChIJmaNOTSogoFMROKhml25wWa0",
+         "plus_code" : {
+            "compound_code" : "FCVF+X3 Edmonton, Alberta, Canada",
+            "global_code" : "9558FCVF+X3"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJmaNOTSogoFMROKhml25wWa0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 283,
+         "vicinity" : "5667 Riverbend Road Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

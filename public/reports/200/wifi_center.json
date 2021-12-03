@@ -1,0 +1,941 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwJT7sIimHesO8GOCrzlM49Dc7orcoAQRgYweJKo2CQYDBNa3sutu2fPYyT_J2mBpynnus6wwNiTtnKzvaNgGRoDqqVRhlPx7bE9xDtm2WZmqM5iFpbLFNPTKi-hyVkIPGufbrDgk-akWIcMLC9y2Jcwam0cCUqc9oV5WDO7nPWRlWAySRjKrGW387HyZXZiHAwArPGViabHU2_vBx8KL4X7edz-xcA6WQpN1gf_QZ9sjnZHVGf5HM-9NW5m8JfiMY3iHkqribCIdoUrXlJT-f9SAvufkq7uypQwIdL6cSF5xOxz7IwvMrpFGWB_9zSzzabP3USB6iHzK8H9kLP6_eiwP-7Mq1Hb2kj48Wv9qFTcP9KfdnpRPA2bGP9ScQzNIuDXfARM07W90YgqPPNxE0f6abbuUsD1pCBGX1veJKVSycFL1nBfQNKiHYBBKNkRWjAgXn_X087oFM5iPBMaZxCgvq3J0-b4FXduLJeOOlEkd1wRl0kkbeKZcz4CJ0BLdtWT3cROLtjn15ymxYT8vZ1kD0mgSdQcbOhMOZCjA4t75h7iu10szDbtZUh7gnyN5Sh9AcpaU20UT3FDf402qVFwdY1zepNvf-cseAr_tF08VZoKVVH1z7VDHuVLlwsCZQDiFkPpQM6hgOLoduutHLVLUM237UUS7pJwAgSuYor-fAa_mdeeL71bq1yyR4YjKwltF7ox1bJ8ovHH2csKLfwdwnhIfRCNc8BnrUh3VUzJYc67Z0AY-HQslrJiojDvGzQ",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2827291,
+               "lng" : -123.1207375
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.31729388457754,
+                  "lng" : -123.0230679546923
+               },
+               "southwest" : {
+                  "lat" : 49.19817697810642,
+                  "lng" : -123.2247399916918
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+         "name" : "Vancouver",
+         "obfuscated_type" : [],
+         "photos" : [
+            {
+               "height" : 1512,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107034658720469274711\"\u003eMichelle Baysan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJJe6KLJNIR1Qn1N3Ph3wXa3mmtRMHGaL0h3bJkhhwvCYIoBNzgalQfpjdtPQ6T408GSRkP5d5J1gIyNB0PHjUZVbqUE-PCkKBZ0Pby8JGV0tzKxzDomyqAona-0Znr2mDZAFOSmwz7mh3fbn_Uu8CX1F6SMcJJtzjzJDdKYi2lRdQR",
+               "width" : 2688
+            }
+         ],
+         "place_id" : "ChIJs0-pQ_FzhlQRi_OBm-qWkbs",
+         "reference" : "ChIJs0-pQ_FzhlQRi_OBm-qWkbs",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.24042799999999,
+               "lng" : -123.056068
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2418193802915,
+                  "lng" : -123.0547425197085
+               },
+               "southwest" : {
+                  "lat" : 49.2391214197085,
+                  "lng" : -123.0574404802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "2400 Motel",
+         "obfuscated_type" : [],
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115422300499825222669\"\u003eLeonor Vazquez\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKQFoH97nv_BNfFJmfjVz6XOsz-zhA-Ho3ivc1NeUWl0B4K-q2v8ntV7tLVqUzrzcp3suzVWLErZ7VnhIPiX6jKSZ-2hNAGtroCmuoE2s5b8TpygSwoMRheI7oMHAexRvkWAdRUWrKqWF47QaajdaIciyO0bBDjDiZ8ap6K3zUxVCHR",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJP6YOhqN2hlQRIDrDKOjMBLM",
+         "plus_code" : {
+            "compound_code" : "6WRV+5H Vancouver, BC, Canada",
+            "global_code" : "84XR6WRV+5H"
+         },
+         "rating" : 2.9,
+         "reference" : "ChIJP6YOhqN2hlQRIDrDKOjMBLM",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 279,
+         "vicinity" : "2400 Kingsway, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.24498179999999,
+               "lng" : -123.0635746
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2461754302915,
+                  "lng" : -123.0624464197085
+               },
+               "southwest" : {
+                  "lat" : 49.2434774697085,
+                  "lng" : -123.0651443802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Days Inn by Wyndham Vancouver Metro",
+         "obfuscated_type" : [],
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115806403439357656536\"\u003eDays Inn by Wyndham Vancouver Metro\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJohPGkd_mzwwVjQU_5wlyb9S5jDsA4UGZ5s6hGpH--0O5ujOJRh3db0tN4ejnmsUhhki34kziLL6uIfWBGfqHntVcAqHms7O4rK3xdXz4TmJZAt-Z1u3ubTzHxsQh8JsoDuHRa3kH_6YAO36D_aG5FuKvAoAXQPcRzt3JZOS1s_E70",
+               "width" : 5760
+            }
+         ],
+         "place_id" : "ChIJm2J0WK92hlQRjUeg6JuWm00",
+         "plus_code" : {
+            "compound_code" : "6WVP+XH Vancouver, BC, Canada",
+            "global_code" : "84XR6WVP+XH"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJm2J0WK92hlQRjUeg6JuWm00",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 700,
+         "vicinity" : "2075 Kingsway, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.23598620000001,
+               "lng" : -123.0396179
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.23720918029149,
+                  "lng" : -123.0383247197085
+               },
+               "southwest" : {
+                  "lat" : 49.23451121970849,
+                  "lng" : -123.0410226802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Cassandra Hotel",
+         "obfuscated_type" : [],
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115062981890817948365\"\u003e吉达星\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJGBPXs46DO5EMMoedzZmyU-zTE0ybUMxCjTYXAC4RiV6vGQTD0oCz2BD-IVjBEzdglq4ced_ZdSI7n8yJdXLL3Rm29WUK0y62u5xvvcvcfX3Kf7_A23fcYVwsPDA4L0a9wnhv4ZEHPDYnxf6vTqF8m0E0OEcmyxpvNy6ApfLGWxjPt",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJsSecLZd2hlQRZxnfdhXmILY",
+         "plus_code" : {
+            "compound_code" : "6XP6+95 Vancouver, BC, Canada",
+            "global_code" : "84XR6XP6+95"
+         },
+         "rating" : 2.8,
+         "reference" : "ChIJsSecLZd2hlQRZxnfdhXmILY",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 298,
+         "vicinity" : "3075 Kingsway, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2274099,
+               "lng" : -123.0443906
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.22868233029151,
+                  "lng" : -123.0431840697085
+               },
+               "southwest" : {
+                  "lat" : 49.22598436970851,
+                  "lng" : -123.0458820302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Killarney Community Centre",
+         "obfuscated_type" : [],
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117273304257812030195\"\u003eRodrigo Coin Curvo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJnRt8Uf3NdlvbJmmYxyiozUAmNFD9JhsIAuPGeBP7nEkLzaExriNnRXmeKfu8ftU7TYFEc1KmjxvqSDV7mK8DbNxux_gjqM5qtzb51yZ1Ox_ts1wr-4lXgkLaz0FOKpCNcZmch2o6_EvOQK8D1WxurZMoJOJgpQAMUzsZMH6UYWW5I",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJlxeQ4oJ2hlQRgtJxfdNoGTM",
+         "plus_code" : {
+            "compound_code" : "6XG4+X6 Vancouver, BC, Canada",
+            "global_code" : "84XR6XG4+X6"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJlxeQ4oJ2hlQRgtJxfdNoGTM",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 598,
+         "vicinity" : "6260 Killarney Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2263354,
+               "lng" : -123.0660714
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2277844802915,
+                  "lng" : -123.0645580697085
+               },
+               "southwest" : {
+                  "lat" : 49.2250865197085,
+                  "lng" : -123.0672560302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Value Village",
+         "obfuscated_type" : [],
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108562155981338400754\"\u003eDave Nowak\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKb-lmAQiPePQKE42gT9dCsq82ohGUAi_hRfjqgJavSQa4sPxJZleP5IKhdphK6F4wJvFZl5-Y8ULnN8uOo7H0y2Umelz5XJPQRd46E1BvVHF6N4Ru57d_S5M9LrAycFsOyqEasDBi0U2Co-bdD9pM3yUOmsSJTi23Yqy7fdrbXie3g",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJgU3MYiR0hlQRV0q0Oe1qvHM",
+         "plus_code" : {
+            "compound_code" : "6WGM+GH Vancouver, BC, Canada",
+            "global_code" : "84XR6WGM+GH"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJgU3MYiR0hlQRV0q0Oe1qvHM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "book_store",
+            "point_of_interest",
+            "clothing_store",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1847,
+         "vicinity" : "6415 Victoria Drive, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2452942,
+               "lng" : -123.0504972
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2467291802915,
+                  "lng" : -123.0491493697085
+               },
+               "southwest" : {
+                  "lat" : 49.2440312197085,
+                  "lng" : -123.0518473302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Gordon's Guest House",
+         "obfuscated_type" : [],
+         "place_id" : "ChIJQ8CJprt2hlQRjYFuFW_NG2g",
+         "plus_code" : {
+            "compound_code" : "6WWX+4R Vancouver, BC, Canada",
+            "global_code" : "84XR6WWX+4R"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJQ8CJprt2hlQRjYFuFW_NG2g",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "2670 East 28th Avenue, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2495614,
+               "lng" : -123.0753751
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2509658802915,
+                  "lng" : -123.0739495697085
+               },
+               "southwest" : {
+                  "lat" : 49.2482679197085,
+                  "lng" : -123.0766475302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+         "name" : "Service Canada Centre",
+         "obfuscated_type" : [],
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101327568831911929780\"\u003ePaul Yeh\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKtDqDsC3WpXZe5UPA8o8R3oe1NoaclOD9pAFhTxfekItXJW9lGrI_3vP-9DKB0k0RyOt5ExD42v9D4TIyHJ1rUQDat-W6cs1mDyKfodn8utT_YScgnxh8pcXcCS0zNp70XtTtlLP5hrFBYlaS0onmUkjR-eMwmGXZtZ6YivzvcZaZJ",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJ_TJFWgd0hlQRYXZIn8oj0Yk",
+         "plus_code" : {
+            "compound_code" : "6WXF+RR Vancouver, BC, Canada",
+            "global_code" : "84XR6WXF+RR"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJ_TJFWgd0hlQRYXZIn8oj0Yk",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 48,
+         "vicinity" : "1420 Kingsway, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2501359,
+               "lng" : -123.0754256
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2513814302915,
+                  "lng" : -123.0741288697085
+               },
+               "southwest" : {
+                  "lat" : 49.2486834697085,
+                  "lng" : -123.0768268302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "name" : "CIBC Branch with ATM",
+         "obfuscated_type" : [],
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105228349541098182324\"\u003eGodwin C\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJAyLKe_sbqvT8gbFPPP-cGN30Wq1HTCByfcUOrYzHs86ANCuGA-8bCyOIcmTEQw8zw4YB6q_cUYLQEFDuOXfUmTy1FYQ4ZN0UpePDIzJ8o1VwKxZs6NhSMsCYhXsd_GTGMWkChWRZPF1hqxLDwHiczDQFSI315fJyeflLHMGB292LM",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJQ92VCat2hlQRnrb3JeiVAVA",
+         "plus_code" : {
+            "compound_code" : "7W2F+3R Vancouver, BC, Canada",
+            "global_code" : "84XR7W2F+3R"
+         },
+         "rating" : 3,
+         "reference" : "ChIJQ92VCat2hlQRnrb3JeiVAVA",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 31,
+         "vicinity" : "1427 Kingsway, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2256358,
+               "lng" : -123.0538608
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2268667302915,
+                  "lng" : -123.0525113697085
+               },
+               "southwest" : {
+                  "lat" : 49.2241687697085,
+                  "lng" : -123.0552093302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "88 Supermarket",
+         "obfuscated_type" : [],
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106875362524722189095\"\u003e88 Supermarket\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIl-QF4Q_QJl1k4tgsusCDF5udrJWeqVCceGT9y5En5lJB8HKX5QYOrtceazvpHQ2Nz32rn5g2I6ZuzPKWA0-RTi-QUDrAGRLgU6Cb4mgGPk4qvoWY_-Z_g7dtj9WPId0KnN5-bQQsfa6VksUm6oWM4lwSpWWUSh5x_fCYBSpf1n_q3",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJDVODgCh0hlQRBExJUi9OYwk",
+         "plus_code" : {
+            "compound_code" : "6WGW+7F Vancouver, BC, Canada",
+            "global_code" : "84XR6WGW+7F"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJDVODgCh0hlQRBExJUi9OYwk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 790,
+         "vicinity" : "2611 East 49th Avenue, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2343837,
+               "lng" : -123.0359774
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2356821302915,
+                  "lng" : -123.0346056197085
+               },
+               "southwest" : {
+                  "lat" : 49.2329841697085,
+                  "lng" : -123.0373035802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "name" : "CIBC Branch with ATM",
+         "obfuscated_type" : [],
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105228349541098182324\"\u003eGodwin C\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKCGBgtnBJD0doH4tVnCsuaGBGtyP-eqe1B2QfThKVqveEobMdRqYTTyOnmqBStuiCiwXuxs_mm4dnrtS2aXWxP8UBEFn5BpXpCtbtpDsuYRbk3cpZjMvom6EC_EkWC3TSzTtHzYOFv-QtFXGrXk9Jl5F3QkXmIEGLR6GhEl99_0RS0",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJgXfEYhBuhlQRYZTtHDYQhms",
+         "plus_code" : {
+            "compound_code" : "6XM7+QJ Vancouver, BC, Canada",
+            "global_code" : "84XR6XM7+QJ"
+         },
+         "rating" : 2,
+         "reference" : "ChIJgXfEYhBuhlQRYZTtHDYQhms",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 36,
+         "vicinity" : "3297 Kingsway, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.249391,
+               "lng" : -123.073637
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.25062923029149,
+                  "lng" : -123.0723275197085
+               },
+               "southwest" : {
+                  "lat" : 49.24793126970849,
+                  "lng" : -123.0750254802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Pink Peppercorn Seafood House",
+         "obfuscated_type" : [],
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105228349541098182324\"\u003eGodwin C\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJogN9sv_i_EOP3zhhICviAEztyamXaEEfn9Srx5zFWGTfA6_UsaaDPIa2TjHRRSog3ohUHSV3SZ1d7lC3TfLHzzMZIzxa1b5N97UDUt4F7MUNZspVfVaJpQKQh4xm-_1KB30F9JUnbFj0HuwjWFphf_eOqkJwZJjt5rtUb4tHDTAHp",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJN0Vkvat2hlQRLXcNcR39sbw",
+         "plus_code" : {
+            "compound_code" : "6WXG+QG Vancouver, BC, Canada",
+            "global_code" : "84XR6WXG+QG"
+         },
+         "price_level" : 3,
+         "rating" : 4.6,
+         "reference" : "ChIJN0Vkvat2hlQRLXcNcR39sbw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 380,
+         "vicinity" : "1485 Kingsway, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2468004,
+               "lng" : -123.0683098
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2480871802915,
+                  "lng" : -123.0670292197085
+               },
+               "southwest" : {
+                  "lat" : 49.2453892197085,
+                  "lng" : -123.0697271802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Subway",
+         "obfuscated_type" : [],
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105228349541098182324\"\u003eGodwin C\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIxt1EkX2pjQJI0aDXhkW2l7QmGEOk8LGWKsfOCukVBq5rbfy4KYSahpe3oG22KP8Xp4V4c4Nb7DKLSxBwCJzeUZfYzkUoXrf_X5snum0yZ0zBhhhHwvZ4u2ZwulESLQ-_yq-8V84gyOwEhT7d7W3gSNxgb1AQOJaF5w9fHiPfsfbMe",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJY92BLal2hlQR_ni-n6t_3zs",
+         "plus_code" : {
+            "compound_code" : "6WWJ+PM Vancouver, BC, Canada",
+            "global_code" : "84XR6WWJ+PM"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJY92BLal2hlQR_ni-n6t_3zs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 106,
+         "vicinity" : "1773 Kingsway, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2464307,
+               "lng" : -123.067375
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2476953802915,
+                  "lng" : -123.0661160697085
+               },
+               "southwest" : {
+                  "lat" : 49.2449974197085,
+                  "lng" : -123.0688140302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "OK Tire",
+         "obfuscated_type" : [],
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108405055823979220530\"\u003eOK Tire\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJA8bEhm4V5WqmWScSrpuLPguKin68LKAnnoOxHQqIir0jQcNt1xofDQgnffnxkBHUSC0dLJZZrW-qa40i17y8U6gkJjY0q1I3A82fev4Pg2jHysuJOr1Lm86kUnxVqx6PWlvWUVyj7XvUbas7PUcNoBHZ6Gh_3Ae2a8gT5eHeatUPA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJUzviKql2hlQR29K5ZPCSrAA",
+         "plus_code" : {
+            "compound_code" : "6WWM+H2 Vancouver, BC, Canada",
+            "global_code" : "84XR6WWM+H2"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJUzviKql2hlQR29K5ZPCSrAA",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 214,
+         "vicinity" : "1843 Kingsway, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.24573799999999,
+               "lng" : -123.065983
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.24704243029149,
+                  "lng" : -123.0646804697085
+               },
+               "southwest" : {
+                  "lat" : 49.24434446970849,
+                  "lng" : -123.0673784302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Green Lettuce",
+         "obfuscated_type" : [],
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105228349541098182324\"\u003eGodwin C\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLpPInwXh99--IhEjDqv97uPp_5AlQxSmDoFOq9q5HygP7gkOOgCxCrTVp_ujqDEy4bNrzo9qgdnIqpVg1CxGN-2pzOYUcgN3IvDawCMWSsH45r1x3SenRWGafETPTwLYA1k0SKTI1LcDFGLS7Yl2q1BRTPoBA_-aqTawkSKyw2bGzh",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJNxA_NK92hlQRo5P7Gmbc-1I",
+         "plus_code" : {
+            "compound_code" : "6WWM+7J Vancouver, BC, Canada",
+            "global_code" : "84XR6WWM+7J"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJNxA_NK92hlQRo5P7Gmbc-1I",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 937,
+         "vicinity" : "1949 Kingsway, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2332581,
+               "lng" : -123.0665659
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.23476103029149,
+                  "lng" : -123.0650681197085
+               },
+               "southwest" : {
+                  "lat" : 49.2320630697085,
+                  "lng" : -123.0677660802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "name" : "London Drugs",
+         "obfuscated_type" : [],
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 347,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110364028364228892269\"\u003eLondon Drugs\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLQabSVLJ0pi5rBHNUJXvTo9CoptcR6WHv2eGJdJKLkmhrmFU_M-FNNXJAqh4cqDIL0D_q0gcsQA2vwAkc3CGoVUYIRofbYTavQdRIO4uGeL9DOx6RCP39AgIKypdtyUScUBQDua2FnCV0uLzzAsK8DtQ8iRPcFiWXBVYCvPPfeufoq",
+               "width" : 617
+            }
+         ],
+         "place_id" : "ChIJ3VnkeB90hlQRJURvKDZZ9Cs",
+         "plus_code" : {
+            "compound_code" : "6WMM+89 Vancouver, BC, Canada",
+            "global_code" : "84XR6WMM+89"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJ3VnkeB90hlQRJURvKDZZ9Cs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "pharmacy",
+            "grocery_or_supermarket",
+            "electronics_store",
+            "home_goods_store",
+            "food",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 256,
+         "vicinity" : "5639 Victoria Drive, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2361564,
+               "lng" : -123.0650787
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.23745838029149,
+                  "lng" : -123.0639151697085
+               },
+               "southwest" : {
+                  "lat" : 49.2347604197085,
+                  "lng" : -123.0666131302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Golden Swan Restaurant",
+         "obfuscated_type" : [],
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105419016822842732152\"\u003eKC M\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL3ZLSuy0F0pUaMzkavzmoHLgZON1bGlGDM7vs13HBCtqHiNQlFic-ae8WTl4P_bULEYnvPzhSdmg8C0qjLewrOrrfZKJsL3EyovynS2sgizWqErLZNEWRsHqfMuf_Q3JlMzKDGxbmsZ1TniYgdxwo3Y7Uv3wjQkv6GkPwuaSuQDS0a",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJH2JAMh50hlQRJp-aHtMNvTg",
+         "plus_code" : {
+            "compound_code" : "6WPM+FX Vancouver, BC, Canada",
+            "global_code" : "84XR6WPM+FX"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJH2JAMh50hlQRJp-aHtMNvTg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 859,
+         "vicinity" : "5380 Victoria Drive, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.24445499999999,
+               "lng" : -123.0632667
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2457515802915,
+                  "lng" : -123.0620125697085
+               },
+               "southwest" : {
+                  "lat" : 49.2430536197085,
+                  "lng" : -123.0647105302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "High Sun Mattress & Furniture 高日床墊",
+         "obfuscated_type" : [],
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115650111550905290171\"\u003eScott Gardner\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL2EB_LiIMQbMoRvA42pueV9h8-p2xU3zk1-wN9CNtzY9uJWHvzRWh_TsWdfIETI9RToUrp0jCO35--fMBS3mv5xek1ppY2F52HTe6CezMNnqFg8pDlwWclcla2wqPXRmdiUyrCZd9tSXe35afR1EXeP_cwoDVFGBceF4dr-_2OqlMd",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJjfm266d1hlQRfTFqxZSZZbM",
+         "plus_code" : {
+            "compound_code" : "6WVP+QM Vancouver, BC, Canada",
+            "global_code" : "84XR6WVP+QM"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJjfm266d1hlQRfTFqxZSZZbM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "home_goods_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 126,
+         "vicinity" : "2111 Kingsway, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2362556,
+               "lng" : -123.0417111
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.23755913029149,
+                  "lng" : -123.0403645197085
+               },
+               "southwest" : {
+                  "lat" : 49.23486116970849,
+                  "lng" : -123.0430624802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Chili Pepper House",
+         "obfuscated_type" : [],
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107500805314127073762\"\u003eBrianne Stephenson\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJs71V5owMppEKDP0BmeuJDAT1c1v8tA6vYi23zlzClg-UB_XQBHpz069Q49_wkr-QNYnE9f8J_hddiPNljx9vPM3YKoHZ3si7HkUQF5qDaUsGijMAqes1Stez7U-xYBRUETOI3_1EFq7xhYYf8Hlhit_sg2YeVlwGsVVreZrBZ9TNn",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJvZZmQpd2hlQR4uFHqA3XZgU",
+         "plus_code" : {
+            "compound_code" : "6XP5+G8 Vancouver, BC, Canada",
+            "global_code" : "84XR6XP5+G8"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJvZZmQpd2hlQR4uFHqA3XZgU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1213,
+         "vicinity" : "3003 Kingsway #1, Vancouver"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2530487,
+               "lng" : -123.0663828
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.29413394901052,
+                  "lng" : -123.0230679546923
+               },
+               "southwest" : {
+                  "lat" : 49.20146902924883,
+                  "lng" : -123.1183487621209
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+         "name" : "East Vancouver",
+         "obfuscated_type" : [],
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103970862426801408396\"\u003eGiora Tzur Tenne\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLrXh5vx4hjl5XZVQcCt-oBG1ql1-_qapM_MEnrcbBK0ibqxRD92ecDtP_EzYfRrotwS8lKJR4DOXWgiopkYq65dZNpGKJDpm3kvsopQDo5UCHHRQkkmhMdubKn_1VM8EgJf7aKzX_8NimjGZcsWtfi-4T099stsFcbeVikRaT0X1_J",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJYfR5TV9xhlQRrFUa5caFrbg",
+         "reference" : "ChIJYfR5TV9xhlQRrFUa5caFrbg",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Vancouver"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,700 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5989453,
+               "lng" : -113.4433512
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.60029678029149,
+                  "lng" : -113.4420595197085
+               },
+               "southwest" : {
+                  "lat" : 53.5975988197085,
+                  "lng" : -113.4447574802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "9da3c568b6f5e8f1a02cc022fda65129ea9f7936",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117631300006285708317/photos\"\u003eShell\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_humr8XN5WfcUWsXQznVa_4-qrjPCt2emuLC7dKDaqpVSEjXyH77vtwM6vGWS5sB6dQGhi9irwzHy-vjmgwzUX6i2MkK0OAINRr5umKAh-6PVTc5WbBd7vgAsp3qJypHEhCNxWanxz7cwH9CffJFa8JcGhT7LR2c2W_IWWP4LKPmt2t_VrKxWQ",
+               "width" : 303
+            }
+         ],
+         "place_id" : "ChIJR9fNXU0joFMRnUaY4UbNvRA",
+         "plus_code" : {
+            "compound_code" : "HHX4+HM Edmonton, Alberta, Canada",
+            "global_code" : "9558HHX4+HM"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJR9fNXU0joFMRnUaY4UbNvRA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "convenience_store",
+            "car_wash",
+            "finance",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 33,
+         "vicinity" : "13610 66 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5846955,
+               "lng" : -113.4445694
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.58598023029149,
+                  "lng" : -113.4431403197085
+               },
+               "southwest" : {
+                  "lat" : 53.58328226970849,
+                  "lng" : -113.4458382802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "68b9b72e44d78afed36824df8e8c4618eb176862",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3144,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117729344498810696854/photos\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAr-sxdcJajg7H6CCNv6oAm4tZcxE6CHMNx1TzyL_XzxorFdKbSaSXKi1cDeUcs0xiT41w8qKFjMcS8MvDmYrPFRpGQpjPt1X4hkd5uCM_mLUEZdp5nYEs3B8IWNX8oCU_EhAXVQvL-vFQurbHiLmJIr1sGhQVjSNQ0pJUsXjjuVCPKZcwepbBNw",
+               "width" : 3144
+            }
+         ],
+         "place_id" : "ChIJu2BsCzcjoFMRKXwHksgTBRM",
+         "plus_code" : {
+            "compound_code" : "HHM4+V5 Edmonton, Alberta, Canada",
+            "global_code" : "9558HHM4+V5"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJu2BsCzcjoFMRKXwHksgTBRM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 13,
+         "vicinity" : "12654 Fort Road Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.59161049999999,
+               "lng" : -113.4435669
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.59295778029149,
+                  "lng" : -113.4419840197085
+               },
+               "southwest" : {
+                  "lat" : 53.59025981970849,
+                  "lng" : -113.4446819802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "abcf1be00d9a9f1b44bb0d4b7ea50eb07a3711ee",
+         "name" : "Circle K",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJCezQIzYjoFMRRHRUYQFm6Tk",
+         "plus_code" : {
+            "compound_code" : "HHR4+JH Edmonton, Alberta, Canada",
+            "global_code" : "9558HHR4+JH"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJCezQIzYjoFMRRHRUYQFm6Tk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "atm",
+            "meal_takeaway",
+            "finance",
+            "store",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 15,
+         "vicinity" : "13120 66 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.59766320000001,
+               "lng" : -113.4140542
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5990173302915,
+                  "lng" : -113.4124448697085
+               },
+               "southwest" : {
+                  "lat" : 53.5963193697085,
+                  "lng" : -113.4151428302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "72e8fa54b8d3d0178b4306028429492f734d3050",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3144,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108735077883723211511/photos\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcnp2NAnOKPcxkQjhdMOmCZJu5AOQTN1XOQ-GPBrhq1rh_boU83UjWq1LHIOeknPjyl6bFpfCMOO8fmNj6UQ3b5MXiKS-8VxX0016nqAsby0Vxr2nt_hRJHy4a6dvq4kNEhDNbNd46aNv_ucrSdcGDFTHGhTTmxWGIDp4bADriK66nZhKPrE37Q",
+               "width" : 3144
+            }
+         ],
+         "place_id" : "ChIJ7UsbF7k8oFMR74h_5RghnBs",
+         "plus_code" : {
+            "compound_code" : "HHXP+39 Edmonton, Alberta, Canada",
+            "global_code" : "9558HHXP+39"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ7UsbF7k8oFMR74h_5RghnBs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "13704 50 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6043588,
+               "lng" : -113.4125147
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6056000802915,
+                  "lng" : -113.4113228197085
+               },
+               "southwest" : {
+                  "lat" : 53.6029021197085,
+                  "lng" : -113.4140207802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "1c963a02e0eccd34a91e3c840b2855fbb7a5db8d",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104706992222916547251/photos\"\u003eRyan Fang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApEB1ufGW1j53_rmCdF7ld-NDIiEG1t_oTAC1KR03Mn_7my3IIH59BeUGJfVnmfb-yaZ1heKb_oKz1fNJ0WRMK2sujlW1QLAnB6ZVMSFH4_54erBV0e0mwfbaJlUMAjO-EhDxKDQ99xux8ovmJXHGXKm1GhSLzMqY0WWhpHs0YibZIgIbviNiyA",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJ7_HFppE8oFMR0fbZH1yIPy0",
+         "plus_code" : {
+            "compound_code" : "JH3P+PX Edmonton, Alberta, Canada",
+            "global_code" : "9558JH3P+PX"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ7_HFppE8oFMR0fbZH1yIPy0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "convenience_store",
+            "finance",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 32,
+         "vicinity" : "4810 142 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5989076,
+               "lng" : -113.4234228
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6002665802915,
+                  "lng" : -113.4221631197085
+               },
+               "southwest" : {
+                  "lat" : 53.5975686197085,
+                  "lng" : -113.4248610802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "7e8a23c23b8142d8b5a3604e094e28dce29536af",
+         "name" : "Pinoy Convenience Store Ltd (Soon to be under new management)",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106022139249838908171/photos\"\u003eChris K\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAFbL6RVttLu4XtmtWMf7Dcqf0gMqfKfK4i3g0wyJcc0piAvv4m590Fn6oPxLF5-lN-y_zGW0Ont54zsWZ0VEDDkSrn3HHWby3lCaHBSfw7ACTebjZn9oM_BrxaXlQ0z-yEhCo1VvINaTK03FW9F0zaJ3rGhQ3cBZ0965BhE6oPnTaRDRBr-UcUA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJYyGU6rY8oFMR-Mk1UVbvjTo",
+         "plus_code" : {
+            "compound_code" : "HHXG+HJ Edmonton, Alberta, Canada",
+            "global_code" : "9558HHXG+HJ"
+         },
+         "rating" : 2.3,
+         "reference" : "ChIJYyGU6rY8oFMR-Mk1UVbvjTo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 4,
+         "vicinity" : "13566 Fort Rd NW, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.58671619999999,
+               "lng" : -113.4067685
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.58800498029149,
+                  "lng" : -113.4055674697085
+               },
+               "southwest" : {
+                  "lat" : 53.58530701970849,
+                  "lng" : -113.4082654302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9203b24e12fecbeb299f66923c1f6a6d414c5b1a",
+         "name" : "Circle K",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111256053433039757761/photos\"\u003eAaron Craig\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAh9VTQajtJyP9AHauuuXbqotyXyGUip7n7xZnjGrBYmPBegFaVwG1QAY8vF5xIHUyEMDCYQjThdN-_XYLhU2tP21zJ1fLz8eglK-m4--UJkgK81RnxRlTFP1o6RUjioczEhCsxdI_975JHYMPp9USceQ0GhQZglIKmCO6jjMCV_6TCN5jyryBsg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJlXikBMU8oFMR2mnHBRD8Rlw",
+         "plus_code" : {
+            "compound_code" : "HHPV+M7 Edmonton, Alberta, Canada",
+            "global_code" : "9558HHPV+M7"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJlXikBMU8oFMR2mnHBRD8Rlw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "atm",
+            "meal_takeaway",
+            "finance",
+            "store",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 10,
+         "vicinity" : "600 Hermitage Road Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5955593,
+               "lng" : -113.4432613
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5969081802915,
+                  "lng" : -113.4418324197085
+               },
+               "southwest" : {
+                  "lat" : 53.5942102197085,
+                  "lng" : -113.4445303802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "93bf60a87519cff302a657fce6c132078b2964bd",
+         "name" : "One Minute Foods",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 750,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107527903001981947826/photos\"\u003eOne Minute Foods\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbY9bZi5cYArnl2Dsn7iSAHiuk-3pXhUhguXe0txBnuPf33PNQ5Rkn6xvrf_GN8yNIUSu9kByEK_xIcwsWfv3A74WVGFh8Zx0BYxOM59m0vBh8hJorpUsi002hWKHRiE_EhCEOVCDH67B9kg03TQ1oZi7GhT7ZtNQLiLu3KlDPfWapNOGAMVosA",
+               "width" : 748
+            }
+         ],
+         "place_id" : "ChIJmU44WUwjoFMRv1MsYwwfRa0",
+         "plus_code" : {
+            "compound_code" : "HHW4+6M Edmonton, Alberta, Canada",
+            "global_code" : "9558HHW4+6M"
+         },
+         "rating" : 4,
+         "reference" : "ChIJmU44WUwjoFMRv1MsYwwfRa0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 13,
+         "vicinity" : "13402 66 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.58714579999999,
+               "lng" : -113.4424688
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5884947802915,
+                  "lng" : -113.4413510697085
+               },
+               "southwest" : {
+                  "lat" : 53.5857968197085,
+                  "lng" : -113.4440490302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "645ac6ce1a93ad145c59c73ed559ce9468ea982d",
+         "name" : "Merkato Convenience Store",
+         "place_id" : "ChIJXcRrOzYjoFMRq-koZpXXOz0",
+         "plus_code" : {
+            "compound_code" : "HHP5+V2 Edmonton, Alberta, Canada",
+            "global_code" : "9558HHP5+V2"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJXcRrOzYjoFMRq-koZpXXOz0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "12833 66 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.58906079999999,
+               "lng" : -113.4189641
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.59047173029149,
+                  "lng" : -113.4176165697085
+               },
+               "southwest" : {
+                  "lat" : 53.58777376970849,
+                  "lng" : -113.4203145302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b418e7806c951fa56369fadee4921a2e70362080",
+         "name" : "Corner Store",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJqSo5Gsk8oFMR_0PYq_oQ5lg",
+         "plus_code" : {
+            "compound_code" : "HHQJ+JC Edmonton, Alberta, Canada",
+            "global_code" : "9558HHQJ+JC"
+         },
+         "reference" : "ChIJqSo5Gsk8oFMR_0PYq_oQ5lg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5862558,
+               "lng" : -113.4425882
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.58760478029149,
+                  "lng" : -113.4414106197085
+               },
+               "southwest" : {
+                  "lat" : 53.5849068197085,
+                  "lng" : -113.4441085802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "1ef496fa49f44a779c2f4c4f7073dc0a68f4fb2e",
+         "name" : "Lucky Lucky Food Store",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110570304679441958930/photos\"\u003eClinton Kirk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcY2m6ONyyrGFvJYUhbNKaGDKhUkmqgPtRSeAlUrS6fgMCfIPAR-5fntlpUSd_7Tl5wzdQ_PkMz7NaJwGMDZWGTIsY94YNCCOrPW3mlk-ULQwMgiuJFXeKPXU_V-EpOYJEhADpSYi6MNTXc1OFNXdudlkGhSIS0LzadD-ABUkPA81rMHOnaZnaQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJl9TiSDYjoFMRrWbFFGe3sm0",
+         "plus_code" : {
+            "compound_code" : "HHP4+GX Edmonton, Alberta, Canada",
+            "global_code" : "9558HHP4+GX"
+         },
+         "rating" : 2.2,
+         "reference" : "ChIJl9TiSDYjoFMRrWbFFGe3sm0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 6,
+         "vicinity" : "12805 66 St NW, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.591939,
+               "lng" : -113.45197
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5933869302915,
+                  "lng" : -113.4507262697085
+               },
+               "southwest" : {
+                  "lat" : 53.5906889697085,
+                  "lng" : -113.4534242302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "175ce025206c08eff0611e211d565831eac622ce",
+         "name" : "99 Convenience Food Store",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108431899869488721742/photos\"\u003eJonathan Sicoli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAa_vPo5hy_EwO_oWcUeb3UTY7jShLleBq8MKn_o67Uc95I6jtyL_kUqZoCJMTHvPPhPlpGpfUZ4eKK4V_NP9Hj1A1NGJyzFTg4W3wmu2FxzAbL9wJNVtp-hxJqKadsGd7EhDVx_mnspfJq_APo6fcuOZlGhQ-QpUVGOZpHSDUDOnPBPgy8sZiTw",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJITEWSk8joFMRqvf8iqRyeI4",
+         "plus_code" : {
+            "compound_code" : "HGRX+Q6 Edmonton, Alberta, Canada",
+            "global_code" : "9558HGRX+Q6"
+         },
+         "rating" : 5,
+         "reference" : "ChIJITEWSk8joFMRqvf8iqRyeI4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 6,
+         "vicinity" : "7121 132 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5851881,
+               "lng" : -113.4059054
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5866327802915,
+                  "lng" : -113.4044114197085
+               },
+               "southwest" : {
+                  "lat" : 53.5839348197085,
+                  "lng" : -113.4071093802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "cddae16d9ae636f9fe66810126b8bc0ed8b4485b",
+         "name" : "Super Mart",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116559241796319979118/photos\"\u003eAsif Hossain\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZxxV4MeOdueQIUmrzJADlQmwi2qj1pDo9Q0L1xSDZgluUyTcXp-xGAFg1Jegdxvd1qPpTvWcZKJo5oOitfF45YuPzD0EAnY6huMGdzeTti3JiqbtRdN9SFzT4aV1PkdnEhBRw1NyG0RiS5DsWeFxSezDGhTq2lbWI-3fooNKoPWBKTA1BPg87A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ-0pwIcU8oFMRmGNPCMpW-dk",
+         "plus_code" : {
+            "compound_code" : "HHPV+3J Edmonton, Alberta, Canada",
+            "global_code" : "9558HHPV+3J"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJ-0pwIcU8oFMRmGNPCMpW-dk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 7,
+         "vicinity" : "617 Hermitage Road Nw, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.606325,
+               "lng" : -113.451762
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6075746802915,
+                  "lng" : -113.4504736197085
+               },
+               "southwest" : {
+                  "lat" : 53.6048767197085,
+                  "lng" : -113.4531715802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "55ad3aaee41e2346f877bbf5098d2b6a2c333603",
+         "name" : "Sunshine Food Store",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104716847821936485754/photos\"\u003eAhmed Sahal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAHWfpv_EaMYmasNArN28_xBEYZmLZwvF6yiRGKDrj0NNVjB2RmlN6uo0qBEKR__vf_uyb0vyOwSpSfxuANcAfvOBdozmSo37oda4pSAupZSnpdU-ypXxHJCWhwr4ZcabaEhBeIc9P4xb9U4NvmFr75xYNGhRvSXg_SBTnHR0mRmhIhrSzB8mnZQ",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJ0d6w5FQjoFMR3Zybu7wsWq4",
+         "plus_code" : {
+            "compound_code" : "JG4X+G7 Edmonton, Alberta, Canada",
+            "global_code" : "9558JG4X+G7"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ0d6w5FQjoFMR3Zybu7wsWq4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 12,
+         "vicinity" : "7206 144 Avenue Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

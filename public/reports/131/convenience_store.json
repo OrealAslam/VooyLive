@@ -1,0 +1,190 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.74485639999999,
+               "lng" : -79.4055407
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.74595013029149,
+                  "lng" : -79.4043938697085
+               },
+               "southwest" : {
+                  "lat" : 43.74325216970849,
+                  "lng" : -79.40709183029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e702906b5460b329df221a38e8b4ae88a7053256",
+         "name" : "Gateway Newstands",
+         "place_id" : "ChIJs51WppcyK4gRsng1EekHuQ4",
+         "plus_code" : {
+            "compound_code" : "PHVV+WQ Toronto, Ontario, Canada",
+            "global_code" : "87M2PHVV+WQ"
+         },
+         "reference" : "ChIJs51WppcyK4gRsng1EekHuQ4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "20 York Mills Road, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7438339,
+               "lng" : -79.4060265
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.74523608029151,
+                  "lng" : -79.40469531970849
+               },
+               "southwest" : {
+                  "lat" : 43.74253811970851,
+                  "lng" : -79.4073932802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "389e82b3c54196e379e26d2c70e67562dad1d44c",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1518,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114842505477372159901/photos\"\u003eChen Shaowei\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALL_Lk5crkyRu5Z350Ne5Le7pgV_neJ3f3p2iMLYrCZ9bo3Ejch1Ngvsg3xmNUwBAkSjIwjb6o-B0DSD4-eJhUuvrc5vbcwoA_ngjJ1Y97hTphMJ1LtCFWTc7RoX4tLUEEhBkAKciUSd8Yv05SEZNStyTGhQCosGkUNJPZK5veuL_7GrFr674Eg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJZfwJ5ZYyK4gRgW8FBqWz6ds",
+         "plus_code" : {
+            "compound_code" : "PHVV+GH Toronto, Ontario, Canada",
+            "global_code" : "87M2PHVV+GH"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJZfwJ5ZYyK4gRgW8FBqWz6ds",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "convenience_store",
+            "car_wash",
+            "finance",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 86,
+         "vicinity" : "4021 Yonge Street, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7512725,
+               "lng" : -79.4010471
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7525427302915,
+                  "lng" : -79.3999055197085
+               },
+               "southwest" : {
+                  "lat" : 43.7498447697085,
+                  "lng" : -79.4026034802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "32da1af20c06a1f2ca8cbc73d1e5cfc2337d92c7",
+         "name" : "KFF Market",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJyWZB8aEyK4gRHM6rdG5VSU0",
+         "plus_code" : {
+            "compound_code" : "QH2X+GH Toronto, Ontario, Canada",
+            "global_code" : "87M2QH2X+GH"
+         },
+         "rating" : 2.3,
+         "reference" : "ChIJyWZB8aEyK4gRHM6rdG5VSU0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 4,
+         "vicinity" : "33 The Links Road, North York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7603354,
+               "lng" : -79.3925282
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7616843802915,
+                  "lng" : -79.39117921970849
+               },
+               "southwest" : {
+                  "lat" : 43.7589864197085,
+                  "lng" : -79.39387718029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "13ea796fd73b7eb413f5222d1f8adf0d3236e99c",
+         "name" : "Edward Tuck Shop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116404262608602393031/photos\"\u003eHeayoung Byun\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqj29ljGnsfXSzsvI4UxyWLbQzRyKkMM1Yl7B01yI0QWNQrtOIB3rY2AZ8Z44tBCjlFra-ydIKFBY84u35joxIGws_XPRN9VipCySnTAW8Z41F0DmP6pVmTdKBEgqlebZEhDBEYuLreQclm1_oLMafz8PGhQ7XtAusau4ALj7LlrBfgsPIjlwkQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJpfvxn1AtK4gRzetGqO2O_a4",
+         "plus_code" : {
+            "compound_code" : "QJ64+4X Toronto, Ontario, Canada",
+            "global_code" : "87M2QJ64+4X"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJpfvxn1AtK4gRzetGqO2O_a4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 8,
+         "vicinity" : "14 Carluke Crescent, Basement (in front of the Pinedale Management Office), North York"
+      }
+   ],
+   "status" : "OK"
+}

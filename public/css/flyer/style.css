@@ -1,0 +1,374 @@
+.font-raleway {
+    font-family: Raleway;
+}
+
+
+
+  .color1 {
+    color: #de082d;
+  }
+  .color2 {
+    color: #39549f;
+  }
+  .color3 {
+    color: #ffffff;
+  }
+  .color4 {
+    color: #000000;
+  }
+  .background1 {
+    background: #39549f;
+  }
+  .background2 {
+    background: #de082d;
+  }
+  .background3 {
+    background: #0961a9;
+  }
+
+.flyer {
+    /*background: lightgray;*/
+    /*padding: 10px;*/
+}
+.flyer .container {
+    /*border: #000000 solid 2px;*/
+}
+.flyer .margin5 {
+    margin: 5px 0 5px 0 !important;
+}
+.flyer .margin10 {
+    margin: 10px 0 10px 0 !important;
+}
+.flyer .margin15 {
+    margin: 15px 0 15px 0 !important;
+}
+
+
+.flyer hr.style1{
+    margin: 0;
+    border-top: 4px solid #39549f;
+}
+
+.flyer hr.style2{
+    margin: 0;
+    border-top: 4px solid #de082d;
+}
+.flyer hr.style3{
+    margin: 0;
+    border-top: 6px solid #39549f;
+}
+.flyer hr.style4{
+    margin: 0;
+    border-top: 6px solid #de082d;
+}
+
+
+.flyer .client-logo{
+    /*height: 122px;*/
+    max-height: 122px;
+    
+}
+.flyer .client-logo img{
+    /*height: 122px;*/
+    max-height: 122px;
+}
+
+
+.flyer .welcome-text {
+    margin-right: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    /*margin-top: 35px;*/
+    /*margin-top: 3%;*/
+}
+
+.flyer .address1 {
+    font-size: 70px;
+    height: 70px;
+    font-weight: bold;
+    line-height: 1em;
+    margin-top: 20px;
+    width: inherit;
+    /*overflow: hidden;*/
+}
+.flyer .address2 {
+    font-size: 40px;
+    height: 40px;
+    font-weight: bold;
+    line-height: 1em;
+    margin-top: 5px;
+    width: inherit;
+    /*overflow: hidden;*/
+
+}
+.flyer .list-price {
+    font-size: 40px;
+    height: 40px;
+    font-weight: bold;
+    line-height: 1em;
+    margin-top: 5px;
+    width: inherit;
+    /*overflow: hidden;*/
+}
+
+.flyer .big-image img{
+    width: 100%;
+}
+
+
+.flyer .three-images-img1 img {
+    width: 100%;
+    height: 265px;
+    padding-right: 20px;
+}
+.flyer .three-images-img2 img {
+    width: 100%;
+    height: 265px;
+    padding: 0 10px 0 10px;
+}
+.flyer .three-images-img3 img {
+    width: 100%;
+    height: 265px;
+    padding-left: 20px;
+}
+
+
+
+.flyer .page2-section1 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display:         flex;
+    flex-wrap: wrap;
+}
+
+.flyer .page2-section1 > [class*='col-'] {
+    display: flex;
+    flex-direction: column;
+}
+
+.flyer .page2-section1 .div1 {
+    /*padding-right: 0;*/
+}
+.flyer .page2-section1 .div2 {
+    /*
+    padding-left: 0;
+    padding-right: 0;
+    */
+}
+
+.flyer .page2-section1 .two-images-img1 img {
+    height: 273px;
+    width: 100%;
+}
+.flyer .page2-section1 .two-images-img2 img {
+    height: 273px;
+    width: 100%;
+}
+.flyer .page2-section1 .property-info {
+    font-size: 32px;
+    line-height: 1.3em;
+    padding: 10px;
+    /*width: 272px;*/
+}
+.flyer .page2-section1 .property-info .property-info-text{
+    height: 253px;
+}
+
+
+.flyer .for-sale {
+    font-size: 70px;
+    padding: 80px 20px;
+    line-height: 1em;
+    font-weight: bold;
+}
+.flyer .verticle-image {
+
+}
+.flyer .for-more-info {
+    font-size: 15px;
+    height: 300px;
+    position: relative;
+}
+
+.flyer .client-image img{
+    width: 100px;
+    max-height:150px;
+    margin: auto;
+}
+
+.flyer .more-info {
+    margin-top: 10px;
+}
+.flyer .more-info p{
+    margin: 0;
+    line-height: 1.2em;
+    text-align: center;
+    font-size: 18px;
+}
+.flyer .more-info p.email{
+    font-size: 16px;
+}
+
+.flyer .to-order-container {
+    position: absolute;
+    bottom: 0;
+    left: 54px;
+}
+.flyer .to-order p {
+    text-align: center;
+    font-size: 10px;
+    line-height: 1em;
+    margin: 0;
+}
+
+.flyer .img8 img {
+    width: 100%;
+    height: 300px;
+}
+.flyer .img9 img {
+    width: 100%;
+    height: 300px;
+}
+
+.flyer .home-detail-container {
+    padding-left: 20px;
+    /*background: gray;*/
+}
+
+.flyer .home-details {
+    font-size: 40px;
+    font-weight: bold;
+    /*margin-left: 20px;*/
+}
+.flyer .overview {
+    float: left;
+    font-weight: bold;
+    font-size: 23px;
+    padding: 5px 10px 10px 10px;
+    line-height: 1em;
+}
+.flyer .overview-text {
+    float: left;
+    padding: 5px 0px 5px 20px;
+    font-size: 22px;
+    text-align: justify;
+    font-weight: bold;
+    height: 365px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.flyer .features {
+    float: left;
+    font-weight: bold;
+    font-size: 23px;
+    padding: 5px 10px 10px 10px;
+    line-height: 1em;
+}
+.flyer .features-text {
+    float: left;
+    padding: 5px 0px 5px 20px;
+    font-size: 22px;
+    text-align: justify;
+    font-weight: bold;
+    height: 340px;
+    width: 100%;
+}
+
+.flyer .footer {
+    line-height: 1.3em;
+    text-align: justify;
+}
+
+
+.flyer .text-editable .options,
+.flyer .image-editable .options {
+    display: none;
+}
+/*
+.flyer .text-editable div.content:empty:before {
+  content:attr(data-placeholder) !important;
+  color:gray
+}
+*/
+.flyer .text-editable div.content:empty:not(:focus)::before{
+    content:attr(data-placeholder);
+    color:gray;
+}
+
+
+@media screen and (max-width: 767px) {
+    .flyer .client-logo img {
+        margin: auto;
+    }
+    .flyer .welcome-text {
+        height: auto;
+        font-size: 16px;
+    }
+    .flyer .address1 {
+        font-size: 4rem;
+        height: auto;
+    }
+    .flyer .address2 {
+        font-size: 3rem;
+        height: auto;
+    }
+    .flyer .list-price {
+        font-size: 3rem;
+        height: auto;
+        text-align: left;
+    }
+    .flyer .three-images-img1 img {
+        padding: 0;
+        margin: 10px 0;
+    }
+    .flyer .three-images-img2 img {
+        padding: 0;
+        margin: 10px 0;
+    }
+    .flyer .three-images-img3 img {
+        padding: 0;
+        margin: 10px 0;
+    }
+    .flyer .page2-section1 .two-images-img1 img {
+        margin: 10px 0;
+    }
+    .flyer .page2-section1 .two-images-img2 img {
+        margin: 10px 0;
+    }
+    .flyer .page2-section1 .property-info {
+        margin: 10px 0;
+    }
+    .flyer .page2-section1 .property-info .property-info-text {
+        height: auto;
+    }
+    .flyer .verticle-image img{
+        width: 100%;
+        margin: 10px 0;
+    }
+    .flyer .home-detail-container {
+        padding-left: 0;
+    }
+    .flyer .overview-text {
+        padding-left: 0;
+        height: auto;
+    }
+    .flyer .features-text {
+        padding-left: 0;
+        height: auto;
+    }
+    .flyer .more-info p {
+        font-size: 15px;
+    }
+    .flyer .to-order-container {
+        left: 0;
+        width: 100%;
+    }
+    .flyer .img8 img {
+        margin: 10px 0;
+    }
+    .flyer .img9 img {
+        margin: 10px 0;
+    }
+}

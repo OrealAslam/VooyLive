@@ -1,0 +1,936 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwIIOu0WhnH5dmk9rIDQ1f7kyU5wdiy3ecYxW7RGeBAEoMt4rXooTOO_rUUCKKdDdUac-2oHk3uJ8BHVXrL83KvPeiFZOU4aKoadaK7gnucqM_TRbSnxgs6Gv-WnrsyHai3gs6iDitz4JiO3KCB6UepQpgOFqlVbQ3SqqPJF8TYW66ffXFvkgm8a5lUny2oCOzgUMi8RL13xkZT02uWtRNSUtqB_dzCeoF8OQU5wLCStfmiRz0rOzQb1Zr0QUyhITitCZC3hoe8nDi7_Q2Fhns0A5qKk6X4CqG8uGCHQg4KcTxkqYmC626FT1YdyD4px3bIcF2ueADFThAcXsyZk6O-C1TuubLLTINueo3Yup79iSw5YVcJAmAHOEiK4BfzbgR7rn20Ti8_T8XNBaVn5y6cKGm6Tt0TMZwC8qA8fSOfSUxGiGZxMML3nBsNmESR6zbQxdFDjSNP24NK3hivawnMnXqABXKneLpHGc8W-ILmhuYzP2BIenH4fn0BjsjUCVR69Agr1Nm8IiGb8JA81SnzL3_7ZVVn3b-0D05K5tlU3NT24MxhA-SBPzZFmNyJEQxKJckZ6qY8m1HiV0C9iETyhqWZEVZH2dpDSg7TDXKYKflAkRpkMHIMQ7ele9J0_kRgim5hPFnAQq3oxzkhi__jLALEiOP8mLmdf563uki-uERLUQ2JmYbtRlSlsEBY8wGAiQoXjuSnZluKG7mfRk1LJiMyO7RSDTMkh5ukGET26SZ8oKY4_lpOpHo4wnWofmH9lRiZPNV06hLF7khNnUIpTvKqF_OmLHY1g",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5551369,
+               "lng" : -113.6161769
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5564886302915,
+                  "lng" : -113.6147047697085
+               },
+               "southwest" : {
+                  "lat" : 53.5537906697085,
+                  "lng" : -113.6174027302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114690282647118003909\"\u003eIrvin Bautista\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ2A-5xNYYZw7ZdS9G1x6bBzINS-SMMxVyeE1pu7y66CubK2IdP4htIBz1n4aKQC7rw_mI0MlTkBrf5AVJBdsqglZauMdCguJ1z65GnyLAny5eYQ2cwk9NMMNtxILLqmo2XToJBmBlrCOzNtCU_sRW7hqUlz9NSafjztZAU8_BYodd_",
+               "width" : 3036
+            }
+         ],
+         "place_id" : "ChIJgRyWsyMhoFMRSxAx1JwWpR8",
+         "plus_code" : {
+            "compound_code" : "H94M+3G Edmonton, AB, Canada",
+            "global_code" : "9558H94M+3G"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJgRyWsyMhoFMRSxAx1JwWpR8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 316,
+         "vicinity" : "10862 170 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.553602,
+               "lng" : -113.613619
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5547971802915,
+                  "lng" : -113.6122769197085
+               },
+               "southwest" : {
+                  "lat" : 53.5520992197085,
+                  "lng" : -113.6149748802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Fatburger Westlink",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101993732348749044036\"\u003eTim Keddie\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ9guipFCy7pgduSncMV2G5xlKGZ5x8aFQsr2Ml03IE6zBAUvPvjftpMLCTSwbPxmbDY-zCkrOhI6SgLTWsKKyW0cm3FubZloq0LuFJR78yiYZlGMgsU9PHX7Dbc4WzIkmDLmvhmmpTyIdYdHk3AKkYadG0mqgmoRDPOh4FvICwf5Gb",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJfz4nbCIhoFMRca_CdjbMM_8",
+         "plus_code" : {
+            "compound_code" : "H93P+CH Edmonton, AB, Canada",
+            "global_code" : "9558H93P+CH"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJfz4nbCIhoFMRca_CdjbMM_8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 560,
+         "vicinity" : "16952 107 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5549747,
+               "lng" : -113.6072447
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5562872302915,
+                  "lng" : -113.6057217697085
+               },
+               "southwest" : {
+                  "lat" : 53.5535892697085,
+                  "lng" : -113.6084197302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Stages Kitchen & Bar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2904,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110586590584050220606\"\u003eTannis Matthews\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJQiYHf1Zas7C9Ag9DlfvPaY9kMAgGAiQfhPRx09VrdWxCx_fhTm2nrd_rBKvxmLHbVMW11myexLfXVz4sYS7DczEoIDluSunXqfO47SYBFaNiY2aOH9iYV050_XnPVySpg_1hlzs5tgfgeeSLu6WYFgVZGfg-TPU5VnI255YgWZ9E0",
+               "width" : 2998
+            }
+         ],
+         "place_id" : "ChIJFyj-Mz0hoFMR3is0QTbpQe8",
+         "plus_code" : {
+            "compound_code" : "H93V+X4 Edmonton, AB, Canada",
+            "global_code" : "9558H93V+X4"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJFyj-Mz0hoFMR3is0QTbpQe8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "bar", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 43,
+         "vicinity" : "16615 109 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.57125419999999,
+               "lng" : -113.6132243
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.57224703029149,
+                  "lng" : -113.6118776697085
+               },
+               "southwest" : {
+                  "lat" : 53.56954906970849,
+                  "lng" : -113.6145756302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "West Edmonton Truckland Ltd",
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113395130516359573260\"\u003eAlex Nagy\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKlPo_5iog0KRCMKkOBJalZAdbyNJ7cW2BBxrNPE4GqnC5aWs_JRWaU7oR26bj8G5897yQNMgX8O-tayUbQGwOxbT8MfyEgxqS7y1sNkv-2dhrfmmVx7kLOeUw0ruz1aWO142ol1hbiMSH_JzQAnpU5YjMA6RXZoqaHVFcc7C7ZtGWs",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJiXfDGDQhoFMRehR_Gj75DHs",
+         "plus_code" : {
+            "compound_code" : "H9CP+GP Edmonton, AB, Canada",
+            "global_code" : "9558H9CP+GP"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJiXfDGDQhoFMRehR_Gj75DHs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 10,
+         "vicinity" : "16806 118 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5562757,
+               "lng" : -113.6060558
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5575648302915,
+                  "lng" : -113.6047821197085
+               },
+               "southwest" : {
+                  "lat" : 53.5548668697085,
+                  "lng" : -113.6074800802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Rockin' Robyn's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2848,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108972812793722558120\"\u003eRockin&#39; Robyn&#39;s\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLUstToabhlW5jjbEzhrmu0jut7SWjkml_99bcKLKbNqBZO688vVazwMVL42JuR9Dk4WMW-Fa4XcUajsA0QC0ovXTM4n4C1wT4lSVwsL7wi80nq9LC9ipdAN34AFEs5zQz4XfFB06yf66NngpnGUWQdJUnngT3EraTKDvjUPvXAV6wh",
+               "width" : 4272
+            }
+         ],
+         "place_id" : "ChIJf7bVBz0hoFMRr4ur21ZiDXA",
+         "plus_code" : {
+            "compound_code" : "H94V+GH Edmonton, AB, Canada",
+            "global_code" : "9558H94V+GH"
+         },
+         "price_level" : 1,
+         "rating" : 4.6,
+         "reference" : "ChIJf7bVBz0hoFMRr4ur21ZiDXA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1248,
+         "vicinity" : "16604 109 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5535556,
+               "lng" : -113.6127037
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5547406302915,
+                  "lng" : -113.6114534697085
+               },
+               "southwest" : {
+                  "lat" : 53.5520426697085,
+                  "lng" : -113.6141514302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "MyFries",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 5344,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109021079158202339565\"\u003eMyFries\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKxg6TMwwzLsd0Hhzv5r66lF0Lr2mqhm9aDaP79D7Wupb8yHc7bVI4hhk3pptTMrhfe9l9GJdnrTsFigJpAs4aLRABez8MEua0ED7EOYZCUmwPvPv_Oil29UfeAgHTGtLylSpBTF4kQhQIzagJhddsiNKJda6mjS8dNkZB3DDErDZk-",
+               "width" : 4008
+            }
+         ],
+         "place_id" : "ChIJFVs6ZSIhoFMRinkfYfIkyoQ",
+         "plus_code" : {
+            "compound_code" : "H93P+CW Edmonton, AB, Canada",
+            "global_code" : "9558H93P+CW"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJFVs6ZSIhoFMRinkfYfIkyoQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 500,
+         "vicinity" : "16934 107 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.55446800000001,
+               "lng" : -113.6164159
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5558715302915,
+                  "lng" : -113.6150681197085
+               },
+               "southwest" : {
+                  "lat" : 53.55317356970851,
+                  "lng" : -113.6177660802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Dim Sum Delight Chinese Cuisine",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3144,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115061882970047028788\"\u003eDim Sum Delight Chinese Cuisine\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKJi9WUreXGlOrXb1kQki8kduMOjQO7b5PbAcVYU3vjK7tSCeehChht81oayrZCxwoX4lss3HpKcq3Fa2O43KXds8-ek1kQTKHt1T2mF45CObER5VA5LKN1kzfAVc-Xnx4wy_VtAAzZ4SAoQsNi2rIXVZktlhRFmobKzNBAQJ_0FhZM",
+               "width" : 4192
+            }
+         ],
+         "place_id" : "ChIJrSHGQ34hoFMRsQQ2OclvDEY",
+         "plus_code" : {
+            "compound_code" : "H93M+QC Edmonton, AB, Canada",
+            "global_code" : "9558H93M+QC"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJrSHGQ34hoFMRsQQ2OclvDEY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 180,
+         "vicinity" : "10812 170 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.55435749999999,
+               "lng" : -113.616071
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.55570608029149,
+                  "lng" : -113.6146405697085
+               },
+               "southwest" : {
+                  "lat" : 53.55300811970849,
+                  "lng" : -113.6173385302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Manila Grill Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3376,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104951052737551185948\"\u003eCraig Boone\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLaQYQ5Of-flBcqXwPuppE9Kymj6I1sjZmygjj8DEKF3rUTFdZXwzHZp0TG1qG4VPgeOE8w1GIOKrOjarMNvIJooYZpf-fZayqN0sHmGqA1vSTbz-Dd9gaxM_9sh8woPh4QUjsixVPBcg2xrCoEyeJKKP33Pv91S_8nC5mQ8asD_izd",
+               "width" : 5984
+            }
+         ],
+         "place_id" : "ChIJ31KTNiIhoFMRKWsVQ68mWKI",
+         "plus_code" : {
+            "compound_code" : "H93M+PH Edmonton, AB, Canada",
+            "global_code" : "9558H93M+PH"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ31KTNiIhoFMRKWsVQ68mWKI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 236,
+         "vicinity" : "10804 170 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.55465299999999,
+               "lng" : -113.614501
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.55600283029149,
+                  "lng" : -113.6129874197085
+               },
+               "southwest" : {
+                  "lat" : 53.55330486970849,
+                  "lng" : -113.6156853802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "IHOP",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5472,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112722401375725694589\"\u003eGerald Gambler\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI-8vlvpipu_iB5xnCZZU4NS2MviTm-laeKuG7-eynoWROQT8LnpO3Y7_L1IYzp1mCNf41mwq5nNAV7TK1hHrz1Ga8b4PK-YqTV69uJfMSYrXBmQaz8cWy15_ViLnyL48Cc1Gkt_dl6-Cz5ecuak-BgaPyapBaK5C9RJ3AFKvf47E4r",
+               "width" : 7296
+            }
+         ],
+         "place_id" : "ChIJ2-vw8F0koFMRAxWX_o4I3nw",
+         "plus_code" : {
+            "compound_code" : "H93P+V5 Edmonton, AB, Canada",
+            "global_code" : "9558H93P+V5"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ2-vw8F0koFMRAxWX_o4I3nw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1482,
+         "vicinity" : "10803 170 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.553569,
+               "lng" : -113.6160927
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5549101302915,
+                  "lng" : -113.6146618197085
+               },
+               "southwest" : {
+                  "lat" : 53.5522121697085,
+                  "lng" : -113.6173597802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Swiss Chalet",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102294897889862743998\"\u003eSwiss Chalet\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKvcHTV8lXI-W8JAsTPMQqVdwIxWizQiutI8p6Qh4iYL4Q-jbSIjXN1wEi3cT046U96UYtUIJG3HmgoO6JER4D7t2g9g1bnCYnlIN0FbaJ-QE3nf1MA_MeBCHQA5nmzR82zLF-yIwqSFmUMd1WGLRqv5oCbcJf0o78hw2FHiVSdJYyi",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJ_eH3OSIhoFMRuY8jRkGJUdU",
+         "plus_code" : {
+            "compound_code" : "H93M+CH Edmonton, AB, Canada",
+            "global_code" : "9558H93M+CH"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ_eH3OSIhoFMRuY8jRkGJUdU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 140,
+         "vicinity" : "17004 107 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.56955900000001,
+               "lng" : -113.6098543
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5709083302915,
+                  "lng" : -113.6080596697085
+               },
+               "southwest" : {
+                  "lat" : 53.56821036970851,
+                  "lng" : -113.6107576302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Mr.Sub",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108024439470351790083\"\u003eMr.Sub\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJe3_WRDoYQ8iOaeg_LmmhhIlhxDRPX-DzAnzhCEjJJbywIT9LZcHy-W293kETPb5Dglt4R-hcBgI0LAUz4V4m87c4TcsgSPf3wDB7P1MU-q6h0r-4YAQTfS8OZ6kNe2OMUBjAHO9bd4K7mAaMht0ix0INOQb9KyuaFmZWr7ZCdUbly",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJO8armjYhoFMRDFBHTKbyjRE",
+         "plus_code" : {
+            "compound_code" : "H99R+R3 Edmonton, AB, Canada",
+            "global_code" : "9558H99R+R3"
+         },
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "ChIJO8armjYhoFMRDFBHTKbyjRE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 41,
+         "vicinity" : "11760 167 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5717653,
+               "lng" : -113.6120641
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.57249993029149,
+                  "lng" : -113.6107107197085
+               },
+               "southwest" : {
+                  "lat" : 53.56980196970849,
+                  "lng" : -113.6134086802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Denny's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115227068090786826594\"\u003eBozko\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJbzp0GSEr40fG9wljRlz9dmWArvJQLa__YOVwdPaCqtj3BHUTLVx0c9TzYSi6N2GI-5SuQzL_IyQK_ofdRM39b_gloptbW9KMtRohL0F76XFimC99MD2R_yEZjNDfk5XJBFrySkrqPMFvc1S-9U41B2TZEp83z1fAv8cFOL5gIv4IE",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJH-O8GDQhoFMRR9S_KH1m2w8",
+         "plus_code" : {
+            "compound_code" : "H9CQ+P5 Edmonton, AB, Canada",
+            "global_code" : "9558H9CQ+P5"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJH-O8GDQhoFMRR9S_KH1m2w8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 948,
+         "vicinity" : "16806 118 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.55034509999999,
+               "lng" : -113.6285606
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5515299302915,
+                  "lng" : -113.6272107697085
+               },
+               "southwest" : {
+                  "lat" : 53.5488319697085,
+                  "lng" : -113.6299087302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Bistro Warsaw",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 672,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106744521594659308629\"\u003eBistro Warsaw\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKht04gjrj91AWbeDNotchcUZwaA9zmmhefdnPfWqBB9tqnUVqQAl0gSioNTLCczsr4OSQDuQOo2cfKfRfQ071tf23Trig8aHsGm6Ry5xBM8jaueUephAvFiUaB84-4A5ARnRtAXcxJaAgnQtf-flFjAnd7mF39lUbqunSsDKtHgjvj",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJ5c54M94goFMRQeh-uwAkRd0",
+         "plus_code" : {
+            "compound_code" : "H92C+4H Edmonton, AB, Canada",
+            "global_code" : "9558H92C+4H"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ5c54M94goFMRQeh-uwAkRd0",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 165,
+         "vicinity" : "17834 106 Avenue Northwest Unit 100, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.54672799999999,
+               "lng" : -113.6138722
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.54788398029149,
+                  "lng" : -113.6125089197085
+               },
+               "southwest" : {
+                  "lat" : 53.5451860197085,
+                  "lng" : -113.6152068802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Refinery Grill",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113094027969174178036\"\u003eBrian Carson\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKdSxbwPobPXT5bF5nJDciKRn6KpbCeJluETkOEx1FlFzRX4zqazzQkmvD7E64B-joQPdFcVCqMqktnbnT9evUMuV1zhOnm7OKjXm0mV7vPyFsp8g6dModq6ym3xp8P-oBmX0pqzUVur98ANjd4Cqo6RyyRrz_oiX8On_2vtvh59sPK",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJZ7FrIRwhoFMRs_tENXvukLs",
+         "plus_code" : {
+            "compound_code" : "G9WP+MF Edmonton, AB, Canada",
+            "global_code" : "9558G9WP+MF"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJZ7FrIRwhoFMRs_tENXvukLs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 547,
+         "vicinity" : "10406 Mayfield Road Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5555808,
+               "lng" : -113.6161852
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.55700973029149,
+                  "lng" : -113.6148351697085
+               },
+               "southwest" : {
+                  "lat" : 53.5543117697085,
+                  "lng" : -113.6175331302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Wendy's",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108773069548232048447\"\u003eRaisaa Abdullah\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJJ0WzOrHBj197tgazrryw_QcPARx8QwFlM9QxLniXymqbeAsohQW9xLzLMe3ckVrMXUVlKX3IRKGQS5Hwo4JK0TPaJ0HGt3z3nZbsWGOHynE9exDssUhZKgy8Aw1UHBlRZUA176MOt0nFMBWWv-JSljciSSGY2zqYnIH0UlT9T8RiJ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJWzR7pCMhoFMRfAZB2pNbHXE",
+         "plus_code" : {
+            "compound_code" : "H94M+6G Edmonton, AB, Canada",
+            "global_code" : "9558H94M+6G"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJWzR7pCMhoFMRfAZB2pNbHXE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 498,
+         "vicinity" : "17007 109 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5520175,
+               "lng" : -113.6161127
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5533670302915,
+                  "lng" : -113.6144356197085
+               },
+               "southwest" : {
+                  "lat" : 53.5506690697085,
+                  "lng" : -113.6171335802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Fifendekel",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2848,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108578053572333785305\"\u003eFifendekel\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ5Nwz4dGwCQZSS1EC2r3oxc6bhw5Jp4lq-JwBZ_h688Aolm3gtrjzEXXUdgjj2BjmYg98nZTn_i91-XVHEKIlwENIzWaGns3z-LpJjnVuyvGdUfuGRfkfPHU6e8-LOckVfmZtBdapaEm0-ZY8YcNCfsvD3tc6qxhen8kgs7g8OQVIh",
+               "width" : 4288
+            }
+         ],
+         "place_id" : "ChIJq8LFqhghoFMRSbppSXPphpM",
+         "plus_code" : {
+            "compound_code" : "H92M+RH Edmonton, AB, Canada",
+            "global_code" : "9558H92M+RH"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJq8LFqhghoFMRSbppSXPphpM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 389,
+         "vicinity" : "10646 170 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.54864920000001,
+               "lng" : -113.6143893
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.54999438029149,
+                  "lng" : -113.6133427697085
+               },
+               "southwest" : {
+                  "lat" : 53.5472964197085,
+                  "lng" : -113.6160407302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Jumbo Dim Sum",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 4242,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115365762457823404445\"\u003eDifei\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIh9ysyYcOqjGvZSDNKjnv9P4ptbFgz9M8W6A5pzNknue8Y6tWUFBRFklwhCmY9N6rnqNNVmES_KgUsLx9BPJRnoa4GMdD2bIjG89I4nn7HnX00i7-L4_MubymWm5R1GtVLxI4WtHG60OnXHXW4OWK1S_UZQ7SKya0xoY9Jz3hN4UWK",
+               "width" : 5648
+            }
+         ],
+         "place_id" : "ChIJQVts6B4hoFMR9hDITutAF_k",
+         "plus_code" : {
+            "compound_code" : "G9XP+F6 Edmonton, AB, Canada",
+            "global_code" : "9558G9XP+F6"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJQVts6B4hoFMR9hDITutAF_k",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1070,
+         "vicinity" : "10451 170 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.54624399999999,
+               "lng" : -113.6119806
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.54765028029149,
+                  "lng" : -113.6106180697085
+               },
+               "southwest" : {
+                  "lat" : 53.54495231970849,
+                  "lng" : -113.6133160302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Sushi Garden",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113381571931561425268\"\u003eChris Gavigan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKr2-JPsXCoOiV_MCSSR1ImkD2_FCnwxpoYtcvloUbGWtovZQGq8ffzcih3pBZMmrF-9AFWpxClxCwb2hHSLdg5UNjCOMvIJgiDrlqvM43tRKAs1Gnc2VRzOwVoWVOMRX8pw_G67UoZV-l-BzGbZskSbJFRtpdBW7qXFhI9UYUBwLq9",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJmdVDEBwhoFMR6oUhQYgy32w",
+         "plus_code" : {
+            "compound_code" : "G9WQ+F6 Edmonton, AB, Canada",
+            "global_code" : "9558G9WQ+F6"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJmdVDEBwhoFMR6oUhQYgy32w",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 609,
+         "vicinity" : "10401 Mayfield Road Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.553569,
+               "lng" : -113.6160927
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5549702302915,
+                  "lng" : -113.6147483697085
+               },
+               "southwest" : {
+                  "lat" : 53.5522722697085,
+                  "lng" : -113.6174463302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Harvey's",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110109566242302995427\"\u003eStephan Ahrendt\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwInEuGbGcSVYvj7MCaHTEK5ZzW_XSII7rEkjnyGSCD38jnJbIio9KGiuES43vZBlgDTqfhcgSB5pjqHKRXmhMRItKQfDtmevdUF629S2_BcCf0wnIoj-Tq9ZKFbF82EZtyIYC1ZDr0EwO2RF-YPVzMlHtc4xG7JL_bZ_MntihPb3sVa",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJzdtRPSIhoFMRNoWrhQJs_PM",
+         "plus_code" : {
+            "compound_code" : "H93M+CH Edmonton, AB, Canada",
+            "global_code" : "9558H93M+CH"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJzdtRPSIhoFMRNoWrhQJs_PM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 639,
+         "vicinity" : "17004 107 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.547993,
+               "lng" : -113.617438
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5493419802915,
+                  "lng" : -113.6163060697085
+               },
+               "southwest" : {
+                  "lat" : 53.5466440197085,
+                  "lng" : -113.6190040302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Naks Bistro & Catering",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2957,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114219620428517357329\"\u003eabdul azam\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJV47Y603m9jTSiEQw6doFHutK7cTgUKeprVotopjANAps1az_Qf07MymLHmHafpIcK13JW9F4xj3QH58PiS3UNkI7plyLbMDynfwZJECeU9e1ny9hDlnB1LH4S36sp4gQtf1XXXIM1OEXlN-p_sEg7sDyaz1BlZUwL-yvM9PWILyrP",
+               "width" : 5224
+            }
+         ],
+         "place_id" : "ChIJ4UfbUB4hoFMR5Bn4U5m63as",
+         "plus_code" : {
+            "compound_code" : "G9XM+52 Edmonton, AB, Canada",
+            "global_code" : "9558G9XM+52"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ4UfbUB4hoFMR5Bn4U5m63as",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 123,
+         "vicinity" : "10451 172 Street Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

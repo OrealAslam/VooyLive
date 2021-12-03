@@ -1,0 +1,287 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 50.9422858,
+               "lng" : -114.0471451
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9437989802915,
+                  "lng" : -114.0456049697085
+               },
+               "southwest" : {
+                  "lat" : 50.9411010197085,
+                  "lng" : -114.0483029302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "1d7b95794cd488f296c109e6a5dc67723e4d789c",
+         "name" : "Circle K",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJbRwwqtx2cVMRs-JVeaVvcUw",
+         "plus_code" : {
+            "compound_code" : "WXR3+W4 Calgary, Alberta, Canada",
+            "global_code" : "9527WXR3+W4"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJbRwwqtx2cVMRs-JVeaVvcUw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "atm",
+            "meal_takeaway",
+            "finance",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 4,
+         "vicinity" : "755 Lake Bonavista Drive Southeast, Calgary"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 50.930575,
+               "lng" : -114.0635851
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9319205302915,
+                  "lng" : -114.0622859197085
+               },
+               "southwest" : {
+                  "lat" : 50.9292225697085,
+                  "lng" : -114.0649838802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "489bac0b000360fc10bb12f540f347c5d0304681",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3144,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101710443876398489134\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARdYF3TQ-ZPLmvqEBmrIvCDH7Vn3Lp6-UKyhI8e1NM87UoCvPqVoue0DQ98M9bcc76aY1ZR8FvS5IBGHn2Y_OhQrIwaX8--JtdaLVsex5ufHbI9GLkPlF4JZUZGdm6P4YEhB11TzbISeh9iID97Ih4At0GhTFRIVDqr3a7t13TNzTkbrhMU9OzQ",
+               "width" : 3144
+            }
+         ],
+         "place_id" : "ChIJRXzGgZZ2cVMRF5ByHopoGOA",
+         "plus_code" : {
+            "compound_code" : "WWJP+6H Calgary, Alberta, Canada",
+            "global_code" : "9527WWJP+6H"
+         },
+         "rating" : 3,
+         "reference" : "ChIJRXzGgZZ2cVMRF5ByHopoGOA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "13615 Bonaventure Drive Southeast, Calgary"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 50.9313668,
+               "lng" : -114.0263773
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.93280883029149,
+                  "lng" : -114.0253367197085
+               },
+               "southwest" : {
+                  "lat" : 50.93011086970849,
+                  "lng" : -114.0280346802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b9af0fc7a693e96a5796726c67f9afb9ec353609",
+         "name" : "Circle K",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ8WXUYPt2cVMRCMavlL2aYUo",
+         "plus_code" : {
+            "compound_code" : "WXJF+GC Calgary, Alberta, Canada",
+            "global_code" : "9527WXJF+GC"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ8WXUYPt2cVMRCMavlL2aYUo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "atm",
+            "gas_station",
+            "finance",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 13,
+         "vicinity" : "14943 Deer Ridge Drive Southeast, Calgary"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 50.9279756,
+               "lng" : -114.0287976
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9292184802915,
+                  "lng" : -114.0273694697085
+               },
+               "southwest" : {
+                  "lat" : 50.9265205197085,
+                  "lng" : -114.0300674302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "7ea363ce1b8a1b601e5037084e276db0e23ceaf4",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJCf2rBft2cVMRGFuz3lkVFu4",
+         "plus_code" : {
+            "compound_code" : "WXHC+5F Calgary, Alberta, Canada",
+            "global_code" : "9527WXHC+5F"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJCf2rBft2cVMRGFuz3lkVFu4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "car_wash",
+            "convenience_store",
+            "finance",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 34,
+         "vicinity" : "1136 137 Avenue Southeast, Calgary"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 50.9277734,
+               "lng" : -114.0295201
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9290068802915,
+                  "lng" : -114.0280721697085
+               },
+               "southwest" : {
+                  "lat" : 50.9263089197085,
+                  "lng" : -114.0307701302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "cc37522b8e990f76c64a027432e321b79d78f421",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111973388962175208055\"\u003eJeremy Gillespie\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAH_XR7sFf5NWVfiZbplIWJiVwui5JJ00BPu_JGdxi26xwq34t8QkokgccgLYNp9HlM2aVgJJGIoy-twDTNjp4X72Bc4TpgqTaAeK7JRMcuXz5XZndpq-oe5IWmVTGJ03JEhDuxqNAiZrWuFEMdBv1SDEEGhSs8DX5_a027vOTA9jLAg-Sjpp0YQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJG0mD_fp2cVMRtnjjosT8ROg",
+         "plus_code" : {
+            "compound_code" : "WXHC+45 Calgary, Alberta, Canada",
+            "global_code" : "9527WXHC+45"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJG0mD_fp2cVMRtnjjosT8ROg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 26,
+         "vicinity" : "1120 137 Avenue Southeast, Calgary"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 50.9300536,
+               "lng" : -114.0288458
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9322604,
+                  "lng" : -114.0277758197085
+               },
+               "southwest" : {
+                  "lat" : 50.929318,
+                  "lng" : -114.0304737802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "5bcba52c2e944d804ab639cc4fb8d1412f91d4d9",
+         "name" : "Deer Valley Co-op Gas Bar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ4Wt_WeN2cVMRXQlwPOyCBxs",
+         "plus_code" : {
+            "compound_code" : "WXJC+2F Calgary, Alberta, Canada",
+            "global_code" : "9527WXJC+2F"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ4Wt_WeN2cVMRXQlwPOyCBxs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 10,
+         "vicinity" : "1221 Canyon Meadows Drive Southeast #95, Calgary"
+      }
+   ],
+   "status" : "OK"
+}

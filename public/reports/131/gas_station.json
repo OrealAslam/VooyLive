@@ -1,0 +1,62 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7438339,
+               "lng" : -79.4060265
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.74523608029151,
+                  "lng" : -79.40469531970849
+               },
+               "southwest" : {
+                  "lat" : 43.74253811970851,
+                  "lng" : -79.4073932802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "389e82b3c54196e379e26d2c70e67562dad1d44c",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1518,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114842505477372159901/photos\"\u003eChen Shaowei\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQJSLaRlOfqWmFjrPRfDrMl3a9aSHkB9LIjEm91UOyzX2X_57g3CKI1xzZYg1oXDn8WFC_GmiIa8HFQAH5UT_YDHWhX-zVbXuF2bB4cIj9RHQsNPEnH0RcL--O_4dmpDkEhDtmIZEenXLsAhkAtEs__u2GhTgnXQN9YtE_TGKq204ERc00mb3jw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJZfwJ5ZYyK4gRgW8FBqWz6ds",
+         "plus_code" : {
+            "compound_code" : "PHVV+GH Toronto, Ontario, Canada",
+            "global_code" : "87M2PHVV+GH"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJZfwJ5ZYyK4gRgW8FBqWz6ds",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "convenience_store",
+            "car_wash",
+            "finance",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 86,
+         "vicinity" : "4021 Yonge Street, North York"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,140 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.566587,
+               "lng" : -79.8226817
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.56790228029149,
+                  "lng" : -79.8213792697085
+               },
+               "southwest" : {
+                  "lat" : 43.5652043197085,
+                  "lng" : -79.82407723029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Petro-Canada Gas Station & Petro-Pass Truck Stop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100674948959361272236\"\u003eAnton Gee\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIzi_NoUpK96f5Zd_1UF-2moMj1W48oVL8sueuore9xwatHymV_mVu1vYr-Ztl03JAtGpHDEB1ZX50UkXFz5yZePui8YIYfiC6h8Do-G7D6Eyy3lloN8_OzOs3y-mJJU6AwqF_8rx1I_Chz8MvaWceOPGLgCcfClYyVvlC_LY1mvxnX",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJp6Mo5f1rK4gRiLs4MGx1yCs",
+         "plus_code" : {
+            "compound_code" : "H58G+JW Hornby, ON, Canada",
+            "global_code" : "87M2H58G+JW"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJp6Mo5f1rK4gRiLs4MGx1yCs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 109,
+         "vicinity" : "7443 Trafalgar Road, Hornby"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5675518,
+               "lng" : -79.82536170000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5690065802915,
+                  "lng" : -79.82386331970849
+               },
+               "southwest" : {
+                  "lat" : 43.56630861970851,
+                  "lng" : -79.8265612802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "On the Run",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116973298211267680421\"\u003eDon Drecic\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKGZfNj2LLsTvt-l6UB3Bcqi3wCKgnofpCDrefDOCYD5-z3BlfXSKs3AHJd91hg8FuyjGRC0PjTheDrCHlGqjkBKiKeITEoroiOsBqJWYRlhMvP-sgGRwmvMOQoIQc91Nrp4B1wXuF-kZu9o2liL8xvgUtteslwl8qYI9e8cXWOQKUw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJVb7T-L1rK4gRjNPf9bwjSac",
+         "plus_code" : {
+            "compound_code" : "H59F+2V Milton, ON, Canada",
+            "global_code" : "87M2H59F+2V"
+         },
+         "reference" : "ChIJVb7T-L1rK4gRjNPf9bwjSac",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "7500 Trafalgar Road, Milton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.56900649999999,
+               "lng" : -79.8416586
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5702890302915,
+                  "lng" : -79.8403949697085
+               },
+               "southwest" : {
+                  "lat" : 43.5675910697085,
+                  "lng" : -79.84309293029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "HASTY MARKET",
+         "place_id" : "ChIJ68c1OB1sK4gRTlxF8r89DR8",
+         "plus_code" : {
+            "compound_code" : "H595+J8 Georgetown, Halton Hills, ON, Canada",
+            "global_code" : "87M2H595+J8"
+         },
+         "reference" : "ChIJ68c1OB1sK4gRTlxF8r89DR8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "8017 Hornby Road, Georgetown"
+      }
+   ],
+   "status" : "OK"
+}

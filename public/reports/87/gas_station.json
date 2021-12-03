@@ -1,0 +1,742 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5517469,
+               "lng" : -113.5219263
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5529288802915,
+                  "lng" : -113.5205804697085
+               },
+               "southwest" : {
+                  "lat" : 53.5502309197085,
+                  "lng" : -113.5232784302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "7126a48ebe0953b3ef28c724cbb77ee86298b074",
+         "name" : "Hughes",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115849985008342730029/photos\"\u003eMohamed Abdelaziz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEV-TsJUXFQyaJi7yUsRQp0s5x6-xTmdKeSyf_XgOWDSQwJwIgMUghlRZMoQZMkA5tqzKsw5MSIRQernmvtzU4OfJRdCOeJcURI2ABIA4rCMH5MoJqmRH7pPTBZ8hmLfzEhClTV11ej7O2HED2fmJJiSoGhTO9DjwcTpNznZnGNULBkyuqWFsMA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJi1HrfcwjoFMRC7p-FVeZOxA",
+         "plus_code" : {
+            "compound_code" : "HF2H+M6 Edmonton, Alberta, Canada",
+            "global_code" : "9558HF2H+M6"
+         },
+         "rating" : 3.6,
+         "reference" : "CmRRAAAAj6K2s4Qsb6gGmIBjYN_pjO22dZVXJshpAykBvKyXba6xifx8QzgV8ReRWj0T0BIiRgFc__sU7bXS9yW4g6k9578ew8nfNVGt8rfvA0sQ28hsqtZtAAoXptnrfzUp-fKyEhCyHbi0RrAoaIjWyB9oxhvcGhTYZvzCl7G7nEZjQteLFl3C5i9aCg",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "car_wash", "point_of_interest", "establishment" ],
+         "vicinity" : "11606 107 Avenue, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5552477,
+               "lng" : -113.4942224
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5564693802915,
+                  "lng" : -113.4930314197085
+               },
+               "southwest" : {
+                  "lat" : 53.5537714197085,
+                  "lng" : -113.4957293802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "36bd0b823db1744e2fbed1e625b1b6c2def91902",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 466,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104851171257693385857/photos\"\u003ePULIKEN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdtQfCtHNrVF7W2XuERyWMn45hQnf05Ya0hp_brfXkLDJUnxbX4RpQNw1W617snyZ4-S650t6XIRdk4SylIZlX-9BMHLL9arxxERqjk5BHHXWfE2RkO3IQIpYp0uoDk9WEhBASV_Pyz9nhJ310yNBqgv7GhSYaiHAEs15LXZYUuwQ9lGnvjdGLA",
+               "width" : 832
+            }
+         ],
+         "place_id" : "ChIJO_Dyz08ioFMRuascDSOhFsQ",
+         "plus_code" : {
+            "compound_code" : "HG44+38 Edmonton, Alberta, Canada",
+            "global_code" : "9558HG44+38"
+         },
+         "rating" : 3.4,
+         "reference" : "CmRSAAAAoFLt9ofOADBQcE9EqxDssl79YSvTLenIiFE4HT_BG6woVefeZJnfgvHAD8BbL9Xm1n-7E9luTAiFKVDQnYv1j8bsjRLqATJnbxET2ftb5VNVxCISUxtWKHZsw4KsH93-EhCzjR0JEiUPqllOslEK72aMGhSNa7cdUfOOqqPZe3AKGMIQBI_o6w",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "10110 Kingsway Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5517104,
+               "lng" : -113.5206409
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5529115802915,
+                  "lng" : -113.5192881697085
+               },
+               "southwest" : {
+                  "lat" : 53.5502136197085,
+                  "lng" : -113.5219861302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "49d8f1239417aed08e4bada4c3bd497b86bee566",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116199519548515712520/photos\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEZAHhzZ-NrT2Ht1dhJ3m0Zes07bXHcEL_b_cU6xrD68Fbrn9D2vye_qU56P8GGuBNv-ubenGJ9DD8p08ozGb7pDsH_8WYrdwQQ2-8A061B77H9zhiViI8Nt2RvYVOHNHEhAeKxwBudlWe1TEJPXfxZ1DGhS9EmScw9uWMGhncyn8Ryw-HOy9pQ",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJg5f_e8sjoFMRBfI9hqPLxnM",
+         "plus_code" : {
+            "compound_code" : "HF2H+MP Edmonton, Alberta, Canada",
+            "global_code" : "9558HF2H+MP"
+         },
+         "rating" : 2.9,
+         "reference" : "CmRRAAAAihZSENrYkkmMFfubjuc9WolOyBi8digUJUsXdp_GSzbn2ZFQol0W0m5WwHxZ6rCfRXzECQK_0LJjXv6lMuJOFYghHr0SjoOAYnBHxnGPTx8aagsOMeRS1BtSKrVa6YFkEhCaPvlLaMoPszxqTDJluSkrGhTXEvTnZVE-Rs0w6qiuZmF-MOXKoA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "11528 107 Avenue, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5385272,
+               "lng" : -113.5088251
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.53987513029151,
+                  "lng" : -113.5073297697085
+               },
+               "southwest" : {
+                  "lat" : 53.53717716970851,
+                  "lng" : -113.5100277302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "0ba2ea622803ef378db89d87e7c30577effed967",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115312410940529869573/photos\"\u003e孙东\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAX8ya_DiLbuK6CVHbZSTN87MW-OyKlzHfwkTvIzyRL5N68LEi9kcnJE4rOskZUpQwgcYLECF4-r5BRQGiKwNVTRpB1gFHOPv-OXklSF62xzzdE6JyQrY1UVVzswHlFWXPEhCWvfIgsjSvHUcexRXe-H7vGhQP-Dmm-AAOkDhCh99aXMBx1C6tFQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJxZ8HijkioFMR3be3jVA8Zos",
+         "plus_code" : {
+            "compound_code" : "GFQR+CF Edmonton, Alberta, Canada",
+            "global_code" : "9558GFQR+CF"
+         },
+         "rating" : 3.9,
+         "reference" : "CmRSAAAABq7cgcB2rWV823FFuk7AUOOs0jG9c52OUTomMpR1fxcPT3nrTa35zUF578t5bjhWE2bu0yAaSKCAV1DYVSCOZq19bdeUhnW2cmd1sbk8l45VknUjakdeMH2R9NP7hTbiEhAXghsXSGfozHd_x_ymSvZwGhRyr5pqZY7n_WgIq_RgBi32ZBQYiA",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "9936 109 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.559412,
+               "lng" : -113.5091459
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5605383302915,
+                  "lng" : -113.5077959697085
+               },
+               "southwest" : {
+                  "lat" : 53.5578403697085,
+                  "lng" : -113.5104939302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "c2686d0de1e3c313329295703454a26e0ccc7ac2",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5344,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112171355413762619465/photos\"\u003eRadhey Panchal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVDOvMZHCOikS8abIJYL7EBWnF8gKBUTVXa789PC5V3SCZMoPMJB5DGtRpnMi813zkhRbCwUhxsjQU6h8CKjsoBNHv-bOnieTEApgeYFzqxJOv1Y6hTSSuj5HG1k3RrxrEhD8QgyEluAnmW4U7cFReq2PGhTAhbCoYbzHqw7Jz7pHf0Uxcthv1w",
+               "width" : 3006
+            }
+         ],
+         "place_id" : "ChIJ5fgVM7EjoFMRd46UN7L9bcY",
+         "plus_code" : {
+            "compound_code" : "HF5R+Q8 Edmonton, Alberta, Canada",
+            "global_code" : "9558HF5R+Q8"
+         },
+         "rating" : 3.8,
+         "reference" : "CmRSAAAAQfAVpZ7rqrVkoXVYh601jVHINHNg-d69EfOJBjrHorXJuN0pbKzyX2zKO8i-aaZ3URnpnrivtrUkz8JpM95J7m3wHpAd0JBbxH28DbFgQlivdT06BsudeoOQMPmfNC_AEhCE10B0bxugG6Vb05FMxHrUGhSQb4iUzIqOnRW10a53-wmLKIgpSQ",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "10904 111 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5515857,
+               "lng" : -113.5152197
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5528579302915,
+                  "lng" : -113.5138692197085
+               },
+               "southwest" : {
+                  "lat" : 53.5501599697085,
+                  "lng" : -113.5165671802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "4270fe26b9ab34885e2e87b8a099b66123c75df7",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100473305841024976826/photos\"\u003eJoesph McMurray\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAb3naax8_WW8vRyimZYv9NCVwBQvGInfzY5io7ASxvxy3JsT2z87OM4itUbsjIzMshxC_l9AbuL4yO9_-2kIoqmsYWlYhLfSoLQTqkt586kibd82iLEohE9xca_UMmAENEhBJagqKk6TXzBwZ4FGw5165GhSfcaObfHs9EeMCN2A1x37PlZAmHg",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJhwdC3cojoFMRCeo3LMbj6qU",
+         "plus_code" : {
+            "compound_code" : "HF2M+JW Edmonton, Alberta, Canada",
+            "global_code" : "9558HF2M+JW"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CmRSAAAAwooInhP2fYQffgejM28iRXZjft88ckOEN2mFMSpqYzBvoLc_T-74FfZyYHOvnTUD1B0dhQ1rgHPZoyfawBRrZSlHNeDhd9rieYuXJR624Kvdm6PvutwmbEq2NMl8Ch5hEhCBtRv9EWbXL7vCYtYZ8R2-GhQkYustFNNxfbKHdnRf3SNsKwjCWA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "convenience_store",
+            "finance",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "11230 107 Avenue, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5467453,
+               "lng" : -113.532897
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.54798433029151,
+                  "lng" : -113.5315841697085
+               },
+               "southwest" : {
+                  "lat" : 53.54528636970851,
+                  "lng" : -113.5342821302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "cb32b4055b42191faa7ae7c4e4109b076857f471",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114052195705428380383/photos\"\u003ePatrick Fraser\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPrHXYa0Z8bpl1y4f3O525etY8iSEaUBJEQAXbrhdZDFmgo088QCga4vy4gzNt6AE58OgxLS2M-okM-9THjyJi1EDGUv98VZlghyfBqG307f_8HztP7TZ33gXhh0RQOTyEhDDAJyMPNeK_23Tjzogc9RhGhRAok_GL0ACx4ApWnTNSKeKgxTssg",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJq949NdMjoFMRKPe2D2PSX1c",
+         "plus_code" : {
+            "compound_code" : "GFW8+MR Edmonton, Alberta, Canada",
+            "global_code" : "9558GFW8+MR"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CmRRAAAAfmE5N6HpAO1O8etcFXBpe-spnYK5zfr5h6jYvGy49DwiVLNahobItveNH9keuF0-KWsEoNEgP8vntB2_d2rxGtjFX9aOLHZDT7-pV-I1zu7Ddc5QjlWQfqT8rKjtSLWwEhBp9c8yF-pnH9-NBBuyGDAOGhRA36o0ZgSreQ3P3UrpzDIZCQWTtQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "convenience_store",
+            "finance",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "12206 Stony Plain Road, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5406149,
+               "lng" : -113.5216364
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5421034802915,
+                  "lng" : -113.5202879697085
+               },
+               "southwest" : {
+                  "lat" : 53.5394055197085,
+                  "lng" : -113.5229859302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "b8a7ae7134ebaf10117638e661697ab88c21f8df",
+         "name" : "HUSKY",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109025832374316067271/photos\"\u003eHUSKY\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAS8imzN-LCUnx-EfsRm8frDwoGjnYI39Om_2zn4AkEsWuoepEGdOL5ATT339PyVEVH9aPooFDsNC9Rt91_lcbD1HL4BCKARh9XLtTdRfnUbMstPApmdBXNHHtz9VWcb-WEhBbr0zjuOrVv_yDwTbfUfMwGhSDd-Jp76pFeq3LF1K5WmNxfVuPpw",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ-_A4OS4ioFMRdmymrMyOYa8",
+         "plus_code" : {
+            "compound_code" : "GFRH+68 Edmonton, Alberta, Canada",
+            "global_code" : "9558GFRH+68"
+         },
+         "rating" : 3.5,
+         "reference" : "CmRSAAAAcml63wq-6mDefMIngMXo5NG2OxhR9iOziB2HXjjDh7MCVqDQC7Wj46lfY6sOvp6DW2mWJThtQ4uiMadHbgtsVz_0xzI1IcoGbo01D3waLYIS2G1lSRU-QPTYxoh4qn4rEhBHDNK_YmJYsmMKumN3JVeUGhRMRnl__-S0FZhEz4lIowaeAgR0dw",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "11603 Jasper Avenue, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.551569,
+               "lng" : -113.503376
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5528394302915,
+                  "lng" : -113.5020262697085
+               },
+               "southwest" : {
+                  "lat" : 53.5501414697085,
+                  "lng" : -113.5047242302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "d97f2c16cc720cb7ca66b02d1261e09db4d3f228",
+         "name" : "HUSKY",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107583913440944641570/photos\"\u003etejinder singh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApziRfZp5jS7U0N-0WSnrSFvHgcXP6-_sNB0TdKVF-ujqlT9B50aB5BREY5iDgOqG_8RLaxa6mjguRINT3lQGu7pKPCBgPfoIIgsq31BFXObMUR-UgsnCniV0d-YU76MqEhC89HOmHULvRMNhEzcvRB-7GhQngQ5mPTpB1Y0R_wbLAr7f5xgyRQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJWSJZQ0sioFMRwWPsYW3QMDA",
+         "plus_code" : {
+            "compound_code" : "HF2W+JJ Edmonton, Alberta, Canada",
+            "global_code" : "9558HF2W+JJ"
+         },
+         "rating" : 3.7,
+         "reference" : "CmRRAAAAUo_xEUNqEryhUKCwMHdtX2TXtEecVmftcBt1_Gw-GP8KK-a38Q6pvcURllUtT106ssM8PhpCZbeWS1N9tyTgbRx9EGrEawBgDKo0GC722CPBCvtSCrqXNL2LM2uCpsRJEhAmfa14d7KwxlL5J_y6IKkfGhRR0lOSCb_CgGRzrJmWww2O60bZDA",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "10608 107 Avenue, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5428216,
+               "lng" : -113.5364589
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5442786802915,
+                  "lng" : -113.5351129697085
+               },
+               "southwest" : {
+                  "lat" : 53.5415807197085,
+                  "lng" : -113.5378109302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "66dc398b6b92ef8bd0d4fd6305719269e3eb1add",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJl3yABysioFMRKGJv8xlaOGc",
+         "plus_code" : {
+            "compound_code" : "GFV7+4C Edmonton, Alberta, Canada",
+            "global_code" : "9558GFV7+4C"
+         },
+         "rating" : 3.7,
+         "reference" : "CmRRAAAA4rMPCHDUqn3dai7g0zl3t34sbui7Q0jps4B2qsMDmI2LJFGPV63Ni-C0-Xi30mlae9IaI5tIiEDxedZClEdHqiwdYl-cv3caTTNv15RE_CkkCtw8ZQ2AqUXvLjcvY5BXEhCQVA37do2gZagn8IuVZ3nOGhRzR5jaUJwjwTQp-6eP_ZNeWng3Og",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "12415 102 Avenue, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.55161099999999,
+               "lng" : -113.520787
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.55286123029149,
+                  "lng" : -113.5194355197085
+               },
+               "southwest" : {
+                  "lat" : 53.55016326970849,
+                  "lng" : -113.5221334802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "1894ea6e279bf03c93d5511d5071dd1af8b5c580",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101648047037709357873/photos\"\u003ePetro-Canada\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtl93mzSd9Jw1oOuCHrEAdjHx51nlQTP5xacDFuu92t82dqpkU72M7mL3LO7PLiehPo-blkxK_SKlg5Hpn4-Vd1Omm9Jix0bWuQiUq4zlpQiKEpxgyS1i4sHKLSZswF7MEhDY6KhrB5Qmy5Sizwy2nJxFGhSFQZjwG9L2B_wzVpv7tGygcr_kew",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJZ-4Ef8sjoFMRYl3kpuOvtio",
+         "plus_code" : {
+            "compound_code" : "HF2H+JM Edmonton, Alberta, Canada",
+            "global_code" : "9558HF2H+JM"
+         },
+         "rating" : 3.8,
+         "reference" : "CmRRAAAAPKurTYY1BkQWAVn28rNQvnDdvFFeZpnayzE8sYpjhYN0tzy9JMSbL1Ryy4bCTH003jEgBBjidyIK2GYEVwylPZArE97DeqKK7Kk21UUPjcC77adPkcgTIO_ZxjEhMp0tEhBuSWvFVq6_FQNq6-eZWmsgGhRaJ0jrlpUEAAzgWzIH7-5i2xahSQ",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "11528 107 Avenue, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.55940849999999,
+               "lng" : -113.5091181
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.56053663029149,
+                  "lng" : -113.5077681197085
+               },
+               "southwest" : {
+                  "lat" : 53.5578386697085,
+                  "lng" : -113.5104660802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "06421a68c31abdfcbfb3cde0b824c55dc73cf6b9",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117509861116368985238/photos\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAB8qMt-qsCkKZ3_ZatmqXpshe5yowMGbYpiSA0J4HVK7gh8xvM_SqHypFEOE14Vur_H6ANdLFNq_O7v0WjehG1bQ3ku4if_Ff5eNBztf-kTucHE2cC4GRN2GA2RNvkmvKEhAvP5cIzyWw6f50q5sPopIAGhSbfK04gYPe0liPbDN5-SDAH3YVhQ",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJh-8y07YjoFMRcZx294vH8GM",
+         "plus_code" : {
+            "compound_code" : "HF5R+Q9 Edmonton, Alberta, Canada",
+            "global_code" : "9558HF5R+Q9"
+         },
+         "rating" : 1,
+         "reference" : "CmRRAAAArfryXMgW4Vdmye1AfyALQ0qBi-ZOXk1PMrFl3fNWuReKcoNzOZLyZD6nP1US1l_SAUUOzq1u-tAn09uD7C1fpSZOBxQ2I9YMfw2D_uOHS5cCn7sjQ_JRHYyYJaA-7j3dEhCgz_e0bB7DErFgjaBTU9eVGhTFr_fxoCL6ye7WekxcFqiZHTELlQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "10904 111 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5552757,
+               "lng" : -113.4945711
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.55653778029149,
+                  "lng" : -113.4933299697085
+               },
+               "southwest" : {
+                  "lat" : 53.5538398197085,
+                  "lng" : -113.4960279302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "941290a53563c95e2969015a4b20ef169215340f",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112122948610020828170/photos\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARht4OjTlMTLuZPHSF-qF2aQ4NLU1rABEuQ1xg72BxmarZ3CQpGP-SmzazucNQtfce4BRBY4y0riGSR-Yh8TvoAU4ZQkyHIoXbNKnB3plOrhC0zpI_AvywSwxE5ddDsCwEhC-UuZhPz0wJJ6PnxP6rmM-GhSseA0DuFLQxVaXvjcEJbDa1WISvA",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJN75bT60joFMR7VKocTlVie4",
+         "plus_code" : {
+            "compound_code" : "HG44+45 Edmonton, Alberta, Canada",
+            "global_code" : "9558HG44+45"
+         },
+         "rating" : 1,
+         "reference" : "CmRSAAAAs3aJM1kASwmMmDQDRutxFp-Qo4uXs9Q3WIDs-iICxXFcz1z6TxwZTAIQVk8V9PtBrnqiVgkNGZ8Q8S919t1mFT7qqWbzN3P80DNxkn1wmCC9nIUaiwsXvcSTtB6l7c0-EhCOnYDyCoZurNUFvcPRJ2aAGhTlpF1D0n7j7A2XI0lMxnifEDkASA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "10110 Kingsway Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5586249,
+               "lng" : -113.4931441
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5599738802915,
+                  "lng" : -113.4917951197085
+               },
+               "southwest" : {
+                  "lat" : 53.5572759197085,
+                  "lng" : -113.4944930802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "d5d5037a62abc691ddb70bba17e49b7be6e89015",
+         "name" : "Hughes",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117943256384499302811/photos\"\u003eMark Dunbar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgZAe6Srdbn8wMrvd1VvdNXxh4fYn5F7GmP4aLu2COt2e5WuL_BsNQkhUsyEKWH6Wl-493E1boIBWSR-oTKhg2BHZrUgJxQCY5BvvcZZmLYTGsFGTSwFzTevA-M_XjpmYEhAWuV6D1pRUPCek-SmwKU7cGhTnUa5QTgB1k1Y3xTTqkr9YByW_Jw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJzwIPTawjoFMRGLbhX-xtTjs",
+         "plus_code" : {
+            "compound_code" : "HG54+CP Edmonton, Alberta, Canada",
+            "global_code" : "9558HG54+CP"
+         },
+         "rating" : 3.8,
+         "reference" : "CmRRAAAAFqz32BeRUlzC4-eSenFwzpPDxuvSqxhpPltmXwRyNN1Nl3oJ0KrKEyKOhpc1CAIgFjBz6A3VKTVjXYGZSlXB8CrEgt25ldSIfnahRYnPa4pWtAQv4UXulx6_qi4MvpkJEhDW27Z0HvMH42lIzZK3IcgaGhQglw0YWSxSUodhMDWAj3iLCEPXiw",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "car_wash", "point_of_interest", "establishment" ],
+         "vicinity" : "11027 101 ST, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.54751590000001,
+               "lng" : -113.5192173
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5482614802915,
+                  "lng" : -113.5178780697085
+               },
+               "southwest" : {
+                  "lat" : 53.5455635197085,
+                  "lng" : -113.5205760302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "907f63475c1d7668a78b41f25fa02203d725de47",
+         "name" : "Safeway Gas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112945920534598303118/photos\"\u003eP.S Mihalek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYzcMa9Q9LKWF3iQP2sRj701db7slzHh8a2yzOAHSgqa0FDXAlAwg8S5pR5-46vK75WTIAV_rrM68ktiCIu46sLE11N68COhlRftlkrx_RGTss5Tyeep-aLm3QJS_FPsrEhBR8yIgHK3WX65nh2pCaeAnGhQTyzRfqflVUTJySMUQWpXmD38BYw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ_1miazMioFMRdPF6J9208nA",
+         "plus_code" : {
+            "compound_code" : "GFXJ+28 Edmonton, Alberta, Canada",
+            "global_code" : "9558GFXJ+28"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAX1jpLPj5u2HazLA3rDuP0FYTvyhQwIJh50_fImIcU0UKVrUWtrpvV9nr7_4277htCHhwVbNjvuhsqxT-0f_EvIoARK-fcxx4iz1dKA5iqTKo1O2ju5E2ee99dEWJWPuPEhDBVUOG5lOSAP2fE4GdBO69GhTwBx6Qq38Mh16NHEEtQ1ZdgPUKRw",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "11418 104 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5586415,
+               "lng" : -113.4931284
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5599904802915,
+                  "lng" : -113.4917794197085
+               },
+               "southwest" : {
+                  "lat" : 53.5572925197085,
+                  "lng" : -113.4944773802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e2b6006918f4448b8dd307ca37bd5b5be03227d7",
+         "name" : "Hughes Car Wash",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109105524595496024756/photos\"\u003eNoam DePlume\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAdLMXpK-u32iFay7NCO00vSqjY_TuqvQGHiFxf0t4lAVH0GQFPzw7C8xlIVjpDLfxPd6Hl448JK3zKR8_MC2PSfrElohKseg7mCP1IAb070Vff48twVbSdim8qeLtG-pEhCkXUG6R683e3jF0wfNgqHtGhRgftafnDKcQI4YanXvGqHxpaLR3w",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJHe-7SKwjoFMRBzksNlgHcso",
+         "plus_code" : {
+            "compound_code" : "HG54+FP Edmonton, Alberta, Canada",
+            "global_code" : "9558HG54+FP"
+         },
+         "rating" : 4.2,
+         "reference" : "CmRSAAAAHK1vzSOPcAzLRuCpTMRchW_PF2gYrnqRrQgV1loFvh-MN8L62UHmcvirdLWJrAQ_z-16Q5HyCKFlGnFE96gQUSJ26u88WGuF2F4RrqZ-P5aJmYel1Bidfgio1-vnaKghEhBBzgt2GiDkQ5EAOq0NWFxuGhSdZhLTC8Xh0NFqgW5C-13C-LNLWA",
+         "scope" : "GOOGLE",
+         "types" : [ "car_wash", "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "11027 101 Street Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

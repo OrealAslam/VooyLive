@@ -1,0 +1,398 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7326108,
+               "lng" : -79.4324944
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7339371802915,
+                  "lng" : -79.4313247697085
+               },
+               "southwest" : {
+                  "lat" : 43.73123921970851,
+                  "lng" : -79.4340227302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116373335390434500869\"\u003eJames Whitaker\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKKGhTZAtzFycJZA3vjN2SNdTfafo6xjzgmh0V7k7VKLeaVs-Qh9fgXBpldDKyMh1zruXJTWmKH0tyeBka9uSrpmdKagrKTYkDiJzcHvMWLYB6B65H98XSVv5IeJMn3rNFBsJqkWQCfv_KyJzbFrXDBCHvpIjEBUWSJdRM9pYgxJlYv",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJNQOGs1syK4gRc0kOeTsflYo",
+         "plus_code" : {
+            "compound_code" : "PHM9+22 North York, Toronto, ON, Canada",
+            "global_code" : "87M2PHM9+22"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJNQOGs1syK4gRc0kOeTsflYo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 39,
+         "vicinity" : "3587 Bathurst Street, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7346567,
+               "lng" : -79.4201566
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7360208302915,
+                  "lng" : -79.41866991970849
+               },
+               "southwest" : {
+                  "lat" : 43.7333228697085,
+                  "lng" : -79.4213678802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1518,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114842505477372159901\"\u003eChen Shaowei\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI0p5P3eD8RuHqDpsfd-2r-Wru5IrsbVeOLtbHIWnF6a_HmHwLJHtPNRt1FEkacL4hYPwpwlDudQj7R_xLfh8oaZrUJy90_ozl1cQ9pJVWTMiDYdv5Sn2LRsufadH86V1TIE6ahUViK1lJC6nL2jthegXuKYnrZxvumOl54iJbg0QtU",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJjWOnd_QyK4gRJ1mJyWjh72o",
+         "plus_code" : {
+            "compound_code" : "PHMH+VW North York, Toronto, ON, Canada",
+            "global_code" : "87M2PHMH+VW"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJjWOnd_QyK4gRJ1mJyWjh72o",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "meal_delivery",
+            "finance",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 45,
+         "vicinity" : "1974 Avenue Road, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7320029,
+               "lng" : -79.4190469
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.73335168029151,
+                  "lng" : -79.41770336970849
+               },
+               "southwest" : {
+                  "lat" : 43.73065371970851,
+                  "lng" : -79.4204013302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116975294082736281926\"\u003ephraseography\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwISYn6OVWcJnF1WkjcTW_nAif93XmIB-xp5A7dIC2NY1k-JwM5QtqpA3iP-2WkJqMJcwM8BDQZnMP09ro9VsOXzqdgGt0hDEy4q7dCm-olwDVwxu8V-wZ_OEI9hkZDH7tAy2ybWylcqAK5MEghSNw-tfXv-Fc5aZArZCDkFnOLQptmA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJwy7pN_EyK4gRVMBcSpICVSM",
+         "plus_code" : {
+            "compound_code" : "PHJJ+R9 North York, Toronto, ON, Canada",
+            "global_code" : "87M2PHJJ+R9"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJwy7pN_EyK4gRVMBcSpICVSM",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 145,
+         "vicinity" : "1865 Avenue Road, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7322668,
+               "lng" : -79.4192247
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7336108302915,
+                  "lng" : -79.41793476970851
+               },
+               "southwest" : {
+                  "lat" : 43.7309128697085,
+                  "lng" : -79.42063273029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Circle K",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114818108224324491629\"\u003eCircle K\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLldr8c2fN836-OnTPDqbcdFi1H2RQGkFsbiEBECe6_z7BGy7WQ6PsUuUwKUMAmYXghKuMmUhmPWKfEyY52bk5puJdzTGY0cdQgPec7gBW-iv_DL9Uz7haUkohQ_AiyKDNgPatMoyusgGkIFiPO1pmCK2y1HUKcDsJwNFgZKfrFw-oG",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJaaWqN_EyK4gRuyfldsH078g",
+         "plus_code" : {
+            "compound_code" : "PHJJ+W8 North York, Toronto, ON, Canada",
+            "global_code" : "87M2PHJJ+W8"
+         },
+         "price_level" : 1,
+         "rating" : 2.3,
+         "reference" : "ChIJaaWqN_EyK4gRuyfldsH078g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "atm",
+            "car_wash",
+            "gas_station",
+            "finance",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 3,
+         "vicinity" : "1865 Avenue Road, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7370116,
+               "lng" : -79.4343533
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7383409802915,
+                  "lng" : -79.43300131970848
+               },
+               "southwest" : {
+                  "lat" : 43.7356430197085,
+                  "lng" : -79.43569928029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Circle K",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104958851905736855636\"\u003eCircle K\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL0Y_jszSdFeByTsylviCI4I_kiEYb8_cQcecHT0tu6-BZXcbK3_OW4iDHigIW0gPq2DHsqBYjRXaFtopBaeenRzFrEgf_whaZ0RPxh_h22QNEJSZimCgnS8SnfzuPYdH4_XHCdLTP-9xXd5UzvCPQmT9y4r-3O-tJFVfkZPFCgMQhI",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJgalTAl0yK4gRnpPVCxmgim8",
+         "plus_code" : {
+            "compound_code" : "PHP8+R7 North York, Toronto, ON, Canada",
+            "global_code" : "87M2PHP8+R7"
+         },
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "ChIJgalTAl0yK4gRnpPVCxmgim8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "atm",
+            "gas_station",
+            "finance",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 90,
+         "vicinity" : "3750 Bathurst Street, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7438194,
+               "lng" : -79.4060145
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7451373802915,
+                  "lng" : -79.4049345697085
+               },
+               "southwest" : {
+                  "lat" : 43.7424394197085,
+                  "lng" : -79.40763253029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117744310226098438804\"\u003eMurat Akyuz\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI9qk_9cd4689FO3YPYNfDvFPEyvkOw0Z2vTvS-Gzog9NJqw0ms3c5O4PlQj0MRsiMpYi_NdkvNZrdYmpCNUEaohG93Ea-tAWOe57MNiibW_3V_6Tp1IOLr15w3egvuFfq21lsQtyaR2fowgBcfrc2svAFsJHV6J0Mr4kuHLkeXcuyn",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJZfwJ5ZYyK4gRgW8FBqWz6ds",
+         "plus_code" : {
+            "compound_code" : "PHVV+GH North York, Toronto, ON, Canada",
+            "global_code" : "87M2PHVV+GH"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJZfwJ5ZYyK4gRgW8FBqWz6ds",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "car_wash",
+            "meal_delivery",
+            "finance",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 107,
+         "vicinity" : "4021 Yonge Street, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7370376,
+               "lng" : -79.43564099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7383892302915,
+                  "lng" : -79.4342931197085
+               },
+               "southwest" : {
+                  "lat" : 43.7356912697085,
+                  "lng" : -79.43699108029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Esso",
+         "place_id" : "ChIJrw_E2FwyK4gRaraPgtaE4B0",
+         "plus_code" : {
+            "compound_code" : "PHP7+RP North York, Toronto, ON, Canada",
+            "global_code" : "87M2PHP7+RP"
+         },
+         "reference" : "ChIJrw_E2FwyK4gRaraPgtaE4B0",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "335 Wilson Avenue, North York"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.73535059999999,
+               "lng" : -79.44200169999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.73686123029149,
+                  "lng" : -79.44071946970848
+               },
+               "southwest" : {
+                  "lat" : 43.7341632697085,
+                  "lng" : -79.4434174302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Gulf",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103635821750165108053\"\u003eGulf\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLD9QEktsyDqFz3c6pmibMpJI2pi6Oem1MWaNrp_nl8HiztSPMLj2U0VO8xZEjdQnU3_1jrrvqXyS7ZqSdUyfuWP0CRi78eRlAgpHbbvRxwJbCA9UXaBvP9MEmSG1AspXY0WF2rp-7Z7Q4nz_MmidiSH-n7LWGE4KC4VOZjxXgfGLHh",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJZdYb_EMyK4gRalVkbK73rP4",
+         "plus_code" : {
+            "compound_code" : "PHP5+45 North York, Toronto, ON, Canada",
+            "global_code" : "87M2PHP5+45"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJZdYb_EMyK4gRalVkbK73rP4",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "453 Wilson Avenue, North York"
+      }
+   ],
+   "status" : "OK"
+}

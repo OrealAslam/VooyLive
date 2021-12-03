@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4106762,
+               "lng" : -113.4806465
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4118177802915,
+                  "lng" : -113.4792750197085
+               },
+               "southwest" : {
+                  "lat" : 53.4091198197085,
+                  "lng" : -113.4819729802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "12a2af50fa1da6c26504ac6e2948c35d6af574f6",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105723976596511115497/photos\"\u003eMusaab tanveer\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAy8epnNFJAk3vVZCsEHPmy0X7KC0qEc67Gs-aahwv_ThPnITxGZH1wsw-aRBSyqvIQuK7tzwo-qFxX9GTQ9lyAemBLmeVUnAYEPMPHNowcTQ1oqUnvAODYlBAxibdyY5EEhCrPVZgsZLyYLzAwhrOUB6jGhQ06RUzpT--DoilhItJpsUIlQuTwQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJXS1tuy8coFMRvkngdpiGkcA",
+         "plus_code" : {
+            "compound_code" : "CG69+7P Edmonton, Alberta, Canada",
+            "global_code" : "9558CG69+7P"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJXS1tuy8coFMRvkngdpiGkcA",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "store", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 19,
+         "vicinity" : "9076 25 Avenue Southwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

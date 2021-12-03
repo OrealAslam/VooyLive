@@ -1,0 +1,483 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4859056,
+               "lng" : -113.515398
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.48771808029149,
+                  "lng" : -113.5135772697085
+               },
+               "southwest" : {
+                  "lat" : 53.48502011970849,
+                  "lng" : -113.5162752302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101610725505918033033\"\u003eDouglas Wong\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDS5m1SnIKa__8DaJ8IaeQ4SHbaS3OU1Zs-eiCuqDye8hJsAIm_YJiTIXXMfYo8YWTKydrlxThhNpIVnAMc5Wf46R0ipzXUWgP4ELLxPUcsUCVqZmfqmKslovyK8NK-GeD5q8zOZRYnHKZMrj_LF8D1HkN0h1mT-jxRP-9X7AHJk8C2",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJMUMqMkQfoFMR9wpoCqjN6N0",
+         "plus_code" : {
+            "compound_code" : "FFPM+9R Edmonton, AB, Canada",
+            "global_code" : "9558FFPM+9R"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJMUMqMkQfoFMR9wpoCqjN6N0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 269,
+         "vicinity" : "111 Street Northwest, 51 Avenue Northwest #500, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4860668,
+               "lng" : -113.5125453
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4873800302915,
+                  "lng" : -113.5110579197085
+               },
+               "southwest" : {
+                  "lat" : 53.48468206970851,
+                  "lng" : -113.5137558802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Remedy Cafe - Southgate",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117562954801041706049\"\u003eBrian\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA7VWOI8zsdwQFvZ0YZS_SKTJVcQ8OIKu6XXvXoboLCkojRucIj0EcBJ-frccx33AzCmxDdDLb1ylbEsT_iClIrZHP7esm-HHsr9F6SYdBtj__ivo18xJRttUWKLeroyUlXasxrz2vay5nxuq1VPiTtaHvIlYyDow_OLLz3r4NqXu-o",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJDb3cXUYfoFMRijPzdSMy5yo",
+         "plus_code" : {
+            "compound_code" : "FFPP+CX Edmonton, AB, Canada",
+            "global_code" : "9558FFPP+CX"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJDb3cXUYfoFMRijPzdSMy5yo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 139,
+         "vicinity" : "5015 111 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4886554,
+               "lng" : -113.5155602
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4899850802915,
+                  "lng" : -113.5140864697085
+               },
+               "southwest" : {
+                  "lat" : 53.4872871197085,
+                  "lng" : -113.5167844302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115003776830529558027\"\u003eAdib Kaddoura\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECjatkJOHBFkj01eODz-t7A_3lyK_EFw6PZKozPOOsMa1Uaoh9_bHH9ys9PK0VSZHqOiDEyEHJr9API3XusPT_v3IbYm8CfQnbiv89gLGQw9PeaoRa0UqFRar8m-SGogHnQ0JBE3VwS4qjTIfAdKMHIOHbCwmBtWNXadA2JbXWd6LHz",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJmT2LxUUfoFMR1gA7mQrbEvQ",
+         "plus_code" : {
+            "compound_code" : "FFQM+FQ Edmonton, AB, Canada",
+            "global_code" : "9558FFQM+FQ"
+         },
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "ChIJmT2LxUUfoFMR1gA7mQrbEvQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1036,
+         "vicinity" : "11084 51 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4740301,
+               "lng" : -113.4928081
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4753781302915,
+                  "lng" : -113.4913377697085
+               },
+               "southwest" : {
+                  "lat" : 53.4726801697085,
+                  "lng" : -113.4940357302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107699192359115590893\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAC1_i-BKhKsVXuskXGkqfVW7CHva8Fq6QpPU7JZYY53gzR8wbIR6akzyEkTdYfHuwjmARFAjg86Q5rEpltqu7CkWtsyMX2GwzZ3azWRGIOqF4fhJBGIFxnlgmwROPVn2ObdoRVm9gyAi7E-lMOKKqMcsgTwOvPVrBKskvyNTjv9sSi",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJJZJ-Mi4foFMRZOMtsx1kuFs",
+         "plus_code" : {
+            "compound_code" : "FGF4+JV Edmonton, AB, Canada",
+            "global_code" : "9558FGF4+JV"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJJZJ-Mi4foFMRZOMtsx1kuFs",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 577,
+         "vicinity" : "3906 Gateway Boulevard Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4697208,
+               "lng" : -113.495011
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.47106873029149,
+                  "lng" : -113.4937561697085
+               },
+               "southwest" : {
+                  "lat" : 53.46837076970849,
+                  "lng" : -113.4964541302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 305,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105028288454265455387\"\u003eTim Hortons\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAuGF5l54XsAGdSW0x3EpfJWKW6DOWORQi3Gd8xHacPx8XR-lkiRJFWpMZ-XcBb4RrkbCKlH3PxG81_oZkPZr7yYD7vtgkEwODhJirT-ycs40FvOs9vruvJfOS46ZM3rUyCYoWff4xiITx-Ua_hk1fBZperhoVnoiLn79VUpRij-aiu",
+               "width" : 549
+            }
+         ],
+         "place_id" : "ChIJr-BpgyUfoFMRX0bEUM8s9tQ",
+         "plus_code" : {
+            "compound_code" : "FG93+VX Edmonton, AB, Canada",
+            "global_code" : "9558FG93+VX"
+         },
+         "price_level" : 1,
+         "rating" : 3.3,
+         "reference" : "ChIJr-BpgyUfoFMRX0bEUM8s9tQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 49,
+         "vicinity" : "3615 Calgary Trail Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4871391,
+               "lng" : -113.513436
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4886227302915,
+                  "lng" : -113.5119295697085
+               },
+               "southwest" : {
+                  "lat" : 53.4859247697085,
+                  "lng" : -113.5146275302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103759868681972970275\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA_Edya9pzggrbqLaV5B0rQDfxJMqQ2WxBg9Nt1DKN0CRVzvHFwAsr0SIO1FoxLnezyi2tMnHpnFylab5jgjpWyShNkQyrzXSUvmOOmn1wnaaGya_P3ii1KAvXFrs6kET5exQO7TrbKPCFR9Lvt26lR6tMWsM0VYYjx_HBs59V6IvRA",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJH5ldzEUfoFMRikXBrNuL7es",
+         "plus_code" : {
+            "compound_code" : "FFPP+VJ Edmonton, AB, Canada",
+            "global_code" : "9558FFPP+VJ"
+         },
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "ChIJH5ldzEUfoFMRikXBrNuL7es",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 30,
+         "vicinity" : "in Safeway, 100A-5015 111 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4722732,
+               "lng" : -113.5398415
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4738259802915,
+                  "lng" : -113.5382869697085
+               },
+               "southwest" : {
+                  "lat" : 53.4711280197085,
+                  "lng" : -113.5409849302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Square 1 Coffee",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101610725505918033033\"\u003eDouglas Wong\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAt8sMiRyi9d-2a-1t0LOOTbu_7_C1sKcK5UBZRNzOyNdF9SFa-JGfBkSZdSAkBGFbQ60YLAbnp6VD8DNhqbCTUK2Tmf_faszi3RnJd1oF5Jb2ny6aDBCC0KwbhEmTINT7dCxqcB3D_NAVECusItYlqZwslHoPbUePZlsOYj54Kbj-o",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJqzj_RAwfoFMR-TjaiI-mpD8",
+         "plus_code" : {
+            "compound_code" : "FFC6+W3 Edmonton, AB, Canada",
+            "global_code" : "9558FFC6+W3"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJqzj_RAwfoFMR-TjaiI-mpD8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1014,
+         "vicinity" : "15 Fairway Drive Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4885867,
+               "lng" : -113.5040245
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4899523302915,
+                  "lng" : -113.5028617697085
+               },
+               "southwest" : {
+                  "lat" : 53.4872543697085,
+                  "lng" : -113.5055597302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Neighbours Coffee",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJwcnLOUkfoFMR_jpc87bP8Ig",
+         "plus_code" : {
+            "compound_code" : "FFQW+C9 Edmonton, AB, Canada",
+            "global_code" : "9558FFQW+C9"
+         },
+         "reference" : "ChIJwcnLOUkfoFMR_jpc87bP8Ig",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "10560 51 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.48859650000001,
+               "lng" : -113.5417473
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4900674802915,
+                  "lng" : -113.5404130197085
+               },
+               "southwest" : {
+                  "lat" : 53.4873695197085,
+                  "lng" : -113.5431109802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Neighbours Coffee",
+         "place_id" : "ChIJ93KhlWUfoFMRCLgGL-sRoT0",
+         "plus_code" : {
+            "compound_code" : "FFQ5+C8 Edmonton, AB, Canada",
+            "global_code" : "9558FFQ5+C8"
+         },
+         "reference" : "ChIJ93KhlWUfoFMRCLgGL-sRoT0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "51 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4893193,
+               "lng" : -113.5425512
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4907044802915,
+                  "lng" : -113.5409568197085
+               },
+               "southwest" : {
+                  "lat" : 53.4880065197085,
+                  "lng" : -113.5436547802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "Awn Kitchen",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1500,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109088223403424354549\"\u003eAwn Kitchen\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAWF2nGIVWIWvs8faXm3YLJm37ITbA6nnTaBW4oHdyvrpin_AqULUTnbsR4u5ce6TBlr4yZKyIrkejlvLqSTBkj5Yv3OLy938rH2ZYtrl4Cq899dwK7HuGeUYdpGRan4Kwvlfs70HGi0Sqii3BgtR94k1koYj1mIA2tkfCPQLjhEdQ6",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJU1bE-IQfoFMR3rmpCcq9DAI",
+         "plus_code" : {
+            "compound_code" : "FFQ4+PX Edmonton, AB, Canada",
+            "global_code" : "9558FFQ4+PX"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJU1bE-IQfoFMR3rmpCcq9DAI",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11,
+         "vicinity" : "5124 122 Street Northwest #104, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

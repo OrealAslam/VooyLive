@@ -1,0 +1,168 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.27346230000001,
+               "lng" : -123.1163371
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2746811302915,
+                  "lng" : -123.1149925197085
+               },
+               "southwest" : {
+                  "lat" : 49.2719831697085,
+                  "lng" : -123.1176904802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "On Trac",
+         "obfuscated_type" : [],
+         "place_id" : "ChIJWc_8iddzhlQRAD86z7Pxgg4",
+         "plus_code" : {
+            "compound_code" : "7VFM+9F Vancouver, BC, Canada",
+            "global_code" : "84XR7VFM+9F"
+         },
+         "reference" : "ChIJWc_8iddzhlQRAD86z7Pxgg4",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "1033 Marinaside Crescent, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2604901,
+               "lng" : -123.1007501
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.26184068029149,
+                  "lng" : -123.0995226197085
+               },
+               "southwest" : {
+                  "lat" : 49.25914271970849,
+                  "lng" : -123.1022205802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Chevron",
+         "obfuscated_type" : [],
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 737,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112151445665389645264\"\u003eChevron\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL6H_c0AiVRO76weU7yqHbjGlGB0TdFIDgCH3bHYszlI-es7zXYoEh8GjceISuz3-F0_oR6xkuwkLqdSJeNuFjVQ6NcvEIo5cGCzIZ7Wo-TiGsi0OkrFkRb5M6HP0q-VuzsQOB71YFsmi8ubB9r5cgQalHMZ9n5kklEJ0ubVx_IVKre",
+               "width" : 983
+            }
+         ],
+         "place_id" : "ChIJiT5jHllxhlQRWiYwfg6GLi4",
+         "plus_code" : {
+            "compound_code" : "7V6X+5M Vancouver, BC, Canada",
+            "global_code" : "84XR7V6X+5M"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJiT5jHllxhlQRWiYwfg6GLi4",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 139,
+         "vicinity" : "2748 Main Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2695265,
+               "lng" : -123.1011309
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2708724302915,
+                  "lng" : -123.0996054697085
+               },
+               "southwest" : {
+                  "lat" : 49.26817446970851,
+                  "lng" : -123.1023034302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Shell",
+         "obfuscated_type" : [],
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116514839842430167254\"\u003eTomm A\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIZHD8HEfDODgKrPp2Yno9LijUFThZlo75TEeZ7SULa14ed5Wr0Oh72ugMKY4WLlYmoki0OXIIVoBmdMPjyNKO4qv-h7h7LrBmDQUPvz7dAtWlJO9yUZfEqqtPw7Phw3lHjFxaWFzs9oIHCeLKC_p5ifddQ0tfv3fBBqGy60OKi5KQD",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJsV-J5WBxhlQRCkRBwetS5p4",
+         "plus_code" : {
+            "compound_code" : "7V9X+RG Vancouver, BC, Canada",
+            "global_code" : "84XR7V9X+RG"
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "ChIJsV-J5WBxhlQRCkRBwetS5p4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "car_wash",
+            "finance",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 123,
+         "vicinity" : "1785 Main Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2775863,
+               "lng" : -123.1288892
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2790365302915,
+                  "lng" : -123.1276972197085
+               },
+               "southwest" : {
+                  "lat" : 49.2763385697085,
+                  "lng" : -123.1303951802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Pure",
+         "obfuscated_type" : [],
+         "place_id" : "ChIJjxj3gNNzhlQRWonAJK-q0VM",
+         "plus_code" : {
+            "compound_code" : "7VHC+2C Vancouver, BC, Canada",
+            "global_code" : "84XR7VHC+2C"
+         },
+         "reference" : "ChIJjxj3gNNzhlQRWonAJK-q0VM",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "1252 Hornby Street, Vancouver"
+      }
+   ],
+   "status" : "OK"
+}

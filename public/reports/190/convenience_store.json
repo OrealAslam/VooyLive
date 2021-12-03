@@ -1,0 +1,562 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.54846810000001,
+               "lng" : -113.4757258
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5497785302915,
+                  "lng" : -113.4742666697085
+               },
+               "southwest" : {
+                  "lat" : 53.5470805697085,
+                  "lng" : -113.4769646302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "HUSKY",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111252995738516951595\"\u003ealee x\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ3jRVLTMvgvsKrW5zUPSco16VR3mORz8JJMJ4B6Qs1Cg3KHP0RxTZT9-23QvLbT29QYTlkfzaeFI2gxEmpe5AwMShR2krTp3lhdBBJgD--rjEs1JAnkGmr-_eEeA2V_6YksOHQB_blTrRs0GbFIdlALFRbxfQPUXjCm2OEDqdJHP90",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJTXOSoFcioFMRlySghllKqgI",
+         "plus_code" : {
+            "compound_code" : "GGXF+9P Edmonton, AB, Canada",
+            "global_code" : "9558GGXF+9P"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJTXOSoFcioFMRlySghllKqgI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 134,
+         "vicinity" : "9208 Jasper Avenue, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5408227,
+               "lng" : -113.4372107
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.54236193029149,
+                  "lng" : -113.4358603197085
+               },
+               "southwest" : {
+                  "lat" : 53.5396639697085,
+                  "lng" : -113.4385582802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Circle K",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1702,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109339704651273913033\"\u003eNorm Kerychuk\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK41lg7_btuy3fFcn5hNXGdMs8gzqTGDxwiaqG4GRvH_iQT98oGHAFRL1LZoG2tr1pl2y60GFf-Bgpft7mw82fVrGhORifZqGErK8a3JF1vlcx7yn4SbBnBfUNA-k89pQcTz6611U-X3bsjlg7VZqWlIRKNNRwbk09aU30PioUapzZB",
+               "width" : 3068
+            }
+         ],
+         "place_id" : "ChIJaaFpDZMioFMRf7OTetgqaPI",
+         "plus_code" : {
+            "compound_code" : "GHR7+84 Edmonton, AB, Canada",
+            "global_code" : "9558GHR7+84"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJaaFpDZMioFMRf7OTetgqaPI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "atm",
+            "meal_takeaway",
+            "finance",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 11,
+         "vicinity" : "7103 101 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.540993,
+               "lng" : -113.4412769
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5424416802915,
+                  "lng" : -113.4399301697085
+               },
+               "southwest" : {
+                  "lat" : 53.5397437197085,
+                  "lng" : -113.4426281302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Capilano Smoke Shop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113139682260465910781\"\u003eRoland Bressmer\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ_BWaswuazn32o2PCUJ31HHW6ohyehkAVUQ0_BaI1mV8TytcX-9IwITJUcqxrcW_5Ee22EDSpuhePe1Jo1-kzEAE0Rmc58OoOEpoUctKCKiy1oQ0Tzi5lKnA71g8oXcAqqSrmIcEfMnPR8J4aSZvErLfqQq9Os6kubVl3p293YKeUM",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJu0tw55IioFMRdrn0Gvv4OCk",
+         "plus_code" : {
+            "compound_code" : "GHR5+9F Edmonton, AB, Canada",
+            "global_code" : "9558GHR5+9F"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJu0tw55IioFMRdrn0Gvv4OCk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 8,
+         "vicinity" : "7329 101 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.55713650000001,
+               "lng" : -113.4675522
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5583603802915,
+                  "lng" : -113.4661255197085
+               },
+               "southwest" : {
+                  "lat" : 53.5556624197085,
+                  "lng" : -113.4688234802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Highland Mini Mart",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114682464232353168348\"\u003eHighland Mini Mart\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJrpe81as2E6QAPD43neRKru8ydq3YwUnYoeyzj2AbcOf5mwziJy-_-wHgEJrfHpBl22koB6Wodme2IQ1AsCVWKXoqCh9AAzqzt28naqdguVjY9y9Rjyx9NnjVEyw3kQujziXhc70tPOJGSCKeYzwWD_-AmEZ9ns39c8tMyRYLTRM8y",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJTzK9M_wioFMRQn8WAKDVDLo",
+         "plus_code" : {
+            "compound_code" : "HG4J+VX Edmonton, AB, Canada",
+            "global_code" : "9558HG4J+VX"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJTzK9M_wioFMRQn8WAKDVDLo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 24,
+         "vicinity" : "8204 Jasper Avenue, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.531929,
+               "lng" : -113.461456
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5332771302915,
+                  "lng" : -113.4600342697085
+               },
+               "southwest" : {
+                  "lat" : 53.5305791697085,
+                  "lng" : -113.4627322302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Ralphs Handi Mart",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2610,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107858012586520787551\"\u003eDallin Backstrom\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJYjKpFpFKnCyIyEXqyaxip9sOrFofSMs6kdUECyztTz_As1XckuebDyq_JyjgsIxjrtkGzduqf42KqAlBvFAYnJN2jMftTlwkpyf08zFaSJQ4h_SS3dz8ibfg4FIPfNMpMlxtTxitd4jWvJhDmJ54aUKukbus00lYq-H877aya-YMW",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJj-v40mMioFMR-CB588K0fuQ",
+         "plus_code" : {
+            "compound_code" : "GGJQ+QC Edmonton, AB, Canada",
+            "global_code" : "9558GGJQ+QC"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJj-v40mMioFMR-CB588K0fuQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 75,
+         "vicinity" : "9508 87 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5319289,
+               "lng" : -113.4685814
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5332119302915,
+                  "lng" : -113.4672291697085
+               },
+               "southwest" : {
+                  "lat" : 53.5305139697085,
+                  "lng" : -113.4699271302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Lee's Food Mart",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1526,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113139682260465910781\"\u003eRoland Bressmer\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIoqva8s_vOWKXGFzPui8cQcm-sTDHOh9wkg5FVMhbD8F4lN5sb2FpiTUjjFZso3VUQ0E-kgNiZV2MNTPDciAjbcVFW09_v1E2l4r6868NNPXz4RN4uFqNfg2H8s5YhHCB2AXE-zbZYRhb-29mKgx5Nswm50eIa6czAZ6992wESQqzs",
+               "width" : 2029
+            }
+         ],
+         "place_id" : "ChIJX95EkGYioFMRQzAVFHjhLpk",
+         "plus_code" : {
+            "compound_code" : "GGJJ+QH Edmonton, AB, Canada",
+            "global_code" : "9558GGJJ+QH"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJX95EkGYioFMRQzAVFHjhLpk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 4,
+         "vicinity" : "9202 95 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.550884,
+               "lng" : -113.477069
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.55226063029149,
+                  "lng" : -113.4755987197085
+               },
+               "southwest" : {
+                  "lat" : 53.5495626697085,
+                  "lng" : -113.4782966802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Lucky 7 Food Store",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116764339616951412436\"\u003eVictor Moke\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIGKMRlTOX3cqO0d5ZuEuu8l3-rYGwMwbgBcJWwX-wOhNNCrTwMnGhbo3x1JP8xtXcK8_kD4kmqefSWnbAH_uvc0QxZlmKe3oXEcjF9iPH-jzPNchn6PB7CxHDGcDERrxN1f731BM8lP22L59VtjRKqpBL5Mqwpjt4H-hjlhS2RT4LH",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJqyE5ZFYioFMRIIpS89t_WM8",
+         "plus_code" : {
+            "compound_code" : "HG2F+95 Edmonton, AB, Canada",
+            "global_code" : "9558HG2F+95"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJqyE5ZFYioFMRIIpS89t_WM8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 20,
+         "vicinity" : "10516 92 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5545741,
+               "lng" : -113.4726017
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.55583893029149,
+                  "lng" : -113.4710554197085
+               },
+               "southwest" : {
+                  "lat" : 53.5531409697085,
+                  "lng" : -113.4737533802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Riverside Confectionary Store",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107056634391873292122\"\u003eCassady\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJOrzh7Oe0VOteGgUVNRrxnHaj2G_klq4Xz9rXpeTuaY9XycXX7c1AI9Vt8QHqN0wH8AtKWXBR4kniMKKHggBGrAgv4l2047sq-4OunjgcZzTq_oDlP0FUZ72wynPFPm2v2yKjW35E9LC-4NZcfPJDB7XQvXVZX7hD30OI3SB0TaH7K",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJxXUkI_8ioFMRYbczIt4RTeg",
+         "plus_code" : {
+            "compound_code" : "HG3G+RX Edmonton, AB, Canada",
+            "global_code" : "9558HG3G+RX"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJxXUkI_8ioFMRYbczIt4RTeg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 4,
+         "vicinity" : "8610 Jasper Avenue, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.55498900000001,
+               "lng" : -113.471888
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.55628738029149,
+                  "lng" : -113.4704189197085
+               },
+               "southwest" : {
+                  "lat" : 53.55358941970849,
+                  "lng" : -113.4731168802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "7ways Convenience Store",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1794,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103937052541897406591\"\u003eNina Nasr\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJdxBTvARfBBGRHb7nbdZ2JJDL7Y7hrfKNRSZMxHCIhWvc0S_XjtOV0eiW0I6JH5lRMVl9d5iifieoEi89hE2XZK0MJuea7XawUsPrjN1jbr8qgN9RivPfvBfPhAG-L3SmEVwQXnyg55LlYcG5UyrHMy2uyRvk23kgwuJgueMI5zHWf",
+               "width" : 1838
+            }
+         ],
+         "place_id" : "ChIJs7a44f4ioFMRlyolg5qec6k",
+         "plus_code" : {
+            "compound_code" : "HG3H+X6 Edmonton, AB, Canada",
+            "global_code" : "9558HG3H+X6"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJs7a44f4ioFMRlyolg5qec6k",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 12,
+         "vicinity" : "8528 Jasper Avenue, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5444295,
+               "lng" : -113.4828629
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5457784802915,
+                  "lng" : -113.4815139197085
+               },
+               "southwest" : {
+                  "lat" : 53.5430805197085,
+                  "lng" : -113.4842118802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Your Mart",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJkxmdm8kjoFMRP8Y2iyU1fTg",
+         "plus_code" : {
+            "compound_code" : "GGV8+QV Edmonton, AB, Canada",
+            "global_code" : "9558GGV8+QV"
+         },
+         "rating" : 5,
+         "reference" : "ChIJkxmdm8kjoFMRP8Y2iyU1fTg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "10168 96 Street, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5495323,
+               "lng" : -113.4811686
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.55088273029151,
+                  "lng" : -113.4798725697085
+               },
+               "southwest" : {
+                  "lat" : 53.54818476970851,
+                  "lng" : -113.4825705302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Lucky Renaissance Food Store",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116054054869716320086\"\u003eMinase\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLJQ-BW_GmR-88t9HGHvQxERccTgfAF8SZG-f1sLsNgFiuv5ElQxQM_QHzF06sMAst50-gUvCO-9Te2xEG6n7x054oJBbbo7gK20JR4o2e7RB1Wgikv_MUBwId1Q4XO1UYc5iGMdMep5sTCF656KWa4jVUWbcwfolQwEV9mf1nbTqcD",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJR6eUEVwjoFMRDafnZKkdetg",
+         "plus_code" : {
+            "compound_code" : "GGX9+RG Edmonton, AB, Canada",
+            "global_code" : "9558GGX9+RG"
+         },
+         "rating" : 4,
+         "reference" : "ChIJR6eUEVwjoFMRDafnZKkdetg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "10412 95 Street, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

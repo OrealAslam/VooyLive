@@ -1,0 +1,390 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4962428,
+               "lng" : -113.6478755
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4975227302915,
+                  "lng" : -113.6467362197085
+               },
+               "southwest" : {
+                  "lat" : 53.4948247697085,
+                  "lng" : -113.6494341802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c197989abd0dde10f48963e21f1923ecdff5cb24",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113439032906421546015/photos\"\u003eRyan C\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtuEHjzWYO6zhi40pGazghQQgtM_xKFq27deJzspHIkE2ludk3G_W9AIUqE5WKczNMH4R4KCwLT-f4XrhfNime_K8Akm0LtFqwvQixKMIeJo-bnOnSRGTFYQjy-Ls_rEcEhAtMOMIOKir6ZNGxjCfMlJzGhTCsvcsDHy78Tk2Cai6j893n37UYg",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJmaKqZAogoFMRYj_5ur99WjY",
+         "plus_code" : {
+            "compound_code" : "F9W2+FR Edmonton, Alberta, Canada",
+            "global_code" : "9558F9W2+FR"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJmaKqZAogoFMRYj_5ur99WjY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 20,
+         "vicinity" : "6211 188 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4942387,
+               "lng" : -113.6647692
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4953897802915,
+                  "lng" : -113.6634134697085
+               },
+               "southwest" : {
+                  "lat" : 53.4926918197085,
+                  "lng" : -113.6661114302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "b09ef19f89b3ef594f5ca84b69f6d3f809ecd6b2",
+         "name" : "HUSKY",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108985839320996729436/photos\"\u003eHUSKY\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWLslhdC5jM2HhSvTnx4LxEoExWHLky3gRI07hCqPKk3q38aqyLei9XpwTbbezRH6tmwEXZ4KFxkv5FVWPnVEB9LHI1WhS7xC9mJFI9_ML6uXWeS8NI_M2qjQJU-dLDalEhBXmbS4hJlSnkTCsrHkFzhyGhRCDZYIsFhEwN8gMDlch064L8DcuA",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ01Dg45iKn1MR1F1YjLcWBtg",
+         "plus_code" : {
+            "compound_code" : "F8VP+M3 Edmonton, Alberta, Canada",
+            "global_code" : "9558F8VP+M3"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJ01Dg45iKn1MR1F1YjLcWBtg",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 62,
+         "vicinity" : "19820 62 Ave, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4959704,
+               "lng" : -113.6479565
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4972569802915,
+                  "lng" : -113.6466274697085
+               },
+               "southwest" : {
+                  "lat" : 53.4945590197085,
+                  "lng" : -113.6493254302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "55a65e2d5e5412ebdfbcaffa41c7f03a0528452d",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111077220740591034900/photos\"\u003ePetro-Canada\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOYTG_14FRutFWmb8EoQhrrWt2xt0WKFqUyjNO4XYcD8Di1-CLuoJVI45BmPb_VrGJn3mw8rJUJRC0zdflWLVrL2KaDFG6CChNdgRgkfXbxP0agPqY4pgtMHe5XI2ySqeEhCgR10ipd12I0hABxh0Oe8fGhTYwuqi1DELrpAibAoo095TRs1AVg",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJc-V5ZgogoFMRBgujYn-XcnU",
+         "plus_code" : {
+            "compound_code" : "F9W2+9R Edmonton, Alberta, Canada",
+            "global_code" : "9558F9W2+9R"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJc-V5ZgogoFMRBgujYn-XcnU",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 82,
+         "vicinity" : "6211 188 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5089371,
+               "lng" : -113.6874359
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5102951802915,
+                  "lng" : -113.6861548197085
+               },
+               "southwest" : {
+                  "lat" : 53.5075972197085,
+                  "lng" : -113.6888527802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "a003e339fa3e07974735187c7466ad394c8e8c3f",
+         "name" : "Costco Gasoline",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103049509450862845309/photos\"\u003eSean Malden\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGJAcTlSmed9MIQosrwTc6IDiJv2bfa7NGu-Nz61eACn_E9MNt8dkTDrml3QWTPEtdlAz_Q7cxhFnKUiC9wzQVGAmm6FLsGSANX9W9v01-nJK_qL78Qrk5ITlQFiWlA3xEhBDvVsKRq8AUpk_tAOU1KzmGhQKoDSrkOCqrgbXYYac4Cz58XTHug",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJBSKlN4mKn1MRPBvr0B1nNKs",
+         "plus_code" : {
+            "compound_code" : "G857+H2 Edmonton, Alberta, Canada",
+            "global_code" : "9558G857+H2"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJBSKlN4mKn1MRPBvr0B1nNKs",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 213,
+         "vicinity" : "7259 Winterburn Road Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4850534,
+               "lng" : -113.6450073
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.48645283029149,
+                  "lng" : -113.6439450697085
+               },
+               "southwest" : {
+                  "lat" : 53.4837548697085,
+                  "lng" : -113.6466430302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "795faa4fb6582ade81b9b2a6f65a94cebff6c69e",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3144,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113064362345433710074/photos\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPlQ-JeWKS4bfAKLjwQBZ8DuoxAzdkm7FWLppdzWO2bQemzg8h8n603R_HbfjNG_92UFcWVT-e_RzoUmFxqYM_9fTEeXKHV6bxb76pP6TI25u44BS_UhCRuWqYn1J_En0EhBFSfT6TYTbRJM2DRZisYzWGhRMuJcOLfDDOfSq5vybWrdKIrmIYw",
+               "width" : 3144
+            }
+         ],
+         "place_id" : "ChIJfXbIB6mKn1MRiM2A07RcSKw",
+         "plus_code" : {
+            "compound_code" : "F9P3+2X Edmonton, Alberta, Canada",
+            "global_code" : "9558F9P3+2X"
+         },
+         "rating" : 5,
+         "reference" : "ChIJfXbIB6mKn1MRiM2A07RcSKw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "4819 184 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4852161,
+               "lng" : -113.6447041
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4866449302915,
+                  "lng" : -113.6437307197085
+               },
+               "southwest" : {
+                  "lat" : 53.48394696970851,
+                  "lng" : -113.6464286802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "055d6bf5c72ec7f940c80199ae0a1120466005f7",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112034243339948647667/photos\"\u003eChristopher Lui\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcX99HxtQy2tWVsqjGrNtcEki6k8W2-3Udhp2hG_5PqOVgBJNh_dUEO969sOrP4iXIgs0GwA8SRVr2CPg00lKAbLdaTOBKlCPW5TVX-EuluGwzQLMbTGFMUMdQ9p-uv78EhBrfkbzHnooDphHzxo0Lgz8GhQmZ9HnEJDttQMNP_7lSlQh5ffFgw",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJhb9IUaKKn1MR2xl6J8uxVjA",
+         "plus_code" : {
+            "compound_code" : "F9P4+34 Edmonton, Alberta, Canada",
+            "global_code" : "9558F9P4+34"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJhb9IUaKKn1MR2xl6J8uxVjA",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 25,
+         "vicinity" : "4819 184 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4851386,
+               "lng" : -113.6447803
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.48635858029149,
+                  "lng" : -113.6433423697085
+               },
+               "southwest" : {
+                  "lat" : 53.48366061970849,
+                  "lng" : -113.6460403302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "1ec8ac345c9c509c733e85dc88f03f6e961ef1c0",
+         "name" : "Esso",
+         "place_id" : "ChIJfXbIB6mKn1MRlUCMwSME7YE",
+         "plus_code" : {
+            "compound_code" : "F9P4+33 Edmonton, Alberta, Canada",
+            "global_code" : "9558F9P4+33"
+         },
+         "rating" : 3,
+         "reference" : "ChIJfXbIB6mKn1MRlUCMwSME7YE",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "4819 184TH NW, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5105967,
+               "lng" : -113.676484
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5119449802915,
+                  "lng" : -113.6749119197085
+               },
+               "southwest" : {
+                  "lat" : 53.5092470197085,
+                  "lng" : -113.6776098802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "a015e57ce3912fce4b454b1909d426ba7f980a6d",
+         "name" : "Safeway Gas Bar",
+         "place_id" : "ChIJt3PSKYSKn1MRgebn1w96wxU",
+         "plus_code" : {
+            "compound_code" : "G86F+6C Edmonton, Alberta, Canada",
+            "global_code" : "9558G86F+6C"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJt3PSKYSKn1MRgebn1w96wxU",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "2598 Guardian Road Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4852202,
+               "lng" : -113.6446914
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.48641453029149,
+                  "lng" : -113.6432358197085
+               },
+               "southwest" : {
+                  "lat" : 53.48371656970849,
+                  "lng" : -113.6459337802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "3eeb9699fdc9fe3e5129255c48d7ade3b92b554a",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJSxFxy66Kn1MRDei_MWLfNZ8",
+         "plus_code" : {
+            "compound_code" : "F9P4+34 Edmonton, Alberta, Canada",
+            "global_code" : "9558F9P4+34"
+         },
+         "rating" : 3,
+         "reference" : "ChIJSxFxy66Kn1MRDei_MWLfNZ8",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "20010 Lessard Road Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

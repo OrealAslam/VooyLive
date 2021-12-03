@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.653226,
+               "lng" : -79.3831843
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8554579,
+                  "lng" : -79.00248100000002
+               },
+               "southwest" : {
+                  "lat" : 43.45829699999999,
+                  "lng" : -79.639219
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "9cdc0b86ce6052ab269593184e7762372e698584",
+         "name" : "Toronto",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113985577869453784894/photos\"\u003eSteve Peca\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGfAn63hqKl4eZAVAlnlrUMVVwYO3KIia4uy8uNYvRIwSc7z6UUqTjrZgkRGX4sn67v1e_8nNXEsXHZYXqqq_o76sSEDukhrqMXAt1tk82sPeeNW3RyMyVEm920Jr8sggEhAASOwo35bp0gyAqpRdmMfOGhQ4hX5MdD1fhozstaQA_18LrU2P8Q",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJpTvG15DL1IkRd8S0KlBVNTI",
+         "reference" : "CmRbAAAAa-PiC8AQ5mH6VUS5iFj0gJZ0W0eFoCDnGjXI_eIP5dW3nqjjuu9mZ8jokHrccqt0vowCYDuUnNadvQXv4fEauGzjN4QoTsqtG-iLWmO09zyryHDmfam6wiBeTrco2I09EhBCF0YKeNRE8VRHIEmSEdFTGhToeuOawOoJ8uBYGtoPzSsLWakTqg",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "Toronto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6204946,
+               "lng" : -79.5131983
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7636909,
+                  "lng" : -79.46640169999999
+               },
+               "southwest" : {
+                  "lat" : 43.58108470000001,
+                  "lng" : -79.639219
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "2fd89a3d59e06079737301435ab2d19091f68630",
+         "name" : "Etobicoke",
+         "photos" : [
+            {
+               "height" : 951,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113385713059449202257/photos\"\u003eRichard Forster\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAA7mfH6XjgRUOeabpXpJqsYsidsd9IH7OmBOXb0renLq-UmeVo3Csuj7hs2uBIwb7xL8-e2sVS_AH4E4N0EVSSTDvJrKLQRQItwAy8G-U8b8xgKKZk-Fj5ra9TYi7kEJvrEhDQe4mqSK5bxFXUNz9AKw0KGhR8mcSlqdjayHgFJOF2WGtaarIjUg",
+               "width" : 1351
+            }
+         ],
+         "place_id" : "ChIJxTNM1GA3K4gRd9VJIb_I6Vk",
+         "reference" : "CmRbAAAADU-Her-NR6jD0CaD7V3QQgPVZMt7GBvLLKDyDzb2bsFTaR_W2BtMS3WJPLny-iGeA2MpmHMJpIQAdRIDD_zOASg1eu8InOvxn2R6APh13tFc6WHCC2z5hIRAAl0npnUFEhBJbe49uOQXye20IgLdie41GhRuh-ElEUXQS56XL2V8f4TmGtfCjw",
+         "scope" : "GOOGLE",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ],
+         "vicinity" : "Etobicoke"
+      }
+   ],
+   "status" : "OK"
+}

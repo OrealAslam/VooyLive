@@ -1,0 +1,719 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQECwIAAPAunW3ZvFYL3reygjXeFbaDdimAgODMc3g76J8vB9AwcPo5-cqnjVrTqeWVTh1j23phxXJtKNjF4gM3XXawKQ4aOJsCe3myJlK8lX6Z9mGd6sm_Ym5js-GPcWrnUClIVpYWzYIJVvI8QKtxYMAGpsZctonyoc6VnR9_rgh3NG9sBEeUBbqEEHL0f4gaz4gDPS5c1jYHmV0pOJN_hCCOZMvr7b_y-O1GlKanJqJBOlNqyw3WbCOIyzlSPDPl3wQn2n9fcjAvIiLpmXlyn0UfCVGalhNWrAYWzY93gSFJJawJxe_BqDmYV3Xu-wKGVKx17SUPrkgPu-54Nat7OltriJsDxp3uBuobVJ7Wlafy3tCykQdTAcQi1h-XtPx3WkyX0_ZgX1oVPndK028TyKls8Dgoqm_sj4C25nKSf6OiDWUq62ZwFy2jH6nGsQILdwDqTZ12kKqdTQkMX5oUzAjEplfP_uedJuluM_xMiOEh4Vcj-noaDqKwCH3f28VyDAWUJIWPmnSRS01QJiIgazyuxlnxdt501iRmE-pfwSEKph2JdiXhMW5l_y162nIEtHy2NFk_iVVmU3-fmMIWgu0wtFADSYNDGPltSUwFfeLixLO7Z5oSZrD_9AEN-DzBUTZvWSGRu0xIN_Mo-6lkiDU2nIMwK-Sifst2Oqh2MhBaYyindZn4KqShITO_bTuVIRgq8BIQiLdvAoSSP6U_pYsV_ZLFgBoUY0gTON_Ef1kcCIF9y0oCxxg0WtQ",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.729724,
+               "lng" : -79.44118
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7310664802915,
+                  "lng" : -79.43981246970849
+               },
+               "southwest" : {
+                  "lat" : 43.7283685197085,
+                  "lng" : -79.44251043029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "51eac8b760dc56e2ff883269d4c3186faf13ccc1",
+         "name" : "150 Neptune Dr",
+         "place_id" : "ChIJZVvzQ08yK4gRilkDAIdwRtU",
+         "plus_code" : {
+            "compound_code" : "PHH5+VG Toronto, Ontario, Canada",
+            "global_code" : "87M2PHH5+VG"
+         },
+         "rating" : 2,
+         "reference" : "ChIJZVvzQ08yK4gRilkDAIdwRtU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.72992,
+               "lng" : -79.440772
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7312845302915,
+                  "lng" : -79.4394424697085
+               },
+               "southwest" : {
+                  "lat" : 43.7285865697085,
+                  "lng" : -79.4421404302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "7a7612f44a878dd99c2cf4898b75684690e018fc",
+         "name" : "Opposite 130 Neptune Dr East Side",
+         "place_id" : "ChIJEVngZ08yK4gReGQwWhVlSSM",
+         "plus_code" : {
+            "compound_code" : "PHH5+XM Toronto, Ontario, Canada",
+            "global_code" : "87M2PHH5+XM"
+         },
+         "rating" : 4,
+         "reference" : "ChIJEVngZ08yK4gReGQwWhVlSSM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.728924,
+               "lng" : -79.441124
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.73027683029149,
+                  "lng" : -79.4397568697085
+               },
+               "southwest" : {
+                  "lat" : 43.72757886970849,
+                  "lng" : -79.44245483029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "289a82246fa45c1519d2a5215d266efdfc085bce",
+         "name" : "Neptune Dr At Sir Sandford Fleming Academy",
+         "place_id" : "ChIJh89gPE8yK4gR8lhbUPkPViY",
+         "plus_code" : {
+            "compound_code" : "PHH5+HH Toronto, Ontario, Canada",
+            "global_code" : "87M2PHH5+HH"
+         },
+         "reference" : "ChIJh89gPE8yK4gR8lhbUPkPViY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.728942,
+               "lng" : -79.44099199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7302854302915,
+                  "lng" : -79.43966946970849
+               },
+               "southwest" : {
+                  "lat" : 43.7275874697085,
+                  "lng" : -79.44236743029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "1459b9f939c29fbb879f940f37f2f9897b2883ed",
+         "name" : "Neptune Dr At Opposite Sir Sandford Fleming Academy",
+         "place_id" : "ChIJNfawPU8yK4gRL7hVcimpi6w",
+         "plus_code" : {
+            "compound_code" : "PHH5+HJ Toronto, Ontario, Canada",
+            "global_code" : "87M2PHH5+HJ"
+         },
+         "reference" : "ChIJNfawPU8yK4gRL7hVcimpi6w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.728748,
+               "lng" : -79.440186
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.73006488029149,
+                  "lng" : -79.4388251197085
+               },
+               "southwest" : {
+                  "lat" : 43.7273669197085,
+                  "lng" : -79.44152308029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "8a44bc2503b985a7c7a82b90ceecc68363614f0c",
+         "name" : "Wagman Centre",
+         "place_id" : "ChIJyZsiEE8yK4gRRa7O2ICE7os",
+         "plus_code" : {
+            "compound_code" : "PHH5+FW Toronto, Ontario, Canada",
+            "global_code" : "87M2PHH5+FW"
+         },
+         "reference" : "ChIJyZsiEE8yK4gRRa7O2ICE7os",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.727962,
+               "lng" : -79.440736
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7293160802915,
+                  "lng" : -79.4393627697085
+               },
+               "southwest" : {
+                  "lat" : 43.7266181197085,
+                  "lng" : -79.44206073029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "b58f3937065f4081cf54ee544e4202144b56fa0c",
+         "name" : "Neptune Dr At Baycrest Ave",
+         "place_id" : "ChIJkznx4E4yK4gRbHrKRkLunP8",
+         "plus_code" : {
+            "compound_code" : "PHH5+5P Toronto, Ontario, Canada",
+            "global_code" : "87M2PHH5+5P"
+         },
+         "reference" : "ChIJkznx4E4yK4gRbHrKRkLunP8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.73133,
+               "lng" : -79.440005
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7326675302915,
+                  "lng" : -79.43864551970849
+               },
+               "southwest" : {
+                  "lat" : 43.7299695697085,
+                  "lng" : -79.44134348029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "979f61379789c7f6be78b9fa5812f3312e25bac9",
+         "name" : "122 Neptune Dr",
+         "place_id" : "ChIJ_wGHmUUyK4gRte4w2POZLiw",
+         "plus_code" : {
+            "compound_code" : "PHJ5+GX Toronto, Ontario, Canada",
+            "global_code" : "87M2PHJ5+GX"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ_wGHmUUyK4gRte4w2POZLiw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.731322,
+               "lng" : -79.43978299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7326899802915,
+                  "lng" : -79.43845346970849
+               },
+               "southwest" : {
+                  "lat" : 43.7299920197085,
+                  "lng" : -79.4411514302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "d7da89817424e5d5fc76e2de65653e1793a7adca",
+         "name" : "125 Neptune Dr East Side",
+         "place_id" : "ChIJ0W6snkUyK4gRVhWvlWIYnfU",
+         "plus_code" : {
+            "compound_code" : "PHJ6+G3 Toronto, Ontario, Canada",
+            "global_code" : "87M2PHJ6+G3"
+         },
+         "reference" : "ChIJ0W6snkUyK4gRVhWvlWIYnfU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.72773900000001,
+               "lng" : -79.44051899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.72908608029149,
+                  "lng" : -79.4391791697085
+               },
+               "southwest" : {
+                  "lat" : 43.7263881197085,
+                  "lng" : -79.44187713029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "46e69701b6ea482f00efcfc07158c1d09b017ab6",
+         "name" : "Ameer Ave At Baycrest Ave",
+         "place_id" : "ChIJd1uf5k4yK4gRer8hyIy_bvQ",
+         "plus_code" : {
+            "compound_code" : "PHH5+3Q Toronto, Ontario, Canada",
+            "global_code" : "87M2PHH5+3Q"
+         },
+         "reference" : "ChIJd1uf5k4yK4gRer8hyIy_bvQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.72704,
+               "lng" : -79.44036699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7283947802915,
+                  "lng" : -79.4389908697085
+               },
+               "southwest" : {
+                  "lat" : 43.7256968197085,
+                  "lng" : -79.44168883029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "6828c37e500c2568a2ce29f334c9b4fd4b2ce9ed",
+         "name" : "Ameer Ave At Sultana Ave",
+         "place_id" : "ChIJqwX67E4yK4gRKjOZR0jAMyE",
+         "plus_code" : {
+            "compound_code" : "PHG5+RV Toronto, Ontario, Canada",
+            "global_code" : "87M2PHG5+RV"
+         },
+         "reference" : "ChIJqwX67E4yK4gRKjOZR0jAMyE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.731745,
+               "lng" : -79.439008
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.73309923029149,
+                  "lng" : -79.43766421970849
+               },
+               "southwest" : {
+                  "lat" : 43.73040126970849,
+                  "lng" : -79.4403621802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "8bfa2c12b6696098b9649b818960d568f5d6d74f",
+         "name" : "Neptune Dr At Rajah St",
+         "place_id" : "ChIJn65qDEUyK4gRO32AroQdeZg",
+         "plus_code" : {
+            "compound_code" : "PHJ6+M9 Toronto, Ontario, Canada",
+            "global_code" : "87M2PHJ6+M9"
+         },
+         "rating" : 2,
+         "reference" : "ChIJn65qDEUyK4gRO32AroQdeZg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.730315,
+               "lng" : -79.43777299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.73167533029149,
+                  "lng" : -79.4364287197085
+               },
+               "southwest" : {
+                  "lat" : 43.7289773697085,
+                  "lng" : -79.43912668029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "5a97966a480b86ea6fcc0ef2de00df94cb4529dd",
+         "name" : "Wasdale Cres At Rajah St East Side",
+         "place_id" : "ChIJPwU-X0UyK4gR-aOrJtteiOs",
+         "plus_code" : {
+            "compound_code" : "PHJ6+4V Toronto, Ontario, Canada",
+            "global_code" : "87M2PHJ6+4V"
+         },
+         "reference" : "ChIJPwU-X0UyK4gR-aOrJtteiOs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.726862,
+               "lng" : -79.44016499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.72820923029149,
+                  "lng" : -79.43882396970849
+               },
+               "southwest" : {
+                  "lat" : 43.72551126970849,
+                  "lng" : -79.44152193029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "46a18c5419304a1b6e9add7b9168e9587901c3f7",
+         "name" : "Ameer Ave At Sultana Ave",
+         "place_id" : "ChIJzeuokk4yK4gRc71_vmO_gGc",
+         "plus_code" : {
+            "compound_code" : "PHG5+PW Toronto, Ontario, Canada",
+            "global_code" : "87M2PHG5+PW"
+         },
+         "reference" : "ChIJzeuokk4yK4gRc71_vmO_gGc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.732073,
+               "lng" : -79.43843099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.73339328029149,
+                  "lng" : -79.4370671197085
+               },
+               "southwest" : {
+                  "lat" : 43.7306953197085,
+                  "lng" : -79.43976508029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "e23b45617541cb52ba0fadaa2fc9d4271970e77d",
+         "name" : "Neptune Dr At Rajah St",
+         "place_id" : "ChIJ4TMGGkUyK4gRQ-2QOuS58XY",
+         "plus_code" : {
+            "compound_code" : "PHJ6+RJ Toronto, Ontario, Canada",
+            "global_code" : "87M2PHJ6+RJ"
+         },
+         "rating" : 1,
+         "reference" : "ChIJ4TMGGkUyK4gRQ-2QOuS58XY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.73229000000001,
+               "lng" : -79.437338
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.73363353029149,
+                  "lng" : -79.43598686970849
+               },
+               "southwest" : {
+                  "lat" : 43.7309355697085,
+                  "lng" : -79.43868483029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "0da1f77de37c773e60b065e32ce6fbe19adbed71",
+         "name" : "86 Neptune Dr",
+         "place_id" : "ChIJA6MCJkUyK4gRlxi4hvNb-Hs",
+         "plus_code" : {
+            "compound_code" : "PHJ7+W3 Toronto, Ontario, Canada",
+            "global_code" : "87M2PHJ7+W3"
+         },
+         "reference" : "ChIJA6MCJkUyK4gRlxi4hvNb-Hs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.730649,
+               "lng" : -79.436241
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7320133802915,
+                  "lng" : -79.43489831970849
+               },
+               "southwest" : {
+                  "lat" : 43.7293154197085,
+                  "lng" : -79.4375962802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "c9c67b3006f4def2d19d376049d9f42276a8a6fe",
+         "name" : "45 Wasdale Cres",
+         "place_id" : "ChIJZ8MErloyK4gRLyuSGN2gx-Y",
+         "plus_code" : {
+            "compound_code" : "PHJ7+7G Toronto, Ontario, Canada",
+            "global_code" : "87M2PHJ7+7G"
+         },
+         "reference" : "ChIJZ8MErloyK4gRLyuSGN2gx-Y",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.725366,
+               "lng" : -79.43967099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.72671843029149,
+                  "lng" : -79.43830501970849
+               },
+               "southwest" : {
+                  "lat" : 43.7240204697085,
+                  "lng" : -79.4410029802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "d189c2c28ad5ca8ea025d3776c944e0fce92c528",
+         "name" : "Ameer Ave At Ranee Ave",
+         "place_id" : "ChIJfeB3LEwyK4gRA482-MN4q2E",
+         "plus_code" : {
+            "compound_code" : "PHG6+44 Toronto, Ontario, Canada",
+            "global_code" : "87M2PHG6+44"
+         },
+         "rating" : 5,
+         "reference" : "ChIJfeB3LEwyK4gRA482-MN4q2E",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.725159,
+               "lng" : -79.43967099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7265181302915,
+                  "lng" : -79.43832606970849
+               },
+               "southwest" : {
+                  "lat" : 43.7238201697085,
+                  "lng" : -79.4410240302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "768132d188074535ab5704e8c4e01b89a26f306b",
+         "name" : "Ranee Ave At Ameer Ave",
+         "place_id" : "ChIJJb68LUwyK4gRh2_jw-Inyxc",
+         "plus_code" : {
+            "compound_code" : "PHG6+34 Toronto, Ontario, Canada",
+            "global_code" : "87M2PHG6+34"
+         },
+         "reference" : "ChIJJb68LUwyK4gRh2_jw-Inyxc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.72461299999999,
+               "lng" : -79.44266500000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7259446802915,
+                  "lng" : -79.44130856970848
+               },
+               "southwest" : {
+                  "lat" : 43.7232467197085,
+                  "lng" : -79.4440065302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "654b5e248096603dde634e4fb2db63eb3c5de024",
+         "name" : "Ranee Ave At Mikado Ave",
+         "place_id" : "ChIJvTWIjEsyK4gRc8WrI_-QIeo",
+         "plus_code" : {
+            "compound_code" : "PHF4+RW Toronto, Ontario, Canada",
+            "global_code" : "87M2PHF4+RW"
+         },
+         "reference" : "ChIJvTWIjEsyK4gRc8WrI_-QIeo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.724471,
+               "lng" : -79.442849
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7258364302915,
+                  "lng" : -79.44150636970849
+               },
+               "southwest" : {
+                  "lat" : 43.7231384697085,
+                  "lng" : -79.44420433029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "4359ee8ea3dbe451d7beae2be5a5863567d08c49",
+         "name" : "Ranee Ave At Mikado Ave",
+         "place_id" : "ChIJa292jksyK4gRHZfiLz11RFE",
+         "plus_code" : {
+            "compound_code" : "PHF4+QV Toronto, Ontario, Canada",
+            "global_code" : "87M2PHF4+QV"
+         },
+         "reference" : "ChIJa292jksyK4gRHZfiLz11RFE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      }
+   ],
+   "status" : "OK"
+}

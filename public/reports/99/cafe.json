@@ -1,0 +1,102 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4759524,
+               "lng" : -113.5382485
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4773013802915,
+                  "lng" : -113.5368995197085
+               },
+               "southwest" : {
+                  "lat" : 53.4746034197085,
+                  "lng" : -113.5395974802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bda09646ff506aa449bd4c1854d0a86802491e42",
+         "name" : "Mac's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 801,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114462118634998569320/photos\"\u003eMac&#39;s\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1QjlYSW-5780WA5o5fGEmYo1Yai5H7_MBS4rStZTofKQjGyu_l0yaEJMbCygV_98-tsImqQ2S8na_dlV2GMxHasjArcLOWzkdiq3kon1ZAx2lJYatuEf6u33SSRLgIvWEhAC_Ws98qK3r6RX0ovHScARGhTkweHHw49NUPjPwtPdBlUCWLR56Q",
+               "width" : 1424
+            }
+         ],
+         "place_id" : "ChIJmR-1Uw0foFMRZtklofYaeVA",
+         "plus_code" : {
+            "compound_code" : "FFG6+9P Edmonton, Alberta, Canada",
+            "global_code" : "9558FFG6+9P"
+         },
+         "rating" : 2.9,
+         "reference" : "CmRRAAAAMk8zfqsaz9xAQ51n15LIJmMhHcMKK_uNQOz2vyVtWEpGLKMikKH4iXgfSU4wh6M_o_oe6bq0VLp6XKTSmfetBrzJEuIQGF44xE8Z-QKNXlcozSd5PcvqO-SxUQBXeqqvEhBadJnOqYqRWe5f8g4ZBcvRGhSAShUAQ-Xp1L4prrIAiPhPV8wVpA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "atm",
+            "cafe",
+            "finance",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "11835 40 Avenue Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.47241400000001,
+               "lng" : -113.540008
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4738940802915,
+                  "lng" : -113.5386622197085
+               },
+               "southwest" : {
+                  "lat" : 53.4711961197085,
+                  "lng" : -113.5413601802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "4b8b4e0c7b5d076de15b3ef555ce053c5bec7694",
+         "name" : "Square 1 Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118306171897868585813/photos\"\u003eDaunavan Buyer\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxQAZveTiNBEN_gWLrFT-ZxBD0IPLraeSLHFhAq6TZ4SN_yx5HMo4X_IucDsP55JIAt2ZoK4-RTG1EquUTpGfRpFad0ZqrpQN9z6bCEdPV1HZoh_6Wf9xg1mn9vxIW964EhDPwkfZej_k24PJA1KkawTDGhSOg3GSjeFxnRdYsgeU_2OA3hJd3w",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJqzj_RAwfoFMR-TjaiI-mpD8",
+         "plus_code" : {
+            "compound_code" : "FFC5+XX Edmonton, Alberta, Canada",
+            "global_code" : "9558FFC5+XX"
+         },
+         "rating" : 4.7,
+         "reference" : "CmRRAAAArPloqJY5MXgrI5LNT2SUIpLmF9ANSJM-1VvZHoAAy615vwm_j1MsyQ-mzeW3-O8SH9L-bFNP_aYmDpX-Oafo_UcRM7n8uYkRJk5sz8cQwu-sHeWjbIaHUPRx_8zOluSlEhBQwQ2-COYPPygFTsWezAULGhTDlJpWme5x1aKncTFQsnUBHdsH2Q",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "15 Fairway Drive Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

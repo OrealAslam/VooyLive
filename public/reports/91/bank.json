@@ -1,0 +1,94 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.50381429999999,
+               "lng" : -113.6143207
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5051626302915,
+                  "lng" : -113.6134808197085
+               },
+               "southwest" : {
+                  "lat" : 53.5024646697085,
+                  "lng" : -113.6161787802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "9f5826ab8030f7084d47bc91973a3143a9ffd991",
+         "name" : "BMO Bank of Montreal",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2374,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113439032906421546015/photos\"\u003eRyan C\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAS-LsODGFIjKPWdGsla1x_BlVLd2gfjvbOhcvhDtks6xW-DRgAP2jiL16U39WDc0bDQNBNvhfuDXl3wIlmIxuJ0UG5rkUkJHz-6rWtpHApWaSoQQurpNm53sJ4ztM9d-fEhDo2RSm0k8xHwElObae7gbHGhRnKLJoytt02Q75EX4J4iuAg1kRrw",
+               "width" : 4221
+            }
+         ],
+         "place_id" : "ChIJk0nrrj8goFMROiCxbzsB5WU",
+         "plus_code" : {
+            "compound_code" : "G93P+G7 Edmonton, Alberta, Canada",
+            "global_code" : "9558G93P+G7"
+         },
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAagZy5etIscchfemc2x10Q8R5Wjz3QibtxSWPUw1ItwGlkySEWzDAUtdfOeU3BZB4Xx96bnv3hSv6tJMe2Wh1zWdFupdcFM3DHZYyxyp1KPx_MSYljk03qjfaSHYNTUbEEhDYwv_j1ruL9IUqj2HYJFs4GhTbiN2TD0k4EvJZ7EvRJ7oHpTFzNw",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "6833 170 Street Northwest, Edmonton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5007087,
+               "lng" : -113.629936
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5020300802915,
+                  "lng" : -113.6288978697085
+               },
+               "southwest" : {
+                  "lat" : 53.49933211970851,
+                  "lng" : -113.6315958302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "e1509645bc3290fb721f953fd53e5f20b6450636",
+         "name" : "TD Canada Trust",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109503049554011544859/photos\"\u003eTD Canada Trust\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwElxzuncJVo-pP2PF9-IdKulPvmm53l_ftIkgMN2nor-oi56aMy9dLbyMjWXdVGt2pBt97N8Y6Ehpx0p5ujtIjKF9PWrfWHsZ4RTPdKySCEcWFpAAAvB87rGgcQB57tgEhCugHX3JlL-bH4r6MskSdBqGhSSgrRxPmVW6K7NZLcpR5VoQbKxZw",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJR9aNDBMgoFMRl31emMLJ76g",
+         "plus_code" : {
+            "compound_code" : "G92C+72 Edmonton, Alberta, Canada",
+            "global_code" : "9558G92C+72"
+         },
+         "rating" : 3,
+         "reference" : "CmRSAAAAKrzUEacsoZA47ie5XoGSz3etXUE9lQQdzbNO-dX9zKLXiIvKycV5vgGfSDMWmfMR9xdDXYoYBJ-lKg_brJzDNKufRrSaldEP2FM4j1DeAvQJIlmkVs2ve_HY7RmEkl7sEhBl3sAHeXCby9DQIYO0OYkRGhRm7Dnh5L0L_OHOHWjYme8XHzO2Gg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "6655 178 Street Northwest Unit 120, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

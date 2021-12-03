@@ -1,0 +1,593 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.46987970000001,
+               "lng" : -113.4950096
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4712275802915,
+                  "lng" : -113.4937580197085
+               },
+               "southwest" : {
+                  "lat" : 53.4685296197085,
+                  "lng" : -113.4964559802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3144,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110996005157812108803\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ4vDWgzBB1Fmu_WR6Vf9Zc9ZrpoyuNg2Jh9ElZI_ZGVApcTeRCl4XbUSYex1A-S2u7JhzYuDpvMhGI5GvZboM533QSt0gGTKkMroXZGBwxTEF5uycR4hVkmkiKXm8xpCrrzK-7j_cEJqER0iV9RaSHLlW1S_WQ-U8liJnc3pWxiTe7",
+               "width" : 3144
+            }
+         ],
+         "place_id" : "ChIJ7eAvkyUfoFMRnrwh8XfbA7Y",
+         "plus_code" : {
+            "compound_code" : "FG93+XX Edmonton, AB, Canada",
+            "global_code" : "9558FG93+XX"
+         },
+         "rating" : 2.8,
+         "reference" : "ChIJ7eAvkyUfoFMRnrwh8XfbA7Y",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 13,
+         "vicinity" : "3615 Calgary Trail Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.462052,
+               "lng" : -113.49288
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4633553802915,
+                  "lng" : -113.4915289697085
+               },
+               "southwest" : {
+                  "lat" : 53.4606574197085,
+                  "lng" : -113.4942269302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112579476379958798695\"\u003eCody Tritter\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJVYJydm7AW9XhUcCUonDrIK4-OOSl9pdToN4mUrILx042ou8VJmVZaa2wQtd2NZcL-TtwiJCvXqq0mtDO3swaLPOtGcHIKsVeindHjw8CX24PPO6VCe_OZXdJF7tkHR7Dw8xtBps0tBQeR7cU-Kws-KpaZ4sMiHLuQkW6DQvCHeyaJ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ0XN6kdgeoFMRnaNiJbqaWqU",
+         "plus_code" : {
+            "compound_code" : "FG64+RR Edmonton, AB, Canada",
+            "global_code" : "9558FG64+RR"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJ0XN6kdgeoFMRnaNiJbqaWqU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 142,
+         "vicinity" : "3003 Calgary Trail Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4871621,
+               "lng" : -113.4958197
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.48851818029149,
+                  "lng" : -113.4942286697085
+               },
+               "southwest" : {
+                  "lat" : 53.4858202197085,
+                  "lng" : -113.4969266302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3144,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102980062028153553434\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJXJUB4Pktmjnom9zWtrJurrd9YiXSYX6kjHQ4NKz5gY0m8o4AMbCe4uWsHLpLPaDREi4Y0H2OOD8ee-uwq5Px4SQR9zxZny7rpt_SbJTvhryrXI5mbFONbHeIClsmqSgwh0f2_dHQIvhkZewvmWyKvh7c7PUNuEaLD3i9tqQV0Ibj7",
+               "width" : 3144
+            }
+         ],
+         "place_id" : "ChIJAQAMX0ofoFMRsgh-MeAcX3M",
+         "plus_code" : {
+            "compound_code" : "FGP3+VM Edmonton, AB, Canada",
+            "global_code" : "9558FGP3+VM"
+         },
+         "rating" : 2.6,
+         "reference" : "ChIJAQAMX0ofoFMRsgh-MeAcX3M",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 11,
+         "vicinity" : "4950 Calgary Trail Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.47501989999999,
+               "lng" : -113.5045781
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4763661302915,
+                  "lng" : -113.5033316697085
+               },
+               "southwest" : {
+                  "lat" : 53.4736681697085,
+                  "lng" : -113.5060296302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Circle K",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110776834915285945469\"\u003eCircle K\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIUx3Xu7kzftWXBFuXlqax7Nxpqoh5OnBAk8DNgBEADx9baJc10hN_KtgCU2nw-j81ItcDe_QG2gyo8VFdBGux2_gMtqQfcq1O1ah7RaOk1JXefolKxpmTlvvuwogKkhGUq3n8ZaNBXpjmw7Y1VuTkAOO9iFAJaNRrax-4lbxKhwJFs",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJBQLanzsfoFMR3PdJkhKIvtc",
+         "plus_code" : {
+            "compound_code" : "FFGW+25 Edmonton, AB, Canada",
+            "global_code" : "9558FFGW+25"
+         },
+         "rating" : 2.6,
+         "reference" : "ChIJBQLanzsfoFMR3PdJkhKIvtc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "atm",
+            "meal_takeaway",
+            "finance",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 19,
+         "vicinity" : "3923 106 Street, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4622268,
+               "lng" : -113.5022445
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4636418302915,
+                  "lng" : -113.5009277697085
+               },
+               "southwest" : {
+                  "lat" : 53.4609438697085,
+                  "lng" : -113.5036257302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Snickerdoodles",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1237,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118098897907596372339\"\u003eBebe Chan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLLULyHIWRQcZk17L8lj-yf2rYf3vI7aoQa9TKaCYAC7FO8b7OlV0BsAox5BKcvCDCbm5R27ZjBJfUk-3tgAYzxQtQmtjvw308EaRe4uQI0jr7SCbBe-pX7qeW_I2fNpUobC8KpQXrEVu0Bb1MXSmL51Cnz4ddNXFc1W8UY81wCjoKk",
+               "width" : 2203
+            }
+         ],
+         "place_id" : "ChIJ5_tXWSAfoFMRAJwyz1q9EYY",
+         "plus_code" : {
+            "compound_code" : "FF6X+V4 Edmonton, AB, Canada",
+            "global_code" : "9558FF6X+V4"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJ5_tXWSAfoFMRAJwyz1q9EYY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 18,
+         "vicinity" : "3004 106 Street, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.46356249999999,
+               "lng" : -113.4937476
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4647925802915,
+                  "lng" : -113.4928296197085
+               },
+               "southwest" : {
+                  "lat" : 53.4620946197085,
+                  "lng" : -113.4955275802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "HUSKY",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111426283479485205807\"\u003eHUSKY\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKkRSNCuxU7hTGCTJBLLaga6P4ihCRJEzsP20BcNpvv72n280gw-HzL7v_mm3CdA72IKnFZgIZsUpeCD9irR_TNaGTa-1fMXMxoBqEw0nPzegrba8WFL94RqiCxmiasIfv00smSFUpjLr1vicXrll6TWXanWmhBDhkdge5FEPJQzdzC",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ6-hVaCcfoFMRzTFznckfS5k",
+         "plus_code" : {
+            "compound_code" : "FG74+CG Edmonton, AB, Canada",
+            "global_code" : "9558FG74+CG"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJ6-hVaCcfoFMRzTFznckfS5k",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 54,
+         "vicinity" : "3105 Calgary Trail Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4621296,
+               "lng" : -113.494165
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.46357268029151,
+                  "lng" : -113.4929130197085
+               },
+               "southwest" : {
+                  "lat" : 53.46087471970851,
+                  "lng" : -113.4956109802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Fas Gas Plus convenience store",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109851710687283694566\"\u003eFas Gas Plus convenience store\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKDxEKU95qp-R9Dx6dGGIUOq8um40bln28r_gaatDP3gliFQIM5Nrusbj45wrid3IqtInSPK_WoyNtQ44IAVWfkgMocjGI2CMk0AttbRVs1Basy6NhjtANgdLhpyoPJNr1Kli1V5_LRSHtTGFurvYeEmduIIiQMB_DPgLI874Shi8Zm",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJxX8CdvwfoFMRhDeY7GoQwlg",
+         "plus_code" : {
+            "compound_code" : "FG64+V8 Edmonton, AB, Canada",
+            "global_code" : "9558FG64+V8"
+         },
+         "reference" : "ChIJxX8CdvwfoFMRhDeY7GoQwlg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "3006 Calgary Trail S, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.48255,
+               "lng" : -113.480203
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4838960302915,
+                  "lng" : -113.4784454697085
+               },
+               "southwest" : {
+                  "lat" : 53.4811980697085,
+                  "lng" : -113.4811434302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "name" : "Rexall",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102259240045156046979\"\u003eRexall\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJjmK6Z0qYlpvZaZXrFVP_Zt-9bHpuXzZV-w8Ana40yYJ6Xu4ltO2jR5MeNzvt4HYnLLZAkPAr1audiGdGd0YQWXAcydV0iwI94yL9SDXFj-4LufXnBxiq0CSemfBK6f7KymS2Qc_tjw-VqvQEDgK2cXA8OzSrSix8V4o3EGKrGJSh9",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJm54keCQZoFMRjYpoNLqbs0M",
+         "plus_code" : {
+            "compound_code" : "FGM9+2W Edmonton, AB, Canada",
+            "global_code" : "9558FGM9+2W"
+         },
+         "rating" : 1.3,
+         "reference" : "ChIJm54keCQZoFMRjYpoNLqbs0M",
+         "scope" : "GOOGLE",
+         "types" : [
+            "pharmacy",
+            "beauty_salon",
+            "convenience_store",
+            "food",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 3,
+         "vicinity" : "4484 97 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4847718,
+               "lng" : -113.4808432
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4860968802915,
+                  "lng" : -113.4794940697085
+               },
+               "southwest" : {
+                  "lat" : 53.4833989197085,
+                  "lng" : -113.4821920302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "VQ TRINH INC. (treategg Products)",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJbSgIzkcZoFMR_iVd8NGswcg",
+         "plus_code" : {
+            "compound_code" : "FGM9+WM Edmonton, AB, Canada",
+            "global_code" : "9558FGM9+WM"
+         },
+         "rating" : 5,
+         "reference" : "ChIJbSgIzkcZoFMR_iVd8NGswcg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "9742 47 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.48772450000001,
+               "lng" : -113.4871291
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4890934302915,
+                  "lng" : -113.4856988197085
+               },
+               "southwest" : {
+                  "lat" : 53.4863954697085,
+                  "lng" : -113.4883967802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Select",
+         "place_id" : "ChIJBS80erUYoFMRBFJbFgbSgIE",
+         "plus_code" : {
+            "compound_code" : "FGQ7+34 Edmonton, AB, Canada",
+            "global_code" : "9558FGQ7+34"
+         },
+         "reference" : "ChIJBS80erUYoFMRBFJbFgbSgIE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4554353,
+               "lng" : -113.4954515
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.45682163029149,
+                  "lng" : -113.4943039197085
+               },
+               "southwest" : {
+                  "lat" : 53.4541236697085,
+                  "lng" : -113.4970018802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Ermineskin Groceries & Foods .(UPS Access point)",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ3yrOzd0eoFMRYrhPx28LhJA",
+         "plus_code" : {
+            "compound_code" : "FG43+5R Edmonton, AB, Canada",
+            "global_code" : "9558FG43+5R"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ3yrOzd0eoFMRYrhPx28LhJA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 7,
+         "vicinity" : "2467 104 Street Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.488602,
+               "lng" : -113.503905
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.48982083029151,
+                  "lng" : -113.5025602197085
+               },
+               "southwest" : {
+                  "lat" : 53.48712286970851,
+                  "lng" : -113.5052581802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108056308214657461425\"\u003eJake Hammell\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ1ks_0kEkXaSDbaByvLsuVy-pgrpN8doVGfYlQuJ0Q5O-Q2BdS-vUGfjyO3A4mXKmPmq2Y3JDhciUy8rVuInEVg2goNCyskv09pHGvLWf5111exXe9AHK2feTssQlbZSVrwP1rTpR7NgctVbj2teWnVHfLGHcx0XxMCW2fRXg_FYdf",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJY-xoOUkfoFMRXFU6P1j4pTM",
+         "plus_code" : {
+            "compound_code" : "FFQW+CC Edmonton, AB, Canada",
+            "global_code" : "9558FFQW+CC"
+         },
+         "rating" : 4,
+         "reference" : "ChIJY-xoOUkfoFMRXFU6P1j4pTM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 173,
+         "vicinity" : "10560 51 Avenue Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,671 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6651623,
+               "lng" : -79.3837889
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.66647653029149,
+                  "lng" : -79.38242716970849
+               },
+               "southwest" : {
+                  "lat" : 43.6637785697085,
+                  "lng" : -79.38512513029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Wellesley Station",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113036725207736941957\"\u003eChuan Chee\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKkrChzXrjY_RQJ1CnrGc-i-qzDM8Z-NXzarYtMcj5TVxtCQ7zma_RPPvgTuQCyD9M6-cHohZv0eo5vBRgulV0NCMrdegEPXocpZT51IVjybavrtAH1pGnBSuc5lybK2u_0VnjPta5RrMjdsKZOz3JHvjGClWSq6WCZEQx1bzkBrtee",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ87blrbM0K4gRFzOaqcO7sgc",
+         "plus_code" : {
+            "compound_code" : "MJ88+3F Toronto, ON, Canada",
+            "global_code" : "87M2MJ88+3F"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJ87blrbM0K4gRFzOaqcO7sgc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 15,
+         "vicinity" : "16 Wellesley Street East, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.676842,
+               "lng" : -79.38887799999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6783095302915,
+                  "lng" : -79.38753826970849
+               },
+               "southwest" : {
+                  "lat" : 43.6756115697085,
+                  "lng" : -79.39023623029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Rosedale Station",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105175761337711150993\"\u003eDan Levy\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIeBCTpn2OaIQTMmj1do_Ige5ac859CY4SvX_GxR_HAFcxOW3i9xpUvmAXWPHTNBzDgRW2OWmG6kBqqF5vVMMQlEYbD9UUCTtZkpKUAMXufBZOq60wGVbnN7-2ZKyAnu2gRSTn0KFiSQxDCWmC6fa1p-LaPzJ7jEX-ksjck8iEHS9rN",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJKzBMyqk0K4gRSClTRllTGOU",
+         "plus_code" : {
+            "compound_code" : "MJG6+PC Toronto, ON, Canada",
+            "global_code" : "87M2MJG6+PC"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJKzBMyqk0K4gRSClTRllTGOU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 14,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.660489,
+               "lng" : -79.38444699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.66171208029149,
+                  "lng" : -79.38367191970849
+               },
+               "southwest" : {
+                  "lat" : 43.65901411970849,
+                  "lng" : -79.3863698802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Standard Parking",
+         "place_id" : "ChIJnUz2uLU0K4gRn6oIo12dSMM",
+         "plus_code" : {
+            "compound_code" : "MJ68+56 Toronto, ON, Canada",
+            "global_code" : "87M2MJ68+56"
+         },
+         "reference" : "ChIJnUz2uLU0K4gRn6oIo12dSMM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "777 Bay Street, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.66827369999999,
+               "lng" : -79.39979049999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6698256802915,
+                  "lng" : -79.39646739999999
+               },
+               "southwest" : {
+                  "lat" : 43.6671277197085,
+                  "lng" : -79.40130940000003
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "St George Station",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116714977105189453426\"\u003eJérémie Henri\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJANB84ilv0NnHRH-SsPhESGu8E93WVww1QyK2j0Zu-sKMuBr1An1MhXvJXxC6_CHh0Ynl_1GeWm-JtLCFaoHz7FyJz164wCX-YiGy2TNUuuG2oPyCC_oOXU5947X9mz_IDHsQeOc0f-rxs5TsdRAZGNw6hnzeSfbqBPIPvY9U7AI9g",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJX5LsvLw0K4gRayC0-9o5EIw",
+         "plus_code" : {
+            "compound_code" : "MJ92+83 Toronto, ON, Canada",
+            "global_code" : "87M2MJ92+83"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJX5LsvLw0K4gRayC0-9o5EIw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 17,
+         "vicinity" : "139 Saint George St., Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.663432,
+               "lng" : -79.3732488
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6647752302915,
+                  "lng" : -79.37185101970849
+               },
+               "southwest" : {
+                  "lat" : 43.6620772697085,
+                  "lng" : -79.37454898029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Sherbourne St At Carlton St",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102553769511302489247\"\u003eAndroid Dave\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJx0uC58pghffGa8X1bb_nb7PsHPWBkdSaaR5GWR_HR0I4wCW5RkiRm5FuATUsivt56mGn9khvEOyxGiYlL5CxhCczJxmoqjh4gNIA-dpFP91V3MSqNDxqioldqiGz32ZwX1KHUgt3RWyjOrgwQ-L_9mSNCWwPLCQ7NDghxW8Rqzjua",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJH1UEx07L1IkRSd1wrYu1UDQ",
+         "plus_code" : {
+            "compound_code" : "MJ7G+9P Toronto, ON, Canada",
+            "global_code" : "87M2MJ7G+9P"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJH1UEx07L1IkRSd1wrYu1UDQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.659718,
+               "lng" : -79.390175
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6610564302915,
+                  "lng" : -79.38887191970849
+               },
+               "southwest" : {
+                  "lat" : 43.6583584697085,
+                  "lng" : -79.3915698802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "University Ave At College St",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102553769511302489247\"\u003eAndroid Dave\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIRmZMZBbjpjmV4tUGPIVScdL_VGAdOSv74UwE4O_i3kweVNSF1WVDMY7aO6UD0cY1jISzcD0gjGanl-rBXfoRf_id2VvIHrdrqDRakh_VZqDOalf0_Y7HeVBi-2MEmm2L7ZFwMZ6-bWmwopK600aDOUYbRmQSbUeWjYdFnnej3L-jV",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJObn43bc0K4gRkZ7KOYUGayg",
+         "plus_code" : {
+            "compound_code" : "MJ55+VW Toronto, ON, Canada",
+            "global_code" : "87M2MJ55+VW"
+         },
+         "reference" : "ChIJObn43bc0K4gRkZ7KOYUGayg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6630991,
+               "lng" : -79.37289349999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6644261302915,
+                  "lng" : -79.37159596970848
+               },
+               "southwest" : {
+                  "lat" : 43.6617281697085,
+                  "lng" : -79.3742939302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Sherbourne St At Carlton St",
+         "place_id" : "ChIJC2pSz07L1IkRJU9dJVRzlqc",
+         "plus_code" : {
+            "compound_code" : "MJ7G+6R Toronto, ON, Canada",
+            "global_code" : "87M2MJ7G+6R"
+         },
+         "reference" : "ChIJC2pSz07L1IkRJU9dJVRzlqc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "transit_station",
+            "bus_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.67345,
+               "lng" : -79.36913299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6747989802915,
+                  "lng" : -79.36778401970849
+               },
+               "southwest" : {
+                  "lat" : 43.67210101970851,
+                  "lng" : -79.3704819802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Castle Frank Station",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116124106043749090192\"\u003eAnthony Bernstein\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLzYTYBz2asW46Lotu6_mqwfcWGafDFiaFUbBY5HTBLalYZp15xTL2dmOOkbSRA4Czm89Mm9NI9Uh3zLjaDy5dj9SPG2rUwaaV4At8K-AXVe__dtI8QL_nG9jbJ9NIPGZQzG2bcDuraQZxoU3RA5McCR8asgEGKK_nJKWAnKeDmVWgg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJu6FNfVfL1IkRhFWYpeKucps",
+         "plus_code" : {
+            "compound_code" : "MJFJ+98 Toronto, ON, Canada",
+            "global_code" : "87M2MJFJ+98"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJu6FNfVfL1IkRhFWYpeKucps",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6736269,
+               "lng" : -79.3688482
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.67497588029151,
+                  "lng" : -79.36749921970851
+               },
+               "southwest" : {
+                  "lat" : 43.67227791970851,
+                  "lng" : -79.37019718029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Castle Frank Station",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107817977435616795499\"\u003eNatalia Svechnikova\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwISkhRLsNe8_WYA0zJPGWY09yL3XWxcOQ3wiLTcXuBLK-GMi2ylw8IpTYfWrR0bLg9H5CMe0co4XpQIIzQWjiN3w9ofdEo9uFXBQ3ocmeGZqJ9aKG7DvwQwgrkCLJhvfWTwQ6bQZAQUcLK-7MT3kO6KIqIwZKTYHHttUhPfkxvJSGGK",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJS_rs1lnL1IkRLh2AHa2SR8w",
+         "plus_code" : {
+            "compound_code" : "MJFJ+FF Toronto, ON, Canada",
+            "global_code" : "87M2MJFJ+FF"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJS_rs1lnL1IkRLh2AHa2SR8w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 12,
+         "vicinity" : "Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.679676,
+               "lng" : -79.39874999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6810391802915,
+                  "lng" : -79.39733341970849
+               },
+               "southwest" : {
+                  "lat" : 43.67834121970851,
+                  "lng" : -79.40003138029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Avenue Rd At Cottingham St South Side",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111688945165591346095\"\u003eMichael Malone\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKKQPKzOxdWrQp-p4jXauGJhb_6V1Jaz3xrQRUI0aSDULylTTYFTO5588gb63f_uAN5hSK5WMUoyPtihMljHltwPEHFLhpcYJHjL1yvJeUCRparQHhpiz41GL1KLm6hC870b57BcpHzExjs5pax-ExRiaGE9JsPT-vIO6DCZZ-RJo6E",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJewS8Z18zK4gRtMf3c_bdPZQ",
+         "plus_code" : {
+            "compound_code" : "MJH2+VG Toronto, ON, Canada",
+            "global_code" : "87M2MJH2+VG"
+         },
+         "reference" : "ChIJewS8Z18zK4gRtMf3c_bdPZQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.656506,
+               "lng" : -79.381073
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6578769802915,
+                  "lng" : -79.37968761970849
+               },
+               "southwest" : {
+                  "lat" : 43.6551790197085,
+                  "lng" : -79.3823855802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Yonge St At Dundas St West",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115091105116605746263\"\u003eSandy Singh\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJDkBCpJLjpoSfXHIxqamxY15a1VXSoHcdmCIpQxwY1hjBP1qPdPFhe2qGgpiU0OfTtsdEAmrJ0Ql6OmWBCHAWIj-9Vxs5X4Z9Co0chL73WEbbdUujgwdaFpKjmXe2dub5DrgjX6qLqUGUe5v5IPVtUfEmBBcTax_-jdIiecAvubPR4",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJiZom18o0K4gRdRYJViV4cYU",
+         "plus_code" : {
+            "compound_code" : "MJ49+JH Toronto, ON, Canada",
+            "global_code" : "87M2MJ49+JH"
+         },
+         "rating" : 2,
+         "reference" : "ChIJiZom18o0K4gRdRYJViV4cYU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6560524,
+               "lng" : -79.3846762
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6574359302915,
+                  "lng" : -79.38318554999999
+               },
+               "southwest" : {
+                  "lat" : 43.6547379697085,
+                  "lng" : -79.38608855
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Toronto Coach Terminal",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116163644475799011714\"\u003eF Wong\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI1ko_NxXk8w8mUwjqXsON3FFhSwho56bGsjKRElezempHHfRhryBA2LxYQ54Lpv6ioDeI_CqmeFtaMG_YDRpuLpvRDpCedk8xyt_Ve2rSErabNO538KnrM-12sc7z9vbPR-BFegYn5OviUtEk_CIrd5kPPdeu67Hsy1C5wDrZHPR1P",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJV9TQs8s0K4gR7jd0l2WdvrE",
+         "plus_code" : {
+            "compound_code" : "MJ48+C4 Toronto, ON, Canada",
+            "global_code" : "87M2MJ48+C4"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJV9TQs8s0K4gR7jd0l2WdvrE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 211,
+         "vicinity" : "610 Bay Street, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6703302,
+               "lng" : -79.40508129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.67163633029149,
+                  "lng" : -79.40383526970849
+               },
+               "southwest" : {
+                  "lat" : 43.6689383697085,
+                  "lng" : -79.4065332302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Spadina Rd At Kendal Ave",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106776335114586084249\"\u003eMorgan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIqV1zA65fMRCFK3YfzLeJPwCdbMGyp4nEbvo13n0q-JoZoEcxGdzbxVtFcgdyAiG7hFd4qzp7E2wUAvGhIznQqPcxHCefMoB_CdcPuk-rndx1ESYAhoOGQVBaUopVK0gD2h_mhnnfMlsqhUw_iI7uHeTRTIG2JBeu7akB_3vapsEnO",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ_XzRKZg0K4gRU_asuH2ki9c",
+         "plus_code" : {
+            "compound_code" : "MHCV+4X Toronto, ON, Canada",
+            "global_code" : "87M2MHCV+4X"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJ_XzRKZg0K4gRU_asuH2ki9c",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Kendal Avenue, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.655548,
+               "lng" : -79.3835326
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6568759302915,
+                  "lng" : -79.38224236970849
+               },
+               "southwest" : {
+                  "lat" : 43.6541779697085,
+                  "lng" : -79.38494033029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Bay St At Dundas St West",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102553769511302489247\"\u003eAndroid Dave\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLPSG4TtoEHJs1snSJ2lBLOYqUhz8yn7whPTDvRnn9Oy0BjxB4TSuccMJZoTxluheWvE2kRYfvYLnoks8NF_FHD6v__dgPBT2_DJ76qzRqS5Rtb2oP_NN3Ju8ul7mwB9m9AX0sQVpBZCvlVfk12dRUqPpkwJTzi6egCVtVbn7VVTUov",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJOWg8pMs0K4gR1ndxSMKRH8I",
+         "plus_code" : {
+            "compound_code" : "MJ48+6H Toronto, ON, Canada",
+            "global_code" : "87M2MJ48+6H"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJOWg8pMs0K4gR1ndxSMKRH8I",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.65955149999999,
+               "lng" : -79.36582709999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.66085993029149,
+                  "lng" : -79.36446166970849
+               },
+               "southwest" : {
+                  "lat" : 43.65816196970849,
+                  "lng" : -79.3671596302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "name" : "Dundas St East At Parliament St",
+         "place_id" : "ChIJyYYJ_UbL1IkRTgfq3U6pxjU",
+         "plus_code" : {
+            "compound_code" : "MJ5M+RM Toronto, ON, Canada",
+            "global_code" : "87M2MJ5M+RM"
+         },
+         "reference" : "ChIJyYYJ_UbL1IkRTgfq3U6pxjU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      }
+   ],
+   "status" : "OK"
+}

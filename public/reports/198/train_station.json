@@ -1,0 +1,53 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2736975,
+               "lng" : -123.0978918
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2748372302915,
+                  "lng" : -123.0968797197085
+               },
+               "southwest" : {
+                  "lat" : 49.2721392697085,
+                  "lng" : -123.0995776802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "name" : "Pacific Central Station",
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103827042284505300344\"\u003eK Liaw\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKyZ5XeioDN7zcqy9f2UZAPc_T6yjQVfb2ngxx5mxuRrqI_dq3lbJi4SSW6g4_Lu9JbxCgvI8sSF_HIENzZNmVsSAXUtzz9ABIV-TiGokgniFU2J3367MJ1iLfcxY-NHIrKXR_e92nh_MWRndQdN_MmXUc66VLe_tr0UqgFfgfRRYi5",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJ5URWK2RxhlQRrHLKR2r9N6M",
+         "plus_code" : {
+            "compound_code" : "7WF2+FR Vancouver, BC, Canada",
+            "global_code" : "84XR7WF2+FR"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJ5URWK2RxhlQRrHLKR2r9N6M",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 182,
+         "vicinity" : "1150 Station Street, Vancouver"
+      }
+   ],
+   "status" : "OK"
+}

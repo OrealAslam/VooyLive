@@ -1,0 +1,50 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.1481864,
+               "lng" : -114.2559826
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1495353802915,
+                  "lng" : -114.2546336197085
+               },
+               "southwest" : {
+                  "lat" : 51.1468374197085,
+                  "lng" : -114.2573315802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "c47772ceb893d10e5d54eaa1a4864a9e94655d43",
+         "name" : "ATB Financial",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101423014595108484198/photos\"\u003eMatt Sk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABmRB_kS7HzI7ycVbufiXeLYm4Wa_ZlyB0yfuOS-OL2pYpQPZCA4zPpZFxt2vuJSxPmt8WShnlFLmTkFl_H_F28FS_Qw1A9jn_r9Q3QkOFY66S3fqoYBBUpMwDYPZD73pEhD7h3UTDLE9V-LRd2aWXIUDGhRvK2WJMwvo_iEbyAxqcbmA6CkyiQ",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJv2yayJdpcVMRvLCo76TOpxA",
+         "plus_code" : {
+            "compound_code" : "4PXV+7J Calgary, Alberta, Canada",
+            "global_code" : "95374PXV+7J"
+         },
+         "rating" : 4.5,
+         "reference" : "CmRRAAAA-MpMlzpsfSnL7OdGFt9dgBwkwWcC9vITdmKWqITqVqcDhYGui55hMxyxsa0pDqD-hPn5126HqChz4ZF3IWqs5hPIiPgcZRETbI3IuqTnSLCTTP60vy0LFR7FzwmPN6pvEhBPbtZVCmK9CImi_ywUOrilGhRjgiDOe1BzLJW6SS0GeUTfre7g8g",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "11595 Rockyvalley Dr NW, 3000, Calgary"
+      }
+   ],
+   "status" : "OK"
+}

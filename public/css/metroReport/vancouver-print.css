@@ -1,0 +1,7 @@
+@media print {
+    .public-schools .item {
+        min-height: 190px;
+        padding-bottom: 10px;
+    }
+}
+
