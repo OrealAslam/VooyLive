@@ -13,7 +13,7 @@
 	
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <script src="{{ asset('js/app.js') }}"></script>
-<link href="{{ asset('css/style.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/style.css') }}" rel="stylesheet">
     <script src="{{ asset('js/jquery.loadTemplate.min.js') }}"></script>
     <style type="text/css">
         

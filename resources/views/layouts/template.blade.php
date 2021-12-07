@@ -21,6 +21,7 @@
         </title>
 
         <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
+        <link href="{{ asset('css/select2.min.css') }}" rel="stylesheet">
         <link href="{{ asset('newPlugin/bootstrap-colorpicker.css') }}" rel="stylesheet">
         <link href="{{ asset('css/style.css') }}" rel="stylesheet">
         <link href="{{ asset('css/responsive.css') }}" rel="stylesheet" media="screen">        
@@ -118,6 +119,7 @@
 <script src="{{ asset('js/typer.js') }}"></script>
 <script src="{{ asset('js/bootstrap-toggle.min.js') }}"></script>
 <script src="{{ asset('js/custom.js') }}"></script>
+<script src="{{ asset('js/select2.min.js') }}"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/df-number-format/2.1.6/jquery.number.min.js"></script>
 
 {!! getSettingValue('google-analytics-space') !!}
@@ -125,6 +127,12 @@
 
 
 @include('layouts.footer_script')
+<script>
+$("#region").select2( {
+	placeholder: "--- Select Your City ---",
+	allowClear: true
+	} );
+</script>
 <script type="text/javascript">
     var token = $('meta[name="_token"]').attr('content');
 </script>

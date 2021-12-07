@@ -84,7 +84,7 @@
 
                 <div class="col-md-6">
                     <select class="form-control" id="region" name="region" required >
-                        <option value="" selected="selected">-- Select Your City ---</option>
+                        <option value="" selected="selected">--- Select Your City ---</option>
                         @foreach(App\City::where('status',1)->get() as $city)
                         <option value="{{ $city->id }}">{{$city->Province->name}} - {{$city->name}}</option>
                         @endforeach
