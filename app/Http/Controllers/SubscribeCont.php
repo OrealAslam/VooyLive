@@ -87,8 +87,8 @@ class SubscribeCont extends Controller
 	            'password' => 'required|string|min:6|confirmed',
 	            'firstName' => 'regex:/^[\pL\s\'&-]+$/u',
 				'lastName' => 'regex:/^[\pL\s\'&-]+$/u',
-                'title' => 'test',
-                'region' => 'required',
+                // 'title' => 'test',
+                // 'region' => 'required',
                 'referral_code' => 'sometimes|nullable|exists:users,referral_code'
 	        ]);
 
@@ -116,7 +116,7 @@ class SubscribeCont extends Controller
                 $userCreateData = [
                     'firstName' => $request->input('firstName'),
                     'lastName' => $request->input('lastName'),
-                    'region' => $request->input('region'),
+                    // 'region' => $request->input('region'),
                     'plan' => $request->input('plan'),
                     'email' => $request->input('email'),
                     'password' => bcrypt($request->input('password')),

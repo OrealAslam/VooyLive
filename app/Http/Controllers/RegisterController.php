@@ -12,10 +12,12 @@ class RegisterController extends Controller
     {	
     	$input = $request->all();
 
+		dd($input);
+
     	$validator = Validator::make($input, [
             'firstName' => 'required',
             'lastName' => 'required',
-            'title' => 'required',
+            // 'title' => 'required',
             'email' => 'required',
             'password' => 'required',
             'password_confirmation' => 'required',
@@ -25,9 +27,9 @@ class RegisterController extends Controller
     		$user = User::create([
 	            'firstName' => $input['firstName'],
 	            'lastName' => $input['lastName'],
-	            'title' => $input['title'],
+	            // 'title' => $input['title'],
 	            'email' => $input['email'],
-	            'region' => 1,
+	            // 'region' => 1,
 	            'password' => bcrypt($input['password']),
 	        ]);
 
