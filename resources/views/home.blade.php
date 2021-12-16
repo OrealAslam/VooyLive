@@ -532,11 +532,9 @@
             var my_cookie = $.cookie($('.modal-check').attr('name'));
             if (my_cookie && my_cookie == "true") {
                 $(this).prop('checked', my_cookie);
-                console.log('checked checkbox');
             }
             else{
                 $('#show-model-website-title').modal('show');
-                console.log('uncheck checkbox');
             }
 
             $(".modal-check").change(function() {

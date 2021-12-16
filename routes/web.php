@@ -385,7 +385,6 @@ Route::get('/test', ['as' => 'test','uses' => 'TestController@testEmail'])->name
 Route::get('/', 'HomeController@index')->name('home');
 
 Route::get('/comingsoon', function () {
-    dd("Amazon");
     return view('comingsoon');
     //return view('emails.userSignup');
     //return view('emails.firstReminder');

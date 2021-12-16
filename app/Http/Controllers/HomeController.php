@@ -32,7 +32,6 @@ class HomeController extends Controller
     {
         $settingsData = Setting::pluck('value', 'slug')->all();
         view()->share('settingsData',$settingsData);
-        // dd($settingsData['line-1']);
 
         $product = Product::where('is_home_page','1')->get()->take(4);
         return view('home',compact('product','settingsData'));
@@ -46,7 +45,6 @@ class HomeController extends Controller
     public function dashboard()
     {
         $data['user'] = Auth::User();
-        //$data['hide_top_address_search'] = false;
         $cityArray = City::pluck('name','id')->all();
         $cityArray = json_encode($cityArray);
         return view('account.dashboard',$data, compact('cityArray'));
@@ -55,7 +53,6 @@ class HomeController extends Controller
     public function profileview(Request $request){
 
         $data['profileColour'] = ProfileColor::get();
-        //$url = $request->fullUrl();
         if ($request->has('img')) {
             $data['img'] = $request->input('img');
         }
@@ -131,7 +128,6 @@ class HomeController extends Controller
      public function propertyFeatureSheet(){
         $data['user']=$user=Auth::User();
         $data['user_details']=$user_details=Auth::User()->ClientDetail;
-        //$data['hide_top_address_search'] = false;
         $cityArray = City::pluck('name','id')->all();
         $cityArray = json_encode($cityArray);
         $showMissingInfoModal = false;
@@ -171,7 +167,6 @@ class HomeController extends Controller
     public function houseDetailsInfographic(){
         $data['user']=$user=Auth::User();
         $data['user_details']=$user_details=Auth::User()->ClientDetail;
-        //$data['hide_top_address_search'] = false;
         $cityArray = City::pluck('name','id')->all();
         $cityArray = json_encode($cityArray);
         $showMissingInfoModal = false;
@@ -511,14 +506,11 @@ class HomeController extends Controller
                     'userEmail' => $user->email,
                     'type' =>'userCancel'
             );
-            //ProcessEmails::dispatch($data)->delay(Carbon::now()->addSeconds(2))->onQueue('high');
             ProcessEmails::dispatch($data)->delay(Carbon::now())->onQueue('high');
 
-            //$user->subscription('main')->swap('provider-plan-id');
             return back()->with('status','Subscription Cancelled Succcessfully');
 
         } catch (\Exception $e) {
-            dd($e);
             return back()->with('status','Request Cannot be completed at the moment');
         }
     }

@@ -145,7 +145,6 @@ class ReportApiCont extends Controller
                 $data[$val['name']]=$this->reportGetCont->getCachedData($reportId,$val['funcName'], $template);
             }
         }
-        //  dd("hi");
         $data['page'] = 'viewReport';
         $data['noTemplateSelected'] = $noTemplateSelected;
         $data['urlParams'] = array('reportId'=>$reportId, 'userId'=>$userId, 'template'=>$template);

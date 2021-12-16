@@ -12,8 +12,6 @@ class RegisterController extends Controller
     {	
     	$input = $request->all();
 
-		dd($input);
-
     	$validator = Validator::make($input, [
             'firstName' => 'required',
             'lastName' => 'required',

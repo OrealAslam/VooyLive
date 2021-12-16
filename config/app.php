@@ -4,7 +4,7 @@ return [
 
     'trial_period' => '14',
     //'trial_period' => '2',
-    'map_api_key' => 'AIzaSyCliagc2fSKClvhgkSSEqPQM6cTgupNJqg',
+    'map_api_key' => env('GOOGLE_MAP_API', 'AIzaSyCliagc2fSKClvhgkSSEqPQM6cTgupNJqg'),
     'radius' => '5000',
     'limit' => '6',
     'title' => 'Community Feature Sheet &reg;',

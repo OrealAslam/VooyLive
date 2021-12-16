@@ -334,7 +334,6 @@ class AdminController extends Controller
     {
         try{
             $response=StripePlan::retrieve($request->name, ['api_key' => $this->getStripeKey()]);
-            //dd($response);
             $plan=[
                 'planId'=>$response->id,
                 'name'=>$response->name,
@@ -588,7 +587,6 @@ class AdminController extends Controller
 
     public function adminUpdateProfile(Request $request)
     {
-        // dd($request->all());
         $user = Auth::User();
 
         //$discount =DiscountCode::findorfail($id);

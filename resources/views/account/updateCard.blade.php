@@ -21,7 +21,6 @@ $(document).ready(function() {
         form.find('.stripe-errors').text(response.error.message).addClass('alert alert-danger');
         form.find('button').prop('disabled', false);
       } else {
-        console.log(response);
 
         // append the token to the form
         form.append($('<input type="hidden" name="cc_token">').val(response.id));
@@ -175,7 +174,6 @@ $(document).ready(function() {
 <script>
     $(document).ready(function(){
         $('#cancel_subscription').on('shown.bs.modal', function(e) {
-            console.log($(e.relatedTarget).data('href'));
             $(this).find('#confirm_btn').attr('href', $(e.relatedTarget).data('href'));
         });
     });

@@ -185,7 +185,6 @@ class ReportCont extends Controller
                 'userEmail' => $user->email,
                 'type' => 'buyReport'
             );
-            // dd($data);
             ProcessEmails::dispatch($data)->delay(Carbon::now()->addSeconds(2))->onQueue('high');
 
 

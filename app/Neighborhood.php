@@ -23,10 +23,6 @@ class Neighborhood extends Model
             LIMIT 5", [$latitude, $latitude, $longitude, $cityId]
         );
 
-        //dd(\DB::getQueryLog());
-        //print_r(DB::getQueryLog());
-        //die();
-
         if (count($data)) {
             return $data;
         } else {

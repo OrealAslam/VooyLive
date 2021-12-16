@@ -25,7 +25,7 @@
   </div>
 </div>
 
-<div class="modal fade" id="message">
+<!-- <div class="modal fade" id="message">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
@@ -47,7 +47,7 @@
     //print_r($cities);
     //var_dump($cities);
     //var_dump(json_encode($cities));
-@endphp
+@endphp -->
 
 
 
@@ -66,6 +66,7 @@
         // location types.
         autocomplete = new google.maps.places.Autocomplete(
         /** @type {!HTMLInputElement} */(document.getElementById('address')),
+        {componentRestrictions: { country: "CA" }},
         {types: ['geocode']});
 
         // When the user selects an address from the dropdown, populate the address
@@ -100,11 +101,9 @@
                 that.showDebug('init');
                 that.events();
                 that.process();
-                //console.log(that.params);
             },
             showDebug : function (str) {
                 if (that.params.debug) {
-                    console.log(str);
                 }
             },
             showPopup : function () {
@@ -134,10 +133,8 @@
             },
             checkCountryAndCity : function (address_components) {
                 that.showDebug('checkCountryAndCity');
-                console.log('address_components',address_components);
 
                 $.each(address_components, function(index, value) {
-                    //console.log(index, value);
                     if (!that.params.is_country) {
                       if (value.long_name == that.params.country_long_name && value.short_name == that.params.country_short_name) {
                         that.params.is_country = true;
@@ -194,7 +191,6 @@
                 document.getElementById('address').value=that.params.place.formatted_address;
                 
                 that.checkCountryAndCity(that.params.place.address_components);
-                //console.log('that.params', that.params);
                 if (that.params.is_country && that.params.is_city) {
                     if (that.params.is_street && that.params.is_route) {
                         //that.showDebug('all ok');
@@ -211,8 +207,6 @@
                                         //that.showDebug('getBalanceCredits > 0');
                                         that.generateReport();
                                     @else
-                                        //that.showDebug('getBalanceCredits > 0 - else');
-                                        console.log('LLLLLL');
                                         $.ajax({
                                             dataType:'json',
                                             type:'post',
@@ -240,15 +234,11 @@
                                     @endif
                                 @endif
                             @else
-                                //that.showDebug('not in_array app.pay_as_you_go_packages');
                                 that.generateReport();
                             @endif
                         @elseif(Auth::user()->role=='admin')
-                            //that.showDebug('role = admin');
-                            //console.log('generateReport-adnan');
                             that.generateReport();
                         @endif
-                        //console.log('end of all ok');
                     } else {
                         var msg = '';
                         msg += '<center><img src="/img/oops.png" width="100px"></center>'
@@ -302,10 +292,7 @@
                         that.showDebug('generateReport - success');
                         if (data) {
                             if (data.status == 1) {
-                                //location.href='{{ url('/report/highlights') }}/'+data.reportId;
-                                //console.log('that.params.reportDetailUrl', that.params.reportDetailUrl);
                                 that.params.reportDetailUrl=that.params.reportDetailUrl.replace("-1", data.reportId).replace("-2", data.userId);
-                                //console.log('that.params.reportDetailUrl', that.params.reportDetailUrl);
                                 location.href = that.params.reportDetailUrl;
                                 that.showMessagePopup('<p>Please Wait you are redirecting to report page</p>');
                             } else if (data.status == 0) {
@@ -320,7 +307,6 @@
                     },
                     error:function(data){
                         that.showDebug('generateReport - error');
-                        //alert('Could Not Complete Request At the Moment');
                         that.showMessagePopup('<p>Could Not Complete Request At the Moment</p>');
                     },
                     complete:function(){
@@ -340,7 +326,11 @@
 
 
 </script>
-<script src="https://maps.googleapis.com/maps/api/js?key={{env('GOOGLE_MAP_API')}}&libraries=places&callback=initAutocomplete"></script>
+<script
+      src="https://maps.googleapis.com/maps/api/js?key={{env('GOOGLE_MAP_API')}}&callback=initAutocomplete&libraries=places&v=weekly"
+      async
+    ></script>
+<!-- <script src="https://maps.googleapis.com/maps/api/js?key={{env('GOOGLE_MAP_API')}}&libraries=places&callback=initAutocomplete"></script> -->
 @else
 <script src="https://maps.googleapis.com/maps/api/js?v=3&key={{env('GOOGLE_MAP_API')}}&libraries=places" async defer></script>
 @endif
@@ -458,7 +448,6 @@ toastr.options = {
                 reportAddressEdit = {
                     params: {
                         debug : true,
-                        //editIconHtml : '<span class="edit"><i class="fa fa-pencil"></i></span>',
                         rawData : {
                             "address" : "",
                         }
@@ -466,7 +455,6 @@ toastr.options = {
                     init : function (json) {
                         that = this;
                         that.params.reportAddressUpdateUrl = json.reportAddressUpdateUrl;
-                        console.log('params', that.params);
                         that.showDebug('init');
                         that.preProcess();
                         that.events();
@@ -474,7 +462,6 @@ toastr.options = {
                     },
                     showDebug : function (str) {
                         if (that.params.debug) {
-                            console.log(str);
                         }
                     },
                     events : function () {
@@ -509,8 +496,6 @@ toastr.options = {
                         that.showDebug('activateEditModeOnEle');
                         var field_id = $ele.parent().parent().attr('data-field-id');
                         that.params.rawData[field_id] = $ele.parent().parent().find('.content').html();
-
-                        //console.log('rawData', that.params.rawData);
 
                         $ele.parent().find('span.edit i').addClass('fa-disabled');
                         $ele.parent().find('span.save i').removeClass('fa-disabled');
@@ -562,7 +547,6 @@ toastr.options = {
                             //url:'{{ url('/generateReport') }}',
                             success:function(data){
                                 that.showDebug('saveChanges - success');
-                                //console.log('data',data);
                                 if (data) {
                                     if (data.status == 1) {
                                         that.params.rawData[hdi_field_id] = hdi_field_value;
@@ -598,7 +582,6 @@ toastr.options = {
             }
             var json = {};
             json.reportAddressUpdateUrl = "{{ URL::route('reportAddressUpdate', ['flyerId' => $urlParams['reportId'], 'userId' => $urlParams['userId']]) }}";
-            console.log('json',json);
             reportAddressEditFunc(json);
             @endif
         </script>
@@ -612,7 +595,6 @@ toastr.options = {
     {
         var h = 0;
         $(el).each(function(){
-            console.log($(this));
             $(this).css({'height':'auto'});
             if($(this).outerHeight() > h)
             {
