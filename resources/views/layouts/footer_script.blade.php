@@ -25,7 +25,7 @@
   </div>
 </div>
 
-<!-- <div class="modal fade" id="message">
+ <div class="modal fade" id="message">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
@@ -47,7 +47,7 @@
     //print_r($cities);
     //var_dump($cities);
     //var_dump(json_encode($cities));
-@endphp -->
+@endphp 
 
 
 
@@ -88,7 +88,7 @@
                 country_long_name : "{{env('COUNTRY_LONG_NAME')}}",
                 country_short_name : "{{env('COUNTRY_SHORT_NAME')}}",
                 //locality : "{{env('LOCALITY')}}",
-                locality : <?php echo json_encode($cities); ?>,
+                // locality : <?php echo json_encode($cities); ?>,
                 //locality : '{"edmonton", "calgary"}',
                 reportDetailUrl : "{{ URL::route('reportDetails', ['reportId' => -1, 'userId' => -2]) }}",
                 report_city : false,
@@ -133,28 +133,24 @@
             },
             checkCountryAndCity : function (address_components) {
                 that.showDebug('checkCountryAndCity');
-
+// console.log(address_components);return;
                 $.each(address_components, function(index, value) {
                     if (!that.params.is_country) {
                       if (value.long_name == that.params.country_long_name && value.short_name == that.params.country_short_name) {
                         that.params.is_country = true;
                       }
                     }
-                    if (!that.params.is_city) {
-                        $.each(that.params.locality, function(localityIndex, localityValue) {
-                            if (localityValue == value.long_name.toLowerCase()) {
-                                that.params.report_city = localityIndex;
-                                that.params.is_city = true;
-                            }
-                        });
-                        //if (value.long_name == that.params.locality) {
-                            /*
-                        if (that.params.locality.indexOf(value.long_name.toLowerCase()) !== -1) {
-                            that.params.is_city = true;
-                        }
-                        */
+                    that.params.is_city = true;
+                    
+                    if (value.types[0] == 'postal_code') {
+                        that.params.postal_code = value.long_name;
                     }
-
+                    if (value.types[0] == 'administrative_area_level_1') {
+                        that.params.province = value.long_name;
+                    }
+                    if (value.types[0] == 'locality') {
+                        that.params.report_city = value.long_name;
+                    }
                     if (!that.params.is_street) {
                         if (value.types[0] == 'street_number') {
                             that.params.is_street = true;
@@ -210,7 +206,7 @@
                                         $.ajax({
                                             dataType:'json',
                                             type:'post',
-                                            data:'_token={{ csrf_token() }}&long='+that.params.place.geometry.location.lng()+'&lat='+that.params.place.geometry.location.lat()+'&address='+that.params.place.formatted_address+'&discount='+$('#discount').val()+'&report_city='+that.params.report_city,
+                                            data:'_token={{ csrf_token() }}&long='+that.params.place.geometry.location.lng()+'&postal_code='+that.params.postal_code+'&lat='+that.params.place.geometry.location.lat()+'&address='+that.params.place.formatted_address+'&discount='+$('#discount').val()+'&report_city='+that.params.report_city+'&province='+that.params.province,
                                             url:"{{ URL::route('checkUserReportAccess') }}",
                                             beforeSend:function(){
                                                 that.showLoading();
@@ -266,7 +262,7 @@
             },
             generateReport : function () {
                 that.showDebug('generateReport');
-                var ajaxParams = '_token={{ csrf_token() }}&long='+that.params.place.geometry.location.lng()+'&lat='+that.params.place.geometry.location.lat()+'&address='+that.params.place.formatted_address+'&discount='+$('#discount').val()+'&report_city='+that.params.report_city;
+                var ajaxParams = '_token={{ csrf_token() }}&long='+that.params.place.geometry.location.lng()+'&postal_code='+that.params.postal_code+'&lat='+that.params.place.geometry.location.lat()+'&address='+that.params.place.formatted_address+'&discount='+$('#discount').val()+'&report_city='+that.params.report_city+'&province='+that.params.province;
                 var editParams = '';
                 if ($('#edit_report_address').val() == 'address') {
                     editParams += '&edit_report_address=address';

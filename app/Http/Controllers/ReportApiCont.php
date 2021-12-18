@@ -16,7 +16,6 @@ use Session;
 use App\Http\Controllers\ReportEdmontonCont;
 use App\Http\Controllers\ReportCalgaryCont;
 use App\ReportNotes;
-
 class ReportApiCont extends Controller
 {
     protected $reportGetCont;
@@ -83,7 +82,7 @@ class ReportApiCont extends Controller
         $data['report']=$report;
         $data['orderData'] = Order::where([['userId',$userId],['reportId',$reportId]])->first();
         $data['template']=$template;
-        $reportGetContName = 'App\Http\Controllers\Report'.$report->City->name.'Cont';
+        $reportGetContName = class_exists('App\Http\Controllers\Report'.$report->City->name.'Cont')?'App\Http\Controllers\Report'.$report->City->name.'Cont':'App\Http\Controllers\ReportOtherCont';
         $this->reportGetCont = new $reportGetContName();
         $data['neighborsData']=$this->reportGetCont->getNeighborsData($reportId, $template);
         /*
@@ -140,10 +139,10 @@ class ReportApiCont extends Controller
         );
         
         foreach ($allReports as $val) {
-            if (in_array($report->City->id, $val['cities'])) {
-               
-                $data[$val['name']]=$this->reportGetCont->getCachedData($reportId,$val['funcName'], $template);
-            }
+
+         
+            $data[$val['name']]=$this->reportGetCont->getCachedData($reportId,$val['funcName'], $template);
+            
         }
         $data['page'] = 'viewReport';
         $data['noTemplateSelected'] = $noTemplateSelected;
@@ -180,6 +179,9 @@ class ReportApiCont extends Controller
             $data['edit_report_address'] = $editReportAddress;
             $data['hide_top_address_search'] = true;
         }
+        if($reportGetContName=='App\Http\Controllers\ReportOtherCont')
+        return view('reports.other.'.$template.'.highlights',$data);
+        else
         return view('reports.'.strtolower($report->City->name).'.'.$template.'.highlights',$data);
     }
 
@@ -222,12 +224,18 @@ class ReportApiCont extends Controller
     {
 
         $report = Report::findOrfail($reportId);
-        $reportGetContName = 'App\Http\Controllers\Report'.$report->City->name.'Cont';
+        $reportGetContName = class_exists('App\Http\Controllers\Report'.$report->City->name.'Cont')?'App\Http\Controllers\Report'.$report->City->name.'Cont':'App\Http\Controllers\ReportOtherCont';
         $this->reportGetCont = new $reportGetContName();
+
 
         try{
             $function='get'.ucwords($api).'Data';
+            if(!method_exists($this->reportGetCont,$function))
+            return '';
             $response=$this->reportGetCont->$function($reportId, $template);
+            if($reportGetContName=='App\Http\Controllers\ReportOtherCont')
+            return view('reports.other.'.$template.'.'.$api,$response);
+            else
             return view('reports.'.strtolower($report->City->name).'.'.$template.'.'.$api,$response);
 
         }

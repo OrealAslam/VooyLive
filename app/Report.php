@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 class Report extends Model
 {
     protected $primaryKey='reportId';
-    protected $fillable=['address','long','lat','status'];
+    protected $fillable=['address','long','lat','status','postal_code'];
 
 
 	public static function checkEmptyValue($str)

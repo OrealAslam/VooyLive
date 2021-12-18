@@ -1,0 +1,724 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.624056,
+               "lng" : -72.946395
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6254323302915,
+                  "lng" : -72.9450962697085
+               },
+               "southwest" : {
+                  "lat" : 45.6227343697085,
+                  "lng" : -72.94779423029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Café Van Houtte",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100823199190234457557\"\u003eVictoria Lastovets\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBtZPToFCSvcuq_pmsoaWXGG-bZ_bQ5ZdZgM9sIbJTEFcFcLt-sSjllhUKE802AXHVIGHYYDXCK3dUUh6brq1VYB5vEPww0dzaYxFU7AqIJz0hHxk9jCZ2ByhcWIWyOs_hv1iXn9COssHyNnjXX5q7x3QFmr7PFT0bbBo3K2WzxqaXW",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJb8RfrWROyEwRA9i59W9QWiA",
+         "plus_code" : {
+            "compound_code" : "J3F3+JC Saint-Hyacinthe, QC, Canada",
+            "global_code" : "87Q9J3F3+JC"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJb8RfrWROyEwRA9i59W9QWiA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 363,
+         "vicinity" : "1695 Rue Des Cascades O, Saint-Hyacinthe"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.62438059999999,
+               "lng" : -72.94643069999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6256765302915,
+                  "lng" : -72.94499241970848
+               },
+               "southwest" : {
+                  "lat" : 45.62297856970851,
+                  "lng" : -72.9476903802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Les Passions de Manon",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100170968150863757090\"\u003eLes Passions de Manon\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDcAzlHGV2dH47Ts6Jl5aXfW9vDfpszX0-AEg9Te3JS6_oFfVBJnpGcTi7EtAdfEKpAk98MN9GvLTRsChtYY9MxOUEM9EYGa8a57q0mIPT8UiRXRpcCFEWkLl6kZBZrIYtn1fzrHVqNGUr91m_V_BO7_xTZ8WKhg3EH3WV-AkXUjtji",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJu8qbZntOyEwRNexPUsHvYJI",
+         "plus_code" : {
+            "compound_code" : "J3F3+QC Saint-Hyacinthe, QC, Canada",
+            "global_code" : "87Q9J3F3+QC"
+         },
+         "price_level" : 2,
+         "rating" : 4.8,
+         "reference" : "ChIJu8qbZntOyEwRNexPUsHvYJI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 156,
+         "vicinity" : "1660 Rue des Cascades, Saint-Hyacinthe"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.6240221,
+               "lng" : -72.9467477
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.62535783029149,
+                  "lng" : -72.9453655197085
+               },
+               "southwest" : {
+                  "lat" : 45.6226598697085,
+                  "lng" : -72.94806348029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "L'Heure Du Thé",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1112,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101571044407531045114\"\u003eL&#39;Heure Du Thé\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBvEL9KSCa0cwTnbbaUncistx0bIqTotX-g8yWpycGglVHKURMLX8ghIYWK-sBXeRkleiSSMtZKbbHo5TxlvlWDUFg9vlRyoBJuo4zYSJOgpfL25NZOkM-NMQT73OlV7P--XJsw_yRD1OufX8FuwMNEwoMumDz_7uwKDJLKxrPyV74a",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ-0lCZXtOyEwRL59AdqAJS7o",
+         "plus_code" : {
+            "compound_code" : "J3F3+J8 Saint-Hyacinthe, QC, Canada",
+            "global_code" : "87Q9J3F3+J8"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJ-0lCZXtOyEwRL59AdqAJS7o",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 52,
+         "vicinity" : "1700 Rue Des Cascades O, Saint-Hyacinthe"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.6249859,
+               "lng" : -72.9446375
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.62630033029149,
+                  "lng" : -72.9433385697085
+               },
+               "southwest" : {
+                  "lat" : 45.62360236970849,
+                  "lng" : -72.94603653029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "The Emprise, immersive adventures",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103474400387512635789\"\u003eAlexy Fauchard\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAWZ0_Tx47WI67wZ47beZHT5DRH55OIlG5uN6UewCpUfVNy6vhKP-1ZgRcCTQyV5RUNyDOTCVyr6x_b6h1SwEK83TFx1IPBHCvLDTjECKze5QCICzh9e9eVChbG3ckzByQBW39-PqKGhhrm8vLso4pVtpFWPzASMWF4I0qnbfSRAywQ",
+               "width" : 942
+            }
+         ],
+         "place_id" : "ChIJNVqer3xOyEwR3QVTcWQoUHo",
+         "plus_code" : {
+            "compound_code" : "J3F4+X4 Saint-Hyacinthe, QC, Canada",
+            "global_code" : "87Q9J3F4+X4"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJNVqer3xOyEwR3QVTcWQoUHo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "tourist_attraction",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 104,
+         "vicinity" : "460 Avenue Mondor, Saint-Hyacinthe"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.6250989,
+               "lng" : -72.9448069
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6265245302915,
+                  "lng" : -72.9434628697085
+               },
+               "southwest" : {
+                  "lat" : 45.6238265697085,
+                  "lng" : -72.9461608302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Brûlerie Mondor",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114891589523932557659\"\u003eJairo Levi\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEChtNes8Eu95-YkdKy1LQKKSDAy723HX9GwsMaP1RAC1E1m83lzSnK8r5erxGbTI7-ePw_0T8yAVaF29jbt6qpJ8L9j4mq3_lA2GB01ikmID4nM30_GuP5rWGO063uxvCAP_DivWs3WMX0kXTsKqDPwTCxs6Sy1RuQQFex4-spw4Sza",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ9xxEqXxOyEwRm8pE8c1E4Rk",
+         "plus_code" : {
+            "compound_code" : "J3G4+23 Saint-Hyacinthe, QC, Canada",
+            "global_code" : "87Q9J3G4+23"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJ9xxEqXxOyEwRm8pE8c1E4Rk",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 198,
+         "vicinity" : "1395 Rue des Cascades, Saint-Hyacinthe"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.6259759,
+               "lng" : -72.9434778
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6273681302915,
+                  "lng" : -72.9421922197085
+               },
+               "southwest" : {
+                  "lat" : 45.6246701697085,
+                  "lng" : -72.94489018029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Bar Laitier La Lichette",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115637964142126992862\"\u003eGautier Parent\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDwJPGfP6B55YXdjOPl535A2cHnVgNWHgylZ5SHUgnDlw-7VCShdmICpbAdxRyWdHNOUX8jMquFQjbB6YsIF7LBgaEYBM1zjEmTzhO20Njmre66CnnBxxQRTE-nTaK46BjvodOUkgFdHwTrnvDynTpJNfMoHRV4B4T6p1_iSoNhU7Ns",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJ-StYRGNOyEwRjUTBMku0vwA",
+         "plus_code" : {
+            "compound_code" : "J3G4+9J Saint-Hyacinthe, QC, Canada",
+            "global_code" : "87Q9J3G4+9J"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJ-StYRGNOyEwRjUTBMku0vwA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "bar", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 216,
+         "vicinity" : "1125 Rue Des Cascades O, Saint-Hyacinthe"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.62392260000001,
+               "lng" : -72.94584739999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6253394802915,
+                  "lng" : -72.94432736970849
+               },
+               "southwest" : {
+                  "lat" : 45.6226415197085,
+                  "lng" : -72.94702533029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Gusti d’italie",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114756182589379708846\"\u003eAnthony R.\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAGK10iY2Lo4mZZES2QG2wEPuJHfgtADSWg7mSO4b52YBFB_MeCzKN_NPXzX6wniZzA9TZBN5ct298UiHdp_1CDrvDhHnoMFCopMrSvOcKlGWqZHjEGlcnwLFF5VtC0y-K7epfM3CyWj5xM6FKYYeK0kYi-JqrVjqjNt314A9_PLS35",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJbxIWo9tPyEwR2KsQlI6W4MI",
+         "plus_code" : {
+            "compound_code" : "J3F3+HM Saint-Hyacinthe, QC, Canada",
+            "global_code" : "87Q9J3F3+HM"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJbxIWo9tPyEwR2KsQlI6W4MI",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11,
+         "vicinity" : "1660 Allée du Marché, Saint-Hyacinthe"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.62438059999999,
+               "lng" : -72.94643069999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6256754302915,
+                  "lng" : -72.94499406970849
+               },
+               "southwest" : {
+                  "lat" : 45.6229774697085,
+                  "lng" : -72.94769203029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Le Albert Café",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103351573837428791687\"\u003eLe Albert Café\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBEfutDh72bId1-2xbUV4xTmAIY0v09wWkTfN1VvLKN1_EJ3FERpIfYcHu41aNNqxVpa0Cop42Pbqv4qqvk4MU_iRj3nooscsp-80PpdynaTbIrFggw-K0jEEFagJ7iwbtbIhfYc7WrfEm1pE716x0s7wGRC4HysXMT4Sk7dAZm2Pem",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJucjVNqVPyEwR5H5MlwOqeUw",
+         "plus_code" : {
+            "compound_code" : "J3F3+QC Saint-Hyacinthe, QC, Canada",
+            "global_code" : "87Q9J3F3+QC"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJucjVNqVPyEwR5H5MlwOqeUw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 18,
+         "vicinity" : "1660 Rue des Cascades, Saint-Hyacinthe"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.6244711,
+               "lng" : -72.94077179999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6257759302915,
+                  "lng" : -72.9394910197085
+               },
+               "southwest" : {
+                  "lat" : 45.6230779697085,
+                  "lng" : -72.9421889802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurant vietnam V.N. Express",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118049582177246021221\"\u003eRestaurant vietnamien V.N. Express\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBtEBQN38CTykNHphu8yZXUfe9r8RhkWl0mi0CKFq93Gzy1JdrEk4sLJ8f8dSmQ3IVgh3Q1U6UvS-We0OGH1kaysjhGzVn3FbGQgXxd8ORoZRPrxYYnA4M34-xqPhk0GupnCWfJLL9mgCshYa3oX8oeWEPcmWUwS1Rv0I7QA7QZNaO_",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJJTt7_cBPyEwRQaD11s9PuAk",
+         "plus_code" : {
+            "compound_code" : "J3F5+QM Saint-Hyacinthe, QC, Canada",
+            "global_code" : "87Q9J3F5+QM"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJJTt7_cBPyEwRQaD11s9PuAk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "meal_takeaway",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 29,
+         "vicinity" : "200 Avenue de la Concorde Nord, Saint-Hyacinthe"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.6277456,
+               "lng" : -72.9453669
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6290751802915,
+                  "lng" : -72.94404486970849
+               },
+               "southwest" : {
+                  "lat" : 45.6263772197085,
+                  "lng" : -72.94674283029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Napa auto pro",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJL7tqmp1PyEwRbaqsINVRbpY",
+         "plus_code" : {
+            "compound_code" : "J3H3+3V Saint-Hyacinthe, QC, Canada",
+            "global_code" : "87Q9J3H3+3V"
+         },
+         "reference" : "ChIJL7tqmp1PyEwRbaqsINVRbpY",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "2950 Avenue Sainte-Catherine, Saint-Hyacinthe"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.6232646,
+               "lng" : -72.94813859999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.62453148029149,
+                  "lng" : -72.9467435697085
+               },
+               "southwest" : {
+                  "lat" : 45.6218335197085,
+                  "lng" : -72.94944153029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Mareiwa - Café colombien",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101088366837964081773\"\u003eMareiwa - Café colombien\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECWikrQ_BHHVShG6byzpUnFyFChV_zjvBLbJG7yicpgSOmtNN4Yj18MoW-8dP4NPIrecivSYe7qHsMmTgRjKHC_fO4j47wUamIbGLvDctARaOSeqOIGM2TxeJPb7tHHUhz9XIYBf3jmGvJOA2yYSXhG2VeCvMldNm7prdkC9iCOg41R",
+               "width" : 750
+            }
+         ],
+         "place_id" : "ChIJp5f-nntOyEwRcUaobE1Qpj8",
+         "plus_code" : {
+            "compound_code" : "J3F2+8P Saint-Hyacinthe, QC, Canada",
+            "global_code" : "87Q9J3F2+8P"
+         },
+         "price_level" : 1,
+         "rating" : 4.7,
+         "reference" : "ChIJp5f-nntOyEwRcUaobE1Qpj8",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 206,
+         "vicinity" : "1910 Rue Des Cascades O, Saint-Hyacinthe"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.6302169,
+               "lng" : -72.95528329999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6315936302915,
+                  "lng" : -72.95389436970851
+               },
+               "southwest" : {
+                  "lat" : 45.62889566970851,
+                  "lng" : -72.95659233029153
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Le Petit Cabinet de Tania",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1256,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116080298174616210926\"\u003eLe Petit Cabinet de Tania\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBtcLBYXkU5T2OewRQY0pd-K9g5kmYsDQ3iO4pDSaAFxd2R5GwF9LojVVXMq5-N8Q3sWy7oa__TzI04mi6FQBLXL1H7CWuU-kLoIg-BlQlnpctGiTheBPYjmrFzP7Vi62cmP0B5N45IuxO30cODkmNwGXcSBP62W95PtQPTD7PaHDOD",
+               "width" : 2064
+            }
+         ],
+         "place_id" : "ChIJJeM52dlPyEwRlCoRt-5KW_Y",
+         "plus_code" : {
+            "compound_code" : "J2JV+3V Saint-Hyacinthe, QC, Canada",
+            "global_code" : "87Q9J2JV+3V"
+         },
+         "reference" : "ChIJJeM52dlPyEwRlCoRt-5KW_Y",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "2315 Avenue Sainte-Anne, Saint-Hyacinthe"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.6207807,
+               "lng" : -72.960638
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.62222518029149,
+                  "lng" : -72.95913626970851
+               },
+               "southwest" : {
+                  "lat" : 45.6195272197085,
+                  "lng" : -72.96183423029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Univers Fantastique Saint-Hyacinthe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112456326258739466676\"\u003eUnivers Fantastique Saint-Hyacinthe\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB9U5SXUVwJCgedQTTo6P5vbFKjp_Re3SUituvs1asVEsGQh6k9rYHQ-VEQvtLyORnFi1AhtOxlQvc9e7VpM_hJrJpknzsldORS0WIqh_yHYXkbqBpeW-q_cYfurFRNY6fvJM3grbGi3BqIe1QfpXqIKP_YDB-PW2KFtZaWt7AUdes",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJtdvfaadPyEwR56WxSj2jTUA",
+         "plus_code" : {
+            "compound_code" : "J2CQ+8P Saint-Hyacinthe, QC, Canada",
+            "global_code" : "87Q9J2CQ+8P"
+         },
+         "rating" : 5,
+         "reference" : "ChIJtdvfaadPyEwR56WxSj2jTUA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "1185 Avenue Després, Saint-Hyacinthe"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.6208058,
+               "lng" : -72.96505970000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6220814802915,
+                  "lng" : -72.96378291970849
+               },
+               "southwest" : {
+                  "lat" : 45.6193835197085,
+                  "lng" : -72.9664808802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Presse Café",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115136949836194500302\"\u003eDwin Paez\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA5SphxAEUUzsmaTqFkQDXfJpBMiYyD4wYwC0-MRxIo7lzvfcE7wYQXe4YRj4SERBZooWcLPXuFIgXhoLAehwrKpg1_b6zjnHe1IVZiqnD6BcZ7s2CNQ4ytLHoM47jHuNVcWxl4hUcCaWVxq_Nyk622BRNIjwRI41KzTXn3x4rSmS8T",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJvcojBXVOyEwRDK1q9bKk4F0",
+         "plus_code" : {
+            "compound_code" : "J2CM+8X Saint-Hyacinthe, QC, Canada",
+            "global_code" : "87Q9J2CM+8X"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJvcojBXVOyEwRDK1q9bKk4F0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 27,
+         "vicinity" : "1500 Rue des Vétérinaires, Saint-Hyacinthe"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.6106604,
+               "lng" : -72.9577839
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6120663302915,
+                  "lng" : -72.95651136970851
+               },
+               "southwest" : {
+                  "lat" : 45.6093683697085,
+                  "lng" : -72.95920933029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Marie france tremblay",
+         "place_id" : "ChIJyzfNOFpNyEwRN7CqC-8lEbc",
+         "plus_code" : {
+            "compound_code" : "J26R+7V Saint-Hyacinthe, QC, Canada",
+            "global_code" : "87Q9J26R+7V"
+         },
+         "rating" : 5,
+         "reference" : "ChIJyzfNOFpNyEwRN7CqC-8lEbc",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "16050 des, Rue des Catalpas, Saint-Hyacinthe"
+      }
+   ],
+   "status" : "OK"
+}

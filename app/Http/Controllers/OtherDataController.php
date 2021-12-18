@@ -29,7 +29,7 @@ defined('DEFAULT_SPAN_TEXT') || define('DEFAULT_SPAN_TEXT', ' ');
 defined('MAX_FILE_SIZE') || define('MAX_FILE_SIZE', 600000);
 define('HDOM_SMARTY_AS_TEXT', 1);
 
-class TestController extends Controller
+class OtherDataController extends Controller
 {
 
     private function file_get_html(
@@ -112,32 +112,37 @@ class TestController extends Controller
         $node->dump($node);
     }
 
-    public function test($DA)
-    {
-        $return = 'test';
+    public function getDA($postal){
+        $postal=str_replace(' ','+',$postal);
+        $url ='https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/search-recherche/results-resultats.cfm?Lang=E&TABID=2&G=1&Geo1=&Code1=&Geo2=&Code2=&SearchText='.$postal.'&wb-srch-pc=search';
+        // return $url;
+        $html = $this->file_get_html($url);
+        return ($html->find('a.geo-lbx')[8]->attr['data-dguid']);
 
-        $url ='https://www12.statcan.gc.ca/rest/census-recensement/CPR2016.json?lang=E&dguid=2016S0512'.$DA.'&topic=0&notes=0&stat=0';
+       
+
+    }
+
+    public function get($postal)
+    {
+        $DA = $this->getDA($postal);
+        $url ='https://www12.statcan.gc.ca/rest/census-recensement/CPR2016.json?lang=E&dguid='.$DA.'&topic=0&notes=0&stat=0';
+        // dd($url);
+
+        $url='CPR2016.json';
 
         // get DOM from URL or file
-        $html = $this->file_get_html($url);
+        $json = file_get_contents($url);
 
-        // find all link
-        foreach ($html->find('a') as $e)
-            $return .= $e->href . '<br>';
-
-        return $return;
-    }
-    public function testEmail()
-    {
-        $datas = [
-            'email' => 'test',
+        $data=json_decode($json,true);
+        $data=$data["DATA"];
+        return [
+            'average_total_income' => $data[816][13],
+            'owner'=>$data[1617][13],
+            'rental'=>$data[1618][13],
+            'household'=>$data[57][13],
+            'medianage'=>$data[39][13]
         ];
 
-        \Mail::send('emails.testEmail', $datas, function ($message) use ($datas) {
-            $message->to(\Request::get('mail'));
-            $message->subject('testing');
-        });
-
-        dd('Mail Send Successfully.');
     }
 }
