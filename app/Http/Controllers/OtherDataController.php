@@ -129,7 +129,7 @@ class OtherDataController extends Controller
         $url ='https://www12.statcan.gc.ca/rest/census-recensement/CPR2016.json?lang=E&dguid='.$DA.'&topic=0&notes=0&stat=0';
         // dd($url);
 
-        $url='CPR2016.json';
+        // $url='CPR2016.json';
 
         // get DOM from URL or file
         $json = file_get_contents($url);
