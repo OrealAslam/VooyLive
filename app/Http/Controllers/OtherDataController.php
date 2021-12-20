@@ -127,7 +127,6 @@ class OtherDataController extends Controller
     {
         $DA = $this->getDA($postal);
         $url ='https://www12.statcan.gc.ca/rest/census-recensement/CPR2016.json?lang=E&dguid='.$DA.'&topic=0&notes=0&stat=0';
-        // dd($url);
 
         // $url='CPR2016.json';
 
@@ -137,11 +136,34 @@ class OtherDataController extends Controller
         $data=json_decode($json,true);
         $data=$data["DATA"];
         return [
-            'average_total_income' => $data[816][13],
-            'owner'=>$data[1617][13],
-            'rental'=>$data[1618][13],
-            'household'=>$data[57][13],
-            'medianage'=>$data[39][13]
+            'average_total_income' => ($data[816][13] ? $data[816][13] : 0),
+            'owner' => ($data[1617][13] ? $data[1617][13] : 0),
+            'rental' => ($data[1618][13] ? $data[1618][13] : 0),
+            'household' => ($data[57][13] ? $data[57][13] : 0),
+            'medianage' => ($data[39][13] ? $data[39][13] : 0),
+            'zero_to_four' => ($data[9][13] ? $data[9][13] : 0),
+            'five_to_nine' => ($data[10][13] ? $data[10][13] : 0),
+            'ten_to_fourteen' => ($data[11][13] ? $data[11][13] : 0),
+            'fifteen_to_nineteen' => ($data[13][13] ? $data[13][13] : 0),
+            'twenty_to_twentyfour' => ($data[14][13] ? $data[14][13] : 0),
+            'twentyfive_to_twentynine' => ($data[15][13] ? $data[15][13] : 0),
+            'thirty_to_thirtyfour' => ($data[16][13] ? $data[16][13] : 0),
+            'thirtyfive_to_thirtynine' => ($data[17][13] ? $data[17][13] : 0),
+            'forty_to_fortyfour' => ($data[18][13] ? $data[18][13] : 0),
+            'fortyfive_to_fortynine' => ($data[19][13] ? $data[19][13] : 0),
+            'fifty_to_fiftyfour' => ($data[20][13] ? $data[20][13] : 0),
+            'fiftyfive_to_fiftynine' => ($data[21][13] ? $data[21][13] : 0),
+            'sixty_to_sixtyfour' => ($data[22][13] ? $data[22][13] : 0),
+            'sixtyfive_and_over' => ($data[23][13] ? $data[23][13] : 0),
+            'sixtyfive_to_sixtynine' => ($data[24][13] ? $data[24][13] : 0),
+            'bachelors_degree' => ($data[1707][13] ? $data[1707][13] : 0),
+            'secondary_school_certificate' => ($data[1699][13] ? $data[1699][13] : 0),
+            'university_certificate_below_bachelor' => ($data[1705][13] ? $data[1705][13] : 0),
+            'university_certificate_above_bachelor' => ($data[1706][13] ? $data[1706][13] : 0),
+            'college_cegep_certificate' => ($data[1704][13] ? $data[1704][13] : 0),
+            'apprenticeship_certificate' => ($data[1701][13] ? $data[1701][13] : 0),
+            'no_certificate' => ($data[1698][13] ? $data[1698][13] : 0),
+
         ];
 
     }

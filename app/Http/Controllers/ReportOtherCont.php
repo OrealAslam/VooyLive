@@ -69,6 +69,7 @@ class ReportOtherCont extends ReportApiCont
          //call data extraction function
  
          $data = $this->getCensusData($report->postal_code);
+        //  dd($data);
 
 
 
@@ -76,8 +77,8 @@ class ReportOtherCont extends ReportApiCont
     	$data['household']=$data['household'];
         $data['rentalVsOwned']=$this->getRentalVsOwned($data);
     	$data['medianAge']=$data['medianage'];
-    	$age=$this->getAgeChart($reportId, $template);
-    	$edu=$this->getEduChart($reportId, $template);
+    	$age=$this->getAgeChart($data, $template);
+    	$edu=$this->getEduChart($data, $template);
     	$data['ageChart']=$age->render();
     	$data['eduChart']=$edu->render();
     	return $data;
@@ -121,90 +122,7 @@ class ReportOtherCont extends ReportApiCont
         	}
         }
 	    return json_decode($response);
-    }     
-    public function getAgeChartData($reportId, $template='classic'){
-        return NULL;
-    	$report=Report::findOrfail($reportId);
-        $response=NULL;
-        $neighborhood=$this->getCommunity($reportId);
-        if($neighborhood){
-        	$response=$this->getApiCache($reportId,'demographyage');
-        	if($response==NULL){
-        		$url='https://data.edmonton.ca/resource/y8bi-vahs.json?neighbourhood_name='.strtoupper($neighborhood);
-        		$response=$this->getApiData($reportId,$url,'demographyage');
-        	}
-        }
-	    return json_decode($response);
-    }    
-     public function getMedianAge($reportId, $template='classic'){
-
-	    try{
-	       
-	        $response=$this->getAgeChartData($reportId);
-            if ($response && $response[0]) {
-                $response=$response[0];
-
-                 $totalfrequency=0;
-
-                $totalfrequency+=$response->_0_4+$response->_5_9+$response->_10_14+$response->_25_29+$response->_15_19+$response->_20_24+$response->_30_34+$response->_35_39+$response->_40_44+$response->_45_49+$response->_50_54+$response->_55_59+$response->_60_64+$response->_65_69+$response->_70_74+$response->_75_79+$response->_80_84+$response->_85;
-
-               
-
-                $total=(($response->_0_4*2)+($response->_5_9*7)+($response->_10_14*12)+($response->_25_29*27)+($response->_15_19*17)+($response->_20_24*21)+($response->_30_34*32)+($response->_35_39*37)+($response->_40_44*42)+($response->_45_49*47)+($response->_50_54*52)+($response->_55_59*57)+($response->_60_64*62)+($response->_65_69*67)+($response->_70_74*72)+($response->_75_79*77)+($response->_80_84*82)+($response->_85*85));
-                if($totalfrequency>0)
-                    $medianAge=round($total/$totalfrequency,0);
-                else
-                    $medianAge='n/a';
-            } else {
-                $medianAge='n/a';
-            }
-            return $medianAge;
-	    }
-	    catch(Exception $e){
-	        return NULL;
-	    }
-    } 
-
-    public function getEduChartData($reportId, $template='classic'){
-        return NULL;
-
-    	$report=Report::findOrfail($reportId);
-        $response=NULL;
-        $neighborhood=$this->getCommunity($reportId);
-        if($neighborhood){
-        	$response=$this->getApiCache($reportId,'demographyedu');
-
-        	if($response==NULL){
-        		 $url='https://data.edmonton.ca/resource/eypv-7bbj.json?neighbourhood_name='.strtoupper($neighborhood);
-        		$response=$this->getApiData($reportId,$url,'demographyedu');
-        	}
-        }
-	    return json_decode($response);
     }
-    public function getHousehold($reportId, $template='classic'){
-
-	    try{
-	       
-	        $response=$this->getAgeChartData($reportId);
-            $response=$response[0];
-
-             $totalfrequency=0;
-
-            $totalfrequency+=$response->_0_4+$response->_5_9+$response->_10_14+$response->_25_29+$response->_15_19+$response->_20_24+$response->_30_34+$response->_35_39+$response->_40_44+$response->_45_49+$response->_50_54+$response->_55_59+$response->_60_64+$response->_65_69+$response->_70_74+$response->_75_79+$response->_80_84+$response->_85;
-
-            $children=$response->_0_4+$response->_5_9+$response->_10_14+$response->_25_29+$response->_15_19;
-            if($totalfrequency>0)
-                $household=round($children/$totalfrequency*100,1);
-            else
-                $household='n/a';
-
-            return $household;
-	    }
-	    catch(Exception $e){
-	        return NULL;
-	    }
-    }
-
 
     public function getRentalVsOwned($data) {
         $total = ((int)$data['owner']+(int)$data['rental']);
@@ -219,40 +137,31 @@ class ReportOtherCont extends ReportApiCont
         
     }
 
-    public function getRentalVsOwnedData($reportId, $template='classic') {
-        return NULL;
-
-        $report=Report::findOrfail($reportId);
-        $response=NULL;
-        $neighborhood=$this->getCommunity($reportId);
-        if($neighborhood){
-            $response=$this->getApiCache($reportId,'demographyrentalvsowned');
-            if($response==NULL){
-                $url='https://data.edmonton.ca/resource/3p9s-5j49.json?neighbourhood='.strtoupper($neighborhood);
-                $response=$this->getApiData($reportId,$url,'demographyrentalvsowned');
-            }
-        }
-        return json_decode($response);
-    }
-
-    public function getAgeChart($reportId, $template='classic'){
-        $data = array();
-    	$response=$this->getAgeChartData($reportId);
-        if ($response && $response[0]) {
-    	   $data['response']=$response[0];
-        }
-    	return view('reports.'.$this->cityName.'.'.$template.'.demobyage',$data);
+    
+    public function getAgeChart($data, $template='classic'){
+        $response = [
+            'zero_to_nine' => ((int)$data['zero_to_four'] + (int)$data['five_to_nine']),
+            'ten_to_nineteen' => ((int)$data['ten_to_fourteen'] + (int)$data['fifteen_to_nineteen']),
+            'twenty_to_thirtyfour' => ((int)$data['twenty_to_twentyfour'] + (int)$data['twentyfive_to_twentynine'] + (int)$data['thirty_to_thirtyfour']),
+            'thirtyfive_to_fortynine' => ((int)$data['thirtyfive_to_thirtynine'] + (int)$data['forty_to_fortyfour'] + (int)$data['fortyfive_to_fortynine']),
+            'fifty_to_fiftyfour' => $data['fifty_to_fiftyfour'],
+            'fiftyfive_to_sixtyfour' => ((int)$data['fiftyfive_to_fiftynine'] + (int)$data['sixty_to_sixtyfour']),
+            'sixtyfive_to_sixtynine' => $data['sixtyfive_to_sixtynine'],
+            'seventy_plus' => ((int)$data['sixtyfive_and_over'] - (int)$data['sixtyfive_to_sixtynine'])
+        ];    
+    	return view('reports.other.'.$template.'.demobyage', ['response' => $response]);
     }    
 
-    public function getEduChart($reportId, $template='classic'){
-        $data = array();
-    	$response=$this->getEduChartData($reportId);
-        if ($response && $response[0]) {
-    	   $data['response']=$response[0];
-        }
-    	return view('reports.'.$this->cityName.'.'.$template.'.demobyedu',$data);
+    public function getEduChart($data, $template='classic'){
+        $response = [
+            'university' => ((int)$data['bachelors_degree'] + (int)$data['university_certificate_below_bachelor'] + (int)$data['university_certificate_above_bachelor']),
+            'college_certificate_diploma' => (int)$data['college_cegep_certificate'],
+            'apprenticeship_or_trades' => (int)$data['apprenticeship_certificate'],
+            'other' => (int)$data['no_certificate'],
+            'high_school' => (int)$data['secondary_school_certificate'],
+        ];
+    	return view('reports.other.'.$template.'.demobyedu', ['response' => $response]);
     }
-
     public function getCatholicData($reportId, $template='classic'){
         return ['response'=>array()];
 
@@ -370,7 +279,6 @@ class ReportOtherCont extends ReportApiCont
         }
 
     }
-
     public function getHighSchool($reportId, $template='classic'){
         return array();
     	$report=Report::findOrfail($reportId);
@@ -425,23 +333,20 @@ class ReportOtherCont extends ReportApiCont
             return ['response'=>array()];
         }
     }
-
-
-
     public function getgoogleaddress($lat,$lng)
     {
-	$url = "https://maps.googleapis.com/maps/api/geocode/json?latlng=".trim($lat).",".trim($lng)."&key=".env('GOOGLE_MAP_API');
-	$json = @file_get_contents($url);
-	$data=json_decode($json);
-	$status = $data->status;
-	if($status=="OK")
-	{
-		return $data->results[0]->formatted_address;
-	}
-	else
-	{
-		return false;
-	}
+        $url = "https://maps.googleapis.com/maps/api/geocode/json?latlng=".trim($lat).",".trim($lng)."&key=".env('GOOGLE_MAP_API');
+        $json = @file_get_contents($url);
+        $data=json_decode($json);
+        $status = $data->status;
+        if($status=="OK")
+        {
+            return $data->results[0]->formatted_address;
+        }
+        else
+        {
+            return false;
+        }
     }
     public function getLibraryData($reportId, $template='classic'){
         return ['response'=>array()];
@@ -468,7 +373,6 @@ class ReportOtherCont extends ReportApiCont
             return ['response'=>array()];
         }
     }   
-
     public function getTransitData($reportId, $template='classic'){
     	$report=Report::findOrfail($reportId);
     	$response=$this->getApiCache($reportId,'transit');
@@ -698,11 +602,6 @@ class ReportOtherCont extends ReportApiCont
     public function getDryCleanerData($reportId){
          return $this->getGoogleData($reportId,'dry_cleaner');
     }
-    /*
-    public function getWifiCenterData($reportId){
-         return $this->getGoogleData($reportId,'wifi_center');
-    }
-    */
     public function getGoogleData($reportId,$type){
         $report=Report::findOrfail($reportId);
         $response=$this->getApiCache($reportId,$type);
@@ -768,7 +667,6 @@ class ReportOtherCont extends ReportApiCont
         }
         return ['response'=>$data];
     }
-
     public function getWifiCenterData($reportId, $template='classic'){
         return ['response'=>NULL];
         try{

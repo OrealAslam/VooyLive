@@ -6,14 +6,14 @@
 
         var data = google.visualization.arrayToDataTable([
           ['Task', 'Age Distribution'],
-          ['0-9',  {{ isset($response) ? $response->_0_4 +$response->_5_9 : 0 }}],
-          ['10-19', {{ isset($response) ? $response->_10_14+ $response->_15_19 : 0 }}] ,
-          ['20-34', {{ isset($response) ? $response->_20_24 + $response->_25_29 + $response->_30_34 : 0 }}] ,
-          ['35-50', {{ isset($response) ? $response->_35_39  + $response->_40_44 + $response->_45_49 : 0 }}] ,
-          ['50-54', {{ isset($response) ? $response->_50_54 : 0 }}] ,
-          ['55-64', {{ isset($response) ? $response->_55_59+$response->_60_64 : 0 }}],
-          ['65-69', {{ isset($response) ? $response->_65_69 : 0 }}],
-          ['70+',   {{ isset($response) ? $response->_70_74 + $response->_75_79 + $response->_80_84 + $response->_85 : 0 }}]
+          ['0-9',  {{ $response['zero_to_nine'] }}],
+          ['10-19', {{ $response['ten_to_nineteen'] }}],
+          ['20-34', {{ $response['twenty_to_thirtyfour'] }}] ,
+          ['35-49', {{ $response['thirtyfive_to_fortynine'] }}] ,
+          ['50-54', {{ $response['fifty_to_fiftyfour'] }}] ,
+          ['55-64', {{ $response['fiftyfive_to_sixtyfour'] }}],
+          ['65-69', {{ $response['sixtyfive_to_sixtynine'] }}],
+          ['70+',   {{ $response['seventy_plus'] }}]
         ]);
 
         var options = {

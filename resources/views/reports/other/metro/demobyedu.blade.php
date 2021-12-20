@@ -7,10 +7,11 @@
 
         var data = google.visualization.arrayToDataTable([
           ['Task', 'Education Distribution'],
-          ['University', {{ isset($response) ? $response->bachelor_s_degree+$response->master_s_degree+$response->earned_doctorate+$response->high_school_diploma_or_equivalent+$response->medical_degree+$response->university_certificate_below_bachelor_s_level+$response->university_certificate_or_diploma_above_bachelor_level : 0 }} ],
-          ['College Certificate / Diploma', {{ isset($response) ? $response->college_certificate_or_diploma : 0 }} ],
-          ['Trades', {{ isset($response) ? $response->trades_certificate : 0 }} ],
-          ['other', {{ isset($response) ? $response->no_certificate_diploma_or_degree +  $response->registered_apprenticeship_certificate : 0 }} ]
+          ['University', {{ $response['university'] }} ],
+          ['College Certificate / Diploma', {{ $response['college_certificate_diploma'] }} ],
+          ['Apprenticeship or Trades', {{ $response['apprenticeship_or_trades'] }} ],
+          ['Other', {{ $response['other'] }} ],
+          ['High School', {{ $response['high_school'] }} ],
         ]);
         var options = {
             //height:document.getElementById('edulist').offsetWidth,
