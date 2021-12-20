@@ -117,7 +117,11 @@ class OtherDataController extends Controller
         $url ='https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/search-recherche/results-resultats.cfm?Lang=E&TABID=2&G=1&Geo1=&Code1=&Geo2=&Code2=&SearchText='.$postal.'&wb-srch-pc=search';
         // return $url;
         $html = $this->file_get_html($url);
-        return ($html->find('a.geo-lbx')[8]->attr['data-dguid']);
+        
+
+        foreach($html->find('a.geo-lbx') as $elem)
+        $return = $elem->attr['data-dguid'];
+        return $return;
 
        
 
@@ -125,8 +129,10 @@ class OtherDataController extends Controller
 
     public function get($postal)
     {
+        // dd($postal);
         $DA = $this->getDA($postal);
         $url ='https://www12.statcan.gc.ca/rest/census-recensement/CPR2016.json?lang=E&dguid='.$DA.'&topic=0&notes=0&stat=0';
+        // dd($url);
 
         // $url='CPR2016.json';
 
