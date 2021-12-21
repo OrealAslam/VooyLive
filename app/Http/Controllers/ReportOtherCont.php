@@ -68,7 +68,7 @@ class ReportOtherCont extends ReportApiCont
  
          //call data extraction function
  
-         $data = $this->getCensusData($report->postal_code);
+         $data = $this->getCensusData($report->postal_code, $report->City->name);
         //  dd($data);
 
 

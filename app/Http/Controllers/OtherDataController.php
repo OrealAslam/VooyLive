@@ -118,19 +118,39 @@ class OtherDataController extends Controller
         // return $url;
         $html = $this->file_get_html($url);
         
-
+        $return = null;
         foreach($html->find('a.geo-lbx') as $elem)
         $return = $elem->attr['data-dguid'];
-        return $return;
 
-       
+  
+        return $return;
 
     }
 
-    public function get($postal)
+    public function fallBackDA($city){
+        $city=str_replace(' ','+',$city);
+        $url ='https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/search-recherche/results-resultats.cfm?Lang=E&TABID=1&G=1&Geo1=&Code1=&Geo2=&Code2=&type=0&SearchText='.$city.'&SearchType=Contains&wb-srch-place=search#';
+        // return $url;
+        $html = $this->file_get_html($url);
+
+        $return = null;
+
+        foreach($html->find('a.geo-lbx') as $elem)
+        $return = $elem->attr['data-dguid'];
+
+        return $return;
+
+    }
+
+    public function get($postal,$city)
     {
         // dd($postal);
         $DA = $this->getDA($postal);
+
+        if(!$DA)
+        {
+            $DA = $this->fallBackDA($city);
+        }
         $url ='https://www12.statcan.gc.ca/rest/census-recensement/CPR2016.json?lang=E&dguid='.$DA.'&topic=0&notes=0&stat=0';
         // dd($url);
 
