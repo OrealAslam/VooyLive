@@ -46,10 +46,10 @@ class ReportOtherCont extends ReportApiCont
         //return da number
 
     }
-    private function getCensusData($DA){
+    private function getCensusData($postal,$city){
 
 // TODO do this testing
-        $data=app('App\Http\Controllers\OtherDataController')->get($DA);
+        $data=app('App\Http\Controllers\OtherDataController')->get($postal,$city);
 
 
         return $data;
