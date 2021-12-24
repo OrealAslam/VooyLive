@@ -82,43 +82,11 @@ class ReportApiCont extends Controller
         $data['report']=$report;
         $data['orderData'] = Order::where([['userId',$userId],['reportId',$reportId]])->first();
         $data['template']=$template;
-        $reportGetContName = class_exists('App\Http\Controllers\Report'.$report->City->name.'Cont')?'App\Http\Controllers\Report'.$report->City->name.'Cont':'App\Http\Controllers\ReportOtherCont';
+        // $reportGetContName = class_exists('App\Http\Controllers\Report'.$report->City->name.'Cont')?'App\Http\Controllers\Report'.$report->City->name.'Cont':'App\Http\Controllers\ReportOtherCont';
+        $reportGetContName = 'App\Http\Controllers\ReportOtherCont';
         $this->reportGetCont = new $reportGetContName();
         $data['neighborsData']=$this->reportGetCont->getNeighborsData($reportId, $template);
-        /*
-        //$data['community']=$this->getCommunity($reportId);
-        //$data['community']=$this->reportGetCont->getCommunity($reportId); //not sure if this is using in reports or not
-        //$data['catholic']=$this->getCachedData($reportId,'catholic');
-        $data['neighbors']=$this->reportGetCont->getCachedData($reportId,'neighbors');
-        $data['demography']=$this->reportGetCont->getCachedData($reportId,'demography');
-        $data['school']=$this->reportGetCont->getCachedData($reportId,'school');
-        $data['transit']=$this->reportGetCont->getCachedData($reportId,'transit');
-        $data['library']=$this->reportGetCont->getCachedData($reportId,'library');
-        $data['map']=$this->reportGetCont->getCachedData($reportId,'map');
-
-        //edmonton
-        if ($report->City->id == 1) {
-            $data['playground']=$this->reportGetCont->getCachedData($reportId,'playground');
-            $data['recreation']=$this->reportGetCont->getCachedData($reportId,'recreation');
-        }
-        //calgary
-        if ($report->City->id == 2) {
-            $data['recreation']=$this->reportGetCont->getCachedData($reportId,'recreation');
-            $data['safety']=$this->reportGetCont->getCachedData($reportId,'safety');//in calgary
-            $data['waste']=$this->reportGetCont->getCachedData($reportId,'waste');//in calgary
-            $data['communitycenter']=$this->reportGetCont->getCachedData($reportId,'communitycenter');
-        }
-        //vancouver
-        if ($report->City->id == 3) {
-            $data['communitycenter']=$this->reportGetCont->getCachedData($reportId,'communitycenter');
-            $data['park']=$this->reportGetCont->getCachedData($reportId,'park');
-        }
-        //toronto
-        if ($report->City->id == 4) {
-            $data['recreation']=$this->reportGetCont->getCachedData($reportId,'recreation');
-            $data['park']=$this->reportGetCont->getCachedData($reportId,'park');
-        }
-        */
+        
         $allReports = array(
             array('name' => 'neighbors',    'funcName' => 'neighbors',      'cities' => array(1,2,3,4)),
             array('name' => 'demography',   'funcName' => 'demography',     'cities' => array(1,2,3,4)),
@@ -179,10 +147,12 @@ class ReportApiCont extends Controller
             $data['edit_report_address'] = $editReportAddress;
             $data['hide_top_address_search'] = true;
         }
-        if($reportGetContName=='App\Http\Controllers\ReportOtherCont')
         return view('reports.other.'.$template.'.highlights',$data);
-        else
-        return view('reports.'.strtolower($report->City->name).'.'.$template.'.highlights',$data);
+
+        // if($reportGetContName=='App\Http\Controllers\ReportOtherCont')
+        // return view('reports.other.'.$template.'.highlights',$data);
+        // else
+        // return view('reports.'.strtolower($report->City->name).'.'.$template.'.highlights',$data);
     }
 
     public function getCachedData($reportId,$name, $template)
@@ -224,7 +194,8 @@ class ReportApiCont extends Controller
     {
 
         $report = Report::findOrfail($reportId);
-        $reportGetContName = class_exists('App\Http\Controllers\Report'.$report->City->name.'Cont')?'App\Http\Controllers\Report'.$report->City->name.'Cont':'App\Http\Controllers\ReportOtherCont';
+        // $reportGetContName = class_exists('App\Http\Controllers\Report'.$report->City->name.'Cont')?'App\Http\Controllers\Report'.$report->City->name.'Cont':'App\Http\Controllers\ReportOtherCont';
+        $reportGetContName = 'App\Http\Controllers\ReportOtherCont';
         $this->reportGetCont = new $reportGetContName();
 
 
@@ -233,10 +204,12 @@ class ReportApiCont extends Controller
             if(!method_exists($this->reportGetCont,$function))
             return '';
             $response=$this->reportGetCont->$function($reportId, $template);
-            if($reportGetContName=='App\Http\Controllers\ReportOtherCont')
             return view('reports.other.'.$template.'.'.$api,$response);
-            else
-            return view('reports.'.strtolower($report->City->name).'.'.$template.'.'.$api,$response);
+
+            // if($reportGetContName=='App\Http\Controllers\ReportOtherCont')
+            // return view('reports.other.'.$template.'.'.$api,$response);
+            // else
+            // return view('reports.'.strtolower($report->City->name).'.'.$template.'.'.$api,$response);
 
         }
          catch(Exception $e){
@@ -244,20 +217,6 @@ class ReportApiCont extends Controller
         }
     }
 
-    /*
-    public function getView($api,$reportId)
-    {
-        try {
-            $function='get'.ucwords($api).'Data';
-            if (method_exists($this, $function)) {
-                $response=$this->$function($reportId);
-                return view('reports.'.$this->cityName.'.'.$api,$response);
-            }
-        } catch(Exception $e) {
-            return $e->getMessage();
-        }
-    }
-    */
 
     public function getApiCache($reportId,$name)
     {
@@ -308,18 +267,7 @@ class ReportApiCont extends Controller
         }
     }
 
-    /*
-    public function is_in_polygon($points_polygon, $vertices_x, $vertices_y, $longitude_x, $latitude_y)
-    {
-        $i = $j = $c = 0;
-        for ($i = 0, $j = $points_polygon ; $i < $points_polygon; $j = $i++) {
-            if ( (($vertices_y[$i]  >  $latitude_y != ($vertices_y[$j] > $latitude_y)) &&
-                ($longitude_x < ($vertices_x[$j] - $vertices_x[$i]) * ($latitude_y - $vertices_y[$i]) / ($vertices_y[$j] - $vertices_y[$i]) + $vertices_x[$i]) ) )
-                $c = !$c;
-        }
-        return $c;
-    }
-    */
+   
 
     public function is_in_polygon($points_polygon, $vertices_x, $vertices_y, $longitude_x, $latitude_y)
     {
