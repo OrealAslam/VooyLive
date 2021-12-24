@@ -205,7 +205,7 @@
     <div class="header section font-raleway" id="header">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 address text-editable" data-field-id="custom_report_address">
-                <span class="colora content addressText" style="line-height: 1em !important;">{{ !empty($orderData->custom_report_address) ? $orderData->custom_report_address : $report->address }}</span>
+                <span class="colora content addressText" style="line-height: 1em !important;"><?=str_replace(', Canada', ' ', !empty($orderData->custom_report_address) ? $orderData->custom_report_address : $report->address)?></span>
             </div>
         </div>
         <div class="row">
@@ -317,7 +317,7 @@
             </div>
             -->
             <div class="col-lg-7 col-md-7 col-sm-7 title2 backgroundd colorb font-raleway text-right">
-                {{ $report->address }}
+                <?=str_replace(', Canada', ' ', !empty($orderData->custom_report_address) ? $orderData->custom_report_address : $report->address)?>
             </div>
         </div>
         <div class="row">
