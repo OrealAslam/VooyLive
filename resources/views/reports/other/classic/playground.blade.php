@@ -7,7 +7,6 @@
 	<table class="table table-bordered">
 		<tr>
 			@foreach($response as $res)
-				@if(isset($res))
 				<td class="col-xs-2 text-center" style="vertical-align: middle;">
 					<div class="fillf" style="">
 						<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -47,7 +46,6 @@
 							<span style="vertical-align:top;"><strong style="vertical-align:top;">Distance to house:</strong> {{ !empty($res->distance) ? round($res->distance, 2).'KM'  : 'N/A' }}</span>
 						</div>
 				</td>
-				@endif
 			@endforeach
 		</tr>
 	</table>

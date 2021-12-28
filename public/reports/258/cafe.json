@@ -1,0 +1,955 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEDuX2v-DX8MwYbWaLm9QyoSq92AB17SMdQJLl7NC1QNFkORC-RME9hV-FRhjMlwW9Be3Lthx3IQR49fLKkAsM-KGFISRmxwUDxTJYif4GhoTuzlRV0zSArKE4pjpIlGk7ihSchWoE5x7YmX4azVJwwbgD9oeufuthhjprgD8jfAD-_ZnpHvorhtNbhs4RER-PceVYvb-41GE47FOXQQxxwFCBIF0qgNXtn4N7FFIjdfEKWXgkopOs3YQNISUiJIRGJSmH09QFtEfJb7D-IG5DPnqma1Yucx8j39ytWLoIjmxUSI1Y-E_j9WHQL0D_6GlZdyHqKNu0YOu866Oks0tUzVcaDvqseeLmg6QHMVgfNtPsd75wnZv_yciU6ew0qHZ8n39E5UuahHGdL-Rcsp0LcUNBEtz41uuiTu8Mmuepc17vUcHlSW868N341AsSC0X9Vve1Wt_fLjK6aTS9PFDBTKgg0aV0mXKaSUaMEIS07aPSthQzdaPwixcxHmR_ys5cx4Wdf7Qdzmpm4-PuE_TJjgk5b5BWYhT_-Sq-nhrHxH0jex1y-WlY2DGEdTzsDi5oYnSgaj02ZU5NT8H6zvN93aZO6Yeff6zvYJ64TjMvH3NvgEu7CCtWZCOBl0e7dfcKUM5AfIAVyfRFLn00IK7C1WX_QEJOriHWKbpC37Gvb3t5RU2rq7dJwKHr8mhrti6DffZJm1RoMl59gBslfV9c3Vn2931LbFj1eTu3r8g8h3Nmj00r_0byEX7w",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.17692630000001,
+               "lng" : -122.864595
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1782277302915,
+                  "lng" : -122.8633669697085
+               },
+               "southwest" : {
+                  "lat" : 49.1755297697085,
+                  "lng" : -122.8660649302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114681013148078948286\"\u003eCody Peters\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAf94n2qquDZOjxVxNmc0qV7rtUaSh39UrffuHWkHM5LnsSx0n-KIy5CCpnlq0Mjw67k15UMa_onyyYSeWZIUZ2uh9E6kfqQBBO6H4K-cXI9ZufLPM2EY9MqxRBQ8e1aUgXe1hbYj2dZfRKZE-Iqc5AJRr8oZ1Hyqhvnx3AKqH4vuFg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJOVvQlMnZhVQRicBWpt9JpAE",
+         "plus_code" : {
+            "compound_code" : "54GP+Q5 Surrey, BC, Canada",
+            "global_code" : "84XV54GP+Q5"
+         },
+         "price_level" : 1,
+         "rating" : 3.1,
+         "reference" : "ChIJOVvQlMnZhVQRicBWpt9JpAE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1823,
+         "vicinity" : "12930 96 Avenue, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.17692410000001,
+               "lng" : -122.8667363
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.17836563029151,
+                  "lng" : -122.8652920697085
+               },
+               "southwest" : {
+                  "lat" : 49.17566766970851,
+                  "lng" : -122.8679900302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116231213772768130357\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAxaXaBj8LKu3rOwDrBaUwNE3xel7EylvptX71nJmF1tIe27mabDGw2Mn8osSJJy2jvbO4TugEfRcicln4-bh3Y6OH78oUhIWgpTprNCcL4LGTuVsjtp0-FXAi5BE2L9_Aac8b1VetstlcLCoBgGAsO5AtME6CoohOd5W4LpdwcJr41",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJiT9fArbZhVQR0V5NR_8nNI0",
+         "plus_code" : {
+            "compound_code" : "54GM+Q8 Surrey, BC, Canada",
+            "global_code" : "84XV54GM+Q8"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJiT9fArbZhVQR0V5NR_8nNI0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 526,
+         "vicinity" : "12840 96 Avenue, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.191165,
+               "lng" : -122.8493871
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1926819802915,
+                  "lng" : -122.8481482197085
+               },
+               "southwest" : {
+                  "lat" : 49.1899840197085,
+                  "lng" : -122.8508461802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Take Five Café",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111460292889753040737\"\u003e陈Alan\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAl42guf1d8bZJjZuzRPrXkXgbNC7NOJ7UTprMsHb0KaCoIkpxOpoJ-rxB4QWLwFQfCHvCe9mybcdmHH55-bKqIPd-SL4nuITxybzNXI_V1mkkJ2qxb-qvD89y6OjIasrSik-QsJ4uX5dLIUe8aQytUfBTvcdCq-Aj2IX2Dio5kJGzk",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJEdcPVyrYhVQRf3JXne6fY10",
+         "plus_code" : {
+            "compound_code" : "55R2+F6 Surrey, BC, Canada",
+            "global_code" : "84XV55R2+F6"
+         },
+         "rating" : 4,
+         "reference" : "ChIJEdcPVyrYhVQRf3JXne6fY10",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 44,
+         "vicinity" : "CITY HALL, 13450 104 Avenue, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.1904779,
+               "lng" : -122.8462731
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.19200063029149,
+                  "lng" : -122.8450917197085
+               },
+               "southwest" : {
+                  "lat" : 49.18930266970849,
+                  "lng" : -122.8477896802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105025411221306706313\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBZUrSxgcYs_mawYjPeFG9yKL7mo6iCOZLnHtDodG823BQnlfjhe3SIX3erehJ1UTH_CQe_3FVZcp9SK706VRDMeGsAOQnW_HWGGwqaTDjLJ2ATPqqskA0qiHz7o6CwhbBDAIUNoh3JCB0Nsht9MMfnmUJjn5YOTNAKp86c8pNLQYEe",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJJ_GQuyrYhVQR1EO7FbXxJcM",
+         "plus_code" : {
+            "compound_code" : "55R3+5F Surrey, BC, Canada",
+            "global_code" : "84XV55R3+5F"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJJ_GQuyrYhVQR1EO7FbXxJcM",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 207,
+         "vicinity" : "Safeway Grocery Store, 10355 King George Boulevard, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.1891757,
+               "lng" : -122.8464011
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.19053523029149,
+                  "lng" : -122.8449055197085
+               },
+               "southwest" : {
+                  "lat" : 49.1878372697085,
+                  "lng" : -122.8476034802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Chatime Surrey",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102815866892135620055\"\u003eACSW Chang\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC3AA9BGM_phTatzJh0HLjTwVd3vPI5XVyiU7ZP6ElgIC3l1oXK372cQUSBI46y36BQULa8UVFqAOZOCJVRRBd_ZMMOjUkQQLQ1WC1Vflk3ztbjhrWqLRZPWQZanPq-ZbCfnsNz2sGKieJ_BI7xwl-iO0RURJj9sFMWKLLyPoC4lyxv",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJaXnkOdXZhVQRNU7NYJy8W-Q",
+         "plus_code" : {
+            "compound_code" : "55Q3+MC Surrey, BC, Canada",
+            "global_code" : "84XV55Q3+MC"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJaXnkOdXZhVQRNU7NYJy8W-Q",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 391,
+         "vicinity" : "10255 King George Boulevard, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.1881221,
+               "lng" : -122.8465421
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1894312302915,
+                  "lng" : -122.8450598697085
+               },
+               "southwest" : {
+                  "lat" : 49.1867332697085,
+                  "lng" : -122.8477578302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Bubble 88",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116880923793626067622\"\u003eMatthew Siu\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA_kYfC6hxJYxZnCXGWp3wDLWjn4lbZklbdwdD2FXe4yyGkJVmih-vlqNupGLX352a3BnC8wfTa4FPIYppT5tCtB6KCnmyIkiRQBYhb7YoEhydkMmeN2GtKJkHxx-uuvkZBEGZQ2cBqtSmdmsbMwikRuSV9hSx6uPlSLUi5ELJvPkr2",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJVxj84NTZhVQRy17UVasQNo8",
+         "plus_code" : {
+            "compound_code" : "55Q3+69 Surrey, BC, Canada",
+            "global_code" : "84XV55Q3+69"
+         },
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "ChIJVxj84NTZhVQRy17UVasQNo8",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 744,
+         "vicinity" : "10209 King George Boulevard #102, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.1862895,
+               "lng" : -122.8479811
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1875919302915,
+                  "lng" : -122.8462070197085
+               },
+               "southwest" : {
+                  "lat" : 49.1848939697085,
+                  "lng" : -122.8489049802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Blenz Coffee",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1507,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107787601355649760122\"\u003eRaman Preet\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA7pdTO9Egtjogew_cdLJkJHZSpxRbovw8ywTHDkJJMdD41q7aIbhWNGkfO-H314yPrP_RreMvhbj_irsR-1mN2j-nhtmFQu_0L-TCZ38n8TBNptc93eqZjszoLKaRRnZATiy4oHgAtn4QSCSykaPZVQoyxdsR6YCPCzgZ-sqzLw6kK",
+               "width" : 1125
+            }
+         ],
+         "place_id" : "ChIJAQAbn9TZhVQR25Q7OQwCLx8",
+         "plus_code" : {
+            "compound_code" : "55P2+GR Surrey, BC, Canada",
+            "global_code" : "84XV55P2+GR"
+         },
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "ChIJAQAbn9TZhVQR25Q7OQwCLx8",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 121,
+         "vicinity" : "Blenz at Central City, 1064-10153 King George Boulevard, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.1909692,
+               "lng" : -122.8446431
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.19226913029149,
+                  "lng" : -122.8432911197085
+               },
+               "southwest" : {
+                  "lat" : 49.18957116970849,
+                  "lng" : -122.8459890802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107983804674428713290\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBJD0um7m65xn2KU6Hhw10eR7N_I-5E1bt36j_W37qrz9KiiY0fl09aL-AXe74tthwzhqWm9-IvwLyp3O7DEV3TJqvy7X4R7ta0sIGEuaYXxAz6XVJieBpjuw-_n_PT6Nij_yd7lnnzqPsafidxEyjZDLYi0UnuvLyn-SykU_jgUvCr",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ0UuMCIDXhVQRVVf3K8pMMHk",
+         "plus_code" : {
+            "compound_code" : "55R4+94 Surrey, BC, Canada",
+            "global_code" : "84XV55R4+94"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJ0UuMCIDXhVQRVVf3K8pMMHk",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 546,
+         "vicinity" : "10362 King George Boulevard, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.1985686,
+               "lng" : -122.8511592
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1999256302915,
+                  "lng" : -122.8497131697085
+               },
+               "southwest" : {
+                  "lat" : 49.1972276697085,
+                  "lng" : -122.8524111302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Waves Coffee House - City Point",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3718,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104192925728847810566\"\u003eMichelle Lin\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA6VA6TfXWh37CQJI32OgqNC1SK8bfF7Y0y3SgLfUkeOnCcv6-nS24OYwLeWYsFb_hUo1Bg2soUDrr1jx8vP233GZO5E3a_XLPGwAKQlL8pzrqDVGAnW8LSr_H548jEDdH2vMgJCRclT3B4KtXVAbEaw2I6KAS0ph2LAQVtl5BZZv8g",
+               "width" : 2889
+            }
+         ],
+         "place_id" : "ChIJGX6CxYfXhVQRPVHzM9WSlwE",
+         "plus_code" : {
+            "compound_code" : "54XX+CG Surrey, BC, Canada",
+            "global_code" : "84XV54XX+CG"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJGX6CxYfXhVQRPVHzM9WSlwE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 193,
+         "vicinity" : "10777 University Drive #105, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.1830681,
+               "lng" : -122.8447027
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.18445903029149,
+                  "lng" : -122.8435640197085
+               },
+               "southwest" : {
+                  "lat" : 49.18176106970849,
+                  "lng" : -122.8462619802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112636123036859972271\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECejPY4rgEAaJrK218XbqtioHAgIRxfli_FhfKDcAUJpf8Ypnbnc9vZr7qJtifzrhXFyC9fUqxehmZ-XjXK0oVYwcNe9-NlvIYgeiQ_H96HdJ1UZCVHRfp8KGQT2MeR6jk_RoJy23d9PBNQ_SRqUDm1xgnqKct7T6OMjZk_x0R_Qk5B",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ3RRLs9bZhVQRtXXnyumKUIE",
+         "plus_code" : {
+            "compound_code" : "55M4+64 Surrey, BC, Canada",
+            "global_code" : "84XV55M4+64"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJ3RRLs9bZhVQRtXXnyumKUIE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 317,
+         "vicinity" : "203-9908 King George Boulevard, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.1774066,
+               "lng" : -122.8423946
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.17876008029149,
+                  "lng" : -122.8408979697085
+               },
+               "southwest" : {
+                  "lat" : 49.17606211970849,
+                  "lng" : -122.8435959302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117147922272298799451\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBWggGRv7nvXVL-czIx2VSEWCzCRtDQC2xHoPGhVYtNtV8td7xnLlocHt4b4gH8_JdWufGkFiV5Vdu9U9MbFQWHhdkk63eCxN-3sS-HxPIu21gCAikrshqHs85rY3Q4r2kuHNyrc90Jiy47zjTWJvYOJ8xKzsRmRLZLqaaTSkZKIr79",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJVzGFWNrZhVQRlP9hXUDxZm0",
+         "plus_code" : {
+            "compound_code" : "55G5+X2 Surrey, BC, Canada",
+            "global_code" : "84XV55G5+X2"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJVzGFWNrZhVQRlP9hXUDxZm0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 117,
+         "vicinity" : "13737 96 Ave 108, City Centre, 1, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.1864913,
+               "lng" : -122.8489746
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1877095302915,
+                  "lng" : -122.846182
+               },
+               "southwest" : {
+                  "lat" : 49.1850115697085,
+                  "lng" : -122.8499776
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113704012097118879010\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECdprVm2sF_7M-DbUxyHDpG6tNpoz3UIoDVVXYMTxxwN5DR1KRYfNzt0xLUwhj8LTy5nsTW-CxGp1DttN3_NbmoiLupooOqAr_4z1wQYwDj0lsQG8X7hCam1vI8bK2Ob4Qm4mmxvMklrMcF_Zcpbza_QKh9miY3MgtXK6y-2g46x61a",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJo6aWiNPZhVQRx76GFyhoBho",
+         "plus_code" : {
+            "compound_code" : "55P2+HC Surrey, BC, Canada",
+            "global_code" : "84XV55P2+HC"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJo6aWiNPZhVQRx76GFyhoBho",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 445,
+         "vicinity" : "2799 Central City SC, 10153 King George Boulevard, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.1880477,
+               "lng" : -122.8493816
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1892842802915,
+                  "lng" : -122.8479923197085
+               },
+               "southwest" : {
+                  "lat" : 49.1865863197085,
+                  "lng" : -122.8506902802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Blenz Coffee",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107158554556306171864\"\u003eHolly Gaden Williams\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBXHikVALvB1I3uVIZBBroAcBu3UXlQ1fNC3kajgXaJNAkOF31A4eRObwFdeJLyRYzSYLo3MkG0OxEsluYexGNOsyaN5PZLzY42TzcBShAV7dsNuoiG9ibDVXQ8IwY_IaDUa66qyjRTGtCUv0on5dO7oHoLv2jR3V12YqO_gi-3hAvG",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJVWLXWNPZhVQRFfOLLjUIb7g",
+         "plus_code" : {
+            "compound_code" : "55Q2+66 Surrey, BC, Canada",
+            "global_code" : "84XV55Q2+66"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJVWLXWNPZhVQRFfOLLjUIb7g",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 259,
+         "vicinity" : "Blenz at Central City, 13450 102 Avenue Unit 110, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.19936269999999,
+               "lng" : -122.8501394
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.20049093029149,
+                  "lng" : -122.8488214697085
+               },
+               "southwest" : {
+                  "lat" : 49.19779296970849,
+                  "lng" : -122.8515194302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Gateway Java",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110153142328367644751\"\u003eSelina\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECm7Nj88jxCr37WMyr0eba0ciWW62Jmv5PJAfHYDrC4sE07ucgUTMNwTjztODNkdC0yhiOILODuaFufsYyyXmEUJ3NUSVzGpBQT53SkE5TbaxNBYUeDqvw_pHl2BadKODgwI9YbQ7nqygmaY9syHAldzKFJ8uahfdm0GCYBVJFCvz7X",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJnwKOLobXhVQRJ5UK8ZDSRks",
+         "plus_code" : {
+            "compound_code" : "54XX+PW Surrey, BC, Canada",
+            "global_code" : "84XV54XX+PW"
+         },
+         "rating" : 5,
+         "reference" : "ChIJnwKOLobXhVQRJ5UK8ZDSRks",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20,
+         "vicinity" : "13401 108 Avenue, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.1887165,
+               "lng" : -122.8447735
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.18999043029149,
+                  "lng" : -122.8434719197085
+               },
+               "southwest" : {
+                  "lat" : 49.1872924697085,
+                  "lng" : -122.8461698802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110748937086350243586\"\u003eJosho Kamoo\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB8r9ZAG6u8CQuU9x47H2o8OZNhJll_vdNfv664lisZbwnDTIPhJb7N70kt4HwTUEctRERbIGKA7ojJ6INxQxdjdq2laMTvF8f8Xx7lRhd6QCqtDA6JGAC5BFmY1peXqwmYiHabPFGvUCQky6JC3Ncpg3xO_To4_n9c5zat6uaKhbsl",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ7ZDqqCrYhVQR1j2qTDfY844",
+         "plus_code" : {
+            "compound_code" : "55Q4+F3 Surrey, BC, Canada",
+            "global_code" : "84XV55Q4+F3"
+         },
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "ChIJ7ZDqqCrYhVQR1j2qTDfY844",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2053,
+         "vicinity" : "10240 King George Boulevard, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.1914968,
+               "lng" : -122.8509836
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1929005302915,
+                  "lng" : -122.8497286697085
+               },
+               "southwest" : {
+                  "lat" : 49.1902025697085,
+                  "lng" : -122.8524266302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Sharetea Surrey Central",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105320863480295652166\"\u003eM. Ali G.\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEADMsn0M3CLFMXt2KekeOPgnDcNVtbTSjMeM27voldq-jOLb37-6xf9dAeATftVRXZEjovTn-sSus1qQqlZNtw2LNe7hc3Gt_oMIWfUUPoluDS0WwgVyjF3Bcl54ug2DkKw6lAmRTkW4eizZEn1aNkSu_7WuIcJPdEcwaYur383gjW5",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ4VfRoXHZhVQROhLHiqC8lBA",
+         "plus_code" : {
+            "compound_code" : "54RX+HJ Surrey, BC, Canada",
+            "global_code" : "84XV54RX+HJ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ4VfRoXHZhVQROhLHiqC8lBA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29,
+         "vicinity" : "13402 104 Avenue # 101, Surrey"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.1903366,
+               "lng" : -122.8495733
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1917301302915,
+                  "lng" : -122.8483128697085
+               },
+               "southwest" : {
+                  "lat" : 49.1890321697085,
+                  "lng" : -122.8510108302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Cafe Central",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113629150612621455109\"\u003eFaith\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDIdOLC6n2bYwuVPKkClp6x_UcGsLnPVbk8JSAa0WlDpn0IQKS56jxVgUJ8nZS4mDVrY81caLoiiy6mby6eUGLmf3seZGGQZhyAS_NseqHt7HGJH7-D1mQjg09XvBAln_BA10pduiV3MmdaAK-RvsJMXCbyN8OuAAkYYEgMbFwuzuJ-",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ8zrOHSvYhVQRgDa7KKLL1Dg",
+         "plus_code" : {
+            "compound_code" : "55R2+45 Surrey, BC, Canada",
+            "global_code" : "84XV55R2+45"
+         },
+         "price_level" : 1,
+         "rating" : 3.1,
+         "reference" : "ChIJ8zrOHSvYhVQRgDa7KKLL1Dg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 23,
+         "vicinity" : "10350 University Drive, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.19134649999999,
+               "lng" : -122.8490125
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1928219802915,
+                  "lng" : -122.8476629697085
+               },
+               "southwest" : {
+                  "lat" : 49.1901240197085,
+                  "lng" : -122.8503609302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Shurake Elyemah.St.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113711456286708391483\"\u003eLahurmaah Bynet\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC7r-1oDz1Gv5pb1b-VJwGipUozdvEKLRcH1YTTD9NgV7bgjeq-jWvmwu8qsqb0gMezv635sJwONOTTUb8Z-CF87YVzYocUztYftCLL_D6XqOqdWhKnkKG9WdRixntk5R6yXP5AwGWJx82c6Gawy8luODzb7o8WMnYsT_IyrQXZ2rId",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ08pjdmHZhVQRC-tqZJr58Nk",
+         "plus_code" : {
+            "compound_code" : "55R2+G9 Surrey, BC, Canada",
+            "global_code" : "84XV55R2+G9"
+         },
+         "reference" : "ChIJ08pjdmHZhVQRC-tqZJr58Nk",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Sunderisland, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.1907128,
+               "lng" : -122.8483003
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.19213113029149,
+                  "lng" : -122.8470498697085
+               },
+               "southwest" : {
+                  "lat" : 49.1894331697085,
+                  "lng" : -122.8497478302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Prado Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110187675718361646168\"\u003eAW\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDjIhcRFoWhdzSGHWnaeLfMZOuay1hERnglhmDqX6sQHX-R_DMjHCNXnIk4izSvb-WrqFt-KJw1-ZZITqJOGki_cp5aUhBWVqHqNGQ7gcF0qOaqF6wA38-NKbPsXfFujhVw_op-CBK6oSGw4XBjc8s0eF8xk8UCGNIpRn86YX4vLwzJ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJOZNX5irYhVQRjAerHufTjW0",
+         "plus_code" : {
+            "compound_code" : "55R2+7M Surrey, BC, Canada",
+            "global_code" : "84XV55R2+7M"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJOZNX5irYhVQRjAerHufTjW0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 175,
+         "vicinity" : "13475 103 Avenue, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.1905246,
+               "lng" : -122.8480989
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.19193753029151,
+                  "lng" : -122.8465351197085
+               },
+               "southwest" : {
+                  "lat" : 49.18923956970851,
+                  "lng" : -122.8492330802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Bubba Tea",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111999770291646240897\"\u003eSam Symon\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAhOwAonkLf2EtAlXJrK8Syxtg_mzKehQL_mKfbqoZ4SMxvYWFaNt0WpgVWAnKrQxJWDido5q3KtoK0S9Zwejpge3lUgUeEsUnBD7qtv7D5yYvvEnvDkE16EdSLTW592QpguHpK01Yk__2FUYrmaf46_pqZ34EpFkRC45u9hCVtjgBc",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJsWf2WmLZhVQRhgo6WV1R1FQ",
+         "plus_code" : {
+            "compound_code" : "55R2+6Q Surrey, BC, Canada",
+            "global_code" : "84XV55R2+6Q"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJsWf2WmLZhVQRhgo6WV1R1FQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 368,
+         "vicinity" : "10305 City Parkway #103, Surrey"
+      }
+   ],
+   "status" : "OK"
+}

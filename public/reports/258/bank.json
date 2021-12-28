@@ -1,0 +1,519 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.1880165,
+               "lng" : -122.8468121
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.18939513029149,
+                  "lng" : -122.8455916197085
+               },
+               "southwest" : {
+                  "lat" : 49.18669716970849,
+                  "lng" : -122.8482895802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Scotiabank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112921290773977726592\"\u003eSAM DEOL\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC9Ng5YizERLnfpaH-ccwddNF9UehSzhNw_0RVd060j3tk7mSMHvdjCwOD2KPST8_xKMBtlAlpJSCJJ0D-t-hD26Jck5qEpjNLhNAyNtLWKY9jkGZNIuOVqV7nR4AxOzi1xtxMAIO-qEyQPukqmrKrA1gqN5JcXsG9BZuqxRP_zmO8c",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJ2-QkHdXZhVQRa4_tFPjKOOI",
+         "plus_code" : {
+            "compound_code" : "55Q3+67 Surrey, BC, Canada",
+            "global_code" : "84XV55Q3+67"
+         },
+         "rating" : 2.5,
+         "reference" : "ChIJ2-QkHdXZhVQRa4_tFPjKOOI",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 105,
+         "vicinity" : "13551 102 Avenue, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.18704409999999,
+               "lng" : -122.8460822
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1883997302915,
+                  "lng" : -122.8444936697085
+               },
+               "southwest" : {
+                  "lat" : 49.1857017697085,
+                  "lng" : -122.8471916302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "BMO Bank of Montreal",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106542284390204541028\"\u003eNehal Roy\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDbBJbxTGmFYZ7IUI6pgW89mQGfSqCCrHiL5KMv_yJButHTWOWyuDjlC0v-HLUvaPGy5yaYjk9Dwj0YAoeWebVzLGNfP_Z5LGFM4mY2MJdlfQiUoSLDbH0-f9JrCjVefE4b4DJ-J574s6TI6Q_WKSvO-f_lUlnL7KivIKbFvFVs0F4r",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJK5Wt_dTZhVQReNRw2j2zmhM",
+         "plus_code" : {
+            "compound_code" : "55P3+RH Surrey, BC, Canada",
+            "global_code" : "84XV55P3+RH"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJK5Wt_dTZhVQReNRw2j2zmhM",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 181,
+         "vicinity" : "10155 King George Boulevard, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.1913082,
+               "lng" : -122.8472194
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1925410302915,
+                  "lng" : -122.8459153697085
+               },
+               "southwest" : {
+                  "lat" : 49.18984306970851,
+                  "lng" : -122.8486133302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "HSBC Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118129443197841041879\"\u003e18 X 9\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAynveg5M4UJBaFayzK7sRGqeKLn5cwGrA3DDHMCEtql8tv1e0M_-E4ohKhhRk36OnuUIqUops99zEyNFvU4Z-uevqfBk4Um75Y0UyC-4FcDtk653WRoaIceKGtei0_t7WMG9E-oM1w6dwnzBuPip0JZ3xRGYZlj1SezDk4S5USHDrQ",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJewedjirYhVQRNhXom83SuUQ",
+         "plus_code" : {
+            "compound_code" : "55R3+G4 Surrey, BC, Canada",
+            "global_code" : "84XV55R3+G4"
+         },
+         "rating" : 2.6,
+         "reference" : "ChIJewedjirYhVQRNhXom83SuUQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bank",
+            "finance",
+            "insurance_agency",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 25,
+         "vicinity" : "10388 City Parkway #406, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.188053,
+               "lng" : -122.845955
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1894210302915,
+                  "lng" : -122.8444222197085
+               },
+               "southwest" : {
+                  "lat" : 49.1867230697085,
+                  "lng" : -122.8471201802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "RBC Royal Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104909708915791999202\"\u003eZhou Toby\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAHGUxfeRQm2u202timqKMXzwVzdv8zdG1Y21nYVb0jiNC09XQ9JhatPPG7f5OJEg2l6aiW6mxNMoDMVzCjEqK4ETOa6usJ8CNzakcQRlMD-aFrdqf4zX3r2Qk0sWPvGNeV7ExuN4ANzGUuHiAC4wUtgEBS87-mM4AI1Myzd7LvbEaG",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJF3JOHNXZhVQRTY4fzvFKMQI",
+         "plus_code" : {
+            "compound_code" : "55Q3+6J Surrey, BC, Canada",
+            "global_code" : "84XV55Q3+6J"
+         },
+         "rating" : 2.3,
+         "reference" : "ChIJF3JOHNXZhVQRTY4fzvFKMQI",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 93,
+         "vicinity" : "10201 King George Boulevard, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.1922831,
+               "lng" : -122.8459372
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1935974302915,
+                  "lng" : -122.8443435197085
+               },
+               "southwest" : {
+                  "lat" : 49.1908994697085,
+                  "lng" : -122.8470414802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "TD Canada Trust Branch and ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4061,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117597993939687220907\"\u003eAngie L\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDQUR3acnId-AYZ2kWiTXlzhZ0IVERVSQ_WWWJP7OQDHP7y9jB-MOQh02HHuPy_lVB_oJmg-sPRBRW6pZr6JwIXOJ1sKrX6N_1cDVKYrL2b9sCSYTo9PjLA38VYlLf3ZEn31zwmYWrh8-k1AK3ZAc6jXGN4hCB455q7XVimfhq5dI1-",
+               "width" : 3374
+            }
+         ],
+         "place_id" : "ChIJM38je4DXhVQR23njtN_peqQ",
+         "plus_code" : {
+            "compound_code" : "55R3+WJ Surrey, BC, Canada",
+            "global_code" : "84XV55R3+WJ"
+         },
+         "rating" : 2.8,
+         "reference" : "ChIJM38je4DXhVQR23njtN_peqQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 107,
+         "vicinity" : "10435 King George Boulevard, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.17683770000001,
+               "lng" : -122.8652235
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.17827088029149,
+                  "lng" : -122.8640873197085
+               },
+               "southwest" : {
+                  "lat" : 49.17557291970849,
+                  "lng" : -122.8667852802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "TD Canada Trust Branch and ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103253608374257862725\"\u003eTD Canada Trust Branch and ATM\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA1283RiY-lAtgyR1rS1CPB3FqaaE22s67LUJ1tYI05O8WR40axJdyaXTsVkscWI1Ly82w4inQCPPQ1jGCkORElXE-oU-V9ygA_KCUxtzoWTlLK7qhQT1MCS8jrmXNJZVDqTAmMLyovVOCFpaV_FNp6VV4waBCG2S-KvJPWRHVeMCle",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJURA12cnZhVQRB2ragwJQ3Gw",
+         "plus_code" : {
+            "compound_code" : "54GM+PW Surrey, BC, Canada",
+            "global_code" : "84XV54GM+PW"
+         },
+         "rating" : 2.4,
+         "reference" : "ChIJURA12cnZhVQRB2ragwJQ3Gw",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 74,
+         "vicinity" : "12852 96 Avenue Unit 100, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.18727620000001,
+               "lng" : -122.8445614
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1886645302915,
+                  "lng" : -122.8433673197085
+               },
+               "southwest" : {
+                  "lat" : 49.1859665697085,
+                  "lng" : -122.8460652802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "CIBC Branch with ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1360,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114288042566495812069\"\u003eKevin T\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB7dUFDNJekfC_vfSsNx9-bUEI-io-k7LT6PNaWgHouoQQ7KYrTI5gsPYSF_ZBnn1a-V2WCStoM1Jz-UD9DgL648Yi5YAa0M0If0PfUjVjrAhFXyqZv8xpfFw1ljMJoRaPzHXhgYxqxZMUOTCaNK5I748_2vlQVVdf3VBzuGEYYuIfM",
+               "width" : 2124
+            }
+         ],
+         "place_id" : "ChIJM85KnTLahVQRaX85Z4bM69Y",
+         "plus_code" : {
+            "compound_code" : "55P4+W5 Surrey, BC, Canada",
+            "global_code" : "84XV55P4+W5"
+         },
+         "rating" : 2.4,
+         "reference" : "ChIJM85KnTLahVQRaX85Z4bM69Y",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 72,
+         "vicinity" : "10166 King George Boulevard, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.1918348,
+               "lng" : -122.8413686
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1932735302915,
+                  "lng" : -122.8400175197085
+               },
+               "southwest" : {
+                  "lat" : 49.1905755697085,
+                  "lng" : -122.8427154802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Prospera Credit Union",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 756,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103279164508254656034\"\u003eProspera Credit Union\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDndi6_DLAwZ2rlZi2b9A8pGOFsQLFaiffGBQ1dTXT2QADDdCjV3aXOnYNvug0BcJ7kMZtkpalpQmuzvd4mx6cL0hAvFSFqnruqjKH1wswNZ5XPozHzlB_JhPchAuRI-ONEduSMEEfAOpbqjKilIWZpzjer64mdjpCg6qgx6RZLtpNn",
+               "width" : 1008
+            }
+         ],
+         "place_id" : "ChIJvaryLoDXhVQRjb74BvheXrQ",
+         "plus_code" : {
+            "compound_code" : "55R5+PF Surrey, BC, Canada",
+            "global_code" : "84XV55R5+PF"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJvaryLoDXhVQRjb74BvheXrQ",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "13747 104 Avenue, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.18811949999999,
+               "lng" : -122.847192
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.18946628029151,
+                  "lng" : -122.8458551697085
+               },
+               "southwest" : {
+                  "lat" : 49.18676831970851,
+                  "lng" : -122.8485531302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "PNB Remittance Co (Canada)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJBWRD6NTZhVQREZwC8R6uVE0",
+         "plus_code" : {
+            "compound_code" : "55Q3+64 Surrey, BC, Canada",
+            "global_code" : "84XV55Q3+64"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJBWRD6NTZhVQREZwC8R6uVE0",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "13521 102 Ave, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.1999014,
+               "lng" : -122.8491321
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2011004302915,
+                  "lng" : -122.8476467697085
+               },
+               "southwest" : {
+                  "lat" : 49.1984024697085,
+                  "lng" : -122.8503447302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "TD Bank – Help & Advice Centre",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4208,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118121550997471962394\"\u003eJ AC\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECHrargd5QIRL5H_FOp1L9nN1xbeNzQi5-NJaTFMnIyUFYPMNDRnVmolpOV3i4mkRE2hYG9F35wEklBXBpYtFMF45hPcODE5b5M7CzngOUsdDYPsaP8USl18BXj6doBSGR96j-6oK1OUdAesJJzpyxr30jwdHp_DeFKVp0udz93flvY",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJjypWH4bXhVQRF5Zt8ZprGcU",
+         "plus_code" : {
+            "compound_code" : "55X2+X8 Surrey, BC, Canada",
+            "global_code" : "84XV55X2+X8"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJjypWH4bXhVQRF5Zt8ZprGcU",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 21,
+         "vicinity" : "10835 City Parkway Unit 103, Surrey"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.1764793,
+               "lng" : -122.8653456
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1779183302915,
+                  "lng" : -122.8641959197085
+               },
+               "southwest" : {
+                  "lat" : 49.17522036970851,
+                  "lng" : -122.8668938802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Best Currency Exchange",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111524048695182631567\"\u003eDennis Kuwahara\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA-Z2V6vsV3YTiv-DlTDdA12yNswBIzAiAZz4z59eEotxrqA9ALKcixU88XPaJRvs6VgMDFfgqttdr_I9oztCc7BFPLGF2T_3SZLO6HqdVofy9D3rbTEVriF6C9Dh8ym2JVGgH9AmG3MWZ_yzQX5iegmWWldC5-hs02OipPQldSSqdy",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ9ykD3snZhVQRVijpgIIXaSs",
+         "plus_code" : {
+            "compound_code" : "54GM+HV Surrey, BC, Canada",
+            "global_code" : "84XV54GM+HV"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ9ykD3snZhVQRVijpgIIXaSs",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 32,
+         "vicinity" : "105-12852 96 Avenue, Surrey"
+      }
+   ],
+   "status" : "OK"
+}
