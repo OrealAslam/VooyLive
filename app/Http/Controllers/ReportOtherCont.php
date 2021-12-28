@@ -321,29 +321,16 @@ class ReportOtherCont extends ReportApiCont
     }
     public function getLibraryData($reportId, $template = 'classic')
     {
-        return ['response' => array()];
         $report = Report::findOrfail($reportId);
-        $response = $this->getApiCache($reportId, 'library');
 
-        if ($response == NULL) {
-            $url = 'https://data.edmonton.ca/resource/rih6-94bn.json?$limit=1&$where=within_circle(location, [lat], [long], [radius])';
-            $url = str_replace('[lat]', $report->lat, $url);
-            $url = str_replace('[long]', $report->long, $url);
-            $url = str_replace('[radius]', config('app.radius'), $url);
-            $url .= '&$order=distance_in_meters(location, \'POINT (' . $report->long . ' ' . $report->lat . ')\')&$select=*, distance_in_meters(location, \'POINT (' . $report->long . ' ' . $report->lat . ')\') AS range';
+        $data = new UniversalRecreation();
 
-            $response = $this->getApiData($reportId, $url, 'library');
-        }
-
-        if (count(json_decode($response)) > 0) {
-            foreach (json_decode($response) as $value) {
-                $value->distance = $this->distance($report->lat, $report->long, $value->latitude, $value->longitude, 'K');
-                $data[] = $value;
-            }
-            return ['response' => $data[0]];
-        } else {
-            return ['response' => array()];
-        }
+        $response = $data->getNearestLibrary($report->long, $report->lat, 1);
+        // dd($response);
+        if(isset($response[0]))
+        return ['response' => $response[0]];
+        else
+        return ['response' => null];
     }
     public function getTransitData($reportId, $template = 'classic')
     {
