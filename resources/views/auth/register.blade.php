@@ -28,7 +28,7 @@
     <div class="row">
         <div>
             <hr>
-            <p class="text-center" style="font-size: 16px;">We are making our way to more cities. Check our coverage <a href="{{ URL::route('page.coverage') }}">here</a></p>
+            <p class="text-center" style="font-size: 16px;">Automated Community Feature Sheets® are only available for Canada currently. However, we are making out way to more countries. Check out our current projects <a href="{{ URL::route('page.coverage') }}">here</a></p>
             <hr>
             <!-- <h4><span>Basic Information</span></h4> -->
         </div>
