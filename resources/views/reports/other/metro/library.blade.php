@@ -39,6 +39,7 @@
                     <div class="library-address">
                         <div>
                         {{ (!empty($response) && !empty($response->name)) ? $response->name : 'N/A' }}<br>
+                        {{ (!empty($response) && !empty($response->address)) ? $response->address : 'N/A' }}<br>
                         </div>
                         <div class="distance-container">
                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 470.642 470.642" style="enable-background:new 0 0 470.642 470.642;" xml:space="preserve" class="filla walk-man">

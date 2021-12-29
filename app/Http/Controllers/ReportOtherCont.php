@@ -14,7 +14,7 @@ use PDF;
 use Auth;
 use Session;
 use App\UniversalRecreation;
-
+use App\UniversalLibrary;
 
 class ReportOtherCont extends ReportApiCont
 {
@@ -323,9 +323,12 @@ class ReportOtherCont extends ReportApiCont
     {
         $report = Report::findOrfail($reportId);
 
-        $data = new UniversalRecreation();
+        $data = new UniversalLibrary();
 
-        $response = $data->getNearestLibrary($report->long, $report->lat, 1);
+        $response = $data->getNearestLibrary($report->long, $report->lat, 1, $report->City->name);
+        if(empty($response)){
+            $response = $data->getNearestLibrary($report->long, $report->lat, 1);
+        }
         // dd($response);
         if(isset($response[0]))
         return ['response' => $response[0]];
