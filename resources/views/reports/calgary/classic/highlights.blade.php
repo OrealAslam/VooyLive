@@ -593,7 +593,7 @@
 							<div class="col-md-8 col-xs-12 col-pdf-8">
 								<div class="row">
 									<div class="col-xs-10 pull-left">
-										<h5 class="colora text-center">To order a {{ config('app.title') }}, visit <a href="{{url('/')}}" class="colora"><strong>www.vooymarketinginc.com</strong></a></h5>
+										<h5 class="colora text-center">To order a {{ config('app.title') }}, visit <a href="{{url('/')}}" class="colora"><strong>www.dharoo.com</strong></a></h5>
 									</div>
 									<div class="col-xs-2 pull-left">
 										<div class="">
@@ -604,8 +604,8 @@
 								<div class="row">
 									<div class="col-xs-12 pull-left" id="disclaimer">
 										<p>Disclaimer<br>
-											&copy; {{ date('Y') }} by VOOY MARKETING INC. All rights reserved. 
-											By accessing this information you have agreed to our terms of service, which are hereby incorporated by reference. The information may contain errors and omissions. This Community Feature Sheet® Lite has been generated based on the address supplied and solely for general information purposes only. The publisher and agent(s) are not liable for errors or omissions. No warranties or representations are made of any kind.
+											&copy; {{ date('Y') }} by VOOY GROUP CANADA INC. All rights reserved. 
+											By accessing this information you have agreed to our terms of service, which are hereby incorporated by reference. The information may contain errors and omissions. This Community Feature Sheet® has been generated based on the address supplied and solely for general information purposes only. The publisher and agent(s) are not liable for errors or omissions. No warranties or representations are made of any kind.
 										</p>
 									</div>
 								</div>

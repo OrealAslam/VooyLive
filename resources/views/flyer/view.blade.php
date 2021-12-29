@@ -314,8 +314,8 @@ div.sharethiscontainer {
                             </div>
                             <div class="row">
                                 <div class="footer">
-                                    &copy {{ date('Y') }} by VOOY MARKETING INC. All rights reserved.<br>
-                                    No part of this document may be reproduced or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without prior written permission of VOOY MARKETING INC. This feature sheet has been prepared solely for general information purposes only. The publisher and agent(s) are not liable for errors or  omissions. No warranties or representations are made of any kind.
+                                    &copy {{ date('Y') }} by VOOY GROUP CANADA INC. All rights reserved.<br>
+                                    No part of this document may be reproduced or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without prior written permission of VOOY GROUP CANADA INC. This feature sheet has been prepared solely for general information purposes only. The publisher and agent(s) are not liable for errors or  omissions. No warranties or representations are made of any kind.
                                 </div>
                             </div>
                         </div>
@@ -348,7 +348,7 @@ div.sharethiscontainer {
                     <div class="row to-order-container">
                         <div class="to-order">
                             <p class="color3">TO ORDER A PROPERTY FEATURE SHEET, VISIT</p>
-                            <p class="color3">WWW.VOOYMARKETINGINC.COM</p>
+                            <p class="color3">WWW.DHAROO.COM</p>
                         </div>
                     </div>
                 </div>
