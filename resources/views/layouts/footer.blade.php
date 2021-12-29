@@ -60,7 +60,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-6 col-xs-12 xs-text-center">
-                <p class="copyright">Copyright &copy; {{ date('Y') }}, VOOY MARKETING INC, All Rights Reserved.</p>
+                <p class="copyright">Copyright &copy; {{ date('Y') }}, VOOY GROUP CANADA INC, All Rights Reserved.</p>
             </div>
             <div class="col-sm-6 col-xs-12 text-right xs-text-center">
                 <ul class="footer-menu">
