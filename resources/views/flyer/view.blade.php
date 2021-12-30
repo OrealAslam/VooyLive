@@ -348,7 +348,7 @@ div.sharethiscontainer {
                     <div class="row to-order-container">
                         <div class="to-order">
                             <p class="color3">TO ORDER A PROPERTY FEATURE SHEET, VISIT</p>
-                            <p class="color3">WWW.DHAROO.COM</p>
+                            <p class="color3">WWW.DHARRO.COM</p>
                         </div>
                     </div>
                 </div>

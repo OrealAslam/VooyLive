@@ -555,7 +555,7 @@
 							<div class="col-xs-12 col-md-8 col-pdf-8">
 								<div class="row">
 									<div class="col-xs-10 pull-left">
-										<h5 class="colora text-center">To order a {{ config('app.title') }}, visit <a href="{{url('/')}}" class="colora"><strong>www.dharoo.com</strong></a></h5>
+										<h5 class="colora text-center">To order a {{ config('app.title') }}, visit <a href="{{url('/')}}" class="colora"><strong>www.dharro.com</strong></a></h5>
 									</div>
 									<div class="col-xs-2 pull-left">
 										<div class="">

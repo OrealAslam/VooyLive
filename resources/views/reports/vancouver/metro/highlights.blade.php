@@ -519,7 +519,7 @@
                             <div class="col-lg-9 col-md-9 col-sm-10">
                                 <div class="colora order-visit text-center">
                                     To order a {{ config('app.title') }}, visit <br>
-                                    <a href="{{url('/')}}" class="colora"><strong>www.dharoo.com</strong></a>
+                                    <a href="{{url('/')}}" class="colora"><strong>www.dharro.com</strong></a>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-3 col-sm-2">

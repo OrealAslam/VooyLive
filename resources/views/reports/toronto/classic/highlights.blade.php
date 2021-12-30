@@ -588,7 +588,7 @@
 							<div class="col-md-8 col-xs-12 footer-right-part">
 								<div class="row">
 									<div class="col-md-10 col-xs-12 pull-left">
-										<h5 class="colora text-center">To order a {{ config('app.title') }}, visit <a href="{{url('/')}}" class="colora"><strong>www.dharoo.com</strong></a></h5>
+										<h5 class="colora text-center">To order a {{ config('app.title') }}, visit <a href="{{url('/')}}" class="colora"><strong>www.dharro.com</strong></a></h5>
 									</div>
 									<div class="col-md-2 col-xs-12 pull-left">
 										<div class="">
