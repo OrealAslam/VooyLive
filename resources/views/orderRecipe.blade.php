@@ -29,12 +29,16 @@
 	<div class="row order-recipe-main">
 		<div class="col-md-4 col-md-offset-2 text-center">
 			<div class="order-box">
-				{!! getSettingValue('order-report-box-1-text') !!}				
+				<p>We are happy to announce that automated reports are now available across Canada. Use the credits, pay as you, or sign up for a plan to run reports. If you are outside Canada or want to order a custom report, use the order a customer report link below.</p>
+				<p>If you have any questions, please refer to our <a href="{{ url('/faqs') }}"><strong>FAQs</strong></a> page</p>
+				<!-- {!! getSettingValue('order-report-box-1-text') !!}				 -->
 			</div>
 		</div>
 		<div class="col-md-4 text-center">
 			<div class="order-box">
-				{!! getSettingValue('order-report-box-2-text') !!}		
+				<p>Available for anywhere but Canada. Can be delivered in 3 business days.</p>
+				<p>Rush service available.</p>
+				<!-- {!! getSettingValue('order-report-box-2-text') !!}		 -->
 			</div>				
 		</div>
 	</div>
