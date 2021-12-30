@@ -5,7 +5,7 @@
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="cps-widget about-widget">
                         <a href="/" class="cps-footer-logo">
-                            <img alt="logo" src="{{url('img/VOOY.png')}}">
+                            <img alt="logo" src="{{url('img/dharro.png')}}">
                         </a>
                         <p>Provide depth and detail to your home marketing presentation by highlighting important neighbourhood information</p>
                         <div class="cps-socials">

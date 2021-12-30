@@ -106,7 +106,7 @@
 				</div>
 		        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 bhoechie-tab-container text-center" style="">
 					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
-		        		<img src="{{ url('img/VOOY.png')}}" alt="Community Feature Sheet&reg;">
+		        		<img src="{{ url('img/dharro.png')}}" alt="Community Feature Sheet&reg;">
 					</div>
 					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center pre-image">
 		        		<img src="{{ asset('upload/ecard/complete/'.$printImageName) }}" style="width:500px;height:600px;">

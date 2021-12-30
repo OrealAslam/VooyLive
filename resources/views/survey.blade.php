@@ -264,7 +264,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <img src="{{ url('img/VOOY.png')}}" class="logo-header-menu" alt="Community Feature Sheet&reg;">
+                    <img src="{{ url('img/dharro.png')}}" class="logo-header-menu" alt="Community Feature Sheet&reg;">
                     <h3 class="title-text">REALTORS® Market Sentiment Survey</h3>
                 </div>
             </div>
