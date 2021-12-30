@@ -27,14 +27,26 @@
 </div>
 <div class="container main-section">
 	<div class="row order-recipe-main">
-		<div class="col-md-4 col-md-offset-2 text-center">
-			<div class="order-box">
-				<p>We are happy to announce that automated reports are now available across Canada. Use the credits, pay as you, or sign up for a plan to run reports. If you are outside Canada or want to order a custom report, use the order a customer report link below.</p>
-				<p>If you have any questions, please refer to our <a href="{{ url('/faqs') }}"><strong>FAQs</strong></a> page</p>
+		<div class="col-md-12 text-center">
+			<div class="order-box" style="padding: 50px;">
+				<p style="font-family: 'Lato', sans-serif; font-size: 25px;">We are happy to announce that automated reports are now available across Canada. Use the credits, pay as you, or sign up for a plan to run reports. If you are outside Canada or want to order a custom report, use the order a customer report link below.</p>
+				<p style="font-family: 'Lato', sans-serif; font-size: 25px;">If you have any questions, please refer to our <a href="{{ url('/faqs') }}"><strong>FAQs</strong></a> page</p>
 				<!-- {!! getSettingValue('order-report-box-1-text') !!}				 -->
 			</div>
 		</div>
-		<div class="col-md-4 text-center">
+	</div>
+	<div class="row order-recipe-main">
+		<div class="col-md-12 text-center">
+			<a href="{{ route($name) }}">
+				<div class="order-recipe-box" style="background-color:#EA2448; transition:1s; color:#fff">
+					<i class="fa fa-file-text" aria-hidden="true"></i><br>
+					Run a Report
+				</div>
+			</a>
+		</div>
+	</div>
+	<div class="row order-recipe-main" style="padding-top: 100px;">
+		<div class="col-md-12 text-center">
 			<div class="order-box">
 				<p>Available for anywhere but Canada. Can be delivered in 3 business days.</p>
 				<p>Rush service available.</p>
@@ -42,16 +54,8 @@
 			</div>				
 		</div>
 	</div>
-	<div class="row order-recipe-main">
-		<div class="col-md-4 col-md-offset-2 text-center">
-			<a href="{{ route($name) }}">
-				<div class="order-recipe-box">
-					<i class="fa fa-file-text" aria-hidden="true"></i><br>
-					Run a Report
-				</div>
-			</a>
-		</div>
-		<div class="col-md-4 text-center">
+	<div class="row order-recipe-main">	
+		<div class="col-md-12 text-center">
 			<a href="{{ url('/order/'.$cat->slug) }}">
 				<div class="order-recipe-box">
 					<i class="fa fa-archive" aria-hidden="true"></i><br>
