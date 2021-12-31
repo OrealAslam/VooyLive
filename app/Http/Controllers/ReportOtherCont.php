@@ -171,28 +171,6 @@ class ReportOtherCont extends ReportApiCont
     {
         return ['response' => array()];
 
-        $report = Report::findOrfail($reportId);
-        $response = $this->getApiCache($reportId, 'catholic');
-
-        if ($response == NULL) {
-            $url = 'https://data.edmonton.ca/resource/sujy-pr3p.json?$limit=2&$where=within_circle(location, [lat], [long], [radius])&grade_level=Elementary';
-            $url = str_replace('[lat]', $report->lat, $url);
-            $url = str_replace('[long]', $report->long, $url);
-            $url = str_replace('[radius]', config('app.radius'), $url);
-            $url .= '&$order=distance_in_meters(location, \'POINT (' . $report->long . ' ' . $report->lat . ')\')&$select=*, distance_in_meters(location, \'POINT (' . $report->long . ' ' . $report->lat . ')\') AS range';
-
-            $response = $this->getApiData($reportId, $url, 'catholic');
-        }
-        $data = array();
-        if (count(json_decode($response)) > 0) {
-            foreach (json_decode($response) as $value) {
-                $value->distance = $this->distance($report->lat, $report->long, $value->latitude, $value->longtitude, 'K');
-                $data[] = $value;
-            }
-            return ['response' => $data];
-        } else {
-            return ['response' => array()];
-        }
     }
     public function getRecreationData($reportId, $template = 'classic')
     {
@@ -219,83 +197,17 @@ class ReportOtherCont extends ReportApiCont
     public function getElementerySchool($reportId, $template = 'classic')
     {
         return array();
-        $report = Report::findOrfail($reportId);
-        $response = $this->getApiCache($reportId, 'elementryschools');
-        //https://data.edmonton.ca/resource/sujy-pr3p.json?$limit=1&$where=within_circle(location, 53.4490787, -113.57383400000003, 5000) AND grade_level like '%25Elementary%25'&$order=distance_in_meters(location, 'POINT (-113.57383400000003 53.4490787)')&$select=*, distance_in_meters(location, 'POINT (-113.57383400000003 53.4490787)') AS range
-
-
-        if ($response == NULL) {
-            //$url='https://data.edmonton.ca/resource/sujy-pr3p.json?$limit=1&$where=within_circle(location, [lat], [long], [radius])&grade_level=Elementary';
-            $url = 'https://data.edmonton.ca/resource/sujy-pr3p.json?$limit=1&$where=within_circle(location, [lat], [long], [radius]) AND grade_level like \'%25Elementary%25\'';
-            $url = str_replace('[lat]', $report->lat, $url);
-            $url = str_replace('[long]', $report->long, $url);
-            $url = str_replace('[radius]', config('app.radius'), $url);
-            $url .= '&$order=distance_in_meters(location, \'POINT (' . $report->long . ' ' . $report->lat . ')\')&$select=*, distance_in_meters(location, \'POINT (' . $report->long . ' ' . $report->lat . ')\') AS range';
-            $response = $this->getApiData($reportId, $url, 'elementryschools');
-        }
-        $data = array();
-        if (count(json_decode($response)) > 0) {
-            foreach (json_decode($response) as $value) {
-                $value->distance = $this->distance($report->lat, $report->long, $value->latitude, $value->longitude, 'K');
-                $data[] = $value;
-            }
-            return $data[0];
-        } else {
-            return array();
-        }
+        
     }
     public function getJuniorSchool($reportId, $template = 'classic')
     {
         return array();
-        $report = Report::findOrfail($reportId);
-        $response = $this->getApiCache($reportId, 'juniorschools');
-
-        if ($response == NULL) {
-            //$url='https://data.edmonton.ca/resource/sujy-pr3p.json?$limit=1&$where=within_circle(location, [lat], [long], [radius])&grade_level=Junior';
-            $url = 'https://data.edmonton.ca/resource/sujy-pr3p.json?$limit=1&$where=within_circle(location, [lat], [long], [radius]) AND grade_level like \'%25Junior%25\'';
-            $url = str_replace('[lat]', $report->lat, $url);
-            $url = str_replace('[long]', $report->long, $url);
-            $url = str_replace('[radius]', config('app.radius'), $url);
-            $url .= '&$order=distance_in_meters(location, \'POINT (' . $report->long . ' ' . $report->lat . ')\')&$select=*, distance_in_meters(location, \'POINT (' . $report->long . ' ' . $report->lat . ')\') AS range';
-            $response = $this->getApiData($reportId, $url, 'juniorschools');
-        }
-        $data = array();
-        if (count(json_decode($response)) > 0) {
-            foreach (json_decode($response) as $value) {
-                $value->distance = $this->distance($report->lat, $report->long, $value->latitude, $value->longitude, 'K');
-                $data[] = $value;
-            }
-            return $data[0];
-        } else {
-            return array();
-        }
+        
     }
     public function getHighSchool($reportId, $template = 'classic')
     {
         return array();
-        $report = Report::findOrfail($reportId);
-        $response = $this->getApiCache($reportId, 'highschools');
-
-        if ($response == NULL) {
-            //$url='https://data.edmonton.ca/resource/sujy-pr3p.json?$limit=1&$where=within_circle(location, [lat], [long], [radius])&grade_level=Senior';
-            $url = 'https://data.edmonton.ca/resource/sujy-pr3p.json?$limit=1&$where=within_circle(location, [lat], [long], [radius]) AND grade_level like \'%25Senior%25\'';
-            $url = str_replace('[lat]', $report->lat, $url);
-            $url = str_replace('[long]', $report->long, $url);
-            $url = str_replace('[radius]', config('app.radius'), $url);
-            $url .= '&$order=distance_in_meters(location, \'POINT (' . $report->long . ' ' . $report->lat . ')\')&$select=*, distance_in_meters(location, \'POINT (' . $report->long . ' ' . $report->lat . ')\') AS range';
-
-            $response = $this->getApiData($reportId, $url, 'highschools');
-        }
-        $data = array();
-        if (count(json_decode($response)) > 0) {
-            foreach (json_decode($response) as $value) {
-                $value->distance = $this->distance($report->lat, $report->long, $value->latitude, $value->longitude, 'K');
-                $data[] = $value;
-            }
-            return $data[0];
-        } else {
-            return array();
-        }
+        
     }
     public function getPlaygrounddata($reportId, $template = 'classic')
     {
@@ -338,209 +250,55 @@ class ReportOtherCont extends ReportApiCont
     public function getTransitData($reportId, $template = 'classic')
     {
         $report = Report::findOrfail($reportId);
-        $response = $this->getApiCache($reportId, 'transit');
-        $lrt_array = array(
-            array(
-                'station' => 'Clareview',
-                'address' => '48 Street & 139 Avenue',
-                'grade_level' => 'Surface',
-                'area' => 'Northeast',
-                'opened' => '1981-04-26',
-                'lat' => '53.601622',
-                'long' => '-113.4140657'
-            ),
-            array(
-                'station' => 'Belvedere',
-                'address' => '62 Street & 129 Avenue',
-                'grade_level' => 'Surface',
-                'area' => 'Northeast',
-                'opened' => '1978-04-22',
-                'lat' => '53.6016048',
-                'long' => '-113.4426542'
-            ),
-            array(
-                'station' => 'Coliseum',
-                'address' => '76 Street & 118 Avenue',
-                'grade_level' => 'Surface',
-                'area' => 'Northeast',
-                'opened' => '1978-04-22',
-                'lat' => '53.570617',
-                'long' => '-113.458655'
-            ),
-            array(
-                'station' => 'Stadium',
-                'address' => '84 Street & 111 Avenue',
-                'grade_level' => 'Surface',
-                'area' => 'Northeast',
-                'opened' => '1978-04-22',
-                'lat' => '23.0653461',
-                'long' => '72.5602822'
-            ),
-            array(
-                'station' => 'Churchill',
-                'address' => '99 Street & 102A Avenue',
-                'grade_level' => 'Underground',
-                'area' => 'Downtown',
-                'opened' => '1978-04-22',
-                'lat' => '53.5434601',
-                'long' => '-113.4921599'
-            ),
-            array(
-                'station' => 'Central',
-                'address' => '101 Street & Jasper Avenue',
-                'grade_level' => 'Underground',
-                'area' => 'Downtown',
-                'opened' => '1978-04-22',
-                'lat' => '53.541047',
-                'long' => '-113.486388'
-            ),
-            array(
-                'station' => 'Bay / Enterprise Square',
-                'address' => '104 Street & Jasper Avenue',
-                'grade_level' => 'Underground',
-                'area' => 'Downtown',
-                'opened' => '1983-06-21',
-                'lat' => '53.54093',
-                'long' => '-113.5004587'
-            ),
-            array(
-                'station' => 'Corona',
-                'address' => '107 Street & Jasper Avenue',
-                'grade_level' => 'Underground',
-                'area' => 'Downtown',
-                'opened' => '1983-06-21',
-                'lat' => '53.542156',
-                'long' => '-113.502309'
-            ),
-            array(
-                'station' => 'Grandin / Government Centre',
-                'address' => '110 Street & 99 Avenue',
-                'grade_level' => 'Underground',
-                'area' => 'Downtown',
-                'opened' => '1989-09-01',
-                'lat' => '53.5367641',
-                'long' => '-113.51257'
-            ),
-            array(
-                'station' => 'University',
-                'address' => '114 Street & 89 Avenue',
-                'grade_level' => 'Underground',
-                'area' => 'South',
-                'opened' => '1992-07-23',
-                'lat' => '23.0387961',
-                'long' => '72.5329574'
-            ),
-            array(
-                'station' => 'Health Sciences / Jubilee',
-                'address' => '114 Street & 83 Avenue',
-                'grade_level' => 'Surface',
-                'area' => 'South',
-                'opened' => '2006-01-03',
-                'lat' => '32.749757',
-                'long' => '-97.3687548'
-            ),
-            array(
-                'station' => 'McKernan / Belgravia',
-                'address' => '114 Street & 76 Avenue',
-                'grade_level' => 'Surface',
-                'area' => 'South',
-                'opened' => '2009-04-26',
-                'lat' => '53.51295',
-                'long' => '-113.5283141'
-            ),
-            array(
-                'station' => 'South Campus/Fort Edmonton Park',
-                'address' => '116 Street & 65 Avenue',
-                'grade_level' => 'Surface',
-                'area' => 'South',
-                'opened' => '2009-04-26',
-                'lat' => '53.503019',
-                'long' => '-113.528874'
-            ),
-            array(
-                'station' => 'Southgate',
-                'address' => '111 Street & 48 Avenue',
-                'grade_level' => 'Surface',
-                'area' => 'South',
-                'opened' => '2010-04-25',
-                'lat' => '53.503019',
-                'long' => '-113.528874'
-            ),
-            array(
-                'station' => 'Century Park',
-                'address' => '111 Street & 23 Avenue',
-                'grade_level' => 'Surface',
-                'area' => 'South',
-                'opened' => '2010-04-25',
-                'lat' => '53.458824',
-                'long' => '-113.51572'
-            ),
-            array(
-                'station' => 'NAIT',
-                'address' => 'Princess Elizabeth and 107 Street',
-                'grade_level' => 'Surface Station',
-                'area' => 'Northwest',
-                'opened' => '2015-09-06',
-                'lat' => '53.5659106',
-                'long' => '-113.507882'
-            ),
-            array(
-                'station' => 'Kingsway/Royal Alex',
-                'address' => 'Kingsway & 105 Street',
-                'grade_level' => 'Surface Station',
-                'area' => 'Northwest',
-                'opened' => '2015-09-06',
-                'lat' => '53.5577385',
-                'long' => '-113.5035424'
-            ),
-            array(
-                'station' => 'MacEwan',
-                'address' => '105 Avenue & 104 Street',
-                'grade_level' => 'Surface Station',
-                'area' => 'Downtown',
-                'opened' => '2015-09-06',
-                'lat' => '53.5462344',
-                'long' => '-113.5032216'
-            ),
-        );
-
-        if ($response == NULL) {
-            $url = 'https://data.edmonton.ca/resource/hq5j-d489.json?$limit=1&$where=within_circle(location, [lat], [long], [radius])';
-            $url = str_replace('[lat]', $report->lat, $url);
-            $url = str_replace('[long]', $report->long, $url);
-            $url = str_replace('[radius]', config('app.radius'), $url);
-            $url .= '&$order=distance_in_meters(location, \'POINT (' . $report->long . ' ' . $report->lat . ')\')&$select=*, distance_in_meters(location, \'POINT (' . $report->long . ' ' . $report->lat . ')\') AS range';
-
-            $response = $this->getApiData($reportId, $url, 'transit');
-        }
-        $lrt_data = array();
-        foreach ($lrt_array as $value) {
-            $value['distance'] = $this->distance($report->lat, $report->long, $value['lat'], $value['long'], 'K');
-            if (empty($lrt_data) || $value['distance'] < $lrt_data['distance']) {
-                $lrt_data = $value;
-            }
-        }
-        $data = array();
-        foreach (json_decode($response) as $value) {
-            $value->distance = $this->distance($report->lat, $report->long, $value->latitude, $value->longitude, 'K');
-            $data[] = $value;
-        }
-        return ['response' => $data, 'lrt_response' => $lrt_data];
+        $bus_station=$this->getBusStation($reportId, $report);
+        $train_station=$this->getTrainStation($reportId, $report);
+        // dd( ['bus_station' => $bus_station, 'train_station' => $train_station]);
+        return ['bus_station' => $bus_station, 'train_station' => $train_station];
     }
-    public function getTransitStation($reportId, $template = 'classic')
+
+    
+    public function getBusStation($reportId, $report)
     {
-        $report = Report::findOrfail($reportId);
-        $response = $this->getApiCache($reportId, 'station');
+        $response = $this->getApiCache($reportId, 'busstation');
 
         if ($response == NULL) {
-            $url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=[lat],[long]&radius=[radius]&type=transit_station&key={{env('GOOGLE_MAP_API')}}";
+            // $url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=[lat],[long]&radius=[radius]&type=transit_station&key=AIzaSyCliagc2fSKClvhgkSSEqPQM6cTgupNJqg";
+            $url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=[lat],[long]&radius=[radius]&type=bus_station&key=AIzaSyCliagc2fSKClvhgkSSEqPQM6cTgupNJqg";
             $url = str_replace('[lat]', $report->lat, $url);
             $url = str_replace('[long]', $report->long, $url);
             $url = str_replace('[radius]', config('app.radius'), $url);
 
-            $response = $this->getApiData($reportId, $url, 'station');
+            $response = $this->getApiData($reportId, $url, 'busstation');
         }
         $response = json_decode($response);
+        if (!empty($response->results)) {
+            $value = $response->results[0];
+                $distance = $this->distance($report->lat, $report->long, $value->geometry->location->lat, $value->geometry->location->lng, 'K');
+                $response = array('distance' => $distance, 'name' => $value->name, 'vicinity' => $value->vicinity);
+        }
+        return $response;
+    }
+    public function getTrainStation($reportId, $report)
+    {
+        $response = $this->getApiCache($reportId, 'trainstation');
+
+        if ($response == NULL) {
+            $url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=[lat],[long]&radius=[radius]&type=train_station&key=AIzaSyCliagc2fSKClvhgkSSEqPQM6cTgupNJqg";
+            $url = str_replace('[lat]', $report->lat, $url);
+            $url = str_replace('[long]', $report->long, $url);
+            $url = str_replace('[radius]', 10000, $url);
+
+            $response = $this->getApiData($reportId, $url, 'trainstation');
+        }
+        $response = json_decode($response);
+
+        if (!empty($response->results)) {
+            $value = $response->results[0];
+                $distance = $this->distance($report->lat, $report->long, $value->geometry->location->lat, $value->geometry->location->lng, 'K');
+                $response = array('distance' => $distance, 'name' => $value->name, 'vicinity' => $value->vicinity);
+        }
+
+
         return $response;
     }
     public function getResturantData($reportId)
