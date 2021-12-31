@@ -45,13 +45,20 @@
 			<td height="15"> </td>
 		</tr>
 		<tr>
-			<td align="center">
+			<td align="right">
 				<table>
 					<tr>
 						<td align="center" bgcolor="#1A54BA" style="background:#DC2828; padding:15px 18px;-webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px;">
 							<div class="contentEditableContainer contentTextEditable" style="margin: 0;">
 								<div class="contentEditable" align="center" style="margin: 0;">
 									<a target="_blank" href="{{ URL::Route('orders') }}" class="link2" style="color: #ffffff;font-size: 16px;text-decoration: none;">Manage Account</a>
+								</div>
+							</div>
+						</td>
+						<td align="center" bgcolor="#1A54BA" style="background:#DC2828; padding:15px 18px;-webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px;">
+							<div class="contentEditableContainer contentTextEditable" style="margin: 0;">
+								<div class="contentEditable" align="center" style="margin: 0;">
+									<a target="_blank" href="{{ URL::Route('survey') }}" class="link2" style="color: #ffffff;font-size: 16px;text-decoration: none;">Take Survey</a>
 								</div>
 							</div>
 						</td>

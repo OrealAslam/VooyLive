@@ -3,7 +3,7 @@
         <tbody>
             <tr>
                 <td colspan="3">
-                    <div class="contentEditable" align="center" style="margin: 0;">
+                    <div class="contentEditable" align="center" style="margin-top: 10px;">
                         <h2 style="text-align: left;color: #222222;font-size: 19px;font-weight: normal;">
 							From the team at DHARRO<br>info@dharro.com
                         </h2>
