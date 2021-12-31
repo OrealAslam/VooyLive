@@ -1,0 +1,972 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEAxFbGILvsxtIDstjrzDcv6IHwZKCkxX5DzrJxFNowQSd5FRD94Rb-bdln1TOU5fpzawv7VjJXHXzh0Y0LYHnkH_z1ojAoICy7eXmhkCQ2v7qCy1GmYhyKpUx2tdA74oJuyqvqLrCBGtuk0iWt5lXbffrahK0RzTM1TwO22kLZvVBGipZqryqxWt3ifbjhl79MY8GMQ3WFFYeLqW-8PYiSMSd8K9edMCnlUQvXt1N0TTpSGgRjood5h4E2HmzBW5o_d84U8QHwpei7TDhjARwMaKENOVZweD5XMSwbrqrQV31jFJ3N0MmhXjEqN9gI508M6RFvJcix7BUfhhvXJ890q6x9DJrfSelpb7jDeT5OHa6iVDQ4h9gsnyG3xbNC-qFKM4YlzVTxG3VaepHRufaKmLToCDNlASIrnDiFWET6sHNeTYrAYQqr4J9-JAJqBYv5Ul7ZF9ahZgA8KQBqR9bsEk_tCKnScEJx8SrIqg_5pxdeRrSAcSwHY2dVKymVk1TdVYRfKER8jhsvl2TAErvb9jBySu_4XQrTAWsqyMMt-gdnTO4Jutw7OD8_KWw2KPsRwcxZPZfTZ6Mqs7JPwCuZu5vVYfZIh_OEMiOn9cLAEOpBVClqtwGk_5SxtdGn8GiqfxJ-ZcQUaAmirB2YZco5bpvpZADFyHMv4W9ysjSIJ0Hp9CkCzxTaV7m6X22PXPRoWHT6Oy9OnMybp4zKNKaNLK5XPGRWX7upI5mAaS6fk1EENojmK8Y-eeEeqAaV1nA",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.81944050000001,
+               "lng" : -71.36753689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8207761802915,
+                  "lng" : -71.3662622697085
+               },
+               "southwest" : {
+                  "lat" : 46.8180782197085,
+                  "lng" : -71.36896023029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116968878215575040367\"\u003eFrancis Bouvrette\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAR2qLMkA_gL7Vw6jWsk0CJqzw1etZKer7uOJ7geeywPJWhVR41L1gXS6YLMpR8eZsZS0rkYLex1e8K_ULY_F6XUDcC8Np0nG3vf1bezD4898WPuYlD98MG2J-VtVHLQCU_1Ko3coJgIQpaWn727PK0gRiODDagqHAUv28CHoMHchrR",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJTbY0R7KZuEwRdaDZQEoHaO0",
+         "plus_code" : {
+            "compound_code" : "RJ9J+QX Quebec City, QC, Canada",
+            "global_code" : "87RCRJ9J+QX"
+         },
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "ChIJTbY0R7KZuEwRdaDZQEoHaO0",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 489,
+         "vicinity" : "5143 Boulevard Chauveau Ouest, Québec"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.8078778,
+               "lng" : -71.3605194
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.80917873029149,
+                  "lng" : -71.35923151970849
+               },
+               "southwest" : {
+                  "lat" : 46.80648076970849,
+                  "lng" : -71.36192948029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Complexe Sportif Multidisciplinaire de L'Ancienne-Lorette",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 900,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113664941843349836485\"\u003eComplexe Sportif Multidisciplinaire de L&#39;Ancienne-Lorette\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDo5nGMjeWv8NPnr7K6i8NSzDZcLDP8vTYYuZLw84djem-10TA4-oVRVJgiiu0pc2XvD5o4wBwEavNQEMssLmQuxaTdubih_XVzK0nWCp8V_FsquPb67lDt9gVP1vqO2CPxk0y_Nq9hYuplT_FVh4OwqUOG16GE8uNVomQ2fKn6tdTz",
+               "width" : 1666
+            }
+         ],
+         "place_id" : "ChIJC46TF8eZuEwRR4_aWAq3DDA",
+         "plus_code" : {
+            "compound_code" : "RJ5Q+5Q L'Ancienne-Lorette, QC, Canada",
+            "global_code" : "87RCRJ5Q+5Q"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJC46TF8eZuEwRR4_aWAq3DDA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "food",
+            "gym",
+            "health",
+            "point_of_interest",
+            "clothing_store",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 270,
+         "vicinity" : "1311 Rue des Loisirs Est, L'Ancienne-Lorette"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.7985813,
+               "lng" : -71.3415124
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.7999302802915,
+                  "lng" : -71.3401634197085
+               },
+               "southwest" : {
+                  "lat" : 46.7972323197085,
+                  "lng" : -71.34286138029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113737206420962700701\"\u003eChristopher Rheault\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBtFUQWWr7-qtfei73AbdfIKIbCyZCimNnJzRb1qcoXLO6sIT6SMspUt2S_5mbxOIqGIitvHANtg7rw8SylAdA3wkBWlnmOMzFX689l-jVtYco8xqeVMMC8N2WWy3qSxJuUtNkUT2TSvyBsUZ8UDS3eNZWNk8tOPiraLURbHqr50j_E",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJKdbg49-ZuEwRo-C5qYcoOw0",
+         "plus_code" : {
+            "compound_code" : "QMX5+C9 L'Ancienne-Lorette, QC, Canada",
+            "global_code" : "87RCQMX5+C9"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJKdbg49-ZuEwRo-C5qYcoOw0",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 322,
+         "vicinity" : "6095 Boulevard Wilfrid-Hamel, L'Ancienne-Lorette"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.8010824,
+               "lng" : -71.37233590000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.80235603029149,
+                  "lng" : -71.37107646970851
+               },
+               "southwest" : {
+                  "lat" : 46.79965806970849,
+                  "lng" : -71.37377443029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Poissonnerie Québec Océan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101486486012948632963\"\u003ePoissonnerie Québec Océan\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDLTou5NYj3g0PJDq-5kOJv0tIe4c-0ISwuA0vy_7pNrVLTxvnjTdzGnN67yiJSH39T0yiMvqYHhdD3TDnmEgEOT4yXNF1Eul5ageqcOrhdb1supNLnAlbsF5nrn_3UuskbSygCyJMCL-z1q52xhsyF2zTvFbPg_wlIhyfUU7ICEyu1",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ2YnI30WWuEwRAMET4m4zIck",
+         "plus_code" : {
+            "compound_code" : "RJ2H+C3 L'Ancienne-Lorette, QC, Canada",
+            "global_code" : "87RCRJ2H+C3"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ2YnI30WWuEwRAMET4m4zIck",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 81,
+         "vicinity" : "1699 Route de l'Aéroport, L'Ancienne-Lorette"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.8084539,
+               "lng" : -71.3700188
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.80983418029149,
+                  "lng" : -71.36837046970849
+               },
+               "southwest" : {
+                  "lat" : 46.8071362197085,
+                  "lng" : -71.3710684302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101634228390221990611\"\u003eSubway\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDpGDT90pGNzAFW3PlsHOTfaCqFAzyAr77AVXlj9E115UVIEqb1in24kZSQxgw6APaQfVkpRdiSJ3soL4_TpIQo45f96Me2KHhRS2Y-H8sQZ1vm2Dbwijlan64Um2bqfyhvFdG4wtpzgK4IkDLYeeEMUA4fKIxZtmOla-1VU2GX0Vkt",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJp5Awsr6ZuEwR8dVjniFR4bw",
+         "plus_code" : {
+            "compound_code" : "RJ5H+9X L'Ancienne-Lorette, QC, Canada",
+            "global_code" : "87RCRJ5H+9X"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJp5Awsr6ZuEwR8dVjniFR4bw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 122,
+         "vicinity" : "1866 Rue Notre-Dame Shop 90, L'Ancienne-Lorette"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.8001,
+               "lng" : -71.37219999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.80147073029149,
+                  "lng" : -71.3706328197085
+               },
+               "southwest" : {
+                  "lat" : 46.79877276970849,
+                  "lng" : -71.37333078029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Resto-Bar Le Commandant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109328194392289609507\"\u003eResto-Bar Le Commandant\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBpQC_R5UnN_XbjfYUxWsPZD3DKVEFutZG-BcMnCA-NBLw4pA72fe9je6Uq1vZqU9Fa7L7jTGe27gfh2-QWbD2Ryn1jXyjuEwLd4--A7ofbPVOJSIJQ9sHu_GFH4aRvdz39xLD2o-GRDF6VuqmhEkxd0OTjBZFCxliXBjWVvnrtxFFz",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJUYZWaZaZuEwRQnJv1kQdLrU",
+         "plus_code" : {
+            "compound_code" : "RJ2H+24 Quebec City, QC, Canada",
+            "global_code" : "87RCRJ2H+24"
+         },
+         "price_level" : 3,
+         "rating" : 4.4,
+         "reference" : "ChIJUYZWaZaZuEwRQnJv1kQdLrU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 787,
+         "vicinity" : "1688 Route de l'Aéroport, Québec"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.8105257,
+               "lng" : -71.3700837
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8118746802915,
+                  "lng" : -71.36873471970848
+               },
+               "southwest" : {
+                  "lat" : 46.8091767197085,
+                  "lng" : -71.37143268029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Stratos Pizzeria",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1484,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110944293794487073154\"\u003eStratos Pizzeria\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDipCeRQPdn3nODaUCgsYEj8nyg3hBphS7V1a7T1kNuamcosMhWEb066qcoWWCJqNPa55dpUP1xBfcwGAO5Beiq-FcUNx8AGdS_pd56AhQ4kDAbLcdfmCf_WkILSm-bXMdC94AvAGSLOUL9h9V6J_Q-G5xPoioiozKZS-0VD663r43s",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJKT3MyLuZuEwRf9SNKzTK0zI",
+         "plus_code" : {
+            "compound_code" : "RJ6H+6X L'Ancienne-Lorette, QC, Canada",
+            "global_code" : "87RCRJ6H+6X"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJKT3MyLuZuEwRf9SNKzTK0zI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 321,
+         "vicinity" : "1914 Rue Notre-Dame, L'Ancienne-Lorette"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.79925839999999,
+               "lng" : -71.3593022
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.80060738029149,
+                  "lng" : -71.35795321970849
+               },
+               "southwest" : {
+                  "lat" : 46.7979094197085,
+                  "lng" : -71.3606511802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurant Thiên-Kim",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107599028255882161879\"\u003eBruno Simard\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECcaVH_mTt3vnNCcCOTbgISE_vhqJDyS4CHVwZAEEaa1RUaX-lFVgUvWCCWS3tz_bpMzb_Waha8KbwP7Heb-lIhjLnpSXqpCaMntjCsJcoz8rpi7bCAXBZkXAbI860o0U2j42t5wx_ljUtFTIC196Rt4njY4HlkSL2oJlS6L7-f2Oai",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJyStmp-mZuEwRcSYDTpWMrt4",
+         "plus_code" : {
+            "compound_code" : "QJXR+P7 L'Ancienne-Lorette, QC, Canada",
+            "global_code" : "87RCQJXR+P7"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJyStmp-mZuEwRcSYDTpWMrt4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 179,
+         "vicinity" : "1579 Rue Notre-Dame, L'Ancienne-Lorette"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.80795369999999,
+               "lng" : -71.3691058
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.80964263029149,
+                  "lng" : -71.3679695197085
+               },
+               "southwest" : {
+                  "lat" : 46.80694466970849,
+                  "lng" : -71.3706674802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Aki Sushi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 700,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116948315211539090327\"\u003eAki Sushi\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBlfiqAuPfknnmqYpiabvNtYo3nNOLJlR_P_W_ul8tU-bADblb0WZF0hEzKB3yzBPj7uiouJyPa6tgSib9UYZDLAV6Fa0MGKGKHv4bWE_Q3PEYgacUYNTHWXxBDQA06jjjomn4ZDqdWliH8tthEqawzi_i7Ykkm2F86TVvGNO9SIyJ3",
+               "width" : 1840
+            }
+         ],
+         "place_id" : "ChIJK_3lNrmZuEwRX86DhFeCZuY",
+         "plus_code" : {
+            "compound_code" : "RJ5J+59 L'Ancienne-Lorette, QC, Canada",
+            "global_code" : "87RCRJ5J+59"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJK_3lNrmZuEwRX86DhFeCZuY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "1858 Rue Notre-Dame, L'Ancienne-Lorette"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.799969,
+               "lng" : -71.3723555
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.80175088029149,
+                  "lng" : -71.37105266970849
+               },
+               "southwest" : {
+                  "lat" : 46.7990529197085,
+                  "lng" : -71.37375063029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Complexe Capitale Hélicoptère",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5667,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106936796041885353038\"\u003eComplexe Capitale Hélicoptère\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECR2jsHoFQpOG_65cAAbRmWRVO96e8YQEa2G31BLTKohaCL_e8EDMGag-cK-lm3e2AaPg9dZV4cHEBfznAQtMckW_E1sHQ9ppXoY46GUufYaAAKfDfnnsnHkhNagX72aZn_fVDlHyDdFByHR8mfN382Fr6wb4OJyVOHWz6YvOZ4Wqh8",
+               "width" : 6720
+            }
+         ],
+         "place_id" : "ChIJXT_1Po6ZuEwRvfh1zVlBCTg",
+         "plus_code" : {
+            "compound_code" : "QJXH+X3 Quebec City, QC, Canada",
+            "global_code" : "87RCQJXH+X3"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJXT_1Po6ZuEwRvfh1zVlBCTg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "travel_agency",
+            "university",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 65,
+         "vicinity" : "1688 Route de l'Aéroport, Québec"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.8029764,
+               "lng" : -71.3609342
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8042583802915,
+                  "lng" : -71.3597316197085
+               },
+               "southwest" : {
+                  "lat" : 46.8015604197085,
+                  "lng" : -71.36242958029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "Bar L'Attraction Plus",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107107692715576269849\"\u003eAlexandra Gagnon\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED_eqGKz7xivewFlUNHqqByP2uPdqTo09fF5niIQR_rXe5A3MFkmkTHxB3h4qWfzbW9nkXrxhzQzD7DxCfKT6hq2ky8IXumQRxlgKd0UEOoDyjEx2UR3SABxX_kDqbIAnkhGHKViOJsDlNgWhy8A8b45m7dLmTEv7G7PdnzNjZD9jg",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJ_6Enx8GZuEwRvsBFcAIld6c",
+         "plus_code" : {
+            "compound_code" : "RJ3Q+5J L'Ancienne-Lorette, QC, Canada",
+            "global_code" : "87RCRJ3Q+5J"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ_6Enx8GZuEwRvsBFcAIld6c",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "night_club",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 28,
+         "vicinity" : "1675 Rue Notre-Dame, L'Ancienne-Lorette"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.8030281,
+               "lng" : -71.3609695
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8042715802915,
+                  "lng" : -71.3597401697085
+               },
+               "southwest" : {
+                  "lat" : 46.8015736197085,
+                  "lng" : -71.36243813029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurant Angkor Thom",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111388105308446276152\"\u003eRestaurant Angkor Thom\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECIMGx5Ujll9vClgv8AmcPtwaKsH0zhKMJw4wZr3EP3u8E-7f5jkT9CopK6mrSzz21TZpnA7yv-pysvtP-eH5kvUzt4dTs-o5J4pkaKQ7zaKkVu6JON1KW5iZepB0whzrUI-CCsHVCXthjSrrhHtU99DGlg1MNFAa4TPLUIoHUosWL6",
+               "width" : 1800
+            }
+         ],
+         "place_id" : "ChIJcwpywsGZuEwRSYWwLCc6RbU",
+         "plus_code" : {
+            "compound_code" : "RJ3Q+6J L'Ancienne-Lorette, QC, Canada",
+            "global_code" : "87RCRJ3Q+6J"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJcwpywsGZuEwRSYWwLCc6RbU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 154,
+         "vicinity" : "1675 Rue Notre-Dame, L'Ancienne-Lorette"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.80074800000001,
+               "lng" : -71.360353
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.80214963029151,
+                  "lng" : -71.35884266970849
+               },
+               "southwest" : {
+                  "lat" : 46.79945166970851,
+                  "lng" : -71.36154063029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Resto Richard",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106452156123635711834\"\u003eResto Richard\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAInA0AC27qzTaIgFIFdQ85x6V7RiyfUalYiI9ipGVqrXZHxlBPR3IafzqyBVhs8rEwP6ymroYH-v-ChRetPmQSvp57sLrQK2M7tx5UMf6KqwmAsT_MMf83Z7HGdCd7NmtF_A7uWxHvq6BlpSHjbydd6a4pjqIcLq5ISeN2y6nAHlZ-",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJY3R69OmZuEwR5n1xNL8xutY",
+         "plus_code" : {
+            "compound_code" : "RJ2Q+7V L'Ancienne-Lorette, QC, Canada",
+            "global_code" : "87RCRJ2Q+7V"
+         },
+         "price_level" : 1,
+         "rating" : 4.4,
+         "reference" : "ChIJY3R69OmZuEwR5n1xNL8xutY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 847,
+         "vicinity" : "1616 Rue Notre-Dame, L'Ancienne-Lorette"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.80954649999999,
+               "lng" : -71.36841199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.81071333029149,
+                  "lng" : -71.36705216970849
+               },
+               "southwest" : {
+                  "lat" : 46.80801536970849,
+                  "lng" : -71.36975013029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurant Le Valentino Enr",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103675186459684541694\"\u003e맛집방랑자\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED-5t_DFSe413EgQdwMQZuaXK-LYpngGxiYkUBcCyFNMhWSw2O0J3bY_ehgsyeLVMUae2kg620oZx6tmfyKrKW6PFlDt9veYe_LHvbfVPzHY1iwA5f0fMbXngajWc-K_BdIES2EV7j0GD16tMTX9u4jzrqZ7jPHTC7aeA32rYfYT8Xa",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJORz8N7mZuEwRvUq2Eh8EeVE",
+         "plus_code" : {
+            "compound_code" : "RJ5J+RJ L'Ancienne-Lorette, QC, Canada",
+            "global_code" : "87RCRJ5J+RJ"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJORz8N7mZuEwRvUq2Eh8EeVE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 270,
+         "vicinity" : "1875 Rue Notre-Dame, L'Ancienne-Lorette"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.8083055,
+               "lng" : -71.36619329999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8095965302915,
+                  "lng" : -71.36493171970849
+               },
+               "southwest" : {
+                  "lat" : 46.8068985697085,
+                  "lng" : -71.3676296802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Traiteurs normand",
+         "place_id" : "ChIJhXY6K1uZuEwRBanp6YNUgx8",
+         "plus_code" : {
+            "compound_code" : "RJ5M+8G L'Ancienne-Lorette, QC, Canada",
+            "global_code" : "87RCRJ5M+8G"
+         },
+         "reference" : "ChIJhXY6K1uZuEwRBanp6YNUgx8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "1366 Rue Bon Air, L'Ancienne-Lorette"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.79790750000001,
+               "lng" : -71.36936780000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.7989830302915,
+                  "lng" : -71.36842216970851
+               },
+               "southwest" : {
+                  "lat" : 46.7962850697085,
+                  "lng" : -71.37112013029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Casse-croûte Chez Mag",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113105556532896170336\"\u003eSamuel Perkins\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDdAySuOZmTh6-oCTmAS3_NbCppAnRS0wWd7Hu5ZyziRbCMMaerqpe6DnGk970TcPOJcq9wKRphzPhJ7YShIgeBP-OfgXJPZuXRXqQl_1c16OfBYqxT2jHpKGnty3kO39V_-PMvVQi3FpvAQFB3meWwJDA3bsr9dQ1WdMIZGYQYNxWY",
+               "width" : 2572
+            }
+         ],
+         "place_id" : "ChIJHX0uCB6ZuEwRGp0w_P7p6I8",
+         "plus_code" : {
+            "compound_code" : "QJXJ+57 Quebec City, QC, Canada",
+            "global_code" : "87RCQJXJ+57"
+         },
+         "rating" : 5,
+         "reference" : "ChIJHX0uCB6ZuEwRGp0w_P7p6I8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "937 Rue 9E de l'Aéroport, Québec"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.7977026,
+               "lng" : -71.3689124
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.7987492802915,
+                  "lng" : -71.36800456970849
+               },
+               "southwest" : {
+                  "lat" : 46.7960513197085,
+                  "lng" : -71.37070253029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Le 737",
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111762782720035885563\"\u003eLe 737\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECIWz32ycgy90DpQ4yEcRJEwfzabQjoittITvSb50MDVlXUFOPankvOrMz9w5BeUsgcPYObjSiFF_fh706C8_yE5Wf_4aN2UrUFS0OrrcCuaqwXoQgyUFtXC6kJ0vNp6dWcyg9BLvmpUfEKhzyY5SNWpqaZveXHMU8qwbCAihrvO9dA",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJM38HfNOZuEwRV_niVYRn2ss",
+         "plus_code" : {
+            "compound_code" : "QJXJ+3C Quebec City, QC, Canada",
+            "global_code" : "87RCQJXJ+3C"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJM38HfNOZuEwRV_niVYRn2ss",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "tourist_attraction",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 509,
+         "vicinity" : "937 Rue 9E de l'Aéroport, Québec"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.79773309999999,
+               "lng" : -71.3696521
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.7989004302915,
+                  "lng" : -71.36857101970848
+               },
+               "southwest" : {
+                  "lat" : 46.7962024697085,
+                  "lng" : -71.37126898029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Los Tacos",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1620,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113105556532896170336\"\u003eSamuel Perkins\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDqh4wX_P8A-BpsQgRKNyQjNR2Vkg8xL8RnaRG5bxwjt03JQ_mCDoiBOvMFR3DX1IyYzh66oWbXjYnPyZdste1IMl_Abz74U-rJXp3YY-DImnTXhe4cEpoPacRgnHXTfFfMDD0ZvQpo-KwSwB5FwIU4BIG8eEjLQenOPGDzvE3DltCf",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJfRjzWOOZuEwRXQuqTNM-naQ",
+         "plus_code" : {
+            "compound_code" : "QJXJ+34 Quebec City, QC, Canada",
+            "global_code" : "87RCQJXJ+34"
+         },
+         "rating" : 2.3,
+         "reference" : "ChIJfRjzWOOZuEwRXQuqTNM-naQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "937 Rue 9E de l'Aéroport, Québec"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.8199774,
+               "lng" : -71.36857189999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.82127293029151,
+                  "lng" : -71.3672305697085
+               },
+               "southwest" : {
+                  "lat" : 46.81857496970851,
+                  "lng" : -71.36992853029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Le 4",
+         "photos" : [
+            {
+               "height" : 809,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102947636599574809856\"\u003eLe 4\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAfeW-GhcrXm-_aqpqAbWlrf3rdG5bMKOhX7IX0jPfahWQpEPiHT8jGLuvnjl4fh5eIrgi23I71OKClOWYsB1SXucSzfD1IyBgm40lbFpCs5wiWMOUS84t7Ofx6FnzjoemSClf7bbfQjaIg86VmSH_14DcHPARICmIfKtJzl8Bk5Fck",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJ1QhT8OyZuEwRO3oU6c_qnCo",
+         "plus_code" : {
+            "compound_code" : "RJ9J+XH Quebec City, QC, Canada",
+            "global_code" : "87RCRJ9J+XH"
+         },
+         "reference" : "ChIJ1QhT8OyZuEwRO3oU6c_qnCo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "5136 Boulevard Chauveau Ouest, Québec"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.7959514,
+               "lng" : -71.34993299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.7972289802915,
+                  "lng" : -71.34850961970849
+               },
+               "southwest" : {
+                  "lat" : 46.7945310197085,
+                  "lng" : -71.3512075802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "Cabaret L'impresario",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJFcKTcvyZuEwRbWVeiQGwnZM",
+         "plus_code" : {
+            "compound_code" : "QMW2+92 L'Ancienne-Lorette, QC, Canada",
+            "global_code" : "87RCQMW2+92"
+         },
+         "reference" : "ChIJFcKTcvyZuEwRbWVeiQGwnZM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "6300 Boulevard Wilfrid-Hamel, L'Ancienne-Lorette"
+      }
+   ],
+   "status" : "OK"
+}

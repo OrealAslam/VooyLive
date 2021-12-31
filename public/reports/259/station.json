@@ -1,0 +1,55 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.75432379999999,
+               "lng" : -71.2976451
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.7557873302915,
+                  "lng" : -71.2965797697085
+               },
+               "southwest" : {
+                  "lat" : 46.7530893697085,
+                  "lng" : -71.29927773029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Sainte-Foy",
+         "photos" : [
+            {
+               "height" : 2252,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114523284288403261844\"\u003eMario Hains\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECy4b0xdg2LIOxDh_6g2PaESIN4tD0C8SdszbDywczsGu7KAMAe6FlF1maOJ1kAo8Gytww07Dxa1HHByvijfHfn9hfFP-poRZzexBMtkLngHM1d12_sOmxyAA6Fx12kXNVnmMJJGf6cbVjdGdr9TaEIgDI3BnjCWz37SWtaYJbUv5CQ",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJbxpcJCORuEwRlB3qFqbLsYo",
+         "plus_code" : {
+            "compound_code" : "QP32+PW Quebec City, QC, Canada",
+            "global_code" : "87RCQP32+PW"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJbxpcJCORuEwRlB3qFqbLsYo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 45,
+         "vicinity" : "3255 Chemin de la Gare, Québec"
+      }
+   ],
+   "status" : "OK"
+}

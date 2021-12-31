@@ -1,0 +1,508 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.7990593,
+               "lng" : -71.3693359
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8003165302915,
+                  "lng" : -71.3680895697085
+               },
+               "southwest" : {
+                  "lat" : 46.7976185697085,
+                  "lng" : -71.37078753029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "Couche-Tard",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109687650999608869272\"\u003ecarl guillette\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDlogffOXZRgP5A8G2YVfJPla0JqZ8RwHi314aoX2eAWwcdA4xIQKBpZF54UaLLonlQXoN-iH9p-0fRNpNsle5SzOmqtON61oaOyuT8pKqN061hHyVOF3rOZhmNwwnAww110E3XfmA5tP9GDXhVS6f-bIbrgT71RL7Ffejv7QUuv187",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJNQ5kU-uZuEwRgRQDuidKZ5Q",
+         "plus_code" : {
+            "compound_code" : "QJXJ+J7 L'Ancienne-Lorette, QC, Canada",
+            "global_code" : "87RCQJXJ+J7"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJNQ5kU-uZuEwRgRQDuidKZ5Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 10,
+         "vicinity" : "1661 Route de l'Aéroport, L'Ancienne-Lorette"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.808578,
+               "lng" : -71.36733199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8097930302915,
+                  "lng" : -71.36607841970849
+               },
+               "southwest" : {
+                  "lat" : 46.8070950697085,
+                  "lng" : -71.36877638029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111688945165591346095\"\u003eMichael Malone\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBddohZdyFWFexd-ZxgzspIa7SmEuV4_BxNB3szvQG0I5KelJ3EP4_Bl08Uw5RuLj7jfPwbN5tFL2jA3RQkdV6KVWZP8qcsxaKYo_rBHFzgR6ZdDsaeyUQzEUUoRmo62przIeM_8M2a9AxvjJTCU7s4UN3X1rqzi-CAeGssgl6YuNrS",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJV8s_MLmZuEwRY2cg391N5Rk",
+         "plus_code" : {
+            "compound_code" : "RJ5M+C3 L'Ancienne-Lorette, QC, Canada",
+            "global_code" : "87RCRJ5M+C3"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJV8s_MLmZuEwRY2cg391N5Rk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 42,
+         "vicinity" : "1855 Rue Notre-Dame, L'Ancienne-Lorette"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.8088742,
+               "lng" : -71.34965680000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8101600802915,
+                  "lng" : -71.3482430697085
+               },
+               "southwest" : {
+                  "lat" : 46.8074621197085,
+                  "lng" : -71.35094103029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "Depanneur Voisin",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109296976613163670718\"\u003eDepanneur Bon Matin\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECZMerDdWNWbnvJqTwUPnNIqNNtDj8_vJTyZAAdbVXXXtL3wKH_vYluSRJfA-rw7xVwdax3fJo7aui-H4MuTdn8HS5KT2bQ1LrVAwNyLoTclwSN9kF7L85KVseq0dCpdWC50OuivkTJz-tWCWNi3ht5vz01xOic3DoYoEcSN_Jlr77y",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ0d_wP8WZuEwRH-uIRTSjttk",
+         "plus_code" : {
+            "compound_code" : "RM52+G4 L'Ancienne-Lorette, QC, Canada",
+            "global_code" : "87RCRM52+G4"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJ0d_wP8WZuEwRH-uIRTSjttk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 6,
+         "vicinity" : "2020 Rue Saint Jean Baptiste, L'Ancienne-Lorette"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.80869370000001,
+               "lng" : -71.3831878
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8099501302915,
+                  "lng" : -71.3819791697085
+               },
+               "southwest" : {
+                  "lat" : 46.80725216970851,
+                  "lng" : -71.38467713029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Sonic",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110666010315109988171\"\u003eCynthia Fiz\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBTaEuzH6TkGlKpZxqM5HGYBF8whkiTFgtLF2tEIbYsrQ_jAnt7HWU5r4yVMM-UgB2ySv8Q_wRlGdpn2IUyD4e9WstuY1tl5Enpb8joRhaHw1KqktPC6ZLYpIQHfm91ACuM6QdXfpVPRMXXwA8gUZ91HUtyjUJM_TKrGqWToPSEyV3z",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJ1bk60aOZuEwRCnfMvtdcdSE",
+         "plus_code" : {
+            "compound_code" : "RJ58+FP Quebec City, QC, Canada",
+            "global_code" : "87RCRJ58+FP"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ1bk60aOZuEwRCnfMvtdcdSE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 43,
+         "vicinity" : "1799 Route de l'Aéroport, Québec"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.80881429999999,
+               "lng" : -71.3832096
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.81026998029149,
+                  "lng" : -71.3820228197085
+               },
+               "southwest" : {
+                  "lat" : 46.80757201970849,
+                  "lng" : -71.38472078029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "Accommodation Chauveau Enr",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ-zQl0aOZuEwR57m_BIH-FxU",
+         "plus_code" : {
+            "compound_code" : "RJ58+GP Quebec City, QC, Canada",
+            "global_code" : "87RCRJ58+GP"
+         },
+         "reference" : "ChIJ-zQl0aOZuEwR57m_BIH-FxU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "1799 Rte De L'Aeroport, Quebec City"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.8161782,
+               "lng" : -71.3740076
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8175271802915,
+                  "lng" : -71.3726586197085
+               },
+               "southwest" : {
+                  "lat" : 46.8148292197085,
+                  "lng" : -71.37535658029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "Couche-Tard",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107107692715576269849\"\u003eAlexandra Gagnon\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBDAzp4QU5ggRt4sMbC38obe5HEZDTOs-JfSfW1ZSSVJ1ohOF4CVjeFCVPciRv9wEPxJUQzDrCUSkt-pYeKGA3NX2nUobsL3tsC6q6_J90MCx_ayysHJFKMsCPORbX0U1ntvBuhRas6SjiwAGdGm1Da-7gEZ7fzA_6bfSwjK47h2wI",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ0TQ7x6-ZuEwRhO9Lggd8GvA",
+         "plus_code" : {
+            "compound_code" : "RJ8G+F9 Quebec City, QC, Canada",
+            "global_code" : "87RCRJ8G+F9"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ0TQ7x6-ZuEwRhO9Lggd8GvA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "atm",
+            "gas_station",
+            "finance",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 9,
+         "vicinity" : "5410 Boulevard Chauveau Ouest, Québec"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.79570019999999,
+               "lng" : -71.35609029999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.79709468029149,
+                  "lng" : -71.35467341970848
+               },
+               "southwest" : {
+                  "lat" : 46.79439671970849,
+                  "lng" : -71.3573713802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "Dépanneur",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJrUEu--WZuEwR8nsbolz17VQ",
+         "plus_code" : {
+            "compound_code" : "QJWV+7H L'Ancienne-Lorette, QC, Canada",
+            "global_code" : "87RCQJWV+7H"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJrUEu--WZuEwR8nsbolz17VQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 4,
+         "vicinity" : "1444 Rue Notre-Dame, L'Ancienne-Lorette"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.8031711,
+               "lng" : -71.34177439999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8045771802915,
+                  "lng" : -71.34050481970849
+               },
+               "southwest" : {
+                  "lat" : 46.8018792197085,
+                  "lng" : -71.34320278029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "Depanneur",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ0wxk0N6ZuEwR5TCnKIoMSpg",
+         "plus_code" : {
+            "compound_code" : "RM35+77 L'Ancienne-Lorette, QC, Canada",
+            "global_code" : "87RCRM35+77"
+         },
+         "reference" : "ChIJ0wxk0N6ZuEwR5TCnKIoMSpg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.8031905,
+               "lng" : -71.3416886
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8046061302915,
+                  "lng" : -71.34043231970848
+               },
+               "southwest" : {
+                  "lat" : 46.8019081697085,
+                  "lng" : -71.34313028029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "Dépanneur Alimentation St-Paul",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117233075304128153753\"\u003eDépanneur Alimentation St-Paul\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECkhcnMjrCwh4R6Hg4JNy-fgwbTJGObIo3t5hH7Iw-yqmyd7dRzEW046HB4ywEZWeDL_EKUCcHgD1o-P6GzGq_TVDVyyUdqrmi5VrmH0jJLuXQbcjkwTCgO6eLgUtEzC1FaReA55dAQs1QJJLooll1p0Iil29vw8wqBmIYKm_psF5VE",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJG0_v0d6ZuEwRUejpckDjbcA",
+         "plus_code" : {
+            "compound_code" : "RM35+78 L'Ancienne-Lorette, QC, Canada",
+            "global_code" : "87RCRM35+78"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJG0_v0d6ZuEwRUejpckDjbcA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 7,
+         "vicinity" : "1045 Rue Saint Paul, L'Ancienne-Lorette"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.8088089,
+               "lng" : -71.3832074
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.81004093029149,
+                  "lng" : -71.3820357197085
+               },
+               "southwest" : {
+                  "lat" : 46.8073429697085,
+                  "lng" : -71.38473368029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "Super Soir Ancienne-Lorette",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 783,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115610698306809986471\"\u003eSuper Soir Ancienne-Lorette\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBDhJqsQ-cYJjsUGD6y9DKSggxVLeAVp2IBZ6Q8twzyEc4XYf3PV4XuM4D9Cinfew0xqVJroHtXOxcVR3eEzSvvbYCGQDq5HKHJqk2LxJfTw1w8tufNz8Hah2hh1JL8FLsVUpzC_L_1GdNJJi75UzXnD_u3FW_K6A2u60ItQwI9OWhl",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJ4TH6tQyZuEwRa_32QcO2law",
+         "plus_code" : {
+            "compound_code" : "RJ58+GP Quebec City, QC, Canada",
+            "global_code" : "87RCRJ58+GP"
+         },
+         "rating" : 1,
+         "reference" : "ChIJ4TH6tQyZuEwRa_32QcO2law",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "1799 Route de l'Aéroport, Québec"
+      }
+   ],
+   "status" : "OK"
+}

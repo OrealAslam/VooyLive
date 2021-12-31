@@ -16,9 +16,9 @@ class UniversalLibrary extends Model
         FROM
             `universal_library`";
         if ($city)
-            $sql .= "WHERE LOWER(city) like '" . $city . "' ";
+            $sql .= " WHERE LOWER(city) like '" . str_replace("'","\'",$city) . "' ";
         else
-            $sql .= "WHERE 1 ";
+            $sql .= " WHERE 1 ";
         $sql .= "HAVING `distance` <= " . config('app.radius') . "
             ORDER BY `distance` ASC
             LIMIT ?";

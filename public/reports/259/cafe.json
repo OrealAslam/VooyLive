@@ -1,0 +1,88 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.8097118,
+               "lng" : -71.3681438
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.81099093029149,
+                  "lng" : -71.36709201970849
+               },
+               "southwest" : {
+                  "lat" : 46.8082929697085,
+                  "lng" : -71.3697899802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Boutique Europa Cafes",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3780,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110897746595153045819\"\u003eBoutique Cafés Europa\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECBO-RDZlIo37y06_q1jTueS_X_1_ia40FL99JblfJ5EROKSYuDiQ-QyeQqVxESeThn6hmtYmDXg8LYsRTMjjFrnmRwf9hmhS9oDuWUI7q0H80IJ-21YSJ5KkR6w3vsdoY5KYoMaZV2JewQmW8snjW9y4koiA17nIzwV2DXpoWtLQz5",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJORz8N7mZuEwR1ikPLzFQukA",
+         "plus_code" : {
+            "compound_code" : "RJ5J+VP L'Ancienne-Lorette, QC, Canada",
+            "global_code" : "87RCRJ5J+VP"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJORz8N7mZuEwR1ikPLzFQukA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 90,
+         "vicinity" : "1875 Rue Notre-Dame, L'Ancienne-Lorette"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.8145412,
+               "lng" : -71.3599069
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8158901802915,
+                  "lng" : -71.3585579197085
+               },
+               "southwest" : {
+                  "lat" : 46.8131922197085,
+                  "lng" : -71.36125588029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Distributrices MS",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJmzMOK7aZuEwRs5fgnwKo-GQ",
+         "plus_code" : {
+            "compound_code" : "RJ7R+R2 L'Ancienne-Lorette, QC, Canada",
+            "global_code" : "87RCRJ7R+R2"
+         },
+         "reference" : "ChIJmzMOK7aZuEwRs5fgnwKo-GQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "1101 Rue de la Détente, L'Ancienne-Lorette"
+      }
+   ],
+   "status" : "OK"
+}
