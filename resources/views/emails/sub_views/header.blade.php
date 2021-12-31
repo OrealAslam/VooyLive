@@ -105,7 +105,7 @@
 																			<td valign="top" align="center">
 																				<div class="contentEditableContainer contentImageEditable" style="margin: 0;">
 																					<div class="contentEditable" style="margin: 0;">
-																						<img align="ce" alt="Our Logo" src="{{ asset('img/VOOY.png')}}" width="200" style="max-width: 600px;padding-bottom: 0;display: inline !important;vertical-align: bottom;border: 0 !important;outline: none !important;" class="mcnImage">
+																						<img align="ce" alt="Our Logo" src="{{ asset('img/dharro.png')}}" width="200" style="max-width: 600px;padding-bottom: 0;display: inline !important;vertical-align: bottom;border: 0 !important;outline: none !important;" class="mcnImage">
 																					</div>
 																				</div>
 																			</td>

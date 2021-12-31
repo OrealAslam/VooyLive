@@ -7,6 +7,16 @@ $cat = $category->orderBy('type','asc')->first();
     <!-- <li><a href="{{-- url('/') --}}">Home</a></li> -->
     <!-- <li><a href="{{-- Route('page.hdi') --}}">HDI</a></li> -->
     <li><a href="{{ url('/about') }}">About</a></li>
+    <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+        <span id="selected">Products</span><span class="caret"></span></a>
+        <ul class="dropdown-menu">
+            <li><a href="{{ url('/productdetail') }}">Community Feature Sheet®</a></li>
+            <li><a href="{{ route('property.feature.sheets.detail') }}">Property Feature Sheet</a></li>
+            <li><a href="{{ route('home.details.infographic.detail') }}">Home Detail Infographic</a></li>
+            <li><a href="{{ route('survey-detail') }}">REALTORS® Market Sentiment Survey</a></li>           
+        </ul>
+    </li>
     <!-- <li><a href="{{-- url('/productdetail') --}}">Product Details</a></li> -->
     <!-- <li><a href="{{-- url('/faqs') --}}">FAQs</a></li> -->
     <!-- <li><a href="{{-- url('/termsconditions') --}}">Terms & Conditions</a></li> -->

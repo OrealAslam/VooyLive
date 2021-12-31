@@ -53,7 +53,7 @@
 
                         Your proof is now ready. If you are satisfied with the design as it is, this is a print-ready file. <br>
                         Use Adobe to view your proof for the best results.<br>
-                        <a href="{{ Route('profileview') }}">Check my account</a><br><br>
+                        <a href="{{ Route('profileview') }}" style="background-color: #ea2349;color:#fff;border-radius:15px;padding:4px 7px;font-size:10px;text-decoration: none;" class="btn btn-default">Check my account</a><br><br>
 
                         6 Quick tips... For printing Community Feature Sheets®. <br><br>
 

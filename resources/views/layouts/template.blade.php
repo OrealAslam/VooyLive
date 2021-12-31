@@ -59,7 +59,7 @@
                         <span class="icon-bar"></span>
                     </button> 
                     <a class="navbar-brand" href="/">
-                        <img src="{{ url('img/VOOY.png')}}" class="logo-header-menu" alt="Community Feature Sheet&reg;">
+                        <img src="{{ url('img/dharro.png')}}" style="padding-left: 20px" class="logo-header-menu" alt="Community Feature Sheet&reg;">
                     </a>                   
                 </div>
 
