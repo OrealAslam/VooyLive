@@ -11,8 +11,11 @@
 			<td width="100%" style="display: none;">	
 				<div style="width:102% !important; border-collapse: separate;">
 					<tr style="width:100% !important;">
-						<td style="padding:15px;">
+						<td style="padding:15px;border:1px solid #d2d2d2;">
 						<p style="padding:0px 15px 8px 0px;margin:0px;">Remaining Credit : <strong>${{ $userCredit }}</strong> <a href="{{ url('/order/'.$orderMoreCredit->slug) }}?type=orderMoreCredit" style="background-color: #ea2349;color:#fff;border-radius:15px;padding:4px 7px;font-size:10px;text-decoration: none;margin-left: 10px;" class="btn btn-primary">Get More Credit</a></p>
+						</td>
+						<td style="border:1px solid #d2d2d2;">
+						<p style="padding:0px 15px 8px 0px;margin:0px;"><a href="{{ URL::Route('survey') }}" style="background-color: #ea2349;color:#fff;border-radius:15px;padding:4px 7px;font-size:10px;text-decoration: none;margin-left: 10px;" class="btn btn-primary">Take Survey</a></p>
 						</td>
 					</tr>
 				</div>
