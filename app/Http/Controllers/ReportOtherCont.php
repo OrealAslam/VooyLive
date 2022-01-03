@@ -77,6 +77,7 @@ class ReportOtherCont extends ReportApiCont
 
 
         $data['averageIncome'] = $data['average_total_income'];
+        $data['household_with_child']=$data['couples_without_child'] && $data['couples_with_child'] ? round(($data['couples_with_child']/($data['couples_without_child']+$data['couples_with_child']))*100,2):'n/a';
         $data['household'] = $data['household'];
         $data['rentalVsOwned'] = $this->getRentalVsOwned($data);
         $data['medianAge'] = $data['medianage'];

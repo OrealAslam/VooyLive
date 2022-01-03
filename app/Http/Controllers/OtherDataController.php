@@ -189,6 +189,8 @@ class OtherDataController extends Controller
             'college_cegep_certificate' => ($data[1704][13] ? $data[1704][13] : 0),
             'apprenticeship_certificate' => ($data[1701][13] ? $data[1701][13] : 0),
             'no_certificate' => ($data[1698][13] ? $data[1698][13] : 0),
+            'couples_with_child' => ($data[82][13] ? $data[82][13] : 0),
+            'couples_without_child' => ($data[81][13] ? $data[81][13] : 0),
 
         ];
 

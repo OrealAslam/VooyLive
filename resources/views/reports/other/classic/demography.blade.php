@@ -22,19 +22,9 @@
 							</svg>
 
 						</div>
-						<div class="demographics-title colord" style="display: inline-block; margin-top: 18px; vertical-align: top;">Rental vs Owned</div>
+						<div class="demographics-title colord" style="display: inline-block; margin-top: 18px; vertical-align: top;">HOUSEHOLDS WITH CHILDREN</div>
 						<h3 class="colord" style="margin: 0;">
-							@if (isset($rentalVsOwned) && isset($rentalVsOwned['percentHouseRented']) && $rentalVsOwned['percentHouseRented'] != 0)
-								{{$rentalVsOwned['percentHouseRented']}}%
-							@else
-								N/A
-							@endif
-							/
-							@if (isset($rentalVsOwned) && isset($rentalVsOwned['percentHouseOwned']) && $rentalVsOwned['percentHouseOwned'] != 0)
-								{{$rentalVsOwned['percentHouseOwned']}}%
-							@else
-								N/A
-							@endif
+							{{$household_with_child}}%
 						</h3>
 					</td>
 					<td class="col-xs-3">

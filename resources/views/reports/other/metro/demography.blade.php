@@ -9,19 +9,10 @@
             <div class="col-lg-3 col-md-3 col-sm-3 demographics-text backgroundd">
                 <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12 text colorb font-raleway">
-                        Rental vs Owned
+                       Households With Children
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 percent1 colorb">
-						@if (isset($rentalVsOwned) && isset($rentalVsOwned['percentHouseRented']) && $rentalVsOwned['percentHouseRented'] != 0)
-							{{round($rentalVsOwned['percentHouseRented'])}}% vs
-						@else
-							N/A vs
-						@endif
-						@if (isset($rentalVsOwned) && isset($rentalVsOwned['percentHouseOwned']) && $rentalVsOwned['percentHouseOwned'] != 0)
-							{{round($rentalVsOwned['percentHouseOwned'])}}%
-						@else
-							N/A
-						@endif
+						{{$household_with_child}}%
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 text colorb">
                         MEDIAN AGE
