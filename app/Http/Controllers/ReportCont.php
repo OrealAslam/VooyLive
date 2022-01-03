@@ -111,7 +111,7 @@ class ReportCont extends Controller
 
                                     //apply tax
                                     //echo $reportPrice.'<br>';
-                                    $tax = ($user->City->Province->tax / 100);
+                                    $tax = (5 / 100);
                                     //echo $tax.'<br>';
                                     $taxAmount = ($tax * $reportPrice);
                                     //echo $taxAmount.'<br>';
