@@ -161,6 +161,18 @@
                             that.params.is_route = true;
                         }
                     }
+                    if (value.types[0] == 'street_number') {
+                        that.params.street_number = value.short_name;
+                    }
+                    if (value.types[0] == 'route') {
+                        that.params.route = value.short_name;
+                    }
+                    if (value.types[0] == 'locality') {
+                        that.params.locality = value.short_name;
+                    }
+                    if (value.types[0] == 'administrative_area_level_1') {
+                        that.params.administrative_area_level_1 = value.short_name;
+                    }
                     /*is_house_number : false,*/
                 });
                 //that.showDebug('end-checkCountryAndCity', );
@@ -206,7 +218,7 @@
                                         $.ajax({
                                             dataType:'json',
                                             type:'post',
-                                            data:'_token={{ csrf_token() }}&long='+that.params.place.geometry.location.lng()+'&postal_code='+that.params.postal_code+'&lat='+that.params.place.geometry.location.lat()+'&address='+that.params.place.formatted_address+'&discount='+$('#discount').val()+'&report_city='+that.params.report_city+'&province='+that.params.province,
+                                            data:'_token={{ csrf_token() }}&long='+that.params.place.geometry.location.lng()+'&postal_code='+that.params.postal_code+'&lat='+that.params.place.geometry.location.lat()+'&address='+that.params.place.formatted_address+'&discount='+$('#discount').val()+'&report_city='+that.params.report_city+'&province='+that.params.province+'&street_number='+that.params.street_number+'&route='+that.params.route+'&locality='+that.params.locality+'&administrative_area_level_1='+that.params.administrative_area_level_1,
                                             url:"{{ URL::route('checkUserReportAccess') }}",
                                             beforeSend:function(){
                                                 that.showLoading();
@@ -262,7 +274,7 @@
             },
             generateReport : function () {
                 that.showDebug('generateReport');
-                var ajaxParams = '_token={{ csrf_token() }}&long='+that.params.place.geometry.location.lng()+'&postal_code='+that.params.postal_code+'&lat='+that.params.place.geometry.location.lat()+'&address='+that.params.place.formatted_address+'&discount='+$('#discount').val()+'&report_city='+that.params.report_city+'&province='+that.params.province;
+                var ajaxParams = '_token={{ csrf_token() }}&long='+that.params.place.geometry.location.lng()+'&postal_code='+that.params.postal_code+'&lat='+that.params.place.geometry.location.lat()+'&address='+that.params.place.formatted_address+'&discount='+$('#discount').val()+'&report_city='+that.params.report_city+'&province='+that.params.province+'&street_number='+that.params.street_number+'&route='+that.params.route+'&locality='+that.params.locality+'&administrative_area_level_1='+that.params.administrative_area_level_1;
                 var editParams = '';
                 if ($('#edit_report_address').val() == 'address') {
                     editParams += '&edit_report_address=address';

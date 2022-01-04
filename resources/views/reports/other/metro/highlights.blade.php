@@ -204,8 +204,13 @@
     </div>
     <div class="header section font-raleway" id="header">
         <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12 address text-editable" data-field-id="custom_report_address">
-                <span class="colora content addressText" style="line-height: 1em !important;"><?=str_replace(', Canada', ' ', !empty($orderData->custom_report_address) ? $orderData->custom_report_address : $report->address)?></span>
+            <div class="col-lg-12 col-md-12 col-sm-12 address text-editable" data-field-id="">
+                <span class="colora content addressText" style="line-height: 1em !important;">{{$report->street_number.' '.$report->route}},</span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 address text-editable" data-field-id="">
+            <span class="colora content addressText" style="line-height: 1em !important;">{{$report->locality. ', ' .$report->administrative_area_level_1}}</span>
             </div>
         </div>
         <div class="row">
@@ -317,7 +322,7 @@
             </div>
             -->
             <div class="col-lg-7 col-md-7 col-sm-7 title2 backgroundd colorb font-raleway text-right">
-                <?=str_replace(', Canada', ' ', !empty($orderData->custom_report_address) ? $orderData->custom_report_address : $report->address)?>
+            <?=str_replace(', Canada', ' ', !empty($orderData->custom_report_address) ? $orderData->custom_report_address : $report->address)?>
             </div>
         </div>
         <div class="row">
@@ -598,10 +603,10 @@
                 $('.addressText').addClass('font-size-addess');
                 $('.text-editable').addClass('addess-box');
             }
-            var str = $(".addressText").text();
-            var strReplace = str.replace(", Canada", "");
-            $('.addressText').text(''); 
-            $('.addressText').append(strReplace);
+            // var str = $(".addressText").text();
+            // var strReplace = str.replace(", Canada", "");
+            // $('.addressText').text(''); 
+            // $('.addressText').append(strReplace);
         });
     </script>
 @endsection

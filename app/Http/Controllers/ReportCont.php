@@ -61,6 +61,10 @@ class ReportCont extends Controller
                 $report->lat = $request->lat;
                 $report->address = $request->address;
                 $report->postal_code = $request->postal_code;
+                $report->street_number = $request->street_number;
+                $report->route = $request->route;
+                $report->locality = $request->locality;
+                $report->administrative_area_level_1 = $request->administrative_area_level_1;
                 $report->city_id = $city_id;
                 $report->status = 0;
                 $report->save();

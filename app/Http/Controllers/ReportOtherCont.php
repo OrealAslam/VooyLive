@@ -276,6 +276,8 @@ class ReportOtherCont extends ReportApiCont
             $value = $response->results[0];
                 $distance = $this->distance($report->lat, $report->long, $value->geometry->location->lat, $value->geometry->location->lng, 'K');
                 $response = array('distance' => $distance, 'name' => $value->name, 'vicinity' => $value->vicinity);
+        } else {
+            return null;
         }
         return $response;
     }
@@ -297,6 +299,8 @@ class ReportOtherCont extends ReportApiCont
             $value = $response->results[0];
                 $distance = $this->distance($report->lat, $report->long, $value->geometry->location->lat, $value->geometry->location->lng, 'K');
                 $response = array('distance' => $distance, 'name' => $value->name, 'vicinity' => $value->vicinity);
+        }else {
+            return null;
         }
 
 
