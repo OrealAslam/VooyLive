@@ -105,7 +105,7 @@
 					<td class="col-xs-3">
 						<h3 class="colord">
 							@if (isset($averageIncome))
-								$ {{$averageIncome}}
+								$ {{ number_format($averageIncome) }}
 							@else
 								N/A
 							@endif
