@@ -14,6 +14,7 @@ use PDF;
 use Auth;
 use Session;
 use App\UniversalRecreation;
+use App\UniversalSchool;
 use App\UniversalLibrary;
 
 class ReportOtherCont extends ReportApiCont
@@ -187,29 +188,8 @@ class ReportOtherCont extends ReportApiCont
         return ['response' => null];
 
     }
-    public function getSchoolData($reportId, $template = 'classic')
-    {
-        $data['elementerySchool'] = $this->getElementerySchool($reportId);
-        $data['juniorSchool'] = $this->getJuniorSchool($reportId);
-        $data['highSchool'] = $this->getHighSchool($reportId);
 
-        return $data;
-    }
-    public function getElementerySchool($reportId, $template = 'classic')
-    {
-        return array();
-        
-    }
-    public function getJuniorSchool($reportId, $template = 'classic')
-    {
-        return array();
-        
-    }
-    public function getHighSchool($reportId, $template = 'classic')
-    {
-        return array();
-        
-    }
+    
     public function getPlaygrounddata($reportId, $template = 'classic')
     {
         $report = Report::findOrfail($reportId);
@@ -247,6 +227,17 @@ class ReportOtherCont extends ReportApiCont
         return ['response' => $response[0]];
         else
         return ['response' => null];
+    }
+    public function getSchoolData($reportId, $template = 'classic')
+    {
+        $report = Report::findOrfail($reportId);
+        $school = new UniversalSchool();
+
+        $data['elementerySchool'] = $school->getElementarySchool($report->long,$report->lat,$report->City->name);
+        $data['juniorSchool'] = $school->getJuniorSchool($report->long,$report->lat,$report->City->name);
+        $data['highSchool']= $school->getHighSchool($report->long,$report->lat,$report->City->name);
+  
+        return $data;
     }
     public function getTransitData($reportId, $template = 'classic')
     {

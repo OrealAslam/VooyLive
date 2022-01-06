@@ -4,7 +4,7 @@
 	</div>					
 
 	<div class="row text-center">
-		<p><strong>Name:</strong> {{ $elementerySchool->school_name }}</p>
+		<p><strong>Name:</strong> {{ $elementerySchool->name }}</p>
 		<p><strong>Address:</strong> {{ $elementerySchool->address }}</p>
 		<p><strong>Grade:</strong> {{ $elementerySchool->grades_offered }}</p>
 		<div>
@@ -16,7 +16,7 @@
 		<h4>High</h4>
 	</div>					
 	<div class="row text-center">
-		<p><strong>Name:</strong> {{ $highSchool->school_name }}</p>
+		<p><strong>Name:</strong> {{ $highSchool->name }}</p>
 		<p><strong>Address:</strong> {{ $highSchool->address }}</p>
 		<p><strong>Grade:</strong> {{ $highSchool->grades_offered }}</p>
 		<div>
