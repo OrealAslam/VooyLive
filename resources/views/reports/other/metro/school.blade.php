@@ -127,7 +127,7 @@
                         <div class="col-lg-12 col-md-12 col-sm-12">
                             <div class="row">
                                 <div class="school-name color-black">
-                                    {{ !empty($elementerySchool->school_name) ? $elementerySchool->school_name : 'N/A' }}
+                                    {{ !empty($elementerySchool->name) ? $elementerySchool->name : 'N/A' }}
                                 </div>
                             </div>
                         </div>
@@ -185,7 +185,7 @@
                         <div class="col-lg-12 col-md-12 col-sm-12">
                             <div class="row">
                                 <div class="school-name color-black">
-                                    {{ !empty($juniorSchool->school_name) ? $juniorSchool->school_name : 'N/A' }}
+                                    {{ !empty($juniorSchool->name) ? $juniorSchool->name : 'N/A' }}
                                 </div>
                             </div>
                         </div>
@@ -252,7 +252,7 @@
                         <div class="col-lg-12 col-md-12 col-sm-12">
                             <div class="row">
                                 <div class="school-name color-black">
-                                    {{ !empty($highSchool->school_name) ? $highSchool->school_name : 'N/A' }}
+                                    {{ !empty($highSchool->name) ? $highSchool->name : 'N/A' }}
                                 </div>
                             </div>
                         </div>
