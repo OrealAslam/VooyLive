@@ -352,12 +352,7 @@
                 setTimeout('loadNeighbourHoodMap()', 2000);
             });
         </script>
-    @elseif($page == 'commingNext')
-        <script type="text/javascript">
-            $(document).ready(function(){
-                loadCoverageMap();
-            });
-        </script>
+    
     @endif
 @endif
 @if(isset($page))
