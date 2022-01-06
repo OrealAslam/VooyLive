@@ -37,7 +37,7 @@
 				</div>
 			</td>
 			<td class="col-xs-4 text-center">
-				<div class="demographics-title colord">BUS STOP</div><br>
+				<div class="demographics-title colord">Bus Stop</div><br>
 				<p><strong>Name: </strong> {{ (!empty($bus_station) && !empty($bus_station['name'])) ? $bus_station['name'] : 'N/A' }}</p>
 				<p><strong>Address: </strong> {{ (!empty($bus_station) && !empty($bus_station['vicinity'])) ? $bus_station['vicinity'] : 'N/A' }}</p>
 				<div>
