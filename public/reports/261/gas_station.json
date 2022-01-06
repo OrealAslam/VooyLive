@@ -5,53 +5,6 @@
          "business_status" : "OPERATIONAL",
          "geometry" : {
             "location" : {
-               "lat" : 43.6361782,
-               "lng" : -79.39971829999999
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 43.6375784802915,
-                  "lng" : -79.39828946970849
-               },
-               "southwest" : {
-                  "lat" : 43.6348805197085,
-                  "lng" : -79.40098743029149
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
-         "icon_background_color" : "#909CE1",
-         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
-         "name" : "Esso",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 4032,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/112172538652880033057\"\u003eAkrom\u003c/a\u003e"
-               ],
-               "photo_reference" : "Aap_uEBkWdYC26eLLQRWV63TTDuvgvv1q_B65z_zsVOweYLESMOo4vdsQJTZSFwLrU0gKf7iYJbh4F7lnrZDjfBr6uK6TrR1YkRcqe2abPANxYaHBhL-TpZra6Jmx-Yck3Nq3nPFS3mZh_coCWlP0FlBQSZnUXQ9LzgvQOZWUOac2aDDAkd9",
-               "width" : 3024
-            }
-         ],
-         "place_id" : "ChIJNdID2yM1K4gR4aBmd8wCatc",
-         "plus_code" : {
-            "compound_code" : "JJP2+F4 Toronto, ON, Canada",
-            "global_code" : "87M2JJP2+F4"
-         },
-         "rating" : 3.8,
-         "reference" : "ChIJNdID2yM1K4gR4aBmd8wCatc",
-         "scope" : "GOOGLE",
-         "types" : [ "gas_station", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 384,
-         "vicinity" : "553 Lake Shore Boulevard West, Toronto"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
                "lat" : 43.656817,
                "lng" : -79.376969
             },
@@ -79,7 +32,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/105395482879654461975\"\u003eMike C\u003c/a\u003e"
                ],
-               "photo_reference" : "Aap_uEB-jtI0KJIcY4uWJHA3ovYIQmmFsAcys0aeeSYSdse6J9ywdIV8u19AWOrxJbzKUawwAiLEAze4zgDlqUY7wfn1SUxJhpjFWsNqukiOPtS68VrBkt7vkyk4QHvP393DyNWHNX3UJw946khlJyn2-xw7-IyYmCVyWc1jZkvg3Z2YoVOs",
+               "photo_reference" : "Aap_uECOEhqP5ZHzC4hkPG_dfkLaWPFlpnmbGieAJoNvDwEsrkyAxp978Uk0eMMcyMQoW8wd9GpJKGL-9a8zZ6MVtXFNMQIOvSgge9-M_-DwKoEX--VWLlTeZxQJ15TYWx99SZiBOCPjJSRlXZPkSM_7KSri5WZqln56_MJm-45zMSpuK0LE",
                "width" : 3024
             }
          ],
@@ -92,8 +45,113 @@
          "reference" : "ChIJG1DGpTXL1IkRco_TADv3R9E",
          "scope" : "GOOGLE",
          "types" : [ "gas_station", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 304,
+         "user_ratings_total" : 303,
          "vicinity" : "241 Church Street, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6548586,
+               "lng" : -79.3636434
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6562153302915,
+                  "lng" : -79.36223966970849
+               },
+               "southwest" : {
+                  "lat" : 43.6535173697085,
+                  "lng" : -79.36493763029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100716694660632176073\"\u003eX44\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAK9FOVHvXg12jB4xoP7O2YtMIGlo4NteAd7TVlG5FJnlnVfHxvOTN1LHUuFI-Z-iwPy9N3spmPk75RAPNv6I24FABM13isdUt-w2THS8aiVJJshYVvGdYlYhH1nkICPBNQ0mLpkuArATyt-g-BznJ225ZcZaXHif4KOa9OS0iFCHUc",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJyW-V1DjL1IkRW95AEyyfwM4",
+         "plus_code" : {
+            "compound_code" : "MJ3P+WG Toronto, ON, Canada",
+            "global_code" : "87M2MJ3P+WG"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJyW-V1DjL1IkRW95AEyyfwM4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "convenience_store",
+            "meal_delivery",
+            "finance",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 140,
+         "vicinity" : "548 Richmond Street East, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6361782,
+               "lng" : -79.39971829999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6375784802915,
+                  "lng" : -79.39828946970849
+               },
+               "southwest" : {
+                  "lat" : 43.6348805197085,
+                  "lng" : -79.40098743029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112172538652880033057\"\u003eAkrom\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAv94VT8j4XaVp_24e3ydwQ7VqIGB1XvqxSVQ_NrmBF4Ywm73tEtxrJA9_ZgaxNfhxV0QVHTcyoiY_9jGSkLkiKrJL2V0mZyhDpX2LKEHxR37mg4RoYJSHec8nvyXLtRAxe00Rv5gjTuC7tlPbeBpxy_3VZH-AaW00waRB9zPIKlmLc",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJNdID2yM1K4gR4aBmd8wCatc",
+         "plus_code" : {
+            "compound_code" : "JJP2+F4 Toronto, ON, Canada",
+            "global_code" : "87M2JJP2+F4"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJNdID2yM1K4gR4aBmd8wCatc",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 384,
+         "vicinity" : "553 Lake Shore Boulevard West, Toronto"
       },
       {
          "business_status" : "OPERATIONAL",
@@ -123,7 +181,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/102553769511302489247\"\u003eAndroid Dave\u003c/a\u003e"
                ],
-               "photo_reference" : "Aap_uEBqqK-NuGMy8Nyc4-8unqEY0BOSf2MY3F-agETjAmrosfXSHoGycbSWrHjadvlQiX4ubMtIeBT8EUOyagtS8N-e64e_pcNDXYg-1t1lRcEG8VUdA2SjMiY-eFpkzIEmUHxwhaFzsMHrMDEHjajKmjINJbyAatFi8oXwPMVB_mF_Jjir",
+               "photo_reference" : "Aap_uEAaxgOGzPAUzBJ6rxNEng9PoYwyBAKlc--Gb_rDeTvZFIKYyzZ_lCu-r8P9ngIXzqICbD4ycaJk-PzgPg1DH05pncRoccyYtIwDWnn-qb8TgJEXzfijMHVXFrjz3Q-HZKs8Cs9GzyPxiGHzTlcLdJZ8mPdOpKJdwRxx1SFFeC62Nh6p",
                "width" : 3024
             }
          ],
@@ -166,12 +224,12 @@
          },
          "photos" : [
             {
-               "height" : 1580,
+               "height" : 3024,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/104670013301860767897\"\u003eBen Aerssen\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105644538778724590931\"\u003eLeonard E\u003c/a\u003e"
                ],
-               "photo_reference" : "Aap_uEAzT0wJN6lsCpd4fsQZVRYLrDQsUcZD3bZLkULKc2HaGNv6FVKnr5FZl4BiwlsiW17Vy0GVtSONRXi-ypymFMUq4cVM5uOl-0LqQpLgmWeErFubVuKNedxME4gnOO5KX4twrRCTlH-SqTjEsPYuOomawIt7P2UCzuUMhkkKh9rVpzXS",
-               "width" : 2370
+               "photo_reference" : "Aap_uEDkyVnEkYksJObfeB9Bm7VucKIQg3aKlyXZmExrRZJO_CdazWWA3o0jCj5Mp6dLtWdshaUaXUlsFfka96ybLVWZa93gfbIShvZ1doQ2NDo9Qhl8xqMvArLlHd5nAY-gd1qN3pdNrKS8HB0hLyyNgFISEzNPrWx-ukS-VhKR-SYHNpci",
+               "width" : 4032
             }
          ],
          "place_id" : "ChIJv1nLC9k0K4gRbxJTCUZ16aE",
@@ -228,7 +286,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/114452501601141533456\"\u003eThasan Amir\u003c/a\u003e"
                ],
-               "photo_reference" : "Aap_uEBSioPbiC9Z0ZjodZKuLL-kEmLZsZ5f85eDPtow2IQMPS1b_Xe3pswEfhmxK5mpuMDXVB5Mvey9UBLi5U-k4dgsAU0uT6Ax7G-U6gLQcRGAKPnaQc6qVMGx33JfeR2KLi-i0RG7rwQ7YFTd8AJ6a8uRUXwMvYUOEjpf7JqipdYqhh6I",
+               "photo_reference" : "Aap_uECDccOPJTv1p6F_oVEbhXY8Gocw3_8oJ2oN-pd0L0oY7C3Qhf2oedX3IcqaHIlGM1lG8HMcHiTpgGoC9kzNYZd_pmLDtFum8JKuNkOh0A25uBoBiuR8E2P0WGJK7pjFPPnTyJem-3jNv0kCRR0SwrfaZX_ylphKdN07iu_R4-2_3csM",
                "width" : 3375
             }
          ],
@@ -282,7 +340,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/113036725207736941957\"\u003eChuan Chee\u003c/a\u003e"
                ],
-               "photo_reference" : "Aap_uECn9Ib-o6vJctfe8Y_qa0EdBfrcx6tniMT1EsNKd__dBDSqdAywKwi6fkIRl7SYuaB37oQFhHSbifo-cV-xwrxLLJt09nropWFjuoxYrXSXl4JYZzne7kDh3yNK8FGSfAvf4R8XNKiV5xqMJIaXSu5eQOPhpXrFGtakhNr8E4a5gOm6",
+               "photo_reference" : "Aap_uEDYYUQL01am-fkZW5AtjYTaGw7os4jnTPOe2pvh_DwFL36ZYyd0EUMIzrH85AJSQUcrnUz9KsGIS4jZcQnpOIWX3ttgF0RlitQvVv2acFKED0qo20ujeCPYtFhWeyTEwAxmTydi7Xlu9tlrQ8Tq9XbkS9BwwHQ7nuC6qRSpDmZrUjuq",
                "width" : 4032
             }
          ],
@@ -375,111 +433,6 @@
          "business_status" : "OPERATIONAL",
          "geometry" : {
             "location" : {
-               "lat" : 43.636038,
-               "lng" : -79.39947939999999
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 43.6373869802915,
-                  "lng" : -79.39813041970848
-               },
-               "southwest" : {
-                  "lat" : 43.6346890197085,
-                  "lng" : -79.4008283802915
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
-         "icon_background_color" : "#4B96F3",
-         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
-         "name" : "Circle K",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 3456,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/112942586853670715121\"\u003eGlenn Dickler\u003c/a\u003e"
-               ],
-               "photo_reference" : "Aap_uEDelTD25i7fngu22NUo6GKJ2saUH6i1ycOHBuiZus3FyPVMEqtOBFiGT1dQQDhfpJ-lnkuVhLz7NiXhfB1E7N9d62wXEgWWvMQDSLSOXmPSDbp7CRopJezVZ2Y-U57rs5lsjgIbb13QF4l7Z8-_hKiF1WRHWAwXYjGW1yHMAlA4_iHX",
-               "width" : 4608
-            }
-         ],
-         "place_id" : "ChIJ5Vmn1iM1K4gRR7vsrmurS84",
-         "plus_code" : {
-            "compound_code" : "JJP2+C6 Toronto, ON, Canada",
-            "global_code" : "87M2JJP2+C6"
-         },
-         "price_level" : 1,
-         "rating" : 3.7,
-         "reference" : "ChIJ5Vmn1iM1K4gRR7vsrmurS84",
-         "scope" : "GOOGLE",
-         "types" : [
-            "convenience_store",
-            "atm",
-            "car_wash",
-            "gas_station",
-            "finance",
-            "food",
-            "point_of_interest",
-            "store",
-            "establishment"
-         ],
-         "user_ratings_total" : 7,
-         "vicinity" : "553 Lake Shore Boulevard West, Toronto"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : 43.650709,
-               "lng" : -79.36757600000001
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 43.6519445802915,
-                  "lng" : -79.36615946970851
-               },
-               "southwest" : {
-                  "lat" : 43.6492466197085,
-                  "lng" : -79.36885743029151
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
-         "icon_background_color" : "#909CE1",
-         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
-         "name" : "Esso",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 3000,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/109325482791434756165\"\u003eVenus Ayca Kartal\u003c/a\u003e"
-               ],
-               "photo_reference" : "Aap_uEDazwGuBoAVv31_9Nt6KtiJVie8R1_nwsKllpGenp2tqFCXN-G2fTDI-nOFz9Q7hQ2XfKnOkV6BlefkPSowhM6TYQiIA3huofhqhWF6GifxGVtjdIbVqly8PYg5ErwaZRdtgT12kmFWK-iYAXnYUTAZMItgVqzA9q7rhWe5dz3OA_c-",
-               "width" : 4000
-            }
-         ],
-         "place_id" : "ChIJScLYYDrL1IkR7DVk4WI93Sc",
-         "plus_code" : {
-            "compound_code" : "MJ2J+7X Toronto, ON, Canada",
-            "global_code" : "87M2MJ2J+7X"
-         },
-         "rating" : 3.8,
-         "reference" : "ChIJScLYYDrL1IkR7DVk4WI93Sc",
-         "scope" : "GOOGLE",
-         "types" : [ "gas_station", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 338,
-         "vicinity" : "176 Front Street East, Toronto"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
                "lat" : 43.6568186,
                "lng" : -79.376785
             },
@@ -507,7 +460,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/118359058890928975240\"\u003eJustin Mak\u003c/a\u003e"
                ],
-               "photo_reference" : "Aap_uECBXCJm0H2StcIZGXUzIWQP_0HAc50xMTX2QBedgM_Q5N7VlAlXGvGlt3n2evYc6bJjwEoJXH7TNm1c9OTF1flW6wkadIAIfCtEutgvnAC_o-eCHR1oYMIJAsCTN2sUfesR4C0JpO4H12zgCHBPwbyBRBHCVjSPe2Zz5GOGJ3CDWga4",
+               "photo_reference" : "Aap_uEAJeAfjix6bfwnhlwqw1zA0KLOABgzqmotk-ZxbiS7ATUbvpTq5VcgTKjX11PDz6VM9lzTGQztdx3nf3z92UGv015PC2cunAKfxP_ChMtd62yVhFFyGMEYq0UdKt_46WYK0TxyPm668nOzt5whaeW6JUPIdd5PUHBfFdU8hlj33CZFL",
                "width" : 4030
             }
          ],
@@ -534,38 +487,107 @@
          "vicinity" : "241 Church Street, Toronto"
       },
       {
-         "business_status" : "OPERATIONAL",
+         "business_status" : "CLOSED_TEMPORARILY",
          "geometry" : {
             "location" : {
-               "lat" : 43.62375670000001,
-               "lng" : -79.38133809999999
+               "lat" : 43.650709,
+               "lng" : -79.36757600000001
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 43.6251056802915,
-                  "lng" : -79.37998911970848
+                  "lat" : 43.6519445802915,
+                  "lng" : -79.36615946970851
                },
                "southwest" : {
-                  "lat" : 43.62240771970851,
-                  "lng" : -79.3826870802915
+                  "lat" : 43.6492466197085,
+                  "lng" : -79.36885743029151
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
          "icon_background_color" : "#909CE1",
          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
-         "name" : "Fuel Dock Toronto Island Marina",
-         "place_id" : "ChIJRURvxDQ1K4gRJFRC17pzwN8",
+         "name" : "Esso",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109325482791434756165\"\u003eVenus Ayca Kartal\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC3_B2rfGmczQfoBg_q_9kzQIBnP2FwTbh0-K66pcqRi3NgbFjddcUrXHeogpaZUMc9ijmxooGq9TzgMZoJMdc00PXCc9NJ6f8vvZe0f-aha-dToic8tPP2mf204crufGTCyFRPW-bavsXzVZUBZt0Nv8GizzvBaFA8rk8-zy4j52-j",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJScLYYDrL1IkR7DVk4WI93Sc",
          "plus_code" : {
-            "compound_code" : "JJF9+GF Toronto, ON, Canada",
-            "global_code" : "87M2JJF9+GF"
+            "compound_code" : "MJ2J+7X Toronto, ON, Canada",
+            "global_code" : "87M2MJ2J+7X"
          },
-         "rating" : 5,
-         "reference" : "ChIJRURvxDQ1K4gRJFRC17pzwN8",
+         "rating" : 3.8,
+         "reference" : "ChIJScLYYDrL1IkR7DVk4WI93Sc",
          "scope" : "GOOGLE",
          "types" : [ "gas_station", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 4,
-         "vicinity" : "2G4,, Toronto"
+         "user_ratings_total" : 339,
+         "vicinity" : "176 Front Street East, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.636038,
+               "lng" : -79.39947939999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6373869802915,
+                  "lng" : -79.39813041970848
+               },
+               "southwest" : {
+                  "lat" : 43.6346890197085,
+                  "lng" : -79.4008283802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "Circle K",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112942586853670715121\"\u003eGlenn Dickler\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEClilOmhgTTWHSzovi2_7j2B5MAxc8vHFOg8WbGqA0e4ZqYqLwAdM62pms5Mq22ZYY29DqWllnfCun11jk8g03L7uhT3Eq0g7Fypo-jr8SdVA4ZNVle3zrY_EhVtJ8cK4ZLRzipOXHCy1BOh0jBjlyrkdIHW6YWdhfKKoI2Dp06zTuz",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ5Vmn1iM1K4gRR7vsrmurS84",
+         "plus_code" : {
+            "compound_code" : "JJP2+C6 Toronto, ON, Canada",
+            "global_code" : "87M2JJP2+C6"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJ5Vmn1iM1K4gRR7vsrmurS84",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "atm",
+            "car_wash",
+            "gas_station",
+            "finance",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 7,
+         "vicinity" : "553 Lake Shore Boulevard West, Toronto"
       }
    ],
    "status" : "OK"

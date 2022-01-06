@@ -194,7 +194,7 @@
 						</div>
 						-->
 						<div id="elementary">
-							<p><strong>Name:</strong> {{ !empty($elementerySchool->school_name) ? $elementerySchool->school_name : 'N/A' }}</p>
+							<p><strong>Name:</strong> {{ !empty($elementerySchool->name) ? $elementerySchool->name : 'N/A' }}</p>
 							<p><strong>Address:</strong> {{ !empty($elementerySchool->address) ? $elementerySchool->address : 'N/A' }}</p>
 							<p><strong>Grade:</strong> {{ !empty($elementerySchool->grades_offered) ? $elementerySchool->grades_offered : 'N/A' }}</p>
 							<div>
@@ -210,7 +210,7 @@
 						</div>
 						-->
 						<div id="junior">
-							<p><strong>Name:</strong> {{ !empty($juniorSchool->school_name) ? $juniorSchool->school_name : 'N/A' }}</p>
+							<p><strong>Name:</strong> {{ !empty($juniorSchool->name) ? $juniorSchool->name : 'N/A' }}</p>
 							<p><strong>Address:</strong> {{ !empty($juniorSchool->address) ? $juniorSchool->address : 'N/A' }}</p>
 							<p><strong>Grade:</strong> {{ !empty($juniorSchool->grades_offered) ? $juniorSchool->grades_offered : 'N/A' }}</p>
 							<div>
@@ -226,7 +226,7 @@
 						</div>
 						-->
 						<div id="senior">
-							<p><strong>Name:</strong> {{ !empty($highSchool->school_name) ? $highSchool->school_name : 'N/A' }}</p>
+							<p><strong>Name:</strong> {{ !empty($highSchool->name) ? $highSchool->name : 'N/A' }}</p>
 							<p><strong>Address:</strong> {{ !empty($highSchool->address) ? $highSchool->address : 'N/A' }}</p>
 							<p><strong>Grade:</strong> {{ !empty($highSchool->grades_offered) ? $highSchool->grades_offered : 'N/A' }}</p>
 							<div>

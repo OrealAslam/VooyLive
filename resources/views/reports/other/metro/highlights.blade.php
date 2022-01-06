@@ -603,10 +603,6 @@
                 $('.addressText').addClass('font-size-addess');
                 $('.text-editable').addClass('addess-box');
             }
-            // var str = $(".addressText").text();
-            // var strReplace = str.replace(", Canada", "");
-            // $('.addressText').text(''); 
-            // $('.addressText').append(strReplace);
         });
     </script>
 @endsection
