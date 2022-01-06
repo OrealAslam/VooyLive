@@ -29,11 +29,14 @@
 			<th style="padding:7px;text-align:left;">
 				Credit Details
 			</th>
-			<th style="padding:7px;text-align:left;"></th>
+			<th style="padding:7px;text-align:left;">Remember</th>
 		</tr>
 		<tr>
-			<td style="padding:15px;">
+			<td style="padding:15px;border:1px solid #d2d2d2;">
 				<p style="padding:0px 15px 8px 0px;margin:0px;">Remaining Credit : <strong>${{ number_format(auth()->user()->userCredit(),2) }}</strong></p> <a href="{{ url('/order/'.$category->slug) }}?type=orderMoreCredit" style="background-color: #ea2349;color:#fff;border-radius:15px;padding:4px 7px;font-size:11px;margin-right:10px;text-decoration: none;" class="btn btn-primary">Get More Credit</a>
+			</td>
+			<td style="border:1px solid #d2d2d2;">
+			<p style="padding:0px 15px 8px 0px;margin:0px;"><a href="{{ URL::Route('survey-detail') }}" style="background-color: #ea2349;color:#fff;border-radius:15px;padding:4px 7px;font-size:10px;text-decoration: none;margin-left: 10px;" class="btn btn-primary">Weekly REALTOR®️ Survey</a></p>
 			</td>
 		</tr>
 	</table>

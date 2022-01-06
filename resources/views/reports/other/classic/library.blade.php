@@ -41,7 +41,7 @@
 				</div>
 			</td>
 			<td class="col-xs-8 text-center">
-				<h4 class="colord">CLOSEST BRANCH</h4>
+				<h4 class="colord" style="font-size: 20px;font-family: raleway;font-weight: 600;margin-top: 15px;">Closest Branch</h4>
 				<p><strong>Name:</strong> {{ (!empty($response) && !empty($response->name)) ? $response->name : 'N/A' }}</p>
 				<p><strong>Address:</strong> {{ (!empty($response) && !empty($response->address)) ? $response->address : 'N/A' }}</p>
 				<div>

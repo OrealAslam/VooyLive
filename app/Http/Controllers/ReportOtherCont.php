@@ -267,6 +267,8 @@ class ReportOtherCont extends ReportApiCont
             $value = $response->results[0];
                 $distance = $this->distance($report->lat, $report->long, $value->geometry->location->lat, $value->geometry->location->lng, 'K');
                 $response = array('distance' => $distance, 'name' => $value->name, 'vicinity' => $value->vicinity);
+        } else {
+            return null;
         }
         return $response;
     }
@@ -288,6 +290,33 @@ class ReportOtherCont extends ReportApiCont
             $value = $response->results[0];
                 $distance = $this->distance($report->lat, $report->long, $value->geometry->location->lat, $value->geometry->location->lng, 'K');
                 $response = array('distance' => $distance, 'name' => $value->name, 'vicinity' => $value->vicinity);
+        }else {
+            return null;
+        }
+
+
+        return $response;
+    }
+    public function getGym($reportId, $report)
+    {
+        $response = $this->getApiCache($reportId, 'gym');
+
+        if ($response == NULL) {
+            $url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=[lat],[long]&radius=[radius]&type=gym&key=AIzaSyCliagc2fSKClvhgkSSEqPQM6cTgupNJqg";
+            $url = str_replace('[lat]', $report->lat, $url);
+            $url = str_replace('[long]', $report->long, $url);
+            $url = str_replace('[radius]', 10000, $url);
+
+            $response = $this->getApiData($reportId, $url, 'gym');
+        }
+        $response = json_decode($response);
+
+        if (!empty($response->results)) {
+            $value = $response->results[0];
+                $distance = $this->distance($report->lat, $report->long, $value->geometry->location->lat, $value->geometry->location->lng, 'K');
+                $response = array('distance' => $distance, 'name' => $value->name, 'vicinity' => $value->vicinity);
+        }else {
+            return null;
         }
 
 
@@ -309,6 +338,10 @@ class ReportOtherCont extends ReportApiCont
     public function getCafeData($reportId)
     {
         return $this->getGoogleData($reportId, 'cafe');
+    }
+    public function getGymData($reportId)
+    {
+        return $this->getGoogleData($reportId, 'gym');
     }
     public function getBankData($reportId)
     {
@@ -377,6 +410,13 @@ class ReportOtherCont extends ReportApiCont
             foreach ($cafe->results as $key => $value) {
                 $distance = $this->distance($report->lat, $report->long, $value->geometry->location->lat, $value->geometry->location->lng, 'K');
                 $data['cafe'][] = array('distance' => $distance, 'name' => $value->name, 'vicinity' => $value->vicinity);
+            }
+        }
+        $gym = $this->getGymData($reportId);
+        if (!empty($gym->results)) {
+            foreach ($gym->results as $key => $value) {
+                $distance = $this->distance($report->lat, $report->long, $value->geometry->location->lat, $value->geometry->location->lng, 'K');
+                $data['gym'][] = array('distance' => $distance, 'name' => $value->name, 'vicinity' => $value->vicinity);
             }
         }
         $wificenters = $this->getWifiCenterData($reportId);

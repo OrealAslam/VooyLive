@@ -32,12 +32,10 @@ class ReportCont extends Controller
     }
     public function generateReport(Request $request)
     {
-        // dd($request->all());
         $mOrder = new Order();
         $data = array();
         $data['user'] = Auth::User();
         $validateUser = getValidateUser();
-        // dd($request); 
         $city = City::where('name', $request->report_city)->first();
         if(!$city){
             $province = Province::where('name', $request->province)->first();
@@ -46,10 +44,8 @@ class ReportCont extends Controller
             $city_id = $new_city->id;
         }else{
          $city_id = $city->id;
-
         }
-//when city not found els
-//1. find province id by name[request prov ], then create city name, province_id $new_city
+
         $user = $request->user();
         if ($request->has('long') && $request->has('lat')) {
             //chekc if report is already exists otherwise 
@@ -61,6 +57,10 @@ class ReportCont extends Controller
                 $report->lat = $request->lat;
                 $report->address = $request->address;
                 $report->postal_code = $request->postal_code;
+                $report->street_number = $request->street_number;
+                $report->route = $request->route;
+                $report->locality = $request->locality;
+                $report->administrative_area_level_1 = $request->administrative_area_level_1;
                 $report->city_id = $city_id;
                 $report->status = 0;
                 $report->save();
