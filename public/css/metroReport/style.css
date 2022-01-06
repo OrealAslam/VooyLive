@@ -186,25 +186,32 @@
         /*border-right: 2px dashed #000000;*/
     }
 
-    .demographics .demographics-text .text {
-        font-size: 22px;
-        line-height: 1em;
+    .demographics .demographics-text .text1 {
+        font-size: 25px;
+        line-height: 1.25em;
         text-align: center;
-        padding: 9px 0 0 0;
+        padding: 20px 0 0 0;
+    }
+    .demographics .demographics-text .text2 {
+        font-size: 25px;
+        line-height: 1.25em;
+        text-align: center;
     }
     .demographics .demographics-text .percent1 {
-        font-size: 30px;
+        font-size: 40px;
         text-align: center;
         font-weight: bold;
-        line-height: 1em;
-        padding: 20px 0;
+        line-height: 1.12em;
+        padding-top: 12px;
+        padding-bottom: 26px;
     }
     .demographics .demographics-text .percent2 {
-        font-size: 50px;
+        font-size: 40px;
         text-align: center;
         font-weight: bold;
-        line-height: 1em;
-        padding: 15px 0 68px 0;
+        line-height: 1.12em;
+        padding-top: 12px;
+        padding-bottom: 26px;
     }
 
     .demographics .education {

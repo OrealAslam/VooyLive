@@ -8,13 +8,13 @@
         <div class="row">
             <div class="col-lg-3 col-md-3 col-sm-3 demographics-text backgroundd">
                 <div class="row">
-                    <div class="col-lg-12 col-md-12 col-sm-12 text colorb font-raleway">
-                       Households With Children
+                    <div class="col-lg-12 col-md-12 col-sm-12 text1 colorb font-raleway">
+                       HOUSEHOLD WITH CHILDREN
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 percent1 colorb">
 						{{$household_with_child}}%
                     </div>
-                    <div class="col-lg-12 col-md-12 col-sm-12 text colorb">
+                    <div class="col-lg-12 col-md-12 col-sm-12 text2 colorb font-raleway">
                         MEDIAN AGE
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 percent2 colorb">
