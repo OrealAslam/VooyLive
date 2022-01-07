@@ -23,7 +23,7 @@
     <div class="container">
       <div class="row">
           <div class="col-md-12" align="center">
-              <p style="padding: 0px;">{!! getSettingValue('coverage') !!} </p>
+              <p style="padding: 0px;">{!! getSettingValue('coverage') !!} <strong><a href="{{ route('page.contact-us') }}">Contact Us</a></strong></p>
           </div>
       </div>
     </div>
