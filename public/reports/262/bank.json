@@ -1,0 +1,100 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4688811,
+               "lng" : -113.5853604
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4702940802915,
+                  "lng" : -113.5841854197085
+               },
+               "southwest" : {
+                  "lat" : 53.4675961197085,
+                  "lng" : -113.5868833802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "TD Canada Trust Branch and ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112034243339948647667\"\u003eChristopher Lui\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB4oOEv9jDDRDSnNzbSnMNzcOT1QmQ6UXGJo0kfYHrNYgZrF3Z7EwB0v4VIdwxbenE5zaTlpEsuW1NH6QgdooR5juSQHMdatCidV7zlM1SBpFgtXrQMcddHFW0VSvT8h3p-I12OFd4KjbHGC234JKcPryWoFpoE0lkv0q1DtP837bqj",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJFwOlFJUfoFMR51dvAyWuuiU",
+         "plus_code" : {
+            "compound_code" : "FC97+HV Edmonton, AB, Canada",
+            "global_code" : "9558FC97+HV"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJFwOlFJUfoFMR51dvAyWuuiU",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 21,
+         "vicinity" : "490 Riverbend Square Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4693031,
+               "lng" : -113.5891869
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4706132302915,
+                  "lng" : -113.5876788197085
+               },
+               "southwest" : {
+                  "lat" : 53.4679152697085,
+                  "lng" : -113.5903767802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "CIBC Branch with ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1159,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118098897907596372339\"\u003eBebe Chan\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAQiHJe864NAKSH7ZexE9chbr0PdWNF9foKWG-UpJnyzqI6YhgC6GgrZJOZVqjfUTVSalsrWrikAS0iTuJvUMHrvPgwXjT_pU5HhYtaf7O0NpUE4FatekhIu-C8WKODbYH2_WcpVCMuvBvM5YD5fKEbMzqSehiImCJCqZp9TlZwOdYA",
+               "width" : 2245
+            }
+         ],
+         "place_id" : "ChIJJ0QS0-ofoFMRJ-cA6LMi1fY",
+         "plus_code" : {
+            "compound_code" : "FC96+P8 Edmonton, AB, Canada",
+            "global_code" : "9558FC96+P8"
+         },
+         "rating" : 2.6,
+         "reference" : "ChIJJ0QS0-ofoFMRJ-cA6LMi1fY",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 21,
+         "vicinity" : "644 Riverbend Square Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

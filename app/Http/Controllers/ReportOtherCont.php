@@ -23,32 +23,27 @@ class ReportOtherCont extends ReportApiCont
 
     public function getNeighborsData($reportId, $template = 'classic')
     {
-        // return null;
         $report = Report::findOrfail($reportId);
 
-        return [
-            'response' =>
-            json_decode('[{"area_sq_km":"1.165427598207564","latitude":"53.46821272972758","location":{"type":"Point","coordinates":[-113.544452079528,53.468212729728]},"longitude":"-113.54445207952784","name_mixed":"Westbrook Estates","number":"5540"}        ,{"area_sq_km":"0.9170724937101165","latitude":"53.46431590241292","location":{"type":"Point","coordinates":[-113.527568844634,53.464315902413]},"longitude":"-113.52756884463375","name_mixed":"Sweet Grass","number":"5490"}
-        ,{"area_sq_km":"0.44251268021730117","latitude":"53.45762655689604","location":{"type":"Point","coordinates":[-113.540194995943,53.457626556896]},"longitude":"-113.54019499594257","name_mixed":"Blue Quill Estates","number":"5070"}
-        ,{"area_sq_km":"1.529887225660543","latitude":"53.471072653070806","location":{"type":"Point","coordinates":[-113.527505417018,53.471072653071]},"longitude":"-113.52750541701816","name_mixed":"Greenfield","number":"5220"}
-        ,{"area_sq_km":"1.0580494678638934","latitude":"53.45762652276093","location":{"type":"Point","coordinates":[-113.526236532947,53.457626522761]},"longitude":"-113.52623653294697","name_mixed":"Blue Quill","number":"5060"}]'), 'report' => $report
-        ];
+        $response = $this->getApiCache($reportId, 'neighbors');
+
+        if ($response == NULL) {
+            // $url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=[lat],[long]&radius=[radius]&type=transit_station&key=AIzaSyCliagc2fSKClvhgkSSEqPQM6cTgupNJqg";
+            $url = "https://geocoder.ca/?locate=" . $report->lat . "," . $report->long . "&json=1";
+            $response = $this->getApiData($reportId, $url, 'neighbors');
+        }
+        $result = json_decode($response);
+        if (isset($result->neighborhood))
+            return ['neighborhood' => $result->neighborhood, 'report' => $report];
+        else
+            return ['report' => $report];
     }
     public function getCommunity($reportId, $template = 'classic')
     {
-        return 'Sample Community';
+        $neighborhood = $this->getNeighborsData($reportId);
+        return isset($neighborhood['neighborhood']) ? $neighborhood['neighborhood'] : 'N/A';
     }
 
-    private function getDA($postal_code)
-    {
-        return '35202135';
-        //php simple dom call 
-
-        //parse da
-
-        //return da number
-
-    }
     private function getCensusData($postal, $city)
     {
 
@@ -78,7 +73,7 @@ class ReportOtherCont extends ReportApiCont
 
 
         $data['averageIncome'] = $data['average_total_income'];
-        $data['household_with_child']=$data['couples_without_child'] && $data['couples_with_child'] ? round(($data['couples_with_child']/($data['couples_without_child']+$data['couples_with_child']))*100,2):'n/a';
+        $data['household_with_child'] = $data['couples_without_child'] && $data['couples_with_child'] ? round(($data['couples_with_child'] / ($data['couples_without_child'] + $data['couples_with_child'])) * 100, 2) : 'n/a';
         $data['household'] = $data['household'];
         $data['rentalVsOwned'] = $this->getRentalVsOwned($data);
         $data['medianAge'] = $data['medianage'];
@@ -172,7 +167,6 @@ class ReportOtherCont extends ReportApiCont
     public function getCatholicData($reportId, $template = 'classic')
     {
         return ['response' => array()];
-
     }
     public function getRecreationData($reportId, $template = 'classic')
     {
@@ -182,14 +176,13 @@ class ReportOtherCont extends ReportApiCont
 
         $response = $data->getNearestRecreation($report->long, $report->lat, 1);
         // dd($response);
-        if(isset($response[0]))
-        return ['response' => $response[0]];
-        else 
-        return ['response' => null];
-
+        if (isset($response[0]))
+            return ['response' => $response[0]];
+        else
+            return ['response' => null];
     }
 
-    
+
     public function getPlaygrounddata($reportId, $template = 'classic')
     {
         $report = Report::findOrfail($reportId);
@@ -219,36 +212,36 @@ class ReportOtherCont extends ReportApiCont
         $data = new UniversalLibrary();
 
         $response = $data->getNearestLibrary($report->long, $report->lat, 1, $report->City->name);
-        if(empty($response)){
+        if (empty($response)) {
             $response = $data->getNearestLibrary($report->long, $report->lat, 1);
         }
         // dd($response);
-        if(isset($response[0]))
-        return ['response' => $response[0]];
+        if (isset($response[0]))
+            return ['response' => $response[0]];
         else
-        return ['response' => null];
+            return ['response' => null];
     }
     public function getSchoolData($reportId, $template = 'classic')
     {
         $report = Report::findOrfail($reportId);
         $school = new UniversalSchool();
 
-        $data['elementerySchool'] = $school->getElementarySchool($report->long,$report->lat,$report->City->name);
-        $data['juniorSchool'] = $school->getJuniorSchool($report->long,$report->lat,$report->City->name);
-        $data['highSchool']= $school->getHighSchool($report->long,$report->lat,$report->City->name);
-  
+        $data['elementerySchool'] = $school->getElementarySchool($report->long, $report->lat, $report->City->name);
+        $data['juniorSchool'] = $school->getJuniorSchool($report->long, $report->lat, $report->City->name);
+        $data['highSchool'] = $school->getHighSchool($report->long, $report->lat, $report->City->name);
+
         return $data;
     }
     public function getTransitData($reportId, $template = 'classic')
     {
         $report = Report::findOrfail($reportId);
-        $bus_station=$this->getBusStation($reportId, $report);
-        $train_station=$this->getTrainStation($reportId, $report);
+        $bus_station = $this->getBusStation($reportId, $report);
+        $train_station = $this->getTrainStation($reportId, $report);
         // dd( ['bus_station' => $bus_station, 'train_station' => $train_station]);
         return ['bus_station' => $bus_station, 'train_station' => $train_station];
     }
 
-    
+
     public function getBusStation($reportId, $report)
     {
         $response = $this->getApiCache($reportId, 'busstation');
@@ -265,8 +258,8 @@ class ReportOtherCont extends ReportApiCont
         $response = json_decode($response);
         if (!empty($response->results)) {
             $value = $response->results[0];
-                $distance = $this->distance($report->lat, $report->long, $value->geometry->location->lat, $value->geometry->location->lng, 'K');
-                $response = array('distance' => $distance, 'name' => $value->name, 'vicinity' => $value->vicinity);
+            $distance = $this->distance($report->lat, $report->long, $value->geometry->location->lat, $value->geometry->location->lng, 'K');
+            $response = array('distance' => $distance, 'name' => $value->name, 'vicinity' => $value->vicinity);
         } else {
             return null;
         }
@@ -288,9 +281,9 @@ class ReportOtherCont extends ReportApiCont
 
         if (!empty($response->results)) {
             $value = $response->results[0];
-                $distance = $this->distance($report->lat, $report->long, $value->geometry->location->lat, $value->geometry->location->lng, 'K');
-                $response = array('distance' => $distance, 'name' => $value->name, 'vicinity' => $value->vicinity);
-        }else {
+            $distance = $this->distance($report->lat, $report->long, $value->geometry->location->lat, $value->geometry->location->lng, 'K');
+            $response = array('distance' => $distance, 'name' => $value->name, 'vicinity' => $value->vicinity);
+        } else {
             return null;
         }
 
@@ -313,9 +306,9 @@ class ReportOtherCont extends ReportApiCont
 
         if (!empty($response->results)) {
             $value = $response->results[0];
-                $distance = $this->distance($report->lat, $report->long, $value->geometry->location->lat, $value->geometry->location->lng, 'K');
-                $response = array('distance' => $distance, 'name' => $value->name, 'vicinity' => $value->vicinity);
-        }else {
+            $distance = $this->distance($report->lat, $report->long, $value->geometry->location->lat, $value->geometry->location->lng, 'K');
+            $response = array('distance' => $distance, 'name' => $value->name, 'vicinity' => $value->vicinity);
+        } else {
             return null;
         }
 

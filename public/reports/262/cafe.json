@@ -1,0 +1,150 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4683376,
+               "lng" : -113.588488
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4698145302915,
+                  "lng" : -113.5868776697085
+               },
+               "southwest" : {
+                  "lat" : 53.4671165697085,
+                  "lng" : -113.5895756302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100238833938844672291\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDoQRrJKJtnB0qpLjojIWGKaG9Ut7eD23lg8o-tK5VescqmaZDye0EgoDQIfQ98ItNDaG1AsbctXEG56deT2e0Y2FU57RdU85ENd-XeTD7B5sxDsb2pVYIjYQKdp6ZdY2SvCe_ICBESQKs2uLHx_ZebLZ5eFXwYEllPTAivggyrpHQN",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJwW-HFJUfoFMRtwIsajDLUyY",
+         "plus_code" : {
+            "compound_code" : "FC96+8J Edmonton, AB, Canada",
+            "global_code" : "9558FC96+8J"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJwW-HFJUfoFMRtwIsajDLUyY",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 19,
+         "vicinity" : "Safeway Grocery Store, 576 Riverbend Square Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4690762,
+               "lng" : -113.5863547
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.47042263029149,
+                  "lng" : -113.5849954197085
+               },
+               "southwest" : {
+                  "lat" : 53.4677246697085,
+                  "lng" : -113.5876933802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 886,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111107668753704055855\"\u003eOnePercent Clipz\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDiE6_z8K_cIxXRpHWUmLqnQZ95VWspXrApbTqRNgiE3Z5B2BarNb0blmwuSXwNengVG0AvRO2_yWk0MGDtpQwflP4prBKjAdCz7MlCTWRbbUXgR2QKcoBOV-QkHT24E2xGwrQ8h7f0mjpMSDqEQSo-a5I_rgm_vDZpDr24J6pOI4dH",
+               "width" : 1170
+            }
+         ],
+         "place_id" : "ChIJJ0QS0-ofoFMR2forMIB7Vv0",
+         "plus_code" : {
+            "compound_code" : "FC97+JF Edmonton, AB, Canada",
+            "global_code" : "9558FC97+JF"
+         },
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "ChIJJ0QS0-ofoFMR2forMIB7Vv0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 702,
+         "vicinity" : "494 Riverbend Square Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4687755,
+               "lng" : -113.5845438
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.47007903029149,
+                  "lng" : -113.5832227197085
+               },
+               "southwest" : {
+                  "lat" : 53.46738106970849,
+                  "lng" : -113.5859206802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2252,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110636457901960643473\"\u003eBryan Synn\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDbCkOE2tVO216pLijFaik8F4JVlZCuzbmKjuH3BzER718UIDgjQFehV2OzPITwv0Nbx6bNGnD8TZcrZOiGCWcHNeFyAgbw3Y-S58QgiSqj3IUYy_G6-qoeNwVZ4z3aRtuSn9A2_2mdB2InRldAUY_epuMatz31EKX3E1JyoYlTPwr_",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ9QkkQCcfoFMRduviPtJ2HOU",
+         "plus_code" : {
+            "compound_code" : "FC98+G5 Edmonton, AB, Canada",
+            "global_code" : "9558FC98+G5"
+         },
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "ChIJ9QkkQCcfoFMRduviPtJ2HOU",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "478 Riverbend Square Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}
