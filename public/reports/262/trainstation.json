@@ -1,0 +1,55 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5409951,
+               "lng" : -113.4899531
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5423328302915,
+                  "lng" : -113.4887670697085
+               },
+               "southwest" : {
+                  "lat" : 53.5396348697085,
+                  "lng" : -113.4914650302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Central Station",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107858012586520787551\"\u003eDallin Backstrom\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAH_9jGLNPNlYU6ga6uU9neWaaSH1xPHFiP-h75w2Oi7JSJa_dHy0DqkZNKJOetBxemTHt_Tz1zF0uL6xPJwrWSar8eExqMTuS77psMQMqsrpG1gnFR_BzkPJigKTxQy3qFeA_Ym-QgA1QgBes8IIkZs7YX2zIPQGv9HJ99JmbEmTuQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJo_ZRNUQioFMRnwNJauj4Yvc",
+         "plus_code" : {
+            "compound_code" : "GGR6+92 Edmonton, AB, Canada",
+            "global_code" : "9558GGR6+92"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJo_ZRNUQioFMRnwNJauj4Yvc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 20,
+         "vicinity" : "100 Street Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

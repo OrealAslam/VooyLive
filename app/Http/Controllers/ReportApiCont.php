@@ -86,7 +86,6 @@ class ReportApiCont extends Controller
         $reportGetContName = 'App\Http\Controllers\ReportOtherCont';
         $this->reportGetCont = new $reportGetContName();
         $data['neighborsData']=$this->reportGetCont->getNeighborsData($reportId, $template);
-        
         $allReports = array(
             array('name' => 'neighbors',    'funcName' => 'neighbors',      'cities' => array(1,2,3,4)),
             array('name' => 'demography',   'funcName' => 'demography',     'cities' => array(1,2,3,4)),

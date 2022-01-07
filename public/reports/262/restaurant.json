@@ -1,0 +1,942 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.475379,
+               "lng" : -113.5740134
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4768617802915,
+                  "lng" : -113.5728409197085
+               },
+               "southwest" : {
+                  "lat" : 53.4741638197085,
+                  "lng" : -113.5755388802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Boston Pizza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1512,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105553041778333882886\"\u003eBeat\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBGsXO9s4xHRDyJFCr97QGQ--UMnY7kgcJ-dPp725X5UmAMOntnY84VK4Tl5weJUd0ACJr8NrZO24gaKff9sMfgeXxOQovvx2Gy_2p8eYU31SsTjrfpO4CpjaOt7TffTcWBaaSJbUrcJUU9dXbRvDnbaxSOuAkGCNIeYl8mljegZqnP",
+               "width" : 2016
+            }
+         ],
+         "place_id" : "ChIJ7yKaHpofoFMRVO8EbOQG81o",
+         "plus_code" : {
+            "compound_code" : "FCGG+59 Edmonton, AB, Canada",
+            "global_code" : "9558FCGG+59"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ7yKaHpofoFMRVO8EbOQG81o",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 501,
+         "vicinity" : "378 Bulyea Road Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4697352,
+               "lng" : -113.5881444
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.47095008029149,
+                  "lng" : -113.5869548197085
+               },
+               "southwest" : {
+                  "lat" : 53.4682521197085,
+                  "lng" : -113.5896527802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3036,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117454224015543259974\"\u003eFrederick Cundict\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC1cqRoQsQueiQcHFauRtZ8m_pVoY4bkdhnJuk4puxw8TO5LsGdG1dE8yAJbuSXfDL3bPOx99JVTMzk_finFi1dYvEDscJCcP1N6TnptjmcgmlCZlAtEhfeWtuZANlrmvNnzx64D4ufJ6XH3bINCd3OptqRWewFOg5hMVpipxfkuE4B",
+               "width" : 4048
+            }
+         ],
+         "place_id" : "ChIJJ0QS0-ofoFMRLJvwxMITcgw",
+         "plus_code" : {
+            "compound_code" : "FC96+VP Edmonton, AB, Canada",
+            "global_code" : "9558FC96+VP"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJJ0QS0-ofoFMRLJvwxMITcgw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 84,
+         "vicinity" : "752 Riverbend Square Northwest Unit 103, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.46974950000001,
+               "lng" : -113.5882597
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4709579302915,
+                  "lng" : -113.5870124697085
+               },
+               "southwest" : {
+                  "lat" : 53.46825996970851,
+                  "lng" : -113.5897104302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Wok N' Go",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105768232463159409642\"\u003eJosh Fedorchuk\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC2GcNHiPczn7n8QFdoMMhVcaqeWejKqDnD0ICG8pEI45slgy6vC3CxSmcPGHbQSbHq6eqDB_RW9weq6s40r0Mxqwfghr9nWvOno-E5Q0Q3v_ksDoQd45t56-zauMA2O9X279ZbMPLF2d3xyvCxpRGdiqbsAh9RO1CrSoHkpZSU_f5g",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJB1EVMusfoFMRlSDv6Ak4dts",
+         "plus_code" : {
+            "compound_code" : "FC96+VM Edmonton, AB, Canada",
+            "global_code" : "9558FC96+VM"
+         },
+         "rating" : 4,
+         "reference" : "ChIJB1EVMusfoFMRlSDv6Ak4dts",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 90,
+         "vicinity" : "750 Riverbend Square Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.46867599999999,
+               "lng" : -113.583706
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.46999238029149,
+                  "lng" : -113.5822235197085
+               },
+               "southwest" : {
+                  "lat" : 53.46729441970849,
+                  "lng" : -113.5849214802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "A&W Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102429200877888977492\"\u003eKOMAL VIJ\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBNwc182ArzddKEBYTKJDIGfvsZeKTByQPST4UVdcTE1iML_qi-GQBNODkcSsPOtrAwt_Mi2MtMO_nOda0wYzmZQGlwn6og8xjkMcobREsjdhA4MvymRD6ZEFo3lebwZusi3agwJePiHBpOF4ttBoFYsKRT6xqIlxCmEZG8YYyDJZOZ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJJ0QS0-ofoFMRIHlKSrjvCOM",
+         "plus_code" : {
+            "compound_code" : "FC98+FG Edmonton, AB, Canada",
+            "global_code" : "9558FC98+FG"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJJ0QS0-ofoFMRIHlKSrjvCOM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 559,
+         "vicinity" : "470 Riverbend Square, Road NW, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.46834009999999,
+               "lng" : -113.584339
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.46971458029149,
+                  "lng" : -113.5828747697085
+               },
+               "southwest" : {
+                  "lat" : 53.4670166197085,
+                  "lng" : -113.5855727302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "PhoXpress Riverbend",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3726,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101855427861820060655\"\u003eYuyu Ng\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA79P5V2oqOGx-Daft7GdiuDqWFOefc1GuRSdQJTZ13SXO9r3AhqZlA2zYJYiLkHqKSsgESHQYmJJeDkuI5lQhN_j8leJjsugTfbgwvAoo4myAE-8JGidVjXHRqNoPPPrlLCE194Tl_uQ6bhq8fXYDySix_VTqGoJEsN6YGPreGV1J1",
+               "width" : 4968
+            }
+         ],
+         "place_id" : "ChIJ9QdlbZUfoFMRlfJYMqXtu9U",
+         "plus_code" : {
+            "compound_code" : "FC98+87 Edmonton, AB, Canada",
+            "global_code" : "9558FC98+87"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJ9QdlbZUfoFMRlfJYMqXtu9U",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 166,
+         "vicinity" : "436 Riverbend Square Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4683712,
+               "lng" : -113.5848201
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.46979893029149,
+                  "lng" : -113.5834047697085
+               },
+               "southwest" : {
+                  "lat" : 53.4671009697085,
+                  "lng" : -113.5861027302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Domino's Pizza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112034243339948647667\"\u003eChristopher Lui\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECkHcOE0rn7QkeEnTF45tI2dHflbUSJYkiIIdoXVpRjC45yJGKqGT6yrmDXagjKKFuUhV_5vRi7VxOpFu1UmKVvNVWsOS443Toht62DQ5ZHmnUV7N_AGn2I8gR5dvmhqhgL2FfsUlCyUjg1E8nexqJzPEtW9FH8x3wJ0qRCv4vIgUhc",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJN9I9P5UfoFMRawiXK93vsz4",
+         "plus_code" : {
+            "compound_code" : "FC98+83 Edmonton, AB, Canada",
+            "global_code" : "9558FC98+83"
+         },
+         "price_level" : 1,
+         "rating" : 2.9,
+         "reference" : "ChIJN9I9P5UfoFMRawiXK93vsz4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 103,
+         "vicinity" : "420 Riverbend Square Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.46863609999999,
+               "lng" : -113.5865719
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4700268802915,
+                  "lng" : -113.5851962197085
+               },
+               "southwest" : {
+                  "lat" : 53.4673289197085,
+                  "lng" : -113.5878941802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Oliveto Trattoria",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106102080317386333699\"\u003eMuyiwa Taiwo\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAq0FfeoFpPYXqHJCFHIbAE1jNXlY6WI-wwmq6-JOObSeXGjEm14HlYOM4Jn28maheFKLtjoiKpWLjfPAbrz1v5t0ayRufuYLejbyyafrWhi2ARcKVDa-iirFB_oC9sO_3qbLeVonYC2R8mm4YkDgoe-zkBqUeeaC6X6fw-BTIGbUU",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJoY7B0OofoFMRqrQBYuBfm5I",
+         "plus_code" : {
+            "compound_code" : "FC97+F9 Edmonton, AB, Canada",
+            "global_code" : "9558FC97+F9"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJoY7B0OofoFMRqrQBYuBfm5I",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 139,
+         "vicinity" : "500 Riverbend Square Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4760849,
+               "lng" : -113.5767549
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4775098302915,
+                  "lng" : -113.5753411197085
+               },
+               "southwest" : {
+                  "lat" : 53.4748118697085,
+                  "lng" : -113.5780390802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Pizza Hut Edmonton",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 491,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105630509783966073132\"\u003ePizza Hut Edmonton\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAeOoZAlxTHH_TrkwwikSNv4LJl8E27w1BBFXCW5Oxp-SvKvBGPqGoeLb8c-SJeC3jRKmh1KSURrd1xQ8p0kXMj2V5Gz4618rdXUylFPFugn-gu_IC3D1qrQDaoPioBCCDZr2n6FhHHPrANlktjvKhqIPwBKutW-vuerhGNMn-qkkUU",
+               "width" : 874
+            }
+         ],
+         "place_id" : "ChIJc7LUhZAfoFMRUzQepp5EUDo",
+         "plus_code" : {
+            "compound_code" : "FCGF+C7 Edmonton, AB, Canada",
+            "global_code" : "9558FCGF+C7"
+         },
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "ChIJc7LUhZAfoFMRUzQepp5EUDo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 108,
+         "vicinity" : "14715 40 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4690762,
+               "lng" : -113.5863547
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.47042263029149,
+                  "lng" : -113.5849954197085
+               },
+               "southwest" : {
+                  "lat" : 53.4677246697085,
+                  "lng" : -113.5876933802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 886,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111107668753704055855\"\u003eOnePercent Clipz\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBZeDKrqBmhQUpg_OBqXeVvvA8sXv_tSvTICMHHINXp5v_R6AKRm9nOeKV1spLLPm64NADIxlnAgfsi0MBi5WY8qxU6cj7Npar7Nb572bYmG2ZdCLr8LqrPDWqIHNvYK7qbeTTtRgasjulmeaJcUdYn-9IyN7fAbYi_3OLy0TkRtxBW",
+               "width" : 1170
+            }
+         ],
+         "place_id" : "ChIJJ0QS0-ofoFMR2forMIB7Vv0",
+         "plus_code" : {
+            "compound_code" : "FC97+JF Edmonton, AB, Canada",
+            "global_code" : "9558FC97+JF"
+         },
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "ChIJJ0QS0-ofoFMR2forMIB7Vv0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 702,
+         "vicinity" : "494 Riverbend Square Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4685345,
+               "lng" : -113.5866992
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.46990123029149,
+                  "lng" : -113.5854193197085
+               },
+               "southwest" : {
+                  "lat" : 53.4672032697085,
+                  "lng" : -113.5881172802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Saigon Cuisine",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108717305630322197858\"\u003eLucyna Ly\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA5y_vk80omRm1i6963pw8rb4Gwubh1x4fiVRHilaGL6KiJpumiiiVPcINkLqsBhvCJK9ENV29XUObkcFOonmG7p5YWracmmTAPK9UsLdXErcGzBVI2HuTxE6MMXAswDrCg_-k4FrHTrV4WMZQChvA3GYrYAHSS35k1KpPYKmVN0XbL",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJJ0QS0-ofoFMRa84oHdSTD6E",
+         "plus_code" : {
+            "compound_code" : "FC97+C8 Edmonton, AB, Canada",
+            "global_code" : "9558FC97+C8"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJJ0QS0-ofoFMRa84oHdSTD6E",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 125,
+         "vicinity" : "508 Riverbend Square Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4764807,
+               "lng" : -113.5771507
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.47801168029149,
+                  "lng" : -113.5755334197085
+               },
+               "southwest" : {
+                  "lat" : 53.4753137197085,
+                  "lng" : -113.5782313802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "The Bend Lounge",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101559260938077253152\"\u003eThe Bend Lounge\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC5k5jQ530zdW26xXTGxKDOi-hCcYsVrVXYxnvocXwbPuTrbmnwFri5xDyOmEYi1CCAIrhv8MDV4cgyQrjbP1MKIIWWGWcoNlxJyyUEK-j05C5AqtCC1xSytGgvA2ah7cUc8AU9ux_bQiqP_DVWofBQxzxKumF4H55N0UzPHGUNSsn5",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJC13KiJAfoFMRuI7aWZOHMZ4",
+         "plus_code" : {
+            "compound_code" : "FCGF+H4 Edmonton, AB, Canada",
+            "global_code" : "9558FCGF+H4"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJC13KiJAfoFMRuI7aWZOHMZ4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 401,
+         "vicinity" : "14743 40 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4763993,
+               "lng" : -113.5763396
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.47796888029149,
+                  "lng" : -113.5751431197085
+               },
+               "southwest" : {
+                  "lat" : 53.4752709197085,
+                  "lng" : -113.5778410802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "Circle K",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102277664475300852647\"\u003eCircle K\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDc-nHlKv7gfj1_sbWGqrYs1A7U311Sv36ocGw1OhsCWnYqLtqvqKrOJoPlYlxa8sOrufSY_fhx-P0Or_agASI-QWM6MU1wpqK-3RYK6Wg_9OPdJ7LpqVZUwOokfwJp1_iIveg7WB2lNeS0izDFeLPXrZE2aXQwAjybMTN5tuKWTx2B",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJzzRZj5AfoFMRKGWN7feb-pE",
+         "plus_code" : {
+            "compound_code" : "FCGF+HF Edmonton, AB, Canada",
+            "global_code" : "9558FCGF+HF"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJzzRZj5AfoFMRKGWN7feb-pE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "atm",
+            "meal_takeaway",
+            "finance",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 14,
+         "vicinity" : "14703 40 Avenue Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.46828499999999,
+               "lng" : -113.584082
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4696794302915,
+                  "lng" : -113.5827177197085
+               },
+               "southwest" : {
+                  "lat" : 53.4669814697085,
+                  "lng" : -113.5854156802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Indian Villa Curry N Cake",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 930,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101301541940411370435\"\u003eIndian Villa Curry N Cake\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECLid-WXnD--b6UlqQFTtSEYMh73fMmjVoCK6cyMV0UelT7KJsu2xitX28uFO1iN5LJoXCfij3QWmNqJMhRN5HbB0HNbSUFuAio0MEBAU84pECTsT9KrRnqzi1NjLA9FkP_8IZ5JQPkPR25aQbcLCzvSCgC8-6Uts-qKAwUieOsaw2z",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJE05luyYfoFMRBP2G0sPeoVU",
+         "plus_code" : {
+            "compound_code" : "FC98+89 Edmonton, AB, Canada",
+            "global_code" : "9558FC98+89"
+         },
+         "rating" : 5,
+         "reference" : "ChIJE05luyYfoFMRBP2G0sPeoVU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11,
+         "vicinity" : "448 Riverbend Square Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4684809,
+               "lng" : -113.5865597
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4698669302915,
+                  "lng" : -113.5853550197085
+               },
+               "southwest" : {
+                  "lat" : 53.4671689697085,
+                  "lng" : -113.5880529802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ALI’S PIZZA AND DONAIR",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117448042116499102690\"\u003eALI’S PIZZA AND DONAIR\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDWLqGYDlXVheCzU_OIdv6R6FybM9PlIhWvaNmF2wCVbk1v6Whhj5_E_zBXCBBFrsW6sfw8CYjzUs29FQqLdZrK8BUXv4NbuFe9a6CvPjiDXEyND_fJ_IwME2TX0tGSdvhCX3FwQYK_fWUUZkIaufztOBUI563ECbKROvaFLJyq2Ns",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ8-lRI4AfoFMRAZXpFrCa1vQ",
+         "plus_code" : {
+            "compound_code" : "FC97+99 Edmonton, AB, Canada",
+            "global_code" : "9558FC97+99"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ8-lRI4AfoFMRAZXpFrCa1vQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 108,
+         "vicinity" : "512 Riverbend Square Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.46845,
+               "lng" : -113.58674
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4698189302915,
+                  "lng" : -113.5854687197085
+               },
+               "southwest" : {
+                  "lat" : 53.4671209697085,
+                  "lng" : -113.5881666802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Booster Juice",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3036,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117454224015543259974\"\u003eFrederick Cundict\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECeeYI4v8-GVrNhLdnA-fTUNGYfj3w_sgLodWIkIlYEfTMw5ehN4-rdX7zW8436c516cd0-UeYNyxZn5kRQKv7pshRrqMxU_EE_01gfA0L1_tjFDpSd8c8kfZly5cWUE9qedyeU81z-L3YdO52-O0wdw5IH8fFYmzklDZu4wOSA86_7",
+               "width" : 4048
+            }
+         ],
+         "place_id" : "ChIJJ0QS0-ofoFMRqdmuknSDWNU",
+         "plus_code" : {
+            "compound_code" : "FC97+98 Edmonton, AB, Canada",
+            "global_code" : "9558FC97+98"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJJ0QS0-ofoFMRqdmuknSDWNU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 62,
+         "vicinity" : "516 Riverbend Square Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.46894,
+               "lng" : -113.5891646
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4703933302915,
+                  "lng" : -113.5877453197085
+               },
+               "southwest" : {
+                  "lat" : 53.4676953697085,
+                  "lng" : -113.5904432802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Curry Corner",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1645,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118098897907596372339\"\u003eBebe Chan\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECXhALI8vBelLg5EQP_kIgwHY8x81ZOn-vEL81Temes7_CvE1zjwSAJ6RQ3VJSRsLVe3V9gEgzMws8UrAcyeVEK2rMDYNygcv6Q5E9x2PNYwdPaoiQwpp1zXeGDNoiPWjLvv309znEqAi3oPZABi9kL7GLZsDX8q8_kdIW-5IXNjP9B",
+               "width" : 1591
+            }
+         ],
+         "place_id" : "ChIJKWmbIeofoFMRJdCH6X1oolg",
+         "plus_code" : {
+            "compound_code" : "FC96+H8 Edmonton, AB, Canada",
+            "global_code" : "9558FC96+H8"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJKWmbIeofoFMRJdCH6X1oolg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 288,
+         "vicinity" : "616 Riverbend Square Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4941648,
+               "lng" : -113.5783115
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4955159302915,
+                  "lng" : -113.5769282697085
+               },
+               "southwest" : {
+                  "lat" : 53.4928179697085,
+                  "lng" : -113.5796262302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Epoch Vittles Inc",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJgwyQrSsgoFMRvqAguf0yZj4",
+         "plus_code" : {
+            "compound_code" : "FCVC+MM Edmonton, AB, Canada",
+            "global_code" : "9558FCVC+MM"
+         },
+         "reference" : "ChIJgwyQrSsgoFMRvqAguf0yZj4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "5639 Riverbend Road Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4945359,
+               "lng" : -113.5767277
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4955580802915,
+                  "lng" : -113.5755234697085
+               },
+               "southwest" : {
+                  "lat" : 53.4928601197085,
+                  "lng" : -113.5782214302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Olympus Donair",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3036,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117454224015543259974\"\u003eFrederick Cundict\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAHa9qT29VkQVRzYWdTufoe5wr4QyJa05RQkiNESoP4A43AZOFEd6bUHQ8RjE9GxrwjpZmjDi3B9qwsJM73hd4lmIQehVhY6mRYHp8ye_8FXArw_2pub0ZCF0KMyD3_tpn03BvANFV-uhyxgnectfhJTEjC0LHFT5oRvhN6AM9rb8Uy",
+               "width" : 4048
+            }
+         ],
+         "place_id" : "ChIJI1NcrisgoFMRFzmXwXBpZMc",
+         "plus_code" : {
+            "compound_code" : "FCVF+R8 Edmonton, AB, Canada",
+            "global_code" : "9558FCVF+R8"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJI1NcrisgoFMRFzmXwXBpZMc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 227,
+         "vicinity" : "5639 Riverbend Road Northwest, Edmonton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4945976,
+               "lng" : -113.5767557
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4960740302915,
+                  "lng" : -113.5748312697085
+               },
+               "southwest" : {
+                  "lat" : 53.4933760697085,
+                  "lng" : -113.5775292302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "TasteBuds",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116224688597952602385\"\u003eTasteBuds\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBqacFaHqtHgR2U3XPTGjqxKiOo_KPmorQPAuebp2-T4E70dRnwgpGCaZ3ULnIF76eP06wqcXYKJ6fS3ZWNfSjElfuG_IqvhvvLnrFG8eFHVakIcYncIxqNvBho9aSLNOFMYeq15qOKlv5X3HF4nRgmTLIOGb9lZwTcyLMqdrMye0_k",
+               "width" : 4512
+            }
+         ],
+         "place_id" : "ChIJ-abIpSsgoFMRfnRCRvTKbaA",
+         "plus_code" : {
+            "compound_code" : "FCVF+R7 Edmonton, AB, Canada",
+            "global_code" : "9558FCVF+R7"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJ-abIpSsgoFMRfnRCRvTKbaA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 346,
+         "vicinity" : "5641 Riverbend Road Northwest, Edmonton"
+      }
+   ],
+   "status" : "OK"
+}

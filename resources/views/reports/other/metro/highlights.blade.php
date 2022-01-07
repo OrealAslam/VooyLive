@@ -234,8 +234,8 @@
                     NAME OF NEIGHBOURHOOD
                 </div>
                 <div class="neighbourhood-name colora" id="neighbourhood-name">
-                    @if (isset($neighborsData) && isset($neighborsData['response'][0]) && isset($neighborsData['response'][0]->name))
-                        {{$neighborsData['response'][0]->name}}
+                    @if (isset($neighborsData['neighborhood']))
+                        {{$neighborsData['neighborhood']}}
                     @else
                         N/A
                     @endif
