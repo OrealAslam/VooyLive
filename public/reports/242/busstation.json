@@ -1,0 +1,883 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.660489,
+               "lng" : -79.38444699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6621179302915,
+                  "lng" : -79.38310841970849
+               },
+               "southwest" : {
+                  "lat" : 43.6594199697085,
+                  "lng" : -79.3858063802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Standard Parking",
+         "place_id" : "ChIJnUz2uLU0K4gRn6oIo12dSMM",
+         "plus_code" : {
+            "compound_code" : "MJ68+56 Toronto, ON, Canada",
+            "global_code" : "87M2MJ68+56"
+         },
+         "reference" : "ChIJnUz2uLU0K4gRn6oIo12dSMM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "777 Bay Street, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6560524,
+               "lng" : -79.3846762
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6575170302915,
+                  "lng" : -79.3829464697085
+               },
+               "southwest" : {
+                  "lat" : 43.6548190697085,
+                  "lng" : -79.38564443029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Toronto",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116163644475799011714\"\u003eF Wong\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECELi5jpgqObUnxM7auKNlfjUfr8JOj4JvD8K6K-_WWHpVSlQbenLVNRJueTlL5ZglZF7L6NMOUQ6xf_qOsofy1j4cgIktBfvjmMRTFqLhE95aKIujs1mJ53xk_lv2maIyqigZsD7kadgRKAvg9n68hBH-iDTw2FPbxWzgmz0kqKJAW",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJV9TQs8s0K4gR7jd0l2WdvrE",
+         "plus_code" : {
+            "compound_code" : "MJ48+C4 Toronto, ON, Canada",
+            "global_code" : "87M2MJ48+C4"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJV9TQs8s0K4gR7jd0l2WdvrE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 213,
+         "vicinity" : "610 Bay Street, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6454978,
+               "lng" : -79.37760249999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6469206802915,
+                  "lng" : -79.37668866970849
+               },
+               "southwest" : {
+                  "lat" : 43.6442227197085,
+                  "lng" : -79.37938663029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Toronto - Union",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105320414435507617357\"\u003eOfficialG Tui\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAB6MjdguMzooewo-XMbMeRunodgVe5TTF74D4klm4XXVUCKEV6sy5p1ArNJucBxx2dkMweJ4PbUuvd6wvILdb7Jqrogz2GrBysQtpbPm6QQz5QFdLFk_5zUszTaH7pvqbs25GdJYPhbYfZkbvTodOFf3KRNIIe7G2YRbMdgu3Rp0r1",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJSSKd7yzL1IkRBU51kFDszmk",
+         "plus_code" : {
+            "compound_code" : "JJWC+5X Toronto, ON, Canada",
+            "global_code" : "87M2JJWC+5X"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJSSKd7yzL1IkRBU51kFDszmk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 143,
+         "vicinity" : "81 Bay Street, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.648731,
+               "lng" : -79.38040199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6500015302915,
+                  "lng" : -79.37896206970849
+               },
+               "southwest" : {
+                  "lat" : 43.64730356970851,
+                  "lng" : -79.3816600302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Bay St at King St West",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100962857136462240087\"\u003eAryan Nava\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBn3TaCDUPQhnIsyLNTy1Ozb03an39W3gzurKCgl__Quy_xylmYLZ_Z4cju6daVPl6vUvvEyDBiO7QYScjH7nvsmoJL4mzd3YAZ0zcndDikh9rGGtpHs9ecScFfKNrKjtFPUEP1z9-5I36wdpIT1U44dFru5Uul57esLCqaqZLEJs5b",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJMUgCrdI0K4gRQwy3pc8CNuo",
+         "plus_code" : {
+            "compound_code" : "JJX9+FR Toronto, ON, Canada",
+            "global_code" : "87M2JJX9+FR"
+         },
+         "rating" : 4,
+         "reference" : "ChIJMUgCrdI0K4gRQwy3pc8CNuo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6484538,
+               "lng" : -79.38006799999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6497907302915,
+                  "lng" : -79.3787675697085
+               },
+               "southwest" : {
+                  "lat" : 43.6470927697085,
+                  "lng" : -79.38146553029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Bay St at King St West",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101359493017182866578\"\u003eRoger Ye\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDXuKsgvTinYcM5dSipD7KKvmAu5-udrabwRGwUipgg-szlFH2GwiRCISIRvWjGk1835azXxHmVxMUp8nOwNUwcAaRqhnVJ3FuYCM0WY26q3qnaVSH664T_0eZU4qTFtP7jDKQ3UmNWnx3IvG6RAfCIxKf4zGUyeAph9XYo5S7PemyY",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ9fecUy3L1IkRXdqYnidUfF8",
+         "plus_code" : {
+            "compound_code" : "JJX9+9X Toronto, ON, Canada",
+            "global_code" : "87M2JJX9+9X"
+         },
+         "reference" : "ChIJ9fecUy3L1IkRXdqYnidUfF8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6471713,
+               "lng" : -79.3795138
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6485074302915,
+                  "lng" : -79.37821961970849
+               },
+               "southwest" : {
+                  "lat" : 43.6458094697085,
+                  "lng" : -79.3809175802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Bay St at Wellington St West",
+         "photos" : [
+            {
+               "height" : 3256,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114118451392288609524\"\u003ePako Valera\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC_kIKDp3z57Y6qOYDK3hJ-R6No63nWyF9BJTP2JkxkQqS7lx1VCCT-oIz6N5lnooDURRNiAv9Jns3wPLu7gl7bUPqr0Ke-JlKN_ZJY_7Y5xR_cjSkY7irT60D_EiFm-Dc7P8MwniyL1v1p2WdL33MUxC0W0aRqg__Y4B52hnHq7t6u",
+               "width" : 4612
+            }
+         ],
+         "place_id" : "ChIJJ8TtOi3L1IkRUFXn5jjmknE",
+         "plus_code" : {
+            "compound_code" : "JJWC+V5 Toronto, ON, Canada",
+            "global_code" : "87M2JJWC+V5"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJJ8TtOi3L1IkRUFXn5jjmknE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.651901,
+               "lng" : -79.382172
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6532503802915,
+                  "lng" : -79.38081381970849
+               },
+               "southwest" : {
+                  "lat" : 43.6505524197085,
+                  "lng" : -79.3835117802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Bay St at Queen St West",
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102624457361475657597\"\u003eFrancesco Colarieti\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAOwkA0HW9-TUml2Fy8Cmm7ajulhZf6fvNPDl8g6lPn-urEekJGumn8jJKFwyc4ySAyYKlr87SI0fZPOAS4JT9Ni1rTngdRjxyZdcoir9ShNJSCPbf305UDYQb55T7YLK3-nVbtvOWbRiRtyEmaFBVQK6dXJDzfYEGj5_526VfGABom",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJMwhb5Mw0K4gRTwVXvjNy2is",
+         "plus_code" : {
+            "compound_code" : "MJ29+Q4 Toronto, ON, Canada",
+            "global_code" : "87M2MJ29+Q4"
+         },
+         "rating" : 4,
+         "reference" : "ChIJMwhb5Mw0K4gRTwVXvjNy2is",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6460248,
+               "lng" : -79.37844339999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.64740248029149,
+                  "lng" : -79.3771120697085
+               },
+               "southwest" : {
+                  "lat" : 43.6447045197085,
+                  "lng" : -79.37981003029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Front St West at Bay St East Side",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102553769511302489247\"\u003eAndroid Dave\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC6Y7Hk2mtZjTiHTLwXHIGAkJDLbLae_7Xv5j_44_ZobzprFHQ0UeWj5J6jCL1h-kM7w-oN-bALvUgCbXYPdcsOWm9lNjI6A7fmxGBB0Ng8wu-RYZs1yFJ6FJRvX6NP1qMgtSCaJ2qdA73q3bjQqSH_VdF9QnOA-qscBJc39QYg43-u",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJUVIw5CzL1IkRArm6-GZhQ1s",
+         "plus_code" : {
+            "compound_code" : "JJWC+CJ Toronto, ON, Canada",
+            "global_code" : "87M2JJWC+CJ"
+         },
+         "reference" : "ChIJUVIw5CzL1IkRArm6-GZhQ1s",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.64548500000001,
+               "lng" : -79.378998
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.64687373029151,
+                  "lng" : -79.37757731970849
+               },
+               "southwest" : {
+                  "lat" : 43.64417576970851,
+                  "lng" : -79.3802752802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Bay St at Front St West South Side",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111688945165591346095\"\u003eMichael Malone\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED4GSJOz7ZjBphmc4dI_Kkdq3wGxMRcPYbN6WvqhmIf8CTd7AwBWFsqHhKKMsVeRtkRNDQ-DpH2UseWy8_SfbGtnhBqu7y63BHWTanLHh5dl3sLNvc-VP_B673w1mYITgjnF95zkoSGnIFGUrVbVJ92zxRZiz4zONaiJf5kHYtlqSPB",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJa0DPwSzL1IkRxBFEg5Fy-98",
+         "plus_code" : {
+            "compound_code" : "JJWC+5C Toronto, ON, Canada",
+            "global_code" : "87M2JJWC+5C"
+         },
+         "reference" : "ChIJa0DPwSzL1IkRxBFEg5Fy-98",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.655548,
+               "lng" : -79.3835326
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6568759302915,
+                  "lng" : -79.38224236970849
+               },
+               "southwest" : {
+                  "lat" : 43.6541779697085,
+                  "lng" : -79.38494033029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Bay St at Dundas St West",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102553769511302489247\"\u003eAndroid Dave\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAGXrDbyfQBBmFE-gyg9FyGVih5yIDHe49yZzDxN5IZ8Zb4jk9PZKd3BSpK35549AZYV_x3n258ZK3TVmKnS9v9D4BApAtGeC_7Wxt9Ya2Vg2634nvZvu87PjG5eoP2eD3ckAUhHBcoPgTpTWT3RKrEXABVWrwzWQ8Ausb5YsXUH3uF",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJOWg8pMs0K4gR1ndxSMKRH8I",
+         "plus_code" : {
+            "compound_code" : "MJ48+6H Toronto, ON, Canada",
+            "global_code" : "87M2MJ48+6H"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJOWg8pMs0K4gR1ndxSMKRH8I",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6560531,
+               "lng" : -79.384743
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65747698029149,
+                  "lng" : -79.38317120000002
+               },
+               "southwest" : {
+                  "lat" : 43.6547790197085,
+                  "lng" : -79.38614799999998
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Toronto Coach Terminal",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117377762110860852590\"\u003eSPCA663 Little B\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDNJMxz9qhAfpt6YbvXYKiXm08i8eeAHMyRER9K9GhG5Z6ITux9Pr5b7t5pjkKAgtKf7N0P2gRqsW_YNZhNZfy3r7mlxDNaDru0QeBadSdfo35myU0Rl3Bena0XwfDAOsn_H2wEAfV_xglNDKy0TgqN3-gu4bVXlfBukeUAUKzbz_gn",
+               "width" : 1439
+            }
+         ],
+         "place_id" : "ChIJg7h5tss0K4gR2ZCmEj6GUt4",
+         "plus_code" : {
+            "compound_code" : "MJ48+C4 Toronto, ON, Canada",
+            "global_code" : "87M2MJ48+C4"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJg7h5tss0K4gR2ZCmEj6GUt4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 20,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.656506,
+               "lng" : -79.381073
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6578769802915,
+                  "lng" : -79.37968761970849
+               },
+               "southwest" : {
+                  "lat" : 43.6551790197085,
+                  "lng" : -79.3823855802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Yonge St at Dundas St West",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102272881331149401307\"\u003eAnh Duy\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECITy6LR6v5mU6nVGCwnzv4-avQwwwAOGaAO11LBT3hRDDD8UY4FEwF-H6UDpIAJp4qsbL_1AeDtPaoYdcQ6jO9LhWxyUgBck40J4X6va8PqlCJJV7KIBdjAsc0LUZ4s08UxTNcEbM3orV4Ba3a23vMYsQSNH8pq9pDiDXBbRzS41Wf",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJiZom18o0K4gRdRYJViV4cYU",
+         "plus_code" : {
+            "compound_code" : "MJ49+JH Toronto, ON, Canada",
+            "global_code" : "87M2MJ49+JH"
+         },
+         "rating" : 2,
+         "reference" : "ChIJiZom18o0K4gRdRYJViV4cYU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.650806,
+               "lng" : -79.371956
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6521472302915,
+                  "lng" : -79.37064281970849
+               },
+               "southwest" : {
+                  "lat" : 43.6494492697085,
+                  "lng" : -79.37334078029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Jarvis St at King St East",
+         "place_id" : "ChIJ9TTPATHL1IkR3qQF0biQDio",
+         "plus_code" : {
+            "compound_code" : "MJ2H+86 Toronto, ON, Canada",
+            "global_code" : "87M2MJ2H+86"
+         },
+         "reference" : "ChIJ9TTPATHL1IkR3qQF0biQDio",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6596846,
+               "lng" : -79.3901535
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6610224802915,
+                  "lng" : -79.38885361970848
+               },
+               "southwest" : {
+                  "lat" : 43.6583245197085,
+                  "lng" : -79.39155158029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "University Ave at College St",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114806944461844012694\"\u003eSimply Emie Vlogs\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED4hMGlZCumj6XdZxXStP4bWwNvpIx4bb1m4ZUMhHqdeFCGlmXcbYHnEHdJ_mE7FnAh3D0x-9QfIcaxNy6gNu0SG4dQIvESGZZuNKJ8k0xR-PYyY1kIMFpSLMYrIBdVYAlGmBjCnWz3jhy-Tv0FzgPw29rpRdRNbXobKGxvELYhH0LJ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJObn43bc0K4gRkZ7KOYUGayg",
+         "plus_code" : {
+            "compound_code" : "MJ55+VW Toronto, ON, Canada",
+            "global_code" : "87M2MJ55+VW"
+         },
+         "rating" : 5,
+         "reference" : "ChIJObn43bc0K4gRkZ7KOYUGayg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6630991,
+               "lng" : -79.37289349999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6644261302915,
+                  "lng" : -79.37159596970848
+               },
+               "southwest" : {
+                  "lat" : 43.6617281697085,
+                  "lng" : -79.3742939302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Sherbourne St at Carlton St",
+         "place_id" : "ChIJC2pSz07L1IkRJU9dJVRzlqc",
+         "plus_code" : {
+            "compound_code" : "MJ7G+6R Toronto, ON, Canada",
+            "global_code" : "87M2MJ7G+6R"
+         },
+         "reference" : "ChIJC2pSz07L1IkRJU9dJVRzlqc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.663432,
+               "lng" : -79.3732488
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6647752302915,
+                  "lng" : -79.37185101970849
+               },
+               "southwest" : {
+                  "lat" : 43.6620772697085,
+                  "lng" : -79.37454898029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Sherbourne St at Carlton St",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102553769511302489247\"\u003eAndroid Dave\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECFzgjbIyJQ44Cw0YI4T7C8PtVctE8bQETqS05e-CYCQnkh9fhnDIFjoT6oz0mV_pZlc2_h6pwapKp1KmVqTrULz9Ecq063IjRh56kkxZBQN7cKcP6pjUIk_3gOC4dtRGKQ0ZGAYfI98A7H9wCwUORP3JDO75LLCmZVRNghsax3vzc1",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJH1UEx07L1IkRSd1wrYu1UDQ",
+         "plus_code" : {
+            "compound_code" : "MJ7G+9P Toronto, ON, Canada",
+            "global_code" : "87M2MJ7G+9P"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJH1UEx07L1IkRSd1wrYu1UDQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.65955149999999,
+               "lng" : -79.36582709999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.66085993029149,
+                  "lng" : -79.36446166970849
+               },
+               "southwest" : {
+                  "lat" : 43.65816196970849,
+                  "lng" : -79.3671596302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Dundas St East at Parliament St",
+         "place_id" : "ChIJyYYJ_UbL1IkRTgfq3U6pxjU",
+         "plus_code" : {
+            "compound_code" : "MJ5M+RM Toronto, ON, Canada",
+            "global_code" : "87M2MJ5M+RM"
+         },
+         "reference" : "ChIJyYYJ_UbL1IkRTgfq3U6pxjU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.66551940000001,
+               "lng" : -79.3838164
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6666695302915,
+                  "lng" : -79.3823718197085
+               },
+               "southwest" : {
+                  "lat" : 43.6639715697085,
+                  "lng" : -79.3850697802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Wellesley Station",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113036725207736941957\"\u003eChuan Chee\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDzfrAXb0QrbMmbuTeobmJWnHYbDFAc9SGsgLT5xA9jwGAr7cl_9QcYvikLy9oLTBY9t8lD_XRhPdHAtMN0YL5pIYSo8uPIKiMyOoVx2kesPkllLz7IXp955Sm91AuAlbUuq2t0-Qztqm9ZVzKoXjl3P1I11h19rEwmUkWBb98jzp0c",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ87blrbM0K4gRFzOaqcO7sgc",
+         "plus_code" : {
+            "compound_code" : "MJ88+6F Toronto, ON, Canada",
+            "global_code" : "87M2MJ88+6F"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ87blrbM0K4gRFzOaqcO7sgc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 17,
+         "vicinity" : "16 Wellesley Street East, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.63642099999999,
+               "lng" : -79.40100099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6377735302915,
+                  "lng" : -79.3996360197085
+               },
+               "southwest" : {
+                  "lat" : 43.6350755697085,
+                  "lng" : -79.4023339802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Iannuzzi St At Fleet St",
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101691096125287061090\"\u003eMaricela Amaya\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED-wNcirpNTpSeJ-NXN1sNbGBEx_C5sE82KoxAGXH-pQ70wtXk6znBe1jm6UVn0j0pWvuUKdJh4tDJdzdIKvg2RX8QU-AS43Y1ud9LTrlmpUxrvzdYmxAz-t2mUrqlJvosc_HHYcQ2IEYKisEO3cHN_AYTkF_G8ks9Ocvl3KqvTy_oB",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJ1cKZJiI1K4gR-dXeGn40wV4",
+         "plus_code" : {
+            "compound_code" : "JHPX+HH Toronto, ON, Canada",
+            "global_code" : "87M2JHPX+HH"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ1cKZJiI1K4gR-dXeGn40wV4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      }
+   ],
+   "status" : "OK"
+}

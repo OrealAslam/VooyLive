@@ -101,7 +101,7 @@
 							@if (isset($details->photo))
 								<img src="{{ url('/'.$details->photo) }}" alt="{{ $user->firstName }} {{ $user->lastName }}">
 							@else
-								<img src="{{ asset('img/your-image-here2.png') }}" class="img-responsive" style="">
+								<img src="{{ asset('img/your-image-here2.png')}}" class="img-responsive">
 							@endif
 							<div class="name text-center">{{ $user->firstName }} {{ $user->lastName }}</div>
 						</div>

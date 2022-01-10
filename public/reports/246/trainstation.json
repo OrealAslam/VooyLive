@@ -1,0 +1,930 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEDHyk5z3A23zt8-E7ejk3AYIqkqJrYycxXOrAJq3caK1jljrrYPSDSUarqSl9PfhrsFDS4ngx2jgSV3H40xhwBcXSB9jMLAvXnfochVN49-L_fV54beFmwNKFlvPFe0y28TjNbXzNsTE8F5w1Dcu4_WEEefpZFgop02xmxqKk-thofRcYTSLGR0X7p-IBV0jepeKQ8Wx2OqL3fXSdwRp3PoEbJ1LlZiACUuBF6TTpzAg1Ig2MJcTOenrNzmdgEuzaFAmdq9I7IKn8_KjUHY0EpddtylenAeOi2HWUFNdISNqwH6C76B6EDfvkdqNQzYc1gDfey0D-N0Ax27RGzWBdIZPqe9xRszzySRhcCijZcB3utWIsrTDCTEChPWGGupGBnqt0qZu8wio1w2B8-3wnaMwW4Q0sGSLE0veLH_89O4Agb3X91Q675vhkPZ8Tgz0ndBXda73S6P4Cjww2p8L4NFikY66Gzqy77KCsP7wFFwC4raiZZ_zF2S3A1DD3c0Qqbl3BkCOJTBPMUmPMUz0SaXqclRlHIqzQ3nKc2VZ0qF1NhmGyeGrB2dE7yn_HpYs1F3psJscRmYsZrJASEIZk0tj_VmZ3AVqEJWNJnnk0d3r5-ufttKpGcDLPRzJjmoAo5SevCJSA9CQt3WfHtj_6OShJcQBXvgF7In9Wi81SSx0euaFptq5aPDIdMljMXwADUJMkfakOJHSzky2uHwtJc4YK7I3iu0m_-Ti7oVgOi_JEywKanhUuCOmcMpjwJMR4Gvag",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4164349,
+               "lng" : -75.6516858
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4179590302915,
+                  "lng" : -75.6503701197085
+               },
+               "southwest" : {
+                  "lat" : 45.41526106970851,
+                  "lng" : -75.6530680802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Ottawa",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115435503266662530249\"\u003eMALICK INC. MUSIC\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEABDx3KCWnHStqBI8pxSXKPu16uHBOrcNAmfXl3d3dGNsbJfZw-3FOB9hApBLUKSD9ku_aKQtpj4kWnw1gxxsJRiRrxK8YkDWHYawpIBAC0AWBGkwQJOGLMq-0J85QcSCj364b3djTbYWQWMaE5RHuTf9M4R9LQoJlyAdsZjhGYfQ9N",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJwdIyYH8FzkwRtL7gV3fxxrI",
+         "plus_code" : {
+            "compound_code" : "C88X+H8 Gloucester, Ottawa, ON, Canada",
+            "global_code" : "87Q6C88X+H8"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJwdIyYH8FzkwRtL7gV3fxxrI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 311,
+         "vicinity" : "200 Tremblay Road, Ottawa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4136682,
+               "lng" : -75.7136424
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.41501718029149,
+                  "lng" : -75.7122934197085
+               },
+               "southwest" : {
+                  "lat" : 45.41231921970849,
+                  "lng" : -75.71499138029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Pimisi",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106303466024926836795\"\u003eJusta Bee\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAc7tBArcke2-MrK-XwP4-nhDRz-7LpdK0JIu75MumboW8yGuF_F57s_gH7GVxMYvI9dgHn7HS-wk0XzkjUpVnXq7br284lOuk4y_3Eknbt7_5mvGyNKJoJj03RLebjkaONxtUBAzZZL-nbdEFfzFc5gn9R24nuUSD5awAsKD_aEB6L",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJa2Ckik8EzkwRhvi_wNuI7TE",
+         "plus_code" : {
+            "compound_code" : "C77P+FG Somerset Ward, Ottawa, ON, Canada",
+            "global_code" : "87Q6C77P+FG"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJa2Ckik8EzkwRhvi_wNuI7TE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 12,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4185589,
+               "lng" : -75.7050886
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4199599302915,
+                  "lng" : -75.70378921970848
+               },
+               "southwest" : {
+                  "lat" : 45.41726196970851,
+                  "lng" : -75.7064871802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Lyon",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106303466024926836795\"\u003eJusta Bee\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBCEkFebSQy3BAaCoy3rKPN_aeKKiMHreZhwluId1GA7xAozzf2wadsv8wo15lepfUcXH2FSU16_K1Vx1LOlOf43JOggF5jvkcWNEzZhxHAVnm-FzB2DWRh-vuLI9zvoxA-NHDSHivrI14WNJpdb8eRzUqY-7TET65iHAsxT1amv7SD",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJi7hWTFEEzkwRyxL5YJ3LWY0",
+         "plus_code" : {
+            "compound_code" : "C79V+CX Somerset Ward, Ottawa, ON, Canada",
+            "global_code" : "87Q6C79V+CX"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJi7hWTFEEzkwRyxL5YJ3LWY0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 20,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.40948339999999,
+               "lng" : -75.7218314
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4107313302915,
+                  "lng" : -75.7205422697085
+               },
+               "southwest" : {
+                  "lat" : 45.4080333697085,
+                  "lng" : -75.72324023029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Bayview",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104748003901621827901\"\u003eMichael Tam\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB79KZ5l70vbx2rPmhgYd0RDDtM-dbnB6Y3UHUAUD73Ns3aF71Ix4ZpsePsyqhyhOfpz7nBL_waUMzly2JYvnhJ7iAzInxKcIr4Bbpe1f-ARpffct8drCYyhmMlTOWqyIkjlDmDqSSCoHmJKjQBSu5RO_crXxdAjTelNzWO_5AMZ1qv",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJLRqsLEEEzkwRl2wqyv6rd2Y",
+         "plus_code" : {
+            "compound_code" : "C75H+Q7 Nepean, Ottawa, ON, Canada",
+            "global_code" : "87Q6C75H+Q7"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJLRqsLEEEzkwRl2wqyv6rd2Y",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 26,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.40938800000001,
+               "lng" : -75.72206
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.41073698029152,
+                  "lng" : -75.72071101970849
+               },
+               "southwest" : {
+                  "lat" : 45.40803901970852,
+                  "lng" : -75.72340898029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Bayview O-Train West / Ouest",
+         "place_id" : "ChIJ99KkLUEEzkwRMlCYkj9DsSw",
+         "plus_code" : {
+            "compound_code" : "C75H+Q5 Nepean, Ottawa, ON, Canada",
+            "global_code" : "87Q6C75H+Q5"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ99KkLUEEzkwRMlCYkj9DsSw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4208794,
+               "lng" : -75.69969909999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4222776302915,
+                  "lng" : -75.69839776970849
+               },
+               "southwest" : {
+                  "lat" : 45.4195796697085,
+                  "lng" : -75.7010957302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Parliament / Parlement",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114425110496540933624\"\u003eBranko Ljumovic\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBlbSm6CvUIP7ja15LBmt_DWs7CcOFcTcjXWqJK7gK9EILWva7UAvaoqITG4paEgl1W5H8QoijfEl0OmDvm5AWyo8zE1T_t9CZuAuGNelimpbVrPHd441H6xd-cPP0uTuKbJfhLBgMYXGY8YMNHTpzqjmiBdh3pQQ_sCG9LR6w44nV2",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJZa2ACFUEzkwRwlWVRIRrHAE",
+         "plus_code" : {
+            "compound_code" : "C8C2+94 Somerset Ward, Ottawa, ON, Canada",
+            "global_code" : "87Q6C8C2+94"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJZa2ACFUEzkwRwlWVRIRrHAE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 28,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.403727,
+               "lng" : -75.735192
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4051793302915,
+                  "lng" : -75.7339426697085
+               },
+               "southwest" : {
+                  "lat" : 45.4024813697085,
+                  "lng" : -75.7366406302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Tunney's Pasture",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106303466024926836795\"\u003eJusta Bee\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB6Qu77gpJ-N0dRuFdoiRv41ZP60BC600GJrh2CS0kTDkq_hWjwASGu830Lhm4GCiEPrEp9CttZ6u_IDw8Z-CudKto_ZEiDKcZGnQhmMGacT0Mi568d0QgJ3LxERjoFbAxn3W4v5whqqQLWwhWpD2PktYqsyKhc8bx3EyIWaJ2OuTZ9",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJo3nsJRQEzkwRuPu_tXBOWiM",
+         "plus_code" : {
+            "compound_code" : "C737+FW Nepean, Ottawa, ON, Canada",
+            "global_code" : "87Q6C737+FW"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJo3nsJRQEzkwRuPu_tXBOWiM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 20,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.403704,
+               "lng" : -75.735246
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.40516193029149,
+                  "lng" : -75.7339843197085
+               },
+               "southwest" : {
+                  "lat" : 45.4024639697085,
+                  "lng" : -75.7366822802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Tunney's Pasture O-Train East / Est",
+         "place_id" : "ChIJZ8PcJRQEzkwRsfHnva6MOD8",
+         "plus_code" : {
+            "compound_code" : "C737+FW Nepean, Ottawa, ON, Canada",
+            "global_code" : "87Q6C737+FW"
+         },
+         "reference" : "ChIJZ8PcJRQEzkwRsfHnva6MOD8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4260805,
+               "lng" : -75.6920307
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.42744758029149,
+                  "lng" : -75.69069826970849
+               },
+               "southwest" : {
+                  "lat" : 45.4247496197085,
+                  "lng" : -75.6933962302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Rideau",
+         "photos" : [
+            {
+               "height" : 3072,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108750056157233192505\"\u003eNicholas Garth\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBNQ-qh_b3fOMXcCM6BpMmKth2EIajmrKVIysOADg6xJOmLEio2PSSLPYoI5LNBegEvs-AWJ0zsHRGAiBTZQaS1xY5RP88T-9_D-W2SOTw31UBNj4qyVuvC95rhy_mSoSaJboxzcPsXPWAr6Rw-NdB-GV5EhjFuHxRU6dHb5oAs8rU2",
+               "width" : 4080
+            }
+         ],
+         "place_id" : "ChIJCRr-kQEFzkwRx27S-PITyFU",
+         "plus_code" : {
+            "compound_code" : "C8G5+C5 Somerset Ward, Ottawa, ON, Canada",
+            "global_code" : "87Q6C8G5+C5"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJCRr-kQEFzkwRx27S-PITyFU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 31,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.426057,
+               "lng" : -75.69203899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.42738508029149,
+                  "lng" : -75.69067086970848
+               },
+               "southwest" : {
+                  "lat" : 45.42468711970849,
+                  "lng" : -75.69336883029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Rideau O-Train West / Ouest",
+         "place_id" : "ChIJa-n_kQEFzkwR59uT22oz0jw",
+         "plus_code" : {
+            "compound_code" : "C8G5+C5 Somerset Ward, Ottawa, ON, Canada",
+            "global_code" : "87Q6C8G5+C5"
+         },
+         "reference" : "ChIJa-n_kQEFzkwR59uT22oz0jw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.420782,
+               "lng" : -75.68277599999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.42213098029149,
+                  "lng" : -75.68142701970849
+               },
+               "southwest" : {
+                  "lat" : 45.41943301970849,
+                  "lng" : -75.6841249802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "uOttawa O-Train West / Ouest",
+         "place_id" : "ChIJb__GHQgFzkwR88aprIIkW-8",
+         "plus_code" : {
+            "compound_code" : "C8C8+8V Vanier, Ottawa, ON, Canada",
+            "global_code" : "87Q6C8C8+8V"
+         },
+         "reference" : "ChIJb__GHQgFzkwR88aprIIkW-8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.420763,
+               "lng" : -75.68275179999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4221119802915,
+                  "lng" : -75.6814028197085
+               },
+               "southwest" : {
+                  "lat" : 45.4194140197085,
+                  "lng" : -75.6841007802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "uOttawa",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106303466024926836795\"\u003eJusta Bee\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAHZ4odO-2FCGQJlXfZAB5ojyDJWUcUAK8HnZRP1O0_GbRTCnEN7CdruMjUIigPzpVosSyAE6Wf0kISdhqhXNOqr12fbs9QUrDrWfTe1VTCjsLzqzr4t5kdI3ii_fcph1mD_9Faxi6AyUienvRXZURgyr0T0Njjtg_KS7zwj8EAiiRf",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJe1LDHQgFzkwRXmaV6Ge1_R0",
+         "plus_code" : {
+            "compound_code" : "C8C8+8V Vanier, Ottawa, ON, Canada",
+            "global_code" : "87Q6C8C8+8V"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJe1LDHQgFzkwRXmaV6Ge1_R0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4206621,
+               "lng" : -75.6823989
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4220110802915,
+                  "lng" : -75.68104991970849
+               },
+               "southwest" : {
+                  "lat" : 45.4193131197085,
+                  "lng" : -75.68374788029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "uOttawa",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111168592031957664213\"\u003eCharlie ND\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBI-wUE7pUyBfqEyx0_WIp1DK284tmptECvJFk9c8foOpwePJilEpC25Z8NGQOxlVdUDYW0_hyfrd2JiqXL8eXc9EdKuKZXxlEaCCXfMLs1hjcCwPBwQQNTis0GJMSpA-hq4-BVjogAUrmkWQY6_srXGzUop462_zmNBT8wHDMeJPs0",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJadHCHQgFzkwRXdv6APrtQnM",
+         "plus_code" : {
+            "compound_code" : "C8C9+72 Vanier, Ottawa, ON, Canada",
+            "global_code" : "87Q6C8C9+72"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJadHCHQgFzkwRXdv6APrtQnM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 12,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.3974537,
+               "lng" : -75.7094506
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.3985908802915,
+                  "lng" : -75.70792316970849
+               },
+               "southwest" : {
+                  "lat" : 45.3958929197085,
+                  "lng" : -75.71062113029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Carling",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114891589523932557659\"\u003eJairo Levi\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDszaBD3XGgoHZoU4MVTPjASISaSJ3bqjGelx67IYWTHKO0RNQdyFeIqaQv9c0-6fCEQ3H9vVAiyc9H1BcAKkwIfapbetEh1TD8Zw2ZealTknX_yn3-JE9dOAH6s-KPqcvtd0vJOKrSzrHZlTTZeomP16TBFS6KW2hfjmDffkssISFR",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJfy2-3jIEzkwRBb7hqrqBfgM",
+         "plus_code" : {
+            "compound_code" : "97WR+X6 Nepean, Ottawa, ON, Canada",
+            "global_code" : "87Q697WR+X6"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJfy2-3jIEzkwRBb7hqrqBfgM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 13,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.41638409999999,
+               "lng" : -75.6705319
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.41784683029149,
+                  "lng" : -75.66909551970849
+               },
+               "southwest" : {
+                  "lat" : 45.41514886970849,
+                  "lng" : -75.67179348029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Lees",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100768036436218733452\"\u003eJayonta Bhattacharjee\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBYHv9ZZXBMOYoniTyQjlr9LBtinnpfsr96ltGtWzwy304cxP14J3fgvuG-V-6f-5i9D1WyhHWdmde2ENRqxgLJ4fFXqlTHixck8LtiX3AbTheSzmgOI5ACJu-_zdpaebtQd1GR7Q41xAusOJGDZ19-4v5fSqzxcPGBpAwzn1gA9L_S",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJE0YKBJ8FzkwRAE_VSOKdUSU",
+         "plus_code" : {
+            "compound_code" : "C88H+HQ Vanier, Ottawa, ON, Canada",
+            "global_code" : "87Q6C88H+HQ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJE0YKBJ8FzkwRAE_VSOKdUSU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.416342,
+               "lng" : -75.670478
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4178131302915,
+                  "lng" : -75.66903516970849
+               },
+               "southwest" : {
+                  "lat" : 45.41511516970851,
+                  "lng" : -75.6717331302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Lees O-Train West / Ouest",
+         "place_id" : "ChIJH1n54p4FzkwRs5r4GH0cPWY",
+         "plus_code" : {
+            "compound_code" : "C88H+GR Vanier, Ottawa, ON, Canada",
+            "global_code" : "87Q6C88H+GR"
+         },
+         "reference" : "ChIJH1n54p4FzkwRs5r4GH0cPWY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4124363,
+               "lng" : -75.6642353
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.41378528029149,
+                  "lng" : -75.66288631970849
+               },
+               "southwest" : {
+                  "lat" : 45.41108731970849,
+                  "lng" : -75.6655842802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Hurdman O-Train West / Ouest",
+         "photos" : [
+            {
+               "height" : 2080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109591631517751386508\"\u003eBrian Walker\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECQ4rVupe1Exo8J0bUvF8DvXSE7Dn8pELFb4ln92lBwZEmsQiwbpyTSL0YVZdM6jj8yNhXRKmUHhQ0E3G6pJaGHKHF9S8o2_KvkgWSmi1fyAFsM9ybIbdLdYXLlaZZVpVfq8wMKHtqXTNLi-mBHp-lwE3jTgsQgGv3IVx5vbqKi2evJ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ0SbCEpsFzkwRE5NuaqdJOeE",
+         "plus_code" : {
+            "compound_code" : "C86P+X8 Gloucester, Ottawa, ON, Canada",
+            "global_code" : "87Q6C86P+X8"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ0SbCEpsFzkwRE5NuaqdJOeE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.412381,
+               "lng" : -75.663798
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4137299802915,
+                  "lng" : -75.6624490197085
+               },
+               "southwest" : {
+                  "lat" : 45.4110320197085,
+                  "lng" : -75.66514698029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Hurdman",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114144893092387721253\"\u003eHassan Rawi\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECbFdb01lnQbE0kaJo-dR14PQYL0xyvyjq2oHb2bNJSEdpUEeahdSN9Oo3-O3DP1DmEcJ7Cybo3LIj3XhaSYD02cUHyiAgYDiOPFYvalHep2D67PZkObhuA5hX1Y6ffzs05Iny7_SnwT62vzXUP5xDEMwOsGxcTzPn-WKdT6SpU5Sm1",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ7w_nQJsFzkwR5X_PmdFHnCc",
+         "plus_code" : {
+            "compound_code" : "C86P+XF Gloucester, Ottawa, ON, Canada",
+            "global_code" : "87Q6C86P+XF"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ7w_nQJsFzkwR5X_PmdFHnCc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 18,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.3856798,
+               "lng" : -75.69601709999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.3869909802915,
+                  "lng" : -75.69484701970849
+               },
+               "southwest" : {
+                  "lat" : 45.3842930197085,
+                  "lng" : -75.6975449802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Carleton",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114353478690109870296\"\u003eKaleem Mahmood\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDqDV47fXF8RhGL2JJzuzAiQMxM4LRcGvsVdtIsl5iU0Miur4Kny9cOa6r1SXBSiEJcCg7QqxPZuqwQq0WYhhaUO5caQJvMW9L-Pc78oTRlTFr_5xgoOr056RiDkv9A3kEYEDlAT-OVFNbJrzEYTiHsAfVoBvfbttLrZDSk_YxDTXsk",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ8d0extgFzkwRo6tX_qmSylY",
+         "plus_code" : {
+            "compound_code" : "98P3+7H Nepean, Ottawa, ON, Canada",
+            "global_code" : "87Q698P3+7H"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ8d0extgFzkwRo6tX_qmSylY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 23,
+         "vicinity" : "Campus Avenue, Ottawa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.416894,
+               "lng" : -75.6534619
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.41825688029149,
+                  "lng" : -75.65186301970849
+               },
+               "southwest" : {
+                  "lat" : 45.4155589197085,
+                  "lng" : -75.65456098029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Tremblay",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114425110496540933624\"\u003eBranko Ljumovic\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBXVGuHmjAkW7dywo9Pwuada6ifWgpRNcO9fbq204IMCgDM6Z0TsLBSLVTKyt0HujAaNpY7Dk58Vj9RXqY6teRxYQNOzTuAs5JMHHexg55IO__YzU-hnexELkZkuhrblhE61vyHrYSQoumYYUbZyDxaSDmuE6pNPrJp5bJB7kk3S726",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJdbNmAoIFzkwRn6-285GSegE",
+         "plus_code" : {
+            "compound_code" : "C88W+QJ Gloucester, Ottawa, ON, Canada",
+            "global_code" : "87Q6C88W+QJ"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJdbNmAoIFzkwRn6-285GSegE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Canada"
+      }
+   ],
+   "status" : "OK"
+}

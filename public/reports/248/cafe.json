@@ -1,0 +1,993 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uECWiOs1Qi5GfDRgLRNtIdIBuvaZG5PBLsk2RU6CSXBox8PtEfp3Dk__jSQCSLD5wqSYS_G_Ygicz-y-q76Uj8lDvdd8ge3sSL5GcfGgcIA1hKETorPlDoeTyWhJC0RwOZKsDuA9CiXbXDSh3H9yaQw2eMWbf8Jl-tjy5CmsGf7sxS5yaYF_Ytfj_LTKhEAEiMKAR3wkLYgz8knOE1NT04SoK5Ivl8i-4bkks0DopRTktVU-bX2n8QuzSZfIGg15Wpw6p_6JKZraMsFhWuEb5OMIn8HWIFVp6JFElERPRwhnNJa7s-myn1HaZ13S4sSGV4MyhLtYBnZw0POtdpVsGI9mwUcckQjrmQZeWk2UIAmOXlfntqO6fkiEaZMVOr6evuNeUzDzspZHtTs6qxnp0LZnkG9HAxAJPsXmWm_OaW2tyr4MAiwQvrzooDDBkS4asiN0yJjXBAoyMq1ABRELC_y0maM_1VWkQN55aCF7d1TioBmHLVMfKA2Su4V3LvPBoSKlT-3e0g0Z_iuWBxeWyBFfsVqv-OhTGvLpCKl5xXGRjbD5vIz2j6xRcMbCJ-a73Krhdogb4BI8L0gTLnpDIT5QRxXnOHqd1sIuzX1zCntZut5UsRmAbyH8F9at7NjQgGscZ3KY1DMqAiwcQt4HgRGO1rJ9Y24ZUuIotrNf2jmkx5suq73l-FdLF-CK7YlVRE5vCPJscVeUdf6Dft5UWDjJUzvsH8s0PioWkCGvwekUBTrAfs9TMhKSiA",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4032084,
+               "lng" : -75.6882779
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4045573802915,
+                  "lng" : -75.68692891970849
+               },
+               "southwest" : {
+                  "lat" : 45.4018594197085,
+                  "lng" : -75.6896268802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102366296228091417775\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECVz5HxV-4w_mVLcG76WF8Wi8SiFbVwbvvTkQTg8Z8-5w7x9wANjtPk3uMVI8HSl95ZQpvkclzjgDzwNABCe_qf1axktEoYofn60njR3hsLS5bgfVQDtVbg6VKrZZhF54xsdmzo04A1Wgw4AbvoxDnUoOIbmjpVym5Q7lJXLeXVk6sI",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJu7V2lLgFzkwRmEnCYwkmnLQ",
+         "plus_code" : {
+            "compound_code" : "C836+7M Somerset Ward, Ottawa, ON, Canada",
+            "global_code" : "87Q6C836+7M"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJu7V2lLgFzkwRmEnCYwkmnLQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 562,
+         "vicinity" : "787 Bank Street, Ottawa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.39223,
+               "lng" : -75.6820353
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.39361763029149,
+                  "lng" : -75.68073566970848
+               },
+               "southwest" : {
+                  "lat" : 45.3909196697085,
+                  "lng" : -75.6834336302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Bridgehead",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114328921722467248531\"\u003eBridgehead\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAR7nuviUSejXmIkp2xPqScXt-gX-qwM-Oy8ol6FJhdNjfKSnkuGviVjOmr-YmnhD0CgjCg86if4XvdVCSqfZD7CzF4bmIY_ydtlI8FmvqsH9FovVibf82Z90Res_zzQHR2Cx3xI2VqGFUrgTp5Cqhvh4vccvFzLNyha5-iLUPlCr3T",
+               "width" : 533
+            }
+         ],
+         "place_id" : "ChIJZZ5yhugFzkwR6MDl0MSUit8",
+         "plus_code" : {
+            "compound_code" : "98R9+V5 Nepean, Ottawa, ON, Canada",
+            "global_code" : "87Q698R9+V5"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJZZ5yhugFzkwR6MDl0MSUit8",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 311,
+         "vicinity" : "at Grove, 1172 Bank Street, Ottawa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4190313,
+               "lng" : -75.69166919999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4204502802915,
+                  "lng" : -75.6902259197085
+               },
+               "southwest" : {
+                  "lat" : 45.4177523197085,
+                  "lng" : -75.69292388029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106130459357831078066\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAMKi15w72R_xCgpJcRkG__j1H2gR4VJAoBRfWq6gAptoATnJD7SuQjcAy_U0S9HCAAIKLNAMVroPP8H18YySW7uabSibEzC5E4Lj0y3z0ev9-Yq5B_03lxM8EduBu5HqO_5d6Zpx3xsdl3Dw08Curt1EWRXBYUXspD0aC9z8iPvhcc",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJj_UElgEFzkwRsoa64mcHKz8",
+         "plus_code" : {
+            "compound_code" : "C895+J8 Somerset Ward, Ottawa, ON, Canada",
+            "global_code" : "87Q6C895+J8"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJj_UElgEFzkwRsoa64mcHKz8",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 244,
+         "vicinity" : "216 Elgin Street, Ottawa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.41826639999999,
+               "lng" : -75.69093890000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4196485302915,
+                  "lng" : -75.68950331970851
+               },
+               "southwest" : {
+                  "lat" : 45.4169505697085,
+                  "lng" : -75.69220128029153
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107560280109668922438\"\u003eMichael Fuchigami\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDv9VIfUzp8NXnQRUdDfYlP91FoalEmapMkMh6MhBOFIq93qZQrRr5tiO-xtNIt_CZQhWAWyFYRfOSwCNY3n8DM2Qg1HOoi9HajwELJwny9bJZk801FRIcg8dbbyp9GUjRMP9fMcWzHreOeWafgn4LPnwjyrHEHMIiWMUyLMDYGuv7T",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJdf01ZqkFzkwRpa9TSwnLScM",
+         "plus_code" : {
+            "compound_code" : "C895+8J Somerset Ward, Ottawa, ON, Canada",
+            "global_code" : "87Q6C895+8J"
+         },
+         "price_level" : 1,
+         "rating" : 3.1,
+         "reference" : "ChIJdf01ZqkFzkwRpa9TSwnLScM",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1097,
+         "vicinity" : "252 Elgin Street, Ottawa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4139237,
+               "lng" : -75.6952965
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4152896302915,
+                  "lng" : -75.6938740197085
+               },
+               "southwest" : {
+                  "lat" : 45.4125916697085,
+                  "lng" : -75.69657198029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Bridgehead",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108712614391966453348\"\u003eBridgehead\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECBu9xS1u3DMMLDXD7W3Z-QCSCVPlPyef0Y9AR-jfk0nu3hR7bx7R9b6PlSrac6Jm6lfmSaUOOExvinoJ-cociCZMu2SU72F-dR3qItecl4CS8P2erSS2ZSksHqXIIBAEdz-fuY60PtCu-hoAaP6qH3qioZ-BbG7o0f52kjj5I27ytI",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJy3xpwK0FzkwRHLWGC6LqYn8",
+         "plus_code" : {
+            "compound_code" : "C873+HV Somerset Ward, Ottawa, ON, Canada",
+            "global_code" : "87Q6C873+HV"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJy3xpwK0FzkwRHLWGC6LqYn8",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 409,
+         "vicinity" : "366 Bank Street, Ottawa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4212697,
+               "lng" : -75.6956689
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.42261868029149,
+                  "lng" : -75.69431991970849
+               },
+               "southwest" : {
+                  "lat" : 45.41992071970849,
+                  "lng" : -75.69701788029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112052163094613674565\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECy-N1TJcXTs0c9NXYZJAsWsgE_VreiFB8gQ_d3mts4QgGs-fzCU5muxXspoBp3_ox4HGgSBN11HZujRjJGHKo2ehg0dUej9tzQWw32au0GZaA8BpS9qmh6qYwM6U1SBiJMIrb1sY7JHJjymH3B_iiJmat3lBSdWfZvyBFdowg5e3N4",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJj_UElgEFzkwRfTg4Grob4_4",
+         "plus_code" : {
+            "compound_code" : "C8C3+GP Somerset Ward, Ottawa, ON, Canada",
+            "global_code" : "87Q6C8C3+GP"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJj_UElgEFzkwRfTg4Grob4_4",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 451,
+         "vicinity" : "81 Metcalfe Street, Ottawa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4029421,
+               "lng" : -75.70118409999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4043972302915,
+                  "lng" : -75.69971146970849
+               },
+               "southwest" : {
+                  "lat" : 45.4016992697085,
+                  "lng" : -75.7024094302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106914232473766359819\"\u003eMoses Wong\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAkPKDtiRLOLWoEeJRfBsNz_C2NC2Gbx7oq779WvkjzkhmcXRUIptJRamuZgve64_6BUhORIHv6rAxyP9Dc5t0UoEtyvb3f_PdgEsbKw2I3Z4pwMeaHy_y1SaWgP2xz7kiwmjjztvhzhFLMuX0iScYUL-V4eNGdlTnhuGmVbd3iVhHX",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJwQQqE8oFzkwRYQOdzVErvcI",
+         "plus_code" : {
+            "compound_code" : "C73X+5G Somerset Ward, Ottawa, ON, Canada",
+            "global_code" : "87Q6C73X+5G"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJwQQqE8oFzkwRYQOdzVErvcI",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2571,
+         "vicinity" : "670 Bronson Avenue, Ottawa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.39393460000001,
+               "lng" : -75.68308910000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.39528358029151,
+                  "lng" : -75.68174011970852
+               },
+               "southwest" : {
+                  "lat" : 45.39258561970851,
+                  "lng" : -75.68443808029153
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Stella Luna Gelato Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3073,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106822516381034103259\"\u003eStella Luna Gelato Cafe\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDW4uwLo89RmbRPOw3xBmgLrJ9mlhppqGS-rlKXMjTW7ay7Al0dgp8_ZvR4jJbpHHUXXwsXqLrNFt_KEZSOFeS6SYph5W8PM--mvC2n0iomclpCAcuQjr_kDB0k1Ayno8IDwmjAZ6Rwh6fK2VSLxF__nrtE-n6Z4HDNag3hmyT2gKHR",
+               "width" : 4104
+            }
+         ],
+         "place_id" : "ChIJTWDBSegFzkwRY7BxChRNobg",
+         "plus_code" : {
+            "compound_code" : "98V8+HQ Nepean, Ottawa, ON, Canada",
+            "global_code" : "87Q698V8+HQ"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJTWDBSegFzkwRY7BxChRNobg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "grocery_or_supermarket",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1729,
+         "vicinity" : "1103 Bank Street, Ottawa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.42485079999999,
+               "lng" : -75.6843726
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.42618373029149,
+                  "lng" : -75.68306236970849
+               },
+               "southwest" : {
+                  "lat" : 45.42348576970849,
+                  "lng" : -75.68576033029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Second Cup Café",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114390155908322604378\"\u003eAsif A. Ali\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBJI2-3GFxmN29EKPeTts82PRP3QkDx3WUAhzqLfO2VpqvNYrGdl6nhb5XbNR5wm9jUCcabX8g41AqTuSNAHot3Rqq8V3fWx3uH4oo2AHWLAPw_2nKdbufAL7omi0Jl9W4Kfleei2ca6uN9sgKtKVULnaFPqZOLPvtLHtW_-zGMDz4I",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJGUjIZQYFzkwR3BtWwK_KQ4U",
+         "plus_code" : {
+            "compound_code" : "C8F8+W7 Vanier, Ottawa, ON, Canada",
+            "global_code" : "87Q6C8F8+W7"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJGUjIZQYFzkwR3BtWwK_KQ4U",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 377,
+         "vicinity" : "153 Laurier Avenue East, Ottawa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4174502,
+               "lng" : -75.7007801
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.41875793029151,
+                  "lng" : -75.6995213197085
+               },
+               "southwest" : {
+                  "lat" : 45.41605996970851,
+                  "lng" : -75.7022192802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Café Délice",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 810,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112040855954719220998\"\u003eCafé Délice\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAI0rGVm-lhVJesED5Sia_x9QVGWjcxzH6xNa7r8CNxllqDaGos9lLZLdL8rukMfdH7rA_cjXM3zTA4_7MDtRKksHKElKawhjz_18hfVq_XW0bJof8XTOuywavZsbEWFVoWz9xKhwOX-Nvkj_8AykG9eKx1a4N8SlAj15KopDHZMAWB",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJyXHUb1MEzkwRGN5d9Wd1Fy0",
+         "plus_code" : {
+            "compound_code" : "C78X+XM Somerset Ward, Ottawa, ON, Canada",
+            "global_code" : "87Q6C78X+XM"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJyXHUb1MEzkwRGN5d9Wd1Fy0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 96,
+         "vicinity" : "197 Kent Street, Ottawa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4080525,
+               "lng" : -75.67642599999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4091321802915,
+                  "lng" : -75.67548636970849
+               },
+               "southwest" : {
+                  "lat" : 45.4064342197085,
+                  "lng" : -75.6781843302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Café Urban",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106621037049170264906\"\u003ePhilippe Cote\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDF_JRljsgOvRAV6yawlWoLixTKMHUw0d7WTo8QlHohiM7Qj4jJePxl2ygrhpWc0E5yxOiym-Lm9oiK44_yOPEKvvPqtp5d4J69_8PkXnYhsXtA-naRFivdoHowk8Cp8S6qf_qTRe4mgXXAxymnGzs0elXlkDcapsOY6ovj6XrkVRg3",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJW05mzJcFzkwREMSL7r2OzDc",
+         "plus_code" : {
+            "compound_code" : "C85F+6C Gloucester, Ottawa, ON, Canada",
+            "global_code" : "87Q6C85F+6C"
+         },
+         "rating" : 4,
+         "reference" : "ChIJW05mzJcFzkwREMSL7r2OzDc",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "223 Main Street, Ottawa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.402784,
+               "lng" : -75.68806699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.40413298029149,
+                  "lng" : -75.68671801970848
+               },
+               "southwest" : {
+                  "lat" : 45.4014350197085,
+                  "lng" : -75.6894159802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Little Victories Coffee Roasters",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112135993939734013101\"\u003eLittle Victories Coffee Roasters\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDYZbGJuXufQycMbPj7h02lnzj53FvuLlzI80_BwSZiXTz2E5KzpO0teZ_2s-lVRJSajOzT9H0A6DFU7JYTezU8aGH0qGCBRnAC6lXhwKBRrH9CeAiaGtlp6NCWG-KqH0CYlFDYZp034FqhiN3DvhwaTWIFoO3A2082_XRBXkI5KH17",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJb9blpT4EzkwRqHyOrUu-ZI4",
+         "plus_code" : {
+            "compound_code" : "C836+4Q Nepean, Ottawa, ON, Canada",
+            "global_code" : "87Q6C836+4Q"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJb9blpT4EzkwRqHyOrUu-ZI4",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 539,
+         "vicinity" : "801 Bank Street, Ottawa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.40019729999999,
+               "lng" : -75.68444909999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4014965802915,
+                  "lng" : -75.68310901970848
+               },
+               "southwest" : {
+                  "lat" : 45.3987986197085,
+                  "lng" : -75.6858069802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "CACAO 70 Eatery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101320746241349574827\"\u003eCACAO 70 Eatery\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBIAY8RNzDlf4LMYVhc8L-mjyLgKKKUga_s5TwslFCzMOed_wPyY-lwVYoCLUmNwzEZ504XHhR6x1UBPZKAp2aizPX9zzjTAOdpBRSe2GJ3hnmI-Ylrf356AgM9BDdZIITYUX_KFN2gCkPkFs0PO7M5dJwQ3oHGFlARxvsp9kwWyBuD",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJDSkqX8AFzkwR8ejNbaZAc0U",
+         "plus_code" : {
+            "compound_code" : "C828+36 Nepean, Ottawa, ON, Canada",
+            "global_code" : "87Q6C828+36"
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "ChIJDSkqX8AFzkwR8ejNbaZAc0U",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 991,
+         "vicinity" : "225 Marché Way #109, Ottawa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.39934849999999,
+               "lng" : -75.6854996
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4006601802915,
+                  "lng" : -75.68447636970851
+               },
+               "southwest" : {
+                  "lat" : 45.3979622197085,
+                  "lng" : -75.68717433029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "WFM Coffee Bar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110292745277944471896\"\u003eMichael\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECg5p7MUtNthM5SgQ5ulUUbrL8M6vhn1zZOz1BVygjhGBwl9gqZ4GTv8yFrUY5-aiTNAIfFgsl2czuV9TGeidjUBSjUBqLMwgBttEHGGKrZYT2SXMb1g-IrG4J35uWhx1aGFNsmd6a_xNohRB6j6ffz0PSr-ml--CjJGk-IRPE7IKj2",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJRU5eHMEFzkwRKJNFqgz48XI",
+         "plus_code" : {
+            "compound_code" : "98X7+PR Nepean, Ottawa, ON, Canada",
+            "global_code" : "87Q698X7+PR"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJRU5eHMEFzkwRKJNFqgz48XI",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "951 Bank Street, Ottawa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4101217,
+               "lng" : -75.6929188
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4114706802915,
+                  "lng" : -75.6915698197085
+               },
+               "southwest" : {
+                  "lat" : 45.4087727197085,
+                  "lng" : -75.69426778029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Arlington Five",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115917615536622841874\"\u003eBennett James\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBJXGes0rh-mE2AALkwOIu8zj13fR2M_7IdRcQORDVJqk_nv5xhHvf4bof5gqlt2TK0aLYrgwC-yX7Ol9gH6bTJSS5cBRth7AuG7MpVsNG31QUUTdG3IG7eg4_QrJXxxsu1vFOhYTbeXb_iq0ZT2RWIxzRk8ET_rzG15-er2oxvHYE8",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJJaMsqrEFzkwRoVGUrdypwEw",
+         "plus_code" : {
+            "compound_code" : "C864+2R Somerset Ward, Ottawa, ON, Canada",
+            "global_code" : "87Q6C864+2R"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJJaMsqrEFzkwRoVGUrdypwEw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 477,
+         "vicinity" : "5 Arlington Avenue, Ottawa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4159149,
+               "lng" : -75.68884539999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4172766302915,
+                  "lng" : -75.68743181970849
+               },
+               "southwest" : {
+                  "lat" : 45.4145786697085,
+                  "lng" : -75.69012978029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Pure Kitchen Elgin",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103263025927162951751\"\u003eOmgequine\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECKgz0XnTWSsI9JRC_VB4Ih1dLxJYTIxQMqP3XcwbAU9BjlDATaf1RR689vP2ss3dZvyMHM2G33xQ0Ub81ou8bDYf5uoLpens5fXQsN92pWWblPcmrIDW9z7Gyf-xhVde_pwoEJ_oF181u4CRfF3gEzz-CiYLoYj6dX-BiRxl6xRTpK",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJIwvbJK8FzkwRITMc7F93Nwo",
+         "plus_code" : {
+            "compound_code" : "C886+9F Somerset Ward, Ottawa, ON, Canada",
+            "global_code" : "87Q6C886+9F"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJIwvbJK8FzkwRITMc7F93Nwo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1766,
+         "vicinity" : "340 Elgin Street, Ottawa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4137757,
+               "lng" : -75.69515840000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.41515573029149,
+                  "lng" : -75.69373841970851
+               },
+               "southwest" : {
+                  "lat" : 45.41245776970849,
+                  "lng" : -75.69643638029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Tamis Cafe & Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116935903194697130479\"\u003eGabrielle Tayag\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECQo1quyfTlBxNGG_CoitTBxTtOK-Dc1gv3vRRTg5E8qf0FALbvIEgp9cbBozjN8_0S1UaGj2sqZQcd3tu_N8oztWFziq6NWB-PvmdPsjI21j5iDesX9BopF85NbwtbsuQUl1iqdAnILvQdD7FwWTlPYbpaIfrWvtoFiXoqBkFntm_s",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJScpXpbgFzkwREHlQ3HVY4D0",
+         "plus_code" : {
+            "compound_code" : "C873+GW Somerset Ward, Ottawa, ON, Canada",
+            "global_code" : "87Q6C873+GW"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJScpXpbgFzkwREHlQ3HVY4D0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "cafe",
+            "bar",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 240,
+         "vicinity" : "374 Bank Street, Ottawa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.3946694,
+               "lng" : -75.6834861
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.3960340302915,
+                  "lng" : -75.68221201970849
+               },
+               "southwest" : {
+                  "lat" : 45.39333606970851,
+                  "lng" : -75.68490998029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Black Squirrel Books & Espresso Bar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 530,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117483976165583033392\"\u003eBlack Squirrel Books &amp; Espresso Bar\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB9yevt6fJbBu8zM9kxAPQOipN_JsVAlDDaZGNDZ5jXSHfQ4acEqgpTsPCiAoTmoQvscHopXqcvdeRacWB_MDze4yUP9s_9PYDd_agQccdVw6greQ5rGfgo0cR3moLY-mvgEn9xMB-0QgZ9OYBvhj9ZNRIPAW5ktrRPetnMi5jLCgEc",
+               "width" : 601
+            }
+         ],
+         "place_id" : "ChIJaZ26OogvVUARm_MI8KcOyrk",
+         "plus_code" : {
+            "compound_code" : "98V8+VJ Nepean, Ottawa, ON, Canada",
+            "global_code" : "87Q698V8+VJ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJaZ26OogvVUARm_MI8KcOyrk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "book_store",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 976,
+         "vicinity" : "1073 Bank Street, Ottawa"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4240256,
+               "lng" : -75.6839684
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4253257302915,
+                  "lng" : -75.68273471970851
+               },
+               "southwest" : {
+                  "lat" : 45.4226277697085,
+                  "lng" : -75.68543268029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "Nostalgica Pub & Beer Garden",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104802630823906741665\"\u003eSamuel Croteau\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECYKykvm7hJ8xHaqA9qNSPjGkLDxvg589HGwws09D2qaZqUFowLrQfoF3CQJ9xdn9a3DPBAm4k3STTzA40TLfM5Q3VZ-Asi1G0jyANmtnqYmpRVp5-eXHaF56L19Napm0IivE-f7enGdSyu_B5AsiouY6hqlgfSW6F_ZVY5zn62h3y2",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJX8h3RgYFzkwRVmeOvkEpVk4",
+         "plus_code" : {
+            "compound_code" : "C8F8+JC Vanier, Ottawa, ON, Canada",
+            "global_code" : "87Q6C8F8+JC"
+         },
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "ChIJX8h3RgYFzkwRVmeOvkEpVk4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 355,
+         "vicinity" : "601 Cumberland Street, Ottawa"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4220091,
+               "lng" : -75.682259
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.42330898029149,
+                  "lng" : -75.68102336970848
+               },
+               "southwest" : {
+                  "lat" : 45.4206110197085,
+                  "lng" : -75.6837213302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Cafe Ecolo",
+         "permanently_closed" : true,
+         "place_id" : "ChIJw0MsFAgFzkwR2Bi2JNIeYwM",
+         "plus_code" : {
+            "compound_code" : "C8C9+R3 Vanier, Ottawa, ON, Canada",
+            "global_code" : "87Q6C8C9+R3"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJw0MsFAgFzkwR2Bi2JNIeYwM",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 27,
+         "vicinity" : "145 Jean-Jacques-Lussier Private, Ottawa"
+      }
+   ],
+   "status" : "OK"
+}

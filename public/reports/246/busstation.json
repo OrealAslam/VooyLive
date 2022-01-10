@@ -1,0 +1,819 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uECHETkSRykbXW27W3qEgfpk2jpp26JLf4FDqNhZL7dftE5M8LBMoPt6Vjtd1GMY-AMdjAxXKgmMvrYohn7eqcrz2dMIqAAXet2xpfvdCTSsmaeGvZJn1BwKdau-A8eFbKHIW0Zuj5WyyKPrAQJ2u5k0IxXuZKWouv-3JD4ujikBjSihx7ZKp6iufyRJuo99AoqWxByOqfehXPYBTFOfLrgBBD_tDiByx8gYVPsho2dW9w3WgDWUpOxiJWPXCUqotbVzHg2w_l9bWD3Fwqo0A-F9GXx-RdxFjOvCIdfixwtrRxlKxfOJVw0O9rtxp6E6vEkcT4iDyQFU88XfhHUiuoqSHCQO_QzIeR7h2varJHzYfvaJE0rVuOCQ_yNAGLKs5XJ-hL_KJ890GAyeHxCqQS4VsEz7M-6hoY_Xn9eePIJ_MSEewBLue25Yex9IDs4htUe-Uc35DBWZIEkWZoMAEEbpk1yN4Sz5zXr6h8Wf-fYY1RUsis9SwyB34PgaPCgHxTK58osL4c51oNMQcgTWivJrERWkffgGhvzfoQ0s5wgubtLBDnHyo9D1rmo_-1wnRe0G3wV2c_xl7-MrPhkuyzLSD0KYqYlXMfL6spbkFUYj4EBWibLohwhQFEuTjrocEy_uTB4kgSE7cF5tNr7JqmqFR-CqHVl3cu8By8nh-DdqbjDVO9HRyYw-8O01Ugp_H4tOkipYncHkLkzDnpT7EjOtcBNxfYXSHxXmDLB14flYPG9Mfafy3i00ZG-JdgbP6jM",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.469344,
+               "lng" : -75.71596
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4707367302915,
+                  "lng" : -75.7146705697085
+               },
+               "southwest" : {
+                  "lat" : 45.4680387697085,
+                  "lng" : -75.71736853029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Station de la GAPPE #3",
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107774353180914356613\"\u003eChristine EN\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECUjkqVUiu_bCiyykTvBWgWLQKDHuQS58pk8px9jx92mlAViPKiLXTd5mHBznjJPYF6Hw45RnszM7w5w_fVWGZDCb-kZ6eLpZzKyB6Bkxd9Cz6NwlXw-BUV9Vl93uLTgeeQpb3VCU4xQJIHyr7owocckcgdaN09YFW5fMW55-Gz97Dh",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJ29GGOFEbzkwR4aeZK4bONPU",
+         "plus_code" : {
+            "compound_code" : "F79M+PJ Gatineau, QC, Canada",
+            "global_code" : "87Q6F79M+PJ"
+         },
+         "rating" : 2.9,
+         "reference" : "ChIJ29GGOFEbzkwR4aeZK4bONPU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4035284,
+               "lng" : -75.73562439999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.40479478029151,
+                  "lng" : -75.73435661970848
+               },
+               "southwest" : {
+                  "lat" : 45.40209681970851,
+                  "lng" : -75.73705458029148
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Tunney's Pasture station",
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117729752747654527540\"\u003eJosé Luis Rambaut\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA7u1VAbLSCeG26tBF7Vo1Z7bc2EIU07ipAiyZu2E5qecGJSaVeHzXCyjFDj4m1_1YXtjDUALhlsKHw8KF28KRRnK1nAjtDOu5rPTwInDA_lTZ7ZPlWixzgmFa2YtCIx-mX1Vg_Iay3BibRqCQ-SSKzWHcmYww4TvRgJOqQw_nqajK6",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJgx4JnRYEzkwRiBwqC8_j6xM",
+         "plus_code" : {
+            "compound_code" : "C737+CQ Nepean, Ottawa, ON, Canada",
+            "global_code" : "87Q6C737+CQ"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJgx4JnRYEzkwRiBwqC8_j6xM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 21,
+         "vicinity" : "Ottawa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.45034099999999,
+               "lng" : -75.756958
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.45173433029149,
+                  "lng" : -75.7555312697085
+               },
+               "southwest" : {
+                  "lat" : 45.4490363697085,
+                  "lng" : -75.75822923029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "de la Cité-des-Jeunes | Centre Asticou",
+         "place_id" : "ChIJpWb4PkADzkwRi6q5G7dFThQ",
+         "plus_code" : {
+            "compound_code" : "F62V+46 Gatineau, QC, Canada",
+            "global_code" : "87Q6F62V+46"
+         },
+         "reference" : "ChIJpWb4PkADzkwRi6q5G7dFThQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4447306,
+               "lng" : -75.7328366
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.44607888029149,
+                  "lng" : -75.73143286970848
+               },
+               "southwest" : {
+                  "lat" : 45.4433809197085,
+                  "lng" : -75.73413083029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Saint-Joseph | Place Cartier",
+         "place_id" : "ChIJu-82p58EzkwRPaqCF7J4M9E",
+         "plus_code" : {
+            "compound_code" : "C7V8+VV Gatineau, QC, Canada",
+            "global_code" : "87Q6C7V8+VV"
+         },
+         "reference" : "ChIJu-82p58EzkwRPaqCF7J4M9E",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4427081,
+               "lng" : -75.73290729999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4440563302915,
+                  "lng" : -75.73149806970849
+               },
+               "southwest" : {
+                  "lat" : 45.4413583697085,
+                  "lng" : -75.7341960302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Saint-Joseph | Sainte-Marie",
+         "place_id" : "ChIJE-ed8p4EzkwRMV93WewmAnY",
+         "plus_code" : {
+            "compound_code" : "C7V8+3R Gatineau, QC, Canada",
+            "global_code" : "87Q6C7V8+3R"
+         },
+         "reference" : "ChIJE-ed8p4EzkwRMV93WewmAnY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.439613,
+               "lng" : -75.73298699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4409610302915,
+                  "lng" : -75.73159536970849
+               },
+               "southwest" : {
+                  "lat" : 45.4382630697085,
+                  "lng" : -75.73429333029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Saint-joseph/jeanne-d'arc",
+         "place_id" : "ChIJPchGZZwEzkwRkkIn6JSZZt8",
+         "plus_code" : {
+            "compound_code" : "C7Q8+RR Gatineau, QC, Canada",
+            "global_code" : "87Q6C7Q8+RR"
+         },
+         "reference" : "ChIJPchGZZwEzkwRkkIn6JSZZt8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.446046,
+               "lng" : -75.727813
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4473968302915,
+                  "lng" : -75.72643796970851
+               },
+               "southwest" : {
+                  "lat" : 45.4446988697085,
+                  "lng" : -75.72913593029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Station CASINO #1",
+         "photos" : [
+            {
+               "height" : 1539,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107004470456470489672\"\u003eAnnie Carreau\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED-a56dEGaXoljpvnrs5DfgX1iDLDBcbNIth4TAAXnYZbT_lmA3Z9TrVjMjnE3zHimU5DP0uzYjryXX6SCNzGo0P1fmtlFYES5TfEj0Hi-ZojzyGwxabQupGB9gA0lnL6_87FXxs5-bq9oRinFFA5D6pLHJS1LNhdWfCRW93VSciDVq",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJNw78DqIEzkwRG37P8mYGtow",
+         "plus_code" : {
+            "compound_code" : "C7WC+CV Gatineau, QC, Canada",
+            "global_code" : "87Q6C7WC+CV"
+         },
+         "reference" : "ChIJNw78DqIEzkwRG37P8mYGtow",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.441554,
+               "lng" : -75.72879
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4428875302915,
+                  "lng" : -75.72739221970851
+               },
+               "southwest" : {
+                  "lat" : 45.4401895697085,
+                  "lng" : -75.73009018029153
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Station les Galeries de Hull",
+         "place_id" : "ChIJj572b5kEzkwRA0BRoqVRlWQ",
+         "plus_code" : {
+            "compound_code" : "C7RC+JF Gatineau, QC, Canada",
+            "global_code" : "87Q6C7RC+JF"
+         },
+         "reference" : "ChIJj572b5kEzkwRA0BRoqVRlWQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.44414769999999,
+               "lng" : -75.7278031
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.44549668029149,
+                  "lng" : -75.72645411970851
+               },
+               "southwest" : {
+                  "lat" : 45.44279871970849,
+                  "lng" : -75.72915208029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Édifice Louis St-Laurent",
+         "place_id" : "ChIJKWr465gEzkwRn4LrVJTb8yo",
+         "plus_code" : {
+            "compound_code" : "C7VC+MV Gatineau, QC, Canada",
+            "global_code" : "87Q6C7VC+MV"
+         },
+         "reference" : "ChIJKWr465gEzkwRn4LrVJTb8yo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.44550699999999,
+               "lng" : -75.727615
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.44685598029149,
+                  "lng" : -75.7262660197085
+               },
+               "southwest" : {
+                  "lat" : 45.4441580197085,
+                  "lng" : -75.72896398029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Station CASINO #2",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116148486656470891953\"\u003eJames H\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAeW9PFO-xk6WrMTTTnXNzgbDSZP00XpOzq0dzE6cNSTPVWEb8h8CTi0Jw_5dsLY3LffJFsxQAkOTpiCxHLAn5c04I8p0h8d5GGEolAzzTHFaTp4ijCsL856IzLZ3R6WS87hPpyesUJ1yS9skzF4-0Kyt70cReEeb2LAweiO15sKd1u",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJc_RAoJgEzkwRD3tzro-OAiE",
+         "plus_code" : {
+            "compound_code" : "C7WC+6X Gatineau, QC, Canada",
+            "global_code" : "87Q6C7WC+6X"
+         },
+         "rating" : 5,
+         "reference" : "ChIJc_RAoJgEzkwRD3tzro-OAiE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.441617,
+               "lng" : -75.728217
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4429659802915,
+                  "lng" : -75.7268680197085
+               },
+               "southwest" : {
+                  "lat" : 45.4402680197085,
+                  "lng" : -75.72956598029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Station LES GALERIES #1",
+         "place_id" : "ChIJw94rcZkEzkwR4a__vKLJTgg",
+         "plus_code" : {
+            "compound_code" : "C7RC+JP Gatineau, QC, Canada",
+            "global_code" : "87Q6C7RC+JP"
+         },
+         "rating" : 2,
+         "reference" : "ChIJw94rcZkEzkwR4a__vKLJTgg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.44244500000001,
+               "lng" : -75.72784399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.44379398029151,
+                  "lng" : -75.72649501970849
+               },
+               "southwest" : {
+                  "lat" : 45.44109601970851,
+                  "lng" : -75.7291929802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Station LES GALERIES #2",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117411050687883253117\"\u003ezouid brahim\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBeBtwegQbrtnWEhhzezOlJcDeQxTCtbk-5V8VZU-3E_GBq16cMmqysS_r_g0noVV8GdNLgbiHHxp7afM9tDreluFw59PDV-SUdD5VrbSNjLLLBu4UWPQXr6llWO4F80T1483zacr7zG6NYNvmKdniaLWhUv7IG-pxlzLbPjP-N6NOA",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJYU8sCZkEzkwR57WozIYMlGM",
+         "plus_code" : {
+            "compound_code" : "C7RC+XV Gatineau, QC, Canada",
+            "global_code" : "87Q6C7RC+XV"
+         },
+         "rating" : 5,
+         "reference" : "ChIJYU8sCZkEzkwR57WozIYMlGM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.45251699999999,
+               "lng" : -75.72937999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4538659802915,
+                  "lng" : -75.72803101970848
+               },
+               "southwest" : {
+                  "lat" : 45.4511680197085,
+                  "lng" : -75.73072898029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Station LAC LEAMY #2",
+         "place_id" : "ChIJJT4cBacEzkwR3Jid7pFFoO8",
+         "plus_code" : {
+            "compound_code" : "F73C+26 Gatineau, QC, Canada",
+            "global_code" : "87Q6F73C+26"
+         },
+         "reference" : "ChIJJT4cBacEzkwR3Jid7pFFoO8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.46256799999999,
+               "lng" : -75.746961
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.46390023029149,
+                  "lng" : -75.74567441970849
+               },
+               "southwest" : {
+                  "lat" : 45.46120226970849,
+                  "lng" : -75.7483723802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Daniel-johnson/lucien-brault",
+         "place_id" : "ChIJlfrN4ksDzkwRAUApX-K5XQU",
+         "plus_code" : {
+            "compound_code" : "F773+26 Gatineau, QC, Canada",
+            "global_code" : "87Q6F773+26"
+         },
+         "reference" : "ChIJlfrN4ksDzkwRAUApX-K5XQU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.43082599999999,
+               "lng" : -75.72903699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.43217498029149,
+                  "lng" : -75.72768801970848
+               },
+               "southwest" : {
+                  "lat" : 45.42947701970849,
+                  "lng" : -75.7303859802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Station MONTCALM bretelle dir nord #2",
+         "place_id" : "ChIJjRi8sIgEzkwR6CNMT5FiSdU",
+         "plus_code" : {
+            "compound_code" : "C7JC+89 Gatineau, QC, Canada",
+            "global_code" : "87Q6C7JC+89"
+         },
+         "reference" : "ChIJjRi8sIgEzkwR6CNMT5FiSdU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.430467,
+               "lng" : -75.72922
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4318159802915,
+                  "lng" : -75.7278710197085
+               },
+               "southwest" : {
+                  "lat" : 45.4291180197085,
+                  "lng" : -75.73056898029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Station MONTCALM bretelle dir sud #1",
+         "place_id" : "ChIJnUoMvIgEzkwRg5Wf2Qt72-M",
+         "plus_code" : {
+            "compound_code" : "C7JC+58 Gatineau, QC, Canada",
+            "global_code" : "87Q6C7JC+58"
+         },
+         "reference" : "ChIJnUoMvIgEzkwRg5Wf2Qt72-M",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.430374,
+               "lng" : -75.72930000000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.43168043029151,
+                  "lng" : -75.72797741970851
+               },
+               "southwest" : {
+                  "lat" : 45.42898246970851,
+                  "lng" : -75.73067538029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Station MONTCALM #3",
+         "photos" : [
+            {
+               "height" : 1554,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112796542942126292036\"\u003eElvis Blas Rodríguez\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAAHllK9eovRRuO1JhYWlaUbeXYy23hQmrx12fyy8wdg9q8Ohl6hOI8xoZXqwzV1eFcThO3bgSkmu42yP1Ry5V8KDTVok8zUJtSvH86zq2QZ_mE53Ohw5mIHZnD21oxxcv60ZQPwng9h2WjG1SgZH2ApQyFi6yjguFEX3Oj6Apxguob",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJb35JvIgEzkwRnFpLgobdnjI",
+         "plus_code" : {
+            "compound_code" : "C7JC+47 Gatineau, QC, Canada",
+            "global_code" : "87Q6C7JC+47"
+         },
+         "rating" : 4,
+         "reference" : "ChIJb35JvIgEzkwRnFpLgobdnjI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.43019400000001,
+               "lng" : -75.72955
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.43154298029151,
+                  "lng" : -75.72820101970849
+               },
+               "southwest" : {
+                  "lat" : 45.42884501970851,
+                  "lng" : -75.7308989802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Station MONTCALM #5",
+         "place_id" : "ChIJhZfEl4gEzkwRAQP1tbqK1Pc",
+         "plus_code" : {
+            "compound_code" : "C7JC+35 Gatineau, QC, Canada",
+            "global_code" : "87Q6C7JC+35"
+         },
+         "reference" : "ChIJhZfEl4gEzkwRAQP1tbqK1Pc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.42992999999999,
+               "lng" : -75.729714
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.43128443029149,
+                  "lng" : -75.72851936970848
+               },
+               "southwest" : {
+                  "lat" : 45.42858646970849,
+                  "lng" : -75.7312173302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Station MONTCALM #4",
+         "place_id" : "ChIJdyu2kIgEzkwRXOKwJvdIqtQ",
+         "plus_code" : {
+            "compound_code" : "C7HC+X4 Gatineau, QC, Canada",
+            "global_code" : "87Q6C7HC+X4"
+         },
+         "reference" : "ChIJdyu2kIgEzkwRXOKwJvdIqtQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.459742,
+               "lng" : -75.766955
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.46108793029151,
+                  "lng" : -75.76564096970851
+               },
+               "southwest" : {
+                  "lat" : 45.45838996970851,
+                  "lng" : -75.76833893029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "de la Cité-des-Jeunes | Cégep Gabrielle-Roy",
+         "place_id" : "ChIJ-ykeUyUDzkwRkx_HrTTkAk0",
+         "plus_code" : {
+            "compound_code" : "F65M+V6 Gatineau, QC, Canada",
+            "global_code" : "87Q6F65M+V6"
+         },
+         "reference" : "ChIJ-ykeUyUDzkwRkx_HrTTkAk0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,921 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEAz2xbYlknlTYSs0JuY9rwjF06SPbkKTpfuBuIyDmVQfyvGC1gOoA3jLa91495Tkt480xZ73IIUwoGd60Utenqg-KJX4v2CavFro1LpiwCDiGEkK9DdncN-Nh5cObHPLHsTDoPzj2UNTfWveAdfC_caETkC-WYQkaA17OgFKoqZGvso0zjCBhINR63spRL4IAjAXPw9naQDHQwmDaSiVSmllYF6Mbvn8WuSRbMMr26i79LkR_krrJJDrhTf64Kt5QR1Mwhdet8TEVxoeXioAVgopKES8tmwVlsB-N5DQWPyyFadp5ehWuS4sZCGhSwOS1ikoRh0QIy4Ksuq6PUSE69xDV4Eq03uzNMvSc_ZZJZ4eEDikEHkzqO-PXPD5Hw9i6KENIdMSEHVt2yuaYCb4QLgQwYcDQAT8ny-XgOtyk_7Gga291yYUk6zv-zZ651uo88xWeGONNyxjNE1UCj4vPy1qraCIn4EkfzgUWlO9FAOtQM737JXnwjiAWOKmnxPFOfWo9PqYYDZzEfRe07f_9TGfNlOzDv6ldhEyruhRDfAJI3-7_paBKawZN40S-K-B4fAxWmsGEiKl99C8R8zrrOnkULDLNQMhJxNEMhEq7QKuVOucSV-AmZKE_l_WNMVal48JQaW2nLpPm2YO8VTamNB4OMs9qZ6OlU2Xd9JzPWYrliyKiWFku57wvG11oMZLzZu9HZPtgm3S1dOcWiJPWZE7sOrea2eUo-a0ZQrlx9daYIF_8fnO6-qphAo1PaazQk",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.287499,
+               "lng" : -123.125666
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28881108029151,
+                  "lng" : -123.1243544197085
+               },
+               "southwest" : {
+                  "lat" : 49.28611311970851,
+                  "lng" : -123.1270523802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "WB W Georgia St @ Bute St",
+         "place_id" : "ChIJ_3f60oZxhlQRq6xNh9CTD4E",
+         "plus_code" : {
+            "compound_code" : "7VPF+XP Vancouver, BC, Canada",
+            "global_code" : "84XR7VPF+XP"
+         },
+         "reference" : "ChIJ_3f60oZxhlQRq6xNh9CTD4E",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.28885,
+               "lng" : -123.12521
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2902351302915,
+                  "lng" : -123.1238416697085
+               },
+               "southwest" : {
+                  "lat" : 49.2875371697085,
+                  "lng" : -123.1265396302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "EB W Pender St @ Jervis St",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111500253295762544397\"\u003eKc a\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAN-0G5l2aKSHVIXoKMIORHYa8ISHfKfrdxJMbfMXB6Ikk8GWaaavsh9ByvHuYIzyP4buBwl1bnHupirqPiNPUx9iEJSWEKJT7l5ohpHs_8Q2BJmQL2E6noI6EjHgieUxtsAVfSfLUI9-F42ljBQfBMGbgZ0O0R26wtOhuB-m_w7dlW",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJeYLnvYZxhlQRaCKBaHWYUbg",
+         "plus_code" : {
+            "compound_code" : "7VQF+GW Vancouver, BC, Canada",
+            "global_code" : "84XR7VQF+GW"
+         },
+         "reference" : "ChIJeYLnvYZxhlQRaCKBaHWYUbg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.28817360000001,
+               "lng" : -123.1230255
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28957018029151,
+                  "lng" : -123.1216433197085
+               },
+               "southwest" : {
+                  "lat" : 49.28687221970851,
+                  "lng" : -123.1243412802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "EB W Pender St @ Bute St",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108512944977249364987\"\u003eRaysing Guo\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAEpg5vXMBC9kJkxF0GzOfkLlJ2EU-qZjW-gegVsRtLPplsVTZCqBM3BIGO7C5YvmhkT0yATJEGmrn3qcSm0x0dpRlzLVODmQVwvhIG4phjLqW6gAkt0xBPtBem1y9yX0a46TWIle9TuEwnAmMkusjJAJqKN8bTih1j28r13cUsRnhO",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJt6uwVIFxhlQR-o55yOeM9cg",
+         "plus_code" : {
+            "compound_code" : "7VQG+7Q Vancouver, BC, Canada",
+            "global_code" : "84XR7VQG+7Q"
+         },
+         "rating" : 4,
+         "reference" : "ChIJt6uwVIFxhlQR-o55yOeM9cg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.28639099999999,
+               "lng" : -123.121757
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2877056302915,
+                  "lng" : -123.1204341697085
+               },
+               "southwest" : {
+                  "lat" : 49.2850076697085,
+                  "lng" : -123.1231321302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Burrard Station @ Bay 3",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114139990247649405283\"\u003eMd Kowshick Ahmed\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDP_gFGY4SqDTW6cYNRCynrgliqwYzhWDnVPk08MmWxBub0wLZJOgy3_s88qfrDO859xh4ulUQ64L9Q2qGKWzq2KhspBHvhY99WriyaxeVcIg5g7ePpYE8zhCSkEi-ovHFkuYtdzWaRNgQmMBh4vcKv2EGo9i71HqCP7TnCykW0WsGO",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJ65JGZYFxhlQRNrhGiQkdZuA",
+         "plus_code" : {
+            "compound_code" : "7VPH+H7 Vancouver, BC, Canada",
+            "global_code" : "84XR7VPH+H7"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ65JGZYFxhlQRNrhGiQkdZuA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2884325,
+               "lng" : -123.1309219
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2898437802915,
+                  "lng" : -123.1295725197085
+               },
+               "southwest" : {
+                  "lat" : 49.2871458197085,
+                  "lng" : -123.1322704802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Eastbound Robson St @ Nicola St",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105228349541098182324\"\u003eGodwin C\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECMfsSrUHUC5tYbabUwenMg9OekO-qdh3CVirXpxM9C27exXVgBWT1wJcJZNwaGXH4j7lV6o_5yrH3TwD7aPTlSQ9aaP945QS0yobyK7G44VJU9BV26dyItkBjluB0ji0wKFMb4Ikw_M8A87J_fNQOFu-f7KQZMu08bjf3aPf0QyqHv",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJEQzGdYdxhlQRNYwjzwLJ3cQ",
+         "plus_code" : {
+            "compound_code" : "7VQ9+9J Vancouver, BC, Canada",
+            "global_code" : "84XR7VQ9+9J"
+         },
+         "rating" : 5,
+         "reference" : "ChIJEQzGdYdxhlQRNYwjzwLJ3cQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2860996,
+               "lng" : -123.120676
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2873798802915,
+                  "lng" : -123.1192041697085
+               },
+               "southwest" : {
+                  "lat" : 49.2846819197085,
+                  "lng" : -123.1219021302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Burrard Station @ Bay 2",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105228349541098182324\"\u003eGodwin C\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBuh6uwgL5HflXt5SVLoqdxRmks-vDaPPrXCEQMxwi0juMnu1kb1CcBT7UZ9AQLVlwNKXvWfO2gSi9vmg2QAPUWVkbop3u02Kq1d4NaOPg0ZSQrEuyuQn91J23VeLmiL3y7Yi_INdTn866e1d0MS1sX-7vrFhOqqBQy5IUQG-khcR6Q",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ4ZXVg4FxhlQRlfIVU1T3PpE",
+         "plus_code" : {
+            "compound_code" : "7VPH+CP Vancouver, BC, Canada",
+            "global_code" : "84XR7VPH+CP"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ4ZXVg4FxhlQRlfIVU1T3PpE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.285581,
+               "lng" : -123.120709
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28692028029149,
+                  "lng" : -123.1193743197085
+               },
+               "southwest" : {
+                  "lat" : 49.2842223197085,
+                  "lng" : -123.1220722802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Burrard Station",
+         "place_id" : "ChIJb5Gqm4FxhlQRenCzXkNqPy4",
+         "plus_code" : {
+            "compound_code" : "7VPH+6P Vancouver, BC, Canada",
+            "global_code" : "84XR7VPH+6P"
+         },
+         "reference" : "ChIJb5Gqm4FxhlQRenCzXkNqPy4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.285306,
+               "lng" : -123.119982
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2866219302915,
+                  "lng" : -123.1185889697085
+               },
+               "southwest" : {
+                  "lat" : 49.2839239697085,
+                  "lng" : -123.1212869302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Burrard Station @ Bay 1",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113558498560943086446\"\u003ehiroshige matsuno\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDyHMhI4mWOqmYyBXnA1q1AJyZjqZnszxw55O5pA7qIvqBJ5TxY52ekCEXoJ1dtrBjsXNpGB6GBvt0jbKbziO1DwIin-Rw0kraQ1QyH2c2I20Qwzuw9QVWucjizZ5GkI6VhRnTJLrq63DoeJsjmypgNPDgac0Cw0TDdAyAgKIZ3JpLe",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ_XoEjoFxhlQR_-FH-i9SwHM",
+         "plus_code" : {
+            "compound_code" : "7VPJ+42 Vancouver, BC, Canada",
+            "global_code" : "84XR7VPJ+42"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ_XoEjoFxhlQR_-FH-i9SwHM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "655 Burrard Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.28467430000001,
+               "lng" : -123.1204798
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2860859802915,
+                  "lng" : -123.1191949197085
+               },
+               "southwest" : {
+                  "lat" : 49.2833880197085,
+                  "lng" : -123.1218928802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "NB Burrard St at W Georgia St",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108939382918702891902\"\u003eJohnny Blaze\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAEMLD458vPUasZb2veD94RjQ2sPar0NFVN5jA7BQWuKWWII4Vsj7AR0es-j85RfLR4wvK2Rj-AIo0B_slk2dIjKgbK3DRu9UIl-EBck_AtBdRCxS21bmA83gmKgThVG8tauLv4RBOdQkBKPGk1gkhYamh3mTEM1j0s_xoGWxNntxQM",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ-wgcwIFxhlQRRsgTLYmz_bY",
+         "plus_code" : {
+            "compound_code" : "7VMH+VR Vancouver, BC, Canada",
+            "global_code" : "84XR7VMH+VR"
+         },
+         "reference" : "ChIJ-wgcwIFxhlQRRsgTLYmz_bY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "690 Burrard Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.283121,
+               "lng" : -123.1233412
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2844243302915,
+                  "lng" : -123.1219236697085
+               },
+               "southwest" : {
+                  "lat" : 49.2817263697085,
+                  "lng" : -123.1246216302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "SB Burrard St @ Robson St",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105228349541098182324\"\u003eGodwin C\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED2prQU0Ol8tSKuMaUQ4sBDql1EqgvK4MDlD6vVMBJvWMzt_wumTiDZbY5Gt67dcp8doWF0KbHJrzFWujNDMf1Z2vCau2U08cKoadF5-ATNZh-h7YNDkqZgERt3Bd0L2YNOBNXxIMJHlh1jQs9jHPG33pLwguU7j3LcGg5Vt7NNMGyh",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJI7WoIoBxhlQRQ2EV6-gNWh0",
+         "plus_code" : {
+            "compound_code" : "7VMG+6M Vancouver, BC, Canada",
+            "global_code" : "84XR7VMG+6M"
+         },
+         "reference" : "ChIJI7WoIoBxhlQRQ2EV6-gNWh0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.28920000000001,
+               "lng" : -123.132046
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.29057228029151,
+                  "lng" : -123.1306618197085
+               },
+               "southwest" : {
+                  "lat" : 49.28787431970851,
+                  "lng" : -123.1333597802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "EB Robson St @ Cardero St",
+         "place_id" : "ChIJN2-qlodxhlQReCPShslei5I",
+         "plus_code" : {
+            "compound_code" : "7VQ9+M5 Vancouver, BC, Canada",
+            "global_code" : "84XR7VQ9+M5"
+         },
+         "reference" : "ChIJN2-qlodxhlQReCPShslei5I",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2860079,
+               "lng" : -123.1189936
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2872970802915,
+                  "lng" : -123.1175867197085
+               },
+               "southwest" : {
+                  "lat" : 49.2845991197085,
+                  "lng" : -123.1202846802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Burrard Station @ Bay 5",
+         "photos" : [
+            {
+               "height" : 2724,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108232388060885299915\"\u003eVincent Chen\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECau1FSsP7Tr2m7EDlzwUdxInVZ9XiCO3EYGMlHF_urDqsK7gVdFjnacGKX_koU4d2BCA5aTxC3s30AlMLB-yX6hcJGWg6pT88QEDc0Z2eIo2mWOiTAIs1QTHeZJUdCH-virYSBA3Kt8qWgLAcM3CBzfzIQAyY5I1yCCR4iFkjr2eaR",
+               "width" : 3644
+            }
+         ],
+         "place_id" : "ChIJmT1RL4JxhlQRnXbjpoKxorU",
+         "plus_code" : {
+            "compound_code" : "7VPJ+CC Vancouver, BC, Canada",
+            "global_code" : "84XR7VPJ+CC"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJmT1RL4JxhlQRnXbjpoKxorU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.28972779999999,
+               "lng" : -123.1325523
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2910487802915,
+                  "lng" : -123.1312456697085
+               },
+               "southwest" : {
+                  "lat" : 49.2883508197085,
+                  "lng" : -123.1339436302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "WB Robson St @ Cardero St",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104040239187516776806\"\u003eAnders Falk\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDlcSrEoXNUq9b-SU-fEQ8_fM5-_VN9KClREepja0RdxFZLZgaTG2huGBqQ57gJUcsF8wjY40VqcA3stxG1dJ2SMGlppki5dqTd8owx8EpybB38yy6_-nSkef3Y3N-sAYx5mDuEBOAJWJ547z2uDGGgTIVkDpXIFn5znMB2y318zqqY",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ7aS764dxhlQR_dBUfHmIK_M",
+         "plus_code" : {
+            "compound_code" : "7VQ8+VX Vancouver, BC, Canada",
+            "global_code" : "84XR7VQ8+VX"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ7aS764dxhlQR_dBUfHmIK_M",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.28616,
+               "lng" : -123.118293
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28753418029149,
+                  "lng" : -123.1169057697085
+               },
+               "southwest" : {
+                  "lat" : 49.2848362197085,
+                  "lng" : -123.1196037302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Burrard Station @ Bay 6",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109852254447065048433\"\u003ePb B.B.\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBVrBwGB4RG-ENCE3zzHYa_k1QyOO0toUcQsdrEk1iP9wTF84Wp7LK77tWWpfTDSwFSd78K2vAUdn6IWX6dlNSrCFsWZCpuZR3sNzt0h1JNrQqYEx_Pd4fda4tY0YCHJWjVC734jQskGzoy3QfQnvtVbe7sJEv8Ui9zTEL3lDQBEaGv",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ8cV-OoJxhlQRhNBBsr7nL88",
+         "plus_code" : {
+            "compound_code" : "7VPJ+FM Vancouver, BC, Canada",
+            "global_code" : "84XR7VPJ+FM"
+         },
+         "reference" : "ChIJ8cV-OoJxhlQRhNBBsr7nL88",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2869068,
+               "lng" : -123.1180541
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2882153302915,
+                  "lng" : -123.1167574197085
+               },
+               "southwest" : {
+                  "lat" : 49.2855173697085,
+                  "lng" : -123.1194553802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "WB W Pender St @ Burrard St",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102490142361759882257\"\u003eJulien Paton\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECBu4J8GG5Jgj07jz09P5X5ljrmbjIm0Ft3ufCpfPS3l8Ww3stUfmjrvZ0F3sOrmYAD73Yti0rY1ajN_wnEw0j8FsOUqYBRiKKu-21-DK1DbYanqSVImKzH65rZoyAhfSkZ818Lx8uI_FRNqA-GYHwZyedXo6DThgJeF9n5D0HzRooO",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJN1JiSoJxhlQRLoQztHWsXkU",
+         "plus_code" : {
+            "compound_code" : "7VPJ+QQ Vancouver, BC, Canada",
+            "global_code" : "84XR7VPJ+QQ"
+         },
+         "rating" : 3,
+         "reference" : "ChIJN1JiSoJxhlQRLoQztHWsXkU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.280758,
+               "lng" : -123.126431
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28214473029151,
+                  "lng" : -123.1251274197085
+               },
+               "southwest" : {
+                  "lat" : 49.27944676970851,
+                  "lng" : -123.1278253802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Burrard and Comox",
+         "place_id" : "ChIJIWpXMdVzhlQRw73KuUAljYQ",
+         "plus_code" : {
+            "compound_code" : "7VJF+8C Vancouver, BC, Canada",
+            "global_code" : "84XR7VJF+8C"
+         },
+         "rating" : 4,
+         "reference" : "ChIJIWpXMdVzhlQRw73KuUAljYQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.28270620000001,
+               "lng" : -123.1179695
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28397673029151,
+                  "lng" : -123.1167055197085
+               },
+               "southwest" : {
+                  "lat" : 49.28127876970851,
+                  "lng" : -123.1194034802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "SB Granville St @ W Georgia St",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103975908233585206218\"\u003eEbi Arman\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECY-s1s8Rufj0PkOwhjzQPoiBkBCR7pSze3u3ZlYiw_L7YeYmuiqrnaFTrPacnHElEWKDYaszKJUDWtv8fI4EKDSZJzuiNwt_cyLCN_e7Z7EWo9ekwsLpbmXq8Bk9-tjHaygAwf5ffqucMxnUyHrD7lRZ8_wBbOEKh8DSoxIcH9-f70",
+               "width" : 1800
+            }
+         ],
+         "place_id" : "ChIJT1s_FX9xhlQRnk8gKSS_2eg",
+         "plus_code" : {
+            "compound_code" : "7VMJ+3R Vancouver, BC, Canada",
+            "global_code" : "84XR7VMJ+3R"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJT1s_FX9xhlQRnk8gKSS_2eg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.28232,
+               "lng" : -123.11829
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28365413029151,
+                  "lng" : -123.1169992197085
+               },
+               "southwest" : {
+                  "lat" : 49.28095616970851,
+                  "lng" : -123.1196971802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "NB Granville St @ W Georgia St",
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113199743096938020991\"\u003eAt the moment\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAkfqMjFDDpnBlS0NH3n9L0QvtN812Ux1l_20y8PNHmAEeRBvsrdeXebl6CCV2diDiAdLUa45eFXct4jKUhERPdrf0J-rvJpJsaddqRTkNnhmFuMa70GV76qKJOiDSNJ9eJU5fUjjR8W9cnz68ML55CPQzV0FIlhlfZsaB9Y-t8wsgL",
+               "width" : 2160
+            }
+         ],
+         "place_id" : "ChIJ7Y9AE39xhlQR5I4MGt0hgS0",
+         "plus_code" : {
+            "compound_code" : "7VJJ+WM Vancouver, BC, Canada",
+            "global_code" : "84XR7VJJ+WM"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ7Y9AE39xhlQR5I4MGt0hgS0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2812835,
+               "lng" : -123.1195325
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2825674802915,
+                  "lng" : -123.1181608697085
+               },
+               "southwest" : {
+                  "lat" : 49.2798695197085,
+                  "lng" : -123.1208588302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "WB Robson St @ Granville St",
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113199743096938020991\"\u003eAt the moment\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBrQ8bvgb8sjZeKGZ__lk_-VfjT5lxrAfgk2s5qliiV3MGgWCdVOu5KwntML8o4IxqFjKW14F4GvkHhsranv5j5wcV07qJ9sNZzGYZb95NaMatrLs9nLs2QD1YJzl0Q7I0vtyti14vxAT5V-znzEz3eK8oLyr4ttkIRDAxIgoALlnVj",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJ_c95rn9xhlQRpRob0eyLmK8",
+         "plus_code" : {
+            "compound_code" : "7VJJ+G5 Vancouver, BC, Canada",
+            "global_code" : "84XR7VJJ+G5"
+         },
+         "reference" : "ChIJ_c95rn9xhlQRpRob0eyLmK8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.28304769999999,
+               "lng" : -123.1351843
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2843412302915,
+                  "lng" : -123.1337894697085
+               },
+               "southwest" : {
+                  "lat" : 49.2816432697085,
+                  "lng" : -123.1364874302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "WB Davie St @ Jervis St",
+         "place_id" : "ChIJt1l18ytyhlQRmd8SjZzvXYM",
+         "plus_code" : {
+            "compound_code" : "7VM7+6W Vancouver, BC, Canada",
+            "global_code" : "84XR7VM7+6W"
+         },
+         "rating" : 2,
+         "reference" : "ChIJt1l18ytyhlQRmd8SjZzvXYM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      }
+   ],
+   "status" : "OK"
+}
