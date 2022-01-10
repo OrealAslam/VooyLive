@@ -56,7 +56,7 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-lg-12 col-xs-12">
                     <div class="cps-widget custom-menu-widget">
-                        <p class="text-center">Proudly Canadian - Designed in Edmonton, AB, Canada.</p>
+                        <p class="text-center">Proudly Canadian - Designed in Edmonton, AB.</p>
                     </div>
                 </div>
             </div>
