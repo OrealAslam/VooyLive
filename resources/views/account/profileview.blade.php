@@ -31,6 +31,16 @@
 	border-top:unset;
 	border-left:3px solid #E12A4C !important;
 }
+
+.faqs-link-box{
+	border-top:unset;
+	border-left:3px solid #E12A4C !important;
+	background: #F7F7F7;
+	text-align: center;
+	display: block;
+	color: #262626;
+	padding: 15px 0px;
+}
 .payment-and-invoice{
 	padding:5px 15px !important;
 }
@@ -166,7 +176,14 @@
 								<h5>Change Password</h5>
 							</a>
 						</div>
-					</div>	
+						<div class="col-md-12 mt-10">
+							<div class="faqs-link-box">
+								<p>Have any question?</p>
+								<br>
+								<p>Check out the <a href="{{ url('/faqs') }}" target="_blank" class="">FAQ</a> page</p>
+							</div>
+						</div>
+					</div>
 				</div>
     			<div class="col-md-9">
 					<div class="row profile-right">
