@@ -426,19 +426,20 @@
     }
     .library .icon svg {
         width: 50px;
+        height: 5em;
     }
 
     .library .heading1 {
         font-size: 20px;
         text-align: center;
-        line-height: 1em;
+        line-height: 1.5em;
         padding: 10px 0;
         border-bottom:  1px solid #000000;
     }
     .library .heading2 {
         font-size: 20px;
         text-align: center;
-        line-height: 1em;
+        line-height: 1.5em;
         padding: 10px 0;
     }
     .library .library-address {
@@ -446,6 +447,8 @@
         line-height: 1em;
         text-align: center;
         padding: 10px 0;
+        margin-top: 3px;
+        margin-bottom: auto;
     }
     /*highlights section*/
     .highlights {
