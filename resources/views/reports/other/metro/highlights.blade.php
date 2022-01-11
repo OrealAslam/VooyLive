@@ -606,6 +606,14 @@
             }
         });
     </script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            var myStr = $('#neighbourhood-name').text().length;
+            if(myStr > 18){
+                $('#neighbourhood-name').css('font-size','36px');
+            }
+        });
+    </script>
 @endsection
 
 <script>
