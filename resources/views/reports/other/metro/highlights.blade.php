@@ -229,7 +229,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-7 col-md-7 col-sm-7">
+            <div class="col-lg-7 col-md-7 col-sm-7" style="margin-top: 20px;">
                 <div class="neighbourhood-title">
                     NAME OF NEIGHBOURHOOD
                 </div>
