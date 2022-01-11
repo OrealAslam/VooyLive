@@ -210,7 +210,7 @@
         </div>
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 address text-editable" data-field-id="">
-            <span class="colora content addressText" style="line-height: 1em !important;">{{$report->locality. ', ' .$report->administrative_area_level_1}}</span>
+            <span class="colora content addressText" style="line-height: 1em !important; text-transform: uppercase;">{{$report->locality. ', ' .$report->administrative_area_level_1}}</span>
             </div>
         </div>
         <div class="row">
