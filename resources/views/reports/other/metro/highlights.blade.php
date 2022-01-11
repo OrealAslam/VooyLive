@@ -176,9 +176,7 @@
             <!-- AddToAny END -->
         </div>
     </div>
-</div>
-
-@include('reports.common-report')
+</div><br>
 
 <div class="container" id="features">
     <div class="top-header section" id="top-header">
@@ -573,6 +571,9 @@
         </div>
     </div>
 </div>
+
+@include('reports.common-report')
+<br>
 
 @endsection
 

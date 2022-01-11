@@ -309,9 +309,7 @@
 				<!-- AddToAny END -->
 			</div>
 		</div>
-	</div>
-
-	@include('reports.common-report')
+	</div><br>
 
 	<div class="cps-section cps-section-padding cps-gray-bg" id="features">
 		<div class="container">
@@ -610,6 +608,8 @@
 		</div>
 	</div>
 </div>
+@include('reports.common-report')
+<br>
 @endsection
 @section('nav')              
 <!--

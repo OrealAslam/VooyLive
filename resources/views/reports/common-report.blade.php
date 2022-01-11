@@ -19,7 +19,7 @@
 </div>
 @endif
 
-<div class="common-report cps-gray-bg">
+<div class="common-report cps-gray-bg" style="background-color: #fff;">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 text-center">
