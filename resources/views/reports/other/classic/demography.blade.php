@@ -8,7 +8,7 @@
 			<tbody>
 				<tr>
 					<td class="col-xs-3" rowspan="2">
-						<div class="demographics-title colord">Households with children</div>
+						<div class="demographics-title colord">Households With Children</div>
 						<div class="demographics-icon fillf" style="display: inline-block;">
 							<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 							width="64px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
@@ -100,7 +100,7 @@
 							</g>
 							</svg>
 						</div>
-						<div class="demographics-title colord"  style="display: inline-block;  margin-top: 18px; vertical-align: top;">Average household income</div>
+						<div class="demographics-title colord"  style="display: inline-block;  margin-top: 18px; vertical-align: top;">Average Household Income</div>
 					</td>
 					<td class="col-xs-3">
 						<h3 class="colord">
@@ -122,7 +122,7 @@
 				</tr>
 				<tr>
 					<td style="vertical-align: middle;">
-						<div class="demographics-title colord">Median age</div>
+						<div class="demographics-title colord">Median Age</div>
 						<!-- <div class="demographics-title colorb"  style="display: inline-block;  margin-top: 18px; vertical-align: top;">Average household income</div> -->
 						<div class="demographics-icon fillf" style="display: inline-block;">
 							<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
