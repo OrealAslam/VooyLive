@@ -231,11 +231,11 @@
                 <div class="neighbourhood-title">
                     NAME OF NEIGHBOURHOOD
                 </div>
-                <div class="neighbourhood-name colora" id="neighbourhood-name">
+                <div class="neighbourhood-name colora" id="">
                     @if (isset($neighborsData['neighborhood']))
-                        {{$neighborsData['neighborhood']}}
+                    <span id="neighbourhood-name">{{$neighborsData['neighborhood']}}</span>                      
                     @else
-                        N/A
+                    <span id="neighbourhood-name">N/A</span>
                     @endif
                 </div>
             </div>
@@ -609,8 +609,16 @@
     <script type="text/javascript">
         $(document).ready(function(){
             var myStr = $('#neighbourhood-name').text().length;
-            if(myStr > 18){
+            if(myStr > 20){
                 $('#neighbourhood-name').css('font-size','36px');
+            }
+        });
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            var myStr = $('.addressText').text().length;
+            if(myStr > 30){
+                $('.addressText').css('font-size','60px');
             }
         });
     </script>
