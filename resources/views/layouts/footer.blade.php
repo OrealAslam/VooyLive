@@ -10,7 +10,7 @@
                         <p>Provide depth and detail to your home marketing presentation by highlighting important neighbourhood information</p>
                         <div class="cps-socials">
                             <a href="{!! getSettingValue('facebook-link')  !!}"><i class="fa fa-facebook"></i></a>
-                            <a href="{!! getSettingValue('twitter-link')  !!}"><i class="fa fa-twitter"></i></a>
+                            <!-- <a href="{!! getSettingValue('twitter-link')  !!}"><i class="fa fa-twitter"></i></a> -->
                             <a href="{!! getSettingValue('instagram-link')  !!}"><i class="fa fa-instagram"></i></a>
                             <a href="{!! getSettingValue('linkedin-link')  !!}"><i class="fa fa-linkedin"></i></a>
                         </div>

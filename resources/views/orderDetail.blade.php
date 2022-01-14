@@ -399,7 +399,7 @@
                                              <div class="col-md-12 social-icon-part-pro-det">
                                                 <ul class="m-0 p-0">
                                                    <li><a href=""><i class="fa fa-facebook-square"></i></a></li>
-                                                   <li><a href=""><i class="fa fa-twitter-square"></i></a></li>
+                                                   <!-- <li><a href=""><i class="fa fa-twitter-square"></i></a></li> -->
                                                    <li><a href=""><i class="fa fa-google-plus-square"></i></a></li>
                                                    <li><a href=""><i class="fa fa-pinterest-square" aria-hidden="true"></i></a></li>
                                                 </ul>

@@ -71,7 +71,7 @@
                                         </div>
                                     </div>
                                 </td>
-                                <td valign="top" width="52">
+                                <!-- <td valign="top" width="52">
                                     <div class="contentEditableContainer contentTwitterEditable" style="margin: 0;">
                                         <div class="contentEditable" style="margin: 0;">
                                             <a target="_blank" href="{!! getSettingValue('twitter-link')  !!}"
@@ -82,7 +82,7 @@
                                                     style="border: 0 !important;display: block !important;outline: none !important;"></a>
                                         </div>
                                     </div>
-                                </td>
+                                </td> -->
                             </tr>
                         </tbody>
                     </table>

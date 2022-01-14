@@ -156,20 +156,20 @@
                       	  </a>
                       </div>
                   </div>
-                  <div class="col-sm-4">
+                  <!-- <div class="col-sm-4">
                       <div class="cps-service-box style-7">
-                      	<!--
+                      	
                           <p class="cps-service-text">Once they register and place their first order, you get 2 free credits!</p>
                           <h4 class="cps-service-title">Print Report</h4>
                           <p class="cps-service-text">Make highly productive apps for multiple mobile device. </p>
                           <a class="service-more" href="#">Learn More <i class="fa fa-angle-right"></i></a>
-                          -->
+                         
                           <a class="btn btn-square btn-primary" href="{{'https://twitter.com/share?url='.url('/register'). '?referral_code='. $user->referral_code}}" target="_blank">
                           	<i class="fa fa-twitter"></i>
                           	&nbsp &nbsp &nbsp &nbsp Twitter
                       	  </a>
                       </div>
-                  </div>
+                  </div> -->
               </div>
           </div>
         </div>
