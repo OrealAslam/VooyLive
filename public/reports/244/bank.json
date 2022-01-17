@@ -1,0 +1,951 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEBR5_5S3K4OZHAN431ezx3vkDoMfBO2r4inF3BfO8cYQotv3J4Wps_diMQhQq_CvSXfkjfGT066JE5WDASa8MTtK3TotJiNIyUNIO7AczECq3Pv9a3AdyQNHAoHAUedwAbbETZKYNlVKyAqygvLAcoEMx3sPTMf-5FiTOo36jtbFw7RqID2jlPzkvHZ_zLUS52qDMsYvzAfWysqX_EfTCrSeavBcQ58Via0bZVOGkN6dhI2KuK_2Xs5HQYi3fRSd72vAg7I9WYFsrKXkHDLRnYF4piHYnyLP5X2M1NcDwC4_7GsGm8R3mVGT-RYReTymmsDGJN_sBEfgI8qqN1VS0uNUBdltnoYWP601z5mKFB6-ZVzbkpE5aQ7UVzAyIASYBrllC7Kqrfns7fkY0ScP4HmJdq8jnQJ6AJggEz_VUkZmmVWeygpxL5n-33VBUb7e7WOoYkMtk6QoMEOUUGmWyxKHXzQuRKd6dfdj1wYS8II3X2AibV0ZxgpQCJKJ60iFkEXdRaH4fBFsvQTSp_r1Qgq5TUnaB_eRZeT6n2WEc1_9lMFY7GZ5jxh_67npc17KjiVGAUCyl5UEEO_wbqoOs35-aCE4JI67a_ahIVimKr_sINxqm8lFtl-vRNrVXZmOev_6d30fd9Wz-sLXRrZpK2RPLqoiB2oe1A-Cvqe5RG53-LyVZQLLRg4591A7Y3vCFstdBXW1dr3_phHxZkdi39zRzHZPWzFZhpG-6xOGrIyFMYJGUqWewoQ5g",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.504444,
+               "lng" : -73.55752
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5058567802915,
+                  "lng" : -73.55611861970849
+               },
+               "southwest" : {
+                  "lat" : 45.50315881970851,
+                  "lng" : -73.55881658029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Banque Nationale",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112945660506848161323\"\u003eAndré\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA5O9mXS8oEajPYnImYCGL8L-SxJm5g1uqV6P5LW1w-qSrnxGpjYpb07XQL8QWJUDP25oX3FQJaNCXepO0ZXMthxk6uBLQIEaCRAwjqxmVug_4tDeEX-XId3DVmqjw5F3cCDk30_qNu5hxd9hSO6IONCpCxRXjDGkCz2SRy9mW7c3Qw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ80utUFcayUwRiQvQYeuKyjk",
+         "plus_code" : {
+            "compound_code" : "GC3R+QX Montreal, QC, Canada",
+            "global_code" : "87Q8GC3R+QX"
+         },
+         "rating" : 2.9,
+         "reference" : "ChIJ80utUFcayUwRiQvQYeuKyjk",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 32,
+         "vicinity" : "500 Place d'Armes Main Floor, Montréal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.501717,
+               "lng" : -73.56428
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5031101302915,
+                  "lng" : -73.56304146970849
+               },
+               "southwest" : {
+                  "lat" : 45.5004121697085,
+                  "lng" : -73.5657394302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Banque Nationale",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106107317324753846007\"\u003eGaetan Matte\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDYa5fiFSfRtnxfNc3Pron-Gx9Fc-Zg1siTAu5uPFycvemR3RYFpWwfpTaNMeqkacyA0uH8E8a3zAUFBovO1GkQddMFGcXqLdAZWsylewLGttXCw5Spd1v6SskI-9q7S9sPrR1dWmZ_39C_D-cP1Xa8e5xsYqRxVj1VTjaiPAlhsoUl",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJx-9eE1sayUwRzcHBeXgCmiU",
+         "plus_code" : {
+            "compound_code" : "GC2P+M7 Montreal, QC, Canada",
+            "global_code" : "87Q8GC2P+M7"
+         },
+         "rating" : 2.8,
+         "reference" : "ChIJx-9eE1sayUwRzcHBeXgCmiU",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 34,
+         "vicinity" : "600 rue de La Gauchetière Ouest Niveau A, Montréal"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5070279,
+               "lng" : -73.56250559999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5084705802915,
+                  "lng" : -73.56136661970849
+               },
+               "southwest" : {
+                  "lat" : 45.5057726197085,
+                  "lng" : -73.5640645802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "CIBC Branch with ATM",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 3444,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101042355031560719819\"\u003ePhilippe Royal\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBMWmziYrgHmgzVsvA-iroCeFFsLStPN1-86qOezWqa05yM1vphl1zT8K3vmkXBZ_30CogwxdAZ5pS_0x4LdFvyyRPspGIjKOa7RQVlneMoxSn08t7puFFM7w9G3PHt1yu1szcI0Utd3t7-vX58pEbhUwQdIq_QNghy14V-alT7XMpL",
+               "width" : 3725
+            }
+         ],
+         "place_id" : "ChIJE3nDJ1AayUwR1JIQJnO6PiM",
+         "plus_code" : {
+            "compound_code" : "GC4P+RX Montreal, QC, Canada",
+            "global_code" : "87Q8GC4P+RX"
+         },
+         "rating" : 2.1,
+         "reference" : "ChIJE3nDJ1AayUwR1JIQJnO6PiM",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 31,
+         "vicinity" : "200 René-Lévesque Boulevard West Local 5a, Montreal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5009495,
+               "lng" : -73.5602693
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5023741802915,
+                  "lng" : -73.55905646970849
+               },
+               "southwest" : {
+                  "lat" : 45.4996762197085,
+                  "lng" : -73.56175443029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "CIBC Branch (Cash at ATM only)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103330763366302795833\"\u003eTom Bombadil\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDxdnqKgwd-2ZIsxEKkTez5wZ8jv3AUyoVu3fVYluhaDr07ZU5B9go7lsFq4wN9X2iJlBpWpCWmWdcr5zqLKXOnMQqwlyrj_CKDTUJYrqRkAegpg0x2Lu0MdKmQfz6G8LvRjRNLSV0y6O-76cvgxKFfvYNV3Z3ObyjY7I-GO3VWuc4M",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJn8m1I1oayUwRJ6u3Sev5Hw0",
+         "plus_code" : {
+            "compound_code" : "GC2Q+9V Montreal, QC, Canada",
+            "global_code" : "87Q8GC2Q+9V"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJn8m1I1oayUwRJ6u3Sev5Hw0",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20,
+         "vicinity" : "610 Rue Saint-Jacques, Montréal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4950079,
+               "lng" : -73.5781793
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4963110302915,
+                  "lng" : -73.57674411970849
+               },
+               "southwest" : {
+                  "lat" : 45.4936130697085,
+                  "lng" : -73.5794420802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "TD Canada Trust Branch and ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109537359070841600424\"\u003eS.E. McKenzie\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBuQ6NWsttqBR-dXe9Y2voEqOhYkalPOfruTnF7jWQUNRWr-pddWBAKuLhxIz-igwh2vVhkK7fG8e2hry1s_v1BkxQI3VVV6zEijjEUTvdV1zHsEtTrn8Idtpdc_HPC6_ChTQ7t6P0VFJVOur4qOOrOai0fdbBu-MJdWE7LKSCRq5AW",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJBfOKy2sayUwRTsPrDnJZkRo",
+         "plus_code" : {
+            "compound_code" : "FCWC+2P Montreal, QC, Canada",
+            "global_code" : "87Q8FCWC+2P"
+         },
+         "rating" : 2.8,
+         "reference" : "ChIJBfOKy2sayUwRTsPrDnJZkRo",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 88,
+         "vicinity" : "1601 Rue Sainte-Catherine Ouest, Montréal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.501583,
+               "lng" : -73.57650099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5029937302915,
+                  "lng" : -73.5752581697085
+               },
+               "southwest" : {
+                  "lat" : 45.5002957697085,
+                  "lng" : -73.57795613029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "RBC Royal Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3888,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112174031674113683061\"\u003eBrian Schatteman\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDLp246huBfp1e9VUrD4dOCpnCbwsB351C8IKNumW412fcXTqDf6K1GvSVHkweDJ5DLF0-OMLpCWC0nHmXe25f2L2uC3zFrGfKUYogchA6S6OVrmU_pzKjqRE1PWDRp-tSNtkMfROqZtXQ59yDgAqc0OHygv5-Ve9Qi53AyedxrbgyN",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJm_CL3kAayUwRLvmQ2UcirA4",
+         "plus_code" : {
+            "compound_code" : "GC2F+J9 Montreal, QC, Canada",
+            "global_code" : "87Q8GC2F+J9"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJm_CL3kAayUwRLvmQ2UcirA4",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 37,
+         "vicinity" : "1100 Rue Sherbrooke Ouest, Montréal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5085448,
+               "lng" : -73.5652674
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.50989378029149,
+                  "lng" : -73.56391841970849
+               },
+               "southwest" : {
+                  "lat" : 45.5071958197085,
+                  "lng" : -73.56661638029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Banque Nationale",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103330763366302795833\"\u003eTom Bombadil\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED4zIQn3eF_iYNGWttmue-068n-4T5fupMsvb6FrJJfs4vsJ5-6tsSCwAuY5YCaIwe40l-2I4yw_KGK8dG9iWs6KVeZgkRPZJ5WzDE_-Z2j_5v6zzQNFM6Ca7IgJWuUWNCfUwdM9TBYXVk5mDE2TiR8jQjj3jhG2WTDWyFRWYorkKsJ",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJK6KKtU8ayUwRFOIRxixzs5o",
+         "plus_code" : {
+            "compound_code" : "GC5M+CV Montreal, QC, Canada",
+            "global_code" : "87Q8GC5M+CV"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJK6KKtU8ayUwRFOIRxixzs5o",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 24,
+         "vicinity" : "105 Rue Sainte-Catherine Ouest, Montréal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5064726,
+               "lng" : -73.56699949999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.50777173029149,
+                  "lng" : -73.5656961697085
+               },
+               "southwest" : {
+                  "lat" : 45.5050737697085,
+                  "lng" : -73.56839413029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "TD Canada Trust Branch and ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2367,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108366424979984064344\"\u003eYoann Lussier\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECIcFlt4wtzSZhDRp64aC0-itJb4uA6Sq-76gC28q4l09649aT9NggMWF8_OoJK-9FBX8qfQwYWwab3lN4akH7bwDCxmxgTiRvDUmVzf5JpVBE9uV7EKm81eg1N1eR4SDa0aBHll_MnJE6kjLTM8fcdgjDVrljzfbG67Lgqe8tGGf_d",
+               "width" : 2492
+            }
+         ],
+         "place_id" : "ChIJz12WcE8ayUwRHTFFulXw97Q",
+         "plus_code" : {
+            "compound_code" : "GC4M+H6 Montreal, QC, Canada",
+            "global_code" : "87Q8GC4M+H6"
+         },
+         "rating" : 2.9,
+         "reference" : "ChIJz12WcE8ayUwRHTFFulXw97Q",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 40,
+         "vicinity" : "1401 Rue de Bleury, Montréal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5035842,
+               "lng" : -73.567888
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5049942302915,
+                  "lng" : -73.56665966970849
+               },
+               "southwest" : {
+                  "lat" : 45.5022962697085,
+                  "lng" : -73.56935763029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "CIBC Branch with ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106346758571421599402\"\u003eRyad R\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBy63Y9BTxuSgUTXg7ELC2vSbs6mmwCo_4rx11qi6RsDKNv-lKuuhskw7KU_0DKuLRDrM7e-_K6VUHSng-4Kxh8SoIdHU9zrAI1NgyNHflweCYtojW29wL9A1FS2oxoWqC2EqH_dJupuoq68rDs4pXmmoTXu-nfv-DlNLxxQbvtCLk7",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJX4ffA0UayUwRjr4jm2Aj_nQ",
+         "plus_code" : {
+            "compound_code" : "GC3J+CR Montreal, QC, Canada",
+            "global_code" : "87Q8GC3J+CR"
+         },
+         "rating" : 2.6,
+         "reference" : "ChIJX4ffA0UayUwRjr4jm2Aj_nQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 27,
+         "vicinity" : "600 Rue Cathcart, Montréal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4985831,
+               "lng" : -73.5709883
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5001033302915,
+                  "lng" : -73.5694522197085
+               },
+               "southwest" : {
+                  "lat" : 45.4974053697085,
+                  "lng" : -73.5721501802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "CIBC Branch with ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103738931175249977097\"\u003eShady Mesiha\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDv3txExoXwD_cslL-b1xrdQy9HB01KZhp9dd__ahKmUUcX2qX2S-IE16T2Z-sgfQJQeFm7EpBmCO6plcwmswm3WnHMA8JpI_xy0DLi0vqBOBe31-AslR4FkjSN6UgI6kQ6zQfnlOCVHhhTNRRCjGg38zKzgWKZ7hF09l4vaJxnVKOG",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJqXy1_EIayUwR6fH9L69H7pA",
+         "plus_code" : {
+            "compound_code" : "FCXH+CJ Montreal, QC, Canada",
+            "global_code" : "87Q8FCXH+CJ"
+         },
+         "rating" : 2.7,
+         "reference" : "ChIJqXy1_EIayUwR6fH9L69H7pA",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 46,
+         "vicinity" : "1155 Boulevard René-Lévesque Ouest, Montréal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5060745,
+               "lng" : -73.566897
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.50744023029149,
+                  "lng" : -73.5656607197085
+               },
+               "southwest" : {
+                  "lat" : 45.50474226970849,
+                  "lng" : -73.56835868029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "RBC Royal Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2154,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108366424979984064344\"\u003eYoann Lussier\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAcuHWnu8bOH5p11Y3uy-RV3gUiRNw4EvpBUuANZZGHgEl7i6ltP41w1Sc3l_Ucp_n4VxKze5V09jnZYYwRf8dPkEhxBf4brWpV8OdFIlBEAHMLTDi0fSBwnjB9uJ-r6Tlugb_3pUR4GRt6ZzuJkuPGfvwz-caRAhy93i4b3hCE_D3B",
+               "width" : 3329
+            }
+         ],
+         "place_id" : "ChIJU3zaTU4ayUwRoMjoTllTRDs",
+         "plus_code" : {
+            "compound_code" : "GC4M+C6 Montreal, QC, Canada",
+            "global_code" : "87Q8GC4M+C6"
+         },
+         "rating" : 2.8,
+         "reference" : "ChIJU3zaTU4ayUwRoMjoTllTRDs",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 80,
+         "vicinity" : "350 Rue Sainte-Catherine Ouest, Montréal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.51582999999999,
+               "lng" : -73.57717
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.51721618029149,
+                  "lng" : -73.57577281970849
+               },
+               "southwest" : {
+                  "lat" : 45.5145182197085,
+                  "lng" : -73.5784707802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Banque Nationale",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112585398578999797818\"\u003eYan Dubord\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA_VyeNW1RC2LXsfHf6uc9sCdUy8642mFJAeoRIrQ6wnY3i8fwkA-VJ_WXPB6yMxgFETpkwGHyItuFLXq3nl6yKLSYxqfQx_L5RAh5im0onXT0taQU1BAmmOKRmMCOuEf5G1BV-ap4p7bH_bwND5pMFD_aa7PBZgM-xQU7qD81syIh5",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJ71FhozQayUwRyaGbhjC9b-w",
+         "plus_code" : {
+            "compound_code" : "GC8F+84 Montreal, QC, Canada",
+            "global_code" : "87Q8GC8F+84"
+         },
+         "rating" : 2.4,
+         "reference" : "ChIJ71FhozQayUwRyaGbhjC9b-w",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "3850 Boulevard Saint-Laurent, Montréal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.50452179999999,
+               "lng" : -73.5718578
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.50575393029149,
+                  "lng" : -73.5706262697085
+               },
+               "southwest" : {
+                  "lat" : 45.50305596970849,
+                  "lng" : -73.57332423029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "BNP Paribas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 667,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104637481383635196625\"\u003eAntonio Pistore\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECbF9S0IzhVpQRUczo3uT_b_T4wXML8QH-Ye5sJ-uoS7UITnrY2kskoMpDVfMa2rtkZ6Ekip3oUv-XnNYr6R3cZFFHmkgnubndrB8vVu7sGBeNQi99iDci-yqgQShR3MOHK2R5mromhVFb082HSwOUzuLJDenipR-r_157sxlzEIuCY",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJh_3dlEYayUwRT7jYbrhuCzM",
+         "plus_code" : {
+            "compound_code" : "GC3H+R7 Montreal, QC, Canada",
+            "global_code" : "87Q8GC3H+R7"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJh_3dlEYayUwRT7jYbrhuCzM",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14,
+         "vicinity" : "2001 Boulevard Robert-Bourassa, Montréal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5021172,
+               "lng" : -73.5757387
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5035120302915,
+                  "lng" : -73.5741737197085
+               },
+               "southwest" : {
+                  "lat" : 45.5008140697085,
+                  "lng" : -73.5768716802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "CIBC Branch with ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118296482055484953823\"\u003eCarlos Mata\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBaaDWwxMTIMvJT6kiawCyDQFcBsQFDLS2GqqciyKcNm_mK8XRBPtdfYzPU3F8mN0U2Yqq0Z1aTArjExoCYltiBd4f7VjYbZrCVOV-wsmaiPmmKwJFG8PQke-zj89teKlI3BdWoBUzf529CfZJioDiVsJFiYkeKxZdnrqbwKoByKutq",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJq-YxKkcayUwRwsGa6LPgyRY",
+         "plus_code" : {
+            "compound_code" : "GC2F+RP Montreal, QC, Canada",
+            "global_code" : "87Q8GC2F+RP"
+         },
+         "rating" : 3,
+         "reference" : "ChIJq-YxKkcayUwRwsGa6LPgyRY",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 37,
+         "vicinity" : "1006 Rue Sherbrooke Ouest, Montréal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5136183,
+               "lng" : -73.5724161
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5150447802915,
+                  "lng" : -73.57099106970848
+               },
+               "southwest" : {
+                  "lat" : 45.5123468197085,
+                  "lng" : -73.5736890302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "TD Canada Trust Branch and ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105963975782312487576\"\u003eZoltan Juhasz\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDCV2tx9K-Yl0FxTcWnvsCjnOmgGnbrUqNt42qNRfHLK2Z0kCcBP3B9dfnpdLf080x6eASHzG6_L73qVC5T-hYALTZbGaQwmC1Idn-HaZKOkX7Uz7iqaoAJwiN8b1qYgM4gdpH5tTI147bm4d8Z-X3jT9nSqUOaJupwHJss8Sr0e_eW",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJcaK5fzUayUwRDWfoYpH9Ut4",
+         "plus_code" : {
+            "compound_code" : "GC7H+C2 Montreal, QC, Canada",
+            "global_code" : "87Q8GC7H+C2"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJcaK5fzUayUwRDWfoYpH9Ut4",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 44,
+         "vicinity" : "3590 Boulevard Saint-Laurent, Montréal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.50434709999999,
+               "lng" : -73.57174169999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.50560943029149,
+                  "lng" : -73.5704525197085
+               },
+               "southwest" : {
+                  "lat" : 45.50291146970849,
+                  "lng" : -73.5731504802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "TD Canada Trust Branch and ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1674,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114896394528655060411\"\u003eSteven R\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBRQmIWZMhDwueElGFJPRxi4ATUOhBz0N8_1kLD2QUd7rCUGJI1n_GNP26UkAPMvRuTCGuME-IPR6EnvaEv1eVZu_gV3y16pwfYzWgBd1gg-x9ce-14YTT2AIj4XfJYGCfqxtP_5JD6bR8jadrqhFUfNaJmsNFM4jOkU8Nw4Mi7LtPI",
+               "width" : 2285
+            }
+         ],
+         "place_id" : "ChIJY6Kmf0YayUwRaxGJ4vM2Zwg",
+         "plus_code" : {
+            "compound_code" : "GC3H+P8 Montreal, QC, Canada",
+            "global_code" : "87Q8GC3H+P8"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJY6Kmf0YayUwRaxGJ4vM2Zwg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29,
+         "vicinity" : "2001 Boulevard Robert-Bourassa, Montréal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.48869140000001,
+               "lng" : -73.5809824
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4901140802915,
+                  "lng" : -73.57971056970848
+               },
+               "southwest" : {
+                  "lat" : 45.4874161197085,
+                  "lng" : -73.5824085302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Bureau de Représentation Banque Centrale Populaire du Maroc à Montréal",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100106615816994852384\"\u003eBureau de Représentation Banque Centrale Populaire du Maroc à Montréal\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAzo-SzF-ICGWsDgZwK67BmwFsNED5nxo0HHtKcnIP6ttjDeSLwFW3xnQB-r7j79fUaSJHQmuCEbRkDHvVnZ3RKK3sZA-1iFLSpBny7mg9Tnums2ZW9ijz-T43kFjX3ZndSyyRbaVa7Izkxaeo1Li9UWF2aB68ESZ_HF6gkcPd7Yp0P",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJmWo8-m0ayUwR3pX54JT3atY",
+         "plus_code" : {
+            "compound_code" : "FCQ9+FJ Montreal, QC, Canada",
+            "global_code" : "87Q8FCQ9+FJ"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJmWo8-m0ayUwR3pX54JT3atY",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 110,
+         "vicinity" : "2208 Boulevard René-Lévesque Ouest, Montréal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.50389070000001,
+               "lng" : -73.5742085
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.50506833029149,
+                  "lng" : -73.5725562197085
+               },
+               "southwest" : {
+                  "lat" : 45.5023703697085,
+                  "lng" : -73.57525418029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "HSBC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 740,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113944240897978183054\"\u003eDan Brodeur\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA6Dc4ByaslSN4NINw9qS8ZSEWJO7BkLTzdh9bIuUCklUmrcgSzcUQFRaVzoMNIRa3LebR8Hke_TFeJoX-eCgB_OowWIC8v-DYimjuaDcEN2hqVVhI-duCT72cAWRLoYJCSAPyh4KaJRTCZHqWqsgORjRG0zuiC3hud1O1AEdOckqSI",
+               "width" : 820
+            }
+         ],
+         "place_id" : "ChIJm_bY6EYayUwRJ-82T2JhKYA",
+         "plus_code" : {
+            "compound_code" : "GC3G+H8 Montreal, QC, Canada",
+            "global_code" : "87Q8GC3G+H8"
+         },
+         "rating" : 2.2,
+         "reference" : "ChIJm_bY6EYayUwRJ-82T2JhKYA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bank",
+            "finance",
+            "insurance_agency",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 71,
+         "vicinity" : "2001 McGill College Avenue #160, Montreal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.505048,
+               "lng" : -73.55772429999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.50637793029149,
+                  "lng" : -73.55632246970849
+               },
+               "southwest" : {
+                  "lat" : 45.50367996970849,
+                  "lng" : -73.5590204302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "BMO Bank of Montreal",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103330763366302795833\"\u003eTom Bombadil\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAwznYnF4a2uYIO9y0ayHShJRZUaFmWcEqVLVuj5_Wuf4QkpqnPsLyfz2aWRvRoosg2ldfZBn4hhvkOanfFVfl2ADzzzt6mqy1AySznJX5DFFskiveoDcXUC2AEd_gyTVeKb2tGk6jKDZGc_R3_wCTYYnlk0GBNTxe7iVgAOumF8IKB",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJj6wurVAayUwRMFGszDvQ-Dw",
+         "plus_code" : {
+            "compound_code" : "GC4R+2W Montreal, QC, Canada",
+            "global_code" : "87Q8GC4R+2W"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJj6wurVAayUwRMFGszDvQ-Dw",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 61,
+         "vicinity" : "119 Rue Saint-Jacques, Montréal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.502236,
+               "lng" : -73.5675821
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.50357708029151,
+                  "lng" : -73.5663205197085
+               },
+               "southwest" : {
+                  "lat" : 45.50087911970851,
+                  "lng" : -73.5690184802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Scotiabank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114092399265107358982\"\u003eVg G\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDbWgJUVMecsdrjcSKEGqu2usKL2DXgHLDzXd66y1F1X93twNr2zxF_a02KUHYdU3mGtmfkOKqhPb89Kh_wHwIIXMB-Wt2haasz8t5dm5tJqiI17Xu2GI9XowquA7a1Wawsr1Cl_kUev4qoJedJiCKL15wIu9JeXQJMxSnvkYGvPJFZ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJg4Yb5WIyVUARWxhdubRH4Xw",
+         "plus_code" : {
+            "compound_code" : "GC2J+VX Montreal, QC, Canada",
+            "global_code" : "87Q8GC2J+VX"
+         },
+         "rating" : 1.7,
+         "reference" : "ChIJg4Yb5WIyVUARWxhdubRH4Xw",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 48,
+         "vicinity" : "645 Boulevard René-Lévesque Ouest, Montréal"
+      }
+   ],
+   "status" : "OK"
+}

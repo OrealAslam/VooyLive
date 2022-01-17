@@ -1,0 +1,905 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uECFkDpGISoL31LZ1EUagFjo6atS9aR65FEfZqKWoOJdTYlOS_8-vfyw49EUQqoJ5BNI3jPWGIoiPtrNbDl8orbq5ep8KytLMB0wlKxpncElpieySJ-UTxodGuRm5OObN5JMQo5rogQifxDg7NgxrpJvXMAMG9hpoDv4Ki7ZhfmSmPMsAVExdfXZgDemgJfjWCVqqUL_4qAn2WA76OV1mtQUgHxGaMn01AQ-UGVniIDItBqa5C4bpd_wbGqSaZJgm8UjJ_jSd7TUNO8W1S451GhDPVrko_3jVHAnbijOQ_xac--4ubB-r4QgmCCNTParVX1Y__GPZVqOyM6X44IGzwf8zjSRxd558La0oe8UdYFE-S4KQEzJwowzLIDhESFRiWozSWRHIFFAfNWbj4z6IaYaKTUHPBo0HSYeOV8S4mVqOfQoWeG8S9mDgDlsZzTFm_lCuq1sH3FZ0IHwYzkHIvQlxLVzkf58UM5oJjF6NJ-Lnw3QA4vIHAcjJpfrOe3P6X44ven26nAgZE892D3tNqB8h8Z9qDxi7Byx9AEyQza014bprlOPn4FzQM2ykwSM41jVCkV6X6pMJcrWxCiJhKI0LQ3WGZUedae6hQBtP7JgUxRttI3fYMzJXGHKFO3a2G6ra2k1HjQO3TA9KPtelvaSrrI1tIkwb8JMbB8P1LAiMmJjMOFGvNfnj3TKAQ6-Ni-5T93jEKHFuA6x_d0btDgtlP947K2WIdNq0fT-dETPBldGkjIRMxLkTA",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2827038,
+               "lng" : -123.1190301
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2841593302915,
+                  "lng" : -123.1175508697085
+               },
+               "southwest" : {
+                  "lat" : 49.2814613697085,
+                  "lng" : -123.1202488302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "TD Canada Trust Branch and ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3376,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115968034410778549174\"\u003eElisabeth Papin\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBRIfPhaR-Sxz86PBb8FIjrjLOWsmNIQ8J5v-JLpvux0oXcJFdLwKe14_tIgMp-YmRJnE-wBguCV3MN-u_3Zy2tnmC82mv5-ey3psHRyTvCbTM-hc6UPII1P0UvcA3maQfWgidO5AlMmOOqsv7c_dr6ietBd37_e8AoLOtZlr7oxnVt",
+               "width" : 5984
+            }
+         ],
+         "place_id" : "ChIJ45CRFH9xhlQR4f_9KByTnPU",
+         "plus_code" : {
+            "compound_code" : "7VMJ+39 Vancouver, BC, Canada",
+            "global_code" : "84XR7VMJ+39"
+         },
+         "rating" : 2.3,
+         "reference" : "ChIJ45CRFH9xhlQR4f_9KByTnPU",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 123,
+         "vicinity" : "700 West Georgia Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2848159,
+               "lng" : -123.1221045
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2861542302915,
+                  "lng" : -123.1206020197085
+               },
+               "southwest" : {
+                  "lat" : 49.2834562697085,
+                  "lng" : -123.1232999802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "CIBC Branch with ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101689663074169946115\"\u003econcessa gonzales\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB4qkKkr1TklVdXH5n2LG7NcelanmM-tuYIbtcu5vdcyMRblsqCEsriQdTHfGl85DZ6iFgiNOudB5GNmDWbdGdAsLt6S-iXXu9xKc3ycmQw2I5uao0E8JvjC200vRsTt9P-TyDN0tjyfrZV2eNuGa6JWhjP0eCxisXkPBGQ7HyO2ro4",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJj6HmSIJxhlQRoZMN4xqSSPs",
+         "plus_code" : {
+            "compound_code" : "7VMH+W5 Vancouver, BC, Canada",
+            "global_code" : "84XR7VMH+W5"
+         },
+         "rating" : 2.8,
+         "reference" : "ChIJj6HmSIJxhlQRoZMN4xqSSPs",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 48,
+         "vicinity" : "1036 West Georgia Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2864943,
+               "lng" : -123.1214363
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2877323302915,
+                  "lng" : -123.1202135697085
+               },
+               "southwest" : {
+                  "lat" : 49.28503436970851,
+                  "lng" : -123.1229115302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Bank of China",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105228349541098182324\"\u003eGodwin C\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDUiYrdvQG0WsituhbjwnCSAfWTjvI0_FoQZb5knx2sWDhHo53TBDLDIrD3Og-VrbryfkLR5XMhKq6gzFtvuGpH1qJ95JSzFp_Gh8Jt55bR5yTx87QjptWmlmESlrRVSMFH9bCBb3V9wPz_zAFo6qa0AKhGI2IDUoX10SiEdloekF_9",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJd9d2gYFxhlQRidHB-KCklR0",
+         "plus_code" : {
+            "compound_code" : "7VPH+HC Vancouver, BC, Canada",
+            "global_code" : "84XR7VPH+HC"
+         },
+         "rating" : 2.1,
+         "reference" : "ChIJd9d2gYFxhlQRidHB-KCklR0",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 35,
+         "vicinity" : "1055 Dunsmuir Street Unit 2608, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2763534,
+               "lng" : -123.1214367
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2777623802915,
+                  "lng" : -123.1201584697085
+               },
+               "southwest" : {
+                  "lat" : 49.2750644197085,
+                  "lng" : -123.1228564302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "CIBC Branch (Cash at ATM only)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114288042566495812069\"\u003eKevin T\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDHoA9Wk1xjUgj_amneCic3d7HcQtcGyeJufYa1Dj4me1oPJ_2LeqlrDHiXLB1nbysShkRDMaaIm-HkhqA59QsdJFtkNZ-hljd6JEL01ovBQdmXz5JToNnQNKnmO1t7esJ8DEm_lcmsxJ3AaAtp0o7pV9maAE4uSEpaLPbbW5qLThPQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ9_SjY9ZzhlQRc3qoQms48eI",
+         "plus_code" : {
+            "compound_code" : "7VGH+GC Vancouver, BC, Canada",
+            "global_code" : "84XR7VGH+GC"
+         },
+         "rating" : 2.1,
+         "reference" : "ChIJ9_SjY9ZzhlQRc3qoQms48eI",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 49,
+         "vicinity" : "1096 Homer Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2853635,
+               "lng" : -123.1134296
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28661458029149,
+                  "lng" : -123.1121956697085
+               },
+               "southwest" : {
+                  "lat" : 49.28391661970849,
+                  "lng" : -123.1148936302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "RBC Royal Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5328,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103814429145395489780\"\u003eEdmund Kropf\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBnH2KeyFVgSbGROVZfnRiXjrIlI8Z1XEna7N-kTOgTMQPIqb_8qlAzmUoALwPv0fO0OLEuopMJnh6dzrcRoNG7T1POAUA1zARN8UvVyJ875jIehL3XUA5VtmTgx-AZFgZwe-yaH-ux5wEQdBsxKmzSszVDZojnu6B9nPxm1UIXGZjx",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJL0ILfnhxhlQR3QpFyOu3Dko",
+         "plus_code" : {
+            "compound_code" : "7VPP+4J Vancouver, BC, Canada",
+            "global_code" : "84XR7VPP+4J"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJL0ILfnhxhlQR3QpFyOu3Dko",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 36,
+         "vicinity" : "685 West Hastings Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2838115,
+               "lng" : -123.1196291
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28519418029151,
+                  "lng" : -123.1184329697085
+               },
+               "southwest" : {
+                  "lat" : 49.28249621970851,
+                  "lng" : -123.1211309302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "HSBC Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3118,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113660871396728099494\"\u003eA K\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBmk918c6X6io0biCRrnt9lCJC5gVtcL9jythsQ43aSJKAGuWdOY9Nrc-VBkeZmjgDacjgdXWC3HlCI2-LCXHLP9_zeS-vAYxc5QWYMNRrzloWNWqSM79kXQTOIjtiUuKXYoX0VrtqXms6_fntDy0nPtGwMWzus-fM4DDZ9Iw9KBNl2",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJQ2S8D4FxhlQRKP618shOZQM",
+         "plus_code" : {
+            "compound_code" : "7VMJ+G4 Vancouver, BC, Canada",
+            "global_code" : "84XR7VMJ+G4"
+         },
+         "rating" : 2.5,
+         "reference" : "ChIJQ2S8D4FxhlQRKP618shOZQM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bank",
+            "finance",
+            "insurance_agency",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 37,
+         "vicinity" : "885 West Georgia Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2849314,
+               "lng" : -123.1211943
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2861607802915,
+                  "lng" : -123.1200052697085
+               },
+               "southwest" : {
+                  "lat" : 49.2834628197085,
+                  "lng" : -123.1227032302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "RBC Royal Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100108182703639365330\"\u003eAbdullah Junaid\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAoMqTiCbLOCBCfKtblefExxsoykDAiCUOG6jpobKzDV4ZW8RFiDHRevrzzuqA2QltVhGAt10QR69JoUAN2RyaFgr72gZ8DFtNN0J-n6ymS2k3GkVs0WMQVTO_ShqJB1uhxeQgG5pl2q1IbE5nePuJDiol_RRnI2Ue7uCHtWlIG1vf8",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJxfzauIFxhlQRq-0KGIpy05U",
+         "plus_code" : {
+            "compound_code" : "7VMH+XG Vancouver, BC, Canada",
+            "global_code" : "84XR7VMH+XG"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJxfzauIFxhlQRq-0KGIpy05U",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 109,
+         "vicinity" : "1025 West Georgia Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2819846,
+               "lng" : -123.118033
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28341993029149,
+                  "lng" : -123.1164583197085
+               },
+               "southwest" : {
+                  "lat" : 49.2807219697085,
+                  "lng" : -123.1191562802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Scotiabank, Vancouver Commercial Banking Centre & Main Branch",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100108182703639365330\"\u003eAbdullah Junaid\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBsB3PR5FARXqxjMit4OlK2HlZgEFZaUWF7FIWFDow5qmXkfxTm1ekiWvkgF_INYnRIjopcSgiXbrdziv1d6wWP6Pt8osmawKomvvo7H7f7POhd1w0QjspvpboRihHo7Dmyeaod9GWGNbWR3bI1IWuNNb1byO4tY4c8toYIeIiHbYY-",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJx7q9G39xhlQRWaYrzKY_VTs",
+         "plus_code" : {
+            "compound_code" : "7VJJ+QQ Vancouver, BC, Canada",
+            "global_code" : "84XR7VJJ+QQ"
+         },
+         "rating" : 2.7,
+         "reference" : "ChIJx7q9G39xhlQRWaYrzKY_VTs",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 68,
+         "vicinity" : "650 West Georgia Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2873087,
+               "lng" : -123.1159956
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2884675302915,
+                  "lng" : -123.1148539197085
+               },
+               "southwest" : {
+                  "lat" : 49.2857695697085,
+                  "lng" : -123.1175518802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "UBS Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1171,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104402906375731360683\"\u003eSon Ma\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEClkbbF2sstMZELDhZ_MkbXwr1tczjynt4Pfq4DW9qXv4sagh_2GX1NkFt_ZYyc1M5vOw1Syvr2n_6_08BNzT1zDJWxQ9f9K_12nwIMO9BSpUfEG3fVNaumQH_YJPocPjnOKpmLxuySiUlU51Fu-2cnXC3pee5sF4AjFuKKvbWdgtXn",
+               "width" : 1800
+            }
+         ],
+         "place_id" : "ChIJTfGiU4JxhlQRR3v8eVTBoCE",
+         "plus_code" : {
+            "compound_code" : "7VPM+WJ Vancouver, BC, Canada",
+            "global_code" : "84XR7VPM+WJ"
+         },
+         "rating" : 3,
+         "reference" : "ChIJTfGiU4JxhlQRR3v8eVTBoCE",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "999 West Hastings Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.28625019999999,
+               "lng" : -123.1213301
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28756668029149,
+                  "lng" : -123.1200607197085
+               },
+               "southwest" : {
+                  "lat" : 49.2848687197085,
+                  "lng" : -123.1227586802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "TD Canada Trust Branch and ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3265,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113606221593998742507\"\u003eGoToVan\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDABFnknepgeqzdqhPVhENogyKTGpZn5KugDehRhuCZvxxZIIzaOGsWadi14MQmd-w7EhRNIkaRiohoNdhWfvcOFqQAYEkandAOiXRUdaaHX8m3eMpLLToSaz_oZFS5bv9vmoo1trrQitI3oXsXHBAizERP1X6Obim-blT_viLMARnD",
+               "width" : 4898
+            }
+         ],
+         "place_id" : "ChIJd9d2gYFxhlQRuI63kaAsm4w",
+         "plus_code" : {
+            "compound_code" : "7VPH+GF Vancouver, BC, Canada",
+            "global_code" : "84XR7VPH+GF"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJd9d2gYFxhlQRuI63kaAsm4w",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29,
+         "vicinity" : "1055 Dunsmuir Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.285048,
+               "lng" : -123.11902
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2863363302915,
+                  "lng" : -123.1174545697085
+               },
+               "southwest" : {
+                  "lat" : 49.2836383697085,
+                  "lng" : -123.1201525302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Canadian Western Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1661,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104402906375731360683\"\u003eSon Ma\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAElPqrJfXdy1X8foh36HGGDKStrmUjgGWVpu7Q-Q4ytaeRwg-8XfnMJ58kFTh7EOTQHJet44da-gUBAem9dMs4YrxxhP1Jkd-S7HBql_EnOphUNpCHcfGHh5pT5VgC-iGUwfySLemAjWItjapBbBmZOGW1wJppurqTjn4k4OicmgTv",
+               "width" : 1800
+            }
+         ],
+         "place_id" : "ChIJd7PL6oFxhlQRJyAnN6V5nvE",
+         "plus_code" : {
+            "compound_code" : "7VPJ+29 Vancouver, BC, Canada",
+            "global_code" : "84XR7VPJ+29"
+         },
+         "rating" : 3,
+         "reference" : "ChIJd7PL6oFxhlQRJyAnN6V5nvE",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "666 Burrard Street Suite 100, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.28115489999999,
+               "lng" : -123.1155551
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2823146802915,
+                  "lng" : -123.1138929697085
+               },
+               "southwest" : {
+                  "lat" : 49.2796167197085,
+                  "lng" : -123.1165909302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "BMO Bank of Montreal",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100108182703639365330\"\u003eAbdullah Junaid\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECE-pRX-tF4Actu7ZgdOlpBPLfqh07p1LGN3sY_qnz8HaWWaAChwsTwdWUkpzoRqFmYeXrPP_RBOd9pIFbLXOnjkKD_dpsUjv58gs0P_ID85hA-h3NqijIK440Wrnnie4eBQxFxUtaCFEWHthZX3UbInXaE7yt2LBApvYxSlJbCRc9i",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJIRd3lX5xhlQRhh05X2X6-XQ",
+         "plus_code" : {
+            "compound_code" : "7VJM+FQ Vancouver, BC, Canada",
+            "global_code" : "84XR7VJM+FQ"
+         },
+         "rating" : 2.4,
+         "reference" : "ChIJIRd3lX5xhlQRhh05X2X6-XQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 54,
+         "vicinity" : "455 West Georgia Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.27733480000001,
+               "lng" : -123.1196379
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2788085802915,
+                  "lng" : -123.1184536697085
+               },
+               "southwest" : {
+                  "lat" : 49.2761106197085,
+                  "lng" : -123.1211516302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "RBC Royal Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108003430196834727455\"\u003eMichael San Felipe\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDI13z987MFDNVoYa9VrzsdBhU9Bf2Hlf2e63t9tDGEEiDKfEpi-WhSwwWUJ-OGH01Zltt6meNsJ56lo_WlV-782AbEli-sB1aihQS7btrk9xF5v0dEwqw3ecAdaa7V-SY-qdlpRWX0n8yub6UlI4ZoTJ4qy0HaqnFpcJ7B1_kV6KdP",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJvbn6uHxxhlQREQu0h58kVQ4",
+         "plus_code" : {
+            "compound_code" : "7VGJ+W4 Vancouver, BC, Canada",
+            "global_code" : "84XR7VGJ+W4"
+         },
+         "rating" : 2.2,
+         "reference" : "ChIJvbn6uHxxhlQREQu0h58kVQ4",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 41,
+         "vicinity" : "996 Homer Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2742995,
+               "lng" : -123.1212295
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2755699302915,
+                  "lng" : -123.1198328197085
+               },
+               "southwest" : {
+                  "lat" : 49.2728719697085,
+                  "lng" : -123.1225307802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "RBC Royal Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113985762427729506129\"\u003ePatrick Audley\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBcpykbTrZQHsGChEz5SN_TBBENGrUamkitReV0BMHjcGLEgPj-Cit5spVMo1087P5LapCl-W0AHw5OR198TCJAjoD4tjJ_4Qoecy9vLWrzhNljWhJgK6vLN1IbHePnSwp4ReLNV9nSPRDtlP9kUp9hD0qKa_jCy9QiXRhe-5ugXJMu",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJvbn6uHxxhlQRRw22x8N58Zo",
+         "plus_code" : {
+            "compound_code" : "7VFH+PG Vancouver, BC, Canada",
+            "global_code" : "84XR7VFH+PG"
+         },
+         "rating" : 2.7,
+         "reference" : "ChIJvbn6uHxxhlQRRw22x8N58Zo",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 28,
+         "vicinity" : "1195 Pacific Boulevard, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.27682339999999,
+               "lng" : -123.1196032
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2781840802915,
+                  "lng" : -123.1183033697085
+               },
+               "southwest" : {
+                  "lat" : 49.2754861197085,
+                  "lng" : -123.1210013302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "BMO Bank of Montreal",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113985762427729506129\"\u003ePatrick Audley\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDem1xw5zaS_9XVFin1zxA2O6YW3Bk9Wt2bDDrBj38boQqO3W0jOTtJhurZoif2FseRq5QDsXdgOuCjF_7S0jahgHfyriXL3RD8lg1klm3Rtgq6nxRRj8j6bzv0MAgbjckxyHZxxAJOcRx9jhmRkWOd88HsLlJKudlFY_K3UUlXtPWH",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJeRAPFNZzhlQRQx2vEaI3luk",
+         "plus_code" : {
+            "compound_code" : "7VGJ+P5 Vancouver, BC, Canada",
+            "global_code" : "84XR7VGJ+P5"
+         },
+         "rating" : 2.6,
+         "reference" : "ChIJeRAPFNZzhlQRQx2vEaI3luk",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 41,
+         "vicinity" : "1004 Hamilton Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2873157,
+               "lng" : -123.116049
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2884710302915,
+                  "lng" : -123.1148806197085
+               },
+               "southwest" : {
+                  "lat" : 49.2857730697085,
+                  "lng" : -123.1175785802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "MUFG Bank, Ltd., Canada Branch",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJd7PL6oFxhlQRpWi1HAahNsE",
+         "plus_code" : {
+            "compound_code" : "7VPM+WH Vancouver, BC, Canada",
+            "global_code" : "84XR7VPM+WH"
+         },
+         "rating" : 5,
+         "reference" : "ChIJd7PL6oFxhlQRpWi1HAahNsE",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "1040-999 West Hastings Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.27864,
+               "lng" : -123.11381
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2800697302915,
+                  "lng" : -123.1125870197085
+               },
+               "southwest" : {
+                  "lat" : 49.2773717697085,
+                  "lng" : -123.1152849802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "CWB Trust Services",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJh4ff_XtxhlQR5ylyWDcRUhc",
+         "plus_code" : {
+            "compound_code" : "7VHP+FF Vancouver, BC, Canada",
+            "global_code" : "84XR7VHP+FF"
+         },
+         "rating" : 4,
+         "reference" : "ChIJh4ff_XtxhlQR5ylyWDcRUhc",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "300-750 Cambie Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2819176,
+               "lng" : -123.1180511
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2834214302915,
+                  "lng" : -123.1169494697085
+               },
+               "southwest" : {
+                  "lat" : 49.2807234697085,
+                  "lng" : -123.1196474302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "United Overseas Bank Limited",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107638451122589523316\"\u003eHabeeb Shafiee\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECSm7uncoywHBVEmCKxAQFXXEQEpIh3NL0D7HCw_eapMVzdygW-q54jJ-HgAurGGpOxBkXIHMe7kVRzkP8KLAYt-EJxLc39-jDL5swOXaHEg7vxo4R5UK2t--ANB0VoeCfb8Jt2mxguTevF46L-GjSCySGTH2cBbWG0nycRI3MPPIYP",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJmbseEX9xhlQR8ruqLShEqZI",
+         "plus_code" : {
+            "compound_code" : "7VJJ+QQ Vancouver, BC, Canada",
+            "global_code" : "84XR7VJJ+QQ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJmbseEX9xhlQR8ruqLShEqZI",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "650 West Georgia Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2859546,
+               "lng" : -123.11939
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28720543029151,
+                  "lng" : -123.1178916697085
+               },
+               "southwest" : {
+                  "lat" : 49.28450746970851,
+                  "lng" : -123.1205896302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Northstar Trade Finance",
+         "place_id" : "ChIJkWE_KIJxhlQRl1ojLcm-LGM",
+         "plus_code" : {
+            "compound_code" : "7VPJ+96 Vancouver, BC, Canada",
+            "global_code" : "84XR7VPJ+96"
+         },
+         "reference" : "ChIJkWE_KIJxhlQRl1ojLcm-LGM",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "595 Burrard Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2819176,
+               "lng" : -123.1180511
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2834214302915,
+                  "lng" : -123.1169494697085
+               },
+               "southwest" : {
+                  "lat" : 49.2807234697085,
+                  "lng" : -123.1196474302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Sterling Pacific Capital Inc",
+         "place_id" : "ChIJx7q9G39xhlQR0DB0KS7ylhE",
+         "plus_code" : {
+            "compound_code" : "7VJJ+QQ Vancouver, BC, Canada",
+            "global_code" : "84XR7VJJ+QQ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJx7q9G39xhlQR0DB0KS7ylhE",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "650 West Georgia Street, Vancouver"
+      }
+   ],
+   "status" : "OK"
+}

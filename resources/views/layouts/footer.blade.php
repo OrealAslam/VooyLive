@@ -10,7 +10,7 @@
                         <p>Provide depth and detail to your home marketing presentation by highlighting important neighbourhood information</p>
                         <div class="cps-socials">
                             <a href="{!! getSettingValue('facebook-link')  !!}"><i class="fa fa-facebook"></i></a>
-                            <a href="{!! getSettingValue('twitter-link')  !!}"><i class="fa fa-twitter"></i></a>
+                            <!-- <a href="{!! getSettingValue('twitter-link')  !!}"><i class="fa fa-twitter"></i></a> -->
                             <a href="{!! getSettingValue('instagram-link')  !!}"><i class="fa fa-instagram"></i></a>
                             <a href="{!! getSettingValue('linkedin-link')  !!}"><i class="fa fa-linkedin"></i></a>
                         </div>
@@ -50,6 +50,14 @@
                             <li><a href="{{ url('/videos') }}">How To Videos</a></li>
                             <!-- <li><a href="{{ URL::Route('page.how-it-works') }}">How It Works</a></li> -->
                         </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 col-sm-12 col-lg-12 col-xs-12">
+                    <div class="cps-widget custom-menu-widget text-center">
+                        <img src="{{ asset('img/proudly-canadian.png')}}" alt="Proudly Canadian" width="200">
+                        <p style="margin-left: 20px;">Designed in Edmonton, AB.</p>
                     </div>
                 </div>
             </div>

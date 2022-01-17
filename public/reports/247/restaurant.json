@@ -1,0 +1,997 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEA5fDRLQ5mi6GIc4QGiBbzz8Otfzf71afWwLgbE3iEL_Y77Wp7GbhVS6B1MZ8_BcutSZzwbSy4xXtQcEtjXaNVsmfoRNNWRhGaFUjgSu55J8AlGSK9EAyedF61nUJTlom9-P_DBxhav6wcOY7PxC5Oa24cZzWi7s4qogL2Q7MFbB23PO6ymf-rC977LUHU08bQCGlkDlcI_a6W_jMCEtSJmk5pVxSaOMgxpmikgkR5w74HG4Eb0tnO4V-G0WSLCcXE81zDC928ab-xNALKspVxq53hKLzm8Tke0jXsTF1ElPsPcxfgqDicZWywX30aa03hCNLUViY5_aJWuB1qiLzvzdjCfCyJbdK6Wae_-VOeuhA2KTfFxaXgDdZ3dooJFZRLvW62V8GkB6uqDh7cWgFCSm2Iw5avNeJW9FEMZma0V8ClQ5DX_AsgGxQvgojSmRNyMwmHT4npIJ2DLDm-DQg-Ve2LmkRWBvl633ItiEYxWZx3yim0LCG9SWmt3Laa5Cn750zMkjBv1bxkQ1OjHeazgMkdazMiJV-3YJIM-LJpkaqiiuFyxFAcn56Cb4gBCxl_M86kd5zean38Chfxv6umlYFoIay4NSL0wSzCLh7XxFBoVMYXWgbXBwPfYSVpozc0MKVqD9_dJR1MHSGFxeIOjCtVDLDkP3JxfHXzjkjo7gxwXa-K0OGEq0nWwW09s0-a6Km3qWJXhacmzt6Eav9LEAZaGYF8oUh7joKpB-JUd4U_tSGmEvmRGmHUenJTUVg",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.22670710000001,
+               "lng" : -123.0039352
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2281866302915,
+                  "lng" : -123.0025951697085
+               },
+               "southwest" : {
+                  "lat" : 49.2254886697085,
+                  "lng" : -123.0052931302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Boston Pizza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3888,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101558298039408334201\"\u003eSchool of Baccarat\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA14Gt4PlIE4FVcbhVu7qhsNpBfGVYU2y8ZCg8rck35PPkMnValHbOtY7Ql3k8Hgo7Zb3jN9SPdty1RVbqPIobaJX-L4T4Q4HH8jVhtUdnoHaI88iNhLhCil9kzrIch4Kuik8IGwpDZ7eV6wnj7L0xzo5Q6WcYqLBK5K123sUEUr4gm",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJu7xJAll2hlQR2CJCMMUauyU",
+         "plus_code" : {
+            "compound_code" : "6XGW+MC Burnaby, BC, Canada",
+            "global_code" : "84XR6XGW+MC"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJu7xJAll2hlQR2CJCMMUauyU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1335,
+         "vicinity" : "135-6200 McKay Avenue, Burnaby"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2205798,
+               "lng" : -122.9772057
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.22199163029151,
+                  "lng" : -122.9759177697085
+               },
+               "southwest" : {
+                  "lat" : 49.21929366970851,
+                  "lng" : -122.9786157302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "The One Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108612152847393726822\"\u003eThe One Restaurant\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECnpqtlLB27_xZY6pp05aUIPgBvKLe1O96eI1zc65ouxGz4aO3PqZgWT9Z4aEUQYH4zoB7sHN2ulQv3cNXoUgUb8QplQ5uvPZIcJMhAcwcJpitbN6q7CXl2wMoyv4lrfZas6ESpfhGiBYw7XGbbVCg1S_MOF94DdbQs65dkb4UL_KjG",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJSRhgNEl2hlQRZxQhv6nTOuc",
+         "plus_code" : {
+            "compound_code" : "62CF+64 Burnaby, BC, Canada",
+            "global_code" : "84XV62CF+64"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJSRhgNEl2hlQRZxQhv6nTOuc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1422,
+         "vicinity" : "5908 Kingsway, Burnaby"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.22293610000001,
+               "lng" : -122.9840694
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.22425293029151,
+                  "lng" : -122.9826346697085
+               },
+               "southwest" : {
+                  "lat" : 49.22155496970851,
+                  "lng" : -122.9853326302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "White Spot Metrotown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117992554067263203149\"\u003eRonnie Fuentes\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEABm3Q7IheNvjDHt8-R6Qu91F4JwY2AC346ma9KwJLDRTEJoP3QFEsmM_MlTJoTaaYe-tz_lpEPG-MuTLhGmzCX4sAQY9B5oqUHD_2pxIpJbzYaLxUcVqqhk-p01FeK8fliYB0A2NmXw4RtaSjqgVMGtlzQ_fbfNJiadPilaPWWLYDr",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJNZ6Z6092hlQR9ePbzRL9dLc",
+         "plus_code" : {
+            "compound_code" : "62F8+59 Burnaby, BC, Canada",
+            "global_code" : "84XV62F8+59"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJNZ6Z6092hlQR9ePbzRL9dLc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1334,
+         "vicinity" : "5550 Kingsway, Burnaby"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2276233,
+               "lng" : -123.0032942
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2289722802915,
+                  "lng" : -123.0019452197085
+               },
+               "southwest" : {
+                  "lat" : 49.2262743197085,
+                  "lng" : -123.0046431802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Cactus Club Cafe Kingsway",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 355,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112616183696842104807\"\u003eCactus Club Cafe Kingsway\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBj2OuIsAkP67N0VNEf-B8qdMUkZw5nVhuYYZn_NAzvV0UmJZm7V5YBEE-nZkVXwsFg1pBbEATt2obyy3JBUp1NFjNmU62rJCSOhbrl6eKwvgMuIm3WihfTnybR0aODdecpunodeSAWGP5UwT9NBt_Td1E0VLjiF05r45bzVnZuVycR",
+               "width" : 630
+            }
+         ],
+         "place_id" : "ChIJI8958Fh2hlQRsCqIeS7nJX8",
+         "plus_code" : {
+            "compound_code" : "6XHW+2M Burnaby, BC, Canada",
+            "global_code" : "84XR6XHW+2M"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJI8958Fh2hlQRsCqIeS7nJX8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1134,
+         "vicinity" : "4653 Kingsway, Burnaby"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.222992,
+               "lng" : -122.98313
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2243410302915,
+                  "lng" : -122.9817844197085
+               },
+               "southwest" : {
+                  "lat" : 49.2216430697085,
+                  "lng" : -122.9844823802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Little Caesars Pizza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111873784013490466759\"\u003eJohn Frank Zelinsky\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC3xnJVlK9KhaCNruUpXI5ev0jwhhFepSp4p4ajhgU-f1BNjYSMlzdUvLn_Zm5kaW8uhKD_9kIa9llpyLMLJUvyibVFrAhA2V8WUq2WNSTukhnhiLWulmJHTjzY448xb8vDQdWG4WfiHmbhiGrKNLo6XXzbaDd2RBFFDSX_BrZw_nqX",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJazCXoE92hlQR7f0U3ygAddY",
+         "plus_code" : {
+            "compound_code" : "62F8+5P Burnaby, BC, Canada",
+            "global_code" : "84XV62F8+5P"
+         },
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "ChIJazCXoE92hlQR7f0U3ygAddY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 379,
+         "vicinity" : "6681 Macpherson Avenue, Burnaby"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2299134,
+               "lng" : -123.0019544
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2310237802915,
+                  "lng" : -123.0007862697085
+               },
+               "southwest" : {
+                  "lat" : 49.2283258197085,
+                  "lng" : -123.0034842302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Isami Sushi",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101887206376813381964\"\u003e李\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBM_EGA9MU-rnb1OsWyqY-o9DW-YrDvUXifCZ4kYBgXieJ1k0fCPbJtEfSyiypqpSdDlLMcSGjwJ3v-kx-GEoHDJvJa25H80_lMDHotU1Mzfvu_YKdPFrg5v8LKyotx975TdOItVoYHZeOu9GBwV9Mu91H5FtNl61tMkB9M0FfOLNOK",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJiW9Ullh2hlQRhxaBFLKnb0E",
+         "plus_code" : {
+            "compound_code" : "6XHX+X6 Burnaby, BC, Canada",
+            "global_code" : "84XR6XHX+X6"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJiW9Ullh2hlQRhxaBFLKnb0E",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 662,
+         "vicinity" : "6-4603 Kingsway, Burnaby"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.22501450000001,
+               "lng" : -122.9900121
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2262067802915,
+                  "lng" : -122.9888030697085
+               },
+               "southwest" : {
+                  "lat" : 49.2235088197085,
+                  "lng" : -122.9915010302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Sushi Oyama",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102041474173115972667\"\u003eSushi Oyama\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECAUN9qMHihriAI9kbBee3_A8McQ-qh0S9tlBuakFYvCiHLr-Ft0KylFCKR6JvctypkL8nWZPQF6lr2cvNVHllWB2jZ5ROU23jRiOOh9vc7bLotBWKMchKTxBPFnwMTjkuKnA_fSTgEzOu8uP2S71fwxuJwN2OAx9I9Nv2_hzTT0t4v",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJM5CpnVp2hlQRwPhy4-rWBPw",
+         "plus_code" : {
+            "compound_code" : "62G5+2X Burnaby, BC, Canada",
+            "global_code" : "84XV62G5+2X"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJM5CpnVp2hlQRwPhy4-rWBPw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1338,
+         "vicinity" : "5152 Kingsway, Burnaby"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.22185880000001,
+               "lng" : -122.9969532
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2229935302915,
+                  "lng" : -122.9955712197085
+               },
+               "southwest" : {
+                  "lat" : 49.2202955697085,
+                  "lng" : -122.9982691802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Domino's Pizza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1350,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109350009853516464116\"\u003eMarlon Caringal\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBNdbY31uei1iyva3nSgk77zQn4w5M3BGzSlStak6OI18FNEIp8-WF-F81MQ4hHNIrtQRUG6FkwWETZyxadzoRhJF4jXv5T774MNSKAuJ8QjGqr54YfyREBlCEOkYuq49lT_-AxOin4u7SdJD08yxCZv7ye-CHoJzZvjvUbvdOYm_D4",
+               "width" : 1800
+            }
+         ],
+         "place_id" : "ChIJxbQcvFx2hlQR6LmnEPdpq24",
+         "plus_code" : {
+            "compound_code" : "62C3+P6 Burnaby, BC, Canada",
+            "global_code" : "84XV62C3+P6"
+         },
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "ChIJxbQcvFx2hlQR6LmnEPdpq24",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 268,
+         "vicinity" : "4730 Imperial Street, Burnaby"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2296883,
+               "lng" : -123.0042429
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2310470302915,
+                  "lng" : -123.0026163697085
+               },
+               "southwest" : {
+                  "lat" : 49.2283490697085,
+                  "lng" : -123.0053143302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Abdul's BBQ",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114288042566495812069\"\u003eKevin T\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBhEqUVjaSLnTA5o-4E7OogN27JL9EVkqMuy7saY1emndh1HPHCSwbaYZs8it27uboOLLrztCYklo6y85j2LtgyIuJzLl9onQIqvI-QBIBiYTRdf8HpdeL-NygqJVlTOnKM09w2R3KuN00CKlhHjSvz8hEgXyVGHHXRr-cNwuUqYwJd",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJn7ylHfZ2hlQR8A-UwBkHbQ8",
+         "plus_code" : {
+            "compound_code" : "6XHW+V8 Burnaby, BC, Canada",
+            "global_code" : "84XR6XHW+V8"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJn7ylHfZ2hlQR8A-UwBkHbQ8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 427,
+         "vicinity" : "1691-4500 Kingsway, Burnaby"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2292058,
+               "lng" : -123.0011322
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2304877302915,
+                  "lng" : -122.9997084697085
+               },
+               "southwest" : {
+                  "lat" : 49.2277897697085,
+                  "lng" : -123.0024064302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Green Basil Thai Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 596,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103763836793186942695\"\u003eGreen Basil Thai Restaurant\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB6Ik8X9raWJCqYKSg-KLeDsMsNplVoEYfT4kPyaXYnqLPTEgeim8ZysNfnAvuQnTUdxNg0tr1kStYL8mDrTkyF61RP829jO32ziWbM6JoU3l2Bg2O1V4it5GoH2lq95Hw_Y0P_1M-7bkUTQYH0CxebkmKsdhh2KJTPtB27ZJEyh8Xj",
+               "width" : 905
+            }
+         ],
+         "place_id" : "ChIJ1TeV7Vh2hlQRfy_7u7OMU54",
+         "plus_code" : {
+            "compound_code" : "6XHX+MG Burnaby, BC, Canada",
+            "global_code" : "84XR6XHX+MG"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJ1TeV7Vh2hlQRfy_7u7OMU54",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "meal_delivery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 543,
+         "vicinity" : "4623 Kingsway, Burnaby"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.22576469999999,
+               "lng" : -122.9924958
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2270046802915,
+                  "lng" : -122.9912026697085
+               },
+               "southwest" : {
+                  "lat" : 49.2243067197085,
+                  "lng" : -122.9939006302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Kiku Sushi Metrotown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115062981890817948365\"\u003e吉达星\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAxmbtdUGQAePK93rkjqiA7vvoRCTKeNl_O6YGA9UoLnORe2X2aot-04_25tY1LET00_gWMgTzbkPQhfAN_1UMBcq5y5wEoO0zLbm2sRNXnhShBIYB29Gat0q5AHbDhAXzAo1eBdKopbQjJQ-_MV29MMT2YT8JnDHMLrOvBPiEKd52T",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJW_Iua1p2hlQR1drWWZV8Qjg",
+         "plus_code" : {
+            "compound_code" : "62G5+82 Burnaby, BC, Canada",
+            "global_code" : "84XV62G5+82"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJW_Iua1p2hlQR1drWWZV8Qjg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 395,
+         "vicinity" : "4986 Kingsway, Burnaby"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2313583,
+               "lng" : -123.0091483
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2328115302915,
+                  "lng" : -123.0075906697085
+               },
+               "southwest" : {
+                  "lat" : 49.23011356970851,
+                  "lng" : -123.0102886302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Pho 24 Express",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111684095490326968465\"\u003eGreg Taylor\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB-4HEkHdwJDDZaSg-xBOsmr5RSQf7inGEP2QTPxCNkE4fVbsK2TJ3NjrTwYkwWuX7fm1EeOEfdPMz4V1rcUc8nVlBUABeg4qKfkWLg8qmrnWKCltYOQbIt6IyTNkD4vnWWfGMnAA1l-6pU9eyubqhAg1zGxMMmFNRNZrwW7RS5aTgm",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJCU0cO_R2hlQRbaBFq5GBJwA",
+         "plus_code" : {
+            "compound_code" : "6XJR+G8 Burnaby, BC, Canada",
+            "global_code" : "84XR6XJR+G8"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJCU0cO_R2hlQRbaBFq5GBJwA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 329,
+         "vicinity" : "4250 Kingsway, Burnaby"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2236006,
+               "lng" : -122.9839151
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2249650302915,
+                  "lng" : -122.9827160697085
+               },
+               "southwest" : {
+                  "lat" : 49.2222670697085,
+                  "lng" : -122.9854140302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Pho Boi Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113402361843955406093\"\u003eJesse Donaldson\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBfvCRSJde5FvNkXqcl5BYS7moAjgcM3PmU_FSfH4lTgh0qRuCjaFTb6-SyEnGuuJI_l_xnFYewmtncFTZvUqL31Q7_jPfGcEwohBvnv6jFfacIuEJkK29ZVAue7YZ8hRWmI9tBJBCXiwc8hc3EHxXqVQe13uoM_g8YlQwfoss9MFJH",
+               "width" : 2172
+            }
+         ],
+         "place_id" : "ChIJee96uE92hlQRuurqi8drfzs",
+         "plus_code" : {
+            "compound_code" : "62F8+CC Burnaby, BC, Canada",
+            "global_code" : "84XV62F8+CC"
+         },
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "ChIJee96uE92hlQRuurqi8drfzs",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 777,
+         "vicinity" : "5505 Kingsway, Burnaby"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.231149,
+               "lng" : -123.0087773
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2326433302915,
+                  "lng" : -123.0073164697085
+               },
+               "southwest" : {
+                  "lat" : 49.2299453697085,
+                  "lng" : -123.0100144302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Bubble World Burnaby",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112426543080208086121\"\u003eWannie Lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECvBQ3sgrwEqxAFwE7i1xU2urrMFvDvZJrmAl3r1U1ugPpoJGDwt0B_MnnAT-4yxqBGXYI9pAUgzvOpsGdMjqehZKS_sGO0GmMBWMwrD77GlfHkZRHTesZWkrClqIJ6-vEWKpR6tCYKQqeVPGa_-ijfdYaPni51RK7_PM_XTYKoFgXn",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJb49B1PV2hlQRLCOfx6plQlU",
+         "plus_code" : {
+            "compound_code" : "6XJR+FF Burnaby, BC, Canada",
+            "global_code" : "84XR6XJR+FF"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJb49B1PV2hlQRLCOfx6plQlU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 869,
+         "vicinity" : "4300 Kingsway, Burnaby"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2311623,
+               "lng" : -123.0085405
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2326292802915,
+                  "lng" : -123.0071350197085
+               },
+               "southwest" : {
+                  "lat" : 49.22993131970851,
+                  "lng" : -123.0098329802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pizza Factory",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104519016088257836156\"\u003eHJK Empire\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBE7SFekI0CjsJEApEB0iSfaFeNE31lvanvaC-w9nh62aM6PDk-eqexqRuQOy4UVCJv1BugKJSMOteP5fgc9sDmT9LvI_9EIQaNRmgFXEydGajPNUQrJxpLtcITTDQlCctT7kOwcBT9Nyo715wfd6XyDrfN4_x1ezg8kDAIOgfPKxM2",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJb49B1PV2hlQR82bCUypmGDQ",
+         "plus_code" : {
+            "compound_code" : "6XJR+FH Burnaby, BC, Canada",
+            "global_code" : "84XR6XJR+FH"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJb49B1PV2hlQR82bCUypmGDQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 112,
+         "vicinity" : "5-4300 Kingsway, Burnaby"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.22309500000001,
+               "lng" : -122.9816492
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2244833802915,
+                  "lng" : -122.9804297697085
+               },
+               "southwest" : {
+                  "lat" : 49.2217854197085,
+                  "lng" : -122.9831277302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "The Great Bear Pub",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108320250379522576538\"\u003eDamian Kettlewell\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB_ai9WCklBTEuNkEUWL1C_KAhhlVrh9tdodqlqQZQZK3DHjWZbDp1moBTPqLHlWv8fo2dxRD-rRmflv_K8h_2A0Oi3lt1Y1L4gTRPzC4WppW_veFg6ssGEYQgGsXex3XMo_40boiQL1T_vfMu9xbSnIFAHFKNwgg9fstSQs-8h0z8b",
+               "width" : 4928
+            }
+         ],
+         "place_id" : "ChIJmV0yVU52hlQRVHpBtscDhhg",
+         "plus_code" : {
+            "compound_code" : "62F9+68 Burnaby, BC, Canada",
+            "global_code" : "84XV62F9+68"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJmV0yVU52hlQRVHpBtscDhhg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 908,
+         "vicinity" : "5665 Kingsway, Burnaby"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2232339,
+               "lng" : -122.9826629
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2244953302915,
+                  "lng" : -122.9814187197085
+               },
+               "southwest" : {
+                  "lat" : 49.2217973697085,
+                  "lng" : -122.9841166802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Potter's Garden Korean BBQ",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105228349541098182324\"\u003eGodwin C\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDDSUv4rzt4O537PNQo17FqOwHpOEmMq9MV51Por5Zvpg-V5XNZR0-gQubufiwyUSSKvzmpSd1DEz9tLYav4mxprUt7uiu-yYmkDq40GMLavOjg75AzGXlCHjbH4UCFFLgcVU667k8KSh-hKPbyis7_rfe_-Fy9N7E_E2YXgR3IDduu",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJu94rqU92hlQRv8Zce2-DYAo",
+         "plus_code" : {
+            "compound_code" : "62F8+7W Burnaby, BC, Canada",
+            "global_code" : "84XV62F8+7W"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJu94rqU92hlQRv8Zce2-DYAo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 540,
+         "vicinity" : "5599 Kingsway, Burnaby"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.22904279999999,
+               "lng" : -123.0044485
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.23059438029149,
+                  "lng" : -123.0036121197085
+               },
+               "southwest" : {
+                  "lat" : 49.22789641970849,
+                  "lng" : -123.0063100802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "S & W Pepper House",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104322755968229925294\"\u003e西南风\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDUf2ZE6g6sQh-YCh1sVUSWSJhT3PV_HkyxwIYOEFF719ewSaw1sOMKxpgSiQHQ3BSYVC-JemRGyEacGqJ64zJ3Ni_Fu1XrHoWwJj8EM2PADxyWfx0Y487xPrYx7PPESpyeVQpqC8mMA3fFQYHEXFuZYDGeG92sLfkxlqJa8tUFO69a",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJn7ylHfZ2hlQR5-ranTsIY7s",
+         "plus_code" : {
+            "compound_code" : "6XHW+J6 Burnaby, BC, Canada",
+            "global_code" : "84XR6XHW+J6"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJn7ylHfZ2hlQR5-ranTsIY7s",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 119,
+         "vicinity" : "1812-1 Kingsway, Burnaby"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2291748,
+               "lng" : -123.0009114
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2304462302915,
+                  "lng" : -122.9996215697085
+               },
+               "southwest" : {
+                  "lat" : 49.2277482697085,
+                  "lng" : -123.0023195302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Sushi Garden Metro",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105739873613234589328\"\u003eAds\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECK8alzykncQfo532hBUEAcfTYMJZHzOYEefsgG3jTDSnn01xvZz4CG2k7BkzLQmwSA9SQua9sJVZgJcoYp2Yma9UNUvYC4d46G3J8NKXyYtsVMoo87bhgmWuahoIWJ78zjqigK8dmcQ7hoP-HUtiNCWtVqshHolObkdf8PdBCgn0wv",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJEQoH7lh2hlQRREsdBa740oY",
+         "plus_code" : {
+            "compound_code" : "6XHX+MJ Burnaby, BC, Canada",
+            "global_code" : "84XR6XHX+MJ"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJEQoH7lh2hlQRREsdBa740oY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1858,
+         "vicinity" : "4635 Kingsway, Burnaby"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2217675,
+               "lng" : -122.9991412
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2232011802915,
+                  "lng" : -122.9977469197085
+               },
+               "southwest" : {
+                  "lat" : 49.2205032197085,
+                  "lng" : -123.0004448802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Paul's Sub Shop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111027858815555140562\"\u003eJeremy Hannaford\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC141ImsF0C77PozTsg_qZ5igLidQ6z2EXffbaPsy6Wor9UHLz4q0sDOHMyL61nPEyL07sozjoPLkQn3p3KgGizxED7SqTAzIp-wzg8grYaHJWQmCLhbi5TNtx-n5T8JNWJU5e4w9IwqyLqfICSqdShDAJrIpRRPr_yHdQaWuNiLlcG",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJyRpw5lx2hlQRxZP1r5YXxWY",
+         "plus_code" : {
+            "compound_code" : "62C2+P8 Burnaby, BC, Canada",
+            "global_code" : "84XV62C2+P8"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJyRpw5lx2hlQRxZP1r5YXxWY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 330,
+         "vicinity" : "4608 Imperial Street, Burnaby"
+      }
+   ],
+   "status" : "OK"
+}

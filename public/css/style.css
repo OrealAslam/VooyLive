@@ -4573,9 +4573,9 @@ textarea {
 .login-with-social a.facebook-login {
   background-color: #3b5998;
 }
-.login-with-social a.twitter-login {
+/* .login-with-social a.twitter-login {
   background-color: #1da1f2;
-}
+} */
 
 /*** Float sign up ***/
 .cps-float-registration .registration-form {
@@ -5581,9 +5581,9 @@ a.page-numbers:active {
 .sidebar .widget-social a.wfacebook {
   background-color: #3b5998;
 }
-.sidebar .widget-social a.wtwitter {
+/* .sidebar .widget-social a.wtwitter {
   background-color: #1da1f2;
-}
+} */
 .sidebar .widget-social a.wgplus {
   background-color: #dd4b39;
 }

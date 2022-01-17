@@ -62,6 +62,8 @@
 							@php $counter++; @endphp
 					    @endif
 					@endfor
+					@else
+					<div style="font-family: Raleway;">No bank services available within {{config('app.radius')/1000}}KM radius.</div>
 				@endif
 			</td>
 			<td class="col-xs-4 text-center">

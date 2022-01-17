@@ -166,7 +166,7 @@
 						                            </div>
 						                        </div>
 						                    </div>
-						                    <div class="col-md-6">
+						                    <!-- <div class="col-md-6">
 						                        <div class="form-group">
 						                            <label class="form-label">
 						                                <strong>{!! $setting['twitter-link']['name'] !!}</strong>
@@ -175,7 +175,7 @@
 						                            	<input type="text" name="{{ $setting['twitter-link']['slug'] }}" value="{{ $setting['twitter-link']['value'] }}" class="form-control">
 						                            </div>
 						                        </div>
-						                    </div>
+						                    </div> -->
 						            	</div>
 						            	<div class="row">
 						            		<div class="col-md-6">

@@ -1,0 +1,722 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.41471500000001,
+               "lng" : -75.68026999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.41609733029151,
+                  "lng" : -75.6789189697085
+               },
+               "southwest" : {
+                  "lat" : 45.41339936970851,
+                  "lng" : -75.68161693029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Greenfield / Havelock",
+         "place_id" : "ChIJmw6W9qMFzkwRT9fKHFBnGMs",
+         "plus_code" : {
+            "compound_code" : "C879+VV Somerset Ward, Ottawa, ON, Canada",
+            "global_code" : "87Q6C879+VV"
+         },
+         "reference" : "ChIJmw6W9qMFzkwRT9fKHFBnGMs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.413354,
+               "lng" : -75.6863261
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.41470298029149,
+                  "lng" : -75.68497711970849
+               },
+               "southwest" : {
+                  "lat" : 45.4120050197085,
+                  "lng" : -75.6876750802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Park Square",
+         "place_id" : "ChIJqRt6cqUFzkwRW9dQdcxHr5Q",
+         "plus_code" : {
+            "compound_code" : "C877+8F Somerset Ward, Ottawa, ON, Canada",
+            "global_code" : "87Q6C877+8F"
+         },
+         "reference" : "ChIJqRt6cqUFzkwRW9dQdcxHr5Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.414905,
+               "lng" : -75.68034299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.41624073029151,
+                  "lng" : -75.67894886970849
+               },
+               "southwest" : {
+                  "lat" : 45.41354276970851,
+                  "lng" : -75.6816468302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Greenfield / Havelock",
+         "place_id" : "ChIJZYGW96MFzkwRGzjpbuRwt1A",
+         "plus_code" : {
+            "compound_code" : "C879+XV Somerset Ward, Ottawa, ON, Canada",
+            "global_code" : "87Q6C879+XV"
+         },
+         "reference" : "ChIJZYGW96MFzkwRGzjpbuRwt1A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.41487,
+               "lng" : -75.67268899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4162353802915,
+                  "lng" : -75.67135376970849
+               },
+               "southwest" : {
+                  "lat" : 45.4135374197085,
+                  "lng" : -75.6740517302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Lees / Springhurst Park",
+         "place_id" : "ChIJNT_RS58FzkwRP8J2ZQ6S5t4",
+         "plus_code" : {
+            "compound_code" : "C87G+WW Vanier, Ottawa, ON, Canada",
+            "global_code" : "87Q6C87G+WW"
+         },
+         "reference" : "ChIJNT_RS58FzkwRP8J2ZQ6S5t4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.414744,
+               "lng" : -75.68772199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4161005302915,
+                  "lng" : -75.68635501970849
+               },
+               "southwest" : {
+                  "lat" : 45.4134025697085,
+                  "lng" : -75.68905298029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Elgin / Gladstone",
+         "place_id" : "ChIJ-79PZa8FzkwRuVQSKpsVmYI",
+         "plus_code" : {
+            "compound_code" : "C876+VW Somerset Ward, Ottawa, ON, Canada",
+            "global_code" : "87Q6C876+VW"
+         },
+         "reference" : "ChIJ-79PZa8FzkwRuVQSKpsVmYI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.417341,
+               "lng" : -75.678404
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4186900802915,
+                  "lng" : -75.67705551970849
+               },
+               "southwest" : {
+                  "lat" : 45.4159921197085,
+                  "lng" : -75.67975348029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Greenfield / Greenfield",
+         "place_id" : "ChIJxxSLJaEFzkwRjM0LyZPiOXY",
+         "plus_code" : {
+            "compound_code" : "C88C+WJ Vanier, Ottawa, ON, Canada",
+            "global_code" : "87Q6C88C+WJ"
+         },
+         "reference" : "ChIJxxSLJaEFzkwRjM0LyZPiOXY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.412042,
+               "lng" : -75.66721199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4133520802915,
+                  "lng" : -75.66582716970848
+               },
+               "southwest" : {
+                  "lat" : 45.4106541197085,
+                  "lng" : -75.6685251302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Hurdman E",
+         "place_id" : "ChIJPfVut5sFzkwRa-3ZMbx5VoY",
+         "plus_code" : {
+            "compound_code" : "C86M+R4 Gloucester, Ottawa, ON, Canada",
+            "global_code" : "87Q6C86M+R4"
+         },
+         "rating" : 1,
+         "reference" : "ChIJPfVut5sFzkwRa-3ZMbx5VoY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4065067,
+               "lng" : -75.66419069999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4078556802915,
+                  "lng" : -75.66284171970848
+               },
+               "southwest" : {
+                  "lat" : 45.40515771970851,
+                  "lng" : -75.66553968029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Lycee Claudel (Northbound)",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108516906912885758111\"\u003eDan Oshodin\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDP860L4H4C3Y8cj2C5yTFNI40kbTPTd6QwYXRiNh8P2WEaBQNF-c8YZ1QikekILoT4212b4ne6Hc4o3nMPbiVkR9VvK0u6CtqwFhPx_2UEftAvagM4SEWdR19-Xa0VrnqhEcw2ZTIYdqjKPJZNTqlxmlwiygaGFUdAl6zkFDbsrZZL",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJb1q7y48FzkwRTQy7nHgEV28",
+         "plus_code" : {
+            "compound_code" : "C84P+J8 Gloucester, Ottawa, ON, Canada",
+            "global_code" : "87Q6C84P+J8"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJb1q7y48FzkwRTQy7nHgEV28",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5,
+         "vicinity" : "1635 Riverside Drive, Ottawa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.417917,
+               "lng" : -75.69058699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.41936473029149,
+                  "lng" : -75.68924886970848
+               },
+               "southwest" : {
+                  "lat" : 45.41666676970849,
+                  "lng" : -75.6919468302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Elgin / Somerset W",
+         "place_id" : "ChIJwQDVQ6kFzkwRH6H-4IkOTGU",
+         "plus_code" : {
+            "compound_code" : "C895+5Q Somerset Ward, Ottawa, ON, Canada",
+            "global_code" : "87Q6C895+5Q"
+         },
+         "reference" : "ChIJwQDVQ6kFzkwRH6H-4IkOTGU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.418815,
+               "lng" : -75.69138199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.42019923029149,
+                  "lng" : -75.68994841970849
+               },
+               "southwest" : {
+                  "lat" : 45.4175012697085,
+                  "lng" : -75.69264638029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Elgin / Lisgar",
+         "place_id" : "ChIJwdfv16sFzkwR3j69JE-ph54",
+         "plus_code" : {
+            "compound_code" : "C895+GC Somerset Ward, Ottawa, ON, Canada",
+            "global_code" : "87Q6C895+GC"
+         },
+         "reference" : "ChIJwdfv16sFzkwR3j69JE-ph54",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.421596,
+               "lng" : -75.679917
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4229665802915,
+                  "lng" : -75.67851591970849
+               },
+               "southwest" : {
+                  "lat" : 45.4202686197085,
+                  "lng" : -75.68121388029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "King Edward / Somerset E ( A )",
+         "place_id" : "ChIJJdBPswkFzkwR7Ll7T1cIFvs",
+         "plus_code" : {
+            "compound_code" : "C8CC+J2 Vanier, Ottawa, ON, Canada",
+            "global_code" : "87Q6C8CC+J2"
+         },
+         "reference" : "ChIJJdBPswkFzkwR7Ll7T1cIFvs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.42201499999999,
+               "lng" : -75.68001599999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.42334668029149,
+                  "lng" : -75.67870876970849
+               },
+               "southwest" : {
+                  "lat" : 45.4206487197085,
+                  "lng" : -75.6814067302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "King Edward / Somerset E ( B )",
+         "place_id" : "ChIJ1dAnswkFzkwRhw97gIth0_Q",
+         "plus_code" : {
+            "compound_code" : "C8C9+RX Vanier, Ottawa, ON, Canada",
+            "global_code" : "87Q6C8C9+RX"
+         },
+         "reference" : "ChIJ1dAnswkFzkwRhw97gIth0_Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.412308,
+               "lng" : -75.659683
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.41367133029149,
+                  "lng" : -75.65833861970847
+               },
+               "southwest" : {
+                  "lat" : 45.41097336970849,
+                  "lng" : -75.66103658029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Transitway / Terminal",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115824518808455388679\"\u003eSrivastav J\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAleep1vPKle-ZYYp5WfJaqybluQFO6FnTS-er4Jgv7rNWQjGdFYNd_t6oKCBQINizOK5QhDjILMLhUyLxcX8y2zWSraesrL_Ax_ZwadkSBwiGKLV2Ij6SFqaDIJYgXAg67CisAmKHP0L_L9tzlxqR67EGJoEEhWbFbkzjU_2IkUWuF",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ_WiuiIQFzkwR4nb236qy0kA",
+         "plus_code" : {
+            "compound_code" : "C86R+W4 Gloucester, Ottawa, ON, Canada",
+            "global_code" : "87Q6C86R+W4"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ_WiuiIQFzkwR4nb236qy0kA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.412351,
+               "lng" : -75.65898199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4137104802915,
+                  "lng" : -75.65762981970849
+               },
+               "southwest" : {
+                  "lat" : 45.4110125197085,
+                  "lng" : -75.66032778029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Transitway / Terminal",
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112438703235748314179\"\u003eLuca\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECZXy1qz_CYeABTrZMiUsnWe8A18qPgTVCV4ZtzKCyEMbA3N-m5OKlpAsLHL-izeaoArlopQylhgWfBXMOHAEwuPJlye4ByFJCWkhF0pM5j0hV67uPFiQfgVGInS3QKpqBYf85Yaikle_zzahwZPTzfNg9yJ2mJYeBMTkdLWsXX_4Qy",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ_9TrfIQFzkwRFOzj30vqDP0",
+         "plus_code" : {
+            "compound_code" : "C86R+WC Gloucester, Ottawa, ON, Canada",
+            "global_code" : "87Q6C86R+WC"
+         },
+         "rating" : 3,
+         "reference" : "ChIJ_9TrfIQFzkwRFOzj30vqDP0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.42413,
+               "lng" : -75.68687799999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4254789802915,
+                  "lng" : -75.6855290197085
+               },
+               "southwest" : {
+                  "lat" : 45.4227810197085,
+                  "lng" : -75.6882269802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Waller / Laurier",
+         "place_id" : "ChIJ8dpLwgYFzkwRtx1t3Rtn9jI",
+         "plus_code" : {
+            "compound_code" : "C8F7+M6 Vanier, Ottawa, ON, Canada",
+            "global_code" : "87Q6C8F7+M6"
+         },
+         "reference" : "ChIJ8dpLwgYFzkwRtx1t3Rtn9jI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.425256,
+               "lng" : -75.68266199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.42657733029149,
+                  "lng" : -75.68137656970848
+               },
+               "southwest" : {
+                  "lat" : 45.42387936970849,
+                  "lng" : -75.6840745302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "King Edward / Laurier",
+         "place_id" : "ChIJl1_TCAYFzkwRAFPelr7ji0w",
+         "plus_code" : {
+            "compound_code" : "C8G8+4W Vanier, Ottawa, ON, Canada",
+            "global_code" : "87Q6C8G8+4W"
+         },
+         "reference" : "ChIJl1_TCAYFzkwRAFPelr7ji0w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.41419299999999,
+               "lng" : -75.65665299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.41558038029149,
+                  "lng" : -75.65530931970849
+               },
+               "southwest" : {
+                  "lat" : 45.4128824197085,
+                  "lng" : -75.6580072802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Terminal / Sandford Fleming",
+         "photos" : [
+            {
+               "height" : 4048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115824518808455388679\"\u003eSrivastav J\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAw_gs_pUe498ggkHxICTUqmHwxcykynRxPoYuzUNxB-KUmQoPdYReqLZXKk4HlK67hBd53MVHzp17KmOSbcajJL8D7G3IOtpabIgXOMRf1NM3GeNpLrEV_ynS00i_wPULVQigCUrsjDujLwd6PnahU40G988cnKe0n0aOm3lwrMqQH",
+               "width" : 3036
+            }
+         ],
+         "place_id" : "ChIJAx11x4MFzkwR8RVxRavVH1Q",
+         "plus_code" : {
+            "compound_code" : "C87V+M8 Gloucester, Ottawa, ON, Canada",
+            "global_code" : "87Q6C87V+M8"
+         },
+         "rating" : 2,
+         "reference" : "ChIJAx11x4MFzkwR8RVxRavVH1Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.41433799999999,
+               "lng" : -75.65667599999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4156527802915,
+                  "lng" : -75.65532231970849
+               },
+               "southwest" : {
+                  "lat" : 45.4129548197085,
+                  "lng" : -75.65802028029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Terminal / Sandford Fleming",
+         "place_id" : "ChIJh84Kx4MFzkwRDYvk5VlLgSU",
+         "plus_code" : {
+            "compound_code" : "C87V+P8 Gloucester, Ottawa, ON, Canada",
+            "global_code" : "87Q6C87V+P8"
+         },
+         "reference" : "ChIJh84Kx4MFzkwRDYvk5VlLgSU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      }
+   ],
+   "status" : "OK"
+}

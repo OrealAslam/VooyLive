@@ -29,7 +29,7 @@
 	<div class="row order-recipe-main">
 		<div class="col-md-12 text-center">
 			<div class="order-box" style="padding: 50px;">
-				<p style="font-family: 'Lato', sans-serif; font-size: 25px;">We are happy to announce that automated reports are now available across Canada. Use the credits, pay as you, or sign up for a plan to run reports. If you are outside Canada or want to order a custom report, use the order a customer report link below.</p>
+				<p style="font-family: 'Lato', sans-serif; font-size: 25px;">We are happy to announce that automated reports are now available across Canada. Use your credits, pay as you, or sign up for a plan to run reports. If you are outside Canada or want to order a custom report, use the order a customer report link below.</p>
 				<p style="font-family: 'Lato', sans-serif; font-size: 25px;">If you have any questions, please refer to our <a href="{{ url('/faqs') }}"><strong>FAQs</strong></a> page</p>
 				<!-- {!! getSettingValue('order-report-box-1-text') !!}				 -->
 			</div>

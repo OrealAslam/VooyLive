@@ -159,7 +159,7 @@
             <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
                 <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
                 <a class="a2a_button_facebook"></a>
-                <a class="a2a_button_twitter"></a>
+                <!-- <a class="a2a_button_twitter"></a> -->
                 <a class="a2a_button_google_plus"></a>
                 <a class="a2a_button_linkedin"></a>
                 <a class="a2a_button_whatsapp"></a>
@@ -179,6 +179,7 @@
 </div>
 
 @include('reports.common-report')
+<br>
 
 <div class="container" id="features">
     <div class="top-header section" id="top-header">
@@ -210,7 +211,7 @@
         </div>
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 address text-editable" data-field-id="">
-            <span class="colora content addressText" style="line-height: 1em !important;">{{$report->locality. ', ' .$report->administrative_area_level_1}}</span>
+            <span class="colora content addressText" style="line-height: 1em !important; text-transform: uppercase;">{{$report->locality. ', ' .$report->administrative_area_level_1}}</span>
             </div>
         </div>
         <div class="row">
@@ -229,15 +230,15 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-7 col-md-7 col-sm-7">
+            <div class="col-lg-7 col-md-7 col-sm-7" style="margin-top: 20px;">
                 <div class="neighbourhood-title">
                     NAME OF NEIGHBOURHOOD
                 </div>
-                <div class="neighbourhood-name colora" id="neighbourhood-name">
+                <div class="neighbourhood-name colora" id="">
                     @if (isset($neighborsData['neighborhood']))
-                        {{$neighborsData['neighborhood']}}
+                    <span id="neighbourhood-name">{{$neighborsData['neighborhood']}}</span>                      
                     @else
-                        N/A
+                    <span id="neighbourhood-name">N/A</span>
                     @endif
                 </div>
             </div>
@@ -555,7 +556,7 @@
             <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
                 <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
                 <a class="a2a_button_facebook"></a>
-                <a class="a2a_button_twitter"></a>
+                <!-- <a class="a2a_button_twitter"></a> -->
                 <a class="a2a_button_google_plus"></a>
                 <a class="a2a_button_linkedin"></a>
                 <a class="a2a_button_whatsapp"></a>
@@ -573,6 +574,17 @@
         </div>
     </div>
 </div>
+
+<div class="common-report cps-gray-bg" style="background-color: #fff;">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 text-center">
+                <input name="template_type" class="template_type" type="checkbox" data-toggle="toggle" data-on="Metro" data-off="Classic">
+            </div>
+        </div>
+    </div>
+</div>
+<br>
 
 @endsection
 
@@ -602,6 +614,22 @@
             if(myStr > 60){
                 $('.addressText').addClass('font-size-addess');
                 $('.text-editable').addClass('addess-box');
+            }
+        });
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            var myStr = $('#neighbourhood-name').text().length;
+            if(myStr > 20){
+                $('#neighbourhood-name').css('font-size','36px');
+            }
+        });
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            var myStr = $('.addressText').text().length;
+            if(myStr > 30){
+                $('.addressText').css('font-size','60px');
             }
         });
     </script>

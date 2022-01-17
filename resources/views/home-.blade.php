@@ -125,10 +125,10 @@
                                 <i class="fa fa-facebook"></i>
                                 <span class="connection-name">Facebook</span>
                             </div>
-                            <div class="connection-logo-item">
+                            <!-- <div class="connection-logo-item">
                                 <i class="fa fa-twitter"></i>
                                 <span class="connection-name">Twitter</span>
-                            </div>
+                            </div> -->
                             <div class="connection-logo-item">
                                 <i class="fa fa-google-plus"></i>
                                 <span class="connection-name">Google Plus</span>

@@ -1,0 +1,325 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.416342,
+               "lng" : -75.670478
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4178131302915,
+                  "lng" : -75.66903516970849
+               },
+               "southwest" : {
+                  "lat" : 45.41511516970851,
+                  "lng" : -75.6717331302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Lees O-Train West / Ouest",
+         "place_id" : "ChIJH1n54p4FzkwRs5r4GH0cPWY",
+         "plus_code" : {
+            "compound_code" : "C88H+GR Vanier, Ottawa, ON, Canada",
+            "global_code" : "87Q6C88H+GR"
+         },
+         "reference" : "ChIJH1n54p4FzkwRs5r4GH0cPWY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.41638409999999,
+               "lng" : -75.6705319
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.41784683029149,
+                  "lng" : -75.66909551970849
+               },
+               "southwest" : {
+                  "lat" : 45.41514886970849,
+                  "lng" : -75.67179348029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Lees",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100768036436218733452\"\u003eJayonta Bhattacharjee\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDerORRb4g2izPsCJ-F5o_IlOFJgbEmzlx-nZuloMrG9LPUO1enx--SjtIq2DH3tGBtLpLvnn_jlJ9cBBPQoTm1BtIEuTUKZ9wXqvU33lI9E9kxXWI9FBxsvGPubeY4eqhcpmoWAo_zm_xUlcTJQmy2ihl6UjqgklVNawCedvbCKvlD",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJE0YKBJ8FzkwRAE_VSOKdUSU",
+         "plus_code" : {
+            "compound_code" : "C88H+HQ Vanier, Ottawa, ON, Canada",
+            "global_code" : "87Q6C88H+HQ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJE0YKBJ8FzkwRAE_VSOKdUSU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4124363,
+               "lng" : -75.6642353
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.41378528029149,
+                  "lng" : -75.66288631970849
+               },
+               "southwest" : {
+                  "lat" : 45.41108731970849,
+                  "lng" : -75.6655842802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Hurdman O-Train West / Ouest",
+         "photos" : [
+            {
+               "height" : 2080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109591631517751386508\"\u003eBrian Walker\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECXqFw2dvqKFk3ZfH1oHd3-fN5qo9R4Ha188ROUVp4SooYrVnCv4fq4Iqj_bUXFquBa7wI1ZdlNUYQUypZLWv2963c1pOuWZ45NRIVSti860DIJ39p6MiEABKGNkloKoQnwjroyp3Vknl7wpJc9ynBAkdpj0GUyO0EHHN_NbK21UGC1",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ0SbCEpsFzkwRE5NuaqdJOeE",
+         "plus_code" : {
+            "compound_code" : "C86P+X8 Gloucester, Ottawa, ON, Canada",
+            "global_code" : "87Q6C86P+X8"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ0SbCEpsFzkwRE5NuaqdJOeE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.412381,
+               "lng" : -75.663798
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4137299802915,
+                  "lng" : -75.6624490197085
+               },
+               "southwest" : {
+                  "lat" : 45.4110320197085,
+                  "lng" : -75.66514698029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Hurdman",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114144893092387721253\"\u003eHassan Rawi\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBs-d9i93wb-XXk1Pjy1ew18ZPu8vCXhkD9rXR3JKZWS9qkFnwXLYPPGSdVPcJEzi2hkglRd9q28rxoIYkjNqVSXu7zmuO4bG1r1px0BduZi1iU44CghWSUh78piGvAnT_EB4UH17ugLZ2MNPg-ahx7QfWB0Qaxpvm1ydBlChierPFW",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ7w_nQJsFzkwR5X_PmdFHnCc",
+         "plus_code" : {
+            "compound_code" : "C86P+XF Gloucester, Ottawa, ON, Canada",
+            "global_code" : "87Q6C86P+XF"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ7w_nQJsFzkwR5X_PmdFHnCc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 18,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4206621,
+               "lng" : -75.6823989
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4220110802915,
+                  "lng" : -75.68104991970849
+               },
+               "southwest" : {
+                  "lat" : 45.4193131197085,
+                  "lng" : -75.68374788029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "uOttawa",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111168592031957664213\"\u003eCharlie ND\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEClCIc19JNbL_mBjL-Nk9aeyphb0DONcxZMSN0fR2nbLGa-u6g7Yk3YZaGeiWMD8LMqc5uWbaDbjk2QXpUJ1fDjLwLKniJzsYxqiYaFivGrTh-2qtKqZ3PqsA34W3vEmirLaB8l_c4V1wby8fr5ZWFHYV9AojbTYuwg5R2amsOlqYqd",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJadHCHQgFzkwRXdv6APrtQnM",
+         "plus_code" : {
+            "compound_code" : "C8C9+72 Vanier, Ottawa, ON, Canada",
+            "global_code" : "87Q6C8C9+72"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJadHCHQgFzkwRXdv6APrtQnM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 12,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.420763,
+               "lng" : -75.68275179999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4221119802915,
+                  "lng" : -75.6814028197085
+               },
+               "southwest" : {
+                  "lat" : 45.4194140197085,
+                  "lng" : -75.6841007802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "uOttawa",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106303466024926836795\"\u003eJusta Bee\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB6DNtHvEf07XLial4H4LbLJwZDwXWNsea3xnQzx9RvECI3g8_17B9gTX_4ApOBRXXRRW4SnOVq-KbaWu6V26gfX9o8ujJInAjp1SQKrsWvG7nrKkFxqo7GTUmvCC5TmK-Nj_SOKukMlHpi2enHprq50S209avSSA59lUSlExuF01bj",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJe1LDHQgFzkwRXmaV6Ge1_R0",
+         "plus_code" : {
+            "compound_code" : "C8C8+8V Vanier, Ottawa, ON, Canada",
+            "global_code" : "87Q6C8C8+8V"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJe1LDHQgFzkwRXmaV6Ge1_R0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.420782,
+               "lng" : -75.68277599999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.42213098029149,
+                  "lng" : -75.68142701970849
+               },
+               "southwest" : {
+                  "lat" : 45.41943301970849,
+                  "lng" : -75.6841249802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "uOttawa O-Train West / Ouest",
+         "place_id" : "ChIJb__GHQgFzkwR88aprIIkW-8",
+         "plus_code" : {
+            "compound_code" : "C8C8+8V Vanier, Ottawa, ON, Canada",
+            "global_code" : "87Q6C8C8+8V"
+         },
+         "reference" : "ChIJb__GHQgFzkwR88aprIIkW-8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      }
+   ],
+   "status" : "OK"
+}

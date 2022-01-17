@@ -1,0 +1,363 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4746859,
+               "lng" : -73.6090069
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4759294802915,
+                  "lng" : -73.6077542197085
+               },
+               "southwest" : {
+                  "lat" : 45.4732315197085,
+                  "lng" : -73.6104521802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111688945165591346095\"\u003eMichael Malone\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDty_2Kg_O-46t1CZEYfVUiLgpPHwPYGhbeWKYoIEVq65Kg86fqIUU-UxJElTRD_0Ny5yX2ji2O5M4VuP0_2-hDlOzGrGk6W9Zvzrh5cUqZO8YYtjg92Sa8GluNMoZBvNFVew5ZKv6IFkOttKcyaCxBNaqfXZEhYeW9Cf_b45umuCZV",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ99wuXqUQyUwRa7tAG6Eaq0k",
+         "plus_code" : {
+            "compound_code" : "F9FR+V9 Montreal, QC, Canada",
+            "global_code" : "87Q8F9FR+V9"
+         },
+         "price_level" : 2,
+         "rating" : 2.8,
+         "reference" : "ChIJ99wuXqUQyUwRa7tAG6Eaq0k",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 21,
+         "vicinity" : "3405 Boulevard Décarie, Montréal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4740672,
+               "lng" : -73.6087507
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4754468802915,
+                  "lng" : -73.6075562697085
+               },
+               "southwest" : {
+                  "lat" : 45.4727489197085,
+                  "lng" : -73.61025423029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "Couche-Tard",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117576405753550587077\"\u003eD W Angioletti\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDdPUueDuQP1ZAXmzD9h2JOc_L0OmaZxrlTscBrECs4rsltbcXpK5zpKjZCCWBVEat1r4ZFT-LFe7YRsli21aZckpwC7z3mLlprfrSzGxW3euQ-1ahW-kfWhMNB2bMZAlyKvcOof4CYnroYTZvw0NWFUY8xyOAoBnQSwxEWw_ftsM75",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJiVplXKUQyUwRwV1-q68dDYQ",
+         "plus_code" : {
+            "compound_code" : "F9FR+JF Montreal, QC, Canada",
+            "global_code" : "87Q8F9FR+JF"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJiVplXKUQyUwRwV1-q68dDYQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "atm",
+            "car_wash",
+            "gas_station",
+            "finance",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 7,
+         "vicinity" : "2160 Boulevard Décarie, Montréal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4738894,
+               "lng" : -73.6088269
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4752909802915,
+                  "lng" : -73.60768201970849
+               },
+               "southwest" : {
+                  "lat" : 45.4725930197085,
+                  "lng" : -73.6103799802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117358177536041051800\"\u003eMayuran Murugaiah\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED6ZuxoQDx0vOmbwTr7LipkJujIcLkGLULtq55OvQK9JoXxrslFfbAg2xbkZXyZavq5aBYsvCXh-cX2SyS8EDjku4QjnIH24nP1feA2cRcdGdvhF1PFSC2ADxC0C5i3xsoqlUCYQpbF4IgwFlrOd92lu0q_cJ-hN4wRYO20Pq9ts25z",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJT-vbXaUQyUwRQVTagjSFfvg",
+         "plus_code" : {
+            "compound_code" : "F9FR+HF Montreal, QC, Canada",
+            "global_code" : "87Q8F9FR+HF"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJT-vbXaUQyUwRQVTagjSFfvg",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 241,
+         "vicinity" : "2160 Boulevard Décarie, Montréal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4629548,
+               "lng" : -73.58147570000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.46431168029149,
+                  "lng" : -73.58026126970852
+               },
+               "southwest" : {
+                  "lat" : 45.4616137197085,
+                  "lng" : -73.58295923029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "Couche-Tard",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114456907805821423046\"\u003eCouche-Tard\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAi50p1HH0qR0ZCEr9NG9a4aDh7vRnM-ZnZ6Kajj3ISG0M8GRLd8W-3w8Yaahk-C4NDtQWP0GXcNoS3T6wcSnu25rJrpBKGrvVcd2aK-RYHgO6xgcCJBFea5hDb-MpT408PualkqWmJ2f_WqMTs1cFOyupEzjJi3cLiqDnUdWG0TAhN",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJX6aIkosQyUwRYQGz1OtQM-0",
+         "plus_code" : {
+            "compound_code" : "FC79+5C Montreal, QC, Canada",
+            "global_code" : "87Q8FC79+5C"
+         },
+         "rating" : 5,
+         "reference" : "ChIJX6aIkosQyUwRYQGz1OtQM-0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "atm",
+            "car_wash",
+            "gas_station",
+            "finance",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "1390 De L'Eglise Ave, Montréal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4796807,
+               "lng" : -73.60220839999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4809030802915,
+                  "lng" : -73.6009049197085
+               },
+               "southwest" : {
+                  "lat" : 45.4782051197085,
+                  "lng" : -73.6036028802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3468,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108867398886812109487\"\u003eSuperDuperDanny\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAC_cFEnzOE6Btdhn6aaZfq08edsVInIgBvnz6Ts8ApbKtl9wicLKp2omiGZ0esARaJfKM-9F_p_hKBj2w1BjYsbrVJTmhQCMofP1uo3rRv5p8LtUm8sc70nKLhhKt5BjsVQt10d8sdeZjcdWDUvBWtX6oNtHhA7ce97lM1uWVgjZLS",
+               "width" : 4624
+            }
+         ],
+         "place_id" : "ChIJuTWCBqcQyUwRj0kEduh76vQ",
+         "plus_code" : {
+            "compound_code" : "F9HX+V4 Westmount, QC, Canada",
+            "global_code" : "87Q8F9HX+V4"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJuTWCBqcQyUwRj0kEduh76vQ",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 91,
+         "vicinity" : "4780 Rue Sherbrooke Ouest, Westmount"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4630272,
+               "lng" : -73.5814719
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4643658302915,
+                  "lng" : -73.5799716697085
+               },
+               "southwest" : {
+                  "lat" : 45.46166786970851,
+                  "lng" : -73.58266963029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107586781980662096003\"\u003eAhmad Wardeh\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDTfzn2ZFvgW8Y3_gksXMn_jgLi6SROPgIeZ-q4kSXzrdO-clxrZWX52QvaGUqqOWUoWpshE_3V8ikZA6dGo55B2fVqMklgqnfXwEHJef7OIlkchmW5oftQ6DlOiPrcfgXMRGmP_Juhiln7PYJrfJqGf4UP06xwRynFxtMggoqb-0Bm",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJe9LYkosQyUwRNiD-WOhx-WA",
+         "plus_code" : {
+            "compound_code" : "FC79+6C Montreal, QC, Canada",
+            "global_code" : "87Q8FC79+6C"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJe9LYkosQyUwRNiD-WOhx-WA",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 246,
+         "vicinity" : "1390 Avenue de l'Église, Montréal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.480883,
+               "lng" : -73.57812699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4823127802915,
+                  "lng" : -73.57664316970849
+               },
+               "southwest" : {
+                  "lat" : 45.4796148197085,
+                  "lng" : -73.57934113029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 971,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112624203567486696982\"\u003ePetro-Canada\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBQv-Rn610m7IL2R-ZrrIbxBFOE0-LyJA-y55fnhxV-2xP8nxQVSBXBCrsDln-WUEagtqqoLSGdazEnKq3_o2kVQvafGaQVCDv-Yx2GWE-L3M4sw57UsPCqxjH2WcA4ssihjknY9w8hGycwncP17fmz_W0lJt2JhQVmsNpIHtYP3L5u",
+               "width" : 1295
+            }
+         ],
+         "place_id" : "ChIJGc6tKngayUwRS7Js6AqS1oE",
+         "plus_code" : {
+            "compound_code" : "FCJC+9P Montreal, QC, Canada",
+            "global_code" : "87Q8FCJC+9P"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJGc6tKngayUwRS7Js6AqS1oE",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 122,
+         "vicinity" : "3000 Rue Notre-Dame Ouest, Montréal"
+      }
+   ],
+   "status" : "OK"
+}

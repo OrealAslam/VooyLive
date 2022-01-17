@@ -1,0 +1,927 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEC3QoBaAwxCVY2N01UMuEQ6FLxrzU5StCZ4PPxF4Vxo9EgigLqDw-Zxt6NxBG9rBWmF-TG_5fVBJCJDDU9e4TfBTrReiy4ua6s58sr_LM9B_keA-zWqNW9ez1z4VNPI9l2CkfCVZiPHsGxOGkFgGYZ-3uUFGtxwmUr0QEpec54TL31AK3h6ik2KpKPH2kqvo5qrdrxzSYGXKJ4NntqqNbf_xIz4FbmpNZjiMewIMrWaAIC9no1sFZUXbEolK_GGYTvY2wUPIx1cb7acr13YQNLiSUIGtey3IbFVYz7F902bKge9JSmSx2ZS9P_Jb7wEKr_uPCCYcfxRIYTplLutrXWcKVCTc9LfDIEREaAl0HvE79HBFO3-vQ7YvkVkUkoy7ROxp9iP1Zi26A9yJF6zEXYBVqdb9Tvc9Y9k4WQMqglmtOhgjRhB20cm8KDT9R6eeD_6ymeUQIG7yCT3iRo76HvYEcMPvhXal7gzUL12aGc0Ru2-K3JAFgATBUQc_pg9T-hvvqr9Rj9KZ4ix_iDuks4GjLl4alnVL82zsgCQZEuoPioT5uvpuH_0Th3mDzQktbTYi3gUHRKD4fI8t8tf6Ux7Hv5IXAGJo8poahyfHlVB7D-gqKgtXswqF3gwazIX8XbFK5RtlUErmSIK30YwfW4E6vABTHRXc3WjmmHaEj-njrsQ2p07yYLqwuohk43wgaeBCETckdQFttSvyjubLqGWBtHh6qOghObduAVeR_-WsUZvyLkLnI6sB4h6HC9C1JA",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.498059,
+               "lng" : -73.56598699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.49918033029149,
+                  "lng" : -73.5647174697085
+               },
+               "southwest" : {
+                  "lat" : 45.4964823697085,
+                  "lng" : -73.5674154302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Terminus Centre-Ville Porte 14",
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115077238339009942655\"\u003eFrancely Rocher\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDt2jbppHbD7uqL94gtnW7a7B1SoDxHyv6YhU4WWvvvk7NxBEVVjRAzXdK_WxFKmDdepTzixJM2jz_4AimAKoYUvNTuveQdejofNkCzVqex5BZ2Un7hGj5JXcSBmy8P-J4qDWKFwnSBDnfPmDIlnC0I56W2mojW9vRmUCD_htUaFl75",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJ768aHl0ayUwRpmcBMiNoGRI",
+         "plus_code" : {
+            "compound_code" : "FCXM+6J Montreal, QC, Canada",
+            "global_code" : "87Q8FCXM+6J"
+         },
+         "rating" : 2.7,
+         "reference" : "ChIJ768aHl0ayUwRpmcBMiNoGRI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 153,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.508188,
+               "lng" : -73.571251
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.50958813029149,
+                  "lng" : -73.56991671970849
+               },
+               "southwest" : {
+                  "lat" : 45.50689016970849,
+                  "lng" : -73.57261468029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "De Bleury",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109036610382948817309\"\u003eI A\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAhBAlF_ltyVTPRfH0bQkYGYSMTxAfBG3Goa-bjuK9FF4HeY2PxNdCt57qw61L9MoKLNRXlnjZzP0YNCDyvKHJkt_pMFcgmy_Z-Do2hQ7bCjkGs11CTCv5_E40s8lzr_V4BPOSyn9suWOBg69IFWa5crZCHnoXF_VtBXpJ8G8tmc_d2",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJyQTx5UgayUwRuAbct4j_vd0",
+         "plus_code" : {
+            "compound_code" : "GC5H+7F Montreal, QC, Canada",
+            "global_code" : "87Q8GC5H+7F"
+         },
+         "rating" : 5,
+         "reference" : "ChIJyQTx5UgayUwRuAbct4j_vd0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "sherbrooke, Montréal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4988503,
+               "lng" : -73.57066329999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5002276802915,
+                  "lng" : -73.56929206970848
+               },
+               "southwest" : {
+                  "lat" : 45.4975297197085,
+                  "lng" : -73.5719900302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Peel / René-Lévesque",
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114146936200095763256\"\u003eJean Marco92\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAok0TTohWRRfz7OhRO8hn34P70ZzinxcuWJGOi4lEfbbkiFOBlThdHwZzfc2JZXRZnBEfwPk8dn-sziqGwgLIfNK4Lx8hwpsbpCpcEA9r8y_yS07FeK8k4ebJP9D6L-ZgLUYOL54oLuEkI5YpTU80HTCvVJu-TPb1biW_DKba5dFYY",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJo8aV_UIayUwRjSYzpwPMt_s",
+         "plus_code" : {
+            "compound_code" : "FCXH+GP Montreal, QC, Canada",
+            "global_code" : "87Q8FCXH+GP"
+         },
+         "rating" : 3,
+         "reference" : "ChIJo8aV_UIayUwRjSYzpwPMt_s",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.497877,
+               "lng" : -73.570932
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4992431302915,
+                  "lng" : -73.5696214197085
+               },
+               "southwest" : {
+                  "lat" : 45.4965451697085,
+                  "lng" : -73.5723193802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "René-Lévesque / Stanley",
+         "place_id" : "ChIJm9Vg7UIayUwRwBHKmtLJ8oc",
+         "plus_code" : {
+            "compound_code" : "FCXH+5J Montreal, QC, Canada",
+            "global_code" : "87Q8FCXH+5J"
+         },
+         "reference" : "ChIJm9Vg7UIayUwRwBHKmtLJ8oc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.496731,
+               "lng" : -73.572395
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4980935302915,
+                  "lng" : -73.57099941970849
+               },
+               "southwest" : {
+                  "lat" : 45.49539556970851,
+                  "lng" : -73.57369738029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "René-Lévesque / De la Montagne",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113410745601573268618\"\u003eShaparak S\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC__c8PUh8dPVbprrehxBCkoh1ZypDKRXlk_T20c8ZuaRa72GNWEUPTmT7svL5i5pog5L_y-kREgp5pMpAS6zPKDl-cfUJkUfsJuDZmFLv8J83SALXC3K7-L-t8-CSqC6RRNqrkCxCTwi9L5OqCdvJWL1u0WTmR-iLEud5m2T05RFhd",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJkxKjKmgayUwR1s0qAi33bvQ",
+         "plus_code" : {
+            "compound_code" : "FCWH+M2 Montreal, QC, Canada",
+            "global_code" : "87Q8FCWH+M2"
+         },
+         "rating" : 5,
+         "reference" : "ChIJkxKjKmgayUwR1s0qAi33bvQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.497763,
+               "lng" : -73.575059
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4991266302915,
+                  "lng" : -73.57375326970849
+               },
+               "southwest" : {
+                  "lat" : 45.4964286697085,
+                  "lng" : -73.5764512302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Sainte-Catherine / De la Montagne",
+         "photos" : [
+            {
+               "height" : 3672,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114118451392288609524\"\u003ePako Valera\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAbpFUZx9cSwbVGHZZQ7Gpw2X-qlx6UNEqcC6GRmiP9xKZs_8h5fmzWH_IbY9FTQn3gpS3I0DXqC7gGRVzZG2TXm_Zfm6jpWUwEnPtqDBpkPXSFKm86WQvJpGkSBbnOuY9fJh-51p7zZuyY4ZEHI9wDrnQmkA9FzAKVjrW9Qdt0dPcT",
+               "width" : 4896
+            }
+         ],
+         "place_id" : "ChIJi6zZAkIayUwRgUO4p6nzsSc",
+         "plus_code" : {
+            "compound_code" : "FCXF+4X Montreal, QC, Canada",
+            "global_code" : "87Q8FCXF+4X"
+         },
+         "rating" : 4,
+         "reference" : "ChIJi6zZAkIayUwRgUO4p6nzsSc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.49807,
+               "lng" : -73.56897699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4993628802915,
+                  "lng" : -73.56755356970848
+               },
+               "southwest" : {
+                  "lat" : 45.4966649197085,
+                  "lng" : -73.5702515302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Station Bonaventure",
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113061417836683268885\"\u003eLoim Hen\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAlyohDzqN7Q8miA0rlfueovprYA3tDeXlx5CwCmsNcOyTCbIZA4w0wz6RfY6qWd5DTB8fJTOO38jNGaBk-0FcN8o8QMCD_TX0cdpNMuhRqrjyxchirrqgmD43qBHqsHtfARjUxVPE0hM8N63v0PqZg_RqQFoahtuV6xHvUuFF8Axw-",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJb4TNz0IayUwRSBslkwLBSYc",
+         "plus_code" : {
+            "compound_code" : "FCXJ+6C Montreal, QC, Canada",
+            "global_code" : "87Q8FCXJ+6C"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJb4TNz0IayUwRSBslkwLBSYc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.49775500000001,
+               "lng" : -73.568826
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4991229802915,
+                  "lng" : -73.56745861970849
+               },
+               "southwest" : {
+                  "lat" : 45.4964250197085,
+                  "lng" : -73.5701565802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Station Bonaventure",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108366424979984064344\"\u003eYoann Lussier\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBFOhreTqb-o7bB_Eqc3HKt1KMWmMY_AG6NK5WVaSkrGzI9vDP0n_eflIz83A-g2XCLMdIiCl_op-va9Rld5ZiU4OWcc6QA0mPVR9bhhRPoGCuDRM7AC7hEmTGxsZ9Gkqkmb3lIvfEVOYC9GELDAHf_AkSu1W_VcnDoS8CNom03FlcM",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJB9-My0IayUwRxFHoZHA1S2A",
+         "plus_code" : {
+            "compound_code" : "FCXJ+4F Montreal, QC, Canada",
+            "global_code" : "87Q8FCXJ+4F"
+         },
+         "reference" : "ChIJB9-My0IayUwRxFHoZHA1S2A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.50091099999999,
+               "lng" : -73.57489199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.50228173029151,
+                  "lng" : -73.57352961970848
+               },
+               "southwest" : {
+                  "lat" : 45.49958376970851,
+                  "lng" : -73.5762275802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Station Peel",
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114146936200095763256\"\u003eJean Marco92\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBcLMGSjxHE_y7Ay2pdakHdK166TF9V1f81fUF8GXiSkZ477HMgPLt4_xm1g8AnOWaX81-NOJjLoSf2can_IuMs6KOevRMKRqlFXErqvJlJAzgarnms6URZS8W2qIxxYM92w0hPmKJmMy7iDcLGshuJo9-PhXef2WsLFQPmWduT3lhe",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ69GCQEEayUwRZvl-oioXOcY",
+         "plus_code" : {
+            "compound_code" : "GC2G+92 Montreal, QC, Canada",
+            "global_code" : "87Q8GC2G+92"
+         },
+         "reference" : "ChIJ69GCQEEayUwRZvl-oioXOcY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5023838,
+               "lng" : -73.5733717
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5036760302915,
+                  "lng" : -73.57204316970848
+               },
+               "southwest" : {
+                  "lat" : 45.5009780697085,
+                  "lng" : -73.5747411302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "De Maisonneuve / Mansfield",
+         "photos" : [
+            {
+               "height" : 2293,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108366424979984064344\"\u003eYoann Lussier\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECwaYs448mcHEjNR63MYv2OEIQs5CzzwKRcek87Nuq3uxkuIbrWoKF46OzE0vCam6i_Q9R1O5Bn5rIAgsWj0iJjNz62uvjPU6EgNtlFG5ThmjjuhVAyzugT4IZw49WlVU4gdMsVr9uYqhK4Az98lOEF_VY3UJgQT5kvKPpj65A4ioEv",
+               "width" : 3057
+            }
+         ],
+         "place_id" : "ChIJ53Pkr0YayUwRqSS9nV97zus",
+         "plus_code" : {
+            "compound_code" : "GC2G+XM Montreal, QC, Canada",
+            "global_code" : "87Q8GC2G+XM"
+         },
+         "rating" : 2.5,
+         "reference" : "ChIJ53Pkr0YayUwRqSS9nV97zus",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Maisonneuve Boulevard West, Montreal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.49925099999999,
+               "lng" : -73.56634699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5006162302915,
+                  "lng" : -73.56503971970849
+               },
+               "southwest" : {
+                  "lat" : 45.4979182697085,
+                  "lng" : -73.5677376802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Station Bonaventure",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112396793824592521180\"\u003eNormand Venne\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDMJrJkStM0dRLSfKVGLWBJEndOZ74ziGg8bFlCVm3dS1vS_SNzcF6tcp83b5usR7Amsz76R-04ZAB2kVTYZt1jXMAFAyHAv6MFj2vGDntGg4_OWA_sbnKQtel0jbV3nGv00XVaMsJHQ6jp_sO087jwMxzq0vXQ1DQIi20qG8h3TD8t",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJp0xRwVwayUwRE7vfvjdCCYY",
+         "plus_code" : {
+            "compound_code" : "FCXM+PF Montreal, QC, Canada",
+            "global_code" : "87Q8FCXM+PF"
+         },
+         "rating" : 4,
+         "reference" : "ChIJp0xRwVwayUwRE7vfvjdCCYY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.50203,
+               "lng" : -73.576517
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.50336753029151,
+                  "lng" : -73.57511791970849
+               },
+               "southwest" : {
+                  "lat" : 45.50066956970851,
+                  "lng" : -73.5778158802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Sherbrooke / Peel",
+         "photos" : [
+            {
+               "height" : 2710,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103673826033854398575\"\u003eNand Patel\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAZRfS5PNl_UGRQevmHVzTW4zc-bGgPWidu4xdo2CyJ_HkKeRElbMa12Q6L1o0-HHkvqlfPFjtsu_h70LMKpOANOsjKTeu_4uX3oKcbMNvLIkrsAH1_i_RZyi-luIYFwSfloBEbBT8g4kM3NpVHIvIHUObuzbP0-WqSiwnFkhWhIHyD",
+               "width" : 2240
+            }
+         ],
+         "place_id" : "ChIJWVyO00AayUwRTCuAfgAHns8",
+         "plus_code" : {
+            "compound_code" : "GC2F+R9 Montreal, QC, Canada",
+            "global_code" : "87Q8GC2F+R9"
+         },
+         "rating" : 5,
+         "reference" : "ChIJWVyO00AayUwRTCuAfgAHns8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.50332799999999,
+               "lng" : -73.57523999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5046563302915,
+                  "lng" : -73.5738424197085
+               },
+               "southwest" : {
+                  "lat" : 45.5019583697085,
+                  "lng" : -73.5765403802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Sherbrooke / Mansfield",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114521513662502003983\"\u003eLupa Duende\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECDKnA7WDZ7_3zc8Q5CN-Mc4isg24gaA37fo3YkAaRE05rOH-Lcp6WvMqHXJyfY9yvBgNVrE9onlLUgM3k3Zi39gK96Q1hOqzG3H5kK5DghE0iYr_5ouTsIcHRMqwbA1dlWMrSn5pB0u9V6q30GaBe3pksbpD39wnDnOEXJm3IbA5xK",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJLc0Z4EYayUwR55lo2YWmjDU",
+         "plus_code" : {
+            "compound_code" : "GC3F+8W Montreal, QC, Canada",
+            "global_code" : "87Q8GC3F+8W"
+         },
+         "rating" : 5,
+         "reference" : "ChIJLc0Z4EYayUwR55lo2YWmjDU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.498306,
+               "lng" : -73.564724
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.49964668029151,
+                  "lng" : -73.56330506970849
+               },
+               "southwest" : {
+                  "lat" : 45.49694871970851,
+                  "lng" : -73.5660030302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Terminus Mansfield Quai 4",
+         "place_id" : "ChIJLQa_VVwayUwRKcnKVlPYXCs",
+         "plus_code" : {
+            "compound_code" : "FCXP+84 Montreal, QC, Canada",
+            "global_code" : "87Q8FCXP+84"
+         },
+         "reference" : "ChIJLQa_VVwayUwRKcnKVlPYXCs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.493641,
+               "lng" : -73.57499199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4949979302915,
+                  "lng" : -73.5736868197085
+               },
+               "southwest" : {
+                  "lat" : 45.4922999697085,
+                  "lng" : -73.57638478029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "René-Lévesque / Guy",
+         "place_id" : "ChIJ6U9bGGkayUwRdP84tEc5Dfs",
+         "plus_code" : {
+            "compound_code" : "FCVG+F2 Montreal, QC, Canada",
+            "global_code" : "87Q8FCVG+F2"
+         },
+         "rating" : 3,
+         "reference" : "ChIJ6U9bGGkayUwRdP84tEc5Dfs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5023214,
+               "lng" : -73.56676849999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5037210802915,
+                  "lng" : -73.56536826970849
+               },
+               "southwest" : {
+                  "lat" : 45.5010231197085,
+                  "lng" : -73.56806623029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "René-Lévesque / Union",
+         "place_id" : "ChIJZ9GDxkQayUwRTPVFN5QAH7o",
+         "plus_code" : {
+            "compound_code" : "GC2M+W7 Montreal, QC, Canada",
+            "global_code" : "87Q8GC2M+W7"
+         },
+         "rating" : 5,
+         "reference" : "ChIJZ9GDxkQayUwRTPVFN5QAH7o",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4981,
+               "lng" : -73.564442
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4994676302915,
+                  "lng" : -73.56308241970849
+               },
+               "southwest" : {
+                  "lat" : 45.4967696697085,
+                  "lng" : -73.5657803802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Terminus Mansfield Quai 5",
+         "place_id" : "ChIJ61ZHU1wayUwRlEUWeg9dfEg",
+         "plus_code" : {
+            "compound_code" : "FCXP+66 Montreal, QC, Canada",
+            "global_code" : "87Q8FCXP+66"
+         },
+         "reference" : "ChIJ61ZHU1wayUwRlEUWeg9dfEg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.50380980000001,
+               "lng" : -73.5695137
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5051587802915,
+                  "lng" : -73.56816471970849
+               },
+               "southwest" : {
+                  "lat" : 45.50246081970851,
+                  "lng" : -73.5708626802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Union / Sainte-Catherine",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108936504528792977643\"\u003eShimmy Roxx\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDHSpEzfdeQuiweLNCG4yX_lv7tQDlyEXxbbWq6X-p0-p4nJQhoUx-t1m5gEqq4yaOIZ805V3Q36dHw183NTYcapnS4r6P2rx8bWWppZkvcU_O4tyDx3hCfhBX5OLjL46bMosAZGGW4JpuljEMqBTp21fCqZ1aunXXGMR3rdMStyWZo",
+               "width" : 2080
+            }
+         ],
+         "place_id" : "ChIJYwqcs0UayUwRL4plEUk4vk0",
+         "plus_code" : {
+            "compound_code" : "GC3J+G5 Montreal, QC, Canada",
+            "global_code" : "87Q8GC3J+G5"
+         },
+         "rating" : 3,
+         "reference" : "ChIJYwqcs0UayUwRL4plEUk4vk0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.49618419999999,
+               "lng" : -73.5650357
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.49749088029149,
+                  "lng" : -73.56370421970848
+               },
+               "southwest" : {
+                  "lat" : 45.49479291970849,
+                  "lng" : -73.5664021802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Peel / Saint-Jacques",
+         "photos" : [
+            {
+               "height" : 2212,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114587450133309114334\"\u003eFreda Hung\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAio6st6KdAlIPv_cgjEsILza2AJA7PgPfQXUf3_bFveu74L3FguLi40_kwuwNmIe7hLabXrp4W2CqLdiS8GNASqWuvcUTUXyvaimMNni8ZBQAJdIulIlaRpXOEF4LTg7BGzByMrEjSMs-p-DEnLZFJTDIvBAjOafAj83pbIAWfA-Ze",
+               "width" : 3867
+            }
+         ],
+         "place_id" : "ChIJJ9i7j10ayUwR725yAo2JFTU",
+         "plus_code" : {
+            "compound_code" : "FCWM+FX Montreal, QC, Canada",
+            "global_code" : "87Q8FCWM+FX"
+         },
+         "rating" : 5,
+         "reference" : "ChIJJ9i7j10ayUwR725yAo2JFTU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.50421799999999,
+               "lng" : -73.571523
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5055546302915,
+                  "lng" : -73.57016896970849
+               },
+               "southwest" : {
+                  "lat" : 45.5028566697085,
+                  "lng" : -73.57286693029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Station McGill",
+         "photos" : [
+            {
+               "height" : 8000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110083508275391082411\"\u003eDiaa\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBuTk9oxXQVp1uM5ZtGXS6PL70l7z17VJPp7K-CyBNia_0T4OPTyDrQcfNf6n_Jmi2bgADclbCG6hR12RTaFrr3r6AMQDKC0mNRmRq89MxcuWIIP9iwz6tQTpagPfAcyjiMZQ4dWDEcnIse4obXg4jXniR9950kElWpd3oMPGd16dlv",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJ8eMEf0YayUwRx49evWpygFE",
+         "plus_code" : {
+            "compound_code" : "GC3H+M9 Montreal, QC, Canada",
+            "global_code" : "87Q8GC3H+M9"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ8eMEf0YayUwRx49evWpygFE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      }
+   ],
+   "status" : "OK"
+}

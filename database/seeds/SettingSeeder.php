@@ -48,11 +48,11 @@ class SettingSeeder extends Seeder
                     'slug' => 'facebook-link',
                     'value' => 'https://www.facebook.com/communityfeaturesheet/'
                 ],
-                [
-                    'name' => 'Twitter Link',
-                    'slug' => 'twitter-link',
-                    'value' => 'https://twitter.com/FeatureSheets'
-                ],
+                // [
+                //     'name' => 'Twitter Link',
+                //     'slug' => 'twitter-link',
+                //     'value' => 'https://twitter.com/FeatureSheets'
+                // ],
                 [
                     'name' => 'Instagram Link',
                     'slug' => 'instagram-link',

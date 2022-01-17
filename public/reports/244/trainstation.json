@@ -1,0 +1,107 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5001121,
+               "lng" : -73.5665224
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5016714802915,
+                  "lng" : -73.56493366970851
+               },
+               "southwest" : {
+                  "lat" : 45.4989735197085,
+                  "lng" : -73.56763163029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Centrale",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3377,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101506400271390830980\"\u003eMariko Ishikawa\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA7FVpUTARA0hiFIBjd-LFROv7P4kJsvuFI6mXl_sK048mmvR_xIUlPRryFr0xYQOYPiHeO0sKn7hzKfje6KBAgxJUPBH4KJnS0cXrnQMsrmG2zpE8lplQ5bzMmgtgX97Mx1AhOOqs78HWAaVh_0xcda_CKW5IiheP5zNWpf3oHj4dF",
+               "width" : 5066
+            }
+         ],
+         "place_id" : "ChIJH9C8sFwayUwRDNpvTW-PbDE",
+         "plus_code" : {
+            "compound_code" : "GC2M+29 Montreal, QC, Canada",
+            "global_code" : "87Q8GC2M+29"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJH9C8sFwayUwRDNpvTW-PbDE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 771,
+         "vicinity" : "895 Rue De La Gauchetière Ouest, Montréal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4953069,
+               "lng" : -73.5699327
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.49658858029149,
+                  "lng" : -73.56813001970849
+               },
+               "southwest" : {
+                  "lat" : 45.4938906197085,
+                  "lng" : -73.5708279802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Lucien-L'Allier",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117466168914713747354\"\u003eAdama Diop\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBV3l7ikwEwEuB3bJESV9SinqZgmhM4Ct8Qs55JqTrWrCdOLHfqGR8NtpcYsWqXbcUVR6cBFwUgCRQK9x3sD3ArFqSTYVCyQQg3ezhi6uTw0y2Mb8bfGddHzqfjiDjS4zqpJmdssNrLgpqvH48Uppp7NDws8Z-buu42_Phaj07hKls",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJZdihcGgayUwRdlBBYr79lwU",
+         "plus_code" : {
+            "compound_code" : "FCWJ+42 Montreal, QC, Canada",
+            "global_code" : "87Q8FCWJ+42"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJZdihcGgayUwRdlBBYr79lwU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 63,
+         "vicinity" : "1290 Avenue des Canadiens-de-Montréal, Montréal"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,567 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.51136,
+               "lng" : -113.311632
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.51286168029151,
+                  "lng" : -113.31032295
+               },
+               "southwest" : {
+                  "lat" : 53.51016371970851,
+                  "lng" : -113.31555915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Rexall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116428236354634585244\"\u003eRob Armstrong\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBVsgMDn90_Tv5HoDuV9ZNwlquLSnBfH0qkNTLMr86aoKQ4O7gutUWcnW07-2S_ICweITQgwCLJXJIHzPfc64egktL_eLMuiUb7NzvQteF8EfrAsdQADyV8847JZ6-q-XrVBItxAKthz3jbF_GAh05TtydUsx37yERv_sVF1Ry9Izgq",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJA_h2taQXoFMRhgE47DHmZvQ",
+         "plus_code" : {
+            "compound_code" : "GM6Q+G8 Sherwood Park, AB, Canada",
+            "global_code" : "9558GM6Q+G8"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJA_h2taQXoFMRhgE47DHmZvQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "pharmacy",
+            "beauty_salon",
+            "convenience_store",
+            "food",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 30,
+         "vicinity" : "301 Wye Road Suite 11, Sherwood Park"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.528928,
+               "lng" : -113.2888092
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5301997302915,
+                  "lng" : -113.2877484197085
+               },
+               "southwest" : {
+                  "lat" : 53.5275017697085,
+                  "lng" : -113.2904463802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "Circle K",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1327,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101728822948513079044\"\u003eJohn Van Hal\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDbY-ZnIICPIuRH4_NJSYOy2bOug2-Z05kSk3ht1O7XhPAPYTDwzI79ZYkrm3XDaJ0sFvnCtGGbMH4jXxzQoGPDdELYz8dmAdjavt4-9NnxNinAIOsstjcyJERQMF1PqvF9LXUmHYElO0A6oKtfrpxYuXPp6a0QsdVa7Uk-clABi9JX",
+               "width" : 1533
+            }
+         ],
+         "place_id" : "ChIJFS5FPjYWoFMRWzW00Hlnx0c",
+         "plus_code" : {
+            "compound_code" : "GPH6+HF Sherwood Park, AB, Canada",
+            "global_code" : "9558GPH6+HF"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJFS5FPjYWoFMRWzW00Hlnx0c",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "atm",
+            "meal_takeaway",
+            "finance",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 5,
+         "vicinity" : "101 Granada Boulevard, Sherwood Park"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.51162180000001,
+               "lng" : -113.3154691
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.51303223029151,
+                  "lng" : -113.3141173697085
+               },
+               "southwest" : {
+                  "lat" : 53.51033426970851,
+                  "lng" : -113.3168153302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116428236354634585244\"\u003eRob Armstrong\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDmhekifpk5OglPmdy6zwH3HcHjdXjYcDFk0rFfcOdsEqAUVCWlcIvkJ5WuVFmPaPyIJIYld-Qn4c_BIlDI9eBArkiQx7DVzDiccGgQA8MT4jIpUY1Ogy3VrJOHeWXff9MdteY9x9tGSBRnNRBGskxdxIxcMjRM9_7kVHs0Z0Mqg2_s",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJA1Y7cCUUoFMRt4Svg8dgaa8",
+         "plus_code" : {
+            "compound_code" : "GM6M+JR Sherwood Park, AB, Canada",
+            "global_code" : "9558GM6M+JR"
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "ChIJA1Y7cCUUoFMRt4Svg8dgaa8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "convenience_store",
+            "meal_delivery",
+            "finance",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 45,
+         "vicinity" : "23263 Wye Road, Sherwood Park"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5127828,
+               "lng" : -113.3195378
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5142787802915,
+                  "lng" : -113.3183472697085
+               },
+               "southwest" : {
+                  "lat" : 53.5115808197085,
+                  "lng" : -113.3210452302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108056308214657461425\"\u003eJake Hammell\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECkxMUcm-lj4h-OhuRsDeUqcqn8ulto5IEswipmtZtJlEfSv3ZCTY2H3oJadoHnHW7lTQirgnWp1bVM5ySwVoo3OSDOwBI9FTrKiotbjNRX6dW9XQ7thdRztn58-GtsFK_ShAKU08PbmF5rinXOvw1_JNprfj-JmSDxGY7WQpZhduyF",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ_Vab8LwXoFMRLZkW6uHpgk0",
+         "plus_code" : {
+            "compound_code" : "GM7J+45 Sherwood Park, AB, Canada",
+            "global_code" : "9558GM7J+45"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJ_Vab8LwXoFMRLZkW6uHpgk0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 33,
+         "vicinity" : "10-1020 Sherwood Drive, Sherwood Park"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.53503600000001,
+               "lng" : -113.3210295
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5362914302915,
+                  "lng" : -113.3196211197085
+               },
+               "southwest" : {
+                  "lat" : 53.5335934697085,
+                  "lng" : -113.3223190802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115223907437605116555\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDe17kEKCpfWDfA5UISwlO896KlKWMO72xyhcIDGcRasAvrVRX7bjVQPK1mZEEoRDXxQo60X7ynbUts-shWmX8HkU5rvOm2fuB-4m8j8yrYStabaKwxjwcLbwZYp-SK_ZRjNfuf2eCx6aq9rJE0G7Dhmxfcsfb5khHzJ7kS0nx8knmJ",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJDVGVx9EXoFMRFiUsN-m57X4",
+         "plus_code" : {
+            "compound_code" : "GMPH+2H Sherwood Park, AB, Canada",
+            "global_code" : "9558GMPH+2H"
+         },
+         "rating" : 3,
+         "reference" : "ChIJDVGVx9EXoFMRFiUsN-m57X4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 21,
+         "vicinity" : "2 Sioux Road, Sherwood Park"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5127646,
+               "lng" : -113.2755882
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5139784802915,
+                  "lng" : -113.2742517197085
+               },
+               "southwest" : {
+                  "lat" : 53.5112805197085,
+                  "lng" : -113.2769496802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108846687910951299877\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBOauecCWhkVw5krBMyux8awuD9DAUIUmntHPMFexn8X2HsF6wikwtXwrEpa5JCMHE7dIInYHfOLlO2uSH19fLiE2Dzd0g_i352NARNSE2g_d6T8OPzdXQIfWm9GVegfG4JbVOobOFwpbebuHMGY0raEHpwclOvtgdqFTQPpRD_rO8t",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJIddZx1YWoFMRtz9vfF0DpEc",
+         "plus_code" : {
+            "compound_code" : "GP7F+4Q Sherwood Park, AB, Canada",
+            "global_code" : "9558GP7F+4Q"
+         },
+         "rating" : 3,
+         "reference" : "ChIJIddZx1YWoFMRtz9vfF0DpEc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 4,
+         "vicinity" : "642 Wye Road, Sherwood Park"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.527671,
+               "lng" : -113.292507
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5290636302915,
+                  "lng" : -113.2912697697085
+               },
+               "southwest" : {
+                  "lat" : 53.5263656697085,
+                  "lng" : -113.2939677302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "Fas Gas Plus convenience store",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJPY2r29UXoFMRoOIa6SKqXaA",
+         "plus_code" : {
+            "compound_code" : "GPH4+3X Sherwood Park, AB, Canada",
+            "global_code" : "9558GPH4+3X"
+         },
+         "reference" : "ChIJPY2r29UXoFMRoOIa6SKqXaA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "90 Granada Boulevard, Sherwood Park"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5148022,
+               "lng" : -113.295058
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5162325802915,
+                  "lng" : -113.2935818197085
+               },
+               "southwest" : {
+                  "lat" : 53.5135346197085,
+                  "lng" : -113.2962797802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117369454201497141749\"\u003e7-Eleven\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECciPY_fiCggu6woU9pKEjehZNmHh1kb01_RQz5jr2yBRm5K33Z3FyOGu6L2huE9qMjsKNRuqhtImnkZRlUjOwmHQZccrDZGC6qrvJgqfC7uCNp7StXfMDs8jTPNn7Y_yfK2CL7d9hzjPaVLK9eSqxxOOpe0RK4CoQYwvVfXeT_FixL",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJLYpTf7IXoFMRmMOBLkGgqb8",
+         "plus_code" : {
+            "compound_code" : "GP73+WX Sherwood Park, AB, Canada",
+            "global_code" : "9558GP73+WX"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJLYpTf7IXoFMRmMOBLkGgqb8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 12,
+         "vicinity" : "52 Brentwood Boulevard, Sherwood Park"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5289444,
+               "lng" : -113.288727
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5302099802915,
+                  "lng" : -113.2877329197085
+               },
+               "southwest" : {
+                  "lat" : 53.5275120197085,
+                  "lng" : -113.2904308802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "Circle k",
+         "place_id" : "ChIJtVc5yOAXoFMRNCEzjXXj9uQ",
+         "plus_code" : {
+            "compound_code" : "GPH6+HG Sherwood Park, AB, Canada",
+            "global_code" : "9558GPH6+HG"
+         },
+         "rating" : 3,
+         "reference" : "ChIJtVc5yOAXoFMRNCEzjXXj9uQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 4,
+         "vicinity" : "101 Granada Boulevard, Sherwood Park"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.524869,
+               "lng" : -113.32087
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5261927802915,
+                  "lng" : -113.3191498697085
+               },
+               "southwest" : {
+                  "lat" : 53.5234948197085,
+                  "lng" : -113.3218478302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "Mini Mart Convenience Store",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110473148574343023302\"\u003earun bhavsar\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEChstKxxiAC8G1gaPBzoVZsgb2suD9e75KBcOjiZas8EB-gV0cDX_ZhsTKPQXuu9zb5Y6OlPEiskYh1VGHGGQLHOUF6ustd6GYqIKcd9iPPtSB5-RwlX-1XVZGHRTU-a5O2JyDWkxYhgH82D_IQ_bh8-5iRHfLwE34n2Jir-G2uZyV2",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJWwNrTsYXoFMRUiNugZav-i0",
+         "plus_code" : {
+            "compound_code" : "GMFH+WM Sherwood Park, AB, Canada",
+            "global_code" : "9558GMFH+WM"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJWwNrTsYXoFMRUiNugZav-i0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 10,
+         "vicinity" : "1080 Strathcona Drive, Sherwood Park"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.51255310000001,
+               "lng" : -113.2757087
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5138701802915,
+                  "lng" : -113.2743548697085
+               },
+               "southwest" : {
+                  "lat" : 53.5111722197085,
+                  "lng" : -113.2770528302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "On The Run",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJwb_qxlYWoFMR5oxRrzmIzMc",
+         "plus_code" : {
+            "compound_code" : "GP7F+2P Sherwood Park, AB, Canada",
+            "global_code" : "9558GP7F+2P"
+         },
+         "reference" : "ChIJwb_qxlYWoFMR5oxRrzmIzMc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      }
+   ],
+   "status" : "OK"
+}

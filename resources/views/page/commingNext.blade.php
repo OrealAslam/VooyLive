@@ -23,7 +23,7 @@
     <div class="container">
       <div class="row">
           <div class="col-md-12" align="center">
-              <p style="padding: 0px;">{!! getSettingValue('coverage') !!} </p>
+              <p style="padding: 0px;">{!! getSettingValue('coverage') !!} <strong><a href="{{ route('page.contact-us') }}">Contact Us</a></strong></p>
           </div>
       </div>
     </div>
@@ -31,11 +31,11 @@
     <!-- google api = AIzaSyCVK0DvbTLo3EvQ5u3bGlM4gzlK_d6Qjo4-->
     <!-- <div class="cps-section cps-section-padding cps-gradient-bg" id="faq"> -->
         <div class="container">
-            <div class="row">
+            <!-- <div class="row">
               <div class="col-lg-12 col-md-12 col-sm-12">
                 <h1 class="text-center">Available Across All Canada</h1>
               </div>
-            </div>
+            </div> -->
             <div class="row">
               <div class="col-lg-12 col-md-12 col-sm-12">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d22126001.03860246!2d-60.49218744999999!3d70.21585468179032!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4b0d03d337cc6ad9%3A0x9968b72aa2438fa5!2sCanada!5e0!3m2!1sen!2s!4v1641495546071!5m2!1sen!2s" width="100%" height="400px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
