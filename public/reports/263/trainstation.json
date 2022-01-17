@@ -1,0 +1,154 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6869103,
+               "lng" : -79.76471579999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6882671302915,
+                  "lng" : -79.7626121
+               },
+               "southwest" : {
+                  "lat" : 43.68556916970851,
+                  "lng" : -79.7654977
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Brampton GO",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100636875592195403068\"\u003eLivin Investments Inc\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDjS_qEtNgJ9AqBt1oQNLSw9Qp1YhmE9Sy-X2JyM1nCCwtDeb7SGxeG-9Xin2oLh5D-K5qEVzzAsrbeGDweRSly_ynC6dhriHOYyrnSXZnAWashxsJMuRI6AMCpg7fJZHKS7-Xf2ERxFLenK32utmzMvgcvVpQGjv_tYeU7M1f7Gocz",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJ-dC3sL0VK4gRzIAQDum5KRo",
+         "plus_code" : {
+            "compound_code" : "M6PP+Q4 Brampton, ON, Canada",
+            "global_code" : "87M2M6PP+Q4"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ-dC3sL0VK4gRzIAQDum5KRo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 77,
+         "vicinity" : "27 Church Street West, Brampton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6756056,
+               "lng" : -79.8211558
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6770188302915,
+                  "lng" : -79.8198315197085
+               },
+               "southwest" : {
+                  "lat" : 43.6743208697085,
+                  "lng" : -79.82252948029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Mount Pleasant GO",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117176358152848624045\"\u003emunawwar shaikh\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBAV2wq7WLA3MAF7oLJhYP_4GMay1VGFcZJDBTGL8dsKrpQIs93KdSYh7KxlRPPOltKHS6Q-WtmwztlShyuOuyetMpPi5j4vnBTY2YknSCtDSX0WbqHasnpljuDQ7fUlrhEuGPkhMmNgrPaXZuDNPkGqe1zTSSBbyKmwlCp1iSwtT3_",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJa9eRQmIUK4gRFgPOBYeYzrI",
+         "plus_code" : {
+            "compound_code" : "M5GH+6G Brampton, ON, Canada",
+            "global_code" : "87M2M5GH+6G"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJa9eRQmIUK4gRFgPOBYeYzrI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "transit_station",
+            "bus_station",
+            "train_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 51,
+         "vicinity" : "1600 Bovaird Drive West, Brampton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.70188590000001,
+               "lng" : -79.69119959999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7033454802915,
+                  "lng" : -79.68975321970849
+               },
+               "southwest" : {
+                  "lat" : 43.7006475197085,
+                  "lng" : -79.6924511802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "Bramalea GO",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117112072137565934679\"\u003eDavid Tinx Lall\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECvNocOtRe4JGPdPoaq4fHqAPfJwxKupPtdybXncaxcSU2HSIlv2JfLwOL5MrS0ILJ0aWOEd02xBbMQM-3koGyH5u8VFiwJkpUuez5Nrn_Un6BmIiuuSResHb1-v8rU9uCsqAvfIUcf_WQKvcT2Mv3ah4sq9NY6QVywQiSoM2Ht0-QL",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJI0Px3IA-K4gRFgWfQgV2eyQ",
+         "plus_code" : {
+            "compound_code" : "P825+QG Brampton, ON, Canada",
+            "global_code" : "87M2P825+QG"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJI0Px3IA-K4gRFgWfQgV2eyQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 118,
+         "vicinity" : "1713 Steeles Avenue East, Brampton"
+      }
+   ],
+   "status" : "OK"
+}

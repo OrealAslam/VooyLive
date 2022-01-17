@@ -1,0 +1,837 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEAgjeOtoYG-13cV47DmUDoev3RE9MYT-w_CRMOhkwlKBQ2H4iNxcvgdBKr0gLB0DhvtuqLT16ULeQavrLAqR5CBRbKU4trT-AjKj-4qa3_By7DAc-HteloZ5Hw7aNOkkLQfQ3wLCbJy9pwO-1Ojyz4oYZnZdLN-RgkemN7z7dCSTNNfTePcxZcUpvA5C4eiJo8dUc2fkoBCq_gm9rZcQhVtUBiAyBQHlJjrWwvhsfvbKH0CYANw49ZL8Eosny8AR2FESUmk0UwqQQdF5GUlvDd0fJ41aX0ul3jyGoPr6H79h4hLf-InmiqtPVtHZPVXehvvIlQmeKrdWABPJj0Yji6L3c_VOF7jdJgzg6XKZa6J36A5ud4pby5D1T0TD3kp1WeVoAj4dVW3bAdjiKZLUXt0Q2wMi6plnK0dMeKMH2WwbHQ8s0QVK4YDEcGeKMOlqdQZ-s4thfosL_KuL6Iyy7OoXiNtlqxVg3XrymiOyqXnWONMUNBXhtPol_B6qC2yE61aPMPM5gRp1PLra1UgQCt2uj9MxmAa3C96xg0O7PQt-_UVTUus6CGPrm57Dm5p4sLcT1iuaDFHcq-BSq-zSr9XwxKiWVCEJy-PqSayKU09IhcZRgpNOfE8oLgYDSgBuz4mDamHtk6fqVtPVcC6ZjeZWt97wBvDrEfg4LxP6v6Q2PAxqk9JJjrwSB9eXq6JFaIpg22W5u0GjTFnDWiP_Ve1k42HzBboO3yYVlPF_1TV62V5I96PXWXxfmF26-heJHA",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.72805400000001,
+               "lng" : -79.79791299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.72941753029151,
+                  "lng" : -79.79660506970848
+               },
+               "southwest" : {
+                  "lat" : 43.72671956970851,
+                  "lng" : -79.7993030302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Heart Lake Terminal Route 3/3A/201 Stop",
+         "place_id" : "ChIJc18ZsZEWK4gRyBQjN2RRW4w",
+         "plus_code" : {
+            "compound_code" : "P6H2+6R Brampton, ON, Canada",
+            "global_code" : "87M2P6H2+6R"
+         },
+         "reference" : "ChIJc18ZsZEWK4gRyBQjN2RRW4w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.727917,
+               "lng" : -79.798012
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7292839802915,
+                  "lng" : -79.79670481970849
+               },
+               "southwest" : {
+                  "lat" : 43.7265860197085,
+                  "lng" : -79.79940278029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Heart Lake Terminal Route 2 Stop",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109196169000238168027\"\u003eMandeep singh\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAFgI3bQVJLVYVcJHYfreM7CM21EB8kKGf00IjKZ3x8X0KudGw_dBjerFmKSHOrKO5GtY3AfhDjiF0xrQI7Z-b00OKLxkwkuXwocZ_s33fD4l79WJeZ2rmuu3jfPaqW7A7N3gksitVUEj3U4gbr_NROU_1yEAIC4LvYJIMv_oSzo8UX",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJzykvspEWK4gRbZs8bSusJKo",
+         "plus_code" : {
+            "compound_code" : "P6H2+5Q Brampton, ON, Canada",
+            "global_code" : "87M2P6H2+5Q"
+         },
+         "reference" : "ChIJzykvspEWK4gRbZs8bSusJKo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.728092,
+               "lng" : -79.798119
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7294490302915,
+                  "lng" : -79.79678971970849
+               },
+               "southwest" : {
+                  "lat" : 43.7267510697085,
+                  "lng" : -79.79948768029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Heart Lake Terminal Route 7 NB - Departure",
+         "place_id" : "ChIJHdvSsZEWK4gR9Yft_82MnwQ",
+         "plus_code" : {
+            "compound_code" : "P6H2+6Q Brampton, ON, Canada",
+            "global_code" : "87M2P6H2+6Q"
+         },
+         "reference" : "ChIJHdvSsZEWK4gR9Yft_82MnwQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.72792099999999,
+               "lng" : -79.79821
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.72925823029151,
+                  "lng" : -79.79683011970849
+               },
+               "southwest" : {
+                  "lat" : 43.72656026970851,
+                  "lng" : -79.79952808029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Heart Lake Terminal Route 7 NB - Arrival",
+         "place_id" : "ChIJb5zlrZEWK4gRoeOPLtQh2Vk",
+         "plus_code" : {
+            "compound_code" : "P6H2+5P Brampton, ON, Canada",
+            "global_code" : "87M2P6H2+5P"
+         },
+         "reference" : "ChIJb5zlrZEWK4gRoeOPLtQh2Vk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.72799299999999,
+               "lng" : -79.79821799999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.72934353029149,
+                  "lng" : -79.7968727197085
+               },
+               "southwest" : {
+                  "lat" : 43.7266455697085,
+                  "lng" : -79.79957068029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Heart Lake Terminal Route 23 EB Stop",
+         "place_id" : "ChIJlf0RrpEWK4gROYEpJQOVPZE",
+         "plus_code" : {
+            "compound_code" : "P6H2+5P Brampton, ON, Canada",
+            "global_code" : "87M2P6H2+5P"
+         },
+         "rating" : 1,
+         "reference" : "ChIJlf0RrpEWK4gROYEpJQOVPZE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.72793999999999,
+               "lng" : -79.798233
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7292988302915,
+                  "lng" : -79.79690791970849
+               },
+               "southwest" : {
+                  "lat" : 43.7266008697085,
+                  "lng" : -79.79960588029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Heart Lake Terminal Route 7 / 7A SB - Departure",
+         "place_id" : "ChIJvdHgrZEWK4gRnGjO4ngYPVU",
+         "plus_code" : {
+            "compound_code" : "P6H2+5P Brampton, ON, Canada",
+            "global_code" : "87M2P6H2+5P"
+         },
+         "reference" : "ChIJvdHgrZEWK4gRnGjO4ngYPVU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.727787,
+               "lng" : -79.79834
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.72914993029149,
+                  "lng" : -79.79702501970849
+               },
+               "southwest" : {
+                  "lat" : 43.72645196970849,
+                  "lng" : -79.79972298029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Heart Lake Terminal Route 23 WB Stop",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107303749140018814367\"\u003eJaskaran Singh\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBkWeR04w3Iqer5iAhP8i4I8c1rNogJeZv4ddhJ_mr3vOXoNaXxaWCUGGxjrKcoZ9DWi6TflzhcoajarzCskY9mkjIgWYFcwqFAR5tBGzI50cNfVErgZf_NIYLbBHE9n7RVQSNecLZWHKaHRUKabg8qYucivTOR5IgGhStx1znuy_pO",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJER79rJEWK4gRiUyFfO57kq8",
+         "plus_code" : {
+            "compound_code" : "P6H2+4M Brampton, ON, Canada",
+            "global_code" : "87M2P6H2+4M"
+         },
+         "rating" : 4,
+         "reference" : "ChIJER79rJEWK4gRiUyFfO57kq8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.722584,
+               "lng" : -79.79776
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.72393718029149,
+                  "lng" : -79.79642071970849
+               },
+               "southwest" : {
+                  "lat" : 43.7212392197085,
+                  "lng" : -79.79911868029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Sandalwood Pky E at 95 Sandalwood (Firestation)",
+         "place_id" : "ChIJYQNxEJsWK4gRNlOhqRRsY_0",
+         "plus_code" : {
+            "compound_code" : "P6F2+2V Brampton, ON, Canada",
+            "global_code" : "87M2P6F2+2V"
+         },
+         "reference" : "ChIJYQNxEJsWK4gRNlOhqRRsY_0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.721291,
+               "lng" : -79.77047
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7226056302915,
+                  "lng" : -79.7690586197085
+               },
+               "southwest" : {
+                  "lat" : 43.7199076697085,
+                  "lng" : -79.77175658029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Heart Lake - Zum Bovaird Station Stop WB",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109517173931924053301\"\u003eJoanne Junor Reid\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECNs0FiiPAXz-vlnZtZ7LKF5oy1uq_tycK_yhzXgG-7pZIqkHk-iAm21XtiHFfHJqd67sg1NtWy3uiOqfMvNPofmFqLjNV9spzWVmzZQxnmp3-NfJqp4qnhn8rjYH0YRF2FxB0j4IImKhRgel82ERaefclofX5nAdVITYpxSDrwAG6o",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ34zms3EWK4gRLUc96zXgDOY",
+         "plus_code" : {
+            "compound_code" : "P6CH+GR Brampton, ON, Canada",
+            "global_code" : "87M2P6CH+GR"
+         },
+         "rating" : 3,
+         "reference" : "ChIJ34zms3EWK4gRLUc96zXgDOY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.721252,
+               "lng" : -79.769882
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7226279802915,
+                  "lng" : -79.76857906970849
+               },
+               "southwest" : {
+                  "lat" : 43.71993001970851,
+                  "lng" : -79.7712770302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Bovaird Dr. E. @ Southlake Blvd.",
+         "place_id" : "ChIJifadunEWK4gRnD78a6xkupc",
+         "plus_code" : {
+            "compound_code" : "P6CJ+G2 Brampton, ON, Canada",
+            "global_code" : "87M2P6CJ+G2"
+         },
+         "rating" : 5,
+         "reference" : "ChIJifadunEWK4gRnD78a6xkupc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.715385,
+               "lng" : -79.777405
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7167038802915,
+                  "lng" : -79.7760015197085
+               },
+               "southwest" : {
+                  "lat" : 43.71400591970851,
+                  "lng" : -79.77869948029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Kennedy - Zum Bovaird Station Stop",
+         "place_id" : "ChIJQSFE7ngWK4gRSjPWf1anffQ",
+         "plus_code" : {
+            "compound_code" : "P68F+52 Brampton, ON, Canada",
+            "global_code" : "87M2P68F+52"
+         },
+         "rating" : 1,
+         "reference" : "ChIJQSFE7ngWK4gRSjPWf1anffQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7308059,
+               "lng" : -79.76418169999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7321110802915,
+                  "lng" : -79.76277896970849
+               },
+               "southwest" : {
+                  "lat" : 43.7294131197085,
+                  "lng" : -79.76547693029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Trinity Common Terminal - 5/5A WB/505 WB/17 Stop",
+         "place_id" : "ChIJ--YCk2oWK4gRBusLWV9lwBo",
+         "plus_code" : {
+            "compound_code" : "P6JP+88 Brampton, ON, Canada",
+            "global_code" : "87M2P6JP+88"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ--YCk2oWK4gRBusLWV9lwBo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7306197,
+               "lng" : -79.76394209999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7320264302915,
+                  "lng" : -79.76267376970848
+               },
+               "southwest" : {
+                  "lat" : 43.7293284697085,
+                  "lng" : -79.76537173029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Trinity Common Terminal - 5/5A EB/505 EB Stop",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100965295748367687943\"\u003evictory of City\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEARaqDgG5YgHdJ0uj-gjuNeooVJdPOcnbZC21vj5Ez8U8gfHP3YSVoSwgplo_OTq6DsoNr2sjXQG1HO9eMijoAZG7CrvHsr0qWwAOlmq31cnmGQA6W1FbEYj7kfPY-V4-N3iFyCkSY_MVayxN5xmn-SrAa9963tq2QwBN8SSOsesYyK",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ55YDvmoWK4gRwUwbPhHq2Fs",
+         "plus_code" : {
+            "compound_code" : "P6JP+6C Brampton, ON, Canada",
+            "global_code" : "87M2P6JP+6C"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ55YDvmoWK4gRwUwbPhHq2Fs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.731441,
+               "lng" : -79.763451
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.73275723029151,
+                  "lng" : -79.7620459697085
+               },
+               "southwest" : {
+                  "lat" : 43.73005926970851,
+                  "lng" : -79.7647439302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Trinity Common Terminal Route 32/23 WB/18B Stop",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103387195115380076562\"\u003eCharanjot Singh\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA3E0mzzmO_D_xS9i8O1zBdAcpCalmshtgME0rbdDR65sRF85lN4GfMA9smCfSg42Y9VFh6O6D_JjLwT-RqgE4qg5DVhr-bY_xTCNwHS3z8fharb_DoRUF1TyIxZBqOJ_zsbPcE6s0TDsHjAf1GHMyYKk-LJ22RdE9BL4MSSW06Oar6",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJpRbMpmoWK4gRZiKqS1OD1H0",
+         "plus_code" : {
+            "compound_code" : "P6JP+HJ Brampton, ON, Canada",
+            "global_code" : "87M2P6JP+HJ"
+         },
+         "reference" : "ChIJpRbMpmoWK4gRZiKqS1OD1H0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7311898,
+               "lng" : -79.76330399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7322993302915,
+                  "lng" : -79.76232751970849
+               },
+               "southwest" : {
+                  "lat" : 43.7296013697085,
+                  "lng" : -79.7650254802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Trinity Common Terminal Route 33/23 EB/21 Stop",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109196169000238168027\"\u003eMandeep singh\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDq06Cbp8liVb5vWLi2lZosfhod_pFL0wONnK6fFv4fUd0XR-I7ru0OGesZZP8TxWYOf1hTmEeP3OVl6yUV6duDut8rqeH-Bq8jV3bTjSjwYaBdeGOLVV1LKHJqNUMNsZ18dnCm78FszuVzqFvUz7jZTTK4KkJyW1ULm4MvdtTQeZ44",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJUcNSpGoWK4gRmeeKKLY_r7s",
+         "plus_code" : {
+            "compound_code" : "P6JP+FM Brampton, ON, Canada",
+            "global_code" : "87M2P6JP+FM"
+         },
+         "reference" : "ChIJUcNSpGoWK4gRmeeKKLY_r7s",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.718307,
+               "lng" : -79.80349699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7195993802915,
+                  "lng" : -79.80222711970849
+               },
+               "southwest" : {
+                  "lat" : 43.7169014197085,
+                  "lng" : -79.80492508029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Sandalwood - Zum Main Station Stop NB",
+         "place_id" : "ChIJC5l5WZ4WK4gRpeiXArkolRI",
+         "plus_code" : {
+            "compound_code" : "P59W+8J Brampton, ON, Canada",
+            "global_code" : "87M2P59W+8J"
+         },
+         "rating" : 3,
+         "reference" : "ChIJC5l5WZ4WK4gRpeiXArkolRI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7173673,
+               "lng" : -79.80278609999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.71874718029149,
+                  "lng" : -79.8013449197085
+               },
+               "southwest" : {
+                  "lat" : 43.71604921970849,
+                  "lng" : -79.8040428802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Sandalwood - Zum Main Station Stop SB",
+         "place_id" : "ChIJl0FoE54WK4gRum2vRdLJZnQ",
+         "plus_code" : {
+            "compound_code" : "P58W+WV Brampton, ON, Canada",
+            "global_code" : "87M2P58W+WV"
+         },
+         "rating" : 5,
+         "reference" : "ChIJl0FoE54WK4gRum2vRdLJZnQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.706585,
+               "lng" : -79.78757499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7079106802915,
+                  "lng" : -79.7862596697085
+               },
+               "southwest" : {
+                  "lat" : 43.7052127197085,
+                  "lng" : -79.78895763029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Bovaird - Zum Main Station Stop NB",
+         "place_id" : "ChIJS71udS0UK4gRF1NGG8FvUew",
+         "plus_code" : {
+            "compound_code" : "P646+JX Brampton, ON, Canada",
+            "global_code" : "87M2P646+JX"
+         },
+         "reference" : "ChIJS71udS0UK4gRF1NGG8FvUew",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.70639130000001,
+               "lng" : -79.785856
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.70777003029151,
+                  "lng" : -79.78455236970849
+               },
+               "southwest" : {
+                  "lat" : 43.70507206970851,
+                  "lng" : -79.78725033029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Main - Zum Bovaird Station Stop EB",
+         "place_id" : "ChIJvy8JQi0UK4gRkXupHXUVn7s",
+         "plus_code" : {
+            "compound_code" : "P647+HM Brampton, ON, Canada",
+            "global_code" : "87M2P647+HM"
+         },
+         "reference" : "ChIJvy8JQi0UK4gRkXupHXUVn7s",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.73441769999999,
+               "lng" : -79.7555582
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.73573938029149,
+                  "lng" : -79.75413856970849
+               },
+               "southwest" : {
+                  "lat" : 43.73304141970849,
+                  "lng" : -79.75683653029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Dixie - Zum Bovaird Station Stop WB",
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102357504020272938506\"\u003eM J\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDjTdrjuKO1OJtSt402pOFfw9WKH5mSPrNmnAGOsM0ItjKSPDc1P4J5T3ue2FhCe8D9BcmI6c_jRs710XH-UyXF6kKrvbkF1YTZVLud1iR0vn86OhP0rhAuWdImgTvCS400aVP4FUxiOw7WnzxOQgOdDLGPkjnrlo4Vqf1mFg8r2FcD",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJiaLoPjwWK4gRMLz0Zt5yvEM",
+         "plus_code" : {
+            "compound_code" : "P6MV+QQ Brampton, ON, Canada",
+            "global_code" : "87M2P6MV+QQ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJiaLoPjwWK4gRMLz0Zt5yvEM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Canada"
+      }
+   ],
+   "status" : "OK"
+}
