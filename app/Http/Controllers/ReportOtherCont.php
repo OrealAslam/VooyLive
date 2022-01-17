@@ -354,9 +354,10 @@ class ReportOtherCont extends ReportApiCont
         $response = $this->getApiCache($reportId, $type);
 
         if ($response == NULL) {
-            $url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=[lat],[long]&radius=2000&type=" . $type . "&key=" . env('GOOGLE_MAP_API');
+            $url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=[lat],[long]&radius=[radius]&type=" . $type . "&key=" . env('GOOGLE_MAP_API');
             $url = str_replace('[lat]', $report->lat, $url);
             $url = str_replace('[long]', $report->long, $url);
+            $url = str_replace('[radius]', config('app.radius'), $url);
             $response = $this->getApiData($reportId, $url, $type);
         }
         if (json_decode($response)) {

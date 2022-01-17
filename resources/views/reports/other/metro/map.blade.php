@@ -83,7 +83,7 @@
 									    @endif
 									@endfor
 									@else
-									<div style="font-family: Raleway;">No bank services available here.</div>
+									<div style="font-family: Raleway;">No bank services available within {{config('app.radius')/1000}}KM radius.</div>
 								@endif
                             </div>
                         </div>
