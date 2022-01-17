@@ -82,6 +82,8 @@
 											@php $counter++; @endphp
 									    @endif
 									@endfor
+									@else
+									<div style="font-family: Raleway;">No bank services available here.</div>
 								@endif
                             </div>
                         </div>
