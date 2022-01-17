@@ -311,6 +311,9 @@
 		</div>
 	</div><br>
 
+	@include('reports.common-report')
+	<br>
+	
 	<div class="cps-section cps-section-padding cps-gray-bg" id="features">
 		<div class="container">
 			<div class="col-xs-12 report-header" id="content" @if(isset($user->ClientDetail->colorc)) style="border-color: {{$user->ClientDetail->colorc}}" @endif>
@@ -608,7 +611,15 @@
 		</div>
 	</div>
 </div>
-@include('reports.common-report')
+<div class="common-report cps-gray-bg" style="background-color: #fff;">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 text-center">
+                <input name="template_type" class="template_type" type="checkbox" data-toggle="toggle" data-on="Metro" data-off="Classic">
+            </div>
+        </div>
+    </div>
+</div>
 <br>
 @endsection
 @section('nav')              

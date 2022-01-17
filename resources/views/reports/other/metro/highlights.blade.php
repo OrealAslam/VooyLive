@@ -176,7 +176,10 @@
             <!-- AddToAny END -->
         </div>
     </div>
-</div><br>
+</div>
+
+@include('reports.common-report')
+<br>
 
 <div class="container" id="features">
     <div class="top-header section" id="top-header">
@@ -572,7 +575,15 @@
     </div>
 </div>
 
-@include('reports.common-report')
+<div class="common-report cps-gray-bg" style="background-color: #fff;">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 text-center">
+                <input name="template_type" class="template_type" type="checkbox" data-toggle="toggle" data-on="Metro" data-off="Classic">
+            </div>
+        </div>
+    </div>
+</div>
 <br>
 
 @endsection
