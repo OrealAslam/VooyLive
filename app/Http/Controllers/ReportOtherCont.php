@@ -132,8 +132,8 @@ class ReportOtherCont extends ReportApiCont
             'noOfHouseOwned' => $data['owner'],
             'noOfHouseRented' => $data['rental'],
             'totalHouse' => $total,
-            'percentHouseOwned' => round((int)$data['owner'] / $total * 100, 2),
-            'percentHouseRented' => round((int)$data['rental'] / $total * 100, 2)
+            'percentHouseOwned' =>($total != 0 ? round((int)$data['owner'] / $total * 100, 2):0),
+            'percentHouseRented' =>($total != 0 ? round((int)$data['rental'] / $total * 100, 2):0 )
         ];
     }
 

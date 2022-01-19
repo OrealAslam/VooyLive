@@ -4,6 +4,8 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Classes\simple_html_dom;
+use PhpParser\Node\Stmt\TryCatch;
+use Illuminate\Support\Facades\Storage;
 
 define('HDOM_TYPE_ELEMENT', 1);
 define('HDOM_TYPE_COMMENT', 2);
@@ -31,6 +33,7 @@ define('HDOM_SMARTY_AS_TEXT', 1);
 
 class OtherDataController extends Controller
 {
+    private $DAs = array();
 
     private function file_get_html(
         $url,
@@ -120,11 +123,16 @@ class OtherDataController extends Controller
         
         $return = null;
         foreach($html->find('a.geo-lbx') as $elem)
-        $return = $elem->attr['data-dguid'];
+        array_push($this->DAs,$elem->attr['data-dguid']);
+        
+        return array_pop($this->DAs);
+    }
 
-  
-        return $return;
-
+    private function getUpperDA(){
+        if(count($this->DAs)-3)
+        return $this->DAs[count($this->DAs)-3];
+        else
+        return array_pop($this->DAs);
     }
 
     public function fallBackDA($city){
@@ -144,55 +152,89 @@ class OtherDataController extends Controller
 
     public function get($postal,$city)
     {
+        if(Storage::exists('census/'.$postal.'.json')){
+            $result=json_decode(Storage::get('census/'.$postal.'.json'));
+            return (array)$result;
+        }
+
+
         // dd($postal);
         $DA = $this->getDA($postal);
+        $fallback = false;
 
         if(!$DA)
         {
+            $fallback = true;
             $DA = $this->fallBackDA($city);
         }
-        $url ='https://www12.statcan.gc.ca/rest/census-recensement/CPR2016.json?lang=E&dguid='.$DA.'&topic=0&notes=0&stat=0';
-        // dd($url);
 
-        // $url='CPR2016.json';
+        $data = $this->getDAData($DA);
+       
+        $result = $this->formatData($data);
+        if($result['average_total_income'] == 0 && $fallback == false){
+            $DA = $this->getUpperDA();
+            // dd($DA);
+            $data = $this->getDAData($DA);
+            $upperResult = $this->formatData($data);
+            if($upperResult['average_total_income'] != 0){
+                $result= $upperResult;
+            }
+        }
 
-        // get DOM from URL or file
-        $json = file_get_contents($url);
+        Storage::put('census/'.$postal.'.json', json_encode($result));
 
-        $data=json_decode($json,true);
-        $data=$data["DATA"];
-        return [
-            'average_total_income' => ($data[816][13] ? $data[816][13] : 0),
-            'owner' => ($data[1617][13] ? $data[1617][13] : 0),
-            'rental' => ($data[1618][13] ? $data[1618][13] : 0),
-            'household' => ($data[57][13] ? $data[57][13] : 0),
-            'medianage' => ($data[39][13] ? $data[39][13] : 0),
-            'zero_to_four' => ($data[9][13] ? $data[9][13] : 0),
-            'five_to_nine' => ($data[10][13] ? $data[10][13] : 0),
-            'ten_to_fourteen' => ($data[11][13] ? $data[11][13] : 0),
-            'fifteen_to_nineteen' => ($data[13][13] ? $data[13][13] : 0),
-            'twenty_to_twentyfour' => ($data[14][13] ? $data[14][13] : 0),
-            'twentyfive_to_twentynine' => ($data[15][13] ? $data[15][13] : 0),
-            'thirty_to_thirtyfour' => ($data[16][13] ? $data[16][13] : 0),
-            'thirtyfive_to_thirtynine' => ($data[17][13] ? $data[17][13] : 0),
-            'forty_to_fortyfour' => ($data[18][13] ? $data[18][13] : 0),
-            'fortyfive_to_fortynine' => ($data[19][13] ? $data[19][13] : 0),
-            'fifty_to_fiftyfour' => ($data[20][13] ? $data[20][13] : 0),
-            'fiftyfive_to_fiftynine' => ($data[21][13] ? $data[21][13] : 0),
-            'sixty_to_sixtyfour' => ($data[22][13] ? $data[22][13] : 0),
-            'sixtyfive_and_over' => ($data[23][13] ? $data[23][13] : 0),
-            'sixtyfive_to_sixtynine' => ($data[24][13] ? $data[24][13] : 0),
-            'bachelors_degree' => ($data[1707][13] ? $data[1707][13] : 0),
-            'secondary_school_certificate' => ($data[1699][13] ? $data[1699][13] : 0),
-            'university_certificate_below_bachelor' => ($data[1705][13] ? $data[1705][13] : 0),
-            'university_certificate_above_bachelor' => ($data[1706][13] ? $data[1706][13] : 0),
-            'college_cegep_certificate' => ($data[1704][13] ? $data[1704][13] : 0),
-            'apprenticeship_certificate' => ($data[1701][13] ? $data[1701][13] : 0),
-            'no_certificate' => ($data[1698][13] ? $data[1698][13] : 0),
-            'couples_with_child' => ($data[82][13] ? $data[82][13] : 0),
-            'couples_without_child' => ($data[81][13] ? $data[81][13] : 0),
 
-        ];
+        return $result;
+    }
+    private function getDAData($DA){
+        try {
+            $url ='https://www12.statcan.gc.ca/rest/census-recensement/CPR2016.json?lang=E&dguid='.$DA.'&topic=0&notes=0&stat=0';
 
+            $json = file_get_contents($url);
+
+            $data=json_decode($json,true);
+            return $data;
+
+        } catch (Exception $e) {
+            return null;
+        }
+        
+    }
+    private function formatData($data){
+        if(isset($data["DATA"])){
+            $data=$data["DATA"];
+        }
+       return [
+            'average_total_income' => (!empty($data[816][13]) ? $data[816][13] : 0),
+            'owner' => (!empty($data[1617][13]) ? $data[1617][13] : 0),
+            'rental' => (!empty($data[1618][13]) ? $data[1618][13] : 0),
+            'household' => (!empty($data[57][13]) ? $data[57][13] : 0),
+            'medianage' => (!empty($data[39][13]) ? $data[39][13] : 0),
+            'zero_to_four' => (!empty($data[9][13]) ? $data[9][13] : 0),
+            'five_to_nine' => (!empty($data[10][13]) ? $data[10][13] : 0),
+            'ten_to_fourteen' => (!empty($data[11][13]) ? $data[11][13] : 0),
+            'fifteen_to_nineteen' => (!empty($data[13][13]) ? $data[13][13] : 0),
+            'twenty_to_twentyfour' => (!empty($data[14][13]) ? $data[14][13] : 0),
+            'twentyfive_to_twentynine' => (!empty($data[15][13]) ? $data[15][13] : 0),
+            'thirty_to_thirtyfour' => (!empty($data[16][13]) ? $data[16][13] : 0),
+            'thirtyfive_to_thirtynine' => (!empty($data[17][13]) ? $data[17][13] : 0),
+            'forty_to_fortyfour' => (!empty($data[18][13]) ? $data[18][13] : 0),
+            'fortyfive_to_fortynine' => (!empty($data[19][13]) ? $data[19][13] : 0),
+            'fifty_to_fiftyfour' => (!empty($data[20][13]) ? $data[20][13] : 0),
+            'fiftyfive_to_fiftynine' => (!empty($data[21][13]) ? $data[21][13] : 0),
+            'sixty_to_sixtyfour' => (!empty($data[22][13]) ? $data[22][13] : 0),
+            'sixtyfive_and_over' => (!empty($data[23][13]) ? $data[23][13] : 0),
+            'sixtyfive_to_sixtynine' => (!empty($data[24][13]) ? $data[24][13] : 0),
+            'bachelors_degree' => (!empty($data[1707][13]) ? $data[1707][13] : 0),
+            'secondary_school_certificate' => (!empty($data[1699][13]) ? $data[1699][13] : 0),
+            'university_certificate_below_bachelor' => (!empty($data[1705][13]) ? $data[1705][13] : 0),
+            'university_certificate_above_bachelor' => (!empty($data[1706][13]) ? $data[1706][13] : 0),
+            'college_cegep_certificate' => (!empty($data[1704][13]) ? $data[1704][13] : 0),
+            'apprenticeship_certificate' => (!empty($data[1701][13]) ? $data[1701][13] : 0),
+            'no_certificate' => (!empty($data[1698][13]) ? $data[1698][13] : 0),
+            'couples_with_child' => (!empty($data[82][13]) ? $data[82][13] : 0),
+            'couples_without_child' => (!empty($data[81][13]) ? $data[81][13] : 0),
+
+       ];
     }
 }
