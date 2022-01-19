@@ -52,7 +52,7 @@
  <div class="cps-main-wrap">
 
         <!-- Integrated With -->
-    <div class="cps-section cps-section-padding cps-bottom-0 logo-section">
+    <!-- <div class="cps-section cps-section-padding cps-bottom-0 logo-section">
         <div class="container">
             <div class="row">
                 <div class="col-md-10 col-md-offset-1 col-xs-12">
@@ -76,7 +76,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Integrated With End -->
     <!-- Pricing Table -->
     <div class="cps-section cps-section-padding cps-gray-bg" id="pricing">
