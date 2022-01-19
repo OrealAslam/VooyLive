@@ -16,7 +16,7 @@ use Session;
 use App\UniversalRecreation;
 use App\UniversalSchool;
 use App\UniversalLibrary;
-
+use App\OntarioSchool;
 class ReportOtherCont extends ReportApiCont
 {
     public $cityName = 'edmonton';
@@ -224,6 +224,12 @@ class ReportOtherCont extends ReportApiCont
     public function getSchoolData($reportId, $template = 'classic')
     {
         $report = Report::findOrfail($reportId);
+        //ontario school data
+        if ($report->administrative_area_level_1 == 'ON') {
+            $school = new OntarioSchool();
+            $data['elementarySchool'] = $school->getElementarySchool($report->long, $report->lat, $report->City->name);
+            $data['highSchool'] = $school->getHighSchool($report->long, $report->lat, $report->City->name);
+        }
         $school = new UniversalSchool();
 
         if($report->City->name == 'Edmonton') {
@@ -263,7 +269,9 @@ class ReportOtherCont extends ReportApiCont
             }
 
         } else {
-            $data['elementerySchool'] = $school->getElementarySchool($report->long, $report->lat, $report->City->name);
+            if (empty($data['elementarySchool'])) {
+                $data['elementarySchool'] = $school->getElementarySchool($report->long, $report->lat, $report->City->name);
+            }
         }
 
         if($report->City->name == 'Edmonton') {
@@ -303,7 +311,9 @@ class ReportOtherCont extends ReportApiCont
             }
 
         } else {
-            $data['juniorSchool'] = $school->getJuniorSchool($report->long, $report->lat, $report->City->name);
+            if (empty($data['juniorSchool'])) {
+                $data['juniorSchool'] = $school->getJuniorSchool($report->long, $report->lat, $report->City->name);
+            }
         }
 
         if($report->City->name == 'Edmonton') {
@@ -343,11 +353,14 @@ class ReportOtherCont extends ReportApiCont
             }
 
         } else {
-            $data['highSchool'] = $school->getHighSchool($report->long, $report->lat, $report->City->name);
+            if (empty($data['highSchool'])) {
+                $data['highSchool'] = $school->getHighSchool($report->long, $report->lat, $report->City->name);
+            }
         }
-
+        
         return $data;
     }
+
     public function getTransitData($reportId, $template = 'classic')
     {
         $report = Report::findOrfail($reportId);
