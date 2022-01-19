@@ -233,39 +233,39 @@ class ReportOtherCont extends ReportApiCont
         $school = new UniversalSchool();
 
         if($report->City->name == 'Edmonton') {
-            $data['elementerySchool'] = app('App\Http\Controllers\ReportEdmontonCont')->getElementerySchool($reportId);
-            if (isset($data['elementerySchool'])) {
-                $elementerySchool = array(
-                    'name' => $data['elementerySchool']->school_name,
-                    'address' => $data['elementerySchool']->address,
-                    'grades_offered' => $data['elementerySchool']->grades_offered,
-                    'distance' => $data['elementerySchool']->distance,
+            $data['elementarySchool'] = app('App\Http\Controllers\ReportEdmontonCont')->getElementerySchool($reportId);
+            if (isset($data['elementarySchool'])) {
+                $elementarySchool = array(
+                    'name' => $data['elementarySchool']->school_name,
+                    'address' => $data['elementarySchool']->address,
+                    'grade' => $data['elementarySchool']->grades_offered,
+                    'distance' => $data['elementarySchool']->distance,
                 );
-                $data['elementerySchool'] = (object)$elementerySchool;
+                $data['elementarySchool'] = (object)$elementarySchool;
             }
 
         } elseif($report->City->name == 'Toronto') {
-            $data['elementerySchool'] = app('App\Http\Controllers\ReportTorontoCont')->getElementerySchool($reportId);
-            if (isset($data['elementerySchool'][0])) {
-                $elementerySchool = array(
-                    'name' => $data['elementerySchool'][0]->SCHOOL_NAME,
-                    'address' => $data['elementerySchool'][0]->SCHOOL_PHYSICAL_ADDRESS,
-                    'grades_offered' => $data['elementerySchool'][0]->GRADE_STRING,
-                    'distance' => $data['elementerySchool'][0]->distance,
+            $data['elementarySchool'] = app('App\Http\Controllers\ReportTorontoCont')->getElementerySchool($reportId);
+            if (isset($data['elementarySchool'][0])) {
+                $elementarySchool = array(
+                    'name' => $data['elementarySchool'][0]->SCHOOL_NAME,
+                    'address' => $data['elementarySchool'][0]->SCHOOL_PHYSICAL_ADDRESS,
+                    'grade' => $data['elementarySchool'][0]->GRADE_STRING,
+                    'distance' => $data['elementarySchool'][0]->distance,
                 );
-                $data['elementerySchool'] = (object)$elementerySchool;
+                $data['elementarySchool'] = (object)$elementarySchool;
             }
 
         } elseif($report->City->name == 'Vancouver') {
-            $data['elementerySchool'] = app('App\Http\Controllers\ReportVancouverCont')->getElementerySchool($reportId);
-            if (isset($data['elementerySchool'][0])) {
-                $elementerySchool = array(
-                    'name' => $data['elementerySchool'][0]->SCHOOL_NAME,
-                    'address' => $data['elementerySchool'][0]->SCHOOL_PHYSICAL_ADDRESS,
-                    'grades_offered' => $data['elementerySchool'][0]->GRADE_STRING,
-                    'distance' => $data['elementerySchool'][0]->distance,
+            $data['elementarySchool'] = app('App\Http\Controllers\ReportVancouverCont')->getElementerySchool($reportId);
+            if (isset($data['elementarySchool'][0])) {
+                $elementarySchool = array(
+                    'name' => $data['elementarySchool'][0]->SCHOOL_NAME,
+                    'address' => $data['elementarySchool'][0]->SCHOOL_PHYSICAL_ADDRESS,
+                    'grade' => $data['elementarySchool'][0]->GRADE_STRING,
+                    'distance' => $data['elementarySchool'][0]->distance,
                 );
-                $data['elementerySchool'] = (object)$elementerySchool;
+                $data['elementarySchool'] = (object)$elementarySchool;
             }
 
         } else {
@@ -280,7 +280,7 @@ class ReportOtherCont extends ReportApiCont
                 $juniorSchool = array(
                     'name' => $data['juniorSchool']->school_name,
                     'address' => $data['juniorSchool']->address,
-                    'grades_offered' => $data['juniorSchool']->grades_offered,
+                    'grade' => $data['juniorSchool']->grades_offered,
                     'distance' => $data['juniorSchool']->distance,
                 );
                 $data['juniorSchool'] = (object)$juniorSchool;
@@ -292,7 +292,7 @@ class ReportOtherCont extends ReportApiCont
                 $juniorSchool = array(
                     'name' => $data['juniorSchool'][0]->SCHOOL_NAME,
                     'address' => $data['juniorSchool'][0]->SCHOOL_PHYSICAL_ADDRESS,
-                    'grades_offered' => $data['juniorSchool'][0]->GRADE_STRING,
+                    'grade' => $data['juniorSchool'][0]->GRADE_STRING,
                     'distance' => $data['juniorSchool'][0]->distance,
                 );
                 $data['juniorSchool'] = (object)$juniorSchool;
@@ -304,7 +304,7 @@ class ReportOtherCont extends ReportApiCont
                 $juniorSchool = array(
                     'name' => $data['juniorSchool'][0]->SCHOOL_NAME,
                     'address' => $data['juniorSchool'][0]->SCHOOL_PHYSICAL_ADDRESS,
-                    'grades_offered' => $data['juniorSchool'][0]->GRADE_STRING,
+                    'grade' => $data['juniorSchool'][0]->GRADE_STRING,
                     'distance' => $data['juniorSchool'][0]->distance,
                 );
                 $data['juniorSchool'] = (object)$juniorSchool;
@@ -322,7 +322,7 @@ class ReportOtherCont extends ReportApiCont
                 $highSchool = array(
                     'name' => $data['highSchool']->school_name,
                     'address' => $data['highSchool']->address,
-                    'grades_offered' => $data['highSchool']->grades_offered,
+                    'grade' => $data['highSchool']->grades_offered,
                     'distance' => $data['highSchool']->distance,
                 );
                 $data['highSchool'] = (object)$highSchool;
@@ -334,7 +334,7 @@ class ReportOtherCont extends ReportApiCont
                 $highSchool = array(
                     'name' => $data['highSchool'][0]->SCHOOL_NAME,
                     'address' => $data['highSchool'][0]->SCHOOL_PHYSICAL_ADDRESS,
-                    'grades_offered' => $data['highSchool'][0]->GRADE_STRING,
+                    'grade' => $data['highSchool'][0]->GRADE_STRING,
                     'distance' => $data['highSchool'][0]->distance,
                 );
                 $data['highSchool'] = (object)$highSchool;
@@ -346,7 +346,7 @@ class ReportOtherCont extends ReportApiCont
                 $highSchool = array(
                     'name' => $data['highSchool'][0]->SCHOOL_NAME,
                     'address' => $data['highSchool'][0]->SCHOOL_PHYSICAL_ADDRESS,
-                    'grades_offered' => $data['highSchool'][0]->GRADE_STRING,
+                    'grade' => $data['highSchool'][0]->GRADE_STRING,
                     'distance' => $data['highSchool'][0]->distance,
                 );
                 $data['highSchool'] = (object)$highSchool;
