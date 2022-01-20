@@ -1,0 +1,55 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.981323,
+               "lng" : -81.2467413
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9828120302915,
+                  "lng" : -81.24546651970849
+               },
+               "southwest" : {
+                  "lat" : 42.9801140697085,
+                  "lng" : -81.24816448029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+         "name" : "London",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102734240630520071396\"\u003ephilip Cochrane\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEALmn-te5CuVTOvdJ8e5I-XQ8o1qZfEHP6uu2QE6XdV8S1Gtf4c4UzehhgvQOy-P9Jr9wWl0vx6kWREXjLOkX-HnlrIOFgW-8LejXKrc5toPym6BTWCo2iO_o3OxU3kTRFgFl4_-rFkSd2EgNUHHPlAg9HkeT8TOp1b7pDPHu5eoTY4",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ0cXJcxzyLogR_7JTgvZPUo4",
+         "plus_code" : {
+            "compound_code" : "XQJ3+G8 London, ON, Canada",
+            "global_code" : "86JWXQJ3+G8"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ0cXJcxzyLogR_7JTgvZPUo4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 75,
+         "vicinity" : "205 York Street, London"
+      }
+   ],
+   "status" : "OK"
+}

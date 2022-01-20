@@ -1,0 +1,707 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.669144,
+               "lng" : -79.3391627
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6702985302915,
+                  "lng" : -79.33805506970849
+               },
+               "southwest" : {
+                  "lat" : 43.6676005697085,
+                  "lng" : -79.34075303029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "CIBC Branch with ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 854,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103146538885601341054\"\u003eHenry\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDwl57tpa02pRKYWtgWCvPCBQi5cUvEaazNytrCWIocfxIZx6h2atewPUrveqjDX5_oMYrzSCXwxAl23bwFaHQG0LwQpac4dVuP0TBaujYDngmG93NNHf3EIlpq93WCq_aQEO48q6nmKWUfszoUGvDPLwVEVOSlbG3aKo7cRGHUzoq-",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ_22gMnnL1IkRyj1QS3WRP5k",
+         "plus_code" : {
+            "compound_code" : "MM96+M8 Toronto, ON, Canada",
+            "global_code" : "87M2MM96+M8"
+         },
+         "rating" : 2.5,
+         "reference" : "ChIJ_22gMnnL1IkRyj1QS3WRP5k",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 34,
+         "vicinity" : "1000 Gerrard Street East, Toronto"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.67867,
+               "lng" : -79.34544
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68001898029149,
+                  "lng" : -79.34409101970849
+               },
+               "southwest" : {
+                  "lat" : 43.67732101970849,
+                  "lng" : -79.34678898029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "National Bank",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 2272,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116124106043749090192\"\u003eAnthony Bernstein\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBBW2SkXIFZHEzEj1U40Bzr7Kzc8ymjgkZR5SvmxR-4B25IPRuQ5npJNENpCNIFlewWW1kCHTqQXXgDN8CJXGBJsYFWpliePoT3r_mH7GWQZyss3kRyvSHYPRXJVZYRIGCIDeyjYdNKV9-jwSmEcRBjIfsOKRlaXOpWRfvun11S0yEB",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJOfh4YIPM1IkRX2KJiCy_npQ",
+         "plus_code" : {
+            "compound_code" : "MMH3+FR Toronto, ON, Canada",
+            "global_code" : "87M2MMH3+FR"
+         },
+         "rating" : 4,
+         "reference" : "ChIJOfh4YIPM1IkRX2KJiCy_npQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "629 Danforth Avenue, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.65968869999999,
+               "lng" : -79.34758979999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.66089348029149,
+                  "lng" : -79.34617841970849
+               },
+               "southwest" : {
+                  "lat" : 43.65819551970849,
+                  "lng" : -79.3488763802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "BMO Bank of Montreal",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116124106043749090192\"\u003eAnthony Bernstein\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBxW0Dsh4oEImGDMEW2GLH-uc2qbussWmLP_EtaaQ6wSt6juTkSsJbMhncfd9IdDDkBWh7T028PK5wU2_W0MSt1r5yLCdOl7l_8DCXqdVKmIwyzm5S5OD_U3ko67wV3FMSaY-fOG2XC9chUvOwh-_xsMdfvHeF5OXqqnGj0a8uo1QJH",
+               "width" : 3872
+            }
+         ],
+         "place_id" : "ChIJg7gHTGzL1IkRDx_IDYlWdhI",
+         "plus_code" : {
+            "compound_code" : "MM52+VX Toronto, ON, Canada",
+            "global_code" : "87M2MM52+VX"
+         },
+         "rating" : 2.9,
+         "reference" : "ChIJg7gHTGzL1IkRDx_IDYlWdhI",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 23,
+         "vicinity" : "774 Queen Street East, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.66174399999999,
+               "lng" : -79.3379367
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.66309298029149,
+                  "lng" : -79.3365877197085
+               },
+               "southwest" : {
+                  "lat" : 43.6603950197085,
+                  "lng" : -79.33928568029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Scotiabank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105395482879654461975\"\u003eMike C\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAKe6iZSxNbwv2v6UQ0UZh4FQ2vp0fcdo-ixYgRQgp2xnAiF1YxajYasENi7fmvgdE5Q5O1sJJ4et7QLF369Gj1xMfCuI_Aebeg8qj78LEiERALSpKpZRcIOMDCzlzxAFuTBHQxrW5qV74kvgcHJBGKG6p90hHuTv9HsEbvPKy-rtgW",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJoco8v2rL1IkR_rNtjgm9kXI",
+         "plus_code" : {
+            "compound_code" : "MM66+MR Toronto, ON, Canada",
+            "global_code" : "87M2MM66+MR"
+         },
+         "rating" : 2.6,
+         "reference" : "ChIJoco8v2rL1IkR_rNtjgm9kXI",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29,
+         "vicinity" : "1046 Queen Street East, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6606595,
+               "lng" : -79.3427748
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6620084802915,
+                  "lng" : -79.34142581970849
+               },
+               "southwest" : {
+                  "lat" : 43.6593105197085,
+                  "lng" : -79.3441237802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "TD Canada Trust Branch and ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2550,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102553769511302489247\"\u003eAndroid Dave\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC6kDf9lg8pVlIIGfghP3naBq4cLM2Cpjrg7-Xwn5bJDkN1cTU3hKYxNBkwRUt7zLK6K5_t3dU0ricvJ-_aStqyq-FrU7q-4bf9ugGhf4pfMZ9oA24SOipIFhPNQQSM-JXsOy-MJvDDEIQz6Zp3PIU2XaFU13mh8kgF4mhhLvRw4-eY",
+               "width" : 2544
+            }
+         ],
+         "place_id" : "ChIJqZxwaXHL1IkRqKSccRoh1u4",
+         "plus_code" : {
+            "compound_code" : "MM64+7V Toronto, ON, Canada",
+            "global_code" : "87M2MM64+7V"
+         },
+         "rating" : 3,
+         "reference" : "ChIJqZxwaXHL1IkRqKSccRoh1u4",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 44,
+         "vicinity" : "904 Queen Street East, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6656322,
+               "lng" : -79.3524268
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.66698118029151,
+                  "lng" : -79.35107781970851
+               },
+               "southwest" : {
+                  "lat" : 43.66428321970851,
+                  "lng" : -79.35377578029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Scotiabank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105395482879654461975\"\u003eMike C\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBnMtz2ubDQaKsxwN1pX8O4Y2vGRf0fAX4Ri8Y6Th03KBHg1PHWqkr-YxF3k_thDUPDwbbPw6Zq86srgI7haxP5j-jZnhTNstPUoVdyUdpQIJXSX7BLh8lFGLvs2tAHfNfVfzbqTbgtAqBSvws2-566K0uQ_aA5yV-WzyKRVFR1Z41w",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ8a_MA2bL1IkRo_9_-FAIdro",
+         "plus_code" : {
+            "compound_code" : "MJ8X+72 Toronto, ON, Canada",
+            "global_code" : "87M2MJ8X+72"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJ8a_MA2bL1IkRo_9_-FAIdro",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 27,
+         "vicinity" : "363 Broadview Avenue, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6786968,
+               "lng" : -79.3450204
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68004578029149,
+                  "lng" : -79.34367141970849
+               },
+               "southwest" : {
+                  "lat" : 43.6773478197085,
+                  "lng" : -79.34636938029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Scotiabank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108411264414712995765\"\u003eJuraj Prascak\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC73KzCAIoUiqAd39seWsIyUo5FNPD7_ZPtOyd1ISfQi-ITtUlJ7024VXMNKtcuNMwMQDnf1RyIH-pbMBy2Fze963PuatWfW1clcIYAkx_faT--hI-gDJ7lDORLqoC6_ZMma-iuUGufg78LWb18G-_71v7dIRO3XgmcjXNLqvmp68vL",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJM5wnnoTM1IkRQS4kuKC2184",
+         "plus_code" : {
+            "compound_code" : "MMH3+FX Toronto, ON, Canada",
+            "global_code" : "87M2MMH3+FX"
+         },
+         "rating" : 2.3,
+         "reference" : "ChIJM5wnnoTM1IkRQS4kuKC2184",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 48,
+         "vicinity" : "649 Danforth Avenue, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.66087,
+               "lng" : -79.328424
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6620065802915,
+                  "lng" : -79.3269630197085
+               },
+               "southwest" : {
+                  "lat" : 43.6593086197085,
+                  "lng" : -79.32966098029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "President's Choice Financial Pavilion and ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101838337593965958553\"\u003eAmber Y.\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBzENgRa3M2SamRmVwV9SG0HBg4L6FPikNl-27Xho9XnnmToFuCKDkM1gz8GyKDREDkHR0K4Rpki7cmNWoDkoe6oEfnkAYJrZJWQxytD9S9EMUA059Orw4omFC3eq-Jy1YWyV2AmOX3_1H8EW26NzMO8Y7divz5WbH0Q0WRCeYGUHH4",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJU_IpeJvL1IkRjeQj-F9o1Nw",
+         "plus_code" : {
+            "compound_code" : "MM6C+8J Toronto, ON, Canada",
+            "global_code" : "87M2MM6C+8J"
+         },
+         "rating" : 2.7,
+         "reference" : "ChIJU_IpeJvL1IkRjeQj-F9o1Nw",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "17 Leslie Street, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6578859,
+               "lng" : -79.3278796
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65918678029149,
+                  "lng" : -79.32678941970849
+               },
+               "southwest" : {
+                  "lat" : 43.65648881970849,
+                  "lng" : -79.3294873802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "TD Canada Trust Branch and ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116124106043749090192\"\u003eAnthony Bernstein\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBLsV6I8d6VDyokps_kFgOvQtXw3OvkiPS5olg8o3TMPxTiMhNyRcBGkd-PfjkkRAzNN8mWQbtGMJHcigccWJ67XnvRbqOocEz0-6iSH_asKST-BcVLgDFH8OAmuAwkEPnocUWeV_uP-vgP6N6XaNeyzvudqCgddnUnsQOI_grID0F9",
+               "width" : 3872
+            }
+         ],
+         "place_id" : "ChIJLwiRQpnL1IkRr9IJKykhFTw",
+         "plus_code" : {
+            "compound_code" : "MM5C+5R Toronto, ON, Canada",
+            "global_code" : "87M2MM5C+5R"
+         },
+         "rating" : 2.6,
+         "reference" : "ChIJLwiRQpnL1IkRr9IJKykhFTw",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 32,
+         "vicinity" : "16B Leslie Street Unit 1, Toronto"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6764724,
+               "lng" : -79.35869839999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6778213802915,
+                  "lng" : -79.35734941970848
+               },
+               "southwest" : {
+                  "lat" : 43.67512341970851,
+                  "lng" : -79.3600473802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "CIBC Branch with ATM",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116124106043749090192\"\u003eAnthony Bernstein\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDm_6mECDiFvvKLvLRpT9Ad_EtEkr1CfwwVTkCgA38KcXfzP5wIyipJW9AeK6eqLP0R1JdFCsuxvYTUAhe0bv9tzFvqLvUGmqqgd7eLI0Py1jvMkDCHVYEI7ZWCE4TwVjim4dmU71pT6F4E65Knk42PNeyRVlM7iRhF51ei_ng3p70K",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJFzkfEaDM1IkR-b5YgXJFJfI",
+         "plus_code" : {
+            "compound_code" : "MJGR+HG Toronto, ON, Canada",
+            "global_code" : "87M2MJGR+HG"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJFzkfEaDM1IkR-b5YgXJFJfI",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "90 Danforth Avenue, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.67842929999999,
+               "lng" : -79.34858079999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.67977828029149,
+                  "lng" : -79.34723181970848
+               },
+               "southwest" : {
+                  "lat" : 43.67708031970849,
+                  "lng" : -79.3499297802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "BMO Bank of Montreal",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2353,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114842505477372159901\"\u003eChen Shaowei\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB9KVS5s_yfTSN44IKZ-5rErH2L15xHX5Ql8aJxwOEQJJX-9U3TMz7Xb3q6R4GmTyJC8HqEwS0sE1E_upMxorupzfoMRjiQC4InixUB8OZ_0H_NzGelVlFlztCNcSsH4BzulPEOYSZc9e26x7DcDtFDdRykJSWeDq5sa_4smcKyIt8C",
+               "width" : 4208
+            }
+         ],
+         "place_id" : "ChIJgUOMkZzM1IkRu9VG0A-miLc",
+         "plus_code" : {
+            "compound_code" : "MMH2+9H Toronto, ON, Canada",
+            "global_code" : "87M2MMH2+9H"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJgUOMkZzM1IkRu9VG0A-miLc",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 25,
+         "vicinity" : "518 Danforth Avenue, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6790469,
+               "lng" : -79.3450744
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6803958802915,
+                  "lng" : -79.34372541970851
+               },
+               "southwest" : {
+                  "lat" : 43.6776979197085,
+                  "lng" : -79.34642338029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "RBC Royal Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1632,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116124106043749090192\"\u003eAnthony Bernstein\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECENtIVrG867nAkv_6dMxd6pBW1H7SvK5t_2nwwvgRZ_ICDwDeOzYyVsHrrgkLNPxlUBdJ7j2HoUfbJwsMlMYVcKso0_CFXHipAfUrB9h7AFruD4LSZbeaZgl_GVAl1cZvBceZvjVuvEIVObwKp2p4AW0UlkqyuPvRNri8ykd179cqg",
+               "width" : 2464
+            }
+         ],
+         "place_id" : "ChIJtYsvnoTM1IkRO9VIlLKfcl8",
+         "plus_code" : {
+            "compound_code" : "MMH3+JX Toronto, ON, Canada",
+            "global_code" : "87M2MMH3+JX"
+         },
+         "rating" : 1.9,
+         "reference" : "ChIJtYsvnoTM1IkRO9VIlLKfcl8",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 46,
+         "vicinity" : "650 Danforth Avenue, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6685106,
+               "lng" : -79.3376366
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6698595802915,
+                  "lng" : -79.33628761970849
+               },
+               "southwest" : {
+                  "lat" : 43.6671616197085,
+                  "lng" : -79.33898558029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "RBC Royal Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116124106043749090192\"\u003eAnthony Bernstein\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB9gztvqzODQp24mOkyuOiIWnOGLStreTlSEf3zCiNlxZi3VBExDahXa5NxdmCY49-5Sq89H6mpAmQwGEgviRfseoj2dwCnJYEXuH_h55OfbIRJajsMstEbN4GsDMiyZ55jz7aLweznIp1UEoOJ7WGvqqgNxasWlRzLnGr_UaqKHA60",
+               "width" : 3872
+            }
+         ],
+         "place_id" : "ChIJM0q0LH_L1IkR8H13mwBrqu4",
+         "plus_code" : {
+            "compound_code" : "MM96+CW Toronto, ON, Canada",
+            "global_code" : "87M2MM96+CW"
+         },
+         "rating" : 2.7,
+         "reference" : "ChIJM0q0LH_L1IkR8H13mwBrqu4",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 53,
+         "vicinity" : "1011 Gerrard Street East, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.67815280000001,
+               "lng" : -79.3498525
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.67950178029151,
+                  "lng" : -79.3485035197085
+               },
+               "southwest" : {
+                  "lat" : 43.67680381970851,
+                  "lng" : -79.35120148029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "TD Canada Trust Branch and ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2272,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116124106043749090192\"\u003eAnthony Bernstein\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBDUTqP6XxZNy25pjYLO_Jwl61GisLF6vj29tjRtAEj2BYhq2U26KL8iq8Jv5cPdhNb5jc2CKF9AInKd4fg5s-X7Phnpxjek5OpqSCdsBJjvP1_woZZt51GaB2J5djMTJjTUKUr6APEn86z7qTpViz3W7vpPUPEfWmT_mnR3s1AcCnJ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJT759XpzM1IkR01dNgsHvwME",
+         "plus_code" : {
+            "compound_code" : "MMH2+73 Toronto, ON, Canada",
+            "global_code" : "87M2MMH2+73"
+         },
+         "rating" : 2.7,
+         "reference" : "ChIJT759XpzM1IkR01dNgsHvwME",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 23,
+         "vicinity" : "480 Danforth Avenue, Toronto"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6782656,
+               "lng" : -79.34742539999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6796919802915,
+                  "lng" : -79.34610411970849
+               },
+               "southwest" : {
+                  "lat" : 43.6769940197085,
+                  "lng" : -79.34880208029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "CIBC Branch with ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1079,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114452501601141533456\"\u003eThasan Amir\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBRQAFa6pCIXaP5sRIxnKlOSfDvPRdAZw5NNup7Qv82yq_KPsuw6NOUoi1kOI0BTdJFpKpu1F7rJW4FPBO9noRLJ5u4WQsLft-pGRL1qrV5Mg7H44Qu8Q-eO_kQ59UsUVP755gQ3_-CKf-vcB2oMfFs-NqilXcbNdDFExdgx-SthLP8",
+               "width" : 850
+            }
+         ],
+         "place_id" : "ChIJ2zpFfGDO1IkR4yy9xQwln_E",
+         "plus_code" : {
+            "compound_code" : "MMH3+82 Toronto, ON, Canada",
+            "global_code" : "87M2MMH3+82"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJ2zpFfGDO1IkR4yy9xQwln_E",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 24,
+         "vicinity" : "557 Danforth Avenue, Toronto"
+      }
+   ],
+   "status" : "OK"
+}

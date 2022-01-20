@@ -1,0 +1,759 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEDzrL8u-x41e-10ZOpz6FsQ2TPjGRRF9fXwV85DQT41V1v7JERnyiEMDVhkxI-06P8mwWJB7RtHZW3EiKfTlx4_rq4banEuvql0vj2tXGfSt-BdrzeEjoBoTHabxdXfV59jUkdEmITcyD0QddnozwoG-5aHlgrOmYiQKvW3_bO_mEOtA8p4IUoS1ZQUoaU0S-enxfCOl6Wr-biHT4Zr4hUCq9VCV_hJUYqJi15L1U8UrQr1C-htWv2WaLiIRt5oSVDWD53X1awCt7jSmIxO0gw_MaobOGy-Xp1QPuJW_4uC644CGtJoR5eIOcTuVMt-yb8GVCI_1Q44pEVkPze0l_TVjP8krHfrWiFt5QTQCDcCDVG0iJR2GIW4XcAlU4e-6z0GqEulejjxkwHescXASlSP5wsd3Ldu0zStU5lSreUncFKaXB8Pp7uMysXh6kBvVaYmlFlNNFNCRPDC2BjJqem_wayaaj_waEVMHvSwn12e_nQdoKYc8FdpBJCjf351ylASG74H7GxRr3bcdsIhtFi4ntTigN4La_vvda6UJUokvUBvsaR8K6ba0ImzTC2ySDKqaI-MVe6sNjP4kcxDGHKEQ71z3wPFtuumNxvnniGxtfH68lBjSwcaIHTytWse1DQB0yCVE2nbCc-U6cKrjfk3KlNg5wzyx3gBMLUi6---LTb0vstAzuL0SWGAE0PDIUPE5trWWle2Og4HqTLIxM_-z0_HdkUKUEgOgV2yWUbkwXuKfoLH5ysCheelYDF6AbE",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.99563699999999,
+               "lng" : -81.297882
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9970209302915,
+                  "lng" : -81.29655201970849
+               },
+               "southwest" : {
+                  "lat" : 42.9943229697085,
+                  "lng" : -81.29924998029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Sarnia at Wonderland EB - #1638",
+         "place_id" : "ChIJnbUWGyvwLogRFvxkVNDoce0",
+         "plus_code" : {
+            "compound_code" : "XPW2+7R London, ON, Canada",
+            "global_code" : "86JWXPW2+7R"
+         },
+         "rating" : 1,
+         "reference" : "ChIJnbUWGyvwLogRFvxkVNDoce0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.99477599999999,
+               "lng" : -81.300912
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.99615668029149,
+                  "lng" : -81.29958086970849
+               },
+               "southwest" : {
+                  "lat" : 42.9934587197085,
+                  "lng" : -81.3022788302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Sarnia at Chapman EB - #1648",
+         "place_id" : "ChIJcR5-5ivwLogREjo1VBZxCJ0",
+         "plus_code" : {
+            "compound_code" : "XMVX+WJ London, ON, Canada",
+            "global_code" : "86JWXMVX+WJ"
+         },
+         "reference" : "ChIJcR5-5ivwLogREjo1VBZxCJ0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.007611,
+               "lng" : -81.269936
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0089590802915,
+                  "lng" : -81.26856221970849
+               },
+               "southwest" : {
+                  "lat" : 43.0062611197085,
+                  "lng" : -81.27126018029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Talbot College NB - #1104",
+         "place_id" : "ChIJW_ZUFhfuLogRyjJBzstqkHk",
+         "plus_code" : {
+            "compound_code" : "2P5J+22 London, ON, Canada",
+            "global_code" : "86MW2P5J+22"
+         },
+         "reference" : "ChIJW_ZUFhfuLogRyjJBzstqkHk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.998104,
+               "lng" : -81.24558399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9994476802915,
+                  "lng" : -81.24425361970849
+               },
+               "southwest" : {
+                  "lat" : 42.9967497197085,
+                  "lng" : -81.24695158029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Colborne at Oxford NB - #",
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117574435572108708528\"\u003eAbdul Quader\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBNLZeeF3SDcZcJTycPUPwqTLU0h8VdkaZnKgDRnHw2pd5-SL-HjRyn9SfnQVmrnhjkSVKtYf2-GZwXN8Y1_3a5rVW2s3NjLPf_dp3PxT22GxRafgQ8gFEHs3CFGw02T5zOWqWH3t4ERI-rqIM3IHwB5UiY5h0EjZe3F2Ao5y0OUGll",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJvxGSR_ntLogRwnrGVKVX1iE",
+         "plus_code" : {
+            "compound_code" : "XQX3+6Q London, ON, Canada",
+            "global_code" : "86JWXQX3+6Q"
+         },
+         "reference" : "ChIJvxGSR_ntLogRwnrGVKVX1iE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.95870900000001,
+               "lng" : -81.260758
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9600483802915,
+                  "lng" : -81.25949301970849
+               },
+               "southwest" : {
+                  "lat" : 42.9573504197085,
+                  "lng" : -81.26219098029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Wharncliffe at Base Line NS NB - #2892",
+         "place_id" : "ChIJfSQ58ILxLogR6eLsV5F8ovg",
+         "plus_code" : {
+            "compound_code" : "XP5Q+FM London, ON, Canada",
+            "global_code" : "86JWXP5Q+FM"
+         },
+         "reference" : "ChIJfSQ58ILxLogR6eLsV5F8ovg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.999516,
+               "lng" : -81.24630399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.00085628029149,
+                  "lng" : -81.2449863697085
+               },
+               "southwest" : {
+                  "lat" : 42.99815831970849,
+                  "lng" : -81.24768433029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Colborne at St. James NB - #",
+         "place_id" : "ChIJF5Bt__vtLogRT5yXlgbkj5Y",
+         "plus_code" : {
+            "compound_code" : "XQX3+RF London, ON, Canada",
+            "global_code" : "86JWXQX3+RF"
+         },
+         "reference" : "ChIJF5Bt__vtLogRT5yXlgbkj5Y",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.999882,
+               "lng" : -81.246661
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.00124053029149,
+                  "lng" : -81.24527716970849
+               },
+               "southwest" : {
+                  "lat" : 42.99854256970849,
+                  "lng" : -81.24797513029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Colborne at St. James SB - #",
+         "place_id" : "ChIJSUgTBvztLogRT3KIeVikCr0",
+         "plus_code" : {
+            "compound_code" : "XQX3+X8 London, ON, Canada",
+            "global_code" : "86JWXQX3+X8"
+         },
+         "reference" : "ChIJSUgTBvztLogRT3KIeVikCr0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.001633,
+               "lng" : -81.24739
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0029742802915,
+                  "lng" : -81.24606936970849
+               },
+               "southwest" : {
+                  "lat" : 43.0002763197085,
+                  "lng" : -81.2487673302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Colborne at Grosvenor NB - #",
+         "place_id" : "ChIJYVfXY_ztLogRdAvK51o0qkE",
+         "plus_code" : {
+            "compound_code" : "2Q23+M2 London, ON, Canada",
+            "global_code" : "86MW2Q23+M2"
+         },
+         "reference" : "ChIJYVfXY_ztLogRdAvK51o0qkE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.00194099999999,
+               "lng" : -81.247725
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.00330193029149,
+                  "lng" : -81.24633246970849
+               },
+               "southwest" : {
+                  "lat" : 43.00060396970849,
+                  "lng" : -81.24903043029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Colborne at Grosvenor SB - #",
+         "place_id" : "ChIJe8vOivztLogR3NbrHMG7KJA",
+         "plus_code" : {
+            "compound_code" : "2Q22+QW London, ON, Canada",
+            "global_code" : "86MW2Q22+QW"
+         },
+         "reference" : "ChIJe8vOivztLogR3NbrHMG7KJA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.010028,
+               "lng" : -81.277456
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0113773802915,
+                  "lng" : -81.27608496970849
+               },
+               "southwest" : {
+                  "lat" : 43.0086794197085,
+                  "lng" : -81.27878293029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Western at Elgin SB - #2889",
+         "place_id" : "ChIJhUqxRzzuLogRfmGCiFb__QI",
+         "plus_code" : {
+            "compound_code" : "2P6F+22 London, ON, Canada",
+            "global_code" : "86MW2P6F+22"
+         },
+         "reference" : "ChIJhUqxRzzuLogRfmGCiFb__QI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.956915,
+               "lng" : -81.261072
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9582597802915,
+                  "lng" : -81.25972256970849
+               },
+               "southwest" : {
+                  "lat" : 42.95556181970851,
+                  "lng" : -81.26242053029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Commissioners at Wharncliffe WB - #2814",
+         "place_id" : "ChIJ4XNDdnjxLogRpjWGXez4C50",
+         "plus_code" : {
+            "compound_code" : "XP4Q+QH London, ON, Canada",
+            "global_code" : "86JWXP4Q+QH"
+         },
+         "reference" : "ChIJ4XNDdnjxLogRpjWGXez4C50",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.003593,
+               "lng" : -81.24857399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.00495428029149,
+                  "lng" : -81.24718006970851
+               },
+               "southwest" : {
+                  "lat" : 43.00225631970849,
+                  "lng" : -81.24987803029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Colborne at Cheapside SB - #",
+         "place_id" : "ChIJDUf72vztLogRF6P-KGF3fyY",
+         "plus_code" : {
+            "compound_code" : "2Q32+CH London, ON, Canada",
+            "global_code" : "86MW2Q32+CH"
+         },
+         "reference" : "ChIJDUf72vztLogRF6P-KGF3fyY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.01069299999999,
+               "lng" : -81.27753
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.01204338029149,
+                  "lng" : -81.27615131970849
+               },
+               "southwest" : {
+                  "lat" : 43.0093454197085,
+                  "lng" : -81.27884928029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Western at Wellington Dr FS SB - #2891",
+         "place_id" : "ChIJnzUgOzzuLogR4HC0W6LTCo0",
+         "plus_code" : {
+            "compound_code" : "2P6C+7X London, ON, Canada",
+            "global_code" : "86MW2P6C+7X"
+         },
+         "reference" : "ChIJnzUgOzzuLogR4HC0W6LTCo0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.95673799999999,
+               "lng" : -81.259968
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.95813273029149,
+                  "lng" : -81.25862271970848
+               },
+               "southwest" : {
+                  "lat" : 42.9554347697085,
+                  "lng" : -81.2613206802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Commissioners at Wharncliffe FS EB - #2813",
+         "place_id" : "ChIJmXcdgXjxLogRn65mhcDcsms",
+         "plus_code" : {
+            "compound_code" : "XP4R+M2 London, ON, Canada",
+            "global_code" : "86JWXP4R+M2"
+         },
+         "reference" : "ChIJmXcdgXjxLogRn65mhcDcsms",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.95706,
+               "lng" : -81.258284
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9584063302915,
+                  "lng" : -81.25693481970849
+               },
+               "southwest" : {
+                  "lat" : 42.9557083697085,
+                  "lng" : -81.2596327802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Commissioners at Highland WB - #2807",
+         "place_id" : "ChIJG_wkCYLxLogRQm_yISb1qQI",
+         "plus_code" : {
+            "compound_code" : "XP4R+RM London, ON, Canada",
+            "global_code" : "86JWXP4R+RM"
+         },
+         "reference" : "ChIJG_wkCYLxLogRQm_yISb1qQI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.011232,
+               "lng" : -81.263469
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0125575302915,
+                  "lng" : -81.26216091970849
+               },
+               "southwest" : {
+                  "lat" : 43.0098595697085,
+                  "lng" : -81.2648588802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Richmond at Bernard NB - #2870",
+         "place_id" : "ChIJtTLbDRLuLogRAd7UJP99g2Y",
+         "plus_code" : {
+            "compound_code" : "2P6P+FJ London, ON, Canada",
+            "global_code" : "86MW2P6P+FJ"
+         },
+         "reference" : "ChIJtTLbDRLuLogRAd7UJP99g2Y",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.95706999999999,
+               "lng" : -81.252776
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9584705802915,
+                  "lng" : -81.25143126970849
+               },
+               "southwest" : {
+                  "lat" : 42.9557726197085,
+                  "lng" : -81.2541292302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Commissioners at Carnegie EB - #2802",
+         "place_id" : "ChIJVf3yEIDxLogR5zDg_PcqVRQ",
+         "plus_code" : {
+            "compound_code" : "XP4W+RV London, ON, Canada",
+            "global_code" : "86JWXP4W+RV"
+         },
+         "reference" : "ChIJVf3yEIDxLogR5zDg_PcqVRQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.957299,
+               "lng" : -81.25202
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9586071302915,
+                  "lng" : -81.2506658197085
+               },
+               "southwest" : {
+                  "lat" : 42.9559091697085,
+                  "lng" : -81.25336378029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Commissioners at Carnegie WB - #2803",
+         "place_id" : "ChIJC6U3CoDxLogRcFj03yGqbXE",
+         "plus_code" : {
+            "compound_code" : "XP4X+W5 London, ON, Canada",
+            "global_code" : "86JWXP4X+W5"
+         },
+         "reference" : "ChIJC6U3CoDxLogRcFj03yGqbXE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.01318800000001,
+               "lng" : -81.26558799999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0145257802915,
+                  "lng" : -81.26425946970849
+               },
+               "southwest" : {
+                  "lat" : 43.0118278197085,
+                  "lng" : -81.2669574302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Richmond north of Raymond NB - #1502",
+         "place_id" : "ChIJ2xbk_RLuLogR3O_rNWgRVMI",
+         "plus_code" : {
+            "compound_code" : "2P7M+7Q London, ON, Canada",
+            "global_code" : "86MW2P7M+7Q"
+         },
+         "reference" : "ChIJ2xbk_RLuLogR3O_rNWgRVMI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.005588,
+               "lng" : -81.242502
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0069246302915,
+                  "lng" : -81.2411469697085
+               },
+               "southwest" : {
+                  "lat" : 43.0042266697085,
+                  "lng" : -81.2438449302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+         "name" : "Cheapside at William WB - #369",
+         "place_id" : "ChIJCw9AEuXtLogRJgPeCa_a4tY",
+         "plus_code" : {
+            "compound_code" : "2Q44+6X London, ON, Canada",
+            "global_code" : "86MW2Q44+6X"
+         },
+         "reference" : "ChIJCw9AEuXtLogRJgPeCa_a4tY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Canada"
+      }
+   ],
+   "status" : "OK"
+}

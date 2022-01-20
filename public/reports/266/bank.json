@@ -1,0 +1,649 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.62279760000001,
+               "lng" : -113.6056324
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6241900802915,
+                  "lng" : -113.6043835197085
+               },
+               "southwest" : {
+                  "lat" : 53.62149211970851,
+                  "lng" : -113.6070814802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Scotiabank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111252995738516951595\"\u003ealee x\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAqhrzkpRxqY6B_nGUjKVdDNqJgAK2ipAWRQ9rsUUqFiCGVwH60RRcDDaDnHnV8Yn8IGSVhmMzLneD3eXoDKg189iwbcBFg-rnfxiU2ZuqNud73gu_zTqT0Rcqua_yJoXlRFACroGcEtQMeRuVpEvLjSAwGnSCZttp0_iltjMJmShRG",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJD_onNiskoFMRiaDexn65EVg",
+         "plus_code" : {
+            "compound_code" : "J9FV+4P St. Albert, AB, Canada",
+            "global_code" : "9558J9FV+4P"
+         },
+         "rating" : 2.8,
+         "reference" : "ChIJD_onNiskoFMRiaDexn65EVg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 18,
+         "vicinity" : "2 Hebert Road, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.64500509999999,
+               "lng" : -113.6237297
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6463984802915,
+                  "lng" : -113.6225120697085
+               },
+               "southwest" : {
+                  "lat" : 53.6437005197085,
+                  "lng" : -113.6252100302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "RBC Royal Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113296863808221813931\"\u003eTLCAPTURE\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBhLH6RR4i4cia_g2y9XjKnehQBaectTvNEfiQzBxHOsNVbHVNichxfbPjengfPk83B7JVHVlvIvw_dqV11TOoAsqorCT325RsAZDjTL2l_wVCGE0fkqwaRmwVTiOIGJvhzm-D_OQoQOZvPCAmMfuszzBw08iQyDhKBC2VCir6n1ayd",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJvdDg4OYloFMRbsH9tWD1Nec",
+         "plus_code" : {
+            "compound_code" : "J9WG+2G St. Albert, AB, Canada",
+            "global_code" : "9558J9WG+2G"
+         },
+         "rating" : 2.5,
+         "reference" : "ChIJvdDg4OYloFMRbsH9tWD1Nec",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 44,
+         "vicinity" : "11 Bellerose Drive, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.66203059999999,
+               "lng" : -113.6339146
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.66348763029149,
+                  "lng" : -113.6324228197085
+               },
+               "southwest" : {
+                  "lat" : 53.66078966970849,
+                  "lng" : -113.6351207802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "TD Canada Trust Branch and ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110913176596194789683\"\u003eTD Canada Trust Branch and ATM\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECL3B3IAmgwi-pJxqbcDsAv0gnZIOUwinfvOEQkm5rDTUhJJfOu4CBCA_NG5CV0QpcwNQMfvSjwCSMavMjiVw7Btg9j3zzhb4KH1PTXLmDwdmnBxikMt3OaruyPi7f9Wc-RNuxv7KayuC6UwGliuHP0UQovqGiWZXYssqwHp2kcNxhN",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJGxmcBfgloFMR8ilb9d28qwk",
+         "plus_code" : {
+            "compound_code" : "M968+RC St. Albert, AB, Canada",
+            "global_code" : "9558M968+RC"
+         },
+         "rating" : 4,
+         "reference" : "ChIJGxmcBfgloFMR8ilb9d28qwk",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 23,
+         "vicinity" : "760 Saint Albert Trail Suite 100, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6532813,
+               "lng" : -113.6301499
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6546414802915,
+                  "lng" : -113.6286167197085
+               },
+               "southwest" : {
+                  "lat" : 53.6519435197085,
+                  "lng" : -113.6313146802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "CIBC Branch with ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 901,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111414643026113302707\"\u003eRomeo Llenes Jr.\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBkzxnm_g9w_QE7W_WtVu5guNP6AeRi2arAATNUIMP7XjHtTcB4nzrWO_5s_YwMivmc0XAqjB5nYAyzC45SR9GxqFpCgEKMlw10yZ7tiqNNssLQX6zrhezY36YXmPkwCtPjAumDsrZXGzB4zTD-itfYn1GppsOkKaC7XricO4daJ_RK",
+               "width" : 1603
+            }
+         ],
+         "place_id" : "ChIJOTQ5P_sloFMRYU9hUK8Vqyc",
+         "plus_code" : {
+            "compound_code" : "M939+8W St. Albert, AB, Canada",
+            "global_code" : "9558M939+8W"
+         },
+         "rating" : 2.9,
+         "reference" : "ChIJOTQ5P_sloFMRYU9hUK8Vqyc",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 31,
+         "vicinity" : "590 Saint Albert Trail Unit 200, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.659882,
+               "lng" : -113.6316272
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.66072173029151,
+                  "lng" : -113.6301330697085
+               },
+               "southwest" : {
+                  "lat" : 53.65802376970851,
+                  "lng" : -113.6328310302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "ATB Financial",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102708440469233216216\"\u003eATB Financial\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAoVCcVB3gIjB7OkojAR6jMdRuzBGFnNRTGTeeDS0eSTN3WHCLzxPFViudWQLg3RFSODSMLZbolduEUfk-rXOGnFS6WofhuqVwwjuqLI910VRT3cJBARK3COBe0W2aHjv77SDIXv3ftuqdPUYVMIZVXIGSRDZbksj2vW65dEFi9Uhgz",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ-TDPOvsloFMRSk-cNLYA3LM",
+         "plus_code" : {
+            "compound_code" : "M959+X8 St. Albert, AB, Canada",
+            "global_code" : "9558M959+X8"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJ-TDPOvsloFMRSk-cNLYA3LM",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20,
+         "vicinity" : "350-700 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.62347889999999,
+               "lng" : -113.6045171
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.62493388029149,
+                  "lng" : -113.6033150697085
+               },
+               "southwest" : {
+                  "lat" : 53.62223591970849,
+                  "lng" : -113.6060130302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "CIBC Branch with ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108187587142826351572\"\u003eKev P\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC32FS_rAjRunIzJfl95Jt0u92hCLx7w6Bj7CBIqaRL4t9H3K_awFfKyzm7jQxx6yJxTA2vC_-KySeTPlgXcLuEI-WIX7JiDGKotPPvtHLWXiSIl_uRSCVRwXNf-BKoXc_Hk54VVTyzEHdnVeITqte_8xA0U4NSUaW0nNeqahLjrUAD",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJk-1eKdUloFMRanqeUsYpbNs",
+         "plus_code" : {
+            "compound_code" : "J9FW+95 St. Albert, AB, Canada",
+            "global_code" : "9558J9FW+95"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJk-1eKdUloFMRanqeUsYpbNs",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 25,
+         "vicinity" : "10 Hebert Road Building 100, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.619895,
+               "lng" : -113.60776
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6213252302915,
+                  "lng" : -113.6065293697085
+               },
+               "southwest" : {
+                  "lat" : 53.6186272697085,
+                  "lng" : -113.6092273302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "ATB Financial",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100651028723119131717\"\u003eATB Financial\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEABH4j107kZReU4Xic_JXZ6mR5mgjev7WBqkLESXU-2zQhr7pKfZWW9uNlsVI_ccUj_Y8oEs9hMS84LNLFrh_TKyFIrFzMBgszE7zeqWaOcHgZbmCmmPUBDijRlhZTph3nk6njWt_p699IAxugngCvMDfbUCjqwq4icbVwNIBvJRPNm",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJLQuP7SokoFMRXXCnNzlAcNg",
+         "plus_code" : {
+            "compound_code" : "J99R+XV St. Albert, AB, Canada",
+            "global_code" : "9558J99R+XV"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJLQuP7SokoFMRXXCnNzlAcNg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "Market, 5515 Tudor Glen, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6443567,
+               "lng" : -113.6273417
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6456844302915,
+                  "lng" : -113.6258000697085
+               },
+               "southwest" : {
+                  "lat" : 53.6429864697085,
+                  "lng" : -113.6284980302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "BMO Bank of Montreal",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1810,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101728822948513079044\"\u003eJohn Van Hal\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAu5hkQKQSG6OqDOxAHUGCgsUuvKw_WHen2_qSgpvNAQj-FCWm9BuqOKXK5SZuVd0Uw_BCWI6zZsr26scw9OdKt97jQ3sjFltbHv68H84oPxdurSIwYTIuhGZ4-QnGhSvaZpUKxU4pyS9xljWPCofJmRM1bVP7nAf6t_Tb4LLALlMCQ",
+               "width" : 3130
+            }
+         ],
+         "place_id" : "ChIJhQ305-AloFMRbebo0gKORnk",
+         "plus_code" : {
+            "compound_code" : "J9VF+P3 St. Albert, AB, Canada",
+            "global_code" : "9558J9VF+P3"
+         },
+         "rating" : 2.8,
+         "reference" : "ChIJhQ305-AloFMRbebo0gKORnk",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 36,
+         "vicinity" : "394 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.65496539999999,
+               "lng" : -113.6289312
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.65632523029149,
+                  "lng" : -113.6274140697085
+               },
+               "southwest" : {
+                  "lat" : 53.65362726970849,
+                  "lng" : -113.6301120302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Scotiabank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111252995738516951595\"\u003ealee x\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAfvQC5EimyA5dus7UuSTwv-LM4zMsRfZ928BPWeREbGE80lm2OC0yYL9hDeGunLZJveQNBHdNgKUxpn8vnixTNo-5UdviOIUvDk4DrykjiZlwwDQaAb3Ng7_yGJ49WI0BRft07YrpKYuhdRKIQgM7ofDsApzsrAu9KOZYH4-gHqiy_",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJmY0vAPsloFMRhNUpovlEdec",
+         "plus_code" : {
+            "compound_code" : "M93C+XC St. Albert, AB, Canada",
+            "global_code" : "9558M93C+XC"
+         },
+         "rating" : 3,
+         "reference" : "ChIJmY0vAPsloFMRhNUpovlEdec",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 27,
+         "vicinity" : "20-615 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.659396,
+               "lng" : -113.631485
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6607718802915,
+                  "lng" : -113.6298761697085
+               },
+               "southwest" : {
+                  "lat" : 53.6580739197085,
+                  "lng" : -113.6325741302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Canadian Western Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111252995738516951595\"\u003ealee x\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAOmTNYVpD7hG5CsDvVwleQdzg6OpuV7z4urZ7TqxfNl0h62B1VwBlHO4j-b9XO975FfgdRZJt_Yu7FSFytz0MSPz_rEi08R2WgBH2_k3z_r-84ux7_Otb6TTRUZf8NXI10IQhsnk43lvwDFFqmob2mujkkarH0kWn2J07Gl4lTsXsx",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ-y9kqt8loFMR2L-55Mt8VPM",
+         "plus_code" : {
+            "compound_code" : "M959+QC St. Albert, AB, Canada",
+            "global_code" : "9558M959+QC"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ-y9kqt8loFMR2L-55Mt8VPM",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "300-700 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6478733,
+               "lng" : -113.6267424
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6491286302915,
+                  "lng" : -113.6254452197085
+               },
+               "southwest" : {
+                  "lat" : 53.6464306697085,
+                  "lng" : -113.6281431802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "TD Canada Trust Branch and ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 385,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104851171257693385857\"\u003eᑭᑌしᏆᏦᗴᑎ\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECOKAlgSo4hYQA2DazAaplul_aXQm7my91ZbJZaxUCWEapR8-aYBrFqp-AHCsoJXrj1ku2TqC9WbekAmopAwvH60_RXEMeR7t8xdhNoDQ82my3eOf_9n7XLMSUKFa-CwoCW-SRCEw2qlYFId08wDOr9QQYc65FbWzF7GKOuGbx2yglR",
+               "width" : 836
+            }
+         ],
+         "place_id" : "ChIJp33uDuQloFMRoQB2j-l59yc",
+         "plus_code" : {
+            "compound_code" : "J9XF+48 St. Albert, AB, Canada",
+            "global_code" : "9558J9XF+48"
+         },
+         "rating" : 2.6,
+         "reference" : "ChIJp33uDuQloFMRoQB2j-l59yc",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 46,
+         "vicinity" : "11 Inglewood Drive, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6507832,
+               "lng" : -113.6163196
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6521069302915,
+                  "lng" : -113.6147865197085
+               },
+               "southwest" : {
+                  "lat" : 53.6494089697085,
+                  "lng" : -113.6174844802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "ATB Financial St Albert Boudreau",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 962,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105641949445962876295\"\u003eATB Financial St Albert Boudreau\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAGOXxAyC9Kmc3RmP-JIznuVD04YvX8ZcbN6dRahO7TTy89SgTZ1CdAOlXUnfscdfVgaQXeOOvpv-Vo1dzEAjK8jjAom2sEwdPKf7yNlMJk15iSaznBPqeKw0GGjrppgmanaX_Y3q8AvM85Mz7QahK4CZML7AW8kQe4lvK4GceCFr3p",
+               "width" : 2016
+            }
+         ],
+         "place_id" : "ChIJw6vrWbYloFMRyUoQV4MitQo",
+         "plus_code" : {
+            "compound_code" : "M92M+8F St. Albert, AB, Canada",
+            "global_code" : "9558M92M+8F"
+         },
+         "rating" : 5,
+         "reference" : "ChIJw6vrWbYloFMRyUoQV4MitQo",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 19,
+         "vicinity" : "150 Bellerose Drive #108, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6684077,
+               "lng" : -113.6314442
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.66971503029149,
+                  "lng" : -113.6298926197085
+               },
+               "southwest" : {
+                  "lat" : 53.6670170697085,
+                  "lng" : -113.6325905802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "President's Choice",
+         "place_id" : "ChIJu2hmcFkvoFMRz-p3RWaCF5w",
+         "plus_code" : {
+            "compound_code" : "M999+9C St. Albert, AB, Canada",
+            "global_code" : "9558M999+9C"
+         },
+         "reference" : "ChIJu2hmcFkvoFMRz-p3RWaCF5w",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Everitt Drive North"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.67033899999999,
+               "lng" : -113.637992
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6715749802915,
+                  "lng" : -113.6365574197085
+               },
+               "southwest" : {
+                  "lat" : 53.6688770197085,
+                  "lng" : -113.6392553802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "RBC Royal Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111252995738516951595\"\u003ealee x\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECvrFGBJ6APR5CzLvRiuXYyde0UsI63UNh3zTQTVQLxJG26mUFXjLw3eKVe4D0EVdXHD8Mm1Jie7Mmfakn5QiqCfDvu5eZ8Rm1r_wcvA5KbejqHrf4G8tpoPqcJUM-EPavCeMxw3KcJZPLhDDEMskOHmeTcwPw9MiMRIiorms1JdtQt",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ5aY9e1ovoFMRL7okE_zty4M",
+         "plus_code" : {
+            "compound_code" : "M9C6+4R St. Albert, AB, Canada",
+            "global_code" : "9558M9C6+4R"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ5aY9e1ovoFMRL7okE_zty4M",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "1055 Saint Albert Trail, St. Albert"
+      }
+   ],
+   "status" : "OK"
+}
