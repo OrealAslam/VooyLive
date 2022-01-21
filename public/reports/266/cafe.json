@@ -1,0 +1,971 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEB64fO1MjJjjj9sCjq3rFB269RE_frBztCUz3jWRxVbF0g71QniWlQWKCjiMo66HPiakfMvNttCThGVhE6GYlCf40aiVD3rLDRmqcGZpBOjUy3Lm5Hyh_kCLCcuY1PpDrBESKKpILsrkmS3t9nBzqaDvhBFqt9M7JAwjfsKkOTZy9Bf89gHvGygX9d3hiqfdgzcv5H1JmRpaUc-WNSaQTiKSK2IFB9ZxzXZiKL5H8sR3VFsxDvGiyhK-8XxONgFuKH0h0zl06R3-1nM_9RjY0b9SEu34tGkHKv1IS-hkU2sklZ3T8jcAhIlT5dQGZMluudTnN7mauhH7xpYYFBUkVnxfdiIIdy01qOkj-yhRtjoFNnZYThM4EMzs26OS2-ZhiDxbYKgQentWP0_jsEy14u2uK17Oxj8LvkyZJWRk6HZ45rkoXmtCjZNYQHIgrZXlWWpLeYMSohgI4uf2LHUv47VSPHvsmOmVu4mCFUH0dEHOx5s6lPeji5BLaz-GAbSZiSvSo2g7JJYTXW8HE24ROmqL0CkT2oZnnLglYKGKgATl6F-PO_cvitpdO6XslsWdaVbYqTJSw5g1_Mlb9jZwNBfJ-4S4RO7UAE3UmCNe-sZBox15yykAzP_IFQymOpwsspg4D3GCEj4QLzkNxqknSn6U98SUuBTGRBkUqPHrzAKbWMVVVoFtEF21ao9XmWUBFZ52ZYnTPBBsV5--zIUSK7JAY2H8wQxvG2oE80Ivffcl9aMuMqb1F7IRQ",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.63888490000001,
+               "lng" : -113.6239356
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.64019483029151,
+                  "lng" : -113.6223034697085
+               },
+               "southwest" : {
+                  "lat" : 53.63749686970851,
+                  "lng" : -113.6250014302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107620504582196260098\"\u003eKirk Dewhurst\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBp9acIfEF4r7VpkWAakoFXjSRZeEb1Ipp1QXltu7diWcnNkj5VuNRuSs2FUBKw-sFoSmDY9rmtvqxmdobJTY8pvKs4cIbBpofwikTfm9UBk9gboxWJFJd_IW2fQBvlaFqvMlYrLF4RmrM8iF_sf4Rw7iGpeFXHnz2FxhCJQ2GSuTql",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJrUFyL3YmoFMRSIkAo5i6zXI",
+         "plus_code" : {
+            "compound_code" : "J9QG+HC St. Albert, AB, Canada",
+            "global_code" : "9558J9QG+HC"
+         },
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "ChIJrUFyL3YmoFMRSIkAo5i6zXI",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 843,
+         "vicinity" : "369 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.62935770000001,
+               "lng" : -113.6286462
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6307786302915,
+                  "lng" : -113.6273686697085
+               },
+               "southwest" : {
+                  "lat" : 53.6280806697085,
+                  "lng" : -113.6300666302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Whisk Bakeshop & Coffeehouse - St. Albert",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112667339674223703622\"\u003eWhisk Bakeshop &amp; Coffeehouse - St. Albert\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDm_jDVyWWMZGl-K0xhYYiqEKnR6SpGf9c6VIQuW2ZOBleCN6hrG7uyFKsvW75jDxW8NZ9atETYDMp0MFYv47OjhWMyrpzGiZ7x_HkkCuhOQUeLubZ2k84GuSEI4BpwL5pR8FHFyZHXv4eC43FKGrJpgh07wXKhDmAWfUdSygvOQHw7",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJZ-Sc1IsmoFMRbdlGaWDEDiE",
+         "plus_code" : {
+            "compound_code" : "J9HC+PG St. Albert, AB, Canada",
+            "global_code" : "9558J9HC+PG"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJZ-Sc1IsmoFMRbdlGaWDEDiE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bakery",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 105,
+         "vicinity" : "1 Tache Street, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6450682,
+               "lng" : -113.6256755
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6462441302915,
+                  "lng" : -113.6240228697085
+               },
+               "southwest" : {
+                  "lat" : 53.6435461697085,
+                  "lng" : -113.6267208302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101296424140077909982\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDGlYKOcOVSVHbM2wwSNQ2LXuuxvsYet-k86BL1RY1fZcuPjdDdK8_izWor_0qDXn_9WxhLsLXwMSu5U8_7AKNebStgT-VaDbnpnfbVEIsnIJBrqCtgnBFn9TEQSiqd0TkOEE4iueisoE-nedN2eLFcfutNQ3SghYfsC4TyYE08ADs8",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJvebe2OAloFMRThbS6jSZnBQ",
+         "plus_code" : {
+            "compound_code" : "J9WF+2P St. Albert, AB, Canada",
+            "global_code" : "9558J9WF+2P"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJvebe2OAloFMRThbS6jSZnBQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 52,
+         "vicinity" : "Safeway Grocery Store, 395 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6454919,
+               "lng" : -113.6233015
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.64692683029149,
+                  "lng" : -113.6219797697085
+               },
+               "southwest" : {
+                  "lat" : 53.64422886970849,
+                  "lng" : -113.6246777302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103713022655766910945\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDxJ_7Lb3Q2CvY55gUg5nG8eJXjN6q8oK_FJ_IgRzAh0Q__rtcMZIQJtEkt-u7X3CUbq-CTnz6aeRsrCQcklx_lu5KwDakP_UWgQZ8wSrhmYiO0003oWeLq6uFnyWBRviyhV927wEKHEe2tLnDc86rANiaKWSQIhddI1RB-K7HRf0AP",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJaQXywOYloFMRoHFHkP3APwY",
+         "plus_code" : {
+            "compound_code" : "J9WG+5M St. Albert, AB, Canada",
+            "global_code" : "9558J9WG+5M"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJaQXywOYloFMRoHFHkP3APwY",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 132,
+         "vicinity" : "48-11 Bellerose Drive, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6502952,
+               "lng" : -113.6158142
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6517095802915,
+                  "lng" : -113.6145938197085
+               },
+               "southwest" : {
+                  "lat" : 53.6490116197085,
+                  "lng" : -113.6172917802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Good Earth Coffeehouse",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100702767097263506975\"\u003eTina Moreau\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBf0JU53qCJI-1NeXtdGUtnAlsngk9AjWhIOOF_T5HtEkXqDqEuvrtbUUjwnGIBJTgmJguRkU-2rJK9g_E43zm9XGJpyI1Pac3YD3pTs_FnFRgGha1avWNGdo8BoJxnIDuFVFC2f8b3r9mULEpci_3wxlfXVaIqRLIjlUFTjIV5bT7D",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJk253J-8loFMRc9WVK95C2kM",
+         "plus_code" : {
+            "compound_code" : "M92M+4M St. Albert, AB, Canada",
+            "global_code" : "9558M92M+4M"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJk253J-8loFMRc9WVK95C2kM",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 178,
+         "vicinity" : "130 Bellerose Drive, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.66884940000001,
+               "lng" : -113.6368961
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.67010663029151,
+                  "lng" : -113.6354834697085
+               },
+               "southwest" : {
+                  "lat" : 53.66740866970851,
+                  "lng" : -113.6381814302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104812130288261426345\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAp_lrnt-AmqEyF56j50D16S-j6BQVzhOTJLWRqzr-N0pSHyQA5A1WAiEW9tfIaazvKLiTyKBER0NCuu1Tpq4mRYa0PGWqfC6zffLYXqHkpVZ1hzHtJoVWfFydfRraryiKPc-fAAuPMMCCctyBNEWl9vX5UV7hLqM_A-wt6QJ11FLlp",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJn6pJAPgloFMRglJEfHrvVKE",
+         "plus_code" : {
+            "compound_code" : "M997+G6 St. Albert, AB, Canada",
+            "global_code" : "9558M997+G6"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJn6pJAPgloFMRglJEfHrvVKE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 228,
+         "vicinity" : "405-935 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6327017,
+               "lng" : -113.6249223
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.63414133029151,
+                  "lng" : -113.6233141697085
+               },
+               "southwest" : {
+                  "lat" : 53.63144336970851,
+                  "lng" : -113.6260121302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "St. Albert Vape Shop - Saint City Vapes - Vape Store",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115922013510342501811\"\u003eAzam Ayoob\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECo8yaJfOqwwn4EF6OVXlV40zxO8pUlr6oi3Yb9Y6J6HPhvP6n5vJ19oO2aaNGwSwVL-AzTu5cTr6wEkN0iH9pbPwCY6Zep7JxYv38Rjy-SpVgtIz_hpr6lDtWxpQMDYnclKsoH30laHgV7wZVgBGmmvZP4jvs93RrLrP1SXXQgq0R_",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJtXddxXcmoFMRoZ60sz_1jgM",
+         "plus_code" : {
+            "compound_code" : "J9MG+32 St. Albert, AB, Canada",
+            "global_code" : "9558J9MG+32"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJtXddxXcmoFMRoZ60sz_1jgM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 39,
+         "vicinity" : "102-50 Saint Thomas Street, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.64453049999999,
+               "lng" : -113.5752657
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.64606343029149,
+                  "lng" : -113.5740188197085
+               },
+               "southwest" : {
+                  "lat" : 53.6433654697085,
+                  "lng" : -113.5767167802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100185482302348626036\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED-MqRDckaOK2gIbeFcApThQjremHCCRggJh01mFMMbYdRQbDHMO12Qgosxlc_eYzoeGegjHz9VpVx4D-HtOdzgmY2QAIEBy3RZtdrspapVgez3lNTs6UbyMJ-XEqxZVPDDRJo59u50Wh3RmmCzVMAChEtWLKzCIVY_B9DC_a4He1ka",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ5_eY6KQloFMRPK-7cH7HnH8",
+         "plus_code" : {
+            "compound_code" : "JCVF+RV St. Albert, AB, Canada",
+            "global_code" : "9558JCVF+RV"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ5_eY6KQloFMRPK-7cH7HnH8",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 37,
+         "vicinity" : "400 Campbell Road, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6218268,
+               "lng" : -113.6112999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.62314973029151,
+                  "lng" : -113.6100038697085
+               },
+               "southwest" : {
+                  "lat" : 53.62045176970851,
+                  "lng" : -113.6127018302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113262235244100989532\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED5knXggvCSboIVFRD_E6L7Er1MUJjs7f6f1JcN2oJRjGu64XmMIfbvIuGh2GIJURs_gtp1cFooMAiucYk6lLEVIxM4LrhJ-S8jNF3R0USFliKe3nHC1nCw3zB-6UiVU_FRLJfLbSEeHRoQLwKwVn_3VHx7Q4wN0sUxzfkm9oPxuSLp",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJaygDTOEloFMR_TzM0yN-T1I",
+         "plus_code" : {
+            "compound_code" : "J9CQ+PF St. Albert, AB, Canada",
+            "global_code" : "9558J9CQ+PF"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJaygDTOEloFMR_TzM0yN-T1I",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 364,
+         "vicinity" : "140 St. Albert Trail, 600 Village Landing, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6546432,
+               "lng" : -113.6301364
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6556452302915,
+                  "lng" : -113.6286986197085
+               },
+               "southwest" : {
+                  "lat" : 53.6529472697085,
+                  "lng" : -113.6313965802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101248468365094758219\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAR2ti2xoGSuXxNydx_y0RqgR5C9DOOduRQXntZMcCSCMgxSJMlzPp_SnApmMCuzHOY6KqznVzkMOSRc4DPDpbuyjy7K1orzLOGeRZoX5VJjKS9ors9P7eJihhvkN8VmOy7XWmDsYz_Bw7QSRJzmKJMGedYNOY7iMCCf9_ORnNz-ZBg",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJaTtjb_sloFMRDWF5_JxjG90",
+         "plus_code" : {
+            "compound_code" : "M939+VW St. Albert, AB, Canada",
+            "global_code" : "9558M939+VW"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJaTtjb_sloFMRDWF5_JxjG90",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 232,
+         "vicinity" : "5 Giroux Road Unit 520, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.646196,
+               "lng" : -113.622493
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6475151302915,
+                  "lng" : -113.6212873197085
+               },
+               "southwest" : {
+                  "lat" : 53.6448171697085,
+                  "lng" : -113.6239852802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Second Cup Café featuring Pinkberry Frozen Yogurt",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 315,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116631901765276115397\"\u003eSecond Cup Café featuring Pinkberry Frozen Yogurt\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECG8d7f1wSD1VAIajWexKRT2hYqN4wlfVHS4po2rg92HQKSPFSPIWd6dwds7qd2Bh5wxK25uyP5m6r-OivjeMSrS1fJZleGPE6x0lToYRdwbp6DKg5Tg7BZgnFq6WXEsJHf1YNhdWfqACMvavzrrCRMardvshqyhO5QTzCfHUguNikZ",
+               "width" : 850
+            }
+         ],
+         "place_id" : "ChIJTaVI5OYloFMRVCln_3QB6c8",
+         "plus_code" : {
+            "compound_code" : "J9WH+F2 St. Albert, AB, Canada",
+            "global_code" : "9558J9WH+F2"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJTaVI5OYloFMRVCln_3QB6c8",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 195,
+         "vicinity" : "19 Bellerose Drive #30, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.61938019999999,
+               "lng" : -113.6072217
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6207291802915,
+                  "lng" : -113.6058727197085
+               },
+               "southwest" : {
+                  "lat" : 53.6180312197085,
+                  "lng" : -113.6085706802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 427,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115236234198300024078\"\u003ePatricia Ash\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBzaKbOb3P3aMlb2FF62q7w0CEijjHIAFOki74nU0QhQPdAPQ1W0QydS7q42JRgv6BGyk_otO5VrrNDM6LeseTd91abICgrsgdczPETouxXSRUp0EHV2q6VUm7mvfDYw98q-gwtGvcfTgjrLlO9kbtms5wRk9GkP6YsNTXSZjbeO9yy",
+               "width" : 528
+            }
+         ],
+         "place_id" : "ChIJf2xcWSokoFMRy-KtcDuXhSo",
+         "plus_code" : {
+            "compound_code" : "J99V+Q4 St. Albert, AB, Canada",
+            "global_code" : "9558J99V+Q4"
+         },
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "ChIJf2xcWSokoFMRy-KtcDuXhSo",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1155,
+         "vicinity" : "10 Galarneau Place, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.63255049999999,
+               "lng" : -113.6254304
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.63389948029149,
+                  "lng" : -113.6240814197085
+               },
+               "southwest" : {
+                  "lat" : 53.6312015197085,
+                  "lng" : -113.6267793802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "La Crema Caffe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101675377847436552687\"\u003eLa Crema Caffe\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDgEhiMuE9kqa8ntRc8weVk8_4Zml2UPV6K9FN2vgTpBeLvQTAjiQVPgHrzbetf_77BSGL1-_p6fiHd2LIAJxAEFE90xN-R4-8dRBZOxXYHF35EC6zn1dsj5NR0yiJ15p1-c2nP13B6bcZLQ1ePHJpzjIU1cBqJkCfpCPFUairAQU5E",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJYyxV7kEjoFMRWPVpEL8-m7A",
+         "plus_code" : {
+            "compound_code" : "J9MF+2R St. Albert, AB, Canada",
+            "global_code" : "9558J9MF+2R"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJYyxV7kEjoFMRWPVpEL8-m7A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 236,
+         "vicinity" : "44 Saint Thomas Street, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6559555,
+               "lng" : -113.6281994
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.65730098029151,
+                  "lng" : -113.6269518197085
+               },
+               "southwest" : {
+                  "lat" : 53.65460301970851,
+                  "lng" : -113.6296497802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Perks Coffe House",
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101031945280239405641\"\u003eMichael Lam\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDAiwgHvqHBtC0Eq9l1WVn2VUOMZsiMUMhU3GeKDTrj63ALGZ6ec2n0yUmaJoGeRamz02suLRwOgavYOTnoKnCOHW2RoNtAckf0lGZSyqmDtf_Yz6cp8jFFtZDroMc5Ghcv_dFzTtXvji8dZdPQDz9RaeDBl2cQHOmVTV-kRK64rPae",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJkUvsXfoloFMR4gYYSesM1HE",
+         "plus_code" : {
+            "compound_code" : "M94C+9P St. Albert, AB, Canada",
+            "global_code" : "9558M94C+9P"
+         },
+         "rating" : 5,
+         "reference" : "ChIJkUvsXfoloFMR4gYYSesM1HE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6462744,
+               "lng" : -113.6253829
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6477166302915,
+                  "lng" : -113.6241039697085
+               },
+               "southwest" : {
+                  "lat" : 53.6450186697085,
+                  "lng" : -113.6268019302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115191743756842829402\"\u003eErica Myles\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAT55Ssz8iAjNPkqKhetjSwkfE3aKtALRzZmY0l_nKJaw75plCnXZ87Btvoyd-WfxUC0qz9RCD64hlHJYODVRzeqdhrJ-zI4VszgsA0VMXEK9C9ISD4v3G8a-KoVnlpfjhvUzr32-c0q7Yp2mxmjGeUh_f6KQHDQ20y8NZTaS0pQitM",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJaygDTOEloFMRK-vnxby_YFI",
+         "plus_code" : {
+            "compound_code" : "J9WF+GR St. Albert, AB, Canada",
+            "global_code" : "9558J9WF+GR"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJaygDTOEloFMRK-vnxby_YFI",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 117,
+         "vicinity" : "30-445 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.658269,
+               "lng" : -113.631229
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6597820802915,
+                  "lng" : -113.6299279197085
+               },
+               "southwest" : {
+                  "lat" : 53.6570841197085,
+                  "lng" : -113.6326258802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111721376375869346104\"\u003ebond0700 b\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDfiK0msQFrYCx3cJ_TszkRUbNhzM1Ntx7G4manIXn5kuE9SyqJ33K5o_ZMhJfq5dCDSwjeuiITmKJUIGYu621D3omI8sWpYjyRpveoDrnrXI5JBB3S2FeiTjN180YbwtzUAqkpHxHm3GQkCuq7dzvHoOc9eeljafB2AxUpzQvjGcxm",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJoVlyWowloFMR6eSbGY3-GeA",
+         "plus_code" : {
+            "compound_code" : "M959+8G St. Albert, AB, Canada",
+            "global_code" : "9558M959+8G"
+         },
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "ChIJoVlyWowloFMR6eSbGY3-GeA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 656,
+         "vicinity" : "702 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6448415,
+               "lng" : -113.6255873
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.64615808029149,
+                  "lng" : -113.6239787697085
+               },
+               "southwest" : {
+                  "lat" : 53.6434601197085,
+                  "lng" : -113.6266767302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Signature Cafe",
+         "place_id" : "ChIJqxfRK-EloFMR-ksBdEWlVVc",
+         "plus_code" : {
+            "compound_code" : "J9VF+WQ St. Albert, AB, Canada",
+            "global_code" : "9558J9VF+WQ"
+         },
+         "reference" : "ChIJqxfRK-EloFMR-ksBdEWlVVc",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Canada"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6500452,
+               "lng" : -113.6167468
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.65145363029151,
+                  "lng" : -113.6153142697085
+               },
+               "southwest" : {
+                  "lat" : 53.64875566970851,
+                  "lng" : -113.6180122302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Italian Bakery's Mercato",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110186720569914044038\"\u003eDe66ee Gerrard\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBQvxF6zdcCSVYxcwMJQXEgV0isrAOmiWwdN1cdanPSmXPsDJjILyOvJkRgHGpYabzqPGlh0HY-jK2WQH6sBDIU9ulIbxzPaNmJfqBbiHKu_smUHZmfo4VoK-8adJxI52P3uPStUYC6VVoBYGgmU1O_kJPmTIWaeyh-Uiumg-tsvUnx",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ07ZL5e4loFMR1qoyG1y8bAQ",
+         "plus_code" : {
+            "compound_code" : "M92M+28 St. Albert, AB, Canada",
+            "global_code" : "9558M92M+28"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ07ZL5e4loFMR1qoyG1y8bAQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1339,
+         "vicinity" : "120 Bellerose Drive, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6412597,
+               "lng" : -113.6262839
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6425375302915,
+                  "lng" : -113.6251692197085
+               },
+               "southwest" : {
+                  "lat" : 53.6398395697085,
+                  "lng" : -113.6278671802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Wok House",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115251948196525412518\"\u003eEthen Huang\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBiJr8j5Bt-tv6Mei_S1tRdtXVghCWQddEKpQ51mjsfVw5qMCUFMXDhSTZrBXO7pw0tDtq3Wtsa6mTkszANSSTSn7ikdiVzoHj9rTkV_NMzA_iHti97lHicJNqwPgpock8Z031W9lSJ2QjYC7vsVbpCVlFmNHW5hgbDrsBzWBxUaYSd",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJLwsRzmIloFMRMlUtR05BH0c",
+         "plus_code" : {
+            "compound_code" : "J9RF+GF St. Albert, AB, Canada",
+            "global_code" : "9558J9RF+GF"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJLwsRzmIloFMRMlUtR05BH0c",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 88,
+         "vicinity" : "388 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.63913959999999,
+               "lng" : -113.6425478
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.64051043029149,
+                  "lng" : -113.6410332697085
+               },
+               "southwest" : {
+                  "lat" : 53.6378124697085,
+                  "lng" : -113.6437312302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Tealicious Blend",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3269,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104445645742399613650\"\u003eTealicious Blend\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEACwWT_WcnjyW-fXAahNP5YM15QgPZlU3ujfNdbzY0tSSOs0voRTjE54WCi-vuk-bxbgdAZ4cpgJO5LFVaVYwzK7zzN9JztF0BtcBI-eJT2NFt30W2YORpX8XIO_biMbcW4Xir_Y4NX_tdfvi-QXKUDxIGyQWa3eC6y_vCMbdfCB9u1",
+               "width" : 2798
+            }
+         ],
+         "place_id" : "ChIJ00zn0rInoFMRWDaO19X4xag",
+         "plus_code" : {
+            "compound_code" : "J9Q4+MX St. Albert, AB, Canada",
+            "global_code" : "9558J9Q4+MX"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJ00zn0rInoFMRWDaO19X4xag",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 21,
+         "vicinity" : "36 Langley Avenue, St. Albert"
+      }
+   ],
+   "status" : "OK"
+}

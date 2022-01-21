@@ -1,0 +1,901 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEAT5x8P4PZO9rdkwjtNYSdrVFmBjlvliTEa_Kx9bkof41CyBh7atm73j8JKOVZSJXx3-5cpiia5lZngKE1iPGhPchklb_GBdSmCAcpunBqABT5zKzHHwygqokzzyvoesTXd68eufFM1WiTgwpEutDAD8fqXJJ67iznOtA9N7U4STe5cabQiWHp44eN9QwonDUUsrHHvoYF_9CGQ-xxmAOe04EkpKGall9VWgiv27hPlScRf0iruQeQZ2_QgT1_6J9sXEbGbbB0yjOQ888EGvT1Dh3Xmy-1l07_MJ2RkshjvDUiNoQN-Ts_Wiq5lvY4WHh0VzNS9mlHGrIIwcR-Uhv_AxGWH3x0tcwtbPk-n5KZTD-ZIqjTi-IJTMGaJ87iOt6VJOSTDY5xKahrl2jVZElnfBnFBFffgAoQjg0uHBv04OXkkc8ug7Lobsap29hu-o0LMFQLLN_6kaBVq_l_sNqQgMw4uEERTMTAvzsTxBjqDJatmifjB7jY0S-fholtd920K5bmD1af9j8jv0VNIt2B2IILyu9X6KhwKyl-Iio1TfXiaaeN9wXqBfLRpI_1Mvm1hrQdw2W0seg1WV2YdJtLttBPbh3HQK5PSdHRJtlcE0TmLnQKDdMoo7mU3Qz2e8oFmNtQEZWcQorxLzqdhFygoPOYF6nLEs7qfOeCjR3but6FJjG_nt51Q3HpgMFaNbti5BdUgroNvwTqv-Y6Dg2niwwmyJfAjIn-_S4_rE2j0AFByTGvCS9Qjyw",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.95906329999999,
+               "lng" : -81.2604576
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.96044663029149,
+                  "lng" : -81.2591175197085
+               },
+               "southwest" : {
+                  "lat" : 42.9577486697085,
+                  "lng" : -81.2618154802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "CIBC Branch with ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104597518737972623133\"\u003eShane Shane\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDxvEi3uv-kRQPiW3R158G-AHHh3SjljjWL7YNJXK07VvG8hTuZIdlyxDgWs4t9Bhe0G0T-N-wL9muJ4popaLWIKXPsb9f9PtzSQMyWWE-40iq0oAnB_Bn12SRo7Xrxp6JDZIhBMOThk2bh8oPdrUFi4Qk35XtNICD7GfhrrFL-Rp1A",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ2SHG_YLxLogRwliVVe9MGNU",
+         "plus_code" : {
+            "compound_code" : "XP5Q+JR London, ON, Canada",
+            "global_code" : "86JWXP5Q+JR"
+         },
+         "rating" : 3,
+         "reference" : "ChIJ2SHG_YLxLogRwliVVe9MGNU",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "1 Base Line Road East, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.985714,
+               "lng" : -81.25179100000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.98695903029149,
+                  "lng" : -81.2498311697085
+               },
+               "southwest" : {
+                  "lat" : 42.9842610697085,
+                  "lng" : -81.25252913029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "RBC Royal Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108860057967585270902\"\u003eSwift YT\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBVra5u0xMsCHYSXoTgSGLiutjYnxVt8oRhgX71BO6m3gba54G2vouBZjTAEvzscC5T8HlOLgIGSKLZfopgZDONCwGiDffMXu2-M_SE3sGq1bJEXsRVFJhlAH4OwTs8_hBBvJh3hkAHy-KoCq6wyvIeEBijs2ILimNheNl9D7urZORO",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJwc5XAR3yLogR1G1JwNoNflc",
+         "plus_code" : {
+            "compound_code" : "XPPX+77 London, ON, Canada",
+            "global_code" : "86JWXPPX+77"
+         },
+         "rating" : 2.6,
+         "reference" : "ChIJwc5XAR3yLogR1G1JwNoNflc",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 30,
+         "vicinity" : "142 Fullarton Street, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.9902147,
+               "lng" : -81.2750956
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9914373802915,
+                  "lng" : -81.2736856197085
+               },
+               "southwest" : {
+                  "lat" : 42.9887394197085,
+                  "lng" : -81.27638358029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Scotiabank",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105549592172917600246\"\u003eMarcin Tandecki\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDPv9vtZZjlCdCxUAFnONu4lyvw1Cmf6VCXNO9n6treoV1__D54IWJFA-bkkl4thycy2n2Ag1k-_IId_2oV92POE3o-DZ_8fzY-QYUXjOq_prbCmC7w_oUBS0S75OSQnigJEjjDNMsxcP3_tlk5fdQJbvfP9r01iKHmpEHZSCOLNSao",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJG1aKJ8_IW0ARsjxGsXHChzU",
+         "plus_code" : {
+            "compound_code" : "XPRF+3X London, ON, Canada",
+            "global_code" : "86JWXPRF+3X"
+         },
+         "rating" : 3,
+         "reference" : "ChIJG1aKJ8_IW0ARsjxGsXHChzU",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 35,
+         "vicinity" : "Cherryhill Village Mall, 301 Oxford Street West, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.02778869999999,
+               "lng" : -81.27717059999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.02919663029149,
+                  "lng" : -81.27585281970849
+               },
+               "southwest" : {
+                  "lat" : 43.0264986697085,
+                  "lng" : -81.2785507802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "CIBC Branch with ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114139513564127006348\"\u003eMosul Habibaty\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECbzMUUG7ceAUtb8Bcq4QWBNBJGtS--BFb3No5_QdlllHXZsVPv6JlOXJphfd7_cderLlsTadhXgeoeYPCmVg75WpO4XgI1PQIqJP2ymwIts6wkomKg_4uHaWl5hJWMCx21jy9qnjf8meiMuLbHYotR2e56rsalWISdyLWGERcX6lde",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJEZHpoGvwLogRXoaMf6LUauI",
+         "plus_code" : {
+            "compound_code" : "2PHF+44 London, ON, Canada",
+            "global_code" : "86MW2PHF+44"
+         },
+         "rating" : 2.9,
+         "reference" : "ChIJEZHpoGvwLogRXoaMf6LUauI",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 37,
+         "vicinity" : "97 Fanshawe Park Road East, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.9707078,
+               "lng" : -81.25235549999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9720760802915,
+                  "lng" : -81.25114546970849
+               },
+               "southwest" : {
+                  "lat" : 42.9693781197085,
+                  "lng" : -81.25384343029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "TD Canada Trust Branch and ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109789679313844160052\"\u003eMichael Prentice\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDrrGU-hOyyOPguWGx1GMfPT5lcvkYtmAm_B58BESZkXgnJnmi006RCHR3IAL4JdmB35JYVnu9KrYx2LS23DyQ6YMHwLr2Ktjb2YDjgS0Bo8prXi3IdGaXuXE4aApv3qOekDFHL6nSqqGlySYfPbfgpi41TkpziIVy4rjJsvP0VM5HZ",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJRTOX_4nxLogRqTMVseCsstk",
+         "plus_code" : {
+            "compound_code" : "XPCX+73 London, ON, Canada",
+            "global_code" : "86JWXPCX+73"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJRTOX_4nxLogRqTMVseCsstk",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 19,
+         "vicinity" : "191 Wortley Road, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.95720799999999,
+               "lng" : -81.26115899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9585343302915,
+                  "lng" : -81.2596996697085
+               },
+               "southwest" : {
+                  "lat" : 42.9558363697085,
+                  "lng" : -81.2623976302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "RBC Royal Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118036210328689305702\"\u003eMat Scott\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA2V91_JCE_Gl8voqNNtsR3oO2j_2rla_-Jg93SA2RwywXcqthFr3gs61wiMpnd-xg_DEniZuYlh4B_HeZ3uZz7eZUXtmoSo9j3caPpyXnp3DVJ6vnEt4u2yZ29PQaj4CdahWWA_f8SIB8Sv2SVj9sDpecmFiHPn4tD98SHETWfkpyi",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJcwO9g4LxLogR7Ib3YJNQPLY",
+         "plus_code" : {
+            "compound_code" : "XP4Q+VG London, ON, Canada",
+            "global_code" : "86JWXP4Q+VG"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJcwO9g4LxLogR7Ib3YJNQPLY",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 34,
+         "vicinity" : "515 Wharncliffe Road South, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.984203,
+               "lng" : -81.244362
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9859743302915,
+                  "lng" : -81.2432363197085
+               },
+               "southwest" : {
+                  "lat" : 42.98327636970851,
+                  "lng" : -81.24593428029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "National Bank Financial",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113866726797417016360\"\u003eNational Bank Financial\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC7N0y3pyFmCl8t4W7Wklv0TnfsvshqvIubjzIcGd-ESMqAM_IWDmiEbK6c1uXIr2pePkq2Ci0Oi-y4zmf8gnb9cHU426sw9EG1KDdkJdf40jXEKSh31XQVGPegGMjMtCMAJxLYGvqI7s0FJZs0o0AOxey9UinLsZRTmYu0aXj7YOf9",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJOwNCMBvyLogReK8b-Z2QwpY",
+         "plus_code" : {
+            "compound_code" : "XQM4+M7 London, ON, Canada",
+            "global_code" : "86JWXQM4+M7"
+         },
+         "rating" : 2.7,
+         "reference" : "ChIJOwNCMBvyLogReK8b-Z2QwpY",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "802-380 Wellington Street, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.9851298,
+               "lng" : -81.2522822
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9864239802915,
+                  "lng" : -81.25090601970851
+               },
+               "southwest" : {
+                  "lat" : 42.9837260197085,
+                  "lng" : -81.25360398029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "VersaBank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJR2CN8PfxLogRqWcRM2eRFgw",
+         "plus_code" : {
+            "compound_code" : "XPPX+33 London, ON, Canada",
+            "global_code" : "86JWXPPX+33"
+         },
+         "rating" : 3,
+         "reference" : "ChIJR2CN8PfxLogRqWcRM2eRFgw",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "140 Fullarton Street, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.985629,
+               "lng" : -81.24675359999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.98695618029149,
+                  "lng" : -81.24549921970849
+               },
+               "southwest" : {
+                  "lat" : 42.98425821970849,
+                  "lng" : -81.2481971802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Scotiabank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109165540377732512970\"\u003eJ M\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBiH3d-A4P_9H6ejCSiV-fLghF87gDSbHGDXOrqZ0ZZ31fcLF_qff0hIyTL0h-r5l_5BX-3TFRWuEjGF0yf-0HFOS3OURxFReftkp7DCGy9zgFcivLGShJrB2JatVSMNGHCzACjf5mZMdAL2Z1k8owDTRBe_uWtOkgMlODflcnARLx-",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJAQdsWQPyLogR9iYqMF7CBts",
+         "plus_code" : {
+            "compound_code" : "XQP3+77 London, ON, Canada",
+            "global_code" : "86JWXQP3+77"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJAQdsWQPyLogR9iYqMF7CBts",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11,
+         "vicinity" : "255 Queens Avenue, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.9851257,
+               "lng" : -81.2457151
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9865340302915,
+                  "lng" : -81.24427671970849
+               },
+               "southwest" : {
+                  "lat" : 42.9838360697085,
+                  "lng" : -81.2469746802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "BMO Private Bank",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117118034465751492656\"\u003eEric Bilodeau\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDQoU6HAlb-mmdvq-_rZsGnj1SOz2fjMcHBC6utNqVcpmZkWV2Lf0pdymIHscDlTgv6_zPMP3ypxSTIYUNEk1Kdu9d0Ru624mluFfsI48KlvaWwkWv5zA9k5Mx5RNvaDPo2n6nEvBL15fu9e7bu5lU9lLBV_W0j28GZSpRtUiQt-sgn",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ18j_WwPyLogRXacPL3O8Nmk",
+         "plus_code" : {
+            "compound_code" : "XQP3+3P London, ON, Canada",
+            "global_code" : "86JWXQP3+3P"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ18j_WwPyLogRXacPL3O8Nmk",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "London Place, One, 2560-255 Queens Avenue, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.9840081,
+               "lng" : -81.24530469999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9852628302915,
+                  "lng" : -81.24374691970849
+               },
+               "southwest" : {
+                  "lat" : 42.9825648697085,
+                  "lng" : -81.24644488029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "CIBC Branch with ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100514230004284224196\"\u003eBasil Paul\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAuGke787Jfu-0zJTlMjOQVT9NJi2F7cCLcwgi_gF3S0Dc-nz96oU21k9tQGNxvbiUc5g6TbOiyLS2KP4jF_3dyi0AlxY1HtXk5B1Os7cH2HP4er9PRmwFw5LybglvZeUVSE6orxvl7spZd7NFnyJW6jWC7GMFYd92dVqz1djjhL9uW",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJWzVpEZbzLogRO_16YV_9f9Y",
+         "plus_code" : {
+            "compound_code" : "XQM3+JV London, ON, Canada",
+            "global_code" : "86JWXQM3+JV"
+         },
+         "rating" : 2.8,
+         "reference" : "ChIJWzVpEZbzLogRO_16YV_9f9Y",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 33,
+         "vicinity" : "355 Wellington Street Unit 117, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.98417939999999,
+               "lng" : -81.24441949999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.98595393029149,
+                  "lng" : -81.2432954697085
+               },
+               "southwest" : {
+                  "lat" : 42.98325596970849,
+                  "lng" : -81.24599343029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Business Development Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJOwNCMBvyLogRb1lsXUKuIiU",
+         "plus_code" : {
+            "compound_code" : "XQM4+M6 London, ON, Canada",
+            "global_code" : "86JWXQM4+M6"
+         },
+         "reference" : "ChIJOwNCMBvyLogRb1lsXUKuIiU",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "380 Wellington Street, London"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.9841535,
+               "lng" : -81.24386040000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9858020802915,
+                  "lng" : -81.24311296970851
+               },
+               "southwest" : {
+                  "lat" : 42.9831041197085,
+                  "lng" : -81.24581093029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "TD Canada Trust Branch and ATM",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 2000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109923687955551010853\"\u003eMrKimagic\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAhCwXt91y3Uhh-6RKkl6g5jIskmlouelfCdD4gSE6jT9yHqOvQjaxJrOBWxdsHgSq2rjFZKZHzYBT75HVCIII2zWKBQQfV2ZxoCISGOExavubcZ2xSL40zeBDCA2Sh7su2_7sTQfA5kBNbSyKkrjiHSEsTqhLb6vdCzuNnuxFUkPmV",
+               "width" : 3008
+            }
+         ],
+         "place_id" : "ChIJzeAbMxvyLogRYg7t5d33wvY",
+         "plus_code" : {
+            "compound_code" : "XQM4+MF London, ON, Canada",
+            "global_code" : "86JWXQM4+MF"
+         },
+         "rating" : 4,
+         "reference" : "ChIJzeAbMxvyLogRYg7t5d33wvY",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "275 Dundas Street Unit 6, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.98787799999999,
+               "lng" : -81.244348
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9892588802915,
+                  "lng" : -81.2430295197085
+               },
+               "southwest" : {
+                  "lat" : 42.9865609197085,
+                  "lng" : -81.24572748029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "National Bank Financial",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107586646497329885709\"\u003eNational Bank Financial\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEChKxJHJxKMMXfXf2ptFI3a1dwf1ZyKKiIDX-6xLPB3A5OJ5xTHmgboYw9L22YFD7Gv3DvGB_k3Q-X2DtmUu3wCJVTssjeASWzsr9G1GVleKAyb-KZx5oJagZ5_8L4PvuKgTNbN-yCnEAiTi9Ry5F5DaUppdw3hznU4TvZuVu5J6Njt",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJCTUOTwTyLogRilY7KRIw60g",
+         "plus_code" : {
+            "compound_code" : "XQQ4+57 London, ON, Canada",
+            "global_code" : "86JWXQQ4+57"
+         },
+         "rating" : 4,
+         "reference" : "ChIJCTUOTwTyLogRilY7KRIw60g",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "256 Pall Mall Street Unit 201, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0082828,
+               "lng" : -81.2608764
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0096761802915,
+                  "lng" : -81.2595514697085
+               },
+               "southwest" : {
+                  "lat" : 43.0069782197085,
+                  "lng" : -81.26224943029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "TD Canada Trust Branch and ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103319406549028834957\"\u003eTD Canada Trust Branch and ATM\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBPOWfpbVSpkH_ULaSujwTHwoz44cKLCE-qJ4ShPOfwhU_leSBtlBLcln4kRgc9z59B55R4BpxeRkhmplPlSo7MtvTMyAktuOG4qD4j2eOneOjhHjGVEbXeSTOuMSsdlzQV9fcaAXYBxCWZ5riqq6atDrmWL1wScmYyTRxzzfaVutHW",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJxelWRQ7uLogRiihapiiAOKE",
+         "plus_code" : {
+            "compound_code" : "2P5Q+8J London, ON, Canada",
+            "global_code" : "86MW2P5Q+8J"
+         },
+         "rating" : 4,
+         "reference" : "ChIJxelWRQ7uLogRiihapiiAOKE",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "1137 Richmond Street, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0033563,
+               "lng" : -81.3030696
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0047787302915,
+                  "lng" : -81.30176526970851
+               },
+               "southwest" : {
+                  "lat" : 43.0020807697085,
+                  "lng" : -81.30446323029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "TD Canada Trust Branch and ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117614425118363043573\"\u003eSammy Imeri\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB-5dywbyo62h9qI-b2OzKp_a4vaqGU4THGSCdDKJL9VxN49jzIrgoRQh3IMHuGHLziyYFFxGsj2TaUQwKU3IHeUWdPXmnzaANDgKaAH2g57VI3FB97nMlxCdBd4-eJOKa7PDITuvGvhMuDK2qOQFMBLXqA2Ez2uCWg5fARm9DSCk_w",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJhXrvy9bvLogR-nC-WujIOJ8",
+         "plus_code" : {
+            "compound_code" : "2M3W+8Q London, ON, Canada",
+            "global_code" : "86MW2M3W+8Q"
+         },
+         "rating" : 2.5,
+         "reference" : "ChIJhXrvy9bvLogR-nC-WujIOJ8",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 41,
+         "vicinity" : "1055 Wonderland Road North, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.97637899999999,
+               "lng" : -81.32292199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9775391802915,
+                  "lng" : -81.32147641970849
+               },
+               "southwest" : {
+                  "lat" : 42.9748412197085,
+                  "lng" : -81.3241743802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "President's Choice Financial Pavilion and ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJMU32RmnwLogRlBwPVjbUcDg",
+         "plus_code" : {
+            "compound_code" : "XMGG+HR London, ON, Canada",
+            "global_code" : "86JWXMGG+HR"
+         },
+         "reference" : "ChIJMU32RmnwLogRlBwPVjbUcDg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "1205 Oxford Street West, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.9619412,
+               "lng" : -81.231697
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9632537802915,
+                  "lng" : -81.23032796970848
+               },
+               "southwest" : {
+                  "lat" : 42.9605558197085,
+                  "lng" : -81.23302593029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "TD Canada Trust Branch and ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107352494752062102574\"\u003esharath kotha\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBrRK9_BQP6KDz5lMCwPw5qi-iy5yd-nuuv2nYZ52fXwAJURG_iejx61v0aTOepXOaru1qBwW23iSgRJsh6cN1uOL8d5OJSmSXkLQNDvUukRIhFZH4fNye-5aPIoLL1UVTxyy9K-7kG40Khb-UirPD-Q0qiV3Tm3UlYlQc7GPmYBxHA",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJPzUyTTbyLogRYcvMVzUXrr0",
+         "plus_code" : {
+            "compound_code" : "XQ69+Q8 London, ON, Canada",
+            "global_code" : "86JWXQ69+Q8"
+         },
+         "rating" : 3,
+         "reference" : "ChIJPzUyTTbyLogRYcvMVzUXrr0",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 30,
+         "vicinity" : "353 Wellington Road, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.9749606,
+               "lng" : -81.32441369999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9761559302915,
+                  "lng" : -81.3229761697085
+               },
+               "southwest" : {
+                  "lat" : 42.9734579697085,
+                  "lng" : -81.3256741302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "TD Canada Trust Branch and ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110848838014002868939\"\u003eWe are OCUS - 3\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECFJkQzYzop4eedGhqjwVHz0eZm8vQYKE6V61SuCt9jfWVJngZYN6qUe9PZoa4ONtv1FOb2fFARmaUlyzXiY8zgKVIPumN15h-tBu54YPrFBF6Ey2_tfjXvb5M-1_27-4hE6fFi1c8a_8ovCZFLq-8QDLGLQbf5Bl_Swe9xrGjsPo1A",
+               "width" : 4200
+            }
+         ],
+         "place_id" : "ChIJ5_znxm7wLogRtI-rnVdZXps",
+         "plus_code" : {
+            "compound_code" : "XMFG+X6 London, ON, Canada",
+            "global_code" : "86JWXMFG+X6"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJ5_znxm7wLogRtI-rnVdZXps",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 22,
+         "vicinity" : "1213 Oxford Street West, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.001669,
+               "lng" : -81.22712
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0030245302915,
+                  "lng" : -81.22575296970849
+               },
+               "southwest" : {
+                  "lat" : 43.0003265697085,
+                  "lng" : -81.22845093029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "President's Choice Financial Pavilion and ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJuQq8o43tLogR_exJeGvEFdc",
+         "plus_code" : {
+            "compound_code" : "2Q2F+M5 London, ON, Canada",
+            "global_code" : "86MW2Q2F+M5"
+         },
+         "rating" : 2.7,
+         "reference" : "ChIJuQq8o43tLogR_exJeGvEFdc",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "825 Oxford Street East, London"
+      }
+   ],
+   "status" : "OK"
+}

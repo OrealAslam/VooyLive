@@ -1,0 +1,997 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEApxeANC4elk7vjKK5-L-7bOzoLR6W4Zoi3B_D8Xs38jx4mR4sImRSTvQHakss088XMq7P-gpJ-6ogR66VHlSKWX6YShoxmdozn9tM7-O3E6Oili5FeykiYXGfA48uam-OCkZ_C6P5asVae8c_xy3hdvhDfDtSIH0S5YvOrxulQS7I96TPvtTab47SfJMIA6obT4XSn33eEJYZFLTtmVee47MO6cyPIR5SXCxpLjnmeL05lFdUKy56YttgFZcChqc-84l0iFVGTq4fdmdD5G9lcEkQkxgrzB-fxcMfkrs7A0N9UlJ0S7KAa22yje-Y8DnVIDGMOkMMn_TFxRT58NIM9tICGAD__OaZPgV_gPiCygUJYZKZaVBzJQDJQjX7VReBt39YGKM34AQgg5_w7AQFXxFBeCrmC9BD1dfxoVfiqXtswXvwz43ElC84UZfGFmCVLQEAtwgPFXPVW4TUaG3zbnYr5AovHUBl2tbclh2XyrCIcQIhYZAmZ4xDvfz9cUPoCJL669qkFczC6vcGBh36HZLu8NlVO--U6jj_MI8W28ZxXqSU9FgE6iTV_b9wOxdTw1lUddNky-Q6rTXyjfi3NUrlPlkMmJkQrs91KIzRuXxBqtzLDu8G9BKt8iFm2Pc0sRuucM3EJviWnLSZq_50e1zpFSf_5M-pzgfNtACaM1KBDZFqNehP7MnjpqTXsG_f5RzM5GQ6MlxEnKdQFPj3QLr8wt-oYrChbVgwOttFsausI-Ilzdm8dmmCVlVIo2Q",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6475708,
+               "lng" : -113.6287455
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.64914613029151,
+                  "lng" : -113.6272322197085
+               },
+               "southwest" : {
+                  "lat" : 53.64644816970851,
+                  "lng" : -113.6299301802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111252995738516951595\"\u003ealee x\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEChHRPA1fufFQLgFcuMxeT7geTI0oaovqGG113mSZJlXLmWyx_0QpC2t1iLB8dKgLPTU9t9EN_hRxj7rfpBgnHO2cycph9vHrmAYJ6BIzJvrY4qU0ts-i2S1kS6P2pa5BZ83qmpX7Y3SgVmO_VM6hhgBVs2VhBOzeFqyO-wDkKz2q7l",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ9RuSCeQloFMRAlJ9qx4Id5Q",
+         "plus_code" : {
+            "compound_code" : "J9XC+2G St. Albert, AB, Canada",
+            "global_code" : "9558J9XC+2G"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJ9RuSCeQloFMRAlJ9qx4Id5Q",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 469,
+         "vicinity" : "470 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.622735,
+               "lng" : -113.6070453
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6240043802915,
+                  "lng" : -113.6058190197085
+               },
+               "southwest" : {
+                  "lat" : 53.6213064197085,
+                  "lng" : -113.6085169802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107007304788474243100\"\u003eLori Boyer\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAUmXdDwAXPKTnqszey9DfOR29l9lF9dfIz84VNITMdr85aZZfNDce4Ig7b-XPyQR2jAWa5yx3puRq_OIv3asv6P7PRD3moQw1eloH1jFA7PTf85Fl3XaYxSYXi9wyApwpCD7VgvVHMfoKj1wwYq6HbVKfWCEFrg_43EeDWl_FUUajL",
+               "width" : 3121
+            }
+         ],
+         "place_id" : "ChIJy7vyKyskoFMRsY-eIQKdgdY",
+         "plus_code" : {
+            "compound_code" : "J9FV+35 St. Albert, AB, Canada",
+            "global_code" : "9558J9FV+35"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJy7vyKyskoFMRsY-eIQKdgdY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 347,
+         "vicinity" : "800-2 Hebert Road, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6550926,
+               "lng" : -113.6302373
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6564041302915,
+                  "lng" : -113.6286670697085
+               },
+               "southwest" : {
+                  "lat" : 53.6537061697085,
+                  "lng" : -113.6313650302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3984,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103940228822152744472\"\u003eSugar Packet\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECzhPcpJ48d8_7Jl2mozlDoWGaMtmocXRCQpWcGDYFH6NXf7fuOQ27vwzHQGe-RSnEGLZxUFSGQxqYTqFrvwNubMQ9tn4OHDs6OLrJwWZD2nIOFGwq5NfyUedw-4xfDmZkODTty5w9I0I0vexrdjdFzTwo-CNJhPeAGi9oHsm6Kry4e",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJaTtjb_sloFMRPAQQI_pCwmQ",
+         "plus_code" : {
+            "compound_code" : "M949+2W St. Albert, AB, Canada",
+            "global_code" : "9558M949+2W"
+         },
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "ChIJaTtjb_sloFMRPAQQI_pCwmQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 175,
+         "vicinity" : "5 Giroux Road Unit 430, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.64984399999999,
+               "lng" : -113.629277
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6512180802915,
+                  "lng" : -113.6282044697085
+               },
+               "southwest" : {
+                  "lat" : 53.6485201197085,
+                  "lng" : -113.6309024302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Nello’s",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2176,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109289601780180862094\"\u003eNello’s\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBpbLVrnItO3ffSamAcV9eShHQfNDxYaqFWhraIGw4WMLZXBG0MhqTvk_TUIthSUEFkeLTEb4M8_L9e1l_0OuThlgN6TbdLD4hoeukYg-mxstNuLyiI9fd1pH1lB0ODBLvQJj0KIHaILdRb1l2u0g5pD1qnel2QjteumHOv_HE7KtqD",
+               "width" : 3872
+            }
+         ],
+         "place_id" : "ChIJPZD1h-QloFMRAC4fJsF5Fr8",
+         "plus_code" : {
+            "compound_code" : "J9XC+W7 St. Albert, AB, Canada",
+            "global_code" : "9558J9XC+W7"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJPZD1h-QloFMRAC4fJsF5Fr8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 475,
+         "vicinity" : "512 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6250957,
+               "lng" : -113.6167419
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.62663543029151,
+                  "lng" : -113.6149737697085
+               },
+               "southwest" : {
+                  "lat" : 53.62393746970851,
+                  "lng" : -113.6176717302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Boston Pizza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107350840298940171626\"\u003eScott Kohel\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECc6If-n3CuKmENMWpL7axbGpOHQsLDXg-WqftISLaVCh-g5eKq-W_JXTNI2LG4G4PbuGtpFaZGyjVEtopmHHJ_72t0VAkgqFYVEyy3PPJwhBJc5w5GZRZGPExkrJCK573epAyIgNuZgms2BULvwCSmp2w2c_wicKRWZn99LMSHeJs5",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJdaTh9NUloFMRSW5LtwgIWuc",
+         "plus_code" : {
+            "compound_code" : "J9GM+28 St. Albert, AB, Canada",
+            "global_code" : "9558J9GM+28"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJdaTh9NUloFMRSW5LtwgIWuc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 517,
+         "vicinity" : "200 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6486933,
+               "lng" : -113.6286267
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6500422802915,
+                  "lng" : -113.6272777197085
+               },
+               "southwest" : {
+                  "lat" : 53.6473443197085,
+                  "lng" : -113.6299756802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Mary Brown's Chicken & Taters",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111252995738516951595\"\u003ealee x\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDhLXI90qFyn9LwtzK98c365yfPKZtgeQtrItlQ9Ti8ydKoF0pstTBiP9H6Bq0VrFXJqxzVYdwW0kxZRSuf94EWQxFseg6y_cKEFcAdixxQdRlv6hqekIWGFhARMOzL14zddMc_QZNZBOmMsbjQaJFIpWb91ZrqFKIXc19rnNN5g1ZZ",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ1yBydOQloFMRrNsztqQCJGg",
+         "plus_code" : {
+            "compound_code" : "J9XC+FG St. Albert, AB, Canada",
+            "global_code" : "9558J9XC+FG"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ1yBydOQloFMRrNsztqQCJGg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 230,
+         "vicinity" : "Liberton Square, 504 Saint Albert Trail #10, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.653248,
+               "lng" : -113.628446
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6544818802915,
+                  "lng" : -113.6268527197085
+               },
+               "southwest" : {
+                  "lat" : 53.6517839197085,
+                  "lng" : -113.6295506802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Sorrentino's St Albert",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103310922973625993482\"\u003eSorrentino&#39;s St Albert\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECtJLotryhGT3Oa_d7kVGxHXK47JqxzxENS68wgujzbhdqyjMl4iUHkzfvQuZPzxCu8W3ZheLaLUo5aSyEIPkquZdFtRifToBTr8m7xf8CW8YTQe3cCzPDfXX8ZXe4b2k0Fm4zqRdyCNgi5mPRcyIa4raZumOxB1_Yrapse_tq9d7Ze",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJuVr2LvsloFMR_coXRj0cXjk",
+         "plus_code" : {
+            "compound_code" : "M93C+7J St. Albert, AB, Canada",
+            "global_code" : "9558M93C+7J"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJuVr2LvsloFMR_coXRj0cXjk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 484,
+         "vicinity" : "595 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.611903,
+               "lng" : -113.647669
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.61367183029149,
+                  "lng" : -113.6465108197085
+               },
+               "southwest" : {
+                  "lat" : 53.61097386970849,
+                  "lng" : -113.6492087802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "The Enjoy Centre",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108187587142826351572\"\u003eKev P\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECK2YLUpyYVc6Eu7AJqxNsjsxidYlyJpKzXrKfTxatRp_bQ7ZaFvkv1MN5L1YC39qPYqPQLbd1j-l3oT4DrnY_J3j6jNVXFe0uHFGEwJAakpp-QRim3k3oSsBNg93a6hoqOt7bd1lh5bmOL6GGIE3HvTjKnH2E8KhUpcffuZB_Ic8Tf",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ3YUl__QmoFMRMcCwB6lY-VU",
+         "plus_code" : {
+            "compound_code" : "J962+QW St. Albert, AB, Canada",
+            "global_code" : "9558J962+QW"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ3YUl__QmoFMRMcCwB6lY-VU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "shopping_mall",
+            "florist",
+            "bakery",
+            "grocery_or_supermarket",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 219,
+         "vicinity" : "101 Riel Drive, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6213431,
+               "lng" : -113.6106321
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6227817802915,
+                  "lng" : -113.6093706697085
+               },
+               "southwest" : {
+                  "lat" : 53.6200838197085,
+                  "lng" : -113.6120686302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Swiss Chalet",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115025599278746082835\"\u003eSwiss Chalet\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBxw1wkZOznih1dD9TYOvft6t-Ca5uDVZ6bdbFy5AMfT8rUKAFp6gw-6zoduh8KcT7T_ABjwTjnLri0RxevB1ZyUAQTAbGPmAl_vRcOj7oyQEr-zaW2ent3qRkUYnYtmz_vQ8farmdFKJe9s-pUCb4f_0Ja92l7dojrPjO0r0d7VTHA",
+               "width" : 1333
+            }
+         ],
+         "place_id" : "ChIJqWvToSokoFMRdSksAeoVj9U",
+         "plus_code" : {
+            "compound_code" : "J9CQ+GP St. Albert, AB, Canada",
+            "global_code" : "9558J9CQ+GP"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJqWvToSokoFMRdSksAeoVj9U",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 527,
+         "vicinity" : "140 St Albert Rd Unit 700, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.620883,
+               "lng" : -113.6109548
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6222895302915,
+                  "lng" : -113.6095295697085
+               },
+               "southwest" : {
+                  "lat" : 53.6195915697085,
+                  "lng" : -113.6122275302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Wendy's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113815392849087130851\"\u003eG Aquino\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECZGoa3km3o26X7dpFLXLJxD8vriMe2wkkCwQMPSj_bkK-XUW-ytLpXNAUeiBCdu8GR7h_2dUyx_LS_mKiTYHWnGvfb9WLBB4MB5tqXGqWWgREWO030JDDkLTnL8qyZicQr0LfDFbP9GF6f8AuWNmO6gzd4s_F3IUVWvTiPXL1v6nNR",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJqWvToSokoFMR53nDJ4xzoEQ",
+         "plus_code" : {
+            "compound_code" : "J9CQ+9J St. Albert, AB, Canada",
+            "global_code" : "9558J9CQ+9J"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJqWvToSokoFMR53nDJ4xzoEQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 384,
+         "vicinity" : "800-140 St Albert Rd, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.63888490000001,
+               "lng" : -113.6239356
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.64019483029151,
+                  "lng" : -113.6223034697085
+               },
+               "southwest" : {
+                  "lat" : 53.63749686970851,
+                  "lng" : -113.6250014302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107620504582196260098\"\u003eKirk Dewhurst\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAPOdj67mYFkfA-be15Vf1UBGCen6G9-GEUtwUYrfZQe2C7WjxO2JFJXGqRPo1eBpfvkWKLeGoqPZW7EqT56BTCC8zJdOM4OzFrP3l8zhniAh3206emj1gX77EMoKtN07d8Mi9Ockr3iDkBt1DGECh2prLCNCbE3j4BB_M5mR3pHvau",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJrUFyL3YmoFMRSIkAo5i6zXI",
+         "plus_code" : {
+            "compound_code" : "J9QG+HC St. Albert, AB, Canada",
+            "global_code" : "9558J9QG+HC"
+         },
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "ChIJrUFyL3YmoFMRSIkAo5i6zXI",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 843,
+         "vicinity" : "369 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6475744,
+               "lng" : -113.6287245
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.64914793029151,
+                  "lng" : -113.6272217197085
+               },
+               "southwest" : {
+                  "lat" : 53.64644996970851,
+                  "lng" : -113.6299196802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Wendy's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109597653354592371380\"\u003eZUBAIR CHOWDHURY\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAPk3v538MM3GrKkG9TVc-G3sgqxxRBJWwhuSE9r88dMCQn8uiC1GNktPt2j_xy1q7kOA84AKuTcruSOLx9YjSyFMhGg9-8_VJp2H6w-oS-6VrZ49O9ZflFKV0RuJQoxRdS3lDoGrjE4jOtVhvMnwFZ1Ys_wRRMRi66mNoA0pWtteY8",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ9RuSCeQloFMRMbKP9G8_pkI",
+         "plus_code" : {
+            "compound_code" : "J9XC+2G St. Albert, AB, Canada",
+            "global_code" : "9558J9XC+2G"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJ9RuSCeQloFMRMbKP9G8_pkI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 263,
+         "vicinity" : "470 Saint Albert Trail Suite 10, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6543763,
+               "lng" : -113.6288687
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6555671802915,
+                  "lng" : -113.6274762697085
+               },
+               "southwest" : {
+                  "lat" : 53.6528692197085,
+                  "lng" : -113.6301742302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "East Side Mario's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112005016945494812675\"\u003eGo time\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB72v5OivTbD8CiEWFJQtV0MZGqFTV0KsdWs7bQZr90-1LQ807ikCSpuEh8MdaqYlxv2sz_qzYn6XxnDotRsfyHp_nyGj7Ye89f0xH_QN50lxEIXujhzlNFpSC9XMrFS3hStNd4A3Y4wHbJH6_piZrhWN46HxEcmQpq-91c4aErd9_3",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJmY0vAPsloFMRzETb__BnF7g",
+         "plus_code" : {
+            "compound_code" : "M93C+QF St. Albert, AB, Canada",
+            "global_code" : "9558M93C+QF"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJmY0vAPsloFMRzETb__BnF7g",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1171,
+         "vicinity" : "615 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.64242819999999,
+               "lng" : -113.6277202
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6436440802915,
+                  "lng" : -113.6261825697085
+               },
+               "southwest" : {
+                  "lat" : 53.6409461197085,
+                  "lng" : -113.6288805302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1045,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109480222121063336202\"\u003eSubway\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB_H4oGGcJBfmKa6NqFFh2qEp5dE8lscNQBJ_pjATEbPfT3a_-FCuHqwzV6Rt37s25C4AbeeWRxstW2SATvZ82s69SMqaL2f_fjzobS_s_90Rn8hygOOVZxVYI4xA1bXNYLS9gBTkgDpFjs3u6Fa8nvnQJUKPk881AU7vb7-W4hL-6C",
+               "width" : 3011
+            }
+         ],
+         "place_id" : "ChIJIcMPXeAloFMRwlHFgkoaHe4",
+         "plus_code" : {
+            "compound_code" : "J9RC+XW St. Albert, AB, Canada",
+            "global_code" : "9558J9RC+XW"
+         },
+         "price_level" : 1,
+         "rating" : 4.2,
+         "reference" : "ChIJIcMPXeAloFMRwlHFgkoaHe4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 81,
+         "vicinity" : "10 McKenney Avenue Unit 204, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6588229,
+               "lng" : -113.6312397
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6602268802915,
+                  "lng" : -113.6299101197085
+               },
+               "southwest" : {
+                  "lat" : 53.6575289197085,
+                  "lng" : -113.6326080802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Quiznos",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110109566242302995427\"\u003eStephan Ahrendt\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAqkP4DuHsC0vIpeFlx9Lp9cHBIYi48mYAwDjRfEXFIkp5kI_51Fmz7LQgxIJ1JNdXURfN4Pi5C_gwR2K2dPvY5g0CmHC6g0PZ72tjyv22NvxOSqW2virfoYQrlZAOOFb2U0sx_LBfQqedX-x_W65_Jm3TwumsMsQrRB5WPnPqyqkix",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJGUfPOvsloFMRbaLoG2iaunk",
+         "plus_code" : {
+            "compound_code" : "M959+GG St. Albert, AB, Canada",
+            "global_code" : "9558M959+GG"
+         },
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "ChIJGUfPOvsloFMRbaLoG2iaunk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 50,
+         "vicinity" : "260-700 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.63852799999999,
+               "lng" : -113.625301
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6399318802915,
+                  "lng" : -113.6238150197085
+               },
+               "southwest" : {
+                  "lat" : 53.6372339197085,
+                  "lng" : -113.6265129802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "TacoTime Saint Albert",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101459276292143575180\"\u003eMike Kinsella\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECcPLT1fhUlz-BLAif4JFaYoje5gbY2WslQ7fiCak4Cf_wGANZs6D3p93nJhwkm-ICJhD9cyWAHo5GsTxgm0GFOX0edVUDLADjoYgGQWs9L9h4LblQOPErK5Lbgts8R8bVF2bYI-O2NuQQOHf-8MqWbtpHP3CdUSuGI2N_l9rHmoI-7",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJOQ0AG98loFMRMGB0itSjr4s",
+         "plus_code" : {
+            "compound_code" : "J9QF+CV St. Albert, AB, Canada",
+            "global_code" : "9558J9QF+CV"
+         },
+         "price_level" : 1,
+         "rating" : 4.2,
+         "reference" : "ChIJOQ0AG98loFMRMGB0itSjr4s",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 236,
+         "vicinity" : "18 Muir Drive, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6529403,
+               "lng" : -113.6394696
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6541672802915,
+                  "lng" : -113.6380529697085
+               },
+               "southwest" : {
+                  "lat" : 53.6514693197085,
+                  "lng" : -113.6407509302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "Circle K",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104248234004638629812\"\u003eCircle K\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDTTcEE9rj1MJpKjhMJxGsPAlXyb0rIb45nLvHF0fizEgC8MOOlb3OfaLk3kFnSQQwLjGKd5pATzMBRAEp96Y_NDaUG5We7mA_DORxcDBfSthDzy5BZ9gLe2Rv66-5RPQb7kDVaRZuOxxRz_C4pr2ChVUbQcScxZO7eOVWnTKpgI7tO",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJlb3lDP0loFMR9B32BUgf2ro",
+         "plus_code" : {
+            "compound_code" : "M936+56 St. Albert, AB, Canada",
+            "global_code" : "9558M936+56"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJlb3lDP0loFMR9B32BUgf2ro",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "atm",
+            "meal_takeaway",
+            "finance",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 21,
+         "vicinity" : "35 Giroux Road, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6410681,
+               "lng" : -113.6262327
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6424801802915,
+                  "lng" : -113.6247559697085
+               },
+               "southwest" : {
+                  "lat" : 53.6397822197085,
+                  "lng" : -113.6274539302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Dairy Queen Grill & Chill",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101459276292143575180\"\u003eMike Kinsella\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA3nD7UsJWT7Ni2KaaDRZITgiR7v1CHt4x_2GKYm5WBDGos4OElOHVVHCu9dNLgwIJS8d3yWtuB-SHnITjPREQtE0lI_gd0GzGKIYlVx1oUlooGEcmTo22ARX7x8271EKGpS8HhQUnFCI-sKH03TUFWx2hryWkxUPc9FPOhlTrFwkQg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJyeFVKN4loFMRXod-p8vxPIE",
+         "plus_code" : {
+            "compound_code" : "J9RF+CG St. Albert, AB, Canada",
+            "global_code" : "9558J9RF+CG"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJyeFVKN4loFMRXod-p8vxPIE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 384,
+         "vicinity" : "388 Saint Albert Trail A, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.64302499999999,
+               "lng" : -113.621354
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.64448125000001,
+                  "lng" : -113.6196041
+               },
+               "southwest" : {
+                  "lat" : 53.64103504999999,
+                  "lng" : -113.6254833
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "A&W Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103406389513075464560\"\u003eA&amp;W Canada\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAlq5Ydly08Fi1ueYynn58fNm_sfq1NiEd7CFFULhm9wiqnD1l-e88A1f6cL1IangKZ3X-BXqjOSdUvGmugylcDF-Z3vNjiFIKOgqwT6y9JPeNdzO51fZ3uKIosBUjRvWZoH1xGy8MDcF7K0Ph3uqRZBSJG-fp0Pt4rxG5rpYfMPEJ9",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJof3PN94loFMRhVkHl0-sh8I",
+         "plus_code" : {
+            "compound_code" : "J9VH+6F St. Albert, AB, Canada",
+            "global_code" : "9558J9VH+6F"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJof3PN94loFMRhVkHl0-sh8I",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 135,
+         "vicinity" : "375 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.619808,
+               "lng" : -113.612934
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6212122802915,
+                  "lng" : -113.6114693197085
+               },
+               "southwest" : {
+                  "lat" : 53.6185143197085,
+                  "lng" : -113.6141672802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Simply Donairs",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1908,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110109566242302995427\"\u003eStephan Ahrendt\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAn6wNHoyyJMtO2-z7j4Kv8Tce-KYnrR8g7YZyIOxFW-VcGY5ACg9jGo1Q68LkgnX9rcuuY04Ml5DsEK1lCpTRpHgrZFVBwujNzqOScXxcrjV7ysKYZbmNAbs79t8h72D6mFGDhuav4899KxyaM1JF2QthMccwyMS3176Ab8h7yVONb",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJGfGmguAloFMRQ3XLt82ry_0",
+         "plus_code" : {
+            "compound_code" : "J99P+WR St. Albert, AB, Canada",
+            "global_code" : "9558J99P+WR"
+         },
+         "price_level" : 1,
+         "rating" : 4.6,
+         "reference" : "ChIJGfGmguAloFMRQ3XLt82ry_0",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 324,
+         "vicinity" : "140 Saint Albert Trail Unit 245, St. Albert"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,972 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEAwZFtHggZARquPBE7cRKrZof1TzZE5943yOSEDc346ibLsy2I-FCdh-vnUfJD40TnfFTnnmOT96-Bl2L6_46Bq9AZyH5WYvZniemkB_1LAJzrtKrunBIAsToUWf0-NFdAcKpzG5ecMcr6pqbSmN2MH2ojCbpt9QMhPf2GRyNLBMI3B1YztmEpErIOtIGXhU7TWerwlBaH8JB9hs8cUH-YTe4xjdSCZzRw8ozsz5NvxMjw50Whr_cYZ3WTbSwyl5k_VDgu_-1dBn1Ptb4dMG_05BiNbwtrE_teap5R_Gef1iZJbw9V0ivfV64rUrKih7CEX4iOfb1j-vMk1AFn-LhhtU5q9DCDH-2Hx4VUUm0zI_TXPyTkkURkTyEKIHKcJ9nCGsDbZnHiIiDYkGelzOu_XbXrEoEtLayRSs7CGjJbR0NG_FsKv6miS1tZ7tULHsH-82iPveROkjKrGnq8o_5UNerbii6y1Eoz9XY2rETQxBFwOt3BOhGwtaHQ7zSk0N-vZvZ_tmO0aQSgfDmTrR3BCRwcrp5Pg4XnUllciwJWBoazefz9I4wmXPp8baSyBk5-Qw8x6n0-Gpe7i_tgcTR2F6bDy-Qwv4MWAjkb5q2mCzYltam-7g2G6uyvsktz3m1W-rmFW9PLTACxH7MjQCmY6zEtg6hlODuvd6_i_eY4fLdF6-2RHGGRMoPoy5lt2fA_Q1bm0CAJD0ExhHagFXnC12L4tp27vuSJw3HYdpJzwMBLOKwkqZaFQu0KBE-u5CWI",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6246489,
+               "lng" : -113.6155546
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6260352302915,
+                  "lng" : -113.6140387197085
+               },
+               "southwest" : {
+                  "lat" : 53.6233372697085,
+                  "lng" : -113.6167366802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Silai Enterprises Inc.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJV9TF8tUloFMRzXX1ODiMMF8",
+         "plus_code" : {
+            "compound_code" : "J9FM+VQ St. Albert, AB, Canada",
+            "global_code" : "9558J9FM+VQ"
+         },
+         "reference" : "ChIJV9TF8tUloFMRzXX1ODiMMF8",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "192 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6446437,
+               "lng" : -113.6225631
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.64607108029149,
+                  "lng" : -113.6211668697085
+               },
+               "southwest" : {
+                  "lat" : 53.6433731197085,
+                  "lng" : -113.6238648302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Canadian Tire Gas+",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 564,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112795277639816867737\"\u003eCanadian Tire Gas\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBF5fMVKiGpM5yHaipWkdYPXjhvgDMU_BVljlzukWG6Q17DFx2_haUyg2Y_MSaponfDKzxEVVXZx1O6T5NlA4ZwhvW5c7blsYVTZtpiR3DNeHjywgiI0dJQUaij5CE4naG_O8_Jb-_Qh0T97JMl4rFzS9PRdlVVKXKafhwQ09aqKddc",
+               "width" : 1036
+            }
+         ],
+         "place_id" : "ChIJHUpAIecloFMRzPRq5xLCXJo",
+         "plus_code" : {
+            "compound_code" : "J9VG+VX St. Albert, AB, Canada",
+            "global_code" : "9558J9VG+VX"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJHUpAIecloFMRzPRq5xLCXJo",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "car_wash", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 21,
+         "vicinity" : "42 Bellerose Drive, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.64761600000001,
+               "lng" : -113.624506
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6488473302915,
+                  "lng" : -113.6232139197085
+               },
+               "southwest" : {
+                  "lat" : 53.64614936970851,
+                  "lng" : -113.6259118802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "HUSKY",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107341620432049932772\"\u003eHUSKY\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAgIl9AI8NlpnHXTP_3VKdYQowrUe5vLas15J0CAZ5R2PdX6h8Zv8dwrpIdY_zewdioFYWjksu84iSFaw1PvIX46_ACZQEwFadYUTqWkavx8IPHZQoLu_gWdMtzw47qLSkhZMvZlZgIXyP-bNKdgpail8PEuLGiQJpnUNVZtUQ0jU-i",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJU1NnnOYloFMRR6GscsEVHZw",
+         "plus_code" : {
+            "compound_code" : "J9XG+25 St. Albert, AB, Canada",
+            "global_code" : "9558J9XG+25"
+         },
+         "rating" : 4,
+         "reference" : "ChIJU1NnnOYloFMRR6GscsEVHZw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 19,
+         "vicinity" : "10 Inglewood Drive, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.65295,
+               "lng" : -113.63941
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6542119802915,
+                  "lng" : -113.6378186697085
+               },
+               "southwest" : {
+                  "lat" : 53.6515140197085,
+                  "lng" : -113.6405166302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "HUSKY",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115894378880241106880\"\u003eHUSKY\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBto5TAvjjBDhay-icdjI5dNuDhqqCLs4HWIqAGA5Y6PqMYO4I9e0SNsctHheeEdZ1eQN500d9hhtymWtkT1cadzbbuSaj3pWrAZbGaEF059z51z2bdSiIfRFIjvH50BqJuLTM0ZLSq14TPQqMhpyuHW5fAU4P41GeUCrMhiuZyAm7V",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJwd5EC_0loFMRQAm81zJns3U",
+         "plus_code" : {
+            "compound_code" : "M936+56 St. Albert, AB, Canada",
+            "global_code" : "9558M936+56"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJwd5EC_0loFMRQAm81zJns3U",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 49,
+         "vicinity" : "35 Giroux Road, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6543236,
+               "lng" : -113.6307348
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.65567258029149,
+                  "lng" : -113.6293858197085
+               },
+               "southwest" : {
+                  "lat" : 53.65297461970849,
+                  "lng" : -113.6320837802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111252995738516951595\"\u003ealee x\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECqdGdawPvZmqbiSaFZ8kKAkkaUXbPCc83NNjRDJ-zBQxwGML817Pjw1lTp_q1At0nSxXRrkyMtW-zhyC0sxKJLNN8DB4sgwZwxkyi17yKAu98IidxnWeTT7fEO4LtdQB3_bHqz0PIrWx8ZCCPU74sP3h-vUV4nokDPC5qbdFuvR0Qb",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJDyX1EvsloFMRN7KszOhW494",
+         "plus_code" : {
+            "compound_code" : "M939+PP St. Albert, AB, Canada",
+            "global_code" : "9558M939+PP"
+         },
+         "rating" : 2.3,
+         "reference" : "ChIJDyX1EvsloFMRN7KszOhW494",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 3,
+         "vicinity" : "1 Giroux Road, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.662878,
+               "lng" : -113.632971
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6639786302915,
+                  "lng" : -113.6317494197085
+               },
+               "southwest" : {
+                  "lat" : 53.6612806697085,
+                  "lng" : -113.6344473802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108056308214657461425\"\u003eJake Hammell\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECupyAAOHzkcnGw29ZxyvUePXwrGx9jX64VrBMjzaNvpU9UDhLodAifg_-j6aZZJdOe_A2DwaH9ag9O23mWPdHEbsTlusn3XNfn6yfAp5TRuKNpyYLDE7DVPMSYCbWIJIP911i2vnpkEIqCPxb2Wx8IskyKwveLphUGWSVIMgY56rqE",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJyzrPOvsloFMRLalM_3gYKYs",
+         "plus_code" : {
+            "compound_code" : "M978+5R St. Albert, AB, Canada",
+            "global_code" : "9558M978+5R"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJyzrPOvsloFMRLalM_3gYKYs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 119,
+         "vicinity" : "770 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6718065,
+               "lng" : -113.6384166
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.67315533029149,
+                  "lng" : -113.6370747697085
+               },
+               "southwest" : {
+                  "lat" : 53.6704573697085,
+                  "lng" : -113.6397727302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Costco Gas Station",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2358,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111721376375869346104\"\u003ebond0700 b\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBy8S0i0ZRpXaetwhnW_9wINhZwp_CNXMQwy5e0Is3lZsYQfVe2YP1vE2BHfcMc6KA7XU3bcdvZuXON7DD2hTbFozybI7puVp-zzMzf2Wq-MMcTGlIvLpSeSiN0z7WkbPaYX23AcSDtFKZdWmr_dipk7vG22kPa8uLJnWiEGWn0bVnx",
+               "width" : 4191
+            }
+         ],
+         "place_id" : "ChIJBxIZlFovoFMRmA835H1Nvi4",
+         "plus_code" : {
+            "compound_code" : "M9C6+PJ St. Albert, AB, Canada",
+            "global_code" : "9558M9C6+PJ"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJBxIZlFovoFMRmA835H1Nvi4",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 261,
+         "vicinity" : "1075 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.62697190000001,
+               "lng" : -113.6343787
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.62848763029151,
+                  "lng" : -113.6329496697085
+               },
+               "southwest" : {
+                  "lat" : 53.62578966970851,
+                  "lng" : -113.6356476302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Hughes Car Wash",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114862431820993954134\"\u003eFelix Larouche\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECPFo40lQDR4QyFxh6j624iPloVejWvIvOwt_KvkXytfgaXTAQr9f3Jql-yNt0i_T4ZTtBaUTqQWLI_wxcvjFysZXGnOE2yScfFSAvVhLVnNPcr_-xJ6QGY-gAwidvdPN5reUNUnbZuao4-I7HEPXPKk1kl2uRveReu06Z9_4laylC_",
+               "width" : 3036
+            }
+         ],
+         "place_id" : "ChIJBUE5jXomoFMRtL5XbuVBm1A",
+         "plus_code" : {
+            "compound_code" : "J9G8+Q6 St. Albert, AB, Canada",
+            "global_code" : "9558J9G8+Q6"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJBUE5jXomoFMRtL5XbuVBm1A",
+         "scope" : "GOOGLE",
+         "types" : [ "car_wash", "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 48,
+         "vicinity" : "2c Riel Drive, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6420199,
+               "lng" : -113.5767808
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6435322802915,
+                  "lng" : -113.5755627697085
+               },
+               "southwest" : {
+                  "lat" : 53.6408343197085,
+                  "lng" : -113.5782607302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1950,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104851171257693385857\"\u003eᑭᑌしᏆᏦᗴᑎ\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC50DM2ei-cQEB5u87IE5_u1OuT8HCmqTJSITfVWKnFzXrytEsZhASv7dtPUt8_7GXLqlCLnjNlKuO52sD4XQsdwcVE1QIeat7NgCCwluzjOfOM0pyaVWMg6sJ1pgGOpX9bx1mo-gY3CkZeWGKvy3ImfGqqd_MyRwVvZWhOigUMlQ85",
+               "width" : 3834
+            }
+         ],
+         "place_id" : "ChIJjU_SyboloFMRH88oWfTavLc",
+         "plus_code" : {
+            "compound_code" : "JCRF+R7 St. Albert, AB, Canada",
+            "global_code" : "9558JCRF+R7"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJjU_SyboloFMRH88oWfTavLc",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 162,
+         "vicinity" : "275 Carnegie Drive, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6205758,
+               "lng" : -113.6066674
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.62195798029149,
+                  "lng" : -113.6053193197085
+               },
+               "southwest" : {
+                  "lat" : 53.6192600197085,
+                  "lng" : -113.6080172802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Mobil",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111252995738516951595\"\u003ealee x\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBVK8IGhnY4IcSwwJSTE-OuSBeUBZz54ehGOQAAHvY6esFRtcmR5giOTlkiGCvO_fRKKWWmWmRUNX6X4cAFQSgwsJVwqHynQ_nqU_3qsaT4HU1fD-rsQkrLs3N0a5rHo1P3ZLhxTxZmLR8dKWUopCUHpivWSegTqAG5hCF8DepD0mCg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJpeZBBSskoFMRuj3T2FaKJH4",
+         "plus_code" : {
+            "compound_code" : "J9CV+68 St. Albert, AB, Canada",
+            "global_code" : "9558J9CV+68"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJpeZBBSskoFMRuj3T2FaKJH4",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 44,
+         "vicinity" : "101 Saint Albert Trail #30, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.622373,
+               "lng" : -113.610466
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6236197302915,
+                  "lng" : -113.6092775197085
+               },
+               "southwest" : {
+                  "lat" : 53.6209217697085,
+                  "lng" : -113.6119754802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Petro-Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111252995738516951595\"\u003ealee x\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDU_zqXDLW2uANaGi9TMVsEiATyREaTq1Q2QpB0pEJQh20If0pykFzurq6HCTpzSpsIYgS4EZWwn9HZl9ngnTZPZbrmqvFQK-7Vw5_nXYupNIE4lDrm3Xmbx4VVO1GE4T-IsoMLtSkQAKaTzw2djoiUqXtXy2p5RpIqJyBWOkCGOPbN",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJZ94HcdUloFMRrQjMxKasqjo",
+         "plus_code" : {
+            "compound_code" : "J9CQ+WR St. Albert, AB, Canada",
+            "global_code" : "9558J9CQ+WR"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJZ94HcdUloFMRrQjMxKasqjo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 22,
+         "vicinity" : "143 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6154452,
+               "lng" : -113.6386098
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.61656388029149,
+                  "lng" : -113.6373990697085
+               },
+               "southwest" : {
+                  "lat" : 53.61386591970849,
+                  "lng" : -113.6400970302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1477,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106571797124802744988\"\u003eGarry Engler\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBOit_J9WxrVFR-an4HPV8q8km5bHLkeJKIEutpXx0LsJUDs07FYYBuvCyFP-5omjy9GdQUZj9Vosk8LoyEM1eqe9hUrC8JJFDJnoli0A0v4dNFyjWKRZMaHGamztdXGCYBRBJlM_txx37P__uElh633NZbP5eOVKTsJc_vWJJdFj-n",
+               "width" : 2492
+            }
+         ],
+         "place_id" : "ChIJs0vEcoomoFMRuKxsppueEL0",
+         "plus_code" : {
+            "compound_code" : "J986+5H St. Albert, AB, Canada",
+            "global_code" : "9558J986+5H"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJs0vEcoomoFMRuKxsppueEL0",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 71,
+         "vicinity" : "2 Sir Winston Churchill Avenue, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.654078,
+               "lng" : -113.630733
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6553399302915,
+                  "lng" : -113.6292492697085
+               },
+               "southwest" : {
+                  "lat" : 53.6526419697085,
+                  "lng" : -113.6319472302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 979,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106571797124802744988\"\u003eGarry Engler\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECMbKjJu0A7qoV0Kckviy-Sce37SpQq584LluDoDLIS9S-5Vr3CrnEpcXXz15G0uPU8GY68qhWBqTL7gf8HO9L5tUDbDUtgy266Gzh_v9UUNwrx4QqbGYymTjpMSnCFvn4R-KuSDgmoaviqFTbeag4dBaAdqKBCy6Q0Mn5Ge2RY02GB",
+               "width" : 2211
+            }
+         ],
+         "place_id" : "ChIJR_oBFPsloFMRQOq2R44Qhtw",
+         "plus_code" : {
+            "compound_code" : "M939+JP St. Albert, AB, Canada",
+            "global_code" : "9558M939+JP"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJR_oBFPsloFMRQOq2R44Qhtw",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 83,
+         "vicinity" : "1 Giroux Road, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6483824,
+               "lng" : -113.6285267
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.64954793029149,
+                  "lng" : -113.6271690197085
+               },
+               "southwest" : {
+                  "lat" : 53.6468499697085,
+                  "lng" : -113.6298669802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108740294174079231915\"\u003eDan Schykulski\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECE7FlhRSgYfs4KpgmAx32l0Ub6J2jboWn3bzOAM1KKqKITBFglBfeulrH8rf4MIRXRsyEDNC6eM4WjNIc9q49KRTT5ZcWvf5Tl5F3R07qFgPcYrlF2iAyGbb2bCfS6x9b7KQI9eLsMvhTu6u-cNQtcbubusoLII0UL05j4ffYxxPua",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJK646C-QloFMRKdbJ-sqlY-Y",
+         "plus_code" : {
+            "compound_code" : "J9XC+9H St. Albert, AB, Canada",
+            "global_code" : "9558J9XC+9H"
+         },
+         "rating" : 3,
+         "reference" : "ChIJK646C-QloFMRKdbJ-sqlY-Y",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 14,
+         "vicinity" : "502 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6432161,
+               "lng" : -113.6270779
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6445596302915,
+                  "lng" : -113.6255387697085
+               },
+               "southwest" : {
+                  "lat" : 53.6418616697085,
+                  "lng" : -113.6282367302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1936,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109930618739619287054\"\u003eManinder singh verma\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECuGwe_XCVnOeoBpfJ6v8ItCx53LKy924UmrMZTqh0LF2j5Ob_gbNLe8LQvXh8wW8XJKCeD1_UEmlvyVB35qQDSGBKhClBNXh2rJe_tfGHgo9qQokc_oSeIHxyozXxPBuh_EU5XVg3kkHBFNSS3X5K7fxn6ll4yQnJTAhUjKL6InRpx",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJSxma6eAloFMRwpULwHeztlg",
+         "plus_code" : {
+            "compound_code" : "J9VF+75 St. Albert, AB, Canada",
+            "global_code" : "9558J9VF+75"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJSxma6eAloFMRwpULwHeztlg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "car_wash",
+            "convenience_store",
+            "meal_delivery",
+            "finance",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 57,
+         "vicinity" : "390 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.643795,
+               "lng" : -113.625375
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6451064802915,
+                  "lng" : -113.6243527197085
+               },
+               "southwest" : {
+                  "lat" : 53.6424085197085,
+                  "lng" : -113.6270506802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Safeway Gas Bar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102331287055532482248\"\u003eFraser Oleny\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECO0jq7hN0w7BI2YZ_EJKnElhswkcREkgu4Vin2gQQJNpCGBTrb-HI7oz-M1M1YjKCAjReu9Gu6k-m7Y29QQlazaBhKpE-z3gVS_mnTrd276TPdFTEEinomOjbsgoOpHqLV_6Hn_lTQ5yZPpNfUX7_oEqMgXeYFd7M4L5UPi4YaNt7W",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJK45uxeAloFMRly3LlEipyQU",
+         "plus_code" : {
+            "compound_code" : "J9VF+GV St. Albert, AB, Canada",
+            "global_code" : "9558J9VF+GV"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJK45uxeAloFMRly3LlEipyQU",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 17,
+         "vicinity" : "53°38'37.7\"N 113°37'31., 35 Sturgeon Road, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6641124,
+               "lng" : -113.6337138
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6655221302915,
+                  "lng" : -113.6321691197085
+               },
+               "southwest" : {
+                  "lat" : 53.6628241697085,
+                  "lng" : -113.6348670802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Esso",
+         "place_id" : "ChIJIRuqklcvoFMRmiY6p0LA6fM",
+         "plus_code" : {
+            "compound_code" : "M978+JG St. Albert, AB, Canada",
+            "global_code" : "9558M978+JG"
+         },
+         "reference" : "ChIJIRuqklcvoFMRmiY6p0LA6fM",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "800 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.66412500000001,
+               "lng" : -113.6337858
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6653694302915,
+                  "lng" : -113.6323577197085
+               },
+               "southwest" : {
+                  "lat" : 53.6626714697085,
+                  "lng" : -113.6350556802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Circle K / Esso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ_wUNCf4voFMRXFM9EzL5898",
+         "plus_code" : {
+            "compound_code" : "M978+MF St. Albert, AB, Canada",
+            "global_code" : "9558M978+MF"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ_wUNCf4voFMRXFM9EzL5898",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.66773299999999,
+               "lng" : -113.6355659
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.66919113029149,
+                  "lng" : -113.6341393197085
+               },
+               "southwest" : {
+                  "lat" : 53.6664931697085,
+                  "lng" : -113.6368372802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Shell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111252995738516951595\"\u003ealee x\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAK3jhfb6A4-AuwA1vNB04zG1R6SNyE9h50PUYc-OlM6vqnt4Fqq-LCZcHki29cTOcgguFbLWchO67qPMXK2S1ZIBWHNDrEJQHmYz_hllT7ZorfK7XhjZHCtNjng_8dikNerVCbkzOQuQVlzEjUeaWFaxRLDdmc3gRsTPYgO8osBwjl",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJmbTZp1AvoFMRBV13gwAQ5RA",
+         "plus_code" : {
+            "compound_code" : "M997+3Q St. Albert, AB, Canada",
+            "global_code" : "9558M997+3Q"
+         },
+         "price_level" : 2,
+         "rating" : 2.9,
+         "reference" : "ChIJmbTZp1AvoFMRBV13gwAQ5RA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gas_station",
+            "atm",
+            "car_wash",
+            "convenience_store",
+            "meal_delivery",
+            "finance",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 9,
+         "vicinity" : "927 Saint Albert Trail, St. Albert"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.66795570000001,
+               "lng" : -113.6361068
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6691947802915,
+                  "lng" : -113.6350416197085
+               },
+               "southwest" : {
+                  "lat" : 53.6664968197085,
+                  "lng" : -113.6377395802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+         "name" : "Erin Ridge Shell",
+         "photos" : [
+            {
+               "height" : 1960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105515482516787009439\"\u003emark mccargar\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECchE5mHeMtB-7f8qV_skUWvQDBlOl6qswXtIAbbeB17BaDSuPyphnl9zE4rp-RwOjUhvEhquiQrpaERMKEHAK5TanTUzVhNwB5-NAoII-5_sadImZLQA0FhTd6Eyu5IjrCq2EjWGid4aGEdRHUnbndegp5gB0fK-0B0oNQOuwMjhTE",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ0wSmUqEvoFMR6iCRpEfEUL8",
+         "plus_code" : {
+            "compound_code" : "M997+5H St. Albert, AB, Canada",
+            "global_code" : "9558M997+5H"
+         },
+         "reference" : "ChIJ0wSmUqEvoFMR6iCRpEfEUL8",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "927 Saint Albert Trail, St. Albert"
+      }
+   ],
+   "status" : "OK"
+}
