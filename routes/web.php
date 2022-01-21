@@ -483,6 +483,9 @@ Route::get('/about', function(){
 Route::get('/pricing', function(){
     return view('pricing');
 });
+Route::get('/sample-report', function(){
+    return view('sample-report');
+});
 Route::get('/productdetail', function(){
     return view('productdetail');
 });

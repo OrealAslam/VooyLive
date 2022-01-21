@@ -50,6 +50,16 @@
 </div>
 <!-- Page Header End -->
  <div class="cps-main-wrap">
+    @if(app('request')->input('q'))
+    <div class="cps-section cps-section-padding cps-gray-bg">
+        <div class="text-center">
+            <p style="font-size: 2.0rem;"><i class="fa fa-check-circle" style="color: green;" aria-hidden="true"></i> Congratulations we have a Community Feature Sheet® for your address <strong>{{ app('request')->input('q') }}</strong></p>
+        </div>
+        <div class="text-center">
+            <a href="{{ url('/register') }}" class="btn btn-primary btn-square" style="background:#EA2349;color:#fff;margin-top:10px;font-size:2rem;">Sign up to view</a>
+        </div>
+    </div>
+    @endif
 
         <!-- Integrated With -->
     <!-- <div class="cps-section cps-section-padding cps-bottom-0 logo-section">
