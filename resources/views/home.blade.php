@@ -35,18 +35,20 @@
                             <h3 class="cps-banner-subtitle">{!! getSettingValue('line-1') !!}</h3>
                             <h1 class="cps-banner-title"><span>{!! getSettingValue('line-2') !!}</span></h1>
                             <p class="cps-banner-text">{!! getSettingValue('line-3') !!}</p>
-                            <div class="create_report_main account-form" style="margin-top: 25px;">
-                                <div class="form-group">
-                                    <input type="text" class="form-control" placeholder="Enter your address and press go" id="myAddress" name="myAddress" style="margin-bottom:10px;height: 46px;">
-                                    <button class="btn btn-primary btn-square" style="background:#EA2349;color:#fff;padding:0px 265px;font-size:2rem;" id="goTo">Go</button>
+                            <div class="create_report_main account-form" style="margin-top:25px;">
+                                <div class="col-12 form-group">
+                                    <input type="text" class="form-control" placeholder="Enter your address and press go" id="myAddress" name="myAddress" style="margin-bottom:10px;height:46px;">
+                                    <!-- <div class="col-sm-12 col-xs-12"> -->
+                                        <button class="btn btn-primary btn-lg btn-block btn-square" style="background:#EA2349;color:#fff;font-size:2rem;" id="goTo">Go</button>
+                                    <!-- </div> -->
                                     <!-- <span class="input-group-addon" style="cursor:pointer;background-color:#EA2349;color:#fff;font-size:24px;" id="goTo">Go</span> -->
                                     <div class="clearfix"></div>
                                 </div>
                             </div>
 
-                            <div class="" style="margin-top: 0px;">
-                                <h3 class="text-center">or</h3>
-                                <a href="{{ url('/sample-report') }}" target="_blank" class="btn btn-primary btn-square" style="background:#EA2349;color:#fff;padding:0px 222px;font-size:2rem;">View Sample</a>
+                            <div class="text-center">
+                                <div style="color:#000;font-size:24px;font-weight:500;line-height:24px;margin:15px 0;">or</div>
+                                <a href="{{ url('/sample-report') }}" target="_blank" class="btn btn-primary btn-lg btn-block btn-square" style="background:#EA2349;color:#fff;font-size:2rem;">View Sample</a>
                             </div>
                             
                             <!-- <div class="cps-button-group">
