@@ -214,7 +214,7 @@
                         Ready to buy a Community Feature Sheet® report?
                     </div>
                     <div class="col-12 text-center">
-                        <a id="getReport" class="btn btn-primary btn-square" style="background:#EA2349;color:#fff;margin-top:10px;font-size:2rem;" href="#" title="Get Report">Get Report</a>
+                        <a id="getReport" class="btn btn-primary btn-square" style="background:#EA2349;color:#fff;margin-top:10px;font-size:2rem;" href="{{ url('/pricing') }}" target="_blank" title="Get Report">Get Report</a>
                     </div>
                 </div>
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
@@ -236,7 +236,7 @@
                         Ready to buy a Community Feature Sheet® report?
                     </div>
                     <div class="col-12 text-center">
-                        <a id="getReport" class="btn btn-primary btn-square" style="background:#EA2349;color:#fff;margin-top:10px;font-size:2rem;" href="#" title="Get Report">Get Report</a>
+                        <a id="getReport" class="btn btn-primary btn-square" style="background:#EA2349;color:#fff;margin-top:10px;font-size:2rem;" href="{{ url('/pricing') }}" target="_blank" title="Get Report">Get Report</a>
                     </div>
                 </div>
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
