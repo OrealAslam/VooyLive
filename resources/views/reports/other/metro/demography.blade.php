@@ -122,7 +122,7 @@
                     <div class="col-lg-12 col-md-12 col-sm-12 avg-household-size">
                         <div class="row backgrounde value colorb">
 							@if (isset($averageIncome) && !is_string($averageIncome))
-								$ {{ number_format($averageIncome) }}
+								${{ number_format($averageIncome) }}
 							@else
 								N/A
 							@endif
