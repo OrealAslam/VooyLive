@@ -153,7 +153,7 @@
     <!-- Integrated With End -->
 
     <!-- Testimonial -->
-    <div class="cps-section cps-gray-bg cps-testimonial style-3 home-cps-testimonial-item-section">
+    <!-- <div class="cps-section cps-gray-bg cps-testimonial style-3 home-cps-testimonial-item-section">
         <div class="container-fluid">
             <div class="row text-center">
                 <div class="col-md-12">
@@ -192,7 +192,7 @@
                             <img src="{{ asset('upload/productImageSetting/'.getSettingValue('market-sentiment-survey-image')) }}">
                         </a>
                     </div>
-                </div>
+                </div> -->
                 <!-- <div class="col-xs-12 testimonial-box col-centered">
                     <div class="home-cps-testimonial-item coming-soon">
                         <p>Coming Soon...</p>
@@ -203,9 +203,9 @@
                         <p>Coming Soon...</p>
                     </div>
                 </div> -->
-            </div>
+            <!-- </div>
         </div>
-    </div>
+    </div> -->
 
     <div class="cps-section cps-testimonial style-3 home-cps-testimonial-item-section how-it-works-section">
         <div class="container">
