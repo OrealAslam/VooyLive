@@ -399,7 +399,7 @@ toastr.options = {
                     <div class="col-lg-6 col-md-6 col-sm-6 text-center">
                         <div class="selectTemplate">
                             <a href="{{$classicReportUrl}}">
-                                Classic
+                                Lite
                                 <img src="/img/products/classic.jpg" class="img-responsive">
                             </a>
                         </div>
