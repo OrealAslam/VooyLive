@@ -26,6 +26,7 @@
         <link href="{{ asset('css/style.css') }}" rel="stylesheet">
         <link href="{{ asset('css/responsive.css') }}" rel="stylesheet" media="screen">        
         <link href="{{ asset('css/green.css') }}" rel="stylesheet">
+        <!-- <link href="{{ asset('css/primary.css') }}" rel="stylesheet"> -->
         <link href="{{ asset('css/themify-icons.css') }}" rel="stylesheet">
         <link href="{{ asset('css/font-awesome.min.css') }}" rel="stylesheet">
         <link href="{{ asset('css/magnific-popup.css') }}" rel="stylesheet">

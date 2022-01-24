@@ -22,6 +22,7 @@ $cat = $category->orderBy('type','asc')->first();
     <!-- <li><a href="{{-- url('/termsconditions') --}}">Terms & Conditions</a></li> -->
     <!-- <li><a href="{{-- url('/pricing') --}}">{{-- config('app.trial_period') --}} Days Free</a></li> -->
     <li><a href="{{ url('/pricing') }}">Pricing</a></li>
+    <li><a href="{{ url('/blog') }}">Blog</a></li>
     <li><a href="{{ url('/login') }}">Sign In</a></li>
     <li class="try-it"><a href="{{ url('/register') }}">Register</a></li>
 @else

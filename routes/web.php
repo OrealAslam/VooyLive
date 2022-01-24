@@ -500,6 +500,16 @@ Route::get('/termsconditions', function(){
 Route::get('/terms', function(){
     return view('termsconditions');
 });
+
+// Blog Posts
+Route::get('/blog', 'BlogPostController@index')->name('blog');
+Route::get('/blog/{blogPost}', 'BlogPostController@show');
+Route::get('/blog/create/post', 'BlogPostController@create');
+Route::post('/blog/create/post', 'BlogPostController@store'); 
+Route::get('/blog/{blogPost}/edit', 'BlogPostController@edit'); 
+Route::put('/blog/{blogPost}/edit', 'BlogPostController@update');
+Route::delete('/blog/{blogPost}', 'BlogPostController@destroy');
+
 // Route::get('/testimonials', function(){
 //     return view('testimonials');
 // });
