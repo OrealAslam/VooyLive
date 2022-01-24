@@ -3,10 +3,10 @@
 <!-- Page Header -->
 <div class="page-header style-11">
   <div class="container">
-    <h2 class="page-title">Register</h2>
+    <h2 class="page-title">{{__('auth_register.register')}}</h2>
     <ol class="breadcrumb">
-      <li><a href="{{ Route('home') }}">Home</a></li>
-      <li class="active">Register</li>
+      <li><a href="{{ Route('home') }}">{{__('auth_register.home')}}</a></li>
+      <li class="active">{{__('auth_register.register')}}</li>
     </ol>
   </div>
 </div>
@@ -19,18 +19,18 @@
     <div class="row">
         <div class="col-xs-12">
             <!-- @if (Auth::guest())
-            <h2><span>Create My {{ config('app.title') }} Account</span></h2>
+            <h2><span>Create My {{ config('app.title') }} {{__('auth_register.account')}}</span></h2>
             @else
-            <h2><span>Subscribe My {{ config('app.title') }} Account</span></h2>
+            <h2><span>Subscribe My {{ config('app.title') }} {{__('auth_register.account')}}</span></h2>
             @endif -->
         </div>
     </div>
     <div class="row">
         <div>
             <hr>
-            <p class="text-center" style="font-size: 16px;">Automated Community Feature Sheets® are only available for Canada currently. However, we are making our way to more countries. Check out our current projects <a href="{{ URL::route('page.coverage') }}">here</a></p>
+            <p class="text-center" style="font-size: 16px;">{{__('auth_register.para1')}} <a href="{{ URL::route('page.coverage') }}">{{__('auth_register.here')}}</a></p>
             <hr>
-            <!-- <h4><span>Basic Information</span></h4> -->
+            <!-- <h4><span>{{__('auth_register.basicInformation')}}</span></h4> -->
         </div>
     </div>
 
@@ -38,7 +38,7 @@
         {{ csrf_field() }}
         @if (Auth::guest())
             <div class="form-group{{ $errors->has('firstName') ? ' has-error' : '' }}">
-                <label for="firstName" class="col-md-4 control-label"><p class="text-left">First Name</p></label>
+                <label for="firstName" class="col-md-4 control-label"><p class="text-left">{{__('auth_register.firstName')}}</p></label>
 
                 <div class="col-md-6">
                     <input id="firstName" type="text" class="form-control" name="firstName" value="{{ old('firstName') }}" required autofocus>
@@ -51,7 +51,7 @@
                 </div>
             </div>
             <div class="form-group{{ $errors->has('lastName') ? ' has-error' : '' }}">
-                <label for="lastName" class="col-md-4 control-label"><p class="text-left">Last Name</p></label>
+                <label for="lastName" class="col-md-4 control-label"><p class="text-left">{{__('auth_register.lastName')}}</p></label>
 
                 <div class="col-md-6">
                     <input id="lastName" type="text" class="form-control" name="lastName" value="{{ old('lastName') }}" required >
@@ -65,7 +65,7 @@
             </div>
 
             <!-- <div class="form-group{{ $errors->has('title') ? ' has-error' : '' }}">
-                <label for="title" class="col-md-4 control-label"><p class="text-left">Title</p></label>
+                <label for="title" class="col-md-4 control-label"><p class="text-left">{{__('auth_register.title')}}</p></label>
 
                 <div class="col-md-6">
                     <input id="title" type="text" class="form-control" name="title" value="{{ old('title') }}" required >
@@ -80,11 +80,11 @@
 
 
             <!-- <div class="form-group{{ $errors->has('region') ? ' has-error' : '' }}">
-                <label for="region" class="col-md-4 control-label"><p class="text-left">City</p></label>
+                <label for="region" class="col-md-4 control-label"><p class="text-left">{{__('auth_register.city')}}</p></label>
 
                 <div class="col-md-6">
                     <select class="form-control" id="region" name="region" required >
-                        <option value="" selected="selected">--- Select Your City ---</option>
+                        <option value="" selected="selected">{{__('auth_register.selectYourCity')}}</option>
                         @foreach(App\City::where('status',1)->get() as $city)
                         <option value="{{ $city->id }}">{{$city->Province->name}} - {{$city->name}}</option>
                         @endforeach
@@ -98,7 +98,7 @@
             </div> -->
 
             <div class="form-group{{ $errors->has('email') ? ' has-error' : '' }}">
-                <label for="email" class="col-md-4 control-label"><p class="text-left">Email</p></label>
+                <label for="email" class="col-md-4 control-label"><p class="text-left">{{__('auth_register.email')}}</p></label>
 
                 <div class="col-md-6">
                     <input id="email" type="email" class="form-control" name="email" value="{{ old('email') }}" required>
@@ -113,7 +113,7 @@
 
 
             <div class="form-group{{ $errors->has('password') ? ' has-error' : '' }}">
-                <label for="password" class="col-md-4 control-label"><p class="text-left">Password</p></label>
+                <label for="password" class="col-md-4 control-label"><p class="text-left">{{__('auth_register.password')}}</p></label>
 
                 <div class="col-md-6">
                     <input id="password" type="password" class="form-control" name="password" required>
@@ -127,7 +127,7 @@
             </div>
 
             <div class="form-group">
-                <label for="password-confirm" class="col-md-4 control-label"><p class="text-left">Confirm Password</p></label>
+                <label for="password-confirm" class="col-md-4 control-label"><p class="text-left">{{__('auth_register.confirmPassword')}}</p></label>
 
                 <div class="col-md-6">
                     <input id="password-confirm" type="password" class="form-control" name="password_confirmation" required>
@@ -141,7 +141,7 @@
         @endif
 
         <div class="form-group{{ $errors->has('referral_code') ? ' has-error' : '' }}">
-            <label for="referral_code" class="col-md-4 control-label"><p class="text-left">Referral Code</p></label>
+            <label for="referral_code" class="col-md-4 control-label"><p class="text-left">{{__('auth_register.referralCode')}}</p></label>
 
             <div class="col-md-6">
                 <input id="referral_code" type="text" class="form-control" name="referral_code" value="{{ (app('request')->input('referral_code')) ? app('request')->input('referral_code') : old('referral_code') }}">
@@ -156,11 +156,11 @@
 
         <!-- <div class="row">
             <div class="col-xs-12">
-                <h4 class="section-header"><span>Enter Your Credit Card Info</span></h4></div>
+                <h4 class="section-header"><span>{{__('auth_register.enterYourCreditCardInfo')}}</span></h4></div>
         </div>
 
         <div class="form-group">
-            <label for="card_number" class="col-md-4 control-label"><p class="text-left">Card Number</p></label>
+            <label for="card_number" class="col-md-4 control-label"><p class="text-left">{{__('auth_register.cardNumber')}}</p></label>
 
             <div class="col-md-6">
                 <input id="card_number" type="text" class="form-control" data-stripe="number" name="card_number" >
@@ -172,7 +172,7 @@
             </div>
         </div>
         <div class="form-group">
-            <label for="card_number" class="col-md-4 control-label"><p class="text-left">Expiry Month</p></label>
+            <label for="card_number" class="col-md-4 control-label"><p class="text-left">{{__('auth_register.expiryMonth')}}</p></label>
 
             <div class="col-md-6">
 
@@ -195,14 +195,14 @@
             </div>
         </div>
         <div class="form-group" id="expiration-date" >
-            <label for="card_number" class="col-md-4 control-label"><p class="text-left">Expiry Year</p></label>
+            <label for="card_number" class="col-md-4 control-label"><p class="text-left">{{__('auth_register.expiryYear')}}</p></label>
 
             <div class="col-md-6">
                 <input type="text" class="form-control" placeholder="2020" data-stripe="exp-year" name="exp-year">
             </div>
         </div>
         <div class="form-group">
-            <label for="card_number" class="col-md-4 control-label"><p class="text-left">CVC</p></label>
+            <label for="card_number" class="col-md-4 control-label"><p class="text-left">{{__('auth_register.cvc')}}</p></label>
 
             <div class="col-md-6">
                 <input id="cvc" type="text" class="form-control"  data-stripe="cvc" name="cvc">
@@ -223,7 +223,7 @@
         <div class="form-group">
 
             <div class="col-md-12">
-                <input id="agree_term" type="checkbox"  value="1" name="agree_term" checked required> I have read and understood these <a href="{{ url('terms') }}">Terms of Service</a> and agree to be bound by them.
+                <input id="agree_term" type="checkbox"  value="1" name="agree_term" checked required> {{__('auth_register.para2')}} <a href="{{ url('terms') }}">{{__('auth_register.termsOfService')}}</a> {{__('auth_register.para3')}}
                 @if ($errors->has('agree_term'))
                     <span class="help-block">
                             <strong>{{ $errors->first('agree_term') }}</strong>
@@ -241,7 +241,7 @@
         <div class="form-group">
             <div class="col-md-6 col-md-offset-4">
                 <button type="submit" class="btn btn-primary">
-                    Create Account Now
+                    {{__('auth_register.createAccountNow')}}
                 </button>
             </div>
         </div>

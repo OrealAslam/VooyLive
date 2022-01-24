@@ -38,20 +38,20 @@
                             <div class="create_report_main account-form" style="margin-top: 25px;">
                                 <div class="form-group">
                                     <input type="text" class="form-control" placeholder="Enter your address and press go" id="myAddress" name="myAddress" style="margin-bottom:10px;height: 46px;">
-                                    <button class="btn btn-primary btn-square" style="background:#EA2349;color:#fff;padding:0px 265px;font-size:2rem;" id="goTo">Go</button>
-                                    <!-- <span class="input-group-addon" style="cursor:pointer;background-color:#EA2349;color:#fff;font-size:24px;" id="goTo">Go</span> -->
+                                    <button class="btn btn-primary btn-square" style="background:#EA2349;color:#fff;padding:0px 265px;font-size:2rem;" id="goTo">{{__('home.go')}}</button>
+                                    <!-- <span class="input-group-addon" style="cursor:pointer;background-color:#EA2349;color:#fff;font-size:24px;" id="goTo">{{__('home.go')}}</span> -->
                                     <div class="clearfix"></div>
                                 </div>
                             </div>
 
                             <div class="" style="margin-top: 0px;">
                                 <h3 class="text-center">or</h3>
-                                <a href="{{ url('/sample-report') }}" target="_blank" class="btn btn-primary btn-square" style="background:#EA2349;color:#fff;padding:0px 222px;font-size:2rem;">View Sample</a>
+                                <a href="{{ url('/sample-report') }}" target="_blank" class="btn btn-primary btn-square" style="background:#EA2349;color:#fff;padding:0px 222px;font-size:2rem;">{{__('home.viewsample')}}</a>
                             </div>
                             
                             <!-- <div class="cps-button-group">
                                 <a class="btn btn-primary btn-square" href="{!! getSettingValue('btn-link') !!}">{!! getSettingValue('btn-text') !!}</a> -->
-                                <!-- <a class="btn btn-primary btn-square play-video" href="https://www.youtube.com/watch?v=SKxvdMEGKfE"><i class="fa fa-play"></i>Watch Video</a> -->
+                                <!-- <a class="btn btn-primary btn-square play-video" href="https://www.youtube.com/watch?v=SKxvdMEGKfE"><i class="fa fa-play"></i>{{__('home.watchVideo')}}</a> -->
                                 <!-- <p class="cps-banner-btn-blow-text mv-center">{!! getSettingValue('btn-blow-text') !!}</p>
                             </div> -->
                         </div>
@@ -64,12 +64,12 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-12">
-                            <h3 class="cps-banner-subtitle">Quality Real Estate Feature Sheets<br>For Your Home Viewings and<br>Opening Houses.</h3>
-                            <h1 class="cps-banner-title"><span>INTRODUCING THE PROPERTY FEATURE<br>SHEET!</span></h1>
-                            <p class="cps-banner-text">Any REALTOR&reg; Anywhere Can Customize In Minutes!<br>No Technical Skills Required<br>Easy To Share, Print or Email To Home Buyers</p>
-                            <p class="cps-banner-text">Save Time and Money! Try our Property Feature Sheet Today</p>
+                            <h3 class="cps-banner-subtitle">{{__('home.para4_1')}}<br>{{__('home.para4_2')}}<br>{{__('home.para4_3')}}</h3>
+                            <h1 class="cps-banner-title"><span>{{__('home.para4_4')}}<br>{{__('home.para4_5')}}</span></h1>
+                            <p class="cps-banner-text">{{__('home.para4_6')}}<br>{{__('home.para4_7')}}<br>{{__('home.para4_8')}}</p>
+                            <p class="cps-banner-text">{{__('home.para4_9')}}</p>
                             <div class="cps-button-group">
-                                <a class="btn btn-primary btn-square" href="{{ url('/pricing') }}">Try Now</a>
+                                <a class="btn btn-primary btn-square" href="{{ url('/pricing') }}">{{__('home.tryNow')}}</a>
                             </div>
                         </div>
                     </div>
@@ -81,12 +81,12 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-12">
-                            <h3 class="cps-banner-subtitle">Use High Impact Infographics<br>customized your next listing<br>in minutes!</h3>
-                            <h1 class="cps-banner-title"><span>INTRODUCING THE HOUSE DETAILS<br>INFOGRAPHIC</span></h1>
-                            <p class="cps-banner-text">This is a quick and easy way to start posting your listings online.</p>
-                            <p class="cps-banner-text">Get more eyes on your property and on you!</p>
+                            <h3 class="cps-banner-subtitle">{{__('home.para5_1')}}<br>{{__('home.para5_2')}}<br>{{__('home.para5_3')}}</h3>
+                            <h1 class="cps-banner-title"><span>{{__('home.para5_4')}}<br>{{__('home.para5_5')}}</span></h1>
+                            <p class="cps-banner-text">{{__('home.para5_6')}}</p>
+                            <p class="cps-banner-text">{{__('home.para5_7')}}</p>
                             <div class="cps-button-group">
-                                <a class="btn btn-primary btn-square" href="{{ url('/pricing') }}">Try Now</a>
+                                <a class="btn btn-primary btn-square" href="{{ url('/pricing') }}">{{__('home.tryNow')}}</a>
                             </div>
                         </div>
                     </div>
@@ -127,7 +127,7 @@
             <div class="row">
                 <div class="col-md-10 col-md-offset-1 col-xs-12">
                     <div class="cps-section-header text-center">
-                        <!-- <h3 class="cps-section-title"><span class="cps-theme-color">Trusted</span> by teams, used by companies</h3> -->
+                        <!-- <h3 class="cps-section-title"><span class="cps-theme-color">{{__('home.trusted')}}</span>{{__('home.byTeamsUsedByCompanies')}}</h3> -->
                         <h3 class="cps-section-title">{{ getSettingValue('logo-title-text') }}</h3>
                         <p class="cps-section-text">{{ getSettingValue('logo-sub-title-text') }}</p>
                     </div>
@@ -155,13 +155,13 @@
         <div class="container-fluid">
             <div class="row text-center">
                 <div class="col-md-12">
-                    <h3 class="title">Products</h3>
+                    <h3 class="title">{{__('home.products')}}</h3>
                 </div>
             </div>
             <div class="row row-centered">
                 <div class="col-xs-12 testimonial-box col-centered">
                     <div class="home-cps-testimonial-item">
-                        <p>Community Feature Sheet®</p>
+                        <p>{{__('home.communityfeaturesheet')}}</p>
                         <a href="" data-toggle="modal" data-target="#community-feature-sheet">
                             <img src="{{ asset('upload/productImageSetting/'.getSettingValue('community-feature-sheet-image')) }}">
                         </a>
@@ -169,7 +169,7 @@
                 </div>
                 <div class="col-xs-12 testimonial-box col-centered">
                     <div class="home-cps-testimonial-item">
-                        <p>Property Feature Sheet</p>
+                        <p>{{__('home.propertyfeaturesheet')}}</p>
                         <a href="" data-toggle="modal" data-target="#property-feature-sheet">
                             <img src="{{ asset('upload/productImageSetting/'.getSettingValue('property-featuresheets-image')) }}">
                         </a>
@@ -177,7 +177,7 @@
                 </div>
                 <div class="col-xs-12 testimonial-box col-centered">
                     <div class="home-cps-testimonial-item">
-                        <p>Home Detail Infographic</p>
+                        <p>{{__('home.homedetailinfographic')}}</p>
                         <a href="" data-toggle="modal" data-target="#home-details-infographic">
                             <img src="{{ asset('upload/productImageSetting/'.getSettingValue('home-details-infographic-image')) }}">
                         </a>
@@ -185,7 +185,7 @@
                 </div>
                 <div class="col-xs-12 testimonial-box col-centered">
                     <div class="home-cps-testimonial-item">
-                        <p>REALTORS® Market Sentiment Survey</p>
+                        <p>{{__('home.REALTORSmarketsentimentsurvey')}}</p>
                         <a href="" data-toggle="modal" data-target="#market-sentiment-survey">
                             <img src="{{ asset('upload/productImageSetting/'.getSettingValue('market-sentiment-survey-image')) }}">
                         </a>
@@ -193,12 +193,12 @@
                 </div>
                 <!-- <div class="col-xs-12 testimonial-box col-centered">
                     <div class="home-cps-testimonial-item coming-soon">
-                        <p>Coming Soon...</p>
+                        <p>{{__('home.comingSoon')}}</p>
                     </div>
                 </div>
                 <div class="col-xs-12 testimonial-box col-centered">
                     <div class="home-cps-testimonial-item coming-soon">
-                        <p>Coming Soon...</p>
+                        <p>{{__('home.comingSoon')}}</p>
                     </div>
                 </div> -->
             </div>
@@ -209,7 +209,7 @@
         <div class="container">
             <div class="row text-center">
                 <div class="col-md-12">
-                    <h3 class="title how-it-work">How It Works</h3>
+                    <h3 class="title how-it-work">{{__('home.howitworks')}}</h3>
                 </div>
             </div>
             <div class="row mt-10 how-it-works-section-box">
@@ -226,7 +226,7 @@
                             <div class="cps-service-icon">
                                 <span><img src="/img/how-it-works/sign-up.png" height="64px"></span>
                             </div>
-                          <h4 class="cps-service-title">Sign Up</h4>
+                          <h4 class="cps-service-title">{{__('home.signup')}}</h4>
                         </div>
                         <div class="arrow"><i class="fa fa-arrow-right"></i></div>
                     </div>
@@ -237,7 +237,7 @@
                             <div class="cps-service-icon">
                                 <span><img src="/img/how-it-works/update-profile.png" height="64px"></span>
                             </div>
-                            <h4 class="cps-service-title">Update Profile</h4>
+                            <h4 class="cps-service-title">{{__('home.updateprofile')}}</h4>
                         </div>
                         <div class="arrow update-profile-arrow"><i class="fa fa-arrow-right"></i></div>
                     </div>
@@ -248,7 +248,7 @@
                             <div class="cps-service-icon">
                                 <span><img src="/img/how-it-works/print-report.png" height="64px"></span>
                             </div>
-                          <h4 class="cps-service-title">Print Report</h4>
+                          <h4 class="cps-service-title">{{__('home.printreport')}}</h4>
                         </div>
                     </div>
                 </div>
@@ -261,7 +261,7 @@
         <div class="container-fluid">
             <div class="row text-center">
                 <div class="col-md-12">
-                    <!-- <h3 class="title how-it-work">Testimonials Slider </h3> -->
+                    <!-- <h3 class="title how-it-work">{{__('home.testimonialsSlider')}} </h3> -->
                 </div>
             </div>
             <!-- Testimonial -->
@@ -282,7 +282,7 @@
                                 </div>
                             </div>
                             <div class="col-md-12 text-center">
-                                <a href="{{ URL('testimonials') }}" class="btn btn-primary" style="background:#fff;color:#EA2349;margin-top:20px;">Show More</a>
+                                <a href="{{ URL('testimonials') }}" class="btn btn-primary" style="background:#fff;color:#EA2349;margin-top:20px;">{{__('home.showMore')}}</a>
                             </div>
                         </div>
                     </div>
@@ -300,9 +300,9 @@
                 <div class="col-xs-12 text-right">
                     <div class="cps-head-quote">
                         <p class="cps-headquote-text">
-                            "This is such a fantastic addition to the marketing side of my business - Love the feature sheet!"
+                            {{__('home.para6')}}
                         </p>
-                        <p class="cps-headquote-by"><span class="cps-headquote-name">Tracy Moore</span> - <span class="cps-headquote-profession">RE/MAX Jazz Inc</span></p>
+                        <p class="cps-headquote-by"><span class="cps-headquote-name">{{__('home.tracyMoore')}}</span> - <span class="cps-headquote-profession">{{__('home.RE/MAX')}}</span></p>
                     </div>
                 </div>
             </div>
@@ -317,8 +317,8 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <div class="cps-section-header text-center">
-                        <h3 class="cps-section-title">STAY INFORMED</h3>
-                        <p class="cps-section-text">Subscribe to receive exclusive content, offers, and notifications.</p>
+                        <h3 class="cps-section-title">{{__('home.STAYINFORMED')}}</h3>
+                        <p class="cps-section-text">{{__('home.para1')}}</p>
                     </div>
                 </div>
             </div>
@@ -329,15 +329,15 @@
                             <input type="text" name="email" placeholder="Enter your email here" id="email" required>
                         </div>
                         <div class="col-md-4">
-                            <button type="submit" class="btn btn-primary subscribe-btn" id="butsave">Subscribe</button>
+                            <button type="submit" class="btn btn-primary subscribe-btn" id="butsave">{{__('home.subscribe')}}</button>
                         </div>
                     </div>
                     <div class="row text-left">
                         <div class="col-md-12 error" style="display:none;">
-                            Email Is Required.
+                            {{__('home.emailisrequired')}}
                         </div>
                         <div class="col-md-12 success" style="display:none;"> 
-                            Your Email Send Successfully.
+                            {{__('home.para2')}}
                         </div>
                     </div>
                 </div>
@@ -347,14 +347,14 @@
     <!-- Subscription End -->
 
 </div>
-<!--
+<!-- 
 <div class="bs-video">
     <div id="myVideoModal" class="modal fade">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                    <h4 class="modal-title">Community Feature Sheet&reg;</h4>
+                    <h4 class="modal-title">{{__('home.communityfeaturesheet')}}</h4>
                 </div>
                 <div class="modal-body">
                     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SKxvdMEGKfE?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -363,7 +363,7 @@
         </div>
     </div>
 </div>     
--->
+ -->
 
 <!-- testimonial Model-->
 <!-- Modal -->
@@ -373,7 +373,7 @@
             <div class="modal-header">
                 <div class="row">
                     <div class="col-md-12 text-center">
-                    <h5 class="modal-title" id="exampleModalLabel1">Community Feature Sheet®</h5>
+                    <h5 class="modal-title" id="exampleModalLabel1">{{__('home.communityfeaturesheet')}}</h5>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                         </button>
@@ -389,7 +389,7 @@
             </div>
             <div class="modal-footer">
                 <div class="col-md-12 text-center">
-                    <a href="{{ url('/productdetail') }}" class="btn btn-primary">Product Detail</a>
+                    <a href="{{ url('/productdetail') }}" class="btn btn-primary">{{__('home.productdetail')}}</a>
                 </div>
             </div>
         </div>
@@ -401,7 +401,7 @@
             <div class="modal-header">
                 <div class="row">
                     <div class="col-md-12 text-center">
-                    <h5 class="modal-title" id="exampleModalLabel2">Property Feature Sheet</h5>
+                    <h5 class="modal-title" id="exampleModalLabel2">{{__('home.propertyfeaturesheet')}}</h5>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                         </button>
@@ -417,7 +417,7 @@
             </div>
             <div class="modal-footer">
                 <div class="col-md-12 text-center">
-                    <a href="{{ route('property.feature.sheets.detail') }}" class="btn btn-primary">Product Detail</a>
+                    <a href="{{ route('property.feature.sheets.detail') }}" class="btn btn-primary">{{__('home.productdetail')}}</a>
                 </div>
             </div>
         </div>
@@ -429,7 +429,7 @@
             <div class="modal-header">
                 <div class="row">
                     <div class="col-md-12 text-center">
-                    <h5 class="modal-title" id="exampleModalLabel3">Home Details Infographic</h5>
+                    <h5 class="modal-title" id="exampleModalLabel3">{{__('home.homedetailinfographic')}}</h5>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                         </button>
@@ -445,7 +445,7 @@
             </div>
             <div class="modal-footer">
                 <div class="col-md-12 text-center">
-                    <a href="{{ route('home.details.infographic.detail') }}" class="btn btn-primary">Product Detail</a>
+                    <a href="{{ route('home.details.infographic.detail') }}" class="btn btn-primary">{{__('home.productdetail')}}</a>
                 </div>
             </div>
         </div>
@@ -457,7 +457,7 @@
             <div class="modal-header">
                 <div class="row">
                     <div class="col-md-12 text-center">
-                    <h5 class="modal-title" id="exampleModalLabel3">REALTORS® Market Sentiment Survey</h5>
+                    <h5 class="modal-title" id="exampleModalLabel3">{{__('home.REALTORSmarketsentimentsurvey')}}</h5>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                         </button>
@@ -473,7 +473,7 @@
             </div>
             <div class="modal-footer">
                 <div class="col-md-12 text-center">
-                    <a href="{{ route('survey-detail') }}" class="btn btn-primary">Product Detail</a>
+                    <a href="{{ route('survey-detail') }}" class="btn btn-primary">{{__('home.productdetail')}}</a>
                 </div>
             </div>
         </div>
@@ -494,9 +494,9 @@
                                 {!! getSettingValue('popup-text') !!}
                             </div>
                             <div class="col-md-12 text-center">
-                                <p class="font-13" style="padding-top: 5px;margin: 0px;"><input type="checkbox" name="modal-check" class="modal-check"><span style="position: relative;left:5px;top:-2px;">Don't Show Me Again</span></p>
+                                <p class="font-13" style="padding-top: 5px;margin: 0px;"><input type="checkbox" name="modal-check" class="modal-check"><span style="position: relative;left:5px;top:-2px;">{{__('home.para3')}}</span></p>
                                 <a href="{!! getSettingValue('popup-home-model-btn-link') !!}" class="btn btn-primary">{!! getSettingValue('popup-home-model-btn-text') !!}</a>
-                                <p class="font-13" style="margin-top:5px;">Are You New? <a href="{{ route('register') }}">Register</a></p>
+                                <p class="font-13" style="margin-top:5px;">{{__('home.areyounew')}} <a href="{{ route('register') }}">{{__('home.register')}}</a></p>
                             </div>
                         </div>
                     </div>

@@ -4,10 +4,10 @@
 <!-- Page Header -->
 <div class="page-header style-11">
     <div class="container">
-        <h2 class="page-title">Home Details Infographic</h2>
+        <h2 class="page-title">{{__('homeDetailsInfographicDetail.homeDetailsInfographic')}}</h2>
         <ol class="breadcrumb">
-            <li><a href="{{ Route('home') }}">Home</a></li>
-            <li class="active">Home Details Infographic</li>
+            <li><a href="{{ Route('home') }}">{{__('homeDetailsInfographicDetail.home')}}</a></li>
+            <li class="active">{{__('homeDetailsInfographicDetail.homeDetailsInfographic')}}</li>
         </ol>
     </div>
 </div>

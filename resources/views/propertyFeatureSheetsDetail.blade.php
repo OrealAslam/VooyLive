@@ -4,10 +4,10 @@
 <!-- Page Header -->
 <div class="page-header style-11">
     <div class="container">
-        <h2 class="page-title">Property Feature Sheets</h2>
+        <h2 class="page-title">{{__('propertyFeatureSheetsDetail.propertyFeatureSheets')}}</h2>
         <ol class="breadcrumb">
-            <li><a href="{{ Route('home') }}">Home</a></li>
-            <li class="active">Property Feature Sheets</li>
+            <li><a href="{{ Route('home') }}">{{__('propertyFeatureSheetsDetail.home')}}</a></li>
+            <li class="active">{{__('propertyFeatureSheetsDetail.propertyFeatureSheets')}}</li>
         </ol>
     </div>
 </div>

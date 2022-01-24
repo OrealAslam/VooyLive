@@ -3,10 +3,10 @@
 <!-- Page Header -->
 <div class="page-header style-11">
   <div class="container">
-    <h2 class="page-title">About</h2>
+    <h2 class="page-title">{{__('about.about')}}</h2>
     <ol class="breadcrumb">
-      <li><a href="{{ Route('home') }}">Home</a></li>
-      <li class="active">About</li>
+      <li><a href="{{ Route('home') }}">{{__('about.home')}}</a></li>
+      <li class="active">{{__('about.about')}}</li>
     </ol>
   </div>
 </div>
@@ -36,7 +36,7 @@
                                   <span class="ti-user"></span>
                               </div>
                               <h3 class="cps-fact-number"><span class="cps-count" data-form="0" data-to="800"></span></h3>
-                              <p class="cps-fact-name">Clients</p>
+                              <p class="cps-fact-name">{{__('about.clients')}}</p>
                           </div>
                       </div>
                       <div class="col-sm-4 col-xs-6">
@@ -45,7 +45,7 @@
                                   <span class="ti-layers-alt"></span>
                               </div>
                               <h3 class="cps-fact-number"><span class="cps-count" data-form="0" data-to="4"></span></h3>
-                              <p class="cps-fact-name">Products</p>
+                              <p class="cps-fact-name">{{__('about.products')}}</p>
                           </div>
                       </div>
                       <div class="col-sm-4 col-xs-6">
@@ -54,7 +54,7 @@
                                   <span class="ti-shopping-cart-full"></span>
                               </div>
                               <h3 class="cps-fact-number"><span class="cps-count" data-form="0" data-to="3000"</span></h3>
-                              <p class="cps-fact-name">Created</p>
+                              <p class="cps-fact-name">{{__('about.created')}}</p>
                           </div>
                       </div>
                   </div>

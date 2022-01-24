@@ -3,10 +3,10 @@
 <!-- Page Header -->
 <div class="page-header style-11">
   <div class="container">
-    <h2 class="page-title">Login</h2>
+    <h2 class="page-title">{{__('auth_login.login')}}</h2>
     <ol class="breadcrumb">
-      <li><a href="{{ url('/') }}">Home</a></li>
-      <li class="active">Login</li>
+      <li><a href="{{ url('/') }}">{{__('auth_login.home')}}</a></li>
+      <li class="active">{{__('auth_login.login')}}</li>
     </ol>
   </div>
 </div>
@@ -18,7 +18,7 @@
       <div class="row">
         <div class="col-md-10 col-md-offset-1 col-xs-12">
           <div class="cps-section-header text-center">
-            <h3 class="cps-section-title">Enter your account info</h3>
+            <h3 class="cps-section-title">{{__('auth_login.enterYourAccountInfo')}}</h3>
             <p class="cps-section-text"></p>
           </div>
         </div>
@@ -50,13 +50,13 @@
               @endif
             </div>
             <div class="form-group">
-              <label><input type="checkbox" name="remember" {{ old('remember') ? 'checked' : '' }}> Remember Me</label>
+              <label><input type="checkbox" name="remember" {{ old('remember') ? 'checked' : '' }}> {{__('auth_login.rememberMe')}}</label>
             </div>
             <div class="form-group">
-              <button type="submit">Login</button>
+              <button type="submit">{{__('auth_login.login')}}</button>
             </div>
             <div class="form-group">
-              <a class="btn btn-link" href="{{ route('password.request') }}">Forgot Your Password?</a>
+              <a class="btn btn-link" href="{{ route('password.request') }}">{{__('auth_login.forgotYourPassword')}}</a>
             </div>
           </form>
         </div>

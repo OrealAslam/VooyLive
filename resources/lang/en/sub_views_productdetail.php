@@ -1,0 +1,22 @@
+<?php
+return[
+    'schools'=>'Schools',
+    'transit'=>'Transit',
+    'shops'=>'Shops',
+    'health'=>'Health',
+    'parks'=>'Parks',
+    'cafes'=>'Cafes',
+    'libraries'=>'Libraries',
+    'demographics'=>'Demographics',
+    'para1'=>'Reasons to use a Community Feature Sheet®',
+    'easyToRead'=>'Easy to read',
+    'para2'=>'Community Feature Sheets® appealing and attractive design, allows Home buyers to quickly scan and review a Community',
+    'positiveBuyingExperience'=>'Positive buying experience',
+    'para3'=>'Community Feature Sheets® highlight important neighbourhood information that is essential to a positive home buying experience.',
+    'buildConfidence'=>'Build Confidence',
+    'para4'=>'Community Feature Sheets® inspire and build confidence in home buyers that helps them to make the decision you what them to make.',
+    'aStepAhead'=>'A step ahead',
+    'para5'=>'By using innovative home marketing ideas, you stay a step ahead of the competition.',
+    'newAudiences'=>'New audiences',
+    'para6'=>'Community Feature Sheets® result in exposure to new audiences, which will lead to new business.',
+];

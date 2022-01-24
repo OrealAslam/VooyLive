@@ -53,7 +53,7 @@
             <div class="container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
-                        <span class="sr-only">Toggle navigation</span>
+                        <span class="sr-only">{{__('layouts_template.toggleNavigation')}}</span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
@@ -87,10 +87,10 @@
             <div class="cookie-notice container-fluid">
                 <div class="row">
                     <div class="col-md-10">
-                        <p class="cookie-para">This website uses Cookies to improver your experiance when browsing our website. By clicking ont the "Accept Cookies" button or continuing to use this site, you are agreeing to their use. Mearn More about our use of cookies and of cookie and how to restrict usage in our <a href="">Cookie Policy.</a></p>
+                        <p class="cookie-para">{{__('layouts_template.para1')}}<a href="">{{__('layouts_template.cookiePolicy')}}</a></p>
                     </div>
                     <div class="col-md-2">
-                        <a href="javascript:;" class="btn btn-primary cookie-btn-accept">Accept Cookies</a>
+                        <a href="javascript:;" class="btn btn-primary cookie-btn-accept">{{__('layouts_template.acceptCookies')}}</a>
                     </div>
                 </div>
             </div>

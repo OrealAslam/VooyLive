@@ -4,10 +4,10 @@
 <!-- Page Header -->
 <div class="page-header style-11">
     <div class="container">
-        <h2 class="page-title">Market Sentiment Survey</h2>
+        <h2 class="page-title">{{__('surveyDetail.marketSentimentSurvey')}}</h2>
         <ol class="breadcrumb">
-            <li><a href="{{ Route('home') }}">Home</a></li>
-            <li class="active">Market Sentiment Survey</li>
+            <li><a href="{{ Route('home') }}">{{__('surveyDetail.home')}}</a></li>
+            <li class="active">{{__('surveyDetail.marketSentimentSurvey')}}</li>
         </ol>
     </div>
 </div>

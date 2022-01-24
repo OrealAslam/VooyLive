@@ -60,8 +60,8 @@
                     <li><a href="{{ Route('home') }}"><img src="https://communityfeaturesheet.com/image/cache/catalog/b22701_4a3021c8bf964e0980b68bae5eb82079-586x133.gif"   alt="{{ config('app.name', 'HoodQ') }}" style="width: 100%" /></a></li>
 
                      @if (Auth::guest())
-                            <li><a href="{{ route('login') }}">Login</a></li>
-                            <li><a href="{{ route('register') }}">Register</a></li>
+                            <li><a href="{{ route('login') }}">{{__('layouts_layout.login')}}</a></li>
+                            <li><a href="{{ route('register') }}">{{__('layouts_layout.register')}}</a></li>
                         @endif
 
 
@@ -82,12 +82,12 @@
 
                         @yield('nav')
 
-                        <li><a href="{{ url('/account') }}">My Account</a></li>
+                        <li><a href="{{ url('/account') }}">{{__('layouts_layout.myaccount')}}</a></li>
                             <li>
                                 <a href="{{ route('logout') }}"
                                     onclick="event.preventDefault();
                                              document.getElementById('logout-form').submit();">
-                                    Logout
+                                    {{__('layouts_layout.logout')}}
                                 </a>
 
                                 <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
@@ -97,8 +97,8 @@
                         @endif
                     </ul>
                     <ul class="nav nav-pills  nav-stacked bs-docs-sidenav">
-                        <li><a href="{{ url('about') }}">About</a></li>
-                        <li><a href="{{ url('terms') }}">Terms & Conditions</a></li>
+                        <li><a href="{{ url('about') }}">{{__('layouts_layout.about')}}</a></li>
+                        <li><a href="{{ url('terms') }}">{{__('layouts_layout.termsconditions')}}</a></li>
                     </ul>
 </nav>
         </div>

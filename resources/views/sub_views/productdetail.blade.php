@@ -14,19 +14,19 @@
                         <div class="connection-logoes">
                             <div class="connection-logo-item">
                                 <img src="img/report-logos/school.png">
-                                <span class="connection-name">Schools</span>
+                                <span class="connection-name">{{__('sub_views_productdetail.schools')}}</span>
                             </div>
                             <div class="connection-logo-item">
                                 <img src="img/report-logos/transit.png">
-                                <span class="connection-name">Transit</span>
+                                <span class="connection-name">{{__('sub_views_productdetail.transit')}}</span>
                             </div>
                             <div class="connection-logo-item">
                                 <img src="img/report-logos/shops.png">
-                                <span class="connection-name">Shops</span>
+                                <span class="connection-name">{{__('sub_views_productdetail.shops')}}</span>
                             </div>
                             <div class="connection-logo-item">
                                 <img src="img/report-logos/health.png">
-                                <span class="connection-name">Health</span>
+                                <span class="connection-name">{{__('sub_views_productdetail.health')}}</span>
                             </div>
                         </div>
                         <div class="center-block logo-mock">
@@ -35,19 +35,19 @@
                         <div class="connection-logoes">
                             <div class="connection-logo-item">
                                 <img src="img/report-logos/parks.png">
-                                <span class="connection-name">Parks</span>
+                                <span class="connection-name">{{__('sub_views_productdetail.parks')}}</span>
                             </div>
                             <div class="connection-logo-item">
                                 <img src="img/report-logos/cafe.png">
-                                <span class="connection-name">Cafes</span>
+                                <span class="connection-name">{{__('sub_views_productdetail.cafes')}}</span>
                             </div>
                             <div class="connection-logo-item">
                                 <img src="img/report-logos/liberary.png">
-                                <span class="connection-name">Libraries</span>
+                                <span class="connection-name">{{__('sub_views_productdetail.libraries')}}</span>
                             </div>
                             <div class="connection-logo-item">
                                 <img src="img/report-logos/demographics.png">
-                                <span class="connection-name">Demographics</span>
+                                <span class="connection-name">{{__('sub_views_productdetail.demographics')}}</span>
                             </div>
                         </div>
                     </div>
@@ -81,15 +81,15 @@
               <div class="row">
                   <div class="col-md-8 col-md-offset-2 col-xs-12">
                       <div class="cps-section-header text-center">
-                          <h3 class="cps-section-title">Reasons to use a Community Feature Sheet&reg;</h3>
+                          <h3 class="cps-section-title">{{__('sub_views_productdetail.para1')}}</h3>
                           <p class="cps-section-text"></p>
                       </div>
                   </div>
               </div>
               <div class="row">
                   <div class="col-sm-6 col-xs-12 xs-bottom-30 easy_to_read">
-                      <h4 class="cps-subsection-title">Easy to read</h4>
-                      <p class="cps-subsection-text">Community Feature Sheets&reg; appealing and attractive design, allows Home buyers to quickly scan and review a Community</p>
+                      <h4 class="cps-subsection-title">{{__('sub_views_productdetail.easyToRead')}}</h4>
+                      <p class="cps-subsection-text">{{__('sub_views_productdetail.para2')}}</p>
                   </div>
                   <div class="col-sm-6 col-xs-12">
                       <img class="img-responsive" src="{{ asset('upload/productImageSetting/'.getSettingValue('product-detail-image')) }}" alt="...">
@@ -99,8 +99,8 @@
           <div class="cps-sub-section">
               <div class="row">
                   <div class="col-sm-6 col-sm-push-6 col-xs-12 xs-bottom-30">
-                      <h4 class="cps-subsection-title">Positive buying experience</h4>
-                      <p class="cps-subsection-text">Community Feature Sheets® highlight important neighbourhood information that is essential to a positive home buying experience.</p>
+                      <h4 class="cps-subsection-title">{{__('sub_views_productdetail.positiveBuyingExperience')}}</h4>
+                      <p class="cps-subsection-text">{{__('sub_views_productdetail.para3')}}</p>
                   </div>
                   <div class="col-sm-6 col-sm-pull-6 col-xs-12">
                       <img class="img-responsive" src="img/features/positive_buying_experience.png" alt="...">
@@ -110,8 +110,8 @@
           <div class="cps-sub-section">
               <div class="row">
                   <div class="col-sm-6 col-xs-12 xs-bottom-30 build-confidence">
-                      <h4 class="cps-subsection-title">Build Confidence</h4>
-                      <p class="cps-subsection-text">Community Feature Sheets® inspire and build confidence in home buyers that helps them to make the decision you what them to make.</p>
+                      <h4 class="cps-subsection-title">{{__('sub_views_productdetail.buildConfidence')}}</h4>
+                      <p class="cps-subsection-text">{{__('sub_views_productdetail.para4')}}</p>
                   </div>
                   <div class="col-sm-6 col-xs-12 text-center">
                       <img class="img-responsive features-side-img" src="img/features/build_confidence.jpg" alt="...">
@@ -121,8 +121,8 @@
           <div class="cps-sub-section">
               <div class="row">
                   <div class="col-sm-6 col-sm-push-6 col-xs-12 xs-bottom-30 a-step-ahead">
-                      <h4 class="cps-subsection-title">A step ahead</h4>
-                      <p class="cps-subsection-text">By using innovative home marketing ideas, you stay a step ahead of the competition.</p>
+                      <h4 class="cps-subsection-title">{{__('sub_views_productdetail.aStepAhead')}}</h4>
+                      <p class="cps-subsection-text">{{__('sub_views_productdetail.para5')}}</p>
                   </div>
                   <div class="col-sm-6 col-sm-pull-6 col-xs-12">
                       <img class="img-responsive" src="img/features/a_step_ahead.png" alt="...">
@@ -132,8 +132,8 @@
           <div class="cps-sub-section">
               <div class="row">
                   <div class="col-sm-6 col-xs-12 xs-bottom-30 new-audiences" style="">
-                      <h4 class="cps-subsection-title">New audiences</h4>
-                      <p class="cps-subsection-text">Community Feature Sheets® result in exposure to new audiences, which will lead to new business.</p>
+                      <h4 class="cps-subsection-title">{{__('sub_views_productdetail.newAudiences')}}</h4>
+                      <p class="cps-subsection-text">{{__('sub_views_productdetail.para6')}}</p>
                   </div>
                   <div class="col-sm-6 col-xs-12 text-center">
                       <img class="img-responsive features-side-img" src="img/features/new_audiences.png" alt="...">

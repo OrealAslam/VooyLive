@@ -4,10 +4,10 @@
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center">
                 <div class="cps-section-header text-center">
-                    <h3 class="cps-section-title">Get started today</h3>
-                    <p class="cps-section-text">Signing up is free and only takes a few minutes<br>Create your account today and start generating reports</p>
+                    <h3 class="cps-section-title">{{__('sub_views_getstarted.getstarted')}}</h3>
+                    <p class="cps-section-text">{{__('sub_views_getstarted.para1')}}<br>{{__('sub_views_getstarted.para2')}}</p>
                 </div>
-                <a class="btn btn-square btn-primary" href="{{ url('register') }}">Start Now</a>
+                <a class="btn btn-square btn-primary" href="{{ url('register') }}">{{__('sub_views_getstarted.startnow')}}</a>
             </div>
         </div>
     </div>
