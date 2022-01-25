@@ -4,55 +4,56 @@ $cat = $category->orderBy('type','asc')->first();
 @endphp
 <ul class="nav navbar-nav navbar-right">
 @if (Auth::guest())
-    <!-- <li><a href="{{-- url('/') --}}">{{__('layouts_menu.home')}}</a></li> -->
-    <!-- <li><a href="{{-- Route('page.hdi') --}}">{{__('layouts_menu.HDI')}}</a></li> -->
-    <li><a href="{{ url('/about') }}">{{__('layouts_menu.about')}}</a></li>
+    <!-- <li><a href="{{-- url('/') --}}">Home</a></li> -->
+    <!-- <li><a href="{{-- Route('page.hdi') --}}">HDI</a></li> -->
+    <li><a href="{{ url('/about') }}">About</a></li>
     <li class="dropdown">
         <a class="dropdown-toggle" data-toggle="dropdown" href="#">
-        <span id="selected">{{__('layouts_menu.products')}}</span><span class="caret"></span></a>
+        <span id="selected">Products</span><span class="caret"></span></a>
         <ul class="dropdown-menu">
-            <li><a href="{{ url('/productdetail') }}">{{__('layouts_menu.communityfeaturesheet')}}</a></li>
-            <li><a href="{{ route('property.feature.sheets.detail') }}">{{__('layouts_menu.propertyfeaturesheet')}}</a></li>
-            <li><a href="{{ route('home.details.infographic.detail') }}">{{__('layouts_menu.homedetailinfographic')}}</a></li>
-            <li><a href="{{ route('survey-detail') }}">{{__('layouts_menu.REALTORSmarketsentimentsurvey')}}</a></li>           
+            <li><a href="{{ url('/productdetail') }}">Community Feature Sheet®</a></li>
+            <li><a href="{{ route('property.feature.sheets.detail') }}">Property Feature Sheet</a></li>
+            <li><a href="{{ route('home.details.infographic.detail') }}">Home Detail Infographic</a></li>
+            <li><a href="{{ route('survey-detail') }}">REALTORS® Market Sentiment Survey</a></li>           
         </ul>
     </li>
-    <!-- <li><a href="{{-- url('/productdetail') --}}">{{__('layouts_menu.productDetails')}}</a></li> -->
-    <!-- <li><a href="{{-- url('/faqs') --}}">{{__('layouts_menu.FAQs')}}</a></li> -->
-    <!-- <li><a href="{{-- url('/termsconditions') --}}">{{__('layouts_menu.termsConditions')}}</a></li> -->
-    <!-- <li><a href="{{-- url('/pricing') --}}">{{-- config('app.trial_period') --}} {{__('layouts_menu.daysFree')}}</a></li> -->
-    <li><a href="{{ url('/pricing') }}">{{__('layouts_menu.pricing')}}</a></li>
-    <li><a href="{{ url('/login') }}">{{__('layouts_menu.signin')}}</a></li>
-    <li class="try-it"><a href="{{ url('/register') }}">{{__('layouts_menu.register')}}</a></li>
+    <!-- <li><a href="{{-- url('/productdetail') --}}">Product Details</a></li> -->
+    <!-- <li><a href="{{-- url('/faqs') --}}">FAQs</a></li> -->
+    <!-- <li><a href="{{-- url('/termsconditions') --}}">Terms & Conditions</a></li> -->
+    <!-- <li><a href="{{-- url('/pricing') --}}">{{-- config('app.trial_period') --}} Days Free</a></li> -->
+    <li><a href="{{ url('/pricing') }}">Pricing</a></li>
+    <li><a href="{{ url('/blog') }}">Blog</a></li>
+    <li><a href="{{ url('/login') }}">Sign In</a></li>
+    <li class="try-it"><a href="{{ url('/register') }}">Register</a></li>
 @else
 
-    <li><a href="{{Route('user.refer-a-colleague')}}" style="color: #ea2349;font-weight: bold;">{{__('layouts_menu.getafreereport')}}</a></li>       
-    <li><a href="{{Route('dashboard')}}">{{__('layouts_menu.dashboard')}}</a></li>       
+    <li><a href="{{Route('user.refer-a-colleague')}}" style="color: #ea2349;font-weight: bold;">Get a Free Report</a></li>       
+    <li><a href="{{Route('dashboard')}}">Dashboard</a></li>       
     <li class="dropdown">
-        <a class="dropdown-toggle" data-toggle="dropdown" href="#">{{__('layouts_menu.myaccount')}}<b class="caret"></b> </a>
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">My Account <b class="caret"></b> </a>
         <ul class="dropdown-menu">
-            <li><a href="{{ url('/account/password') }}">{{__('layouts_menu.changepassword')}}</a></li>
-            <li><a href="{{ Route('profileview') }}">{{__('layouts_menu.profile')}}</a></li>
+            <li><a href="{{ url('/account/password') }}">Change Password</a></li>
+            <li><a href="{{ Route('profileview') }}">Profile</a></li>
             @if(Auth::User()->parent_id == NULL || Auth::User()->user_type == 1)
-                <li><a href="{{ url('/account/manage') }}">{{__('layouts_menu.manageaccount')}}</a></li>
+                <li><a href="{{ url('/account/manage') }}">Manage Account</a></li>
             @endif
-            <!-- <li><a href="{{ url('/account/updateCard') }}">{{__('layouts_menu.updateCreditCard')}}</a></li> -->
-            <li><a href="{{ url('/account/transactions') }}">{{__('layouts_menu.myCFSreports')}}</a></li>
-            <li><a href="{{ Route('flyers-list') }}">{{__('layouts_menu.myPFSreports')}}</a></li>
-            <li><a href="{{ Route('hdis-list') }}">{{__('layouts_menu.myHDIreports')}}</a></li>
-            <li><a href="{{ route('my.surveys') }}">{{__(menu.mysurveys)}}</a></li>
+            <!-- <li><a href="{{ url('/account/updateCard') }}">Update Credit Card</a></li> -->
+            <li><a href="{{ url('/account/transactions') }}">My CFS Reports</a></li>
+            <li><a href="{{ Route('flyers-list') }}">My PFS Reports</a></li>
+            <li><a href="{{ Route('hdis-list') }}">My HDI Reports</a></li>
+            <li><a href="{{ route('my.surveys') }}">My Surveys</a></li>
             @if(Auth::User()->parent_id == NULL || Auth::User()->user_type == 1)
-                <li><a href="{{ Route('user.invoices') }}">{{__('layouts_menu.myinvoices')}}</a></li>
-                <li><a href="{{ Route('user.referrals-list') }}">{{__('layouts_menu.myreferral')}}</a></li>
-                <li><a href="{{ Route('user.credits-list') }}">{{__('layouts_menu.mycredits')}}</a></li>
+                <li><a href="{{ Route('user.invoices') }}">My Invoices</a></li>
+                <li><a href="{{ Route('user.referrals-list') }}">My Referral</a></li>
+                <li><a href="{{ Route('user.credits-list') }}">My Credits</a></li>
             @endif
 
             @if(auth::user()->user_type == 1)
-                <li><a href="{{ Route('users.list') }}">{{__('layouts_menu.users')}}</a></li>
+                <li><a href="{{ Route('users.list') }}">Users</a></li>
             @endif
             
             <!--
-            <li><a href="{{ url('/account/recharge') }}">{{__('layouts_menu.recharge')}}</a></li> -->           
+            <li><a href="{{ url('/account/recharge') }}">Recharge</a></li> -->           
         </ul>
     </li>
     @yield('nav')
@@ -64,7 +65,7 @@ $cat = $category->orderBy('type','asc')->first();
           </form>
     </li>
     @if (Auth::user()->role == 'admin')
-        <li><a href="{{Route('adminDashboard')}}">{{__('layouts_menu.admindashboard')}}</a></li>
+        <li><a href="{{Route('adminDashboard')}}">Admin Dashboard</a></li>
     @endif
     @if (!isset($hide_top_address_search))
     <li>
