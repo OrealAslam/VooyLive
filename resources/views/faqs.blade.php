@@ -4,10 +4,10 @@
 <!-- Page Header -->
 <div class="page-header style-11">
     <div class="container">
-        <h2 class="page-title">Frequently Asked Question</h2>
+        <h2 class="page-title">{{__('faqs.FAQs')}}</h2>
         <ol class="breadcrumb">
-            <li><a href="{{ url('/') }}">Home</a></li>
-            <li class="active">Frequently Asked Question</li>
+            <li><a href="{{ url('/') }}">{{__('faqs.home')}}</a></li>
+            <li class="active">{{__('faqs.FAQs')}}</li>
         </ol>
     </div>
 </div>

@@ -4,10 +4,10 @@
 <!-- Page Header -->
 <div class="page-header style-11">
     <div class="container">
-        <h2 class="page-title">Testimonials</h2>
+        <h2 class="page-title">{{__('testimonials.testimonials')}}</h2>
         <ol class="breadcrumb">
-            <li><a href="{{ url('/') }}">Home</a></li>
-            <li class="active">Testimonials</li>
+            <li><a href="{{ url('/') }}">{{__('testimonials.home')}}</a></li>
+            <li class="active">{{__('testimonials.testimonials')}}</li>
         </ol>
     </div>
 </div>
