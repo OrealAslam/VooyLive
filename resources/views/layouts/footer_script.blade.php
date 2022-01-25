@@ -1,24 +1,25 @@
 <div class="modal fade" id="card-charge">
   <div class="modal-dialog">
     <div class="modal-content">
-
+      
       <div class="modal-body">
-        <p>{{__('layouts_footer_script.para1')}}</p>
+        <p>You are subscribed to Pay Per Report Plan. 
+        So your card will be Charged for Report.</p>
         <p>
-        {{__('layouts_footer_script.para2')}}
+          I want to create a Community Feature Sheet® for
         </p>
-        {{__('layouts_footer_script.address')}} <h2 id="reportAddress"></h2>
-        {{__('layouts_footer_script.amount')}} <h2>{{env('CURRENCY_SYMBOL').(double)env('REPORTCHARGE')/100 }}</h2>
+        Address: <h2 id="reportAddress"></h2>
+        Amount: <h2>{{env('CURRENCY_SYMBOL').(double)env('REPORTCHARGE')/100 }}</h2>
         <!-- <small>If you already own the report You won't be charged</small> -->
         <div class="form-group">
-          <label for="discount" class="control-label">{{__('layouts_footer_script.couponcode')}}</label>
+          <label for="discount" class="control-label">Coupon Code</label>
           <input type="text" id="discount" class="form-control">
-          {{('footer_script.couponhere')}}
+          (Have a coupon? Enter it here!)
         </div>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">{{__('layouts_footer_script.cancel')}}</button>
-        <button type="button" id="charge-button" class="btn btn-primary">{{('footer_script.confirm')}}</button>
+        <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+        <button type="button" id="charge-button" class="btn btn-primary">Confirm</button>
       </div>
     </div>
   </div>
@@ -29,7 +30,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="gridSystemModalLabel">{{__('layouts_footer_script.message')}}</h4>
+        <h4 class="modal-title" id="gridSystemModalLabel">Message</h4>
       </div>
       <div class="modal-body">
       </div>
@@ -391,14 +392,14 @@ toastr.options = {
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                <h4 class="modal-title text-center" id="gridSystemModalLabel">{{__(footer_script.chooseformat)}}</h4>
+                <h4 class="modal-title text-center" id="gridSystemModalLabel">Choose Format</h4>
               </div>
               <div class="modal-body">
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-6 text-center">
                         <div class="selectTemplate">
                             <a href="{{$classicReportUrl}}">
-                                {{__('layouts_footer_script.classic')}}
+                                Lite
                                 <img src="/img/products/classic.jpg" class="img-responsive">
                             </a>
                         </div>
@@ -406,7 +407,7 @@ toastr.options = {
                     <div class="col-lg-6 col-md-6 col-sm-6 text-center">
                         <div class="selectTemplate">
                             <a href="{{$metroReportUrl}}">
-                                {{__('layouts_footer_script.metro')}}
+                                Metro
                                 <img src="/img/products/metro.jpg" class="img-responsive">
                             </a>
                         </div>

@@ -23,7 +23,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 text-center">
-                <input name="template_type" id="template_type" type="checkbox" data-toggle="toggle" data-on="Metro" data-off="Classic">
+                <input name="template_type" id="template_type" type="checkbox" data-toggle="toggle" data-on="Metro" data-off="Lite">
             </div>
             <!-- <a href="{{--$downloadLink--}}">Download</a> -->
         </div>
