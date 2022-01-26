@@ -5,7 +5,7 @@
         </div>
     </div>
     <div class="col-lg-7 col-md-7 col-sm-7 school-item-container">
-        <div class="row">
+        <div class="row" id="librarydata">
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="row">
                     <div class="col-lg-3 col-md-3 col-sm-2 public-library-text">
@@ -34,7 +34,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-6">
+            <div class="col-lg-6 col-md-6 col-sm-6" id="libraryvalue">
                 <div class="row">
                     <div class="library-address">
                         <div>
