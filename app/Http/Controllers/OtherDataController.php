@@ -168,6 +168,10 @@ class OtherDataController extends Controller
             $DA = $this->fallBackDA($city);
         }
 
+        if(!$DA){
+            $DA='2016A0011'.substr($postal,0,3);
+        }
+
         $data = $this->getDAData($DA);
        
         $result = $this->formatData($data);
@@ -178,19 +182,33 @@ class OtherDataController extends Controller
             $upperResult = $this->formatData($data);
             if($upperResult['average_total_income'] != 0){
                 $result= $upperResult;
+            }else{
+                //fallback
+                $NewDA = '2016A0011'.substr($postal,0,3);
+                if($DA != $NewDA){
+                    $data = $this->getDAData($NewDA);
+                    $upperResult = $this->formatData($data);
+    
+                    if($upperResult['average_total_income'] != 0){
+                        $result= $upperResult;
+                    }
+                }
             }
         }
-
-        Storage::put('census/'.$postal.'.json', json_encode($result));
-
-
+        if($result['average_total_income']!=0){
+            Storage::put('census/'.$postal.'.json', json_encode($result));
+        }
         return $result;
     }
     private function getDAData($DA){
+
+        if(!$DA){
+
+        }
         try {
             $url ='https://www12.statcan.gc.ca/rest/census-recensement/CPR2016.json?lang=E&dguid='.$DA.'&topic=0&notes=0&stat=0';
 
-            $json = file_get_contents($url);
+            $json = @file_get_contents($url);
 
             $data=json_decode($json,true);
             return $data;
@@ -198,7 +216,6 @@ class OtherDataController extends Controller
         } catch (Exception $e) {
             return null;
         }
-        
     }
     private function formatData($data){
         if(isset($data["DATA"])){
