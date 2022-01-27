@@ -140,6 +140,7 @@
                                 <li><a href="{{ route('dashboard')}}" >Front Dashboard</a></li>
                                 <li><a href="{{ route('adminUpdateProfile') }}" >Update Profile</a></li>
                                 <li><a href="{{ route('setting') }}" >Setting</a></li>
+                                <li><a href="{{ route('frsetting') }}" >FR Setting</a></li>
                                 <li><a href="{{ route('logout') }}"  onclick="event.preventDefault();
                                              document.getElementById('logout-form').submit();"><i class="fa fa-sign-out pull-right"></i> Log Out</a></li>
                                 <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
