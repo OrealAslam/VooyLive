@@ -27,7 +27,7 @@
 	        <div class="row">
 	            <div class="x_title">
 	                <div class="col-md-6">
-	                    <h2>Admin Setting</h2>
+	                    <h2>French Language Settings</h2>
 	                </div>
 	                <div class="col-md-6 text-right">
 	                    <!-- <a href="{{ route('product.create') }}" class="btn btn-success">Add New Product</a> -->
