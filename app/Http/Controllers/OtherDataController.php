@@ -203,7 +203,7 @@ class OtherDataController extends Controller
     private function getDAData($DA){
 
         if(!$DA){
-
+            return null;
         }
         try {
             $url ='https://www12.statcan.gc.ca/rest/census-recensement/CPR2016.json?lang=E&dguid='.$DA.'&topic=0&notes=0&stat=0';
