@@ -14,7 +14,9 @@ class AddCatIdToBlogPostsTable extends Migration
     public function up()
     {
         Schema::table('blog_posts', function (Blueprint $table) {
-            // $table->integer('category_id')->after('id');
+            $table->integer('category_id')->after('id');
+            $table->foreign('category_id')->references('id')->on('blog_categories');
+            $table->foreign('userId')->references('userId')->on('users');
         });
     }
 
