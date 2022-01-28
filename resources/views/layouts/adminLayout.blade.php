@@ -33,6 +33,8 @@
     <!-- Custom Theme Style -->
     <link href="{{asset('build/css/custom.min.css')}}" rel="stylesheet">
 
+    <link href="{{ asset('css/select2.min.css') }}" rel="stylesheet">
+
     @yield('pageLevelCSS')
 
 </head>
@@ -86,6 +88,9 @@
                             <li><a href="{{ route('logo.index') }}"><i class="fa fa-picture-o" aria-hidden="true"></i>Logo</a></li>
                             <li><a href="{{ route('contactUs') }}"><i class="fa fa-phone" aria-hidden="true"></i>Contact Us</a></li>
                             <li><a href="{{ route('video') }}"><i class="fa fa-video-camera" aria-hidden="true"></i>Videos</a></li>
+                            <li><a href="{{ route('blog.posts') }}"><i class="fa fa-newspaper-o" aria-hidden="true"></i>Blog Posts</a></li>
+                            <li><a href="{{ route('blog.categories') }}"><i class="fa fa-list-alt" aria-hidden="true"></i>Blog Categories</a></li>
+                            <li><a href="{{ route('blog.tags') }}"><i class="fa fa-tags" aria-hidden="true"></i>Blog Tags</a></li>
                             <li><a href="{{ route('profileColours') }}"><i class="fa fa-paint-brush" aria-hidden="true"></i>Profile Colours</a></li>
                             <li><a href="{{ route('surveyList') }}"><i class="fa fa-paint-brush" aria-hidden="true"></i>Survey</a></li>
                             <li><a href="{{ route('my.surveys.test') }}"><i class="fa fa-paint-brush" aria-hidden="true"></i>Survey Testing</a></li>
@@ -285,6 +290,8 @@
 <!-- Custom Theme Scripts -->
 <script src="{{asset('build/js/custom.min.js')}}"></script>
 <script src="{{asset('vend/bootstrap-sweetalert/sweet-alert.min.js')}}"></script>
+
+<script src="{{ asset('js/select2.min.js') }}"></script>
 
 <script type="text/javascript">
       //global variable

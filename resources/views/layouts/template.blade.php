@@ -24,6 +24,7 @@
         <link href="{{ asset('css/select2.min.css') }}" rel="stylesheet">
         <link href="{{ asset('newPlugin/bootstrap-colorpicker.css') }}" rel="stylesheet">
         <link href="{{ asset('css/style.css') }}" rel="stylesheet">
+        <link href="{{ asset('css/jquery-ui.css') }}" rel="stylesheet">
         <link href="{{ asset('css/responsive.css') }}" rel="stylesheet" media="screen">        
         <link href="{{ asset('css/green.css') }}" rel="stylesheet">
         <!-- <link href="{{ asset('css/primary.css') }}" rel="stylesheet"> -->
@@ -122,6 +123,7 @@
 <script src="{{ asset('js/bootstrap-toggle.min.js') }}"></script>
 <script src="{{ asset('js/custom.js') }}"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/df-number-format/2.1.6/jquery.number.min.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
 
 {!! getSettingValue('google-analytics-space') !!}
 
