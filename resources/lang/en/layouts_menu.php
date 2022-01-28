@@ -6,6 +6,7 @@ return [
     'propertyfeaturesheet'=>'Property Feature Sheet',
     'homedetailinfographic'=>'Home Detail Infographic',
     'REALTORSmarketsentimentsurvey'=>'REALTORS® Market Sentiment Survey',
+    'blog'=>'Blog',
     'pricing'=>'Pricing',
     'signin'=>'Sign In',
     'register'=>'Register',
@@ -32,4 +33,5 @@ return [
     'daysFree'=>'Days Free',
     'updateCreditCard'=>'Update Credit Card',
     'recharge'=>'Recharge',
+    'logout'=>'Logout',
 ];

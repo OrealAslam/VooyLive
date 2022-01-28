@@ -4,10 +4,10 @@
 <!-- Page Header -->
 <div class="page-header style-11">
     <div class="container">
-        <h2 class="page-title">Terms & Conditions</h2>
+        <h2 class="page-title">{{__('termsconditions.termsConditions')}}</h2>
         <ol class="breadcrumb">
-            <li><a href="{{ Route('home') }}">Home</a></li>
-            <li class="active">Terms & Conditions</li>
+            <li><a href="{{ Route('home') }}">{{__('termsconditions.home')}}</a></li>
+            <li class="active">{{__('termsconditions.termsConditions')}}</li>
         </ol>
     </div>
 </div>

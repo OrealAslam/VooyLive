@@ -1,7 +1,7 @@
 <?php
 return[
     'go'=>'Go',
-    'viewsample'=>'View Sample',
+    'viewSample'=>'View Sample',
     'products'=>'Products',
     'communityfeaturesheet'=>'Community Feature Sheet®',
     'propertyfeaturesheet'=>'Property Feature Sheet',

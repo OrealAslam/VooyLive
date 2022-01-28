@@ -11,10 +11,10 @@
 <!-- Page Header -->
 <div class="page-header style-11">
     <div class="container">
-        <h2 class="page-title">Coverage</h2>
+        <h2 class="page-title">{{__('page_commingNext.coverage')}}</h2>
         <ol class="breadcrumb">
-            <li><a href="{{ url('/') }}">Home</a></li>
-            <li class="active">Coverage</li>
+            <li><a href="{{ url('/') }}">{{__('page_commingNext.home')}}</a></li>
+            <li class="active">{{__('page_commingNext.coverage')}}</li>
         </ol>
     </div>
 </div>
@@ -23,7 +23,7 @@
     <div class="container">
       <div class="row">
           <div class="col-md-12" align="center">
-              <p style="padding: 0px;">{!! getSettingValue('coverage') !!} <strong><a href="{{ route('page.contact-us') }}">Contact Us</a></strong></p>
+              <p style="padding: 0px;">{!! getSettingValue('coverage') !!} <strong><a href="{{ route('page.contact-us') }}">{{__('page_commingNext.contactUs')}}</a></strong></p>
           </div>
       </div>
     </div>

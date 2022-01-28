@@ -12,10 +12,10 @@
 <!-- Page Header -->
 <div class="page-header style-11">
     <div class="container">
-        <h2 class="page-title">Contact Us</h2>
+        <h2 class="page-title">{{__('page_contactUs.contactUs')}}</h2>
         <ol class="breadcrumb">
-            <li><a href="{{ url('/') }}">Home</a></li>
-            <li class="active">Contact Us</li>
+            <li><a href="{{ url('/') }}">{{__('page_contactUs.home')}}</a></li>
+            <li class="active">{{__('page_contactUs.contactUs')}}</li>
         </ol>
     </div>
 </div>
@@ -27,8 +27,8 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 col-xs-12">
                     <div class="cps-section-header text-center">
-                        <h3 class="cps-section-title">Get in Touch</h3>
-                        <p class="cps-section-text">We are eager to support, and answer any questions you may have.<br>Enter your query and we’ll get back to you shortly.</p>
+                        <h3 class="cps-section-title">{{__('page_contactUs.getInTouch')}}</h3>
+                        <p class="cps-section-text">{{__('page_contactUs.para1')}}.<br>{{__('page_contactUs.para2')}}</p>
                     </div>
                 </div>
             </div>
@@ -48,11 +48,11 @@
                             <div class="col-md-8 col-sm-6 text-center">
                                 <textarea id="message" name="message" placeholder="Your Message Here">{{old('message')}}</textarea>
                                 <div class="g-recaptcha" data-sitekey="{{ env('CAPTCHA_SITE_KEY') }}"></div>
-                                <button type="submit" class="btn btn-primary">Send</button>
+                                <button type="submit" class="btn btn-primary">{{__('page_contactUs.send')}}</button>
                             </div>
                         </div>
-                        <p class="input-success">Your message sent. Thanks for contacting.</p>
-                        <p class="input-error">Sorry, something went wrong. try again later.</p>
+                        <p class="input-success">{{__('page_contactUs.para3')}}</p>
+                        <p class="input-error">{{__('page_contactUs.para4')}}</p>
                     </form>
                 </div>
             </div>

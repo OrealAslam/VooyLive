@@ -169,10 +169,10 @@
 <!-- Page Header -->
 <div class="page-header style-11">
     <div class="container">
-        <h2 class="page-title">Sample Report</h2>
+        <h2 class="page-title">{{__('sample-report.sampleReport')}}</h2>
         <ol class="breadcrumb">
-            <li><a href="{{ Route('home') }}">Home</a></li>
-            <li class="active">Sample Report</li>
+            <li><a href="{{ Route('home') }}">{{__('sample-report.home')}}</a></li>
+            <li class="active">{{__('sample-report.sampleReport')}}</li>
         </ol>
     </div>
 </div>
@@ -182,20 +182,20 @@
     <div class="cps-section cps-section-padding cps-gray-bg">
         <div class="container">
             <h3 class="text-center">
-                Community Feature Sheet®
-                <span style="white-space: nowrap;">Sample Report</span>
+                {{__('sample-report.communityFeatureSheet')}}
+                <span style="white-space: nowrap;">{{__('sample-report.sampleReport')}}</span>
             </h3>
             <div class="row" style="margin-top:20px;">
                 <div class="col-sm-6 col-xs-12">
                       <img class="img-responsive" src="{{ asset('img/products/classic.png')}}" alt="Report">
                 </div>
                 <div class="col-sm-6 col-xs-12 xs-bottom-30 text-center">
-                    <h4 class="cps-subsection-title">Select the report you would like to view:</h4>
+                    <h4 class="cps-subsection-title">{{__('sample-report.para1')}}</h4>
                     <div class="">
-                        <button type="button" title="Community Feature Sheet® Lite" class="btn btn-primary btn-lg btn-block btn-square" style="background:#EA2349;color:#fff;margin-top:10px;font-size:2rem;" data-toggle="modal" data-target="#classicModal">Community Feature Sheet® Lite</button>
+                        <button type="button" title="Community Feature Sheet® Lite" class="btn btn-primary btn-lg btn-block btn-square" style="background:#EA2349;color:#fff;margin-top:10px;font-size:2rem;" data-toggle="modal" data-target="#classicModal">{{__('sample-report.communityFeatureSheetLite')}}</button>
                     </div>
                     <div class="">
-                        <button type="button" title="Community Feature Sheet® Metro" class="btn btn-primary btn-lg btn-block btn-square" style="background:#EA2349;color:#fff;margin-top:10px;font-size:2rem;" data-toggle="modal" data-target="#metroModal">Community Feature Sheet® Metro</button>
+                        <button type="button" title="Community Feature Sheet® Metro" class="btn btn-primary btn-lg btn-block btn-square" style="background:#EA2349;color:#fff;margin-top:10px;font-size:2rem;" data-toggle="modal" data-target="#metroModal">{{__('sample-report.communityFeatureSheetMetro')}}</button>
                     </div>                  
                 </div>
             </div>
@@ -211,10 +211,10 @@
             <div class="modal-header">
                 <div class="modal-title text-center mx-auto" style="width:100%">
                     <div class="col-12 text-center">
-                        Ready to buy a Community Feature Sheet® report?
+                        {{__('sample-report.para2')}}
                     </div>
                     <div class="col-12 text-center">
-                        <a id="getReport" class="btn btn-primary btn-square" style="background:#EA2349;color:#fff;margin-top:10px;font-size:2rem;" href="{{ url('/pricing') }}" target="_blank" title="Get Report">Get Report</a>
+                        <a id="getReport" class="btn btn-primary btn-square" style="background:#EA2349;color:#fff;margin-top:10px;font-size:2rem;" href="{{ url('/pricing') }}" target="_blank" title="Get Report">{{__('sample-report.getReport')}}</a>
                     </div>
                 </div>
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
@@ -233,10 +233,10 @@
             <div class="modal-header">
                 <div class="modal-title text-center mx-auto" style="width:100%">
                     <div class="col-12 text-center">
-                        Ready to buy a Community Feature Sheet® report?
+                        {{__('sample-report.para2')}}
                     </div>
                     <div class="col-12 text-center">
-                        <a id="getReport" class="btn btn-primary btn-square" style="background:#EA2349;color:#fff;margin-top:10px;font-size:2rem;" href="{{ url('/pricing') }}" target="_blank" title="Get Report">Get Report</a>
+                        <a id="getReport" class="btn btn-primary btn-square" style="background:#EA2349;color:#fff;margin-top:10px;font-size:2rem;" href="{{ url('/pricing') }}" target="_blank" title="Get Report">{{__('sample-report.getReport')}}</a>
                     </div>
                 </div>
                 <button type="button" class="close" data-dismiss="modal">&times;</button>

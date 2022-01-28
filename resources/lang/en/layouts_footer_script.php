@@ -11,6 +11,8 @@ return[
     'confirm'=>'Confirm:',
     'message'=>'Message:',
     'chooseformat'=>'Choose Format:',
+    'lite'=>'Lite',
     'Classic'=>'Classic:',
-    'Metro'=>'Metro:',
+    'metro'=>'Metro:',
+    'para3'=>"If you already own the report You won't be charged",
 ];

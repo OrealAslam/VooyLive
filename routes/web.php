@@ -213,6 +213,15 @@ Route::group(['prefix'=>'admin','middleware'=>['checkAdmin']],function(){
     ]);
     Route::post('setting/update','SettingController@update')->name('setting.update');
 
+     // French SettingController
+     Route::match(['get', 'post'], 'frsetting', [
+        'as' => 'frsetting',
+        'uses' => 'FrsettingController@index',
+    ]);
+    Route::post('frsetting/update','FrsettingController@update')->name('frsetting.update');
+
+
+
     // ContactUsController
     Route::match(['get', 'post'], 'contact-us', [
         'as' => 'contactUs',

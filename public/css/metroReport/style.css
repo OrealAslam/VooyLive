@@ -183,6 +183,7 @@
     }
 
     .demographics .demographics-text {
+        min-height: 283px;
         /*border-right: 2px dashed #000000;*/
     }
 
@@ -676,4 +677,10 @@
     }
     .walk-man-text2 {
         vertical-align: text-top;
+    }
+    #librarydata{
+        display:flex;
+    }
+    #libraryvalue{
+        margin:auto !important;
     }

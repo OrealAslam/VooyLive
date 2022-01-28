@@ -3,10 +3,10 @@
 <!-- Page Header -->
 <div class="page-header style-11">
   <div class="container">
-    <h2 class="page-title">Login</h2>
+    <h2 class="page-title">{{__('auth_passwords_reset.login')}}</h2>
     <ol class="breadcrumb">
-      <li><a href="{{ Route('home') }}">Home</a></li>
-      <li class="active">Login</li>
+      <li><a href="{{ Route('home') }}">{{__('auth_passwords_reset.home')}}</a></li>
+      <li class="active">{{__('auth_passwords_reset.login')}}</li>
     </ol>
   </div>
 </div>
@@ -18,7 +18,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="panel panel-default">
-                        <div class="panel-heading">Reset Password</div>
+                        <div class="panel-heading">{{__('auth_passwords_reset.resetPassword')}}</div>
 
                         <div class="panel-body">
                             <form class="form-horizontal" method="POST" action="{{ route('password.request') }}">
@@ -27,7 +27,7 @@
                                 <input type="hidden" name="token" value="{{ $token }}">
 
                                 <div class="form-group{{ $errors->has('email') ? ' has-error' : '' }}">
-                                    <label for="email" class="col-md-4 control-label">E-Mail Address</label>
+                                    <label for="email" class="col-md-4 control-label">{{__('auth_passwords_reset.emailAddress')}}</label>
 
                                     <div class="col-md-6">
                                         <input id="email" type="email" class="form-control" name="email" value="{{ $email or old('email') }}" required autofocus>
@@ -41,7 +41,7 @@
                                 </div>
 
                                 <div class="form-group{{ $errors->has('password') ? ' has-error' : '' }}">
-                                    <label for="password" class="col-md-4 control-label">Password</label>
+                                    <label for="password" class="col-md-4 control-label">{{__('auth_passwords_reset.password')}}</label>
 
                                     <div class="col-md-6">
                                         <input id="password" type="password" class="form-control" name="password" required>
@@ -55,7 +55,7 @@
                                 </div>
 
                                 <div class="form-group{{ $errors->has('password_confirmation') ? ' has-error' : '' }}">
-                                    <label for="password-confirm" class="col-md-4 control-label">Confirm Password</label>
+                                    <label for="password-confirm" class="col-md-4 control-label">{{__('auth_passwords_reset.confirmPassword')}}</label>
                                     <div class="col-md-6">
                                         <input id="password-confirm" type="password" class="form-control" name="password_confirmation" required>
 
@@ -70,7 +70,7 @@
                                 <div class="form-group">
                                     <div class="col-md-6 col-md-offset-4">
                                         <button type="submit" class="btn btn-primary">
-                                            Reset Password
+                                            {{__('auth_passwords_reset.resetPassword')}}
                                         </button>
                                     </div>
                                 </div>

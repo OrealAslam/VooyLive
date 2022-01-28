@@ -88,7 +88,7 @@
             display: none !important;
         }
         .highlights .item {
-            min-height:250px !important;
+            min-height:235px !important;
         }
     }
     @media only screen and (max-width: 600px) {
