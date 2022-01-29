@@ -37,7 +37,7 @@
         <div class="row">
             <div class="col-md-8 col-sm-7 col-xs-12">
                 <div class="mainbar post-list">
-                    @foreach ($posts as $post)
+                    @foreach ($tag->posts as $post)
                     <article class="post">
                         <div class="row">
                             <div class="col-md-6 col-sm-12 col-xs-6">
@@ -56,9 +56,6 @@
                         </div>
                     </article>
                     @endforeach
-                    <div class="text-center">
-                        {!! $posts->links(); !!}
-                    </div>
                 </div>
             </div>
             <div class="col-lg-3 col-lg-offset-1 col-md-4 col-sm-5 col-xs-12">

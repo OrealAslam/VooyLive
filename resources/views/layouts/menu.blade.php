@@ -17,14 +17,14 @@ $cat = $category->orderBy('type','asc')->first();
             <li><a href="{{ route('survey-detail') }}">{{__('layouts_menu.REALTORSmarketsentimentsurvey')}}</a></li>           
         </ul>
     </li>
-    <!-- <li><a href="{{-- url('/productdetail') --}}">{{__('layouts_menu.productDetails')}}</a></li> -->
-    <!-- <li><a href="{{-- url('/faqs') --}}">{{__('layouts_menu.FAQs')}}</a></li> -->
-    <!-- <li><a href="{{-- url('/termsconditions') --}}">{{__('layouts_menu.termsConditions')}}</a></li> -->
-    <!-- <li><a href="{{-- url('/pricing') --}}">{{-- config('app.trial_period') --}}{{__('layouts_menu.daysFree')}}</a></li> -->
-    <li><a href="{{ url('/pricing') }}">{{__('layouts_menu.pricing')}}</a></li>
-    <li><a href="{{ url('/blog') }}">{{__('layouts_menu.blog')}}</a></li>
-    <li><a href="{{ url('/login') }}">{{__('layouts_menu.signin')}}</a></li>
-    <li class="try-it"><a href="{{ url('/register') }}">{{__('layouts_menu.register')}}</a></li>
+    <!-- <li><a href="{{-- url('/productdetail') --}}">Product Details</a></li> -->
+    <!-- <li><a href="{{-- url('/faqs') --}}">FAQs</a></li> -->
+    <!-- <li><a href="{{-- url('/termsconditions') --}}">Terms & Conditions</a></li> -->
+    <!-- <li><a href="{{-- url('/pricing') --}}">{{-- config('app.trial_period') --}} Days Free</a></li> -->
+    <li><a href="{{ url('/pricing') }}">Pricing</a></li>
+    <li><a href="{{ route('blog') }}">Blog</a></li>
+    <li><a href="{{ url('/login') }}">Sign In</a></li>
+    <li class="try-it"><a href="{{ url('/register') }}">Register</a></li>
 @else
 
     <li><a href="{{Route('user.refer-a-colleague')}}" style="color: #ea2349;font-weight: bold;">{{__('layouts_menu.getafreereport')}}</a></li>       

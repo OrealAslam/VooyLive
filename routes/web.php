@@ -510,14 +510,35 @@ Route::get('/terms', function(){
     return view('termsconditions');
 });
 
-// Blog Posts
-Route::get('/blog', 'BlogPostController@index')->name('blog');
-Route::get('/blog/{blogPost}', 'BlogPostController@show');
-Route::get('/blog/create/post', 'BlogPostController@create');
-Route::post('/blog/create/post', 'BlogPostController@store'); 
-Route::get('/blog/{blogPost}/edit', 'BlogPostController@edit'); 
-Route::put('/blog/{blogPost}/edit', 'BlogPostController@update');
-Route::delete('/blog/{blogPost}', 'BlogPostController@destroy');
+// Blog Related Routes
+Route::get('blog', 'BlogPostController@index')->name('blog');
+Route::get('post/view/{id}', 'BlogPostController@show')->name('post.view');
+Route::post('search', 'BlogPostController@search')->name('search');
+Route::get('autocomplete', 'BlogPostController@autocomplete')->name('autocomplete');
+
+Route::get('blog/tags', 'BlogTagsController@index')->name('blog.tags');
+Route::get('tag/create', 'BlogTagsController@create')->name('tag.create');
+Route::post('tag/store', 'BlogTagsController@store')->name('tag.store');
+Route::get('tag/edit/{id}','BlogTagsController@edit')->name('tag.edit');
+Route::post('tag/update/{id}','BlogTagsController@update')->name('tag.update');
+Route::get('tag/delete/{id}','BlogTagsController@destroy')->name('tag.delete');
+
+Route::get('tag/posts/{id}', 'BlogPostController@getTagPosts')->name('tag.posts');
+Route::get('category/posts/{id}', 'BlogPostController@getCategoryPosts')->name('category.posts');
+
+Route::get('blog/categories', 'BlogPostController@getBlogCategories')->name('blog.categories');
+Route::get('blog/category/create', 'BlogPostController@createBlogCategory')->name('blog.category.create');
+Route::post('blog/category/store', 'BlogPostController@storeCategory')->name('blog.category.store');
+Route::get('blog/category/edit/{id}','BlogPostController@editCategory')->name('blog.category.edit');
+Route::post('blog/category/update/{id}','BlogPostController@updateCategory')->name('blog.category.update');
+Route::get('blog/category/delete/{id}','BlogPostController@deleteCategory')->name('blog.category.delete');
+Route::get('blog/posts', 'BlogPostController@getBlogPosts')->name('blog.posts');
+Route::get('post/create', 'BlogPostController@createBlogPost')->name('post.create');
+Route::post('post/store', 'BlogPostController@storePost')->name('post.store');
+Route::get('post/edit/{id}','BlogPostController@editPost')->name('post.edit');
+Route::post('post/update/{id}','BlogPostController@updatePost')->name('post.update');
+Route::get('post/delete/{id}','BlogPostController@deletePost')->name('post.delete');
+
 
 // Route::get('/testimonials', function(){
 //     return view('testimonials');

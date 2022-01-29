@@ -35,6 +35,10 @@ class User extends Authenticatable{
     protected $hidden = [
         'password', 'remember_token',
     ];
+    public function post()
+    {
+    	return $this->hasMany('App\BlogPost','userId','userId');
+    }
 	public function planMaster(){
        return $this->hasOne('App\Plan','planId','plan');
     }

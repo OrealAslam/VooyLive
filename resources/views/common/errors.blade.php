@@ -1,7 +1,7 @@
 @if (count($errors) > 0)
     <!-- Form Error List -->
-    <div class="alert alert-danger">
-        <strong>{{__('common_errors.error')}}</strong>
+    <div class="alert alert-danger" style="margin-top: 60px;">
+        <strong>Whoops! Something went wrong!</strong>
 
         <br><br>
 
@@ -15,7 +15,7 @@
 
 @if(Session::has('error_msg'))
     <!-- Form Error List -->
-    <div class="alert alert-danger">
+    <div class="alert alert-danger" style="margin-top: 60px;">
         <ul>
             <li>{{ Session::get('error_msg') }}</li>
         </ul>
