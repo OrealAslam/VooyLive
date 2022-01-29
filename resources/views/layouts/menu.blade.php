@@ -68,7 +68,7 @@ $cat = $category->orderBy('type','asc')->first();
         <li><a href="{{Route('adminDashboard')}}">{{__('layouts_menu.admindashboard')}}</a></li>
     @endif
     @if (!isset($hide_top_address_search))
-    @if (Auth::guest())
+    @if (!Auth::user()->role == 'admin')
     <li>
         <div class="create_report_main account-form">
             <div class="form-group">
