@@ -1,10 +1,9 @@
 <?php
 return[
-    'login'=>'Login',
-    'home'=>'Home',
-    'resetPassword'=>'Reset Password',
-    'emailAddress'=>'E-Mail Address',
-    'password'=>'Password',
-    'confirmPassword'=>'Confirm Password',
-    'resetPassword'=>'Reset Password',
+    'login'=>'Connexion',
+    'home'=>'Accueil',
+    'resetPassword'=>'Réinitialiser le mot de',
+    'emailAddress'=>'Adresse e-mail',
+    'password'=>'Mot de passe',
+    'confirmPassword'=>'Confirmer le mot de passe',
 ];

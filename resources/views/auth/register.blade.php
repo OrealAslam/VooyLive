@@ -216,8 +216,8 @@
         <div class="stripe-errors"></div> -->
 
         <div class="col-xs-12 well">
-            <p>If you select a {{ config('app.title') }} Plan, it will begin at the end of your free {{ config('app.trial_period') }}-day trial. If you don't wish to continue using {{ config('app.title') }}, just cancel before your free trial ends and you will not be charged. If have have not selected one, you will be able to run reports on the fly as Pay As You Go.</p>
-            <p>We will remind you {{ config('app.trial_period')/2 }} days before your trial ends so you have an uninterrupted service. You can cancel your subscription at any time, simply by clicking a link in your account settings. If you cancel, no future subscription charges will be made, although any previous transactions are non-refundable.
+            <p>{{__('auth_register.para4_1')}} {{ config('app.title') }}{{__('auth_register.para4_2')}} {{ config('app.trial_period') }}{{__('auth_register.para4_3')}} {{ config('app.title') }}{{__('auth_register.para4_4')}}</p>
+            <p>{{__('auth_register.para5_1')}} {{ config('app.trial_period')/2 }} {{__('auth_register.para5_1')}}
         </div>
 
         <div class="form-group">
