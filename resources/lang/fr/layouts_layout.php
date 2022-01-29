@@ -1,10 +1,9 @@
 <?php
 return[
-    'login'=>'Login',
-    'register'=>'Register',
-    'myaccount'=>'My Account',
-    'logout'=>'Logout',
+    'login'=>'Connexion',
+    'register'=>'S’inscrire',
+    'myaccount'=>'Mon compte',
+    'logout'=>'Déconnexion',
     'termsconditions'=>'Terms & Conditions',
-    'About'=>'About',
-    'About'=>'About',
+    'About'=>'À propos',
 ];

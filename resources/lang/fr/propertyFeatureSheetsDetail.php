@@ -1,5 +1,5 @@
 <?php
 return[
-    'propertyFeatureSheets'=>'Property Feature Sheets',
-    'home'=>'Home',
+    'propertyFeatureSheets'=>'Feuilles de caractéristiques de propriétés',
+    'home'=>'Accueil',
 ];

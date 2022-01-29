@@ -1,5 +1,5 @@
 <?php
 return[
-    'howToVideos'=>'How To Videos',
-    'home'=>'Home',
+    'howToVideos'=>'Comment faire des vidéos',
+    'home'=>'Accueil',
 ];

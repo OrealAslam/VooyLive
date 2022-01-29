@@ -1,5 +1,5 @@
 <?php
 return[
-    'FAQs'=>'Frequently Asked Question',
-    'home'=>'Home',
+    'FAQs'=>'Foire aux questions',
+    'home'=>'Accueil',
 ];

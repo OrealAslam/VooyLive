@@ -1,4 +1,4 @@
 <?php
 return[
-    'error'=>'Whoops! Something went wrong!',
+    'error'=>'Oups! Quelque chose s’est mal passé!',
 ];

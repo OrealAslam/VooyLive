@@ -1,18 +1,18 @@
 <?php
 return[
-    'para1'=>'You are subscribed to Pay Per Report Plan. 
-    So your card will be Charged for Report.',
-    'para2'=>'I want to create a Community Feature Sheet® for',
-    'address'=>'Address:',
-    'amount'=>'Amount:',
-    'couponcode'=>'Coupon Code:',
-    'couponhere'=>'(Have a coupon? Enter it here!):',
-    'cancel'=>'Cancel:',
-    'confirm'=>'Confirm:',
-    'message'=>'Message:',
-    'chooseformat'=>'Choose Format:',
-    'lite'=>'Lite',
-    'Classic'=>'Classic:',
-    'metro'=>'Metro:',
-    'para3'=>"If you already own the report You won't be charged",
+    'para1'=>'Vous êtes abonné au plan de paiement par rapport. 
+    Ainsi, votre carte sera débitée pour le rapport.',
+    'para2'=>'Je veux créer une feature sheet® communautaire pour',
+    'address'=>'Adresse:',
+    'amount'=>'Montant:',
+    'couponcode'=>'Code promo:',
+    'couponhere'=>'(Vous avez un coupon? Entrez-le ici!):',
+    'cancel'=>'Annuler:',
+    'confirm'=>'Confirmer:',
+    'message'=>'Le message:',
+    'chooseformat'=>'Choisissez Format:',
+    'lite'=>'Peu',
+    'Classic'=>'Classique:',
+    'metro'=>'Métro:',
+    'para3'=>"Si vous possédez déjà le rapport, vous ne serez pas facturé",
 ];

@@ -1,7 +1,7 @@
 <?php
 return[
-    'toggleNavigation'=>'Toggle navigation',
-    'para1'=>'This website uses Cookies to improver your experiance when browsing our website. By clicking ont the "Accept Cookies" button or continuing to use this site, you are agreeing to their use. Mearn More about our use of cookies and of cookie and how to restrict usage in ourn',
-    'cookiePolicy'=>'Cookie Policy.',
-    'acceptCookies'=>'Accept Cookies',
+    'toggleNavigation'=>'Basculer la navigation',
+    'para1'=>'Ce site Web utilise des cookies pour améliorer votre expérience lors de la navigation sur notre site Web. En cliquant sur le bouton « Accepter les cookies » ou en continuant à utiliser ce site, vous acceptez leur utilisation. En savoir plus sur notre utilisation des cookies et des cookies et comment restreindre l’utilisation dans ourn',
+    'cookiePolicy'=>'Politique en matière de cookies.',
+    'acceptCookies'=>'Accepter les cookies',
 ];

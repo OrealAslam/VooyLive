@@ -1,7 +1,7 @@
 <?php
 return[
-    'getstarted'=>'Get started today',
-    'para1'=>'Signing up is free and only takes a few minutes',
-    'para2'=>'Create your account today and start generating reports',
-    'startnow'=>'Start Now',
+    'getstarted'=>'Commencez dès aujourd’hui',
+    'para1'=>'L’inscription est gratuite et ne prend que quelques minutes',
+    'para2'=>'Créez votre compte dès aujourd’hui et commencez à générer des rapports',
+    'startnow'=>'Commencez maintenant',
 ];

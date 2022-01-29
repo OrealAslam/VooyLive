@@ -1,5 +1,5 @@
 <?php
 return[
-    'marketSentimentSurvey'=>'Market Sentiment Survey',
-    'home'=>'Home',
+    'marketSentimentSurvey'=>'Enquête sur le sentiment du marché',
+    'home'=>'Accueil',
 ];

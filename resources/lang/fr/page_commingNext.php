@@ -1,6 +1,6 @@
 <?php
 return[
-    'coverage'=>'Coverage',
-    'home'=>'Home',
-    'contactUs'=>'Contact Us',
+    'coverage'=>'Champ d’application',
+    'home'=>'Accueil',
+    'contactUs'=>'Contactez-nous',
 ];

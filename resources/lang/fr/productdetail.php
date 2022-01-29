@@ -1,5 +1,5 @@
 <?php
 return[
-    'productDetails'=>'Product Details',
-    'home'=>'Home',
+    'productDetails'=>'Détails du produit',
+    'home'=>'Accueil',
 ];

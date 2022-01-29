@@ -1,5 +1,5 @@
 <?php
 return[
-    'homeDetailsInfographic'=>'Home Details Infographic',
-    'home'=>'Home',
+    'homeDetailsInfographic'=>'Accueil Détails Infographie',
+    'home'=>'Accueil',
 ];
