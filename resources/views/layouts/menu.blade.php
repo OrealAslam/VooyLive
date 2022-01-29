@@ -87,4 +87,11 @@ $cat = $category->orderBy('type','asc')->first();
             
     </div>
 </ul> -->
+@if (App::isLocale('fr'))
+<li><a href="{{url('en')}}">En</a></li>
+@endif
+@if (App::isLocale('en'))
+<li><a href="{{url('fr')}}">Fr</a></li>
+@endif
+
 </ul>

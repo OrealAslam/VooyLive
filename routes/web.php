@@ -736,3 +736,13 @@ Route::get('/phpinfo', function () {
 });
 
 Route::get('generate-pdf', 'PdfGenerateController@pdfview')->name('generate-pdf');
+
+Route::get('en', function () {
+    Session::put('locale','en');
+    return redirect(url('/'));
+});
+
+Route::get('fr', function () {
+    Session::put('locale','fr');
+    return redirect(url('/'));
+});
