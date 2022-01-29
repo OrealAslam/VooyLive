@@ -1,6 +1,7 @@
 <?php
 
 use App\Setting;
+use App\Frsetting;
 use App\Logo;
 use App\Testimonial;
 use App\Category;
@@ -14,6 +15,10 @@ use App\Survey;
  */
 function getSettingValue($slug)
 {
+    $locale = App::getLocale();
+    if($locale == 'fr')
+  	$setting = Frsetting::where('slug',$slug)->first();
+      else
   	$setting = Setting::where('slug',$slug)->first();
   	return $setting->value;
 }
