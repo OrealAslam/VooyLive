@@ -68,6 +68,7 @@ $cat = $category->orderBy('type','asc')->first();
         <li><a href="{{Route('adminDashboard')}}">{{__('layouts_menu.admindashboard')}}</a></li>
     @endif
     @if (!isset($hide_top_address_search))
+    @if (Auth::guest())
     <li>
         <div class="create_report_main account-form">
             <div class="form-group">
@@ -77,6 +78,7 @@ $cat = $category->orderBy('type','asc')->first();
             </div>
         </div>
     </li>
+    @endif
     @endif
 @endif
 <!-- <ul class="text-right cart-button-head">
