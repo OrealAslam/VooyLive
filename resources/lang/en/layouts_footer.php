@@ -19,6 +19,7 @@ return[
     'para2'=>'Designed in Edmonton, AB.',
     'copyright'=>'Copyright',
     'para3'=>'VOOY GROUP CANADA INC, All Rights Reserved.',
+    'privacy'=>'Privacy Policy',
     'termsconditions'=>'Terms & Conditions',
     'contact'=>'Contact',
     'productDetails'=>'Product Details',

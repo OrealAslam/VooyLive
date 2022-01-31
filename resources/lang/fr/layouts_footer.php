@@ -19,6 +19,7 @@ return[
     'para2'=>'Conçu à Edmonton, AB.',
     'copyright'=>'Droit d’auteur',
     'para3'=>'VOOY GROUP CANADA INC, Tous droits réservés.',
+    'privacy'=>'Politique de confidentialité',
     'termsconditions'=>'Termes & Conditions',
     'contact'=>'Personne-ressource',
     'productDetails'=>'Détails du produit',

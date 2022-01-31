@@ -509,6 +509,9 @@ Route::get('/termsconditions', function(){
 Route::get('/terms', function(){
     return view('termsconditions');
 });
+Route::get('/privacy', function(){
+    return view('privacy');
+});
 
 // Blog Related Routes
 Route::get('blog', 'BlogPostController@index')->name('blog');

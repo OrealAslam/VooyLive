@@ -487,9 +487,9 @@
         <div class="modal-content" style="margin-top:-25px !important;">
             <div class="modal-body" style="padding:0px">
                 <div class="row">
-                        <button type="button" class="close home-popup-btn" data-dismiss="modal" style="font-size: 14px;background:#fff;padding: 2px 4px !important;opacity: unset;position: absolute;right:30px;top:10px;">
-                            <span><i class="fa fa-close" style="color:#000"></i></span>
-                        </button>
+                    <button type="button" class="close home-popup-btn" data-dismiss="modal" style="font-size: 14px;background:#fff;padding: 2px 4px !important;opacity: unset;position: absolute;right:30px;top:10px;">
+                        <span><i class="fa fa-close" style="color:#000"></i></span>
+                    </button>
                     <div class="col-md-6 text-center popup-text-home-main" style="word-wrap: break-word;padding:10px 20px;">
                         <div class="popup-text-home">
                             <div class="col-md-12 text-center">

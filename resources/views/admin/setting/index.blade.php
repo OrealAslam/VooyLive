@@ -360,6 +360,23 @@
 						                        </div>
 						                    </div>
 						            	</div>
+										<hr>
+										<div class="row" style="margin-top:20px;">
+						            		<div class="col-md-12">
+						                        <div class="form-group">
+						                            <label class="form-label">
+						                                <h4>Privacy Policy Detail Text</h4>
+						                            </label>
+						                        </div>
+						                    </div>
+						            	</div>
+						            	<div class="row">
+						            		<div class="col-md-12">
+						            			<div class="form-group">
+						            				<textarea class="form-control" name="{{ $setting['privacy-policy']['slug'] }}" rows="5" id="editor14">{{ $setting['privacy-policy']['value'] }}</textarea>
+						            			</div>
+						            		</div>
+						            	</div>
 							      	</div>
 
 							      	<div id="home-product-gst" class="tab-pane fade in">
@@ -801,5 +818,6 @@
      CKEDITOR.replace('editor11');
      CKEDITOR.replace('editor12');
      CKEDITOR.replace('editor13');
+	 CKEDITOR.replace('editor14');
 </script>
 @endsection

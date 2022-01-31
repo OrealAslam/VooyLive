@@ -109,6 +109,11 @@ class SettingSeeder extends Seeder
                     'value' => 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod'
                 ],
                 [
+                    'name' => 'Privacy Policy',
+                    'slug' => 'privacy-policy',
+                    'value' => 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod'
+                ],
+                [
                     'name' => 'Home Details Infographic Image',
                     'slug' => 'home-details-infographic-image',
                     'value' => 'test.jpg'

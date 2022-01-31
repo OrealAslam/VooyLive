@@ -72,7 +72,7 @@
             </div>
             <div class="col-sm-6 col-xs-12 text-right xs-text-center">
                 <ul class="footer-menu">
-                    <!-- <li><a href="#">{{__('layout_footer.legal')}}</a></li> -->
+                    <li><a href="{{ url('/privacy') }}">{{__('layouts_footer.privacy')}}</a></li>
                     <li><a href="{{ url('/termsconditions') }}">{{__('layouts_footer.termsconditions')}}</a></li>
                     <li><a href="{{ route('page.contact-us') }}">{{__('layouts_footer.contact')}}</a></li>
                 </ul>
