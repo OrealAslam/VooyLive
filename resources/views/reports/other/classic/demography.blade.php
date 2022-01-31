@@ -23,7 +23,7 @@
 							</svg>
 
 						</div>
-						<h3 class="colord" style="margin: 0;">
+						<h3 class="colord" style="margin: 0;"  id="households_with_children">
 							{{$household_with_child}}%
 						</h3>
 					</td>
@@ -103,7 +103,7 @@
 						<div class="demographics-title colord"  style="display: inline-block;  margin-top: 18px; vertical-align: top;">Average Household Income</div>
 					</td>
 					<td class="col-xs-3">
-						<h3 class="colord">
+						<h3 class="colord" id="average_household_income">
 							@if (isset($averageIncome))
 								${{ number_format($averageIncome) }}
 							@else
@@ -176,7 +176,7 @@
 							</g>
 							</svg>
 						</div>
-						<h3 class="colord">
+						<h3 class="colord"  id="median_age">
 							@if (isset($medianAge))
 								{{$medianAge}}
 							@else
