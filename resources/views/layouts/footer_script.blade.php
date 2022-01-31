@@ -428,25 +428,6 @@ toastr.options = {
             $(document).ready(function(){
                 var template = '{{$template}}';
                 if ( template == 'classic') {
-                    $('#template_type').bootstrapToggle('off')
-                }
-                if ( template == 'metro') {
-                    $('#template_type').bootstrapToggle('on')
-                }
-
-                $('#template_type').change(function() {
-                    if ($(this).prop('checked')) {
-                        window.location = '{{$metroReportUrl}}';
-                        return false;
-                    } else {
-                        window.location = '{{$classicReportUrl}}';
-                        return false;
-                    }
-                })
-            });
-            $(document).ready(function(){
-                var template = '{{$template}}';
-                if ( template == 'classic') {
                     $('.template_type').bootstrapToggle('off')
                 }
                 if ( template == 'metro') {
@@ -463,6 +444,7 @@ toastr.options = {
                     }
                 })
             });
+            
             @if(Auth::user() && Auth::user()->role=='admin')
             var reportAddressEditFunc = function (json) {
                 var that;

@@ -11,13 +11,13 @@
                     <div class="col-lg-12 col-md-12 col-sm-12 text1 colorb font-raleway">
                        HOUSEHOLD WITH CHILDREN
                     </div>
-                    <div class="col-lg-12 col-md-12 col-sm-12 percent1 colorb">
+                    <div class="col-lg-12 col-md-12 col-sm-12 percent1 colorb" id="households_with_children">
 						{{$household_with_child}}%
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 text2 colorb font-raleway">
                         MEDIAN AGE
                     </div>
-                    <div class="col-lg-12 col-md-12 col-sm-12 percent2 colorb">
+                    <div class="col-lg-12 col-md-12 col-sm-12 percent2 colorb" id="median_age">
 						@if (isset($medianAge))
 							{{$medianAge}}
 						@else
@@ -120,7 +120,7 @@
             <div class="col-lg-5 col-md-5 col-sm-5 age-distb">
                 <div class="row color1">
                     <div class="col-lg-12 col-md-12 col-sm-12 avg-household-size">
-                        <div class="row backgrounde value colorb">
+                        <div class="row backgrounde value colorb" id="average_household_income">
 							@if (isset($averageIncome) && !is_string($averageIncome))
 								${{ number_format($averageIncome) }}
 							@else

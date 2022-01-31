@@ -749,3 +749,8 @@ Route::get('fr', function () {
     Session::put('locale','fr');
     return redirect(url('/'));
 });
+
+Route::get('report/edit/{id}', 'ReportEditController@show');
+Route::post('report/save/{id}', 'ReportEditController@save');
+Route::get('report/json/{id}', 'ReportEditController@json');
+
