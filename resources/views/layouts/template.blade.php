@@ -89,7 +89,7 @@
             <div class="cookie-notice container-fluid">
                 <div class="row">
                     <div class="col-md-10">
-                        <p class="cookie-para">{{__('layouts_template.para1')}}<a href="">{{__('layouts_template.cookiePolicy')}}</a></p>
+                        <p class="cookie-para">{{__('layouts_template.para1')}} <a href="{{ url('/privacy')}}" target="_blank">{{__('layouts_template.cookiePolicy')}}</a></p>
                     </div>
                     <div class="col-md-2">
                         <a href="javascript:;" class="btn btn-primary cookie-btn-accept">{{__('layouts_template.acceptCookies')}}</a>
