@@ -223,7 +223,7 @@
                     <div class="col-lg-3 col-md-3 col-sm-3 text-center">
                         <svg style="enable-background:new 0 0 32 24;" version="1.1" viewBox="0 0 32 24" class="fillb" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="Layer_1"/><g id="left_x5F_quote"><g><path d="M32,24V12h-8c0-4.41,3.586-8,8-8V0c-6.617,0-12,5.383-12,12v12H32z"/><path d="M12,24V12H4c0-4.41,3.586-8,8-8V0C5.383,0,0,5.383,0,12v12H12z"/></g></g></svg>
                     </div>
-                    <div class="col-lg-9 col-md-9 col-sm-9 quote">
+                    <div class="col-lg-9 col-md-9 col-sm-9 quote text-center">
                         <span class="colorb">
                             YOU DON’T JUST BUY THE HOUSE; YOU BUY THE NEIGHBOURHOOD TOO!
                         </span>
