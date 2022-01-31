@@ -46,4 +46,6 @@ return[
     'tracyMoore'=>'Tracy Moore',
     'RE/MAX'=>'RE/MAX Jazz Inc',
     'showMore'=>'En savoir plus',
+    'enterEmail'=>'Entrez votre e-mail ici',
+
 ];

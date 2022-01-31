@@ -328,7 +328,7 @@
                 <div class="col-md-5 col-centered">
                     <div class="row">
                         <div class="col-md-8">
-                            <input type="text" name="email" placeholder="Enter your email here" id="email" required>
+                            <input type="text" name="email" placeholder="{{__('home.enterEmail')}}" id="email" required>
                         </div>
                         <div class="col-md-4">
                             <button type="submit" class="btn btn-primary subscribe-btn" id="butsave">{{__('home.subscribe')}}</button>

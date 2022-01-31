@@ -34,7 +34,7 @@
             </div>
           @endif
             <div class="form-group{{ $errors->has('email') ? ' has-error' : '' }}">
-              <input id="email" type="email" placeholder="Enter Your Email" class="form-control" name="email" value="{{ old('email') }}" required autofocus>
+              <input id="email" type="email" placeholder="{{__('auth_login.enterEmail')}}" class="form-control" name="email" value="{{ old('email') }}" required autofocus>
               @if ($errors->has('email'))
                 <span class="help-block">
                   <strong>{{ $errors->first('email') }}</strong>
@@ -42,7 +42,7 @@
               @endif
             </div>
             <div class="form-group{{ $errors->has('password') ? ' has-error' : '' }}">
-              <input id="password" type="password" placeholder="Enter Your Password" class="form-control" name="password" required>
+              <input id="password" type="password" placeholder="{{__('auth_login.enterPassword')}}" class="form-control" name="password" required>
               @if ($errors->has('password'))
                   <span class="help-block">
                       <strong>{{ $errors->first('password') }}</strong>

@@ -8,4 +8,8 @@ return[
     'para3'=>'Your message sent. Thanks for contacting.',
     'para4'=>'Sorry, something went wrong. try again later.',
     'send'=>'Send',
+    'yourName'=>'Your Name',
+    'email'=>'Email',
+    'phone'=>'Phone',
+    'yourMessage'=>'Your Message Here',
 ];

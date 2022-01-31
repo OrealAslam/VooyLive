@@ -41,12 +41,12 @@
                     	{{ csrf_field() }}
                         <div class="row">
                             <div class="col-md-4 col-sm-6">
-                                <input id="name" type="text" name="name" placeholder="Your Name"@if (isset($isLoggedIn) && $isLoggedIn === true) readonly="readonly" @endif value="{{ old('name',  isset($clientName) ? $clientName : null) }}" >
-                                <input id="email" type="email" name="email" placeholder="Email" @if (isset($isLoggedIn) && $isLoggedIn === true) readonly="readonly" @endif value="{{ old('email',  isset($clientEmail) ? $clientEmail : null) }}">
-                                <input id="phone" type="tel" name="phone" placeholder="Phone" value="{{old('phone')}}">
+                                <input id="name" type="text" name="name" placeholder="{{__('page_contactUs.yourName')}}"@if (isset($isLoggedIn) && $isLoggedIn === true) readonly="readonly" @endif value="{{ old('name',  isset($clientName) ? $clientName : null) }}" >
+                                <input id="email" type="email" name="email" placeholder="{{__('page_contactUs.email')}}" @if (isset($isLoggedIn) && $isLoggedIn === true) readonly="readonly" @endif value="{{ old('email',  isset($clientEmail) ? $clientEmail : null) }}">
+                                <input id="phone" type="tel" name="phone" placeholder="{{__('page_contactUs.phone')}}" value="{{old('phone')}}">
                             </div>
                             <div class="col-md-8 col-sm-6 text-center">
-                                <textarea id="message" name="message" placeholder="Your Message Here">{{old('message')}}</textarea>
+                                <textarea id="message" name="message" placeholder="{{__('page_contactUs.yourMessage')}}">{{old('message')}}</textarea>
                                 <div class="g-recaptcha" data-sitekey="{{ env('CAPTCHA_SITE_KEY') }}"></div>
                                 <button type="submit" class="btn btn-primary">{{__('page_contactUs.send')}}</button>
                             </div>

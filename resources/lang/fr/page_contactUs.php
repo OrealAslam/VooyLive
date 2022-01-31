@@ -8,4 +8,8 @@ return[
     'para3'=>'Votre message envoyé. Merci d’avoir contacté.',
     'para4'=>'Désolé, quelque chose s’est mal passé. réessayez plus tard.',
     'send'=>'Envoyer',
+    'yourName'=>'Ton nom',
+    'email'=>'Courriel',
+    'phone'=>'Téléphone',
+    'yourMessage'=>'Votre message ici',
 ];
