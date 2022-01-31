@@ -11,6 +11,8 @@ class ReportEditController extends Controller
         $data = [];
         $data['id'] = $id;
         $data['report'] = ReportOverride::find($id);
+        if(!$data['report'])
+        $data['report'] = new ReportOverride();
         return view('reports.edit',$data);
     }
 
