@@ -155,7 +155,7 @@
 					</g>
 					</svg>
 				</div>
-				<h3>"You don’t buy The House; you buy the neighbourhood!"</h3>
+				<h3>"You don’t just buy The House; you buy the neighbourhood too!"</h3>
 			</td>
 		</tr>
 	</table>

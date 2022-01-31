@@ -225,7 +225,7 @@
                     </div>
                     <div class="col-lg-9 col-md-9 col-sm-9 quote">
                         <span class="colorb">
-                            YOU DON’T BUY THE HOUSE; YOU BUY THE NEIGHBOURHOOD!
+                            YOU DON’T JUST BUY THE HOUSE; YOU BUY THE NEIGHBOURHOOD TOO!
                         </span>
                     </div>
                 </div>
