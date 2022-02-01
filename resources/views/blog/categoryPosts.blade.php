@@ -85,7 +85,7 @@
                             @foreach ($recentPosts as $recentPost)
                             <div class="recent-post">
                                 <a class="recent-post-thumb" href="{{ route('post.view',$recentPost->id) }}">
-                                    <img class="" src="{{ asset('upload/blog/'.$recentPost->image.'') }}" height="80" width="80" alt="{{ $recentPost->title }}">
+                                    <img class="img-responsive" src="{{ asset('upload/blog/'.$recentPost->image.'') }}" alt="{{ $recentPost->title }}">
                                 </a>
                                 <a class="post-title" href="{{ route('post.view',$recentPost->id) }}" style="margin-top:auto!important;">{{ $recentPost->title }}</a>
                                 <div class="clearfix"></div>
