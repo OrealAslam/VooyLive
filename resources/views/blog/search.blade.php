@@ -30,7 +30,7 @@
                             {!! $post->description !!}
                         </div>
                         <div class="text-center" style="margin-top:10px;font-size:50px;font-weight:bold;">
-                            Share it in Social
+                            Share it
                         </div>
                         <div class="post-share" id="share">
                             <!-- <a href="{!! getSettingValue('facebook-link')  !!}"><i class="fa fa-facebook"></i></a>
