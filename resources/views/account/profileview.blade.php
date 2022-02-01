@@ -535,22 +535,22 @@
 <script type="text/javascript">
 
 	toastr.options = {
-  "closeButton": false,
-  "debug": false,
-  "newestOnTop": false,
-  "progressBar": false,
-  "positionClass": "toast-bottom-right",
-  "preventDuplicates": false,
-  "onclick": null,
-  "showDuration": "300",
-  "hideDuration": "1000",
-  "timeOut": "5000",
-  "extendedTimeOut": "1000",
-  "showEasing": "swing",
-  "hideEasing": "linear",
-  "showMethod": "fadeIn",
-  "hideMethod": "fadeOut"
-};
+	"closeButton": false,
+	"debug": false,
+	"newestOnTop": false,
+	"progressBar": false,
+	"positionClass": "toast-bottom-right",
+	"preventDuplicates": false,
+	"onclick": null,
+	"showDuration": "300",
+	"hideDuration": "1000",
+	"timeOut": "5000",
+	"extendedTimeOut": "1000",
+	"showEasing": "swing",
+	"hideEasing": "linear",
+	"showMethod": "fadeIn",
+	"hideMethod": "fadeOut"
+	};
 
 	$(document).ready(function() {
 		$.fn.editable.defaults.ajaxOptions = {type: "GET"};
@@ -683,13 +683,14 @@
 
     $uploadCrop2 = $('#upload-demo-2').croppie({
 	    // viewport: {
-	    //     width: 100,
-	    //     height: 100
+	    //     width: 215,
+	    //     height: 215
 	    // },
 	    // boundary: {
 	    //     width: 800,
 	    //     height: 400
 	    // },
+		enableExif: true,
 	    showZoomer: true,
 	    enableResize: true,
 	    enableOrientation: true,
