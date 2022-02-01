@@ -690,6 +690,7 @@
 	        width: 800,
 	        height: 400
 	    },
+		enforceBoundary : true,
 		enableExif: true,
 	    showZoomer: true,
 	    enableResize: true,
