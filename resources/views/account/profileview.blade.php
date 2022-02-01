@@ -628,6 +628,7 @@
     });
 
     $uploadCrop = $('#upload-demo').croppie({
+		enableOrientation: true,
 	    enableExif: true,
 	    viewport: {
 	        width: 265,
@@ -681,14 +682,14 @@
     });
 
     $uploadCrop2 = $('#upload-demo-2').croppie({
-	    viewport: {
-	        width: 100,
-	        height: 100
-	    },
-	    boundary: {
-	        width: 800,
-	        height: 400
-	    },
+	    // viewport: {
+	    //     width: 100,
+	    //     height: 100
+	    // },
+	    // boundary: {
+	    //     width: 800,
+	    //     height: 400
+	    // },
 	    showZoomer: true,
 	    enableResize: true,
 	    enableOrientation: true,
