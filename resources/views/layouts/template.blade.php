@@ -40,6 +40,8 @@
         <link href="{{ asset('css/custom-style.css') }}" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="{{ asset('css/orderDesignPage.css') }}">
         <link rel="stylesheet" type="text/css" href="{{ asset('css/customTheme.css') }}">
+        <link rel="stylesheet" type="text/css" href="{{ asset('css/jssocials-theme-minima.css') }}">
+        <link rel="stylesheet" type="text/css" href="{{ asset('css/jssocials.css') }}">
         <!-- Fonts -->
         <!-- <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css"> -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:400,400i,500,600,700,800,900" rel="stylesheet" type='text/css'>
@@ -122,6 +124,7 @@
 <script src="{{ asset('js/typer.js') }}"></script>
 <script src="{{ asset('js/bootstrap-toggle.min.js') }}"></script>
 <script src="{{ asset('js/custom.js') }}"></script>
+<script src="{{ asset('js/jssocials.js') }}"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/df-number-format/2.1.6/jquery.number.min.js"></script>
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
 

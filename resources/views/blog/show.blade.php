@@ -28,11 +28,13 @@
                         <div class="post-entry">
                             {!! $post->description !!}
                         </div>
-                        <div class="post-share">
-                            <label>Follow us in Social: </label>
-                            <a href="{!! getSettingValue('facebook-link')  !!}"><i class="fa fa-facebook"></i></a>
+                        <div class="text-center" style="margin-top:10px;font-size:50px;font-weight:bold;">
+                            Share it in Social
+                        </div>
+                        <div class="post-share" id="share">
+                            <!-- <a href="{!! getSettingValue('facebook-link')  !!}"><i class="fa fa-facebook"></i></a>
                             <a href="{!! getSettingValue('instagram-link')  !!}"><i class="fa fa-instagram"></i></a>
-                            <a href="{!! getSettingValue('linkedin-link')  !!}"><i class="fa fa-linkedin"></i></a>
+                            <a href="{!! getSettingValue('linkedin-link')  !!}"><i class="fa fa-linkedin"></i></a> -->
                         </div>
                     </article>
                 </div>
@@ -92,6 +94,13 @@
     $( document ).ready(function() {    
         $( "#search" ).autocomplete({
             source: "{{ route('autocomplete') }}",
+        });
+    });
+</script>
+<script type="text/javascript">
+    $( document ).ready(function() {    
+        $("#share").jsSocials({
+            shares: ["email", "twitter", "facebook", "linkedin", "pinterest"]
         });
     });
 </script>
