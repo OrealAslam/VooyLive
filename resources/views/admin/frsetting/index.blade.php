@@ -243,20 +243,7 @@
 						                        </div>
 						                    </div>
 						            	</div>
-						            	<hr>
-						            	<div class="row">
-											<div class="col-md-9">
-										        <div class="form-group">
-										        	<label>Home Slider Image</label>
-										        	<input type="file" name="{{ $setting['home-slider-image']['slug'] }}" class="form-control">
-										        </div>
-										    </div>
-										    <div class="col-md-3">
-										    	<div class="form-group">
-										        	<img src="{{ asset('upload/productImageSetting/'.$setting['home-slider-image']['value']) }}" class="img-responsive" style="margin-top: 10px;" width="100%" height="200"></img>
-										        </div>
-										    </div>
-										</div>
+						            	
 							      	</div>
 							      	<div id="home-page" class="tab-pane fade in">
 							      		<div class="row" style="margin-top:20px;">
