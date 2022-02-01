@@ -1,4 +1,5 @@
 @extends('layouts.template')
+@section('title'){{ $post->title }}@endsection
 @section('content')
 <!-- Page Header -->
 <div class="page-header style-11">

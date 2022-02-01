@@ -1,4 +1,5 @@
 @extends('layouts.template')
+@section('title', 'News & Blog')
 <style>
     .pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
         z-index: 3!important;
