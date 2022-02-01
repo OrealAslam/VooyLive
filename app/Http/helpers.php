@@ -20,6 +20,9 @@ function getSettingValue($slug)
   	$setting = Frsetting::where('slug',$slug)->first();
       else
   	$setting = Setting::where('slug',$slug)->first();
+    if(!$setting){
+  	    $setting = Setting::where('slug',$slug)->first();
+    }
   	return $setting->value;
 }
 
