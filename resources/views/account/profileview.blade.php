@@ -440,14 +440,14 @@
 </div><!-- /.modal -->
 
 <div class="modal fade" tabindex="-1" role="dialog" id="profileLogo">
-  <div class="modal-dialog modal-lg" role="document">
+  <div class="modal-dialog modal-lg" role="document" style="min-width: 800px">
     <div class="modal-content">
       <div class="modal-body">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
         	<div class="row">
 		  		<div class="col-md-12">
 		  			<center>
-					<div id="upload-demo-2" style="width:800px"></div>
+					<div id="upload-demo-2"></div>
 					</center>
 		  		</div>
 		  		<div class="col-md-12" >
@@ -682,16 +682,14 @@
     });
 
     $uploadCrop2 = $('#upload-demo-2').croppie({
-	    // viewport: {
-	    //     width: 215,
-	    //     height: 215
-	    // },
-	    boundary: {
-	        width: 800,
-	        height: 400
-	    },
-		enforceBoundary : true,
-		enableExif: true,
+	    viewport: {
+        	width: 2000,
+        	height: 350
+		},
+		boundary:{
+			width: 650,
+			height: 350
+		},
 	    showZoomer: true,
 	    enableResize: true,
 	    enableOrientation: true,
