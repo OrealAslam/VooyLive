@@ -686,10 +686,10 @@
 	    //     width: 215,
 	    //     height: 215
 	    // },
-	    // boundary: {
-	    //     width: 800,
-	    //     height: 400
-	    // },
+	    boundary: {
+	        width: 800,
+	        height: 400
+	    },
 		enableExif: true,
 	    showZoomer: true,
 	    enableResize: true,
