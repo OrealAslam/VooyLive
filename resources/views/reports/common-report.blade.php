@@ -29,7 +29,7 @@
         </div>
     </div>
 </div>
-
+@if (Auth::guest() == false)
 <div class="common-report cps-gray-bg" style="background-color: #fff;">
     <div class="container">
         <div class="row">
@@ -40,3 +40,5 @@
         </div>
     </div>
 </div>
+
+@endif
