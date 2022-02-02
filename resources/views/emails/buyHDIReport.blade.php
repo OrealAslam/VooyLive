@@ -8,19 +8,19 @@
 			<td align="left">
 				<div class="contentEditableContainer contentTextEditable" style="margin: 0;">
 					<div class="contentEditable" align="center" style="margin: 0;">
-						<h2 style="text-align: left;color: #222222;font-size: 19px;font-weight: normal;">Hey {{$firstName}} {{$lastName}}</h2>
+						<h2 style="text-align: left;color: #222222;font-size: 19px;font-weight: normal;">{{__('emails.buyHDIReport.hey')}} {{$firstName}} {{$lastName}}</h2>
 					</div>
 					<div class="contentEditable" align="center" style="margin: 0;">
-						<h2 style="text-align: left;color: #222222;font-size: 19px;font-weight: normal;">Below is a summary of your recent purchase. You can download your purchased item at your 'My HDI reports' page and view your invoice(s) on your statement here.</h2>
+						<h2 style="text-align: left;color: #222222;font-size: 19px;font-weight: normal;">{{__('emails.buyHDIReport.para1')}}</h2>
 					</div>
 					<div class="contentEditable" align="center" style="margin: 0;">
 						<table width="100%" border="1">
 							<thead>
 								<tr>
-									<th>Name</th>
-									<th>Amount</th>
-									<th>Date</th>
-									<th>Action</th>
+									<th>{{__('emails.buyHDIReport.name')}}</th>
+									<th>{{__('emails.buyHDIReport.amount')}}</th>
+									<th>{{__('emails.buyHDIReport.date')}}</th>
+									<th>{{__('emails.buyHDIReport.action')}}</th>
 								</tr>
 							</thead>
 							<tbody>
@@ -28,7 +28,7 @@
 									<td>{{$hdiName}}</td>
 									<td>{{$amount}}</td>
 									<td>{{$hdiDate}}</td>
-									<td><a href="{{route('hdiDetails', ['hdiId' => $hdiId, 'userId' => $userId])}}">View</a></td>
+									<td><a href="{{route('hdiDetails', ['hdiId' => $hdiId, 'userId' => $userId])}}">{{__('emails.buyHDIReport.view')}}</a></td>
 								</tr>
 							</tbody>
 						</table>
@@ -48,7 +48,7 @@
 						<td align="center" bgcolor="#1A54BA" style="background:#DC2828; padding:15px 18px;-webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px;">
 							<div class="contentEditableContainer contentTextEditable" style="margin: 0;">
 								<div class="contentEditable" align="center" style="margin: 0;">
-									<a target="_blank" href="{{ URL::Route('hdis-list') }}" class="link2" style="color: #ffffff;font-size: 16px;text-decoration: none;">Manage Account</a>
+									<a target="_blank" href="{{ URL::Route('hdis-list') }}" class="link2" style="color: #ffffff;font-size: 16px;text-decoration: none;">{{__('emails.buyHDIReport.manageAccount')}}</a>
 								</div>
 							</div>
 						</td>

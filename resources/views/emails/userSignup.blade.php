@@ -8,16 +8,16 @@
 				<td align="left">
 					<div class="contentEditableContainer contentTextEditable" style="margin: 0;">
 						<div class="contentEditable" align="center" style="margin: 0;">
-							<h2 style="text-align: left;color: #222222;font-size: 19px;font-weight: normal;">Welcome {{$firstName}} {{$lastName}}</h2>
+							<h2 style="text-align: left;color: #222222;font-size: 19px;font-weight: normal;">{{__('emails.userSignup.welcome')}} {{$firstName}} {{$lastName}}</h2>
 						</div>
 						<div class="contentEditable" align="center" style="margin: 0;">
-							<h2 style="text-align: left;color: #222222;font-size: 19px;font-weight: normal;">You have joined hundreds of REALTORS® improving their home marketing presentations. We are excited you are on board!</h2>
+							<h2 style="text-align: left;color: #222222;font-size: 19px;font-weight: normal;">{{__('emails.userSignup.para1')}}</h2>
 						</div>
 						<div class="contentEditable" align="center" style="margin: 0;">
-							<h2 style="text-align: left;color: #222222;font-size: 19px;font-weight: normal;">For the next 14 days, you can run unlimited Community Feature Sheet® Lite reports for FREE!</h2>
+							<h2 style="text-align: left;color: #222222;font-size: 19px;font-weight: normal;">{{__('emails.userSignup.para2')}}</h2>
 						</div>
 						<div class="contentEditable" align="center" style="margin: 0;">
-							<h2 style="text-align: left;color: #222222;font-size: 19px;font-weight: normal;">Update your Profile by adding your brokerage logo and headshot to ensure that your reports blends into your other marketing products.</h2>
+							<h2 style="text-align: left;color: #222222;font-size: 19px;font-weight: normal;">{{__('emails.userSignup.para3')}}</h2>
 						</div>
 					</div>
 				</td>
@@ -32,7 +32,7 @@
 							<td align="center" bgcolor="#1A54BA" style="background:#DC2828; padding:15px 18px;-webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px;">
 								<div class="contentEditableContainer contentTextEditable" style="margin: 0;">
 									<div class="contentEditable" align="center" style="margin: 0;">
-										<a target="_blank" href="{{ route('home') }}" class="link2" style="color: #ffffff;font-size: 16px;text-decoration: none;">Manage Account</a>
+										<a target="_blank" href="{{ route('home') }}" class="link2" style="color: #ffffff;font-size: 16px;text-decoration: none;">{{__('emails.userSignup.manageAccount')}}</a>
 									</div>
 								</div>
 							</td>
