@@ -285,7 +285,7 @@
           </div>
           
         <div class="col-md-12 text-center"><br>
-            <input type="reset" name="update" value="Update" class="btn btn-primary"><br>
+            <input type="reset" name="reset" value="Reset" class="btn btn-primary"><br>
         </div>
         <div class="col-md-12 text-center"><br>
             <input type="submit" name="update" value="Update" class="btn btn-primary"><br>
