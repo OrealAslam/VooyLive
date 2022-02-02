@@ -658,7 +658,7 @@
         //overrides
 
         $.get('{{url('report/json/'.$report->reportId)}}',function(data){
-            for(y in data) { if($('#'+y).length && trim(data[y]).length ){ $('#'+y).html(data[y]) }};
+            for(y in data) { if($('#'+y).length  && data[y].trim().length ){ $('#'+y).html(data[y]) }};
         });
 
     </script>

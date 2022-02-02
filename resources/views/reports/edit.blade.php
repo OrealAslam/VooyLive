@@ -46,6 +46,8 @@
               <input type="text" name="el_distance" class="form-control" value="{{$report->el_distance}}" >
             </div>   
           </div>
+          <br>
+
           <h4 class="text-center">Junior High</h4>
           <label class="control-label">Name</label>
           <input type="text" name="ju_name" class="form-control" value="{{$report->ju_name}}" >
@@ -61,6 +63,7 @@
               <input type="text" name="ju_distance" class="form-control" value="{{$report->ju_distance}}" >
             </div>
           </div>
+          <br>
           <h4 class="text-center">Senior High</h4>
           <label class="control-label">Name</label>
           <input type="text" name="se_name" class="form-control" value="{{$report->se_name}}" >
@@ -160,10 +163,11 @@
             <input type="text" name="res_two_distance" class="form-control" value="{{$report->res_two_distance}}" >
           </div>
         </div>         
-        <div class="form-group">
-          <div class="text">
-            <h4 class="text-center">Banks</h4>
-          </div>
+        <div class="row">
+        <div class="col-md-12">
+          <br>
+          <h4 class="text-center">Banks</h4>
+        </div>
           <div class="col-md-6">
             <h4 class="text-center">1</h4>
             <label class="control-label">Name</label>
@@ -183,10 +187,11 @@
             <input type="text" name="bank_two_distance" class="form-control" value="{{$report->bank_two_distance}}" >
           </div>
         </div>
-        <div class="form-group">
-          <div class="text">
-            <h4 class="text-center">Convenience Stores</h4>
-          </div>
+        <div class="row">
+        <div class="col-md-12">
+          <br>
+          <h4 class="text-center">Convenience Stores</h4>
+        </div>
           <div class="col-md-6">
             <h4 class="text-center">1</h4>
             <label class="control-label">Name</label>
@@ -206,10 +211,11 @@
             <input type="text" name="store_two_distance" class="form-control" value="{{$report->store_two_distance}}" >
           </div>
         </div>
-        <div class="form-group">
-          <div class="text">
-            <h4 class="text-center">Gas Station</h4>
-          </div>
+        <div class="row">
+        <div class="col-md-12">
+          <br>
+          <h4 class="text-center">Gas Station</h4>
+        </div>
           <div class="col-md-6">
             <h4 class="text-center">1</h4>
             <label class="control-label">Name</label>
@@ -231,7 +237,10 @@
         </div>
      
         <div class="row">
+        <div class="col-md-12">
+          <br>
           <h4 class="text-center">Cafe</h4>
+        </div>
           <div class="col-md-6">
             <h4 class="text-center">1</h4>
             <label class="control-label">Name</label>
@@ -252,7 +261,10 @@
           </div>
         </div>
         <div class="row">
+        <div class="col-md-12">
+          <br>
           <h4 class="text-center">Gyms</h4>
+        </div>
           <div class="col-md-6">
             <h4 class="text-center">1</h4>
             <label class="control-label">Name</label>
@@ -271,10 +283,16 @@
             <label class="control-label">Distance</label>
             <input type="text" name="gym_two_distance" class="form-control" value="{{$report->gym_two_distance}}" >
           </div>
+          
+        <div class="col-md-12 text-center"><br>
+            <input type="reset" name="update" value="Update" class="btn btn-primary"><br>
         </div>
-        <div class="form-group text-center">
+        <div class="col-md-12 text-center"><br>
             <input type="submit" name="update" value="Update" class="btn btn-primary"><br>
         </div>
+        <br />
+        </div>
+        <br />
     </form>
 
 </div>
