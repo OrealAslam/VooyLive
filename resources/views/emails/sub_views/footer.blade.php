@@ -5,7 +5,7 @@
                 <td colspan="3">
                     <div class="contentEditable" align="center" style="margin-top: 10px;">
                         <h2 style="text-align: left;color: #222222;font-size: 19px;font-weight: normal;">
-							From the team at DHARRO<br>info@dharro.com
+							{{__('emails.sub_views.footer.fromTeam')}}<br>info@dharro.com
                         </h2>
                     </div>
                 </td>
@@ -15,8 +15,7 @@
             </tr>
             <tr>
                 <td colspan="3" style="font-size: 13px;">
-                    You are receiving this email because you signed up for a free trial or are a current
-                    customer of DHARRO.
+                    {{__('emails.sub_views.footer.para1')}}
                 </td>
             </tr>
             <tr>
@@ -25,18 +24,18 @@
                         <div class="contentEditable" align="center" style="margin: 0;">
                             <p
                                 style="text-align: left;color: #CCCCCC;font-size: 12px;font-weight: normal;line-height: 20px;margin: 0;">
-                                <span style="font-weight:bold;">Our mailing address is:</span>
-                                <span style="font-weight:bold;">DHARRO</span>
+                                <span style="font-weight:bold;">{{__('emails.sub_views.footer.mailingAddress')}}</span>
+                                <span style="font-weight:bold;">{{__('emails.sub_views.footer.dharro')}}</span>
                                 <br>
-                                491 Burton Road NW
+                                {{__('emails.sub_views.footer.burtonRoad')}}
                                 <br>
-                                Edmonton, T6R 2B1, AB, Canada
+                                {{__('emails.sub_views.footer.edmontonCanada')}}
                                 <!--
 							<br>
-							<a target="_blank" href="[FORWARD]" style="color: #382F2E;">Forward to a friend</a><br>
-							<a target="_blank" class="color:#382F2E;" href="[UNSUBSCRIBE]" style="color: #382F2E;">Unsubscribe</a>
+							<a target="_blank" href="[FORWARD]" style="color: #382F2E;">{{__('emails.sub_views.footer.forwardToFriend')}}</a><br>
+							<a target="_blank" class="color:#382F2E;" href="[UNSUBSCRIBE]" style="color: #382F2E;">{{__('emails.sub_views.footer.unsubscribe')}}</a>
 							<br>
-							<a target="_blank" class="color:#382F2E;" href="[SHOWEMAIL]" style="color: #382F2E;">Show this email in your browser</a>
+							<a target="_blank" class="color:#382F2E;" href="[SHOWEMAIL]" style="color: #382F2E;">{{__('emails.sub_views.footer.showEmail')}}</a>
 							</p>
 							-->
                         </div>

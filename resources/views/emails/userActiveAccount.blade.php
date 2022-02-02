@@ -8,10 +8,10 @@
 				<td align="left">
 					<div class="contentEditableContainer contentTextEditable" style="margin: 0;">
 						<div class="contentEditable" align="center" style="margin: 0;">
-							<h2 style="text-align: center;color: #222222;font-size: 19px;font-weight: normal;">Welcome {{ $firstName }} {{ $lastName }}</h2>
+							<h2 style="text-align: center;color: #222222;font-size: 19px;font-weight: normal;">{{__('emails.userActiveAccount.welcome')}} {{ $firstName }} {{ $lastName }}</h2>
 						</div>
 						<div class="contentEditable" align="center" style="margin: 0;">
-							<h2 style="text-align: center;color: #222222;font-size: 19px;font-weight: normal;"><h1 style="text-align: center;">Click to activate your account</h1></h2>
+							<h2 style="text-align: center;color: #222222;font-size: 19px;font-weight: normal;"><h1 style="text-align: center;">{{__('emails.userActiveAccount.para1')}}</h1></h2>
 						</div>
 					</div>
 				</td>
@@ -26,7 +26,7 @@
 							<td align="center" bgcolor="#1A54BA" style="background:#DC2828; padding:15px 18px;-webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px;">
 								<div class="contentEditableContainer contentTextEditable" style="margin: 0;">
 									<div class="contentEditable" align="center" style="margin: 0;">
-										<a target="_blank" href="{{ route('active.account',$emailToken) }}" class="link2" style="color: #ffffff;font-size: 16px;text-decoration: none;">Activate</a>
+										<a target="_blank" href="{{ route('active.account',$emailToken) }}" class="link2" style="color: #ffffff;font-size: 16px;text-decoration: none;">{{__('emails.userActiveAccount.activate')}}</a>
 									</div>
 								</div>
 							</td>

@@ -90,10 +90,10 @@ $cat = $category->orderBy('type','asc')->first();
     </div>
 </ul> -->
 @if (App::isLocale('fr'))
-<li><a href="{{url('en')}}">En</a></li>
+<li><a href="{{url('en')}}">EN</a></li>
 @endif
 @if (App::isLocale('en'))
-<li><a href="{{url('fr')}}">Fr</a></li>
+<li><a href="{{url('fr')}}">FR</a></li>
 @endif
 
 </ul>

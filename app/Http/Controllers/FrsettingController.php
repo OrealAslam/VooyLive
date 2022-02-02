@@ -73,13 +73,6 @@ class FrsettingController extends Controller
             $input['market-sentiment-survey-image'] = $name;
         }
 
-        if ($request->hasFile('home-slider-image')) {
-            $image = $request->file('home-slider-image');
-            $name = time().'.'.$image->getClientOriginalExtension();
-            $destinationPath = public_path('/upload/frproductImageSetting/');
-            $image->move($destinationPath, $name);
-            $input['home-slider-image'] = $name;
-        }
 
         if ($request->hasFile('survey-share-image')) {
             $image = $request->file('survey-share-image');
