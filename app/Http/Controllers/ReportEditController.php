@@ -16,15 +16,15 @@ class ReportEditController extends Controller
         return view('reports.edit',$data);
     }
 
-    public function save(Request $request, $id){
+    public function save(Request $request, $id)
+    {
+        $request = array_except($request->all(), ['_token']);
         $report = ReportOverride::find($id);
         if(!$report){
             $report = new ReportOverride();
-            $report->id = $id;
+            $report->id=$id;
         }
-        $report->households_with_children = $request->households_with_children;
-        $report->average_household_income = $request->average_household_income;
-        $report->median_age = $request->median_age;
+        $report->fill($request);
         $report->save();
         return redirect(url('report/edit/'.$id));
     }
