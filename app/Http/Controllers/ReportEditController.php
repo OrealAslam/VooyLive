@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\ReportOverride;
-
+use Auth;
 class ReportEditController extends Controller
 {
     public function show($id){
@@ -26,7 +26,7 @@ class ReportEditController extends Controller
         }
         $report->fill($request);
         $report->save();
-        return redirect(url('report/edit/'.$id));
+        return redirect(url('report/id/'.$id.'/user/'.Auth::User()->userId));
     }
     public function json($id){
         $report = ReportOverride::findOrfail($id)->get();
