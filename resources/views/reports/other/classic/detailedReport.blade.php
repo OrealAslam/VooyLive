@@ -3,10 +3,10 @@
 <!-- Page Header -->
 <div class="page-header style-11">
   <div class="container">
-    <h2 class="page-title">View Detailed Report</h2>
+    <h2 class="page-title">{{__('reports/other/classic/detailedReport.viewDetailedReport')}}</h2>
     <ol class="breadcrumb">
-      <li><a href="{{ url('/home') }}">Home</a></li>
-      <li class="active">View Detailed Report</li>
+      <li><a href="{{ url('/home') }}">{{__('reports/other/classic/detailedReport.home')}}</a></li>
+      <li class="active">{{__('reports/other/classic/detailedReport.viewDetailedReport')}}</li>
     </ol>
   </div>
 </div>
@@ -81,12 +81,12 @@
 @endsection
 @section('nav')              
 <li>
-	<a href="{{ url('report/highlights/'.$report->reportId) }}">View Highlights</a>
+	<a href="{{ url('report/highlights/'.$report->reportId) }}">{{__('reports/other/classic/detailedReport.viewHighlights')}}</a>
 </li>
 <li>
-	<a href="{{ url('report/detailed/'.$report->reportId) }}">View Detailed Report</a>
+	<a href="{{ url('report/detailed/'.$report->reportId) }}">{{__('reports/other/classic/detailedReport.viewDetailedReport')}}</a>
 </li>                          
 <li>
-	<a href="">Save & Print</a>
+	<a href="">{{__('reports/other/classic/detailedReport.saveAndPrint')}}</a>
 </li>                
 @endsection

@@ -47,6 +47,13 @@ $cat = $category->orderBy('type','asc')->first();
                 <li><a href="{{ Route('user.referrals-list') }}">{{__('layouts_menu.myreferral')}}</a></li>
                 <li><a href="{{ Route('user.credits-list') }}">{{__('layouts_menu.mycredits')}}</a></li>
             @endif
+            <li><a href="{{ route('logout') }}" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">
+                    {{__('layouts_menu.logout')}}
+                    </a>
+                    <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+                    {{ csrf_field() }}
+                    </form>
+            </li>
 
             @if(auth::user()->user_type == 1)
                 <li><a href="{{ Route('users.list') }}">{{__('layouts_menu.users')}}</a></li>
@@ -57,13 +64,6 @@ $cat = $category->orderBy('type','asc')->first();
         </ul>
     </li>
     @yield('nav')
-    <li><a href="{{ route('logout') }}" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">
-          {{__('layouts_menu.logout')}}
-          </a>
-          <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
-          {{ csrf_field() }}
-          </form>
-    </li>
     @if (Auth::user()->role == 'admin')
         <li><a href="{{Route('adminDashboard')}}">{{__('layouts_menu.admindashboard')}}</a></li>
     @endif

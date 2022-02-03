@@ -1,7 +1,7 @@
 <div class="row">
     <div class="col-lg-5 col-md-5 col-sm-5">
         <div class="left-side colora">
-            LOCATION
+            {{__('reports/other/metro/neighbors.location')}}
         </div>
     </div>
     <div class="col-lg-5 col-md-5 col-sm-5">
@@ -15,12 +15,12 @@
     <div class="col-lg-2 col-md-2 col-sm-2">
         <div class="row">
             <div class="location-welcome backgroundd colorb font-raleway">
-                WELCOME HOME
+                {{__('reports/other/metro/neighbors.welcomeHome')}}
             </div>
             <div class="welcome-text font-raleway">
-                <p>A community is a place that people call home. It’s a place to work, play, learn, share and relax.</p>
-                <p>This Community Feature Sheet® is designed to help you to get to know this community.</p>
-                <p>Who knows, maybe someday soon you will call this exceptional community home.</p>
+                <p>{{__('reports/other/metro/neighbors.welcomeText1')}}</p>
+                <p>{{__('reports/other/metro/neighbors.welcomeText2')}}</p>
+                <p>{{__('reports/other/metro/neighbors.welcomeText3')}}</p>
             </div>
         </div>
     </div>
@@ -43,7 +43,6 @@
 
         var marker = new google.maps.Marker({
             position:myCenter,
-            //animation:google.maps.Animation.BOUNCE
          });
         marker.setMap(map2);
         var infowindow = new google.maps.InfoWindow({

@@ -1,6 +1,5 @@
 <div class="section-title">
-	<!-- <h3 class="colora text-center">Neighborhoods : <span class="colorb" >({{--$response[0]->name_mixed--}})</span></h3> -->
-	<h3 class="colora text-center">House Location<!--<span class="colorb" >({{--$response[0]->name_mixed--}})</span>--></h3>
+	<h3 class="colora text-center">{{__('reports/other/classic/neighbors.houseLocation')}}</h3>
 </div>
 <div class="col-xs-12">
 	<div class="row">
@@ -155,7 +154,7 @@
 					</g>
 					</svg>
 				</div>
-				<h3 style="font-size: 2.9rem!important;">"You don’t just buy The House; you buy the neighbourhood too!"</h3>
+				<h3 style="font-size: 2.9rem!important;">{{__('reports/other/classic/neighbors.justBuyHouse')}}</h3>
 			</td>
 		</tr>
 	</table>

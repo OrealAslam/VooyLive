@@ -1,5 +1,5 @@
 <div class="section-title">	
-	<h3 class="colora text-center">Demographics</h3>
+	<h3 class="colora text-center">{{__('reports/other/classic/demography.demographics')}}</h3>
 	<div class="clearfix"></div>
 </div>
 <div class="row demographics-row">
@@ -8,7 +8,7 @@
 			<tbody>
 				<tr>
 					<td class="col-xs-3" rowspan="2">
-						<div class="demographics-title colord">Households With Children</div>
+						<div class="demographics-title colord">{{__('reports/other/classic/demography.householdsWithChildren')}}</div>
 						<div class="demographics-icon fillf" style="display: inline-block;">
 							<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 							width="64px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
@@ -100,7 +100,7 @@
 							</g>
 							</svg>
 						</div>
-						<div class="demographics-title colord"  style="display: inline-block;  margin-top: 18px; vertical-align: top;">Average Household Income</div>
+						<div class="demographics-title colord"  style="display: inline-block;  margin-top: 18px; vertical-align: top;">{{__('reports/other/classic/demography.averageHouseholdIncome')}}</div>
 					</td>
 					<td class="col-xs-3">
 						<h3 class="colord" id="average_household_income">
@@ -114,15 +114,15 @@
 				</tr>
 				<tr>
 					<td>
-						<div class="demographics-title colord">Education</div>
+						<div class="demographics-title colord">{{__('reports/other/classic/demography.education')}}</div>
 					</td>
 					<td>
-						<div class="demographics-title colord">Age Distribution</div>
+						<div class="demographics-title colord">{{__('reports/other/classic/demography.ageDistribution')}}</div>
 					</td>
 				</tr>
 				<tr>
 					<td style="vertical-align: middle;">
-						<div class="demographics-title colord">Median Age</div>
+						<div class="demographics-title colord">{{__('reports/other/classic/demography.medianAge')}}</div>
 						<!-- <div class="demographics-title colorb"  style="display: inline-block;  margin-top: 18px; vertical-align: top;">Average household income</div> -->
 						<div class="demographics-icon fillf" style="display: inline-block;">
 							<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"

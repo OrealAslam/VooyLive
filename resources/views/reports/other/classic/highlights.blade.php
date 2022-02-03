@@ -270,13 +270,13 @@
 
 <div class="page-header style-11">
   <div class="container">
-    <h2 class="page-title">Reports</h2>
+    <h2 class="page-title">{{__('reports/other/classic/highlights.reports')}}</h2>
     <ol class="breadcrumb">
-      <li><a href="{{ Route('home') }}">Home</a></li>
+      <li><a href="{{ Route('home') }}">{{__('reports/other/classic/highlights.home')}}</a></li>
       @if (Auth::check())
-      <li><a href="{{ Route('dashboard') }}">Dashboard</a></li>
+      <li><a href="{{ Route('dashboard') }}">{{__('reports/other/classic/highlights.dashboard')}}</a></li>
       @endif
-      <li class="active">Reports</li>
+      <li class="active">{{__('reports/other/classic/highlights.reports')}}</li>
     </ol>
   </div>
 </div>
@@ -320,7 +320,7 @@
 				<div class="row">
 					<div class="col-xs-12">
 						<div class="col-xs-12 text-center">
-							{{ config('app.title') }} Lite
+							{{ config('app.title') }} {{__('reports/other/classic/highlights.lite')}}
 						</div>
 						<table class="table table-bordered">
 							<thead>
@@ -332,7 +332,7 @@
 				                        @if(isset($user->ClientDetail->logo))
 				                            <img src="/{{ $user->ClientDetail->logo }}" class="top-logo img-responsive">
 				                        @else
-				                           <a href="{{ url('/account/profileview').'?img=logo' }}" title="Click Here to Upload Logo"> <img src="/img/your-logo.png" class="top-logo img-responsive" style="width: 150px;margin: auto;"></a>
+				                           <a href="{{ url('/account/profileview').'?img=logo' }}" title="{{__('reports/other/classic/highlights.clickHereToUploadLogo')}}"> <img src="/img/your-logo.png" class="top-logo img-responsive" style="width: 150px;margin: auto;"></a>
 				                        @endif
 									</td>
 								</tr>
@@ -525,14 +525,14 @@
 
 						<div id="footer" class="row backgroundc" @if(isset($user->ClientDetail->colora)) style="border-color: {{$user->ClientDetail->colora}}" @endif>
 							<div class="col-md-4 col-xs-12 col-pdf-4">
-								<h4 class="colora text-uppercase for-more-info">For more information:</h4>
+								<h4 class="colora text-uppercase for-more-info">{{__('reports/other/classic/highlights.forMoreInformation')}}</h4>
 								<div class="row">
 									<div class="col-md-4 col-xs-6 col-custom-6" >
 										<div class="">
 		                                    @if(isset($user->ClientDetail->photo))
 		                                        <img src="/{{ $user->ClientDetail->photo }}" class="img-responsive img-information">
 		                                    @else
-		                                        <a href="{{ url('/account/profileview').'?img=profile' }}" title="Click Here to Upload Image"> <img src="/img/your-image-here.png" class="img-responsive img-information" style="width: 100px; height: 144px"></a>
+		                                        <a href="{{ url('/account/profileview').'?img=profile' }}" title="{{__('reports/other/classic/highlights.clickHereToUploadImage')}}"> <img src="/img/your-image-here.png" class="img-responsive img-information" style="width: 100px; height: 144px"></a>
 		                                    @endif
 										</div>
 									</div>
@@ -541,7 +541,7 @@
 	                                        @if(isset($user->ClientDetail->logo))
 	                                            <img src="/{{ $user->ClientDetail->logo }}" class="footer-client-logo img-responsive">
 	                                        @else
-	                                           <a href="{{ url('/account/profileview').'?img=logo' }}" title="Click Here to Upload Logo"> <img src="/img/your-logo.png" class="footer-client-logo img-responsive" style="width: 120px; margin: auto;"></a>
+	                                           <a href="{{ url('/account/profileview').'?img=logo' }}" title="{{__('reports/other/classic/highlights.clickHereToUploadLogo')}}"> <img src="/img/your-logo.png" class="footer-client-logo img-responsive" style="width: 120px; margin: auto;"></a>
 	                                        @endif
 											@if(isset($user->ClientDetail->title))
 											<p class="footer-text">{{$user->firstName}} {{$user->lastName}}, {{ $user->ClientDetail->title }}</p>
@@ -561,7 +561,7 @@
 							<div class="col-md-8 col-xs-12 col-pdf-8">
 								<div class="row">
 									<div class="col-xs-10 pull-left">
-										<h5 class="colora text-center">To order a {{ config('app.title') }}, visit <a href="{{url('/')}}" class="colora"><strong>www.dharro.com</strong></a></h5>
+										<h5 class="colora text-center">{{__('reports/other/classic/highlights.toOrderA')}} {{ config('app.title') }}, {{__('reports/other/classic/highlights.visit')}} <a href="{{url('/')}}" class="colora"><strong>www.dharro.com</strong></a></h5>
 									</div>
 									<div class="col-xs-2 pull-left">
 										<div class="">
@@ -571,9 +571,8 @@
 								</div>
 								<div class="row">
 									<div class="col-xs-12 pull-left" id="disclaimer">
-										<p>Disclaimer<br>
-											&copy; {{ date('Y') }} by VOOY GROUP CANADA INC. All rights reserved. 
-											By accessing this information you have agreed to our terms of service, which are hereby incorporated by reference. The information may contain errors and omissions. This Community Feature Sheet® has been generated based on the address supplied and solely for general information purposes only. The publisher and agent(s) are not liable for errors or omissions. No warranties or representations are made of any kind.
+										<p>{{__('reports/other/classic/highlights.disclaimer')}}<br>
+											&copy; {{ date('Y') }} {{__('reports/other/classic/highlights.disclaimerText')}}
 										</p>
 									</div>
 								</div>
@@ -615,7 +614,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 text-center">
-                <input name="template_type" class="template_type" type="checkbox" data-toggle="toggle" data-on="Metro" data-off="Lite">
+                <input name="template_type" class="template_type" type="checkbox" data-toggle="toggle" data-on="{{__('reports/other/classic/highlights.metro')}}" data-off="{{__('reports/other/classic/highlights.lite')}}">
             </div>
         </div>
     </div>
@@ -632,7 +631,7 @@
 </li>                          
 -->
 <li>
-	<a href="javascript:window.print()">Save & Print</a>
+	<a href="javascript:window.print()">{{__('reports/other/classic/highlights.saveAndPrint')}}</a>
 	<!-- <a href="javascript:void(0)" onclick="printDiv()">Save & Print</a> -->
 	
 </li>

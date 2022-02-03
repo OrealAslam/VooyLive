@@ -138,13 +138,13 @@
 
 <div class="page-header style-11">
   <div class="container">
-    <h2 class="page-title">Reports</h2>
+    <h2 class="page-title">{{__('reports/other/metro/highlights.reports')}}</h2>
     <ol class="breadcrumb">
-      <li><a href="{{ Route('home') }}">Home</a></li>
+      <li><a href="{{ Route('home') }}">{{__('reports/other/metro/highlights.home')}}</a></li>
       @if (Auth::check())
-      <li><a href="{{ Route('dashboard') }}">Dashboard</a></li>
+      <li><a href="{{ Route('dashboard') }}">{{__('reports/other/metro/highlights.dashboard')}}</a></li>
       @endif
-      <li class="active">Reports</li>
+      <li class="active">{{__('reports/other/metro/highlights.reports')}}</li>
     </ol>
   </div>
 </div>
@@ -190,11 +190,11 @@
                         @if(isset($user->ClientDetail->logo))
                             <img src="/{{ $user->ClientDetail->logo }}" class="top-logo img-responsive">
                         @else
-                           <a href="{{ url('/account/profileview').'?img=logo' }}" title="Click Here to Upload Logo"> <img src="/img/your-logo.png" class="top-logo img-responsive" style="width: 290px;"></a>
+                           <a href="{{ url('/account/profileview').'?img=logo' }}" title="{{__('reports/other/metro/highlights.clickHereToUploadLogo')}}"> <img src="/img/your-logo.png" class="top-logo img-responsive" style="width: 290px;"></a>
                         @endif
                     </td>
                     <td width="75%" class="header-title font-oswald">
-                        <span>COMMUNITY FEATURE SHEET <sup>&reg</sup></span>
+                        <span>{{__('reports/other/metro/highlights.communityFeatureSheet')}} <sup>&reg</sup></span>
                     </td>
                 </tr>
             </table>
@@ -225,14 +225,14 @@
                     </div>
                     <div class="col-lg-9 col-md-9 col-sm-9 quote text-center">
                         <span class="colorb">
-                            YOU DON’T JUST BUY THE HOUSE; YOU BUY THE NEIGHBOURHOOD TOO!
+                            {{__('reports/other/metro/highlights.justBuyHouse')}}
                         </span>
                     </div>
                 </div>
             </div>
             <div class="col-lg-7 col-md-7 col-sm-7" style="margin-top: 20px;">
                 <div class="neighbourhood-title">
-                    NAME OF NEIGHBOURHOOD
+                    {{__('reports/other/metro/highlights.nameOfNeighbourhood')}}
                 </div>
                 <div class="neighbourhood-name colora" id="">
                     @if (isset($neighborsData['neighborhood']))
@@ -270,9 +270,9 @@
         <div class="row">
             <div class="col-lg-5 col-md-5 col-sm-5">
                 <div class="left-side colora">
-                    COMMUNITY<br>
-                    PROFILE<br>
-                    <a class="no-print btn btn-primary modify_points" href="{{route('reportNotes', ['reportId' => $report->reportId])}}">Customize Profile</a>
+                    {{__('reports/other/metro/highlights.community')}}<br>
+                    {{__('reports/other/metro/highlights.profile')}}<br>
+                    <a class="no-print btn btn-primary modify_points" href="{{route('reportNotes', ['reportId' => $report->reportId])}}">{{__('reports/other/metro/highlights.customizeProfile')}}</a>
                 </div>
             </div>
             <div class="col-lg-7 col-md-7 col-sm-7 right-side">
@@ -317,11 +317,6 @@
         <div class="row">
             <div class="col-lg-5 col-md-5 col-sm-5">
             </div>
-            <!--
-            <div class="col-lg-2 col-md-2 col-sm-2 title1 bg-color-golden color-white font-raleway">
-                V5P 1P9
-            </div>
-            -->
             <div class="col-lg-7 col-md-7 col-sm-7 title2 backgroundd colorb font-raleway text-right">
             <?=str_replace(', Canada', ' ', !empty($orderData->custom_report_address) ? $orderData->custom_report_address : $report->address)?>
             </div>
@@ -419,7 +414,7 @@
         <div class="row">
             <div class="col-lg-5 col-md-5 col-sm-5">
                 <div class="left-side colora">
-                    PARKS AND RECREATION
+                    {{__('reports/other/metro/highlights.parksAndRecreation')}}
                 </div>
             </div>
             <div class="col-lg-7 col-md-7 col-sm-7">
@@ -478,7 +473,7 @@
             <div class="col-lg-4 col-md-4 col-sm-4">
                 <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12">
-                        <div class="colora more-info">FOR MORE INFORMATION</div>
+                        <div class="colora more-info">{{__('reports/other/metro/highlights.forMoreInformation')}}</div>
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12">
                         <div class="row">
@@ -487,7 +482,7 @@
                                     @if(isset($user->ClientDetail->photo))
                                         <img src="/{{ $user->ClientDetail->photo }}" class="img-responsive">
                                     @else
-                                        <a href="{{ url('/account/profileview').'?img=profile' }}" title="Click Here to Upload Image"> <img src="/img/your-image-here.png" class="img-responsive" style="width: 100px; height: 150px"></a>
+                                        <a href="{{ url('/account/profileview').'?img=profile' }}" title="{{__('reports/other/metro/highlights.clickHereToUploadImage')}}"> <img src="/img/your-image-here.png" class="img-responsive" style="width: 100px; height: 150px"></a>
                                     @endif
                                 </div>
                             </div>
@@ -497,7 +492,7 @@
                                         @if(isset($user->ClientDetail->logo))
                                             <img src="/{{ $user->ClientDetail->logo }}" class="img-responsive">
                                         @else
-                                           <a href="{{ url('/account/profileview').'?img=logo' }}" title="Click Here to Upload Logo"> <img src="/img/your-logo.png" class="top-logo img-responsive" style="width: 145px;"></a>
+                                           <a href="{{ url('/account/profileview').'?img=logo' }}" title="{{__('reports/other/metro/highlights.clickHereToUploadLogo')}}"> <img src="/img/your-logo.png" class="top-logo img-responsive" style="width: 145px;"></a>
                                         @endif
                                     </div>
                                     <div class="color-white client-detail" style="word-break:break-all !important;">
@@ -526,7 +521,7 @@
                         <div class="row">
                             <div class="col-lg-9 col-md-9 col-sm-10">
                                 <div class="colora order-visit text-center">
-                                    To order a {{ config('app.title') }}, visit <br>
+                                    {{__('reports/other/metro/highlights.toOrderA')}} {{ config('app.title') }}, {{__('reports/other/metro/highlights.visit')}} <br>
                                     <a href="{{url('/')}}" class="colora"><strong>www.dharro.com</strong></a>
                                 </div>
                             </div>
@@ -537,8 +532,8 @@
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12">
                         <div class="disclaimer">
-                            <p>Disclaimer<br>
-                            &copy; {{ date('Y') }} by VOOY GROUP CANADA INC. All rights reserved. By accessing this information you have agreed to our terms of service, which are hereby incorporated by reference. The information may contain errors and omissions. This Community Feature Sheet® has been generated based on the address supplied and solely for general information purposes only. The publisher and agent(s) are not liable for errors or omissions. No warranties or representations are made of any kind.
+                            <p>{{__('reports/other/metro/highlights.disclaimer')}}<br>
+                            &copy; {{ date('Y') }} {{__('reports/other/metro/highlights.disclaimerText')}}
                             </p>
                         </div>
                     </div>
@@ -579,7 +574,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 text-center">
-                <input name="template_type" class="template_type" type="checkbox" data-toggle="toggle" data-on="Metro" data-off="Lite">
+                <input name="template_type" class="template_type" type="checkbox" data-toggle="toggle" data-on="{{__('reports/other/metro/highlights.metro')}}" data-off="{{__('reports/other/metro/highlights.lite')}}">
             </div>
         </div>
     </div>
@@ -589,22 +584,10 @@
 @endsection
 
 @section('nav')              
-<!--
 <li>
-    <a href="{{-- url('report/highlights/'.$report->reportId) --}}">View Highlights</a>
-</li>
-<li>
-    <a href="{{-- url('report/detailed/'.$report->reportId) --}}">View Detailed Report</a>
-</li>                          
--->
-<li>
-    <a href="javascript:window.print()">Save & Print</a>
-    <!-- <a href="javascript:void(0)" onclick="printDiv()">Save & Print</a> -->
+    <a href="javascript:window.print()">{{__('reports/other/metro/highlights.saveAndPrint')}}</a>
     
 </li>
-<script>
-    //$('#address').val('{{ $report->address }}');
-</script>
 @endsection
 
 @section('footer_script')
@@ -634,8 +617,6 @@
         });
     </script>
     <script>
-        //overrides
-
         $.get('{{url('report/json/'.$report->reportId)}}',function(data){
             for(y in data) { if($('#'+y).length && data[y]!=null  && data[y].trim().length ) { $('#'+y).html(data[y]) }};
         });
@@ -646,13 +627,6 @@
 <script>
 
     function printDiv() {
-        /*
-        var printContents = document.getElementById(divName).innerHTML;
-        var originalContents = document.body.innerHTML;
-        document.body.innerHTML = printContents;
-        window.print();
-        document.body.innerHTML = originalContents;
-        */
         var curURL = window.location.href;
         history.replaceState(history.state, '', '/');
         window.print();

@@ -1,7 +1,7 @@
 <div class="row">
     <div class="col-lg-5 col-md-5 col-sm-5">
         <div class="left-side colora">
-            DEMOGRAPHICS
+			{{__('reports/other/metro/demography.demographics')}}
         </div>
     </div>
     <div class="col-lg-7 col-md-7 col-sm-7">
@@ -9,13 +9,13 @@
             <div class="col-lg-3 col-md-3 col-sm-3 demographics-text backgroundd">
                 <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12 text1 colorb font-raleway">
-                       HOUSEHOLD WITH CHILDREN
+						{{__('reports/other/metro/demography.householdsWithChildren')}}
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 percent1 colorb" id="households_with_children">
 						{{$household_with_child}}%
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 text2 colorb font-raleway">
-                        MEDIAN AGE
+						{{__('reports/other/metro/demography.medianAge')}}
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 percent2 colorb" id="median_age">
 						@if (isset($medianAge))
@@ -103,12 +103,12 @@
 								</svg>
                             </div>
                             <div class="col-lg-7 col-md-7 col-sm-7 text colorb">
-                                AVERAGE HOUSEHOLD INCOME
+								{{__('reports/other/metro/demography.averageHouseholdIncome')}}
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 education-title colora">
-                        EDUCATION
+						{{__('reports/other/metro/demography.education')}}
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 education-graph text-left" style="margin: 0 auto;">
                     	<div class="graph">
@@ -129,7 +129,7 @@
                         </div>
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 age-distb-title colora">
-                        AGE DISTRIBUTION
+						{{__('reports/other/metro/demography.ageDistribution')}}
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 age-graph">
                    		{!! $ageChart !!}
