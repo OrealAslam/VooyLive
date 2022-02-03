@@ -43,10 +43,10 @@ div.cps-testimonial-item:hover {
 <!-- Page Header -->
 <div class="page-header style-11">
   <div class="container">
-    <h2 class="page-title">Dashboard</h2>
+    <h2 class="page-title">{{__('account/dashboard.dashboard')}}</h2>
     <ol class="breadcrumb">
-        <li><a href="{{ Route('home') }}">Home</a></li>
-        <li class="active">Dashboard</li>
+        <li><a href="{{ Route('home') }}">{{__('account/dashboard.home')}}</a></li>
+        <li class="active">{{__('account/dashboard.dashboard')}}</li>
     </ol>
   </div>
 </div>
@@ -59,15 +59,15 @@ div.cps-testimonial-item:hover {
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-center">
                     <div class="cps-section-header text-center">
-                        <h3 class="cps-section-title">Welcome to our Platform</h3>
-                        <p class="cps-section-text">Get all your marketing products you will need for your open house and more created in minutes</p>
+                        <h3 class="cps-section-title">{{__('account/dashboard.welcomePlatform')}}</h3>
+                        <p class="cps-section-text">{{__('account/dashboard.para1')}}</p>
                     </div>
 
                     <div class="row dasboard-part-account-profile-link-part row-centered">
                         <div class="col-md-4 text-center col-centered">
                             <a href="{{ route('profileview') }}">
                                 <div class="box">
-                                    <p>Profile</p>
+                                    <p>{{__('account/dashboard.profile')}}</p>
                                 </div>
                             </a>
                         </div>
@@ -75,14 +75,14 @@ div.cps-testimonial-item:hover {
                         <div class="col-md-4 text-center col-centered">
                             <a href="{{ url('/account/manage') }}">
                                 <div class="box">
-                                    <p>Manage Account</p>
+                                    <p>{{__('account/dashboard.manageAccount')}}</p>
                                 </div>
                             </a>
                         </div>
                         @endif
                     </div>
 
-                    <h3 class="cps-section-title">Choose the product you want to create</h3>
+                    <h3 class="cps-section-title">{{__('account/dashboard.para2')}}</h3>
                 </div>
             </div>
             <div class="row">
@@ -90,7 +90,7 @@ div.cps-testimonial-item:hover {
                     <div class="owl-carousel testimonial-carousel" id="testimonial-carousel-2">
                         <div class="cps-testimonial-item">
                             <a href="{{Route('orderReport','communityFeatureSheet')}}">
-                                <h5 class="cps-reviewer-name">Community Feature Sheet®</h5>
+                                <h5 class="cps-reviewer-name">{{__('account/dashboard.communityFeatureSheet')}}</h5>
                                 <hr class="black">
                                 <br>
                                 <img src="{{ asset('upload/productImageSetting/'.getSettingValue('community-feature-sheet-image')) }}" class="img-responsive">
@@ -98,7 +98,7 @@ div.cps-testimonial-item:hover {
                         </div>
                         <div class="cps-testimonial-item">
                             <a href="{{Route('orderReport','propertyFeatureSheet')}}">
-                                <h5 class="cps-reviewer-name">Property Feature Sheet</h5>
+                                <h5 class="cps-reviewer-name">{{__('account/dashboard.propertyFeatureSheet')}}</h5>
                                 <hr class="black">
                                 <br>
                                 <img src="{{ asset('upload/productImageSetting/'.getSettingValue('property-featuresheets-image')) }}" class="img-responsive">
@@ -106,7 +106,7 @@ div.cps-testimonial-item:hover {
                         </div>
                         <div class="cps-testimonial-item">
                             <a href="{{Route('orderReport','houseDetailsInfographic')}}">
-                                <h5 class="cps-reviewer-name">Home Details Infographic</h5>
+                                <h5 class="cps-reviewer-name">{{__('account/dashboard.homeDetailsInfographic')}}</h5>
                                 <hr class="black">
                                 <br>
                                 <img src="{{ asset('upload/productImageSetting/'.getSettingValue('home-details-infographic-image')) }}" class="img-responsive">
@@ -120,7 +120,7 @@ div.cps-testimonial-item:hover {
                 <div class="col-md-4">
                     <div class="cps-testimonial-item report-box">
                         <a href="{{ route('survey') }}">
-                            <h5 class="cps-reviewer-name">Market Sentiment Survey</h5>
+                            <h5 class="cps-reviewer-name">{{__('account/dashboard.marketSentimentSurvey')}}</h5>
                             <hr class="black">
                             <br>
                             <img src="{{ asset('upload/productImageSetting/'.getSettingValue('market-sentiment-survey-image')) }}" class="img-responsive">

@@ -13,11 +13,11 @@
 <!-- Page Header -->
 <div class="page-header style-11">
   <div class="container">
-    <h2 class="page-title">Create Property Feature Sheet</h2>
+    <h2 class="page-title">{{__('account/propertyFeatureSheet.createPropertyFeatureSheet')}}</h2>
     <ol class="breadcrumb">
-      <li><a href="{{ Route('home') }}">Home</a></li>
-      <li><a href="{{ Route('dashboard') }}">Dashboard</a></li>
-      <li class="active">My Property Feature Sheet</li>
+      <li><a href="{{ Route('home') }}">{{__('account/propertyFeatureSheet.home')}}</a></li>
+      <li><a href="{{ Route('dashboard') }}">{{__('account/propertyFeatureSheet.dashboard')}}</a></li>
+      <li class="active">{{__('account/propertyFeatureSheet.myPropertyFeatureSheet')}}</li>
     </ol>
   </div>
 </div>
@@ -28,12 +28,12 @@
         <div class="container">
             <div class="col-md-12">
                 @if(!empty($user['plan']) || checkPlan(Auth::User()->parent_id))
-                    <h1>Create Property Feature Sheet</h1>
+                    <h1>{{__('account/propertyFeatureSheet.createPropertyFeatureSheet')}}</h1>
                     <div class="create_report_main account-form">
-                        <label>Enter Name of New Property Feature Sheet</label>
+                        <label>{{__('account/propertyFeatureSheet.enterNameNewPropertySheet')}}</label>
                         <div class="form-group">
                             <input type="text" class="form-control" id="pfs_name" name="pfs_name">
-                            <span class="input-group-addon" style="cursor: pointer;" id="pfs_create"><span class="btn_txt">Create</span>
+                            <span class="input-group-addon" style="cursor: pointer;" id="pfs_create"><span class="btn_txt">{{__('account/propertyFeatureSheet.create')}}</span>
                             <i class="fa fa-spinner fa-spin hide loading" style="font-size:18px"></i></span>
                             <div class="clearfix"></div>
                             <div class="pfs_msg"></div>
@@ -41,12 +41,12 @@
                     </div>
                 @else
                     <div class="disable-box">
-                        <h1>Create Property Feature Sheet</h1>
+                        <h1>{{__('account/propertyFeatureSheet.createPropertyFeatureSheet')}}</h1>
                         <div class="create_report_main account-form">
-                            <label>Enter Name of New Property Feature Sheet</label>
+                            <label>{{__('account/propertyFeatureSheet.enterNameNewPropertySheet')}}</label>
                             <div class="form-group">
                                 <input type="text" class="form-control" id="pfs_name" name="pfs_name">
-                                <span class="input-group-addon" style="cursor: pointer;" id="pfs_create"><span class="btn_txt">Create</span>
+                                <span class="input-group-addon" style="cursor: pointer;" id="pfs_create"><span class="btn_txt">{{__('account/propertyFeatureSheet.create')}}</span>
                                 <i class="fa fa-spinner fa-spin hide loading" style="font-size:18px"></i></span>
                                 <div class="clearfix"></div>
                                 <div class="pfs_msg"></div>
@@ -54,8 +54,8 @@
                         </div>
                     </div>
                     <div class="col-md-10 col-md-offset-1  text-center purchase-plan-box purchase-plan">
-                        <h5>You need an active plan or subscription to run reports</h5>
-                        <a href="{{ route('purchase.plan') }}" class="btn btn-success">Select Plan</a>
+                        <h5>{{__('account/propertyFeatureSheet.para1')}}</h5>
+                        <a href="{{ route('purchase.plan') }}" class="btn btn-success">{{__('account/propertyFeatureSheet.selectPlan')}}</a>
                     </div>
                 @endif
             </div>
@@ -68,34 +68,34 @@
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title">Important Information</h4>
+        <h4 class="modal-title">{{__('account/propertyFeatureSheet.importantInformation')}}</h4>
       </div>
       <div class="modal-body">
-        <p>Please update your profile.</p>
+        <p>{{__('account/propertyFeatureSheet.pleaseUpdateProfile')}}</p>
         <ul>
             @if(empty($user->firstName) && empty($user->lastName))
-                <li>Name is missing</li>
+                <li>{{__('account/propertyFeatureSheet.nameMissing')}}</li>
             @endif
             @if(!isset($user_details->photo))
-                <li>Photo is missing</li>
+                <li>{{__('account/propertyFeatureSheet.photoMissing')}}</li>
             @endif
             @if(!isset($user_details->logo))
-                <li>Logo is missing</li>
+                <li>{{__('account/propertyFeatureSheet.logoMissing')}}</li>
             @endif
             @if(empty($user_details->phone))
-                <li>Phone is missing</li>
+                <li>{{__('account/propertyFeatureSheet.phoneMissing')}}</li>
             @endif
             @if(empty($user_details->email))
-                <li>Email is missing</li>
+                <li>{{__('account/propertyFeatureSheet.emailMissing')}}</li>
             @endif
         </ul>
         <p>
-            <a href="{{ Route('profileview') }}" class="btn btn-default">Manage Profile</a>
+            <a href="{{ Route('profileview') }}" class="btn btn-default">{{__('account/propertyFeatureSheet.manageProfile')}}</a>
         </p>
 
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-default" data-dismiss="modal">{{__('account/propertyFeatureSheet.close')}}</button>
       </div>
     </div>
   </div>
@@ -108,25 +108,24 @@
     <div class="modal-content">
       
       <div class="modal-body">
-        <p>You are subscribed to Pay Per Report Plan. 
-        So your card will be Charged for Property Feature Sheet.</p>
+        <p>{{__('account/propertyFeatureSheet.para2')}}</p>
         <p>
-          I want to create a Property Feature Sheet for
+          {{__('account/propertyFeatureSheet.para3')}}
         </p>
-        Name Property Feature Sheet: <h2 id="flyerName"></h2>
-        Amount: <h2>{{env('CURRENCY_SYMBOL').(double)env('FLYERCHARGE')/100 }}</h2>
-        <!-- <small>If you already own the report You won't be charged</small> -->
+        {{__('account/propertyFeatureSheet.namePropertyFeatureSheet')}} <h2 id="flyerName"></h2>
+        {{__('account/propertyFeatureSheet.amount')}} <h2>{{env('CURRENCY_SYMBOL').(double)env('FLYERCHARGE')/100 }}</h2>
+        <!-- <small>{{__('account/propertyFeatureSheet.para4')}}</small> -->
         <!--
         <div class="form-group">
-          <label for="discount" class="control-label">Coupon Code</label>
+          <label for="discount" class="control-label">{{__('account/propertyFeatureSheet.couponCode')}}</label>
           <input type="text" id="discount" class="form-control">
-          (Have a coupon? Enter it here!)
+          {{__('account/propertyFeatureSheet.haveCoupon')}}
         </div>
     -->
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default cancel-button">Cancel</button>
-        <button type="button" id="charge-button" class="btn btn-primary">Confirm</button>
+        <button type="button" class="btn btn-default cancel-button">{{__('account/propertyFeatureSheet.cancel')}}</button>
+        <button type="button" id="charge-button" class="btn btn-primary">{{__('account/propertyFeatureSheet.confirm')}}</button>
       </div>
     </div>
   </div>

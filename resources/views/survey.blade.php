@@ -250,10 +250,10 @@
 <!-- Page Header -->
 <div class="page-header style-11">
     <div class="container">
-        <h2 class="page-title">REALTORS® Market Sentiment Survey</h2>
+        <h2 class="page-title">{{__('survey.REALTORSMarketSentimentSurvey')}}</h2>
         <ol class="breadcrumb">
-            <li><a href="{{ Route('home') }}">Home</a></li>
-            <li class="active">REALTORS® Market Sentiment Survey</li>
+            <li><a href="{{ Route('home') }}">{{__('survey.home_')}}</a></li>
+            <li class="active">{{__('survey.REALTORSMarketSentimentSurvey')}}</li>
         </ol>
     </div>
 </div>
@@ -265,7 +265,7 @@
             <div class="row">
                 <div class="col-md-12 text-center">
                     <img src="{{ url('img/dharro.png')}}" class="logo-header-menu" alt="Community Feature Sheet&reg;">
-                    <h3 class="title-text">REALTORS® Market Sentiment Survey</h3>
+                    <h3 class="title-text">{{__('survey.REALTORSMarketSentimentSurvey')}}</h3>
                 </div>
             </div>
             <div class="row">
@@ -278,177 +278,177 @@
                         </div>
                         <div class="row custom-radio-part-box quetion-box" style="display: block;" id="q-1">
                             <div class="col-md-12">
-                                <p>Did you do any listing appointments this week?</p>
+                                <p>{{__('survey.Q1')}}</p>
                             </div>
                             <div class="col-md-12">
                                 <input id="toggle1" type="radio" name="listing_appointments_this_week" value="1" class="form-control" required>
-                                <label for="toggle1">Yes</label>
+                                <label for="toggle1">{{__('survey.yes')}}</label>
                                 <input id="toggle2" type="radio" name="listing_appointments_this_week" value="2" class="form-control" required>
-                                <label for="toggle2">No</label>
+                                <label for="toggle2">{{__('survey.no')}}</label>
                             </div>
                         </div>
                         <div class="row custom-radio-part-box quetion-box" id="q-2">
                             <div class="col-md-12">
-                                <p>Did you list a property this week?</p>
+                                <p>{{__('survey.Q2')}}</p>
                             </div>
                             <div class="col-md-12">
                                 <input id="radio-2" type="radio" name="property_this_week" value="1" class="form-control" required>
-                                <label for="radio-2">Yes</label>
+                                <label for="radio-2">{{__('survey.yes')}}</label>
                                 <input id="radio-3" type="radio" name="property_this_week" value="2" class="form-control" required>
-                                <label for="radio-3">No</label>
+                                <label for="radio-3">{{__('survey.no')}}</label>
                             </div>
                         </div>
                         <div class="row custom-radio-part-box quetion-box" id="q-3">
                             <div class="col-md-12">
-                                <p>Did you enter escrow this week?</p>
+                                <p>{{__('survey.Q3')}}</p>
                             </div>
                             <div class="col-md-12">
                                 <input id="radio-4" type="radio" name="escrow_this_week" value="1" class="form-control" required>
-                                <label for="radio-4">Yes</label>
+                                <label for="radio-4">{{__('survey.yes')}}</label>
                                 <input id="radio-5" type="radio" name="escrow_this_week" value="2" class="form-control" required>
-                                <label for="radio-5">No</label>
+                                <label for="radio-5">{{__('survey.no')}}</label>
                             </div>
                         </div>
                         <div class="row custom-radio-part-box quetion-box" id="q-4">
                             <div class="col-md-12">
-                                <p>Have you had a transaction close this week?</p>
+                                <p>{{__('survey.Q4')}}</p>
                             </div>
                             <div class="col-md-12">
                                 <input id="radio-6" type="radio" name="transaction_close_this_week" value="1" class="form-control" required>
-                                <label for="radio-6">Yes</label>
+                                <label for="radio-6">{{__('survey.yes')}}</label>
                                 <input id="radio-7" type="radio" name="transaction_close_this_week" value="2" class="form-control" required>
-                                <label for="radio-7">No</label>
+                                <label for="radio-7">{{__('survey.no')}}</label>
                             </div>
                         </div>
                         <div class="row custom-radio-part-box quetion-box" id="q-5">
                             <div class="col-md-12">
-                                <p>Have you had any clients holding back from selling because of Coronavirus?</p>
+                                <p>{{__('survey.Q5')}}</p>
                             </div>
                             <div class="col-md-12">
                                 <input id="radio-8" type="radio" name="coronavirus" value="1" class="form-control" required>
-                                <label for="radio-8">Yes</label>
+                                <label for="radio-8">{{__('survey.yes')}}</label>
                                 <input id="radio-9" type="radio" name="coronavirus" value="2" class="form-control" required>
-                                <label for="radio-9">No</label>
+                                <label for="radio-9">{{__('survey.no')}}</label>
                             </div>
                         </div>
                         <div class="row custom-radio-part-box quetion-box" id="q-6">
                             <div class="col-md-12">
-                                <p>Were home buyers you interacted with this week expecting lower prices?</p>
+                                <p>{{__('survey.Q6')}}</p>
                             </div>
                             <div class="col-md-12">
                                 <input id="radio-10" type="radio" name="expecting_lower_prices" value="1" class="form-control" required>
-                                <label for="radio-10">Yes</label>
+                                <label for="radio-10">{{__('survey.yes')}}</label>
                                 <input id="radio-11" type="radio" name="expecting_lower_prices" value="2" class="form-control" required>
-                                <label for="radio-11">No</label>
+                                <label for="radio-11">{{__('survey.no')}}</label>
                             </div>
                         </div>
                         <div class="row custom-radio-part-box quetion-box" id="q-7">
                             <div class="col-md-12">
-                                <p>Have you had any buyers withdraw an offer this week?</p>
+                                <p>{{__('survey.Q7')}}</p>
                             </div>
                             <div class="col-md-12">
                                 <input id="radio-12" type="radio" name="buyers_withdraw" value="1" class="form-control" required>
-                                <label for="radio-12">Yes</label>
+                                <label for="radio-12">{{__('survey.yes')}}</label>
                                 <input id="radio-13" type="radio" name="buyers_withdraw" value="2" class="form-control" required>
-                                <label for="radio-13">No</label>
+                                <label for="radio-13">{{__('survey.no')}}</label>
                             </div>
                         </div>
                         <div class="row custom-radio-part-box quetion-box" id="q-8">
                             <div class="col-md-12">
-                                <p>Have you seen any sellers remove their home from the market completely this week?</p>
+                                <p>{{__('survey.Q8')}}</p>
                             </div>
                             <div class="col-md-12">
                                 <input id="radio-14" type="radio" name="market_completely_this_week" value="1" class="form-control" required>
-                                <label for="radio-14">Yes</label>
+                                <label for="radio-14">{{__('survey.yes')}}</label>
                                 <input id="radio-15" type="radio" name="market_completely_this_week" value="2" class="form-control" required>
-                                <label for="radio-15">No</label>
+                                <label for="radio-15">{{__('survey.no')}}</label>
                                 <input id="radio-16" type="radio" name="market_completely_this_week" value="3" class="form-control" required>
-                                <label for="radio-16">No sure</label>
+                                <label for="radio-16">{{__('survey.noSure')}}</label>
                             </div>
                         </div>
                         <div class="row custom-radio-part-box quetion-box" id="q-9">
                             <div class="col-md-12">
-                                <p>Have any of your home sellers reduced price to attract buyers this week?</p>
+                                <p>{{__('survey.Q9')}}</p>
                             </div>
                             <div class="col-md-12">
                                 <input id="radio-17" type="radio" name="attract_buyers_this_week" value="1" class="form-control" required>
-                                <label for="radio-17">Yes</label>
+                                <label for="radio-17">{{__('survey.yes')}}</label>
                                 <input id="radio-18" type="radio" name="attract_buyers_this_week" value="2" class="form-control" required>
-                                <label for="radio-18">No</label>
+                                <label for="radio-18">{{__('survey.no')}}</label>
                             </div>
                         </div>
                         <div class="row custom-radio-part-box quetion-box" id="q-10">
                             <div class="col-md-12">
-                                <p>Have you had a transaction fall out of escrow this week?</p>
+                                <p>{{__('survey.Q10')}}</p>
                             </div>
                             <div class="col-md-12">
                                 <input id="radio-19" type="radio" name="transaction_fall_escrow_this_week" value="1" class="form-control" required>
-                                <label for="radio-19">Yes</label>
+                                <label for="radio-19">{{__('survey.yes')}}</label>
                                 <input id="radio-20" type="radio" name="transaction_fall_escrow_this_week" value="2" class="form-control" required>
-                                <label for="radio-20">No</label>
+                                <label for="radio-20">{{__('survey.no')}}</label>
                             </div>
                         </div>
                         <div class="row custom-radio-part-box quetion-box" id="q-11">
                             <div class="col-md-12">
-                                <p>Was the buyer in your last closed transaction a first-time buyer?</p>
+                                <p>{{__('survey.Q11')}}</p>
                             </div>
                             <div class="col-md-12">
                                 <input id="radio-21" type="radio" name="transaction_first_time_buyer" value="1" class="form-control" required>
-                                <label for="radio-21">Yes</label>
+                                <label for="radio-21">{{__('survey.yes')}}</label>
                                 <input id="radio-22" type="radio" name="transaction_first_time_buyer" value="2" class="form-control" required>
-                                <label for="radio-22">No</label>
+                                <label for="radio-22">{{__('survey.no')}}</label>
                                 <input id="radio-23" type="radio" name="transaction_first_time_buyer" value="3" class="form-control" required>
-                                <label for="radio-23">Don't know/unsure</label>
+                                <label for="radio-23">{{__('survey.Know_Unsure')}}</label>
                             </div>
                         </div>
                         <div class="row custom-radio-part-box quetion-box" id="q-12">
                             <div class="col-md-12">
-                                <p>Do you think next week <strong>listings</strong> will <strong>go:</strong></p>
+                                <p>{{__('survey.doThinkNextWeek')}} <strong>{{__('survey.listings')}}</strong> {{__('survey.will')}} <strong>{{__('survey.go')}}</strong></p>
                             </div>
                             <div class="col-md-12">
                                 <input id="radio-35" type="radio" name="next_week_listing_will_go" value="1" class="form-control" required>
-                                <label for="radio-35">Up</label>
+                                <label for="radio-35">{{__('survey.up')}}</label>
                                 <input id="radio-36" type="radio" name="next_week_listing_will_go" value="2" class="form-control" required>
-                                <label for="radio-36">Down</label>
+                                <label for="radio-36">{{__('survey.down')}}</label>
                                 <input id="radio-37" type="radio" name="next_week_listing_will_go" value="3" class="form-control" required>
-                                <label for="radio-37">Flat</label>
+                                <label for="radio-37">{{__('survey.flat')}}</label>
                                 <input id="radio-38" type="radio" name="next_week_listing_will_go" value="4" class="form-control" required>
-                                <label for="radio-38">Unsure</label>
+                                <label for="radio-38">{{__('survey.unsure')}}</label>
                             </div>
                         </div>
                         <div class="row custom-radio-part-box quetion-box" id="q-13">
                             <div class="col-md-12">
-                                <p>Do you think next week <strong>sales</strong> will <strong>go:</strong></p>
+                                <p>{{__('survey.doThinkNextWeek')}} <strong>{{__('survey.sales')}}</strong> {{__('survey.will')}} <strong>{{__('survey.go')}}</strong></p>
                             </div>
                             <div class="col-md-12">
                                 <input id="radio-39" type="radio" name="next_week_sales_will_go" value="1" class="form-control" required>
-                                <label for="radio-39">Up</label>
+                                <label for="radio-39">{{__('survey.up')}}</label>
                                 <input id="radio-40" type="radio" name="next_week_sales_will_go" value="2" class="form-control" required>
-                                <label for="radio-40">Down</label>
+                                <label for="radio-40">{{__('survey.down')}}</label>
                                 <input id="radio-41" type="radio" name="next_week_sales_will_go" value="3" class="form-control" required>
-                                <label for="radio-41">Flat</label>
+                                <label for="radio-41">{{__('survey.flat')}}</label>
                                 <input id="radio-42" type="radio" name="next_week_sales_will_go" value="4" class="form-control" required>
-                                <label for="radio-42">Unsure</label>
+                                <label for="radio-42">{{__('survey.unsure')}}</label>
                             </div>
                         </div>
                         <div class="row custom-radio-part-box quetion-box" id="q-14">
                             <div class="col-md-12">
-                                <p>Do you think next week <strong>prices </strong> will <strong>go:</strong></p>
+                                <p>{{__('survey.doThinkNextWeek')}} <strong>{{__('survey.prices')}} </strong> {{__('survey.will')}} <strong>{{__('survey.go')}}</strong></p>
                             </div>
                             <div class="col-md-12">
                                 <input id="radio-43" type="radio" name="next_week_prices_will_go" value="1" class="form-control" required>
-                                <label for="radio-43">Up</label>
+                                <label for="radio-43">{{__('survey.up')}}</label>
                                 <input id="radio-44" type="radio" name="next_week_prices_will_go" value="2" class="form-control" required>
-                                <label for="radio-44">Down</label>
+                                <label for="radio-44">{{__('survey.down')}}</label>
                                 <input id="radio-45" type="radio" name="next_week_prices_will_go" value="3" class="form-control" required>
-                                <label for="radio-45">Flat</label>
+                                <label for="radio-45">{{__('survey.flat')}}</label>
                                 <input id="radio-46" type="radio" name="next_week_prices_will_go" value="4" class="form-control" required>
-                                <label for="radio-46">Unsure</label>
+                                <label for="radio-46">{{__('survey.unsure')}}</label>
                             </div>
                         </div>
                         <div class="row custom-radio-part-box quetion-box" id="q-15">
                             <div class="col-md-12">
-                                <p>How many transactions do you close in a typical year? Please select range.</p>
+                                <p>{{('Q12')}}</p>
                             </div>
                             <div class="col-md-12">
                                 <select class="form-control" name="transactions_typical_year">
@@ -460,80 +460,80 @@
                         </div>
                         <div class="row custom-radio-part-box quetion-box" id="q-16">
                             <div class="col-md-12">
-                                <p>Which of the following constitutes the majority of your business?</p>
+                                <p>{{__('survey.Q13')}}</p>
                             </div>
                             <div class="col-md-12">
                                 <input id="radio-47" type="radio" name="constitutes_majority_of_business" value="1" class="form-control radio-input2" required>
-                                <label for="radio-47">Sellers</label>
+                                <label for="radio-47">{{__('survey.sellers')}}</label>
                                 <input id="radio-48" type="radio" name="constitutes_majority_of_business" value="2" class="form-control radio-input2" required>
-                                <label for="radio-48">Buyers</label>
+                                <label for="radio-48">{{__('survey.buyers')}}</label>
                                 <input id="radio-49" type="radio" name="constitutes_majority_of_business" value="3" class="form-control radio-input2" required>
-                                <label for="radio-49">Even mix of both</label>
+                                <label for="radio-49">{{__('survey.evenMixBoth')}}</label>
                                 <input id="radio-50" type="radio" name="constitutes_majority_of_business" value="4" class="form-control radio-input2" required>
-                                <!-- <label for="radio-50">Other (please specify)</label>
+                                <!-- <label for="radio-50">{{__('survey.other')}}</label>
                                 <input type="text" name="constitutes_majority_of_business" class="custom-text-box form-control disabled text-2-box" placeholder="Enter value..."> -->
                             </div>
                         </div>
                         <div class="row custom-radio-part-box quetion-box" id="q-17">
                             <div class="col-md-12">
-                                <p>Are you currently working as a member of a real estate team?</p>
+                                <p>{{__('survey.Q14')}}</p>
                             </div>
                             <div class="col-md-12">
                                 <input id="radio-51" type="radio" name="real_estate_team" value="1" class="form-control" required>
-                                <label for="radio-51">Yes</label>
+                                <label for="radio-51">{{__('survey.yes')}}</label>
                                 <input id="radio-52" type="radio" name="real_estate_team" value="2" class="form-control" required>
-                                <label for="radio-52">No</label>
+                                <label for="radio-52">{{__('survey.no')}}</label>
                             </div>
                         </div>
                         <div class="row custom-radio-part-box quetion-box" id="q-18">
                             <div class="col-md-12">
-                                <p>What is the size of your brokerage?</p>
+                                <p>{{__('survey.Q15')}}</p>
                             </div>
                             <div class="col-md-12">
                                 <input id="radio-53" type="radio" name="size_of_your_brokerage" class="form-control radio-input4" value="1" required>
-                                <label for="radio-53">Brokerage size:</label>
+                                <label for="radio-53">{{__('survey.brokerageSize')}}</label>
                                 <input type="text" name="size_of_your_brokerage_other" class="custom-text-box disabled text-3-input" placeholder="Enter value...">
                                 <input id="radio-54" type="radio" name="size_of_your_brokerage" class="form-control radio-input4" value="2" required>
-                                <label for="radio-54">Unsure</label>
+                                <label for="radio-54">{{__('survey.unsure')}}</label>
                                 <input id="radio-not-applicable" type="radio" name="size_of_your_brokerage" class="form-control radio-input4" value="3" required>
-                                <label for="radio-not-applicable">Not Applicable</label>
+                                <label for="radio-not-applicable">{{__('survey.notApplicable')}}</label>
                             </div>
                         </div>
                         <div class="row custom-radio-part-box quetion-box" id="q-19">
                             <div class="col-md-12">
-                                <p>Select your city (Canadian Cities Only)</p>
+                                <p>{{__('survey.selectCity')}}</p>
                             </div>
                             <div class="col-md-12">
                                  <select class="js-select2 form-control" name="canadian_city">
-                                    <option>-- Select Any Canadian City --</option>
+                                    <option>{{__('survey.selectCanadianCity')}}</option>
                                     @foreach(canadianCityList() as $key=>$value)
                                         <option {{ arrayCityKeyDisable($value) ? 'disabled' : '' }}>{{ $value }}</option>
                                     @endforeach
                                 </select>
                             </div>
                         </div>
-                        <button class="btn btn-primary tab-previous" style="display: none;" type="button">Previous</button>
-                        <button class="btn btn-primary tab-next" disabled style="float: right;" type="button">Next</button>
+                        <button class="btn btn-primary tab-previous" style="display: none;" type="button">{{__('survey.previous')}}</button>
+                        <button class="btn btn-primary tab-next" disabled style="float: right;" type="button">{{__('survey.next')}}</button>
                         @endif
                         @if(!is_null($data))
                             @if($checkWeekSurvey)
                                 <div class="col-md-6 text-right submit-btn" style="display: none; float: right;">
-                                  <button class="btn btn-primary submit" type="submit"  value="submit">Submit</button>
+                                  <button class="btn btn-primary submit" type="submit"  value="submit">{{__('survey.submit')}}</button>
                                 </div>
                             @else
                                 <div class="col-md-12 text-center">
-                                  <a href="{{ route('invite.another.realtor') }}" class="btn btn-primary">Invite another REALTOR®</a>
+                                  <a href="{{ route('invite.another.realtor') }}" class="btn btn-primary">{{__('survey.inviteAnotherREALTOR')}}</a>
                                 </div>
                                 <div class="alert alert-success" role="alert" submit="submit" style="margin-top:60px;">
-                                    You have completed the survey this week, please come back next week.
+                                    {{__('survey.para1')}}
                                 </div>
                                 <div class="col-md-12 text-center">
-                                  <a href="{{ route('my.surveys') }}" class="btn btn-primary">Past Surveys Reports</a>
+                                  <a href="{{ route('my.surveys') }}" class="btn btn-primary">{{__('survey.pastSurveysReports')}}</a>
                                 </div>
                             @endif
                         @else
                             <div class="col-md-6 text-right submit-btn" style="display: none; float: right;">
-                                <button class="btn btn-primary submit" type="submit"  value="submit">Submit</button>
+                                <button class="btn btn-primary submit" type="submit"  value="submit">{{__('survey.submit')}}</button>
                             </div>
                             <!-- Modal -->
                               <div class="modal fade i-agree-model" id="iAgree" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -542,14 +542,14 @@
                                         <div class="modal-body">
                                           <div class="row">
                                             <div class="col-md-12">
-                                              <p>Your responses will be used for general analytical use only. Although your identity is sent along with your answers, we will not connect your specific responses to you. After your results are added to the final tally, your identity is concealed from the public and other users once posted on the website.  We will not give your individual responses to any third party. Also, you will not be added to any mailing lists as a result of taking this survey. Only numerical results will be displayed. Proceeding to the survey implies that you understand and agree to provisions in this disclaimer.</p>
+                                              <p>{{__('survey.para2')}}</p>
                                             </div>
                                           </div>
                                         </div>
                                         <div class="modal-footer">
                                           <div class="row">
                                             <div class="col-md-12 test-right">
-                                              <button type="button" class="btn btn-primary submit-btn-model" data-dismiss="modal">I Agree</button>
+                                              <button type="button" class="btn btn-primary submit-btn-model" data-dismiss="modal">{{__('survey.iAgree')}}</button>
                                             </div>
                                           </div>
                                         </div>
@@ -570,7 +570,7 @@
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLongTitle" style="display: inline;">Success</h5>
+        <h5 class="modal-title" id="exampleModalLongTitle" style="display: inline;">{{__('survey.success')}}</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -583,21 +583,21 @@
             <div class="col-md-12 text-center survey-model-text">
                 <div class="row">
                     <div class="col-md-12">
-                        <p>Thanks for completing the survey this week</p>
+                        <p>{{__('survey.para3')}}</p>
                     </div>
                     <div class="col-md-12">
-                        <a href="{{ route('invite.another.realtor') }}" class="btn btn-primary">Invite another REALTOR®</a>
-                        <a href="{{ route('my.surveys') }}" class="btn btn-primary">See Past Results</a>
+                        <a href="{{ route('invite.another.realtor') }}" class="btn btn-primary">{{__('survey.inviteAnotherREALTOR')}}</a>
+                        <a href="{{ route('my.surveys') }}" class="btn btn-primary">{{__('survey.seePastResults')}}</a>
                     </div>
                     <div class="col-md-12">
-                        <p>The final shareable report is ready on Mondays</p>
+                        <p>{{__('survey.para4')}}</p>
                     </div>
                 </div>
             </div>
         </div>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">{{__('survey.close')}}</button>
       </div>
     </div>
   </div>

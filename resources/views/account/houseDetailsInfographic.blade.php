@@ -13,11 +13,11 @@
 <!-- Page Header -->
 <div class="page-header style-11">
   <div class="container">
-    <h2 class="page-title">Create House Details Infographic</h2>
+    <h2 class="page-title">{{__('account/houseDetailsInfographic.createHouseDetailsInfographic')}}</h2>
     <ol class="breadcrumb">
-      <li><a href="{{ Route('home') }}">Home</a></li>
-      <li><a href="{{ Route('dashboard') }}">Dashboard</a></li>
-      <li class="active">My House Details Infographic</li>
+      <li><a href="{{ Route('home') }}">{{__('account/houseDetailsInfographic.home')}}</a></li>
+      <li><a href="{{ Route('dashboard') }}">{{__('account/houseDetailsInfographic.dashboard')}}</a></li>
+      <li class="active">{{__('account/houseDetailsInfographic.myHouseDetailsInfographic')}}</li>
     </ol>
   </div>
 </div>
@@ -28,12 +28,12 @@
         <div class="container">
             <div class="col-md-12">
                 @if(!empty($user['plan']) || checkPlan(Auth::User()->parent_id))
-                    <h1>Create House Details Infographic</h1>
+                    <h1>{{__('account/houseDetailsInfographic.createHouseDetailsInfographic')}}</h1>
                     <div class="create_report_main account-form">
-                        <label>Enter Name of New House Details Infographic</label>
+                        <label>{{__('account/houseDetailsInfographic.enterNameNewHouse')}}</label>
                         <div class="form-group">
                             <input type="text" class="form-control" id="hdi_name" name="hdi_name">
-                            <span class="input-group-addon" style="cursor: pointer;" id="hdi_create"><span class="btn_txt">Create</span>
+                            <span class="input-group-addon" style="cursor: pointer;" id="hdi_create"><span class="btn_txt">{{__('account/houseDetailsInfographic.create')}}</span>
                             <i class="fa fa-spinner fa-spin hide loading" style="font-size:18px"></i></span>
                             <div class="clearfix"></div>
                             <div class="hdi_msg"></div>
@@ -41,12 +41,12 @@
                     </div>
                 @else
                     <div class="disable-box">
-                        <h1>Create House Details Infographic</h1>
+                        <h1>{{__('account/houseDetailsInfographic.createHouseDetailsInfographic')}}</h1>
                         <div class="create_report_main account-form">
-                            <label>Enter Name of New House Details Infographic</label>
+                            <label>{{__('account/houseDetailsInfographic.enterNameNewHouse')}}</label>
                             <div class="form-group">
                                 <input type="text" class="form-control" id="hdi_name" name="hdi_name">
-                                <span class="input-group-addon" style="cursor: pointer;" id="hdi_create"><span class="btn_txt">Create</span>
+                                <span class="input-group-addon" style="cursor: pointer;" id="hdi_create"><span class="btn_txt">{{__('account/houseDetailsInfographic.create')}}</span>
                                 <i class="fa fa-spinner fa-spin hide loading" style="font-size:18px"></i></span>
                                 <div class="clearfix"></div>
                                 <div class="hdi_msg"></div>
@@ -54,8 +54,8 @@
                         </div>
                     </div>
                     <div class="col-md-10 col-md-offset-1  text-center purchase-plan-box purchase-plan">
-                        <h5>You need an active plan or subscription to run reports</h5>
-                        <a href="{{ route('purchase.plan') }}" class="btn btn-success">Select Plan</a>
+                        <h5>{{__('account/houseDetailsInfographic.para1')}}</h5>
+                        <a href="{{ route('purchase.plan') }}" class="btn btn-success">{{__('account/houseDetailsInfographic.selectPlan')}}</a>
                     </div>
                 @endif
             </div>
@@ -68,34 +68,34 @@
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title">Important Information</h4>
+        <h4 class="modal-title">{{__('account/houseDetailsInfographic.importantInformation')}}</h4>
       </div>
       <div class="modal-body">
-        <p>Please update your profile.</p>
+        <p>{{__('account/houseDetailsInfographic.pleaseUpdateprofile')}}</p>
         <ul>
             @if(empty($user->firstName) && empty($user->lastName))
-                <li>Name is missing</li>
+                <li>{{__('account/houseDetailsInfographic.nameMissing')}}</li>
             @endif
             @if(!isset($user_details->photo))
-                <li>Photo is missing</li>
+                <li>{{__('account/houseDetailsInfographic.photoMissing')}}</li>
             @endif
             @if(!isset($user_details->logo))
-                <li>Logo is missing</li>
+                <li>{{__('account/houseDetailsInfographic.logoMissing')}}</li>
             @endif
             @if(empty($user_details->phone))
-                <li>Phone is missing</li>
+                <li>{{__('account/houseDetailsInfographic.phoneMissing')}}</li>
             @endif
             @if(empty($user_details->email))
-                <li>Email is missing</li>
+                <li>{{__('account/houseDetailsInfographic.emailMissing')}}</li>
             @endif
         </ul>
         <p>
-            <a href="{{ Route('profileview') }}" class="btn btn-default">Manage Profile</a>
+            <a href="{{ Route('profileview') }}" class="btn btn-default">{{__('account/houseDetailsInfographic.manageProfile')}}</a>
         </p>
 
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-default" data-dismiss="modal">{{__('account/houseDetailsInfographic.close')}}</button>
       </div>
     </div>
   </div>
@@ -108,25 +108,24 @@
     <div class="modal-content">
       
       <div class="modal-body">
-        <p>You are subscribed to Pay Per Report Plan. 
-        So your card will be Charged for House Details Infographic.</p>
+        <p>{{__('account/houseDetailsInfographic.para2')}}</p>
         <p>
-          I want to create a House Details Infographic for
+          {{__('account/houseDetailsInfographic.para3')}}
         </p>
-        Name House Details Infographic: <h2 id="hdiName"></h2>
-        Amount: <h2>{{env('CURRENCY_SYMBOL').(double)env('HDICHARGE')/100 }}</h2>
-        <!-- <small>If you already own the report You won't be charged</small> -->
+        {{__('account/houseDetailsInfographic.nameHouseDetails')}} <h2 id="hdiName"></h2>
+        {{__('account/houseDetailsInfographic.amount')}} <h2>{{env('CURRENCY_SYMBOL').(double)env('HDICHARGE')/100 }}</h2>
+        <!-- <small>{{__('account/houseDetailsInfographic.para4')}}</small> -->
         <!--
         <div class="form-group">
-          <label for="discount" class="control-label">Coupon Code</label>
+          <label for="discount" class="control-label">{{__('account/houseDetailsInfographic.couponCode')}}</label>
           <input type="text" id="discount" class="form-control">
-          (Have a coupon? Enter it here!)
+          {{__('account/houseDetailsInfographic.haveCoupon')}}
         </div>
     -->
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default cancel-button">Cancel</button>
-        <button type="button" id="charge-button" class="btn btn-primary">Confirm</button>
+        <button type="button" class="btn btn-default cancel-button">{{__('account/houseDetailsInfographic.cancel')}}</button>
+        <button type="button" id="charge-button" class="btn btn-primary">{{__('account/houseDetailsInfographic.confirm')}}</button>
       </div>
     </div>
   </div>

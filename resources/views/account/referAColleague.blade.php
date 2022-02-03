@@ -85,11 +85,11 @@
 <!-- Page Header -->
 <div class="page-header style-11">
   <div class="container">
-    <h2 class="page-title">My Referral</h2>
+    <h2 class="page-title">{{__('account/referAColleague.myReferral')}}</h2>
     <ol class="breadcrumb">
-      <li><a href="{{ Route('home') }}">Home</a></li>
-      <li><a href="{{ Route('dashboard') }}">Dashboard</a></li>
-      <li class="active">My Referral</li>
+      <li><a href="{{ Route('home') }}">{{__('account/referAColleague.home')}}</a></li>
+      <li><a href="{{ Route('dashboard') }}">{{__('account/referAColleague.dashboard')}}</a></li>
+      <li class="active">{{__('account/referAColleague.myReferral')}}</li>
     </ol>
   </div>
 </div>
@@ -100,19 +100,19 @@
 		<div class="cps-section cps-section-padding">
 		    <div class="container">
 				<div class="cps-section-header text-center">
-					<h3 class="cps-section-title">Earn free marketing  collateral when you invite a colleague who registers</h3>
-					<h3 class="cps-section-title">You get two free credits which equals two free reports!</h3>
+					<h3 class="cps-section-title">{{__('account/referAColleague.para1')}}</h3>
+					<h3 class="cps-section-title">{{__('account/referAColleague.para2')}}</h3>
 				</div>
 		        <div class="row box">
 		            <div class="col-md-6 col-xs-12 box-reffral text-center ele1">
 		                <div class="text-center">
-		                    <h4>Share your unique referral code:</h4>
+		                    <h4>{{__('account/referAColleague.shareUniquCeode')}}</h4>
 		                    <h4 class="cps-section-text" style="color: #ea2349">{{$user->referral_code}}</h4>
 		                </div>
 		            </div>
 		            <div class="col-md-6 col-xs-12 box-reffral text-center ele2">
 		                <div class="text-center">
-		                    <h4>Share your unique link:</h4>
+		                    <h4>{{__('account/referAColleague.shareUniqueLink')}}</h4>
 						    <div class="input-group">
 						      <input type="text" class="form-control" id="referral_code" value="{{url('/register').'?referral_code='.$user->referral_code}}">
 						      <div class="input-group-addon" id="copy_link"><i class="fa fa-link" aria-hidden="true"></i></div>
@@ -128,45 +128,45 @@
         <div class="container">
           <div class="row">
 			<div class="cps-section-header text-center">
-				<h3 class="cps-section-title">Other ways to share:</h3>
+				<h3 class="cps-section-title">{{__('account/referAColleague.otherWaysShare')}}</h3>
 			</div>
               <div class="cps-service-boxs">
                   <div class="col-sm-4">
                       <div class="cps-service-box style-7">
                           <!--<h4 class="cps-service-title">Share</h4> 
-                          <p class="cps-service-text">Share your unique referral code or link with as many colleagues as you like</p>
+                          <p class="cps-service-text">{{__('account/referAColleague.para3')}}</p>
                           -->
                           <a class="btn btn-square btn-primary" href="{{'https://www.facebook.com/sharer.php?u='.url('/register'). '?referral_code='. $user->referral_code}}" target="_blank">
                           	<i class="fa fa-facebook"></i>
-                          	&nbsp &nbsp &nbsp &nbsp Facebook
+                          	&nbsp &nbsp &nbsp &nbsp {{__('account/referAColleague.facebook')}}
                       	  </a>
                       </div>
                   </div>
                   <div class="col-sm-4">
                       <div class="cps-service-box style-7">
                       	<!--
-                          <p class="cps-service-text">Your colleagues sign up using your referral code or via your unique link</p>
-                          <h4 class="cps-service-title">Update Profile</h4>
-                          <p class="cps-service-text">Take idea from client and convert that idea to a live, bug free and highly secured software</p>
-                          <a class="service-more" href="#">Learn More <i class="fa fa-angle-right"></i></a>
+                          <p class="cps-service-text">{{__('account/referAColleague.para4')}}</p>
+                          <h4 class="cps-service-title">{{('updateProfile')}}</h4>
+                          <p class="cps-service-text">{{__('account/referAColleague.para5')}}</p>
+                          <a class="service-more" href="#">{{__('account/referAColleague.learnMore')}} <i class="fa fa-angle-right"></i></a>
                           -->
                           <a class="btn btn-square btn-primary" href="mailto:?Subject=Refer A Colleague on Community Feature Sheet&amp;Body={{'https://www.facebook.com/sharer.php?u='.url('/register'). '?referral_code='. $user->referral_code}}" target="_blank">
                           	<i class="fa fa-envelope"></i>
-                          	&nbsp &nbsp &nbsp &nbsp Email
+                          	&nbsp &nbsp &nbsp &nbsp {{__('account/referAColleague.email')}}
                       	  </a>
                       </div>
                   </div>
                   <!-- <div class="col-sm-4">
                       <div class="cps-service-box style-7">
                       	
-                          <p class="cps-service-text">Once they register and place their first order, you get 2 free credits!</p>
-                          <h4 class="cps-service-title">Print Report</h4>
-                          <p class="cps-service-text">Make highly productive apps for multiple mobile device. </p>
-                          <a class="service-more" href="#">Learn More <i class="fa fa-angle-right"></i></a>
+                          <p class="cps-service-text">{{__('account/referAColleague.para6')}}</p>
+                          <h4 class="cps-service-title">{{__('account/referAColleague.printReport')}}</h4>
+                          <p class="cps-service-text">{{__('account/referAColleague.para7')}} </p>
+                          <a class="service-more" href="#">{{__('account/referAColleague.learnMore')}} <i class="fa fa-angle-right"></i></a>
                          
                           <a class="btn btn-square btn-primary" href="{{'https://twitter.com/share?url='.url('/register'). '?referral_code='. $user->referral_code}}" target="_blank">
                           	<i class="fa fa-twitter"></i>
-                          	&nbsp &nbsp &nbsp &nbsp Twitter
+                          	&nbsp &nbsp &nbsp &nbsp {{__('account/referAColleague.twitter')}}
                       	  </a>
                       </div>
                   </div> -->
@@ -179,7 +179,7 @@
         <div class="container">
           <div class="row">
 			<div class="cps-section-header text-center">
-				<h3 class="cps-section-title">How does it work?</h3>
+				<h3 class="cps-section-title">{{__('account/referAColleague.howItWork')}}</h3>
 			</div>
               <div class="cps-service-boxs">
                   <div class="col-sm-4">
@@ -245,9 +245,9 @@
                               </span>
                           </div>
                           <!--<h4 class="cps-service-title">Share</h4> -->
-                          <p class="cps-service-text">Share your unique referral code or link with as many colleagues as you like</p>
+                          <p class="cps-service-text">{{__('account/referAColleague.para3')}}</p>
                           <!--
-                          <a class="service-more" href="#">Learn More <i class="fa fa-angle-right"></i></a>
+                          <a class="service-more" href="#">{{__('account/referAColleague.learnMore')}} <i class="fa fa-angle-right"></i></a>
                           -->
                       </div>
                   </div>
@@ -316,11 +316,11 @@
 									</svg>
                               </span>
                           </div>
-                          <p class="cps-service-text">Your colleagues sign up using your referral code or via your unique link</p>
+                          <p class="cps-service-text">{{__('account/referAColleague.para4')}}</p>
                           <!--
                           <h4 class="cps-service-title">Update Profile</h4>
-                          <p class="cps-service-text">Take idea from client and convert that idea to a live, bug free and highly secured software</p>
-                          <a class="service-more" href="#">Learn More <i class="fa fa-angle-right"></i></a>
+                          <p class="cps-service-text">{{__('account/referAColleague.para5')}}</p>
+                          <a class="service-more" href="#">{{__('account/referAColleague.learnMore')}} <i class="fa fa-angle-right"></i></a>
                           -->
                       </div>
                   </div>
@@ -390,11 +390,11 @@
 									</svg>
                               </span>
                           </div>
-                          <p class="cps-service-text">Once they register and place their first order, you get 2 free credits!</p>
+                          <p class="cps-service-text">{{__('account/referAColleague.para6')}}</p>
 						<!--
-                          <h4 class="cps-service-title">Print Report</h4>
-                          <p class="cps-service-text">Make highly productive apps for multiple mobile device. </p>
-                          <a class="service-more" href="#">Learn More <i class="fa fa-angle-right"></i></a>
+                          <h4 class="cps-service-title">{{__('account/referAColleague.printReport')}}</h4>
+                          <p class="cps-service-text">{{__('account/referAColleague.para7')}} </p>
+                          <a class="service-more" href="#">{{__('account/referAColleague.learnMore')}} <i class="fa fa-angle-right"></i></a>
                           -->
                       </div>
                   </div>
