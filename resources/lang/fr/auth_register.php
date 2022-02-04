@@ -31,4 +31,11 @@ return[
     'para4_4'=>'il suffit d’annuler avant la fin de votre essai gratuit et vous ne serez pas facturé. Si vous n’en avez pas sélectionné un, vous pourrez exécuter des rapports à la volée en tant que Payez au fur et à mesure.',
     'para5_1'=>'Nous vous le rappellerons ',
     'para5_2'=>' quelques jours avant la fin de votre essai afin que vous ayez un service ininterrompu. Vous pouvez annuler votre abonnement à tout moment, simplement en cliquant sur un lien dans les paramètres de votre compte. Si vous annulez, aucun frais d’abonnement futur ne sera effectué, bien que les transactions précédentes ne soient pas remboursables.',
+    'questionOne'=>'Comment fonctionne l’essai gratuit?',
+    'ansOnePartOne'=>'Votre premier',
+    'ansOnePartTwo'=>'les jours sont GRATUITS et vous pouvez créer un nombre illimité de rapports. Après',
+    'ansOnePartThree'=>'jours, vous serez facturé selon le plan que vous avez sélectionné, sauf si vous annulez avant la fin de la période d’essai.',
+    'questionTwo'=>'Puis-je annuler mon abonnement ?',
+    'ansTwoPartOne'=>'Oui, vous pouvez annuler votre compte et aucuns frais futurs ne seront effectués. Vous aurez toujours accès à la création',
+    'ansTwoPartTwo'=>'déclare jusqu’à la fin de votre cycle de facturation, selon le plan que vous avez sélectionné.',
 ];
