@@ -149,8 +149,10 @@ Route::group(['prefix'=>'admin','middleware'=>['checkAdmin']],function(){
 
     //faq-qustion-title
     Route::resource('faq-question-title','FaqQuestionTitleController');
+    Route::resource('fr-faq-question-title','FrFaqQuestionTitleController');
     //faq-qustion-title
     Route::resource('faq-question-answer','FaqQuestionAnswerController');
+    Route::resource('fr-faq-question-answer','FrFaqQuestionAnswerController');
     //subscribe-us list
     Route::get('/subscribe-us/list','SubscribeUsController@subscribeUsList')->name('subscribe.us.list');
     // LogoController

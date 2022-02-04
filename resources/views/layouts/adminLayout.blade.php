@@ -83,6 +83,7 @@
                             <li><a href="{{ route('products') }}"><i class="fa fa-product-hunt" aria-hidden="true"></i>Products</a></li>
                             <li><a href="{{ route('purches.products') }}"><i class="fa fa-product-hunt" aria-hidden="true"></i>Purchase Products</a></li>
                             <li><a href="{{ route('faq-question-title.index') }}"><i class="fa fa-question" aria-hidden="true"></i>FAQ</a></li>
+                            <li><a href="{{ route('fr-faq-question-title.index') }}"><i class="fa fa-question" aria-hidden="true"></i>FR FAQ</a></li>
                             <li><a href="{{ route('subscribe.us.list') }}"><i class="fa fa-envelope-o" aria-hidden="true"></i>Subscribe Us</a></li>
                             <li><a href="{{ route('testimonial') }}"><i class="fa fa-quote-left" aria-hidden="true"></i>Testimonial</a></li>
                             <li><a href="{{ route('logo.index') }}"><i class="fa fa-picture-o" aria-hidden="true"></i>Logo</a></li>

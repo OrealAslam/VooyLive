@@ -11,6 +11,7 @@ use App\Setting;
 use App\User;
 use App\Plan;
 use App\FaqQuestionTitle;
+use App\FrFaqQuestionTitle;
 use App\ClientDetail;
 use App\UserReport;
 use App\Testimonial;
@@ -20,6 +21,7 @@ use Carbon\Carbon;
 use App\Jobs\ProcessEmails;
 use Illuminate\Support\Facades\Storage;
 use App\SmtpSetting;
+use App;
 class HomeController extends Controller
 {
 
@@ -399,9 +401,14 @@ class HomeController extends Controller
      */
     public function faqs()
     {
-        $faqQuestionTitles = FaqQuestionTitle::latest()->get();
-        
-        return view('faqs',compact('faqQuestionTitles'));
+        $locale = App::getLocale();
+        if($locale == 'fr') {
+            $frFaqQuestionTitles = FrFaqQuestionTitle::latest()->get();
+            return view('fr_faqs',compact('frFaqQuestionTitles'));
+        } else {
+            $faqQuestionTitles = FaqQuestionTitle::latest()->get();
+            return view('faqs',compact('faqQuestionTitles'));
+        }
     }
 
     /**
