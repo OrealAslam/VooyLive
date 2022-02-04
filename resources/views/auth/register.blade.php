@@ -229,7 +229,7 @@
 
                     <div class="col-xs-12 well">
                         <p>{{__('auth_register.para4_1')}} {{ config('app.title') }}{{__('auth_register.para4_2')}} {{ config('app.trial_period') }}{{__('auth_register.para4_3')}} {{ config('app.title') }}{{__('auth_register.para4_4')}}</p>
-                        <p>{{__('auth_register.para5_1')}} {{ config('app.trial_period')/2 }} {{__('auth_register.para5_1')}}
+                        <p>{{__('auth_register.para5_1')}} {{ config('app.trial_period')/2 }} {{__('auth_register.para5_2')}}
                     </div>
 
                     <div class="form-group">
