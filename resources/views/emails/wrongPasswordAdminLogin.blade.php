@@ -7,9 +7,9 @@
 			<tr>
 				<td align="left">
 					<div class="contentEditableContainer contentTextEditable" style="margin: 0;">
-						<p style="font-size: 15px;">{{__('emails.wrongPasswordAdminLogin.hi')}}</p>
-						<p style="font-size: 15px;">{{__('emails.wrongPasswordAdminLogin.para1')}} {{ $ip }}</p>
-						<p style="font-size: 15px;">{{__('emails.wrongPasswordAdminLogin.thankYou')}}</p>
+						<p style="font-size: 15px;">{{__('emails/wrongPasswordAdminLogin.hi')}}</p>
+						<p style="font-size: 15px;">{{__('emails/wrongPasswordAdminLogin.para1')}} {{ $ip }}</p>
+						<p style="font-size: 15px;">{{__('emails/wrongPasswordAdminLogin.thankYou')}}</p>
 					</div>
 				</td>
 			</tr>
