@@ -4,11 +4,11 @@
 <!-- Page Header -->
 <div class="page-header style-11">
   <div class="container">
-    <h2 class="page-title">My Credits</h2>
+    <h2 class="page-title">{{__('account/credits.myCredits')}}</h2>
     <ol class="breadcrumb">
-      <li><a href="{{ Route('home') }}">Home</a></li>
-      <li><a href="{{ Route('dashboard') }}">Dashboard</a></li>
-      <li class="active">My Credits</li>
+      <li><a href="{{ Route('home') }}">{{__('account/credits.home')}}</a></li>
+      <li><a href="{{ Route('dashboard') }}">{{__('account/credits.dashboard')}}</a></li>
+      <li class="active">{{__('account/credits.myCredits')}}</li>
     </ol>
   </div>
 </div>
@@ -21,16 +21,16 @@
                 @include('common.errors')
                 @include('common.success')
 				<!-- <a href="{{ url('/transactions/pdf') }}">Download PDF</a> -->
-				<h1 style="display: inline;">My Credits</h1><h3 style="display: inline;font-weight:normal;"> (${{ number_format($user->userCredit(),2) }})</h3>
+				<h1 style="display: inline;">{{__('account/credits.myCredits')}}</h1><h3 style="display: inline;font-weight:normal;"> (${{ number_format($user->userCredit(),2) }})</h3>
 
 				<div class="row mt-10">
 					<div class="col-md-4 mt-10">
 						<table class="table table-bordered text-center">
 							<thead>
 								<tr>
-									<th class="text-center">Credit</th>
-									<th class="text-center">Debit</th>
-									<th class="text-center">Current Credit</th>
+									<th class="text-center">{{__('account/credits.credit')}}</th>
+									<th class="text-center">{{__('account/credits.debit')}}</th>
+									<th class="text-center">{{__('account/credits.currentCredit')}}</th>
 								</tr>
 							</thead>
 							<tbody>
@@ -43,7 +43,7 @@
 						</table>
 					</div>
 					<div class="col-md-8 mt-10 text-right">
-						<a href="{{ url('/order/'.orderCategoryCredit()['slug']) }}" class="btn btn-primary">Buy Credit</a>
+						<a href="{{ url('/order/'.orderCategoryCredit()['slug']) }}" class="btn btn-primary">{{('buyCredit')}}</a>
 					</div>
 				</div>
 
@@ -51,19 +51,19 @@
 					<div class="col-md-6">
 						<div class="row">
 							<div class="col-md-12">
-								<h5>Credit</h5>
+								<h5>{{__('account/credits.credit')}}</h5>
 							</div>
 							<div class="col-md-12">
 								<table class="table table-striped table-bordered">
 									<thead>
 										<tr>
-											<th width="20">Id</th>
-											<th>Description</th>
-											<th>Type</th>
-											<th>Product</th>
-											<th>Referral</th>
-											<th>Credit</th>
-											<th>Dated</th>
+											<th width="20">{{__('account/credits.id')}}</th>
+											<th>{{__('account/credits.description')}}</th>
+											<th>{{__('account/credits.type')}}</th>
+											<th>{{__('account/credits.product')}}</th>
+											<th>{{__('account/credits.referral')}}</th>
+											<th>{{__('account/credits.credit')}}</th>
+											<th>{{__('account/credits.dated')}}</th>
 										</tr>
 									</thead>
 									<tbody>
@@ -82,7 +82,7 @@
 									<tfoot>
 										<tr>
 											<td colspan="7" align="right">
-												Balance Credits : ${{ number_format($user->getBalanceCredits(),2) }}
+												{{__('account/credits.balanceCredits')}} : ${{ number_format($user->getBalanceCredits(),2) }}
 											</td>
 										</tr>
 									</tfoot>
@@ -94,15 +94,15 @@
 					<div class="col-md-6">
 						<div class="row">
 							<div class="col-md-12">
-								<h5>Debit</h5>
+								<h5>{{__('account/credits.debit')}}</h5>
 							</div>
 							<div class="col-md-12">
 								<table class="table table-striped table-bordered">
 									<thead>
 										<tr>
-											<th width="20">Id</th>
-											<th>Debit</th>
-											<th>Dated</th>
+											<th width="20">{{__('account/credits.id')}}</th>
+											<th>{{__('account/credits.debit')}}</th>
+											<th>{{__('account/credits.dated')}}</th>
 										</tr>
 									</thead>
 									<tbody>

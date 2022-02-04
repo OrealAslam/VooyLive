@@ -1,0 +1,22 @@
+<?php
+return[
+    'home'=>'Home',
+    'myReports'=>'My Reports',
+    'dashboard'=>'Dashboard',
+    'id'=>'Id',
+    'createdUser'=>'Created User',
+    'address'=>'Address',
+    'amount'=>'Amount',
+    'type'=>'Type',
+    'dated'=>'Dated',
+    'action'=>'Action',
+    'notes'=>'Notes',
+    'view'=>'View',
+    'balance'=>'Balance',
+    'run'=>'Run',
+    'customReports'=>'Custom Reports',
+    'productName'=>'Product Name',
+    'neighbourhood'=>'Neighbourhood',
+    'purchaseDate'=>'Purchase Date',
+    'order'=>'Order',
+];

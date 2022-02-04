@@ -38,11 +38,11 @@ $(document).ready(function() {
 <!-- Page Header -->
 <div class="page-header style-11">
   <div class="container">
-    <h2 class="page-title">Update Card</h2>
+    <h2 class="page-title">{{__('account/updateCard.updateCard')}}</h2>
     <ol class="breadcrumb">
-      <li><a href="{{ Route('home') }}">Home</a></li>
-      <li><a href="{{ Route('dashboard') }}">Dashboard</a></li>
-      <li class="active">Update Card</li>
+      <li><a href="{{ Route('home') }}">{{__('account/updateCard.home')}}</a></li>
+      <li><a href="{{ Route('dashboard') }}">{{__('account/updateCard.dashboard')}}</a></li>
+      <li class="active">{{__('account/updateCard.updateCard')}}</li>
     </ol>
   </div>
 </div>
@@ -58,11 +58,11 @@ $(document).ready(function() {
         @endif
         <div class="container">
 <div class="col-md-12">
-	<h1>Update Card</h1>
+	<h1>{{__('account/updateCard.updateCard')}}</h1>
 	<form id="subscribe-form" action="{{ url('account/updateCard') }}" method="post" class="account-form"> {{ csrf_field() }}
-<div class="row"><div class="col-xs-12"><hr><h4 class="section-header"><span>Enter Your Credit Card Info</span></h4></div></div>                    
+<div class="row"><div class="col-xs-12"><hr><h4 class="section-header"><span>{{__('account/updateCard.enterYourCreditCardInfo')}}</span></h4></div></div>                    
                     <div class="form-group">
-                <label for="card_number" class="col-md-4 control-label">Card Number</label>
+                <label for="card_number" class="col-md-4 control-label">{{__('account/updateCard.cardNumber')}}</label>
 
                 <div class="col-md-6">
                     <input id="card_number" type="text" class="form-control" data-stripe="number" >
@@ -74,7 +74,7 @@ $(document).ready(function() {
                 </div>
             </div>
             <div class="form-group">
-                <label for="card_number" class="col-md-4 control-label">Expiry Month</label>
+                <label for="card_number" class="col-md-4 control-label">{{__('account/updateCard.expiryMonth')}}</label>
 
                 <div class="col-md-6">
                 
@@ -97,13 +97,13 @@ $(document).ready(function() {
                 </div>
             </div>
              <div class="form-group" id="expiration-date" >
-                  <label for="card_number" class="col-md-4 control-label">Expiry Year</label>
+                  <label for="card_number" class="col-md-4 control-label">{{__('account/updateCard.expiryYear')}}</label>
                 
                 <div class="col-md-6">
                      <input type="text" class="form-control" placeholder="2020" data-stripe="exp-year">
             </div></div>
             <div class="form-group">
-                <label for="card_number" class="col-md-4 control-label">CVC</label>
+                <label for="card_number" class="col-md-4 control-label">{{__('account/updateCard.CVC')}}</label>
 
                 <div class="col-md-6">
                     <input id="cvc" type="text" class="form-control"  data-stripe="cvc">
@@ -122,7 +122,7 @@ $(document).ready(function() {
             <div class="form-group">
               
                 <div class="col-md-12">
-                    <input id="agree_term" type="checkbox"  value="1" name="agree_term" checked required> I have read and understood these <a href="{{ url('terms') }}">Terms of Service</a> and agree to be bound by them.
+                    <input id="agree_term" type="checkbox"  value="1" name="agree_term" checked required> {{__('account/updateCard.para1')}} <a href="{{ url('terms') }}">{{__('account/updateCard.termsService')}}</a> {{__('account/updateCard.para2')}}
                       @if ($errors->has('agree_term'))
                         <span class="help-block">
                             <strong>{{ $errors->first('agree_term') }}</strong>
@@ -142,7 +142,7 @@ $(document).ready(function() {
             <div class="form-group">
                 <div class="col-md-6">
                     <button type="submit" class="btn btn-primary">
-                        Update Your Credit Card
+                        {{__('account/updateCard.updateYourCreditCard')}}
                     </button>
                 </div>
             </div>
@@ -159,14 +159,14 @@ $(document).ready(function() {
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Cancel Subscription</h4>
+        <h4 class="modal-title" id="myModalLabel">{{__('account/updateCard.cancelSubscription')}}</h4>
       </div>
       <div class="modal-body">
-        Are you sure you want to cancel your subscription ?
+        {{__('account/updateCard.para3')}}
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
-        <a class="btn btn-primary" id="confirm_btn">Ok</a>
+        <button type="button" class="btn btn-default" data-dismiss="modal">{{__('account/updateCard.cancel')}}</button>
+        <a class="btn btn-primary" id="confirm_btn">{{__('account/updateCard.ok')}}</a>
       </div>
     </div>
   </div>

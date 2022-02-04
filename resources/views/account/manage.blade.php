@@ -5,11 +5,11 @@
 <!-- Page Header -->
 <div class="page-header style-11">
   <div class="container">
-    <h2 class="page-title">Manage Account</h2>
+    <h2 class="page-title">{{__('account/manage.manageAccount')}}</h2>
     <ol class="breadcrumb">
-      <li><a href="{{ Route('home') }}">Home</a></li>
-      <li><a href="{{ Route('dashboard') }}">Dashboard</a></li>
-      <li class="active">Manage Account</li>
+      <li><a href="{{ Route('home') }}">{{__('account/manage.home')}}</a></li>
+      <li><a href="{{ Route('dashboard') }}">{{__('account/manage.dashboard')}}</a></li>
+      <li class="active">{{__('account/manage.manageAccount')}}</li>
     </ol>
   </div>
 </div>
@@ -27,30 +27,30 @@
 <div class="col-md-12">
     <div class="row">
         <div class="col-md-6 text-left">
-	       <h1>Manage Account</h1>
+	       <h1>{{__('account/manage.manageAccount')}}</h1>
         </div>
         <div class="col-md-6 text-right mt-10">
-            <a href="{{ route('purchase.plan') }}" class="btn btn-primary mt-10">View Plans</a>
+            <a href="{{ route('purchase.plan') }}" class="btn btn-primary mt-10">{{__('account/manage.viewPlans')}}</a>
         </div>
     </div>
     <ul class="list-group">
 
-        <li class="list-group-item">Status: <strong>{{ $status }}</strong> </li>
-        <li class="list-group-item">Current Plan: <strong>{{ $plan }}</strong> </li>
+        <li class="list-group-item">{{__('account/manage.status')}} <strong>{{ $status }}</strong> </li>
+        <li class="list-group-item">{{__('account/manage.currentPlan')}} <strong>{{ $plan }}</strong> </li>
         @if($trial_ends_at)
-            <li class="list-group-item">Trial Ends Date: <strong>{{ $trial_ends_at }}</strong> </li>
+            <li class="list-group-item">{{__('account/manage.trialEndsDate')}} <strong>{{ $trial_ends_at }}</strong> </li>
         @else
-            <li class="list-group-item">Current Period Starts: <strong>{{ $startDate }}</strong> </li>
+            <li class="list-group-item">{{__('account/manage.currentPeriodStarts')}} <strong>{{ $startDate }}</strong> </li>
             @if($renews_at)
-                <li class="list-group-item">Current Period Renew: <strong>{{ $renews_at }}</strong> </li>
+                <li class="list-group-item">{{__('account/manage.currentPeriodRenew')}} <strong>{{ $renews_at }}</strong> </li>
             @endif
             @if($endDate)
-                <li class="list-group-item">Current Period End: <strong>{{ $endDate }}</strong> </li>
+                <li class="list-group-item">{{__('account/manage.currentPeriodEnd')}} <strong>{{ $endDate }}</strong> </li>
             @endif
         @endif
         @if($subscribed==true && $user->plan != env('PAYPERREPORT_PACKAGE'))
             <li class="list-group-item">
-                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#cancel_subscription" data-href="{{ url('account/cancelSubscription') }}">Click here to cancel your subscriptions</button>
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#cancel_subscription" data-href="{{ url('account/cancelSubscription') }}">{{__('account/manage.para1')}}</button>
             </li>
         @endif
         
@@ -60,16 +60,16 @@
         <div class="col-sm-6">
         <hr>
         @if(Auth::user()->plan == '')
-            <h4 class="section-header"><span>Purchase Your Plan</span></h4>
-            <a href="{{ route('purchase.plan') }}" style="margin-top:10px;" class="btn btn-success">Purchase Plan</a>
+            <h4 class="section-header"><span>{{__('account/manage.purchaseYourPlan')}}</span></h4>
+            <a href="{{ route('purchase.plan') }}" style="margin-top:10px;" class="btn btn-success">{{__('account/manage.purchasePlan')}}</a>
         @else
 
             @if(getAvailablePlan()->count() > 0)
             <div class="form-group">
-                <h4 class="section-header"><span>Update Your Plan</span></h4>
-                <label for="plan" class="control-label">Plan</label>
+                <h4 class="section-header"><span>{{__('account/manage.updateYourPlan')}}</span></h4>
+                <label for="plan" class="control-label">{{__('account/manage.plan')}}</label>
                 <select class="form-control" name="plan">
-                    <option value="" selected="selected">- Select Plan -</option>
+                    <option value="" selected="selected">- {{__('account/manage.selectPlan')}} -</option>
                     @foreach(getAvailablePlan() as $plan)
                         @if(strpos($plan->planId, Config::get('app.30DayTrialString')) === false)
                             <option value="{{ $plan->planId }}">{{ $plan->name }}</option>
@@ -80,13 +80,13 @@
             <div class="form-group">
                 <div class="col-md-6">
                     <button type="submit" class="btn btn-primary">
-                        Update Your Plan
+                        {{__('account/manage.updateYourPlan')}}
                     </button>
                 </div>
             </div>
             @else
             <div class="alert alert-info">
-                <p>You can not update plan now.</p>
+                <p>{{__('account/manage.para2')}}</p>
             </div>
             @endif
         @endif
@@ -109,14 +109,14 @@
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Cancel Subscription</h4>
+        <h4 class="modal-title" id="myModalLabel">{{__('account/manage.cancelSubscription')}}</h4>
       </div>
       <div class="modal-body">
-        Are you sure you want to cancel your subscription ?
+        {{__('account/manage.para3')}}
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
-        <a class="btn btn-primary" id="confirm_btn">Ok</a>
+        <button type="button" class="btn btn-default" data-dismiss="modal">{{__('account/manage.cancel')}}</button>
+        <a class="btn btn-primary" id="confirm_btn">{{__('account/manage.ok')}}</a>
       </div>
     </div>
   </div>

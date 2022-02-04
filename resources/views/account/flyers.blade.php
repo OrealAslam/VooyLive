@@ -3,11 +3,11 @@
 <!-- Page Header -->
 <div class="page-header style-11">
   <div class="container">
-    <h2 class="page-title">My Property Feature Sheet</h2>
+    <h2 class="page-title">{{__('account/flyers.myPropertyFeatureSheet')}}</h2>
     <ol class="breadcrumb">
-      <li><a href="{{ Route('home') }}">Home</a></li>
-      <li><a href="{{ Route('dashboard') }}">Dashboard</a></li>
-      <li class="active">My Property Feature Sheet</li>
+      <li><a href="{{ Route('home') }}">{{__('account/flyers.home')}}</a></li>
+      <li><a href="{{ Route('dashboard') }}">{{__('account/flyers.dashboard')}}</a></li>
+      <li class="active">{{__('account/flyers.myPropertyFeatureSheet')}}</li>
     </ol>
   </div>
 </div>
@@ -20,20 +20,20 @@
                 @include('common.errors')
                 @include('common.success')
 				<!-- <a href="{{ url('/transactions/pdf') }}">Download PDF</a> -->
-				<h1>My Property Feature Sheet</h1>
+				<h1>{{__('account/flyers.myPropertyFeatureSheet')}}</h1>
 				<table class="table table-striped">
 					<thead>
 						<tr>
-							<th>Id</th>
-							<th>Name</th>
+							<th>{{__('account/flyers.id')}}</th>
+							<th>{{__('account/flyers.name')}}</th>
 							@if(Auth::User()->user_type == 1)
-								<th>Created User</th>
+								<th>{{('createdUser')}}</th>
 							@endif
-							<th>Amount</th>
-							<th>Type</th>
-							<th>Status</th>
-							<th>Dated</th>
-							<th>Action</th>
+							<th>{{__('account/flyers.amount')}}</th>
+							<th>{{__('account/flyers.type')}}</th>
+							<th>{{__('account/flyers.status')}}</th>
+							<th>{{__('account/flyers.dated')}}</th>
+							<th>{{__('account/flyers.action')}}</th>
 						</tr>
 					</thead>
 					<tbody>
@@ -48,14 +48,14 @@
 							<td class="text-capitalize">{{ $flyer->type }}</td>
 							<td>{{ ($flyer->status==1) ? 'Active' : 'Inactive' }}</td>
 							<td>{{ $flyer->created_at }}</td>
-							<td><a href="{{route('flyerDetails', ['flyerId' => $flyer->id, 'userId' => $flyer->user_id])}}">view</a></td>
+							<td><a href="{{route('flyerDetails', ['flyerId' => $flyer->id, 'userId' => $flyer->user_id])}}">{{__('account/flyers.view')}}</a></td>
 						</tr>
 						@endforeach
 					</tbody>
 					<!--
 					<tfoot>
 						<tr>
-							<td colspan="3" align="right">Balance {{ config('app.currency_symbol') }}{{ $user->getBalance() }}</td>
+							<td colspan="3" align="right">{{__('account/flyers.balance')}} {{ config('app.currency_symbol') }}{{ $user->getBalance() }}</td>
 						</tr>
 					</tfoot>
 
@@ -67,7 +67,7 @@
 
 				<div class="row">
 					<div class="col-md-12 text-center" style="margin-top:25px;">
-						<a href="{{ route('orderReport','propertyFeatureSheet') }}" class="btn btn-primary">Create</a>
+						<a href="{{ route('orderReport','propertyFeatureSheet') }}" class="btn btn-primary">{{__('account/flyers.create')}}</a>
 					</div>
 				</div>
 			</div>

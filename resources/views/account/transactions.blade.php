@@ -3,11 +3,11 @@
 <!-- Page Header -->
 <div class="page-header style-11">
   <div class="container">
-    <h2 class="page-title">My Reports</h2>
+    <h2 class="page-title">{{__('account/transactions.myReports')}}</h2>
     <ol class="breadcrumb">
-      <li><a href="{{ Route('home') }}">Home</a></li>
-      <li><a href="{{ Route('dashboard') }}">Dashboard</a></li>
-      <li class="active">My Reports</li>
+      <li><a href="{{ Route('home') }}">{{__('account/transactions.home')}}</a></li>
+      <li><a href="{{ Route('dashboard') }}">{{__('account/transactions.dashboard')}}</a></li>
+      <li class="active">{{__('account/transactions.myReports')}}</li>
     </ol>
   </div>
 </div>
@@ -20,19 +20,19 @@
                 @include('common.errors')
                 @include('common.success')
 				<!-- <a href="{{ url('/transactions/pdf') }}">Download PDF</a> -->
-				<h1>My Reports</h1>
+				<h1>{{__('account/transactions.myReports')}}</h1>
 				<table class="table table-striped">
 					<thead>
 						<tr>
-							<th>Id</th>
+							<th>{{__('account/transactions.id')}}</th>
 							@if(Auth::User()->user_type == 1)
-								<th>Created User</th>
+								<th>{{__('account/transactions.createdUser')}}</th>
 							@endif
-							<th>Address</th>
-							<th>Amount</th>
-							<th>Type</th>
-							<th>Dated</th>
-							<th>Action</th>
+							<th>{{__('account/transactions.address')}}</th>
+							<th>{{__('account/transactions.amount')}}</th>
+							<th>{{__('account/transactions.type')}}</th>
+							<th>{{__('account/transactions.dated')}}</th>
+							<th>{{__('account/transactions.action')}}</th>
 						</tr>
 					</thead>
 					<tbody>
@@ -47,9 +47,9 @@
 							<td class="text-capitalize">{{ $transaction->type }}</td>
 							<td>{{ $transaction->created_at }}</td>
 							<td>
-								<a href="{{route('reportNotes', ['reportId' => $transaction->reportId])}}">Notes</a>
+								<a href="{{route('reportNotes', ['reportId' => $transaction->reportId])}}">{{__('account/transactions.notes')}}</a>
 								|
-								<a href="{{route('reportDetails', ['reportId' => $transaction->reportId, 'userId' => $transaction->userId])}}">view</a>
+								<a href="{{route('reportDetails', ['reportId' => $transaction->reportId, 'userId' => $transaction->userId])}}">{{__('account/transactions.view')}}</a>
 							</td>
 						</tr>
 						@endforeach
@@ -57,7 +57,7 @@
 					<!--
 					<tfoot>
 						<tr>
-							<td colspan="3" align="right">Balance {{ config('app.currency_symbol') }}{{ $user->getBalance() }}</td>
+							<td colspan="3" align="right">{{__('account/transactions.balance')}} {{ config('app.currency_symbol') }}{{ $user->getBalance() }}</td>
 						</tr>
 					</tfoot>
 
@@ -69,7 +69,7 @@
 
 				<div class="row">
 					<div class="col-md-12 text-center">
-						<a href="{{ route($name) }}" class="btn btn-primary">Run</a>
+						<a href="{{ route($name) }}" class="btn btn-primary">{{__('account/transactions.run')}}</a>
 					</div>
 				</div>
 			</div>
@@ -82,17 +82,17 @@
   	<div class="cps-section cps-section-padding" id="features">
       	<div class="container">
 			<div class="col-md-12">
-				<h1>Custom Reports</h1>
+				<h1>{{__('account/transactions.customReports')}}</h1>
 				<table class="table table-striped">
 					<thead>
 						<tr>
-							<th>Id</th>
-							<th>Product Name</th>
-							<th>Amount</th>
-							<th>Address</th>
-							<th>Neighbourhood</th>
-							<th>Purchase Date</th>
-							<th>Action</th>
+							<th>{{__('account/transactions.id')}}</th>
+							<th>{{('productName')}}</th>
+							<th>{{__('account/transactions.amount')}}</th>
+							<th>{{__('account/transactions.address')}}</th>
+							<th>{{__('account/transactions.neighbourhood')}}</th>
+							<th>{{__('account/transactions.purchaseDate')}}</th>
+							<th>{{__('account/transactions.action')}}</th>
 						</tr>
 					</thead>
 					<tbody>
@@ -106,7 +106,7 @@
 										<td>{{ $value->address ?? '-' }}</td>
 										<td>{{ $value->neighborhood ?? '-' }}</td>
 										<td>{{ $value->created_at ?? '-' }}</td>
-										<td><a href="{{ route('product.detail',$value->id) }}">View</a></td>
+										<td><a href="{{ route('product.detail',$value->id) }}">{{__('account/transactions.view')}}</a></td>
 									</tr>
 								@endif
 							@endforeach
@@ -115,7 +115,7 @@
 				</table>
 				<div class="row">
 					<div class="col-md-12 text-center">
-						<a href="{{ url('/order/'.$cat->slug) }}" class="btn btn-primary">Order</a>
+						<a href="{{ url('/order/'.$cat->slug) }}" class="btn btn-primary">{{__('account/transactions.order')}}</a>
 					</div>
 				</div>
 			</div>

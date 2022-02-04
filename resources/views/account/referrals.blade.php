@@ -5,11 +5,11 @@
 <!-- Page Header -->
 <div class="page-header style-11">
   <div class="container">
-    <h2 class="page-title">My Referral</h2>
+    <h2 class="page-title">{{__('account/referrals.myReferral')}}</h2>
     <ol class="breadcrumb">
-      <li><a href="{{ Route('home') }}">Home</a></li>
-      <li><a href="{{ Route('dashboard') }}">Dashboard</a></li>
-      <li class="active">My Referral</li>
+      <li><a href="{{ Route('home') }}">{{__('account/referrals.home')}}</a></li>
+      <li><a href="{{ Route('dashboard') }}">{{__('account/referrals.dashboard')}}</a></li>
+      <li class="active">{{__('account/referrals.myReferral')}}</li>
     </ol>
   </div>
 </div>
@@ -23,14 +23,14 @@
                 @include('common.errors')
                 @include('common.success')
 				<!-- <a href="{{ url('/transactions/pdf') }}">Download PDF</a> -->
-				<h1>My Referral</h1>
+				<h1>{{__('account/referrals.myReferral')}}</h1>
 				<table class="table table-striped">
 					<thead>
 						<tr>
-							<th>Id</th>
-							<th>User Name</th>
-							<th>Email</th>
-							<th>Dated</th>
+							<th>{{__('account/referrals.id')}}</th>
+							<th>{{__('account/referrals.userName')}}</th>
+							<th>{{__('account/referrals.email')}}</th>
+							<th>{{__('account/referrals.dated')}}</th>
 						</tr>
 					</thead>
 					<tbody>
@@ -46,7 +46,7 @@
 					<!--
 					<tfoot>
 						<tr>
-							<td colspan="3" align="right">Balance {{ config('app.currency_symbol') }}{{ $user->getBalance() }}</td>
+							<td colspan="3" align="right">{{__('account/referrals.balance')}} {{ config('app.currency_symbol') }}{{ $user->getBalance() }}</td>
 						</tr>
 					</tfoot>
 

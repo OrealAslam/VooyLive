@@ -3,11 +3,11 @@
 <!-- Page Header -->
 <div class="page-header style-11">
   <div class="container">
-    <h2 class="page-title">My House Details Infographic</h2>
+    <h2 class="page-title">{{__('account/hdis.myHouseDetailsInfographic')}}</h2>
     <ol class="breadcrumb">
-      <li><a href="{{ Route('home') }}">Home</a></li>
-      <li><a href="{{ Route('dashboard') }}">Dashboard</a></li>
-      <li class="active">House Details Infographic</li>
+      <li><a href="{{ Route('home') }}">{{__('account/hdis.home')}}</a></li>
+      <li><a href="{{ Route('dashboard') }}">{{__('account/hdis.dashboard')}}</a></li>
+      <li class="active">{{__('account/hdis.houseDetailsInfographic')}}</li>
     </ol>
   </div>
 </div>
@@ -20,20 +20,20 @@
                 @include('common.errors')
                 @include('common.success')
 				<!-- <a href="{{ url('/transactions/pdf') }}">Download PDF</a> -->
-				<h1>My Home Details Infographic</h1>
+				<h1>{{__('account/hdis.myHomeDetailsInfographic')}}</h1>
 				<table class="table table-striped">
 					<thead>
 						<tr>
-							<th>Id</th>
-							<th>Name</th>
+							<th>{{__('account/hdis.id')}}</th>
+							<th>{{__('account/hdis.name')}}</th>
 							@if(Auth::User()->user_type == 1)
-								<th>Created User</th>
+								<th>{{__('account/hdis.createdUser')}}</th>
 							@endif
-							<th>Amount</th>
-							<th>Type</th>
-							<th>Status</th>
-							<th>Dated</th>
-							<th>Action</th>
+							<th>{{__('account/hdis.amount')}}</th>
+							<th>{{__('account/hdis.type')}}</th>
+							<th>{{__('account/hdis.status')}}</th>
+							<th>{{__('account/hdis.dated')}}</th>
+							<th>{{__('account/hdis.action')}}</th>
 						</tr>
 					</thead>
 					<tbody>
@@ -48,14 +48,14 @@
 							<td class="text-capitalize">{{ $hdi->type }}</td>
 							<td>{{ ($hdi->status==1) ? 'Active' : 'Inactive' }}</td>
 							<td>{{ $hdi->created_at }}</td>
-							<td><a href="{{route('hdiDetails', ['hdiId' => $hdi->id, 'userId' => $hdi->user_id])}}">view</a></td>
+							<td><a href="{{route('hdiDetails', ['hdiId' => $hdi->id, 'userId' => $hdi->user_id])}}">{{__('account/hdis.view')}}</a></td>
 						</tr>
 						@endforeach
 					</tbody>
 					<!--
 					<tfoot>
 						<tr>
-							<td colspan="3" align="right">Balance {{ config('app.currency_symbol') }}{{ $user->getBalance() }}</td>
+							<td colspan="3" align="right">{{__('account/hdis.balance')}} {{ config('app.currency_symbol') }}{{ $user->getBalance() }}</td>
 						</tr>
 					</tfoot>
 
@@ -67,7 +67,7 @@
 
 				<div class="row">
 					<div class="col-md-12 text-center" style="margin-top:25px;">
-						<a href="{{Route('orderReport','houseDetailsInfographic')}}" class="btn btn-primary">Create</a>
+						<a href="{{Route('orderReport','houseDetailsInfographic')}}" class="btn btn-primary">{{__('account/hdis.create')}}</a>
 					</div>
 				</div>
 

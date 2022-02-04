@@ -1,0 +1,22 @@
+<?php
+return[
+    'home'=>'Accueil',
+    'myReports'=>'Mes rapports',
+    'dashboard'=>'Tableau de bord',
+    'id'=>'Id',
+    'createdUser'=>'Utilisateur créé',
+    'address'=>'Adresse',
+    'amount'=>'Montant',
+    'type'=>'Type',
+    'dated'=>'Daté du',
+    'action'=>'Mesures à prendre',
+    'notes'=>'Remarques :',
+    'view'=>'Voir',
+    'balance'=>'L’équilibre',
+    'run'=>'Exécuter',
+    'customReports'=>'Rapports personnalisés',
+    'productName'=>'Nom du produit',
+    'neighbourhood'=>'Quartier',
+    'purchaseDate'=>'Date d’achat',
+    'order'=>'Ordre',
+];
