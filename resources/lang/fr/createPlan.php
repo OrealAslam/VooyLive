@@ -1,0 +1,21 @@
+<?php
+return[
+    'createPlan' => 'Créer un plan',
+    'home' => 'Accueil',
+    'plan' => 'Planifier',   
+    'selectPlan' => '---Sélectionnez Planifier---',   
+    'enterCreditCard' => 'Entrez les informations de votre carte de crédit',   
+    'cardNumber' => 'Numéro de carte',   
+    'expiryMonth' => 'Mois d’expiration',   
+    'expiryYear' => 'Année d’expiration',   
+    'ParaOneText1' => 'Si vous sélectionnez un',   
+    'ParaOneText2' => 'Plan, il commencera à la fin de votre gratuit',   
+    'ParaOneText3' => "-jour d’essai. Si vous ne souhaitez pas continuer à utiliser",   
+    'ParaOneText4' => 'il suffit d’annuler avant la fin de votre essai gratuit et vous ne serez pas facturé. Si vous n’en avez pas sélectionné un, vous pourrez exécuter des rapports à la volée en tant que Pay As You Go.',   
+    'ParaTwoText1' => 'Nous vous le rappellerons',   
+    'ParaTwoText2' => 'quelques jours avant la fin de votre essai afin que vous ayez un service ininterrompu. Vous pouvez annuler votre abonnement à tout moment, simplement en cliquant sur un lien dans les paramètres de votre compte. Si vous annulez, aucun frais d’abonnement futur ne sera effectué, bien que les transactions précédentes ne soient pas remboursables.',   
+    'termOfServicesText1' => 'Je les ai lus et compris',   
+    'termsOfServices' => 'Conditions d’utilisation',   
+    'termOfServicesText2' => 'et acceptez d’être liés par eux.',   
+    'subscribe' => 'Abonnez-vous',  
+];

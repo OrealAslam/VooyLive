@@ -1,0 +1,21 @@
+<?php
+return[
+    'usersList' => 'Users List',
+    'home' => 'Home',
+    'users' => 'Users',   
+    'limit' => 'Limit :',   
+    'left' => 'Left :',   
+    'createSubUser' => 'Create Sub User',   
+    'reachLimitOfCreatedUsers' => 'You reach limit of created users, You can only create',   
+    'usersWithTeamPlan' => 'users with this team plan.',   
+    'updatePlan' => 'Update Plan',   
+    'userActiveSuccessfully' => 'User Active successfully.',   
+    'userNoActiveSuccessfully' => 'User No Active successfully.',   
+    'teamLeaderName' => 'Team Leader Name',   
+    'firstName' => 'First Name',   
+    'lastName' => 'Last Name',   
+    'email' => 'Email',   
+    'status' => 'Status',   
+    'createDate' => 'Create Date',   
+    'noDataFound' => 'No Data Found.',   
+];

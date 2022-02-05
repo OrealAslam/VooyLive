@@ -8,10 +8,10 @@
 <!-- Page Header -->
 <div class="page-header style-11">
     <div class="container">
-        <h2 class="page-title">Order</h2>
+        <h2 class="page-title">{{__('order.order')}}</h2>
         <ol class="breadcrumb">
-            <li><a href="{{ Route('home') }}">Home</a></li>
-            <li class="active">Order</li>
+            <li><a href="{{ Route('home') }}">{{__('order.home')}}</a></li>
+            <li class="active">{{__('order.order')}}</li>
         </ol>
     </div>
 </div>
@@ -25,7 +25,7 @@
 					            <div class="col-md-3 col-xs-12 left-sidebar">
 					                <ul class="nav nav-tabs tabs-left">
 					                	@if(!empty($categories))
-						                    <li class="head-tab-left-title">All categories</a></li>
+						                    <li class="head-tab-left-title">{{__('order.allCategories')}}</a></li>
 					                		@foreach($categories as $key => $value)
 						                    	<li class="{{ $slug == $value->slug ? 'active' : '' }}"><a href="{{ url('/order/'.$value->slug) }}"> > {{ $value->title }} ({{ $value->product->count() }})</a></li>
 						                    @endforeach
@@ -106,7 +106,7 @@
 								                                                    <b class="poduct-price">${{ number_format($value->price,2) }}</b>
 								                                                </div>
 								                                                <div class="col-md-12 cart-box mv-center mv-mt-5">
-								                                                    <a href="{{ route('order.detail',$value->id) }}" class="cart-btn mv-mt-5"><i class="fa fa-shopping-cart"></i> ADD TO CART</a>
+								                                                    <a href="{{ route('order.detail',$value->id) }}" class="cart-btn mv-mt-5"><i class="fa fa-shopping-cart"></i> {{__('order.addToCart')}}</a>
 								                                                </div>
 								                                                <!-- <div class="col-md-12 product-com-wish-box col-xs-12 mv-mt-5">
 								                                                    <a href="" class="mv-br mv-center mv-mt-5"><i class="fa fa-heart" aria-hidden="true"></i> Add to Wish List</a>

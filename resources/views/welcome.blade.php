@@ -7,13 +7,13 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12">
-                        <h3 class="cps-banner-subtitle">Unlimited Searches. Instant Results</h3>
-                        <h1 class="cps-banner-title"><span>GET YOUR COMMUNITY FEATURE SHEET&reg;<br>ON DEMAND.</span></h1>
-                        <p class="cps-banner-text">Provide depth and detail to your home marketing presentation by highlighting <br>important neighbourhood information.</p>
+                        <h3 class="cps-banner-subtitle">{{__('welcome.unlimitedSearches')}}</h3>
+                        <h1 class="cps-banner-title"><span>{{__('welcome.getYour')}} COMMUNITY FEATURE SHEET&reg;<br>{{__('welcome.onDemand')}}</span></h1>
+                        <p class="cps-banner-text">{{__('welcome.provideDepth')}} <br>{{__('welcome.importantNeighbourhoodInformation')}}</p>
                         <div class="cps-button-group">
-                            <a class="btn btn-primary btn-square" href="{{ url('/pricing') }}">Try Now</a>
+                            <a class="btn btn-primary btn-square" href="{{ url('/pricing') }}">{{__('welcome.tryNow')}}</a>
                             <!-- <a class="btn btn-primary btn-square" href="#myVideoModal" data-toggle="modal"><i class="fa fa-play"></i>Watch Video</a> -->
-                            <a class="btn btn-primary btn-square play-video" href="https://www.youtube.com/watch?v=SKxvdMEGKfE"><i class="fa fa-play"></i>Watch Video</a>
+                            <a class="btn btn-primary btn-square play-video" href="https://www.youtube.com/watch?v=SKxvdMEGKfE"><i class="fa fa-play"></i>{{__('welcome.watchVideo')}}</a>
                         </div>
                     </div>
                 </div>
@@ -37,7 +37,7 @@
                 <div class="col-xs-12 text-right">
                     <div class="cps-head-quote">
                         <p class="cps-headquote-text">
-                            "This is such a fantastic addition to the marketing side of my business - Love the feature sheet!"<br/>
+                            {{__('welcome.suchFantasticAddition')}}<br/>
                             <span>Tracy Moore</span> - RE/MAX Jazz Inc
                         </p>
                         <!--
@@ -56,8 +56,8 @@
             <div class="row">
                 <div class="col-md-10 col-md-offset-1 col-xs-12">
                     <div class="cps-section-header text-center">
-                        <h3 class="cps-section-title"><span class="cps-theme-color">Trusted</span> by teams, used by companies</h3>
-                        <p class="cps-section-text">Over 3000+ Individual  Community Feature Sheet's'&reg;  &amp; created for REALTORS® in Canada and USA</p>
+                        <h3 class="cps-section-title"><span class="cps-theme-color">{{__('welcome.trusted')}}</span> {{__('welcome.usedByCompanies')}}</h3>
+                        <p class="cps-section-text">{{__('welcome.overIndividual')}} Community Feature Sheet's'&reg;  &amp; {{__('welcome.createdFor')}} REALTORS® {{__('welcome.in')}} Canada {{__('welcome.and')}} USA</p>
                     </div>
                 </div>
             </div>
@@ -101,7 +101,7 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 col-xs-12">
                     <div class="cps-section-header text-center">
-                        <h3 class="cps-section-title">Get a complete neighborhood profile at a glance</h3>
+                        <h3 class="cps-section-title">{{__('welcome.completeNeighborhoodProfile')}}</h3>
                     </div>
                 </div>
             </div>
@@ -111,19 +111,19 @@
                         <div class="connection-logoes">
                             <div class="connection-logo-item">
                                 <img src="img/report-logos/school.png">
-                                <span class="connection-name">Schools</span>
+                                <span class="connection-name">{{__('welcome.schools')}}</span>
                             </div>
                             <div class="connection-logo-item">
                                 <img src="img/report-logos/transit.png">
-                                <span class="connection-name">Transit</span>
+                                <span class="connection-name">{{__('welcome.transit')}}</span>
                             </div>
                             <div class="connection-logo-item">
                                 <img src="img/report-logos/shops.png">
-                                <span class="connection-name">Shops</span>
+                                <span class="connection-name">{{__('welcome.shops')}}</span>
                             </div>
                             <div class="connection-logo-item">
                                 <img src="img/report-logos/health.png">
-                                <span class="connection-name">Health</span>
+                                <span class="connection-name">{{__('welcome.health')}}</span>
                             </div>
                         </div>
                         <div class="center-block logo-mock">
@@ -132,19 +132,19 @@
                         <div class="connection-logoes">
                             <div class="connection-logo-item">
                                 <img src="img/report-logos/parks.png">
-                                <span class="connection-name">Parks</span>
+                                <span class="connection-name">{{__('welcome.parks')}}</span>
                             </div>
                             <div class="connection-logo-item">
                                 <img src="img/report-logos/cafe.png">
-                                <span class="connection-name">Cafes</span>
+                                <span class="connection-name">{{__('welcome.cafes')}}</span>
                             </div>
                             <div class="connection-logo-item">
                                 <img src="img/report-logos/liberary.png">
-                                <span class="connection-name">Libraries</span>
+                                <span class="connection-name">{{__('welcome.libraries')}}</span>
                             </div>
                             <div class="connection-logo-item">
                                 <img src="img/report-logos/demographics.png">
-                                <span class="connection-name">Demographics</span>
+                                <span class="connection-name">{{__('welcome.demographics')}}</span>
                             </div>
                         </div>
                     </div>

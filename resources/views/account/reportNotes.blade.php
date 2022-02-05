@@ -3,11 +3,11 @@
 <!-- Page Header -->
 <div class="page-header style-11">
   <div class="container">
-    <h2 class="page-title">Report</h2>
+    <h2 class="page-title">{{__('account/reportNotes.report')}}</h2>
     <ol class="breadcrumb">
-      <li><a href="{{ Route('home') }}">Home</a></li>
-      <li><a href="{{ Route('dashboard') }}">Dashboard</a></li>
-      <li class="active">Report Notes</li>
+      <li><a href="{{ Route('home') }}">{{__('account/reportNotes.home')}}</a></li>
+      <li><a href="{{ Route('dashboard') }}">{{__('account/reportNotes.dashboard')}}</a></li>
+      <li class="active">{{__('account/reportNotes.reportNotes')}}</li>
     </ol>
   </div>
 </div>
@@ -38,7 +38,7 @@
 						<textarea class="form-control" name="point_3" id="point_3" placeholder="{{$defaultPoints[3]}}" onFocus="countChars('point_3','char_count3',255)" onKeyDown="countChars('point_3','char_count3',255)" onKeyUp="countChars('point_3','char_count3',255)">{{ $all_points[3] }}</textarea>
 					</div>
 					<div class="form-group">
-						<input type="submit" class="btn btn-primary" value="Submit">
+						<input type="submit" class="btn btn-primary" value="{{__('account/reportNotes.submit')}}">
 						<a class="btn btn-default" href="{{route('reportDetails', ['reportId' => $reportId, 'userId' => $userId, 'template' => 'metro'])}}">{{__('account/reportNotes.goBackReport')}}</a>
 					</div>
 				</form>

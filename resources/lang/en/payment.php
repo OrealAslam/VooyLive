@@ -1,0 +1,21 @@
+<?php
+return[
+    'orderDetail' => 'Payment',
+    'home' => 'Home',
+    'shoppingCart' => 'SHOPPING CART',   
+    'image' => 'Image',   
+    'productName' => 'Product Name',   
+    'model' => 'Model',   
+    'unit' => 'Unit',   
+    'price' => 'Price',   
+    'removeCart' => 'Remove Cart',   
+    'subTotal' => 'Sub-Total:',   
+    'GST' => 'GST:',   
+    'total' => 'Total:',   
+    'shoppingCartEmpty' => 'Your Shopping Cart Is Empty!',   
+    'customDesign' => 'Custom Design',   
+    'rushDelivery' => 'Rush Delivery',   
+    'address' => 'Address',   
+    'neighborhood' => 'Neighborhood',   
+    'extraOption' => 'Extra Option:',   
+];

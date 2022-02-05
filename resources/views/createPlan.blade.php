@@ -3,10 +3,10 @@
 <!-- Page Header -->
 <div class="page-header style-11">
     <div class="container">
-        <h2 class="page-title">Create Plan</h2>
+        <h2 class="page-title">{{__('createPlan.createPlan')}}</h2>
         <ol class="breadcrumb">
-            <li><a href="{{ Route('home') }}">Home</a></li>
-            <li class="active">Create Plan</li>
+            <li><a href="{{ Route('home') }}">{{__('createPlan.home')}}</a></li>
+            <li class="active">{{__('createPlan.createPlan')}}</li>
         </ol>
     </div>
 </div>
@@ -19,7 +19,7 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 col-xs-12">
                     <div class="cps-section-header text-center">
-                        <h3 class="cps-section-title">Create Plan</h3>
+                        <h3 class="cps-section-title">{{__('createPlan.createPlan')}}</h3>
                     </div>
                 </div>
             </div>
@@ -28,10 +28,10 @@
                     {{ csrf_field() }}
                     @if(getAvailablePlan()->count() > 0)
                     <div class="form-group">
-                        <label for="plan" class="col-md-4 control-label"><p class="text-left">Plan</p></label>
+                        <label for="plan" class="col-md-4 control-label"><p class="text-left">{{__('createPlan.plan')}}</p></label>
                         <div class="col-md-6">
                         <select class="form-control" name="plan">
-                            <option value="" selected="selected">- Select Plan -</option>
+                            <option value="" selected="selected">{{__('createPlan.selectPlan')}}</option>
                             @foreach(getAvailablePlan() as $plan)
                                 @if(strpos($plan->planId, Config::get('app.30DayTrialString')) === false)
                                     <option value="{{ $plan->planId }}" {{ request()->get('plan') == $plan->planId ?  'selected':'' }}  >{{ $plan->name }}</option>
@@ -44,11 +44,11 @@
                     
                     <div class="row">
                         <div class="col-xs-12">
-                            <h4 class="section-header"><span>Enter Your Credit Card Info</span></h4>
+                            <h4 class="section-header"><span>{{__('createPlan.enterCreditCard')}}</span></h4>
                         </div>
                     </div>
                     <div class="form-group">
-                        <label for="card_number" class="col-md-4 control-label"><p class="text-left">Card Number</p></label>
+                        <label for="card_number" class="col-md-4 control-label"><p class="text-left">{{__('createPlan.cardNumber')}}</p></label>
 
                         <div class="col-md-6">
                             <input id="card_number" type="text" class="form-control" data-stripe="number" name="card_number" >
@@ -60,7 +60,7 @@
                         </div>
                     </div>
                     <div class="form-group">
-                        <label for="card_number" class="col-md-4 control-label"><p class="text-left">Expiry Month</p></label>
+                        <label for="card_number" class="col-md-4 control-label"><p class="text-left">{{__('createPlan.expiryMonth')}}</p></label>
                         <div class="col-md-6">
                             <select  class="form-control"  data-stripe="exp-month">
                                 <option value="01">January</option>
@@ -79,7 +79,7 @@
                         </div>
                     </div>
                     <div class="form-group" id="expiration-date" >
-                        <label for="card_number" class="col-md-4 control-label"><p class="text-left">Expiry Year</p></label>
+                        <label for="card_number" class="col-md-4 control-label"><p class="text-left">{{__('createPlan.expiryYear')}}</p></label>
                         <div class="col-md-6">
                             <input type="text" class="form-control" placeholder="2020" data-stripe="exp-year" name="exp-year">
                         </div>
@@ -97,12 +97,12 @@
                     </div>
                     <div class="stripe-errors"></div>
                     <div class="col-xs-12 well">
-                        <p>If you select a {{ config('app.title') }} Plan, it will begin at the end of your free {{ config('app.trial_period') }}-day trial. If you don't wish to continue using {{ config('app.title') }}, just cancel before your free trial ends and you will not be charged. If have have not selected one, you will be able to run reports on the fly as Pay As You Go.</p>
-                        <p>We will remind you {{ config('app.trial_period')/2 }} days before your trial ends so you have an uninterrupted service. You can cancel your subscription at any time, simply by clicking a link in your account settings. If you cancel, no future subscription charges will be made, although any previous transactions are non-refundable.
+                        <p>{{__('createPlan.ParaOneText1')}} {{ config('app.title') }} {{__('createPlan.ParaOneText2')}} {{ config('app.trial_period') }}{{__('createPlan.ParaOneText3')}} {{ config('app.title') }}, {{__('createPlan.ParaOneText4')}}</p>
+                        <p>{{__('createPlan.ParaTwoText1')}} {{ config('app.trial_period')/2 }} {{__('createPlan.ParaTwoText2')}}
                     </div>
                     <div class="form-group">
                         <div class="col-md-12">
-                            <input id="agree_term" type="checkbox"  value="1" name="agree_term" required> I have read and understood these <a href="{{ url('terms') }}">Terms of Service</a> and agree to be bound by them.
+                            <input id="agree_term" type="checkbox"  value="1" name="agree_term" required> {{__('createPlan.termOfServicesText1')}} <a href="{{ url('terms') }}">{{__('createPlan.termsOfService')}}</a> {{__('createPlan.termOfServicesText2')}}
                             @if ($errors->has('agree_term'))
                                 <span class="help-block">
                                     <strong>{{ $errors->first('agree_term') }}</strong>
@@ -120,7 +120,7 @@
                     <div class="form-group">
                         <div class="col-md-6 col-md-offset-4">
                             <button type="submit" class="btn btn-primary">
-                                Subscribe
+                                {{__('createPlan.subscribe')}}
                             </button>
                         </div>
                     </div>

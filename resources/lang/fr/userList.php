@@ -1,0 +1,21 @@
+<?php
+return[
+    'usersList' => 'Liste des utilisateurs',
+    'home' => 'Accueil',
+    'users' => 'Utilisateurs',   
+    'limit' => 'Limite :',   
+    'left' => 'Gauche :',   
+    'createSubUser' => 'Créer un sous-utilisateur',   
+    'reachLimitOfCreatedUsers' => 'Vous atteignez la limite d’utilisateurs créés, Vous ne pouvez créer',   
+    'usersWithTeamPlan' => 'utilisateurs avec ce plan d’équipe.',   
+    'updatePlan' => 'Plan de mise à jour',   
+    'userActiveSuccessfully' => 'Utilisateur actif avec succès.',   
+    'userNoActiveSuccessfully' => 'Utilisateur aucun actif avec succès.',   
+    'teamLeaderName' => 'Nom du chef d’équipe',   
+    'firstName' => 'Prénom',   
+    'lastName' => 'Nom de famille',   
+    'email' => 'Courriel',   
+    'status' => 'État d’avancement',   
+    'createDate' => 'Date de création',   
+    'noDataFound' => 'Aucune donnée trouvée.',   
+];

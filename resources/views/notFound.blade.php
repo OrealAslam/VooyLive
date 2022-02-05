@@ -5,7 +5,7 @@
 <div class="page-header style-11">
     <div class="container">
         <ol class="breadcrumb">
-            <li><a href="{{ url('/') }}">Home</a></li>
+            <li><a href="{{ url('/') }}">{{__('notFound.home')}}</a></li>
         </ol>
     </div>
 </div>
@@ -14,8 +14,8 @@
     <div class="cps-section cps-section-padding">
         <div class="container text-center">
             <div class="">
-                <p class="cps-404-text">Something is wrong. Please contact your administrator</p>
-                <a class="btn btn-to-home" href="{{url('/')}}">Back to Home</a>
+                <p class="cps-404-text">{{__('notFound.somethingIsWrong')}}</p>
+                <a class="btn btn-to-home" href="{{url('/')}}">{{__('notFound.backToHome')}}</a>
             </div>
         </div>
     </div>

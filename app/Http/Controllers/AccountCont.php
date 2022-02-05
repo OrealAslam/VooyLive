@@ -593,10 +593,10 @@ public function changePassword()
         $data['userId'] = $user->userId;
         $data['reportId'] = $reportId;
         $allPoints = array (
-                                1 => 'A cozy, friendly neighbourhood with a strong family presence, {Sweet Grass} charming homes and unique shops fill its streets with a sense of welcomed familiarity.',
-                                2 => 'Just minutes from the {park} and {ravines} , get ready to enjoy walking and biking trips through abundant park space that is perfect for spontaneous picnics and outdoor fun in all seasons.',
-                                3 => 'Convenient access to the {Anthony Henday} Expressway helps residents to enjoy a quick 15-minute trip to the downtown core, making this community ideal for commuters.'
-                            );
+            1 => 'A cozy, friendly neighbourhood with a strong family presence, {Sweet Grass} charming homes and unique shops fill its streets with a sense of welcomed familiarity.',
+            2 => 'Just minutes from the {park} and {ravines} , get ready to enjoy walking and biking trips through abundant park space that is perfect for spontaneous picnics and outdoor fun in all seasons.',
+            3 => 'Convenient access to the {Anthony Henday} Expressway helps residents to enjoy a quick 15-minute trip to the downtown core, making this community ideal for commuters.'
+        );
         $data['defaultPoints'] = $allPoints;
 
         $order=Order::where([['userId',$user->userId],['reportId',$reportId]])->count();
