@@ -22,6 +22,7 @@ use App\ReportNotes;
 use App\Flyer;
 use App\Hdi;
 use App\UserProduct;
+use App;
 
 class AccountCont extends Controller
 {
@@ -592,11 +593,20 @@ public function changePassword()
         $data = array();
         $data['userId'] = $user->userId;
         $data['reportId'] = $reportId;
-        $allPoints = array (
-            1 => 'A cozy, friendly neighbourhood with a strong family presence, {Sweet Grass} charming homes and unique shops fill its streets with a sense of welcomed familiarity.',
-            2 => 'Just minutes from the {park} and {ravines} , get ready to enjoy walking and biking trips through abundant park space that is perfect for spontaneous picnics and outdoor fun in all seasons.',
-            3 => 'Convenient access to the {Anthony Henday} Expressway helps residents to enjoy a quick 15-minute trip to the downtown core, making this community ideal for commuters.'
-        );
+        $locale = App::getLocale();
+        if($locale == 'fr') {
+            $allPoints = array (
+                1 => 'Un quartier confortable et convivial avec une forte présence familiale, des maisons charmantes {Sweet Grass} et des magasins uniques remplissent ses rues d’un sentiment de familiarité bienvenue.',
+                2 => 'À quelques minutes du {park} et des {ravines}, préparez-vous à profiter de randonnées à pied et à vélo grâce à un espace de parc abondant qui est parfait pour les pique-niques spontanés et les plaisirs en plein air en toutes saisons.',
+                3 => 'Un accès pratique à l’autoroute {Anthony Henday} aide les résidents à profiter d’un voyage rapide de 15 minutes au centre-ville, ce qui rend cette communauté idéale pour les navetteurs.'
+            );
+        } else {
+            $allPoints = array (
+                1 => 'A cozy, friendly neighbourhood with a strong family presence, {Sweet Grass} charming homes and unique shops fill its streets with a sense of welcomed familiarity.',
+                2 => 'Just minutes from the {park} and {ravines} , get ready to enjoy walking and biking trips through abundant park space that is perfect for spontaneous picnics and outdoor fun in all seasons.',
+                3 => 'Convenient access to the {Anthony Henday} Expressway helps residents to enjoy a quick 15-minute trip to the downtown core, making this community ideal for commuters.'
+            );
+        }
         $data['defaultPoints'] = $allPoints;
 
         $order=Order::where([['userId',$user->userId],['reportId',$reportId]])->count();
