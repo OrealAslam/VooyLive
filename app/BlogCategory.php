@@ -8,7 +8,7 @@ class BlogCategory extends Model
 {
     protected $table = 'blog_categories';
 
-    protected $fillable = ['name', 'description', 'status'];
+    protected $fillable = ['name', 'description', 'status','name_fr','description_fr'];
 
     public function post()
     {
