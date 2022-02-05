@@ -1,0 +1,21 @@
+<?php
+return[
+    'orderDetail' => 'Paiement',
+    'home' => 'Accueil',
+    'shoppingCart' => 'PANIER D’ACHAT',   
+    'image' => 'L’image',   
+    'productName' => 'Nom du produit',   
+    'model' => 'Modèle',   
+    'unit' => 'Unité',   
+    'price' => 'Prix',   
+    'removeCart' => 'Supprimer le panier',   
+    'subTotal' => 'Sous-total:',   
+    'GST' => 'GST:',   
+    'total' => 'Total des dépenses:',   
+    'shoppingCartEmpty' => 'Votre panier est vide!',   
+    'customDesign' => 'Conception personnalisée',   
+    'rushDelivery' => 'Livraison à la hâte',   
+    'address' => 'Adresse',   
+    'neighborhood' => 'Quartier',   
+    'extraOption' => 'Option supplémentaire:',   
+];

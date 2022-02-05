@@ -1,0 +1,21 @@
+<?php
+return[
+    'createPlan' => 'Create Plan',
+    'home' => 'Home',
+    'plan' => 'Plan',   
+    'selectPlan' => '---Select Plan---',   
+    'enterCreditCard' => 'Enter Your Credit Card Info',   
+    'cardNumber' => 'Card Number',   
+    'expiryMonth' => 'Expiry Month',   
+    'expiryYear' => 'Expiry Year',   
+    'ParaOneText1' => 'If you select a',   
+    'ParaOneText2' => 'Plan, it will begin at the end of your free',   
+    'ParaOneText3' => "-day trial. If you don't wish to continue using",   
+    'ParaOneText4' => 'just cancel before your free trial ends and you will not be charged. If have have not selected one, you will be able to run reports on the fly as Pay As You Go.',   
+    'ParaTwoText1' => 'We will remind you',   
+    'ParaTwoText2' => 'days before your trial ends so you have an uninterrupted service. You can cancel your subscription at any time, simply by clicking a link in your account settings. If you cancel, no future subscription charges will be made, although any previous transactions are non-refundable.',   
+    'termOfServicesText1' => 'I have read and understood these',   
+    'termsOfServices' => 'Terms of Service',   
+    'termOfServicesText2' => 'and agree to be bound by them.',   
+    'subscribe' => 'Subscribe',   
+];

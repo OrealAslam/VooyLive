@@ -38,10 +38,10 @@
 <!-- Page Header -->
 <div class="page-header style-11">
     <div class="container">
-        <h2 class="page-title">Purchase Plan</h2>
+        <h2 class="page-title">{{__('purchasePlan.purchasePlan')}}</h2>
         <ol class="breadcrumb">
-            <li><a href="{{ Route('home') }}">Home</a></li>
-            <li class="active">Purchase Plan</li>
+            <li><a href="{{ Route('home') }}">{{__('purchasePlan.home')}}</a></li>
+            <li class="active">{{__('purchasePlan.purchasePlan')}}</li>
         </ol>
     </div>
 </div>
@@ -64,17 +64,17 @@
                     <div class="col-sm-3 col-xs-12">
                         <div class="cps-package style-2">
                             <div class="cps-package-header">
-                                <h4 class="cps-pack-name">PAY AS YOU GO</h4>
+                                <h4 class="cps-pack-name">{{__('purchasePlan.payAsYouGo')}}</h4>
                             </div>
                             <div class="cps-package-body">
                                 <ul class="cps-pack-feature-list">
                                     <li>{!! getSettingValue('plan-box-1-description') !!}</li>
                                 </ul>
                                 <p class="cps-pack-price">{!! getSettingValue('plan-box-1-price') !!}</p>
-                                <p class="text-center">One Time Payment</p>
+                                <p class="text-center">{{__('purchasePlan.oneTimePayment')}}</p>
                             </div>
                             <div class="cps-pack-footer">
-                                <a class="btn btn-square" href="{{ route('create.plan') }}?plan=payasyougo">Continue</a>
+                                <a class="btn btn-square" href="{{ route('create.plan') }}?plan=payasyougo">{{__('purchasePlan.continue')}}</a>
                                 <p class="text-center" style="position:relative;top:20px;">{!! getSettingValue('plan-box-1-bottom-text') !!}</p>
                             </div>
                         </div>
@@ -82,17 +82,17 @@
                     <div class="col-sm-3 col-xs-12">
                         <div class="cps-package style-2">
                             <div class="cps-package-header">
-                                <h4 class="cps-pack-name">MONTHLY PLAN</h4>
+                                <h4 class="cps-pack-name">{{__('purchasePlan.monthlyPlan')}}</h4>
                             </div>
                             <div class="cps-package-body">
                                 <ul class="cps-pack-feature-list">
                                     <li>{!! getSettingValue('plan-box-2-description') !!}</li>
                                 </ul>
                                 <p class="cps-pack-price">{!! getSettingValue('plan-box-2-price') !!}</p>
-                                <p class="text-center">Billed Monthly</p>
+                                <p class="text-center">{{__('purchasePlan.billedMonthly')}}</p>
                             </div>
                             <div class="cps-pack-footer">
-                                <a class="btn btn-square" href="{{ route('create.plan') }}?plan=monthly">Continue</a>
+                                <a class="btn btn-square" href="{{ route('create.plan') }}?plan=monthly">{{__('purchasePlan.continue')}}</a>
                                 <p class="text-center" style="position:relative;top:20px;">{!! getSettingValue('plan-box-2-bottom-text') !!}</p>
                             </div>
                         </div>
@@ -100,17 +100,17 @@
                     <div class="col-sm-3 col-xs-12">
                         <div class="cps-package style-2">
                             <div class="cps-package-header">
-                                <h4 class="cps-pack-name">YEARLY PLAN</h4>
+                                <h4 class="cps-pack-name">{{__('purchasePlan.yearlyPlan')}}</h4>
                             </div>
                             <div class="cps-package-body">
                                 <ul class="cps-pack-feature-list">
                                     <li>{!! getSettingValue('plan-box-3-description') !!}</li>
                                 </ul>
                                 <p class="cps-pack-price">{!! getSettingValue('plan-box-3-price') !!}</p>
-                                <p class="text-center">Billed Annually</p>
+                                <p class="text-center">{{__('purchasePlan.billedAnnually')}}</p>
                             </div>
                             <div class="cps-pack-footer">
-                                <a class="btn btn-square" href="{{ route('create.plan') }}?plan=yearly">Continue</a>
+                                <a class="btn btn-square" href="{{ route('create.plan') }}?plan=yearly">{{__('purchasePlan.continue')}}</a>
                                 <p class="text-center" style="position:relative;top:20px;">{!! getSettingValue('plan-box-3-bottom-text') !!}</p>
                             </div>
                         </div>
@@ -118,7 +118,7 @@
                     <div class="col-sm-3 col-xs-12">
                         <div class="cps-package style-2">
                             <div class="cps-package-header">
-                                <h4 class="cps-pack-name">TEAM PLAN</h4>
+                                <h4 class="cps-pack-name">{{__('purchasePlan.teamPlan')}}</h4>
                             </div>
                             <div class="cps-package-body">
                                 <ul class="cps-pack-feature-list">
@@ -132,10 +132,10 @@
                                         @php
                                             $planId = $value->planId;
                                         @endphp
-                                        <p class="text-center year-price">Per User Billed Annually ($<span class="year-price-total">{{ $value->amount  }}</span>.00)</p>
+                                        <p class="text-center year-price">{{__('purchasePlan.perUserBilledAnnually')}} ($<span class="year-price-total">{{ $value->amount  }}</span>.00)</p>
                                     @endif
                                 @endforeach
-                                <p class="text-center">CHOOSE YOUR TEAM SIZE</p>
+                                <p class="text-center">{{__('purchasePlan.chooseYourTeamSize')}}</p>
                             </div>
                             <div class="form-group">
                                 <div class="col-md-12 team-select-section">
@@ -155,14 +155,14 @@
                                     @php
                                         $planTeamId = $value->planId;
                                     @endphp
-                                    <p class="text-center year-price">Per User Billed Annually ($<span class="year-price-total">{{ $value->amount  }}</span>.00)</p>
+                                    <p class="text-center year-price">{{__('purchasePlan.perUserBilledAnnually')}} ($<span class="year-price-total">{{ $value->amount  }}</span>.00)</p>
                                 @endif
                             @endforeach
                             <div class="cps-pack-footer">
                                 @if(Auth::user()->plan == '')
-                                    <a class="btn btn-square" href="{{ route('create.plan') }}?plan={{ $planId }}">Continue</a>
+                                    <a class="btn btn-square" href="{{ route('create.plan') }}?plan={{ $planId }}">{{__('purchasePlan.continue')}}</a>
                                 @else
-                                    <a class="btn btn-square" href="{{ route('create.plan') }}?plan={{ nextPlanTeamId() == null ? '' : nextPlanTeamId() }}">Continue</a>
+                                    <a class="btn btn-square" href="{{ route('create.plan') }}?plan={{ nextPlanTeamId() == null ? '' : nextPlanTeamId() }}">{{__('purchasePlan.continue')}}</a>
                                 @endif
                                 <p class="text-center" style="position:relative;top:20px;">{!! getSettingValue('plan-box-4-bottom-text') !!}</p>
                             </div>

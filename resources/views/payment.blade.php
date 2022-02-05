@@ -12,10 +12,10 @@
 <!-- Page Header -->
 <div class="page-header style-11">
     <div class="container">
-        <h2 class="page-title">Payment</h2>
+        <h2 class="page-title">{{__('payment.payment')}}</h2>
         <ol class="breadcrumb">
-            <li><a href="{{ route('home') }}">Home</a></li>
-            <li class="active">Payment</li>
+            <li><a href="{{ route('home') }}">{{__('payment.home')}}</a></li>
+            <li class="active">{{__('payment.payment')}}</li>
         </ol>
     </div>
 </div>
@@ -31,19 +31,19 @@
 				                    <div class="">
 				                        <div class="row mv-m mv-mt-5">
 				                            <div class="col-md-12 col-xs-12 heading-title mv-mt-5">
-				                                <h3>SHOPPING CART</h3>
+				                                <h3>{{__('payment.shoppingCart')}}</h3>
 				                            </div>
 				                            @if(!empty(session('cart')))
 						                            <div class="col-md-12 col-xs-12 table-payment p-0 mt-10 table-responsive">
 						                                <table class="table mt-10">
 						                                	<thead>
 							                            		<tr>
-							                            			<th class="text-center">Image</th>
-							                            			<th>Product Name</th>
-							                            			<th>Model</th>
-							                            			<th class="text-center">Unit</th>
-							                            			<th class="text-center">Price</th>
-							                            			<th class="text-center">Remove Cart</th>
+							                            			<th class="text-center">{{__('payment.image')}}</th>
+							                            			<th>{{__('payment.productName')}}</th>
+							                            			<th>{{__('payment.model')}}</th>
+							                            			<th class="text-center">{{__('payment.unit')}}</th>
+							                            			<th class="text-center">{{__('payment.price')}}</th>
+							                            			<th class="text-center">{{__('payment.removeCart')}}</th>
 							                            		</tr>    	
 						                                	</thead>
 						                                	<tbody>
@@ -59,16 +59,16 @@
 							                                			<td width="400">
 							                                				<a href="#" class="tbl-pro-link">{{ $details['name'] }}</a><br>
 							                                				@if(!empty($details['neighborhood']))
-							                                					<p>Neighborhood : {{ $details['neighborhood'] }}</p><br>
+							                                					<p>{{__('payment.neighborhood')}} : {{ $details['neighborhood'] }}</p><br>
 							                                				@endif
 							                                				@if(!empty($details['address']))
-							                                					<p>Address : {{ $details['address'] }}</p><br>
+							                                					<p>{{__('payment.address')}} : {{ $details['address'] }}</p><br>
 							                                				@endif
-							                                				<p>Extra Option: 
+							                                				<p>{{__('payment.extraOption')}} 
 							                                					@if($details['extra_option'] == 1)
-							                                					 	Rush Delivery
+																					{{__('payment.rushDelivery')}}
 							                                					@elseif ($details['extra_option'] == 2)
-							                                						Custom Design
+																					{{__('payment.customDesign')}}
 							                                					@else
 							                                					
 							                                					@endif
@@ -104,7 +104,7 @@
 						                            				<div class="col-md-12 col-xs-12 text-right">
 						                            					<div class="row">
 						                            						<div class="col-md-6 col-xs-6">
-						                            							<p><b>Sub-Total:</b></p>
+						                            							<p><b>{{__('payment.subTotal')}}</b></p>
 						                            						</div>
 						                            						<div class="col-md-6 col-xs-6 count-total">
 						                            							<p><b></b></p>
@@ -112,7 +112,7 @@
 						                            					</div>
 						                            					<div class="row">
 						                            						<div class="col-md-6 col-xs-6">
-						                            							<p><b>GST:</b></p>
+						                            							<p><b>{{__('payment.GST')}}</b></p>
 						                            						</div>
 						                            						<div class="col-md-6 col-xs-6 gst">
 						                            							<p><b></b></p>
@@ -120,7 +120,7 @@
 						                            					</div>
 						                            					<div class="row">
 						                            						<div class="col-md-6 col-xs-6">
-						                            							<p><b>Total:</b></p>
+						                            							<p><b>{{__('payment.total')}}</b></p>
 						                            						</div>
 						                            						<div class="col-md-6 col-xs-6 count-total-Price">
 						                            							<p><b></b></p>
@@ -144,7 +144,7 @@
 					                            @endif
 				                            @else
 				                            	 <div class="col-md-12 col-xs-12 total-amount-box-cart text-center">
-				                            	 	Your Shopping Cart Is Empty!
+												 	{{__('payment.shoppingCartEmpty')}}
 				                            	 </div>
 				                            @endif
 				                        </div>

@@ -145,10 +145,10 @@
 <!-- Page Header -->
 <div class="page-header style-11">
    <div class="container">
-      <h2 class="page-title">Order Detail</h2>
+      <h2 class="page-title">{{__('orderDetail.orderDetail')}}</h2>
       <ol class="breadcrumb">
-         <li><a href="{{ Route('home') }}">Home</a></li>
-         <li class="active">Order Detail</li>
+         <li><a href="{{ Route('home') }}">{{__('orderDetail.home')}}</a></li>
+         <li class="active">{{__('orderDetail.orderDetail')}}</li>
       </ol>
    </div>
 </div>
@@ -207,7 +207,7 @@
                                                 <!-- <p style="color:red !important;"><b>You Already Package In Cart</b></p> -->
                                                 @else
                                                 @if($loop->first)
-                                                <p style="color:red;font-size:20px;text-align: center;"><b>You Already Added Package In Cart!</b></p>
+                                                <p style="color:red;font-size:20px;text-align: center;"><b>{{__('orderDetail.alreadyAddedPackage')}}</b></p>
                                                 @endif
                                                 @endif
                                                 @endforeach
@@ -219,7 +219,7 @@
                                                 <!-- <p style="color:red;font-size:20px;text-align: center;"><b>You Already Added Package In Cart!</b></p> -->
                                                 @else
                                                 @if($loop->first)
-                                                <p style="color:red;font-size:20px;text-align: center;"><b>You Already Added Product In Cart!</b></p>
+                                                <p style="color:red;font-size:20px;text-align: center;"><b>{{__('orderDetail.alreadyAddedProduct')}}</b></p>
                                                 @endif
                                                 @endif
                                                 @endforeach
@@ -228,8 +228,8 @@
                                                 @endif
                                              </div>
                                              <div class="col-md-12 col-xs-12 pro-code-avi-text" style="width: 97%;">
-                                                <p class="m-0 p-0">Product Code : <span>{{ $product->product_code }}</span></p>
-                                                <p class="m-0 p-0">Availability : <span class="in-stock">{{ $product->availability == 0 ? 'In Stock' : 'Out of Stock' }}</span></p>
+                                                <p class="m-0 p-0">{{__('orderDetail.productCode')}} : <span>{{ $product->product_code }}</span></p>
+                                                <p class="m-0 p-0">{{__('orderDetail.availability')}} : <span class="in-stock">{{ $product->availability == 0 ? 'In Stock' : 'Out of Stock' }}</span></p>
                                                 <hr class="box-hr">
                                              </div>
                                              <div class="col-md-12 price-text-product-det" style="width: 97%;">
@@ -244,20 +244,20 @@
                                              </div>
                                              @if($product->category->type == 0)
                                              <div class="col-md-12 available-options">
-                                                <h5>Available Options</h5>
+                                                <h5>{{__('orderDetail.availableOptions')}}</h5>
                                              </div>
                                              <div class="form-box">
                                                 <div class="sub-form-box col-md-11 mr-0">
                                                    <div class="col-md-8">
-                                                      <h5>Product</h5>
+                                                      <h5>{{__('orderDetail.product')}}</h5>
                                                    </div>
                                                    @if($product->address == 0)
                                                    <div class="col-md-12 form-text">
                                                       <form class="">
                                                          <div class="row">
                                                             <div class="col-md-12">
-                                                               <label><span>*</span> Address</label>
-                                                               <input type="text" name="address[1]" placeholder="Address" class="form-control address">
+                                                               <label><span>*</span> {{__('orderDetail.address')}}</label>
+                                                               <input type="text" name="address[1]" placeholder="{{__('orderDetail.address')}}" class="form-control address">
                                                             </div>
                                                          </div>
                                                       </form>
@@ -268,8 +268,8 @@
                                                       <form class="">
                                                          <div class="row">
                                                             <div class="col-md-12">
-                                                               <label><span>*</span> Neighborhood</label>
-                                                               <input type="text" name="neighborhood[1]" placeholder="Neighborhood" class="form-control neighborhood">
+                                                               <label><span>*</span> {{__('orderDetail.neighborhood')}}</label>
+                                                               <input type="text" name="neighborhood[1]" placeholder="{{__('orderDetail.neighborhood')}}" class="form-control neighborhood">
                                                             </div>
                                                          </div>
                                                       </form>
@@ -277,18 +277,18 @@
                                                    @endif
                                                    <div class="col-md-12">
                                                       <hr class="box-hr">
-                                                      <label>Extra Option</label>
+                                                      <label>{{__('orderDetail.extraOption')}}</label>
                                                       <div class="row">
                                                          @if($product->rush_delivery == 0)
                                                          <button type="button" class="btn_choose_sent bg_btn_chose_1">
                                                             <!-- <input type="radio" name="extra_option" value="Rush Delivery - {{ $product->rush_delivery_day }} Business Day (+${{ number_format($product->rush_delivery_charge,2) }})"/>Rush Delivery - {{ $product->rush_delivery_day }} Business Day (+${{ number_format($product->rush_delivery_charge,2) }}) -->
-                                                            <input type="radio" name="extra_option[1]" class="extra_option" value="1"/>Rush Delivery - {{ $product->rush_delivery_day }} Business Day (+${{ number_format($product->rush_delivery_charge,2) }})
+                                                            <input type="radio" name="extra_option[1]" class="extra_option" value="1"/>{{__('orderDetail.rushDelivery')}} - {{ $product->rush_delivery_day }} {{__('orderDetail.businessDay')}} (+${{ number_format($product->rush_delivery_charge,2) }})
                                                          </button>
                                                          @endif
                                                          @if($product->custom_charge == 0)
                                                          <button type="button" class="btn_choose_sent bg_btn_chose_2">
                                                             <!-- <input type="radio" name="extra_option" value="Custom Design (+${{ number_format($product->custom_design_charge,2) }})"/>Custom Design (+${{ number_format($product->custom_design_charge,2) }}) -->
-                                                            <input type="radio" name="extra_option[1]" class="extra_option" value="2"/>Custom Design (+${{ number_format($product->custom_design_charge,2) }})
+                                                            <input type="radio" name="extra_option[1]" class="extra_option" value="2"/>{{__('orderDetail.customDesign')}} (+${{ number_format($product->custom_design_charge,2) }})
                                                          </button>
                                                          @endif
                                                       </div>
@@ -302,7 +302,7 @@
                                                       <form class="">
                                                          <div class="row">
                                                             <div class="col-md-12">
-                                                               <label>Custom Design File Upload</label>
+                                                               <label>{{__('orderDetail.customDesignFileUpload')}}</label>
                                                                <input type="file" name="image[1]" id='upload-file' class="form-control">
                                                                <input type="hidden" name="custom_design_file_upload[1]" class="form-control cart-file">
                                                             </div>
@@ -320,7 +320,7 @@
                                              @endif
                                              @if($product->category->type == 0 )
                                              <div class="col-md-12 text-right" style="width: 97%;">
-                                                <button class="btn  btn-sm btn-success btn-add-more"><i class="fa fa-cart-plus" aria-hidden="true"></i>  Add More</button>	
+                                                <button class="btn  btn-sm btn-success btn-add-more"><i class="fa fa-cart-plus" aria-hidden="true"></i>  {{__('orderDetail.addMore')}}</button>	
                                                 <hr class="box-hr">
                                              </div>
                                              @endif
@@ -354,11 +354,11 @@
                                                       @foreach((array) session('cart') as $id => $details)
                                                       @if($details['pro_type'] == 0)
                                                       @if($loop->first)
-                                                      <button type="button" class="add-to-cart add-to-cart-detail-pro btn btn-block" data-id="{{ $product->id }}" data-type="{{ $product->category->type }}" style="height:auto;padding-top: 0px;cursor:pointer;border:0px;"><i class="fa fa-shopping-cart" aria-hidden="true"></i> ADD TO CART</button>
+                                                      <button type="button" class="add-to-cart add-to-cart-detail-pro btn btn-block" data-id="{{ $product->id }}" data-type="{{ $product->category->type }}" style="height:auto;padding-top: 0px;cursor:pointer;border:0px;"><i class="fa fa-shopping-cart" aria-hidden="true"></i> {{__('orderDetail.addToCart')}}</button>
                                                       @endif
                                                       @else
                                                       @if($loop->first)
-                                                      <button type="button" disabled class="btn btn-disabled-block btn-block" style="height:auto;padding-top: 0px;cursor:pointer;border:0px;"><i class="fa fa-shopping-cart" aria-hidden="true"></i> ADD TO CART</button>
+                                                      <button type="button" disabled class="btn btn-disabled-block btn-block" style="height:auto;padding-top: 0px;cursor:pointer;border:0px;"><i class="fa fa-shopping-cart" aria-hidden="true"></i> {{__('orderDetail.addToCart')}}</button>
                                                       @endif
                                                       @endif
                                                       @endforeach
@@ -368,18 +368,18 @@
                                                       @foreach((array) session('cart') as $id => $details)
                                                       @if($details['pro_type'] == 1)
                                                       @if($loop->first)
-                                                      <button type="button" class="add-to-cart add-to-cart-detail-pro btn btn-block" data-id="{{ $product->id }}" data-type="{{ $product->category->type }}" style="height:auto;padding-top: 0px;cursor:pointer;border:0px;"><i class="fa fa-shopping-cart" aria-hidden="true"></i> ADD TO CART</button>
+                                                      <button type="button" class="add-to-cart add-to-cart-detail-pro btn btn-block" data-id="{{ $product->id }}" data-type="{{ $product->category->type }}" style="height:auto;padding-top: 0px;cursor:pointer;border:0px;"><i class="fa fa-shopping-cart" aria-hidden="true"></i> {{__('orderDetail.addToCart')}}</button>
                                                       @endif
                                                       @else
                                                       @if($loop->first)
-                                                      <button type="button" disabled class="btn-disabled-block btn-block btn btn-block" style="height:auto;padding-top: 0px;cursor:pointer;border:0px;"><i class="fa fa-shopping-cart" aria-hidden="true"></i> ADD TO CART</button>
+                                                      <button type="button" disabled class="btn-disabled-block btn-block btn btn-block" style="height:auto;padding-top: 0px;cursor:pointer;border:0px;"><i class="fa fa-shopping-cart" aria-hidden="true"></i> {{__('orderDetail.addToCart')}}</button>
                                                       @endif
                                                       @endif
                                                       @endforeach
                                                       @endif
                                                       @endif
                                                       @else
-                                                      <button type="button" class="add-to-cart add-to-cart-detail-pro btn btn-block" data-id="{{ $product->id }}" data-type="{{ $product->category->type }}" style="height:auto;padding-top: 0px;cursor:pointer;border:0px;"><i class="fa fa-shopping-cart" aria-hidden="true"></i> ADD TO CART</button>
+                                                      <button type="button" class="add-to-cart add-to-cart-detail-pro btn btn-block" data-id="{{ $product->id }}" data-type="{{ $product->category->type }}" style="height:auto;padding-top: 0px;cursor:pointer;border:0px;"><i class="fa fa-shopping-cart" aria-hidden="true"></i> {{__('orderDetail.addToCart')}}</button>
                                                       @endif
                                                    </div>
                                                 </div>
@@ -414,7 +414,7 @@
                         <div class="col-md-12 description-part mv-w">
                            <div class="row">
                               <div class="col-md-12 description-text">
-                                 <p>DESCRIPTION</p>
+                                 <p>{{__('orderDetail.description')}}</p>
                               </div>
                               <div class="col-md-12">
                                  {!! $product->description !!}
@@ -425,7 +425,7 @@
                            <label class="tag-text">Tags : </label><span> <a href="#" class="co-fe-ge-text">{{ $product->name }}</a></span>
                            </div> -->
                         <div class="col-md-12 mt-10 p-0 mv-w related-products-last-part-det">
-                           <h3 class="mt-5">RELATED PRODUCTS</h3>
+                           <h3 class="mt-5">{{__('orderDetail.relatedProducts')}}</h3>
                         </div>
                         <div class="col-md-12 mt-10">
                            <div class="row mt-10">
@@ -447,7 +447,7 @@
                                           <p>${{ number_format($value->price,2) }}</p>
                                        </div>
                                        <div class="col-md-12 text-center mt-5 mb-15">
-                                          <a href="{{ route('order.detail',$value->id) }}" class="add-to-cart pro-box-btn mt-5">ADD TO CART</a>
+                                          <a href="{{ route('order.detail',$value->id) }}" class="add-to-cart pro-box-btn mt-5">{{__('orderDetail.addToCart')}}</a>
                                        </div>
                                        <!-- <div class="col-md-12 text-center mt-5 add-com-text">
                                           <a href="#"><i class="fa fa-heart" aria-hidden="true"></i> Add to Wish List</a>
@@ -479,7 +479,7 @@
 <div class="add-more-box" style="display: none;">
    <div class="col-md-11 sub-form-box more-form">
       <div class="col-md-8 col-xs-8">
-         <h5>Product </h5>
+         <h5>{{__('orderDetail.product')}} </h5>
       </div>
       <div class="col-md-4 col-xs-4 text-right">
          <button class="btn btn-danger btn-remove-product">
@@ -491,8 +491,8 @@
          <form class="">
             <div class="row">
                <div class="col-md-12">
-                  <label><span>*</span> Address</label>
-                  <input type="text" name="address[numberForm]" placeholder="Address" class="form-control address">
+                  <label><span>*</span> {{__('orderDetail.address')}}</label>
+                  <input type="text" name="address[numberForm]" placeholder="{__('orderDetail.address')}}" class="form-control address">
                </div>
             </div>
          </form>
@@ -503,8 +503,8 @@
          <form class="">
             <div class="row">
                <div class="col-md-12">
-                  <label><span>*</span> Neighborhood</label>
-                  <input type="text" name="neighborhood[numberForm]" placeholder="Neighborhood" class="form-control neighborhood">
+                  <label><span>*</span> {{__('orderDetail.neighborhood')}}</label>
+                  <input type="text" name="neighborhood[numberForm]" placeholder="{{__('orderDetail.neighborhood')}}" class="form-control neighborhood">
                </div>
             </div>
          </form>
@@ -512,18 +512,18 @@
       @endif
       <div class="col-md-12">
          <hr class="box-hr">
-         <label>Extra Option</label>
+         <label>{{__('orderDetail.extraOption')}}</label>
          <div class="row">
             @if($product->rush_delivery == 0)
             <button type="button" class="btn_choose_sent bg_btn_chose_1">
                <!-- <input type="radio" name="extra_option" value="Rush Delivery - {{ $product->rush_delivery_day }} Business Day (+${{ number_format($product->rush_delivery_charge,2) }})"/>Rush Delivery - {{ $product->rush_delivery_day }} Business Day (+${{ number_format($product->rush_delivery_charge,2) }}) -->
-               <input type="radio" name="extra_option[numberForm]" class="extra_option" value="1"/>Rush Delivery - {{ $product->rush_delivery_day }} Business Day (+${{ number_format($product->rush_delivery_charge,2) }})
+               <input type="radio" name="extra_option[numberForm]" class="extra_option" value="1"/>{{__('orderDetail.rushDelivery')}} - {{ $product->rush_delivery_day }} {{__('orderDetail.businessDay')}} (+${{ number_format($product->rush_delivery_charge,2) }})
             </button>
             @endif
             @if($product->custom_charge == 0)
             <button type="button" class="btn_choose_sent bg_btn_chose_2">
                <!-- <input type="radio" name="extra_option" value="Custom Design (+${{ number_format($product->custom_design_charge,2) }})"/>Custom Design (+${{ number_format($product->custom_design_charge,2) }}) -->
-               <input type="radio" name="extra_option[numberForm]" class="extra_option" value="2"/>Custom Design (+${{ number_format($product->custom_design_charge,2) }})
+               <input type="radio" name="extra_option[numberForm]" class="extra_option" value="2"/>{{__('orderDetail.customDesign')}} (+${{ number_format($product->custom_design_charge,2) }})
             </button>
             @endif
          </div>
@@ -537,7 +537,7 @@
          <form class="">
             <div class="row">
                <div class="col-md-12">
-                  <label>Custom Design File Upload</label>
+                  <label>{{__('orderDetail.customDesignFileUpload')}}</label>
                   <input type="file" name="image[numberForm]" id='upload-file' class="form-control">
                   <input type="hidden" name="custom_design_file_upload[numberForm]" class="form-control cart-file">
                </div>

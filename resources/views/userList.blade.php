@@ -56,10 +56,10 @@
 <!-- Page Header -->
 <div class="page-header style-11">
     <div class="container">
-        <h2 class="page-title">Users List</h2>
+        <h2 class="page-title">{{__('userList.usersList')}}</h2>
         <ol class="breadcrumb">
-            <li><a href="{{ url('/') }}">Home</a></li>
-            <li class="active">Users List</li>
+            <li><a href="{{ url('/') }}">{{__('userList.home')}}</a></li>
+            <li class="active">{{__('userList.usersList')}}</li>
         </ol>
     </div>
 </div>
@@ -71,34 +71,34 @@
             <div class="row">
                 <div class="col-md-2 col-md-offset-10 text-center">
                     <div class="planMember">
-                        <p class="lable-user-limit"><i class="fa fa-users" aria-hidden="true"></i> Users</p>
-                        <p><strong>Limit :</strong> <label> {{ Auth::user()->planMaster->team_member }}</label><br><hr class="box-hr"> <strong>Left :</strong> <label> {{ Auth::user()->planMaster->team_member - $userCreateSubUser }}</label></p>
+                        <p class="lable-user-limit"><i class="fa fa-users" aria-hidden="true"></i> {{__('userList.users')}}</p>
+                        <p><strong>{{__('userList.limit')}}</strong> <label> {{ Auth::user()->planMaster->team_member }}</label><br><hr class="box-hr"> <strong>{{__('userList.left')}}</strong> <label> {{ Auth::user()->planMaster->team_member - $userCreateSubUser }}</label></p>
                     </div>
                 </div>
                 <div class="col-md-12 col-xs-12 text-right">
                     @if($userCreateSubUser < Auth::user()->planMaster->team_member)
-                        <a href="{{ Route('create.sub.user') }}" class="btn btn-primary">Create Sub User</a>
+                        <a href="{{ Route('create.sub.user') }}" class="btn btn-primary">{{__('userList.createSubUser')}}</a>
                     @else
                         @if(teamMember()['team_member'] >= getMaxTeamMember())
                             <div class="alert alert-danger text-center" role="alert">
-                                You reach limit of created users, You can only create {{ Auth::user()->planMaster->team_member }} users with this team plan.
+                                {{__('userList.reachLimitOfCreatedUsers')}} {{ Auth::user()->planMaster->team_member }} {{__('userList.usersWithTeamPlan')}}
                             </div>
                         @else
                             <div class="alert alert-danger text-center" role="alert">
-                                You reach limit of created users, You can only create {{ Auth::user()->planMaster->team_member }} users with this team plan.
-                                <a href="{{ url('/account/manage') }}" class="btn btn-primary">Update Plan</a>
+                                {{__('userList.reachLimitOfCreatedUsers')}} {{ Auth::user()->planMaster->team_member }} {{__('userList.usersWithTeamPlan')}}
+                                <a href="{{ url('/account/manage') }}" class="btn btn-primary">{{__('userList.updatePlan')}}</a>
                             </div>
                         @endif
                     @endif
                 </div>
                 <div class="col-md-12 col-xs-12 mt-10">
                     <div class="append alert alert-success" role="alert" style="display: none;">
-                        User Active successfully.
+                        {{__('userList.userActiveSuccessfully')}}
                     </div>
                 </div>
                 <div class="col-md-12 col-xs-12 mt-10">
                     <div class="append-danger alert alert-success" role="alert" style="display: none;">
-                        User No Active successfully.
+                        {{__('userList.userNoActiveSuccessfully')}}
                     </div>
                 </div>
                 <div class="col-md-12 col-xs-12">
@@ -108,12 +108,12 @@
                                 <thead>
                                     <tr>
                                         <th>#</th>
-                                        <th>Team Leader Name</th>
-                                        <th>First Name</th>
-                                        <th>Last Name</th>
-                                        <th>Email</th>
-                                        <th>Status</th>
-                                        <th>Create Date</th>
+                                        <th>{{__('userList.teamLeaderName')}}</th>
+                                        <th>{{__('userList.firstName')}}</th>
+                                        <th>{{__('userList.lastName')}}</th>
+                                        <th>{{__('userList.email')}}</th>
+                                        <th>{{__('userList.status')}}</th>
+                                        <th>{{__('userList.createDate')}}</th>
                                     </tr>
                                 </thead>
                                 <tbody>
@@ -143,7 +143,7 @@
                                         @endforeach
                                     @else
                                         <tr class="text-center">
-                                            <td colspan="6">No Data Found.</td>
+                                            <td colspan="6">{{__('userList.noDataFound')}}</td>
                                         </tr>
                                     @endif
                                 </tbody>
