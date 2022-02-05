@@ -38,7 +38,7 @@
         <div class="row">
             <div class="col-md-8 col-sm-7 col-xs-12">
                 <div class="mainbar post-list">
-                    @foreach ($posts as $post)
+                    @foreach ($posts_results as $post)
                     <article class="post">
                         <div class="row">
                             <div class="col-md-6 col-sm-12 col-xs-6">
@@ -86,7 +86,7 @@
                     <aside class="widget post_widget">
                         <h4 class="widget-title">Recent Posts</h4>
                         <div class="recent-posts">
-                            @foreach ($recentPosts as $recentPost)
+                            @foreach ($recentPosts_results as $recentPost)
                             <div class="recent-post">
                                 <a class="recent-post-thumb" href="{{ route('post.view',$recentPost->id) }}">
                                     <img class="img-responsive" src="{{ asset('upload/blog/'.$recentPost->image.'') }}" alt="{{ $recentPost->title }}">

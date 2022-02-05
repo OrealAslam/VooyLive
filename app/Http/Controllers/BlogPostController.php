@@ -9,20 +9,43 @@ use App\BlogTag;
 use Session;
 use Auth;
 use Illuminate\Http\Request;
-
+use App;
 class BlogPostController extends Controller
 {
 
     public function index()
     {
         $posts = BlogPost::orderBy('id', 'desc')->where('status', 'Active')->paginate(5);
+        $posts_results = [];
+        foreach($posts as $post){
+            if(App::getLocale()=='fr'){
+                $post->title = $post->title_fr;
+                $post->description = $post->description_fr;
+            }
+            $posts_results[] = $post;
+        }
         $categories = BlogCategory::where('status', 'Active')->get();
         $recentPosts = BlogPost::orderBy('created_at', 'desc')->where('status', 'Active')->take(3)->get();
+
+
+        $recentPosts_results = [];
+        foreach($recentPosts as $post){
+            if(App::getLocale()=='fr'){
+
+                $post->title = $post->title_fr;
+                $post->description = $post->description_fr;
+            }
+            $recentPosts_results[] = $post;
+        }
+        
         $tags = BlogTag::all();
 	    return view('blog.index', [
             'posts' => $posts,
+            'posts_results' => $posts_results,
+            'posts_results' => $posts_results,
             'categories' =>$categories,
             'recentPosts' => $recentPosts,
+            'recentPosts_results' => $recentPosts_results,
             'tags' => $tags,
         ]);
     }
@@ -92,7 +115,9 @@ class BlogPostController extends Controller
     {
         $tags = BlogTag::all();
         $categories = BlogCategory::all();
-        return view('blog.posts.create',compact('categories', 'tags'));
+        $post = new BlogPost();
+
+        return view('blog.posts.edit',compact('categories', 'tags', 'post'));
     }
 
     public function storePost(Request $request)
@@ -108,11 +133,7 @@ class BlogPostController extends Controller
         ));
 
         $post = new BlogPost;
-
-        $post->title = $request->title;
-        $post->status = $request->status;
-        $post->category_id = $request->category_id;
-        $post->description = $request->description;
+        $post->fill($request->all());
         $post->userId = $userId;
 
         if($request->hasFile('image')){
@@ -146,11 +167,7 @@ class BlogPostController extends Controller
         ));
 
         $post = BlogPost::find($id);
-
-        $post->title = $request->title;
-        $post->status = $request->status;
-        $post->category_id = $request->category_id;
-        $post->description = $request->description;
+        $post->fill($request->all());
         $post->userId = $userId;
 
         if($request->hasFile('image')){
@@ -192,7 +209,7 @@ class BlogPostController extends Controller
 
     public function createBlogCategory()
     {
-        return view('blog.categories.create');
+        return view('blog.categories.edit',['category'=> new BlogCategory()]);
     }
 
     public function storeCategory(Request $request)
@@ -202,11 +219,7 @@ class BlogPostController extends Controller
         ));
 
         $category = new BlogCategory;
-
-        $category->name = $request->name;
-        $category->status = $request->status;
-        $category->description = $request->description;
-
+        $category->fill($request->all());
         $category->save();
 
         Session::flash('success_msg', 'Category Created Successfully');
@@ -228,9 +241,7 @@ class BlogPostController extends Controller
 
         $category = BlogCategory::find($id);
 
-        $category->name = $request->name;
-        $category->status = $request->status;
-        $category->description = $request->description;
+        $category->fill($request->all());
 
         $category->save();
 
