@@ -7,5 +7,8 @@ return[
     'recent_label'=>'Recent Posts',
     'tag_label'=>'Blog Tags',
     'blog_title' => 'News & Blog',
-    'home_title' => 'Home'
+    'home_title' => 'Home',
+    'posted_by' => 'Posted by:',
+    'category' => 'Category:',
+    'share_it' => 'Share it',
 ];

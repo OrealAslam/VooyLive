@@ -22,20 +22,17 @@
                             <img class="img-responsive" src="{{ asset('upload/blog/'.$post->image.'') }}" alt="{{ $post->title }}">
                         </div>
                         <p class="post-metas">
-                            <span>Posted by: <a href="#">{{ $post->user->firstName }} {{ $post->user->lastName }}</a></span>
+                            <span>{{__('blog/blog.posted_by')}} <a href="#">{{ $post->user->firstName }} {{ $post->user->lastName }}</a></span>
                             <span>{{ $post->created_at->format('j F Y') }}</span>
-                            <span>Category: <a href="#">{{ $post->category->name }}</a></span>
+                            <span>{{__('blog/blog.category')}} <a href="#">{{ $post->category->name }}</a></span>
                         </p>
                         <div class="post-entry">
                             {!! $post->description !!}
                         </div>
                         <div class="text-center" style="margin-top:10px;font-size:50px;font-weight:bold;">
-                            Share it
+                            {{__('blog/blog.share_it')}}
                         </div>
                         <div class="post-share" id="share">
-                            <!-- <a href="{!! getSettingValue('facebook-link')  !!}"><i class="fa fa-facebook"></i></a>
-                            <a href="{!! getSettingValue('instagram-link')  !!}"><i class="fa fa-instagram"></i></a>
-                            <a href="{!! getSettingValue('linkedin-link')  !!}"><i class="fa fa-linkedin"></i></a> -->
                         </div>
                     </article>
                 </div>
