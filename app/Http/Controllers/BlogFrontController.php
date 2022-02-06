@@ -68,14 +68,25 @@ class BlogFrontController extends Controller
         return view('blog.show', compact('post', 'sidebar'));
     }
 
-    public function search(Request $request)
+    public function search($keyWord)
     {
 
-        $keyWord =  $request->input('search');
-        $post = BlogPost::where('title', 'LIKE', "%{$keyWord}%")->first();
-        $sidebar = $this->sidebar();
+        $posts = BlogPost::where([['title', 'LIKE', "%{$keyWord}%"],['title_fr', 'LIKE', "%{$keyWord}%"],['description', 'LIKE', "%{$keyWord}%"],['description_fr', 'LIKE', "%{$keyWord}%"]])->where('status', 'Active')->paginate(5);
+        $posts_results = [];
+        foreach ($posts as $post) {
+            if (App::getLocale() == 'fr') {
+                $post->title = $post->title_fr;
+                $post->description = $post->description_fr;
+            }
+            $posts_results[] = $post;
+        }
+        return view('blog.index', [
+            'keyWord' => $keyWord,
+            'posts' => $posts,
+            'posts_results' => $posts_results,
+            'sidebar' =>$this->sidebar()
+        ]);
 
-        return view('blog.search', compact('post', 'sidebar'));
     }
 
     public function autocomplete(Request $request)
