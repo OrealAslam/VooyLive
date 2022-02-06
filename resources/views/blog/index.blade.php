@@ -85,13 +85,3 @@
     </div>
 </div>
 @endsection
-
-@section('footer_script')
-<script type="text/javascript">
-    $(document).ready(function() {
-        $("#search").autocomplete({
-            source: "{{ route('autocomplete') }}",
-        });
-    });
-</script>
-@endsection
