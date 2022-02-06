@@ -97,7 +97,7 @@ class BlogFrontController extends Controller
         $tag = BlogTag::find($id);
         $sidebar = $this->sidebar();
 
-        return view('blog.tagPosts', compact('posts', 'sidebar'));
+        return view('blog.tagPosts', compact('tag','posts', 'sidebar'));
     }
 
     public function getCategoryPosts($id)
