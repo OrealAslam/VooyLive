@@ -42,6 +42,8 @@ class BlogPostController extends Controller
             'category_id'   => 'required',
             'image' => 'required',
             'description' => 'required',
+            'title_fr' => 'required',
+            'description_fr' => 'required',
         ));
 
         $post = new BlogPost;
@@ -76,6 +78,8 @@ class BlogPostController extends Controller
             'title'         => 'required',
             'category_id'   => 'required',
             'description' => 'required',
+            'title_fr' => 'required',
+            'description_fr' => 'required',
         ));
 
         $post = BlogPost::find($id);
@@ -127,6 +131,7 @@ class BlogPostController extends Controller
     {
         $this->validate($request, array(
             'name' => 'required',
+            'name_fr' => 'required',
         ));
 
         $category = new BlogCategory;
@@ -147,6 +152,7 @@ class BlogPostController extends Controller
     {
         $this->validate($request, array(
             'name' => 'required',
+            'name_fr' => 'required',
         ));
 
         $category = BlogCategory::find($id);

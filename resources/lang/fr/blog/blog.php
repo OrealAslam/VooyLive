@@ -7,5 +7,8 @@ return[
     'recent_label'=>'Messages récents',
     'tag_label'=>'Balises de blog',
     'blog_title' => 'Nouvelles & Blog',
-    'home_title' => 'Accueil'
+    'home_title' => 'Accueil',
+    'posted_by' => 'Posté par:',
+    'category' => 'Catégorie:',
+    'share_it' => 'Partagez-le',
 ];

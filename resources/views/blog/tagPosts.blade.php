@@ -1,5 +1,5 @@
 @extends('layouts.template')
-@section('title', 'News & Blog')
+@section('title'){{__('blog/blog.blog_title')}}@endsection
 <style>
     .pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
         z-index: 3!important;
@@ -51,7 +51,7 @@
                                     <h4 class="post-title"><a href="{{ route('post.view',$post->id) }}">{{ $post->title }}</a></h4>
                                     <p class="post-date">{{ $post->created_at->format('j F Y') }}</p>
                                     <p class="post-excerpt">{!! Str_limit($post->description, 100, '...') !!} </p>
-                                    <a class="post-readmore" href="{{ route('post.view',$post->id) }}">Read More</a>
+                                    <a class="post-readmore" href="{{ route('post.view',$post->id) }}">{{__('blog/blog.readmore_link')}}</a>
                                 </div>
                             </div>
                         </div>

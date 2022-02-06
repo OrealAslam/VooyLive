@@ -1,5 +1,5 @@
 @extends('layouts.template')
-@section('title', 'News & Blog')
+@section('title'){{__('blog/blog.blog_title')}}@endsection
 <style>
     .pagination>.active>a,
     .pagination>.active>a:focus,
