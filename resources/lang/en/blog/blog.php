@@ -5,5 +5,7 @@ return[
     'search_placeholder'=>'Search Blog',
     'categories_label'=>'Categories',
     'recent_label'=>'Recent Posts',
-    'tag_label'=>'Blog Tags'
+    'tag_label'=>'Blog Tags',
+    'blog_title' => 'News & Blog',
+    'home_title' => 'Home'
 ];
