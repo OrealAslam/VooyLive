@@ -19,6 +19,10 @@
             <input type="text" name="title" value="{{ $data->title }}" id=""class="form-control" placeholder="Enter Category Name">
         </div>
         <div class="form-group">
+            <label for="" class="control-label">Enter Category Name Fr</label>
+            <input type="text" name="title_fr" value="{{ $data->title_fr }}" class="form-control" placeholder="Enter Category Name Fr">
+        </div>
+        <div class="form-group">
             <label class="control-label">Select Type</label>
             <select class="form-control" name="type">
                 <option>Select Type</option>

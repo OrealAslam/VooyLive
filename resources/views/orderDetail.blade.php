@@ -433,7 +433,7 @@
                               $count = 1;
                               @endphp
                               @if(!empty($reletedProduct))
-                              @foreach($reletedProduct as $key => $value)
+                              @foreach($reletedProduct_results as $key => $value)
                               <div class="col-md-4 {{ $count == 1 ? 'pl-0' : ''}} mv-w mv-p-0">
                                  <div class="rel-pro-box bg-white">
                                     <div class="row">

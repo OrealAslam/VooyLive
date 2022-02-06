@@ -8,7 +8,7 @@ class Category extends Model
 {
     protected $table = 'categorys';
 
-    protected $fillable = ['title', 'slug','type'];
+    protected $fillable = ['title', 'title_fr', 'slug','type'];
 
     /**
      * Get the post that owns the comment.

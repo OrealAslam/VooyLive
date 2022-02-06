@@ -26,7 +26,7 @@
 					                <ul class="nav nav-tabs tabs-left">
 					                	@if(!empty($categories))
 						                    <li class="head-tab-left-title">{{__('order.allCategories')}}</a></li>
-					                		@foreach($categories as $key => $value)
+					                		@foreach($categories_results as $key => $value)
 						                    	<li class="{{ $slug == $value->slug ? 'active' : '' }}"><a href="{{ url('/order/'.$value->slug) }}"> > {{ $value->title }} ({{ $value->product->count() }})</a></li>
 						                    @endforeach
 					                    @endif
@@ -86,7 +86,7 @@
 					                        </div>
 					                        <div class="row mv-m">
 					                        	@if(!empty($products))
-					                        		@foreach($products as $key => $value)
+					                        		@foreach($products_results as $key => $value)
 							                            <div class="col-md-12 p-0">
 							                                <div class="{{ $value->actual_price ? 'card-ribbons':'' }}" data-label="Get Credit ${{ number_format($value->actual_price,2) ?? '' }}">
 								                                <div class="product-box right-content-box">

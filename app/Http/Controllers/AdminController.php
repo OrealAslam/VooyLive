@@ -1254,9 +1254,11 @@ class AdminController extends Controller
 
         $validator = Validator::make($input,[
             'title' => 'required',
+            'title_fr' => 'required',
         ], 
         [
             'title.required' => 'The Category Name field is required',
+            'title_fr.required' => 'The Category Name Fr field is required',
         ]);
 
         if ($validator->passes()){
@@ -1296,9 +1298,11 @@ class AdminController extends Controller
 
         $validator = Validator::make($input,[
             'title' => 'required',
+            'title_fr' => 'required',
         ], 
         [
             'title.required' => 'The Category Name field is required',
+            'title_fr.required' => 'The Category Name Fr field is required',
         ]);
         
         if ($validator->passes()){
@@ -1426,6 +1430,8 @@ class AdminController extends Controller
             'image' => 'required',
             'product_code' => 'required',
             'description' => 'required',
+            'name_fr' => 'required',
+            'description_fr' => 'required',
         ]);
 
         if ($validator->passes()){
@@ -1478,6 +1484,8 @@ class AdminController extends Controller
             'price' => 'required|numeric',
             'product_code' => 'required',
             'description' => 'required',
+            'name_fr' => 'required',
+            'description_fr' => 'required',
         ]);
 
         if ($validator->passes()){

@@ -70,6 +70,25 @@
                     <textarea name="description" id="editor1" class="form-control" placeholder="Enter Description">{{ $data->description }}</textarea>
                 </div>
             </div>
+
+            <div class="col-md-12">
+                <h2>French</h2>
+            </div>
+
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label for="" class="control-label">Enter Name Fr</label>
+                    <input type="text" name="name_fr" value="{{ $data->name_fr }}" class="form-control" placeholder="Enter Name Fr">
+                </div>
+            </div>
+            <div class="col-md-12" style="margin-top: 10px;">
+                <div class="form-group">
+                    <label for="" class="control-label">Enter Description Fr</label>
+                    <textarea name="description_fr" class="form-control" id="editor2" placeholder="Enter Description Fr">{{ $data->description_fr }}</textarea>
+                </div>
+            <hr>
+            </div>
+
             <div class="col-md-12" style="margin-bottom:10px;">
                 <h4>Availability Option</h4>
             </div>
@@ -185,6 +204,7 @@
             }
         });  
         CKEDITOR.replace('editor1');
+        CKEDITOR.replace('editor2');
 
         // type select
 
