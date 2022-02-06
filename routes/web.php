@@ -522,7 +522,7 @@ Route::post('search', 'BlogFrontController@search')->name('search');
 Route::get('autocomplete', 'BlogFrontController@autocomplete')->name('autocomplete');
 Route::get('tag/posts/{id}', 'BlogFrontController@getTagPosts')->name('tag.posts');
 Route::get('category/posts/{id}', 'BlogFrontController@getCategoryPosts')->name('category.posts');
-
+Route::get('blog/posts', 'BlogFrontController@getBlogPosts')->name('blog.posts');
 
 
 Route::get('blog/tags', 'BlogTagsController@index')->name('blog.tags');
@@ -539,7 +539,6 @@ Route::post('blog/category/store', 'BlogPostController@storeCategory')->name('bl
 Route::get('blog/category/edit/{id}','BlogPostController@editCategory')->name('blog.category.edit');
 Route::post('blog/category/update/{id}','BlogPostController@updateCategory')->name('blog.category.update');
 Route::get('blog/category/delete/{id}','BlogPostController@deleteCategory')->name('blog.category.delete');
-Route::get('blog/posts', 'BlogPostController@getBlogPosts')->name('blog.posts');
 Route::get('post/create', 'BlogPostController@createBlogPost')->name('post.create');
 Route::post('post/store', 'BlogPostController@storePost')->name('post.store');
 Route::get('post/edit/{id}','BlogPostController@editPost')->name('post.edit');
