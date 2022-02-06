@@ -247,10 +247,6 @@
             </div>
         </div>
     </div>
-    <a id="button-scroll"></a>
-    <footer class="style-5">
-        @include('layouts.footer')
-    </footer>
 </div>
 
 @endsection
