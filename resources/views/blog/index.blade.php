@@ -1,24 +1,31 @@
 @extends('layouts.template')
 @section('title', 'News & Blog')
 <style>
-    .pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
-        z-index: 3!important;
-        color: #fff!important;
-        cursor: default!important;
-        background-color: #EA2349!important;
-        border-color: #EA2349!important;
+    .pagination>.active>a,
+    .pagination>.active>a:focus,
+    .pagination>.active>a:hover,
+    .pagination>.active>span,
+    .pagination>.active>span:focus,
+    .pagination>.active>span:hover {
+        z-index: 3 !important;
+        color: #fff !important;
+        cursor: default !important;
+        background-color: #EA2349 !important;
+        border-color: #EA2349 !important;
     }
-    .pagination>li>a, .pagination>li>span {
-        margin-top: 50px!important;
-        position: relative!important;
-        float: left!important;
-        padding: 6px 12px!important;
-        margin-left: -1px!important;
-        line-height: 1.42857143!important;
-        color: #EA2349!important;
-        text-decoration: none!important;
-        background-color: #fff!important;
-        border: 1px solid #ddd!important;
+
+    .pagination>li>a,
+    .pagination>li>span {
+        margin-top: 50px !important;
+        position: relative !important;
+        float: left !important;
+        padding: 6px 12px !important;
+        margin-left: -1px !important;
+        line-height: 1.42857143 !important;
+        color: #EA2349 !important;
+        text-decoration: none !important;
+        background-color: #fff !important;
+        border: 1px solid #ddd !important;
     }
 </style>
 @section('content')
@@ -35,6 +42,15 @@
 <!-- Page Header End -->
 <div class="cps-main-wrap cps-section-padding">
     <div class="container">
+        @if(isset($keyWord))
+        <div class="row text-center">
+            <div class="col-sm-12">
+                <h2>{{$keyWord}}</h2>
+            </div>
+        </div>
+        @endif
+
+
         <div class="row">
             <div class="col-md-8 col-sm-7 col-xs-12">
                 <div class="mainbar post-list">
@@ -72,8 +88,8 @@
 
 @section('footer_script')
 <script type="text/javascript">
-    $( document ).ready(function() {    
-        $( "#search" ).autocomplete({
+    $(document).ready(function() {
+        $("#search").autocomplete({
             source: "{{ route('autocomplete') }}",
         });
     });

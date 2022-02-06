@@ -1,14 +1,11 @@
 <div class="sidebar">
     <aside class="widget search_widget">
-        <form action="{{ route('search') }}" method="POST">
-            {{ csrf_field() }}
             <div class="form-group">
                 <input type="text" id="search" name="search" placeholder="{{__('blog/blog.search_placeholder')}}" class="form-control typeahead">
             </div>
             <div class="text-center" style="margin-top: 10px;">
-                <button class="btn btn-primary btn-lg btn-block btn-square" style="background:#EA2349;color:#fff;font-size:3rem;" type="submit">{{__('blog/blog.search_go_btn')}}</button>
+                <button onclick="window.location.href = 'search/'+encodeURI($('#search').val())" class="btn btn-primary btn-lg btn-block btn-square" style="background:#EA2349;color:#fff;font-size:3rem;" type="button">{{__('blog/blog.search_go_btn')}}</button>
             </div>
-        </form>
     </aside>
     <aside class="widget category_widget">
         <h4 class="widget-title">{{__('blog/blog.categories_label')}}</h4>

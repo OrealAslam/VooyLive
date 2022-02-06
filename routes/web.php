@@ -515,7 +515,7 @@ Route::get('/privacy', function () {
 // Blog Front
 Route::get('blog', 'BlogFrontController@index')->name('blog');
 Route::get('post/view/{id}', 'BlogFrontController@show')->name('post.view');
-Route::post('search', 'BlogFrontController@search')->name('search');
+Route::get('search/{keyword}', 'BlogFrontController@search')->name('search');
 Route::get('autocomplete', 'BlogFrontController@autocomplete')->name('autocomplete');
 Route::get('tag/posts/{id}', 'BlogFrontController@getTagPosts')->name('tag.posts');
 Route::get('category/posts/{id}', 'BlogFrontController@getCategoryPosts')->name('category.posts');
