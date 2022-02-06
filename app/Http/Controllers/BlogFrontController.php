@@ -107,13 +107,5 @@ class BlogFrontController extends Controller
         return view('blog.categoryPosts', compact('posts','sidebar'));
     }
 
-    public function getBlogPosts()
-    {
 
-        $posts = BlogPost::orderBy('id', 'desc')->paginate(5);
-
-        return view('blog.posts.index', [
-            'posts' => $posts,
-        ]);
-    }
 }

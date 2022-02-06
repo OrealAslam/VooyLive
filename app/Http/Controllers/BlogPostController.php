@@ -13,7 +13,15 @@ use App;
 
 class BlogPostController extends Controller
 {
+    public function getBlogPosts()
+    {
 
+        $posts = BlogPost::orderBy('id', 'desc')->paginate(5);
+
+        return view('blog.posts.index', [
+            'posts' => $posts,
+        ]);
+    }
 
     public function createBlogPost()
     {
