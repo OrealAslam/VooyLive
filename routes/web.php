@@ -515,11 +515,15 @@ Route::get('/privacy', function(){
     return view('privacy');
 });
 
-// Blog Related Routes
-Route::get('blog', 'BlogPostController@index')->name('blog');
-Route::get('post/view/{id}', 'BlogPostController@show')->name('post.view');
-Route::post('search', 'BlogPostController@search')->name('search');
-Route::get('autocomplete', 'BlogPostController@autocomplete')->name('autocomplete');
+// Blog Front
+Route::get('blog', 'BlogFrontController@index')->name('blog');
+Route::get('post/view/{id}', 'BlogFrontController@show')->name('post.view');
+Route::post('search', 'BlogFrontController@search')->name('search');
+Route::get('autocomplete', 'BlogFrontController@autocomplete')->name('autocomplete');
+Route::get('tag/posts/{id}', 'BlogFrontController@getTagPosts')->name('tag.posts');
+Route::get('category/posts/{id}', 'BlogFrontController@getCategoryPosts')->name('category.posts');
+
+
 
 Route::get('blog/tags', 'BlogTagsController@index')->name('blog.tags');
 Route::get('tag/create', 'BlogTagsController@create')->name('tag.create');
@@ -528,8 +532,6 @@ Route::get('tag/edit/{id}','BlogTagsController@edit')->name('tag.edit');
 Route::post('tag/update/{id}','BlogTagsController@update')->name('tag.update');
 Route::get('tag/delete/{id}','BlogTagsController@destroy')->name('tag.delete');
 
-Route::get('tag/posts/{id}', 'BlogPostController@getTagPosts')->name('tag.posts');
-Route::get('category/posts/{id}', 'BlogPostController@getCategoryPosts')->name('category.posts');
 
 Route::get('blog/categories', 'BlogPostController@getBlogCategories')->name('blog.categories');
 Route::get('blog/category/create', 'BlogPostController@createBlogCategory')->name('blog.category.create');
