@@ -45,7 +45,7 @@
         <div class="row">
             <div class="col-md-8 col-sm-7 col-xs-12">
                 <div class="mainbar post-list">
-                    @foreach ($posts as $post)
+                    @foreach ($posts_results as $post)
                     <article class="post">
                         <div class="row">
                             <div class="col-md-6 col-sm-12 col-xs-6">

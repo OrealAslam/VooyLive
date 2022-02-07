@@ -110,16 +110,32 @@ class BlogFrontController extends Controller
     {
         $posts = BlogPost::orderBy('id', 'desc')->where('id', $id)->get();
         $tag = BlogTag::find($id);
+        $posts_results = [];
+        foreach ($tag->posts as $post) {
+            if (App::getLocale() == 'fr') {
+                $post->title = $post->title_fr;
+                $post->description = $post->description_fr;
+            }
+            $posts_results[] = $post;
+        }
         $sidebar = $this->sidebar();
 
-        return view('blog.tagPosts', compact('tag','posts', 'sidebar'));
+        return view('blog.tagPosts', compact('tag','posts','sidebar','posts_results'));
     }
 
     public function getCategoryPosts($id)
     {
         $posts = BlogPost::orderBy('id', 'desc')->where('category_id', $id)->get();
+        $posts_results = [];
+        foreach ($posts as $post) {
+            if (App::getLocale() == 'fr') {
+                $post->title = $post->title_fr;
+                $post->description = $post->description_fr;
+            }
+            $posts_results[] = $post;
+        }
         $sidebar = $this->sidebar();
-        return view('blog.categoryPosts', compact('posts','sidebar'));
+        return view('blog.categoryPosts', compact('posts','sidebar','posts_results'));
     }
 
 
