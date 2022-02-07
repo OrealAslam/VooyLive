@@ -65,6 +65,10 @@ class BlogFrontController extends Controller
     {
         $post = BlogPost::find($id);
         $sidebar = $this->sidebar();
+        if (App::getLocale() == 'fr') {
+            $post->title = $post->title_fr;
+            $post->description = $post->description_fr;
+        }
         return view('blog.show', compact('post', 'sidebar'));
     }
 
