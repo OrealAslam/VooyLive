@@ -1,3 +1,10 @@
+  <style>
+    .flex {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+  </style>
   <!-- Custom Features -->
   <div class="cps-section cps-section-padding cps-bottom-0">
         <div class="container">
@@ -86,12 +93,12 @@
                       </div>
                   </div>
               </div>
-              <div class="row">
+              <div class="row flex">
                   <div class="col-sm-6 col-xs-12 xs-bottom-30 easy_to_read">
                       <h4 class="cps-subsection-title">{{__('sub_views_productdetail.easyToRead')}}</h4>
                       <p class="cps-subsection-text">{{__('sub_views_productdetail.para2')}}</p>
                   </div>
-                  <div class="col-sm-6 col-xs-12">
+                  <div div class="col-sm-6 col-xs-12">
                       <img class="img-responsive" src="{{ asset('upload/productImageSetting/'.getSettingValue('product-detail-image')) }}" alt="...">
                   </div>
               </div>
