@@ -1,6 +1,6 @@
 <?php
 return[
-    'orderDetail' => 'Payment',
+    'payment' => 'Payment',
     'home' => 'Home',
     'shoppingCart' => 'SHOPPING CART',   
     'image' => 'Image',   
