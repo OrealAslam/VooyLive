@@ -16,7 +16,8 @@
                                     <span class="title colorb">
 										{{__('reports/other/metro/map.restaurants')}}
                                     </span>
-                                </div>								
+                                </div>
+								@if(isset($response['resturants'][0]))								
 								<div class="name color-white" id="res_one_name">{{ App\Report::checkEmptyValue($response['resturants'][0]['name'])}}</div>
 								<div class="address color-white" id="res_one_address">{{ App\Report::checkEmptyValue($response['resturants'][0]['vicinity'])}}</div>
 								<div class="distance color-white">
@@ -30,7 +31,9 @@
 										</span>
 									</div>
 								</div>
+								@endif
 								<div class="margin-10"></div>
+								@if(isset($response['resturants'][1]))
 								<div class="name color-white" id="res_two_name">{{ App\Report::checkEmptyValue($response['resturants'][1]['name'])}}</div>
 								<div class="address color-white" id="res_two_address">{{ App\Report::checkEmptyValue($response['resturants'][1]['vicinity'])}}</div>
 								<div class="distance color-white">
@@ -44,6 +47,7 @@
 										</span>
 									</div>
 								</div>
+								@endif
                             </div>
                         </div>
                     </div>
@@ -70,7 +74,8 @@
 										</span>
 									</div>
 								</div>
-								<div class="margin-10"></div>											
+								<div class="margin-10"></div>
+								@if(isset($response['banks'][1]))											
 								<div class="name color-black" id="bank_two_name">{{ App\Report::checkEmptyValue($response['banks'][1]['name'])}}</div>
 								<div class="address color-black" id="bank_two_address">{{App\Report::checkEmptyValue($response['banks'][1]['vicinity'])}}</div>
 								<div class="distance color-black">
@@ -83,7 +88,8 @@
 											{{App\Report::checkEmptyValue(round($response['banks'][1]['distance'], 2))}}{{__('reports/other/metro/map.KM')}}
 										</span>
 									</div>
-								</div>			
+								</div>
+								@endif			
 								@else
 								<div style="font-family: Raleway;">{{__('reports/other/metro/map.noBank')}} {{config('app.radius')/1000}}{{__('reports/other/metro/map.KMRadius')}}</div>
 								@endif
@@ -99,6 +105,7 @@
 										{{__('reports/other/metro/map.convenienceStores')}}
                                     </span>
                                 </div>
+								@if(isset($response['conStores'][0]))
 								<div class="name color-white" id="store_one_name">{{ App\Report::checkEmptyValue($response['conStores'][0]['name'])}}</div>
 								<div class="address color-white" id="store_one_address">{{App\Report::checkEmptyValue($response['conStores'][0]['vicinity'])}}</div>
 								<div class="distance color-white">
@@ -112,7 +119,9 @@
 										</span>
 									</div>
 								</div>
-								<div class="margin-10"></div>											
+								@endif
+								<div class="margin-10"></div>
+								@if(isset($response['conStores'][1]))											
 								<div class="name color-white" id="store_two_name">{{ App\Report::checkEmptyValue($response['conStores'][1]['name'])}}</div>
 								<div class="address color-white" id="store_two_address">{{App\Report::checkEmptyValue($response['conStores'][1]['vicinity'])}}</div>
 								<div class="distance color-white">
@@ -125,7 +134,8 @@
 											{{App\Report::checkEmptyValue(round($response['conStores'][1]['distance'], 2))}}{{__('reports/other/metro/map.KM')}}
 										</span>
 									</div>
-								</div>											
+								</div>
+								@endif											
                             </div>
                         </div>
                     </div>
@@ -142,6 +152,7 @@
 										{{__('reports/other/metro/map.gasStation')}}
                                     </span>
                                 </div>
+								@if(isset($response['gasstations'][0]))
 								<div class="name color-black" id="gas_one_name">{{ App\Report::checkEmptyValue($response['gasstations'][0]['name'])}}</div>
 								<div class="address color-black" id="gas_one_address">{{App\Report::checkEmptyValue($response['gasstations'][0]['vicinity'])}}</div>
 								<div class="distance color-black">
@@ -155,7 +166,9 @@
 										</span>
 									</div>
 								</div>
-								<div class="margin-10"></div>											
+								@endif
+								<div class="margin-10"></div>
+								@if(isset($response['gasstations'][1]))											
 								<div class="name color-black" id="gas_two_name">{{ App\Report::checkEmptyValue($response['gasstations'][1]['name'])}}</div>
 								<div class="address color-black" id="gas_two_address">{{App\Report::checkEmptyValue($response['gasstations'][1]['vicinity'])}}</div>
 								<div class="distance color-black">
@@ -168,7 +181,8 @@
 											{{App\Report::checkEmptyValue(round($response['gasstations'][1]['distance'], 2))}}{{__('reports/other/metro/map.KM')}}
 										</span>
 									</div>
-								</div>											
+								</div>
+								@endif											
                             </div>
                         </div>
                     </div>
@@ -181,6 +195,7 @@
 										{{__('reports/other/metro/map.cafe')}}
                                     </span>
                                 </div>
+								@if(isset($response['cafe'][0]))
 								<div class="name color-white" id="cafe_one_name">{{ App\Report::checkEmptyValue($response['cafe'][0]['name'])}}</div>
 								<div class="address color-white" id="cafe_one_address">{{App\Report::checkEmptyValue($response['cafe'][0]['vicinity'])}}</div>
 								<div class="distance color-white">
@@ -194,7 +209,9 @@
 										</span>
 									</div>
 								</div>
+								@endif
 								<div class="margin-10"></div>
+								@if(isset($response['cafe'][1]))
 								<div class="name color-white" id="cafe_two_name">{{ App\Report::checkEmptyValue($response['cafe'][1]['name'])}}</div>
 								<div class="address color-white" id="cafe_two_address">{{App\Report::checkEmptyValue($response['cafe'][1]['vicinity'])}}</div>
 								<div class="distance color-white">
@@ -207,7 +224,8 @@
 											{{App\Report::checkEmptyValue(round($response['cafe'][1]['distance'], 2))}}{{__('reports/other/metro/map.KM')}}
 										</span>
 									</div>
-								</div>										
+								</div>
+								@endif										
                             </div>
                         </div>
                     </div>
@@ -220,6 +238,7 @@
 										{{__('reports/other/metro/map.gyms')}}
                                     </span>
                                 </div>
+								@if(isset($response['gym'][0]))
 								<div class="name color-black" id="gym_one_name">{{ App\Report::checkEmptyValue($response['gym'][0]['name'])}}</div>
 								<div class="address color-black" id="gym_one_address">{{App\Report::checkEmptyValue($response['gym'][0]['vicinity'])}}</div>
 								<div class="distance color-black">
@@ -233,7 +252,9 @@
 										</span>
 									</div>
 								</div>
+								@endif
 								<div class="margin-10"></div>
+								@if(isset($response['gym'][1]))
 								<div class="name color-black" id="gym_two_name">{{ App\Report::checkEmptyValue($response['gym'][1]['name'])}}</div>
 								<div class="address color-black" id="gym_two_address">{{App\Report::checkEmptyValue($response['gym'][1]['vicinity'])}}</div>
 								<div class="distance color-black">
@@ -246,7 +267,8 @@
 											{{App\Report::checkEmptyValue(round($response['gym'][1]['distance'], 2))}}{{__('reports/other/metro/map.KM')}}
 										</span>
 									</div>
-								</div>										
+								</div>
+								@endif										
                             </div>
                         </div>
                     </div>
