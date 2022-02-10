@@ -61,8 +61,8 @@ class Kernel extends ConsoleKernel
 
 
         $schedule->command('queue:restart')->everyFiveMinutes();
-        $schedule->command('firstReminder:send')->daily()->withoutOverlapping();
-        $schedule->command('secondReminder:send')->daily()->withoutOverlapping();
+        $schedule->command('firstReminder:send')->dailyAt('22:00');
+        $schedule->command('secondReminder:send')->dailyAt('22:15');
 
 
     }
