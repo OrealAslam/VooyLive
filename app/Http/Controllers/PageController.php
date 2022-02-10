@@ -61,8 +61,8 @@ class PageController extends Controller
 
                 Mail::send('emails.contactUs', $datas, function($message) use ($datas) 
                 {
-                    $message->to('info@communityfeaturesheet.com');
-                    $message->subject('Contact Us from VOOY Marketing');
+                    $message->to('info@dharro.com');
+                    $message->subject('Contact Us from VOOY GROUP CANADA INC');
                 });
 
                 if( count(Mail::failures()) > 0 ) {
