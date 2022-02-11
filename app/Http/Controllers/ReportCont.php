@@ -37,13 +37,13 @@ class ReportCont extends Controller
         $data['user'] = Auth::User();
         $validateUser = getValidateUser();
         $city = City::where('name', $request->report_city)->first();
-        if(!$city){
+        if (!$city) {
             $province = Province::where('name', $request->province)->first();
             $province_id = $province->id;
             $new_city = City::create(['name' => $request->report_city, 'province_id' => $province_id, 'status' => 1]);
             $city_id = $new_city->id;
-        }else{
-         $city_id = $city->id;
+        } else {
+            $city_id = $city->id;
         }
 
         $user = $request->user();
@@ -84,7 +84,7 @@ class ReportCont extends Controller
                         } else {
                             $reportPrice = (float)env('REPORTCHARGE');
                             try {
-                                if ($validateUser->getBalanceCredits() > 0) {
+                                if ($validateUser->userCredit() > 0) {
                                     $mCredit = new Credit();
                                     $mCredit->descr = 'Cfs Bought';
                                     $mCredit->user_id = $user->userId;
