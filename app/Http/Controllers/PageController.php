@@ -71,7 +71,7 @@ class PageController extends Controller
                     Session::flash('success_msg', 'Email Sent Successfully');
                 }
             }else{
-                Session::flash('error_msg','Please register before contact us.');
+                Session::flash('error_msg','You must be logged in to send us a message. Thank you!');
             }
 
             }
