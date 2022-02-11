@@ -7,10 +7,12 @@ use App\BlogCategory;
 use App\BlogPost;
 use App\BlogTag;
 use App;
+
 class BlogFrontController extends Controller
 {
 
-    private function sidebar(){
+    private function sidebar()
+    {
         $categories = BlogCategory::where('status', 'Active')->get();
 
         $recentPosts = BlogPost::orderBy('created_at', 'desc')->where('status', 'Active')->take(3)->get();
@@ -19,7 +21,6 @@ class BlogFrontController extends Controller
             if (App::getLocale() == 'fr') {
 
                 $post->title = $post->title_fr;
-                $post->description = $post->description_fr;
             }
             $recentPosts_results[] = $post;
         }
@@ -27,7 +28,6 @@ class BlogFrontController extends Controller
         foreach ($categories as $category) {
             if (App::getLocale() == 'fr') {
                 $category->name = $category->name_fr;
-                $category->description = $category->description_fr;
             }
             $categories_results[] = $category;
         }
@@ -49,14 +49,16 @@ class BlogFrontController extends Controller
         foreach ($posts as $post) {
             if (App::getLocale() == 'fr') {
                 $post->title = $post->title_fr;
-                $post->description = $post->description_fr;
+                $post->description = substr(strip_tags($post->description_fr), 0, 150);
+            } else {
+                $post->description = substr(strip_tags($post->description), 0, 150);
             }
             $posts_results[] = $post;
         }
         return view('blog.index', [
             'posts' => $posts,
             'posts_results' => $posts_results,
-            'sidebar' =>$this->sidebar()
+            'sidebar' => $this->sidebar()
         ]);
     }
 
@@ -75,12 +77,14 @@ class BlogFrontController extends Controller
     public function search($keyWord)
     {
 
-        $posts = BlogPost::where([['title', 'LIKE', "%{$keyWord}%"],['title_fr', 'LIKE', "%{$keyWord}%"],['description', 'LIKE', "%{$keyWord}%"],['description_fr', 'LIKE', "%{$keyWord}%"]])->where('status', 'Active')->paginate(5);
+        $posts = BlogPost::where([['title', 'LIKE', "%{$keyWord}%"], ['title_fr', 'LIKE', "%{$keyWord}%"], ['description', 'LIKE', "%{$keyWord}%"], ['description_fr', 'LIKE', "%{$keyWord}%"]])->where('status', 'Active')->paginate(5);
         $posts_results = [];
         foreach ($posts as $post) {
             if (App::getLocale() == 'fr') {
                 $post->title = $post->title_fr;
-                $post->description = $post->description_fr;
+                $post->description = substr(strip_tags($post->description_fr), 0, 150);
+            } else {
+                $post->description = substr(strip_tags($post->description), 0, 150);
             }
             $posts_results[] = $post;
         }
@@ -88,9 +92,8 @@ class BlogFrontController extends Controller
             'keyWord' => $keyWord,
             'posts' => $posts,
             'posts_results' => $posts_results,
-            'sidebar' =>$this->sidebar()
+            'sidebar' => $this->sidebar()
         ]);
-
     }
 
     public function autocomplete(Request $request)
@@ -114,13 +117,15 @@ class BlogFrontController extends Controller
         foreach ($tag->posts as $post) {
             if (App::getLocale() == 'fr') {
                 $post->title = $post->title_fr;
-                $post->description = $post->description_fr;
+                $post->description = substr(strip_tags($post->description_fr), 0, 150);
+            } else {
+                $post->description = substr(strip_tags($post->description), 0, 150);
             }
             $posts_results[] = $post;
         }
         $sidebar = $this->sidebar();
 
-        return view('blog.tagPosts', compact('tag','posts','sidebar','posts_results'));
+        return view('blog.tagPosts', compact('tag', 'posts', 'sidebar', 'posts_results'));
     }
 
     public function getCategoryPosts($id)
@@ -130,13 +135,13 @@ class BlogFrontController extends Controller
         foreach ($posts as $post) {
             if (App::getLocale() == 'fr') {
                 $post->title = $post->title_fr;
-                $post->description = $post->description_fr;
+                $post->description = substr(strip_tags($post->description_fr), 0, 150);
+            } else {
+                $post->description = substr(strip_tags($post->description), 0, 150);
             }
             $posts_results[] = $post;
         }
         $sidebar = $this->sidebar();
-        return view('blog.categoryPosts', compact('posts','sidebar','posts_results'));
+        return view('blog.categoryPosts', compact('posts', 'sidebar', 'posts_results'));
     }
-
-
 }
