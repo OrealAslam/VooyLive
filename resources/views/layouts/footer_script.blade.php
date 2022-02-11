@@ -210,7 +210,7 @@
                                     that.generateReport();
                                 @else
                                     //that.showDebug('Not onTrial');
-                                    @if(getValidateUser()->getBalanceCredits() > 0)
+                                    @if(getValidateUser()->userCredit()  > 0)
                                         //that.showDebug('getBalanceCredits > 0');
                                         that.generateReport();
                                     @else
