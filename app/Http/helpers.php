@@ -307,6 +307,10 @@ function checkProductOrCredit()
   return $cartType; 
 }
 
+function getLowestProductPrice(){
+    return min(env('REPORTCHARGE'),env('FLYERCHARGE'),env('HDICHARGE'))/100;
+}
+
 function getCartPrices()
 {
   $cart = session()->get('cart');
