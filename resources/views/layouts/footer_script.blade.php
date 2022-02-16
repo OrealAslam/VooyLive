@@ -210,7 +210,7 @@
                                     that.generateReport();
                                 @else
                                     //that.showDebug('Not onTrial');
-                                    @if(getValidateUser()->userCredit()  > getLowestProductPrice())
+                                    @if(getValidateUser()->userCredit()   >= ((float)env('REPORTCHARGE_CREDIT')/100) )
                                         //that.showDebug('getBalanceCredits > 0');
                                         that.generateReport();
                                     @else

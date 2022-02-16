@@ -83,14 +83,15 @@ class ReportCont extends Controller
                             }
                         } else {
                             $reportPrice = (float)env('REPORTCHARGE');
+                            $credit_price =  (float)env('REPORTCHARGE_CREDIT') / 100;
                             try {
-                                if ($validateUser->userCredit() > getLowestProductPrice()) {
+                                if ($validateUser->userCredit() >= $credit_price) {
                                     $mCredit = new Credit();
                                     $mCredit->descr = 'Cfs Bought';
                                     $mCredit->user_id = $user->userId;
                                     $mCredit->type = 'product';
                                     $mCredit->product = 'cfs';
-                                    $mCredit->credit = -1;
+                                    $mCredit->credit = -$credit_price;
                                     $mCredit->save();
 
                                     $reportPrice = (float)0;

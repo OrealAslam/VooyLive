@@ -66,13 +66,14 @@ class FlyerController extends Controller
                         ];
                         return $this->createFlyer($params);
                     } else {
-                        if ($validateUser->getBalanceCredits() > 0) {
+                        $credit_price = (double)env('FLYERCHARGE_CREDIT') / 100;
+                        if ($validateUser->getBalanceCredits() >= $credit_price) {
                             $mCredit=new Credit();
                             $mCredit->descr = 'PFS Bought';
                             $mCredit->user_id = $validateUser->userId;
                             $mCredit->type = 'product';
                             $mCredit->product = 'pfs';
-                            $mCredit->credit = -1;
+                            $mCredit->credit = -$credit_price;
                             $mCredit->save();
 
                             $params = [

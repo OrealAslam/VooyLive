@@ -41,7 +41,6 @@ class AccountCont extends Controller
         $user=Auth::user();
         try{
             $response=$user->charge(env('REPORTCHARGE'));
-            dd($response);
 
             //Order::create(['userId'])
             return 'success';

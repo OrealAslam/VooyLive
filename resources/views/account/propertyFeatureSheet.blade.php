@@ -194,7 +194,7 @@ $(document).ready(function(){
                                 @if($validateUser->subscription('main')->onTrial())
                                     that.generateFlyer();
                                 @else
-                                    @if($validateUser->getBalanceCredits() > 0)
+                                    @if($validateUser->getBalanceCredits() >= ((float)env('FLYERCHARGE_CREDIT')/100) )
                                         that.generateFlyer();
                                     @else
                                         //show payment option

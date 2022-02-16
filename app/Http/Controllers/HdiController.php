@@ -68,13 +68,14 @@ class HdiController extends Controller
                         ];
                         return $this->createHdi($params);
                     } else {
-                        if ($validateUser->getBalanceCredits() > 0) {
+                        $credit_price = (double)env('HDICHARGE_CREDIT') / 100;
+                        if ($validateUser->getBalanceCredits() >= $credit_price) {
                             $mCredit=new Credit();
                             $mCredit->descr = 'Hdi Bought';
                             $mCredit->user_id = $validateUser->userId;
                             $mCredit->type = 'product';
                             $mCredit->product = 'hdi';
-                            $mCredit->credit = -1;
+                            $mCredit->credit =  -$credit_price;
                             $mCredit->save();
 
                             $params = [

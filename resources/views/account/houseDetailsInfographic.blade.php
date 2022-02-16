@@ -176,11 +176,11 @@ $(document).ready(function(){
                     $('.hdi_msg').html('');
                     if (that.params.hdiName != '') {
                         @if(Auth::user()->role=='client')
-                            @if(in_array($validateUser, config('app.pay_as_you_go_packages')))
+                            @if(in_array($validateUser->plan, config('app.pay_as_you_go_packages')))
                                 @if($validateUser->subscription('main')->onTrial())
                                     that.generateHdi();
                                 @else
-                                    @if($validateUser->getBalanceCredits() > 0)
+                                    @if($validateUser->getBalanceCredits()  >= ((float)env('HDICHARGE_CREDIT')/100) )
                                         that.generateHdi();
                                     @else
                                         //show payment option
@@ -188,11 +188,11 @@ $(document).ready(function(){
                                     @endif
                                 @endif
                             @else
-                                that.generateHdi();
+                                that.generateHdi(); // yeh cheez 1
                             @endif
                         @elseif(Auth::user()->role=='admin')
                             //console.log('generateReport-adnan');
-                            that.generateHdi();
+                            that.generateHdi(); // yeh cheez 3
                         @endif
                     } else {
                         $('.hdi_msg').html('<p class="text-danger">Please enter House Details Infographic name to generate it</p>');
