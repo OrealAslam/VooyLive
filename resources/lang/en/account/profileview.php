@@ -56,6 +56,7 @@ return[
     'color3'=>'Color #3',
     'footerBackground'=>'(Footer background color)',
     'selectImage'=>'Select Image:',
+    'selectLogo'=>'Select Logo:',
     'close'=>'Close',
     'uploadImage'=>'Upload Image',
     'uploadLogo'=>'Upload Logo',

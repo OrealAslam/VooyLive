@@ -445,21 +445,31 @@
       <div class="modal-body">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
         	<div class="row">
-		  		<div class="col-md-12">
+				<div class="col-md-12">
 		  			<center>
-					<div id="upload-demo-2"></div>
+					  	<img id="profile-logo" class="img-responsive"/>
 					</center>
 		  		</div>
-		  		<div class="col-md-12" >
+				<div class="col-md-12" >
 					<strong>{{__('account/profileview.selectLogo')}}</strong>
 					<br/>
-					<input type="file" id="upload-2">
+					<input type="file" id="upload-2" class="form-control" accept="image/*" onchange="loadFile(event)">
 					<br/>
 					<center>
         			<button type="button" class="btn btn-default" data-dismiss="modal">{{__('account/profileview.close')}}</button>
 					<button class="btn btn-success upload-result-2">{{__('account/profileview.uploadLogo')}}</button>
 					</center>
 		  		</div>
+				<script>
+					var loadFile = function(event) {
+						var reader = new FileReader();
+						reader.onload = function(){
+						var output = document.getElementById('profile-logo');
+						output.src = reader.result;
+						};
+						reader.readAsDataURL(event.target.files[0]);
+					};
+				</script>
 		  	</div>
       </div>
     </div><!-- /.modal-content -->
@@ -681,53 +691,26 @@
     	$('#profileLogo').modal('show');
     });
 
-    $uploadCrop2 = $('#upload-demo-2').croppie({
-	    viewport: {
-        	width: 2000,
-        	height: 350
-		},
-		boundary:{
-			width: 650,
-			height: 350
-		},
-	    showZoomer: true,
-	    enableResize: true,
-	    enableOrientation: true,
-	    mouseWheelZoom: 'ctrl'
-	});
-
-	$('#upload-2').on('change', function () { 
-		var reader = new FileReader();
-	    reader.onload = function (e) {
-	    	$uploadCrop2.croppie('bind', {
-	    		url: e.target.result
-	    	}).then(function(){
-	    		console.log('jQuery bind complete');
-	    	});
-	    	
-	    }
-	    reader.readAsDataURL(this.files[0]);
-	});
-
-
-	$('.upload-result-2').on('click', function (ev) {
-		$uploadCrop2.croppie('result', {
-			type: 'canvas',
-			size: 'viewport'
-		}).then(function (resp) {
+	$('.upload-result-2').on('click', function() {
 			var _token = $("meta[name='_token']").attr("content");
 			var id = $(".sub").attr("data-pk");
+			var image = $('#profile-logo').attr('src');
 			$.ajax({
 				url: "/account/update-user-photos",
-				type: "POST",
-				data: {"image":resp, _token:_token, id:id, column: "logo"},
+				method: 'post',
+				enctype: 'multipart/form-data',
+				data:{
+					_token:_token,
+					id:id,
+					column: "logo",
+					image: image,
+				},
 				success: function (data) {
-					$(".profile-logo img").attr("src", resp);
 					$('#profileLogo').modal('hide');
+					location.reload();
 					toastr.success('You profile updated successfully', 'Profile updated!');
 				}
 			});
-		});
 	});
 
 	@if(isset($img) && $img == 'logo')
