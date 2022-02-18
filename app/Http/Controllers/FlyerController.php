@@ -66,6 +66,7 @@ class FlyerController extends Controller
                         ];
                         return $this->createFlyer($params);
                     } else {
+                        $flyerPrice=(double)env('FLYERCHARGE');
                         $credit_price = (double)env('FLYERCHARGE_CREDIT') / 100;
                         if ($validateUser->getBalanceCredits() >= $credit_price) {
                             $mCredit=new Credit();
@@ -85,8 +86,19 @@ class FlyerController extends Controller
                             return $this->createFlyer($params);
 
                         } else {
-                            $flyerPrice=(double)env('FLYERCHARGE');
-                            $tax = ($user->City->Province->tax / 100);
+                            if ($request->discount != null) {
+                                $discount = DiscountCode::where([['code', $request->discount], ['times', '>', 0], ['startDate', "<", Carbon::now()->toDateString()], ['endDate', ">", Carbon::now()->toDateString()]])->first();
+                                if ($discount != null) {
+                                    if ($discount->type == 'percent') {
+                                        $flyerPrice = (int)(((100 - (float)$discount->value) * $flyerPrice) / 100);
+                                    } else {
+                                        $flyerPrice = (int)(($flyerPrice - ((float)$discount->value * 100)));
+                                    }
+                                    $discount->times = ($discount->times - 1);
+                                    $discount->save();
+                                }
+                            }                           
+                            $tax = (5 / 100);
                             $taxAmount = ($tax * $flyerPrice);
                             $flyerPrice = (int)round(($flyerPrice + $taxAmount),0);
                             $response=$user->charge($flyerPrice);

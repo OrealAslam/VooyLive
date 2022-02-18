@@ -115,13 +115,13 @@
         {{__('account/propertyFeatureSheet.namePropertyFeatureSheet')}} <h2 id="flyerName"></h2>
         {{__('account/propertyFeatureSheet.amount')}} <h2>{{env('CURRENCY_SYMBOL').(double)env('FLYERCHARGE')/100 }}</h2>
         <!-- <small>{{__('account/propertyFeatureSheet.para4')}}</small> -->
-        <!--
+        
         <div class="form-group">
           <label for="discount" class="control-label">{{__('account/propertyFeatureSheet.couponCode')}}</label>
           <input type="text" id="discount" class="form-control">
           {{__('account/propertyFeatureSheet.haveCoupon')}}
         </div>
-    -->
+   
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default cancel-button">{{__('account/propertyFeatureSheet.cancel')}}</button>
@@ -170,7 +170,7 @@ $(document).ready(function(){
                 that.showDebug('init');
                 that.events();
                 that.process();
-                //console.log(that.params);
+                // console.log(that.params);
             },
             showDebug : function (str) {
                 if (that.params.debug) {
@@ -202,7 +202,6 @@ $(document).ready(function(){
                                     @endif
                                 @endif
                             @else
-                            console.log('JJLLK');
                                 that.generateFlyer();
                             @endif
                         @elseif(Auth::user()->role=='admin')
@@ -240,7 +239,7 @@ $(document).ready(function(){
                     dataType:'json',
                     type:'post',
                     url:"{{ URL::route('generateFlyer') }}",
-                    data: { _token: "{{ csrf_token() }}", flyerName: that.params.flyerName },
+                    data: { _token: "{{ csrf_token() }}", flyerName: that.params.flyerName, discount: $('#discount').val() },
                     beforeSend:function(){
                         that.showDebug('generateFlyer - beforeSend');
                         that.showLoading();

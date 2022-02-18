@@ -115,13 +115,13 @@
         {{__('account/houseDetailsInfographic.nameHouseDetails')}} <h2 id="hdiName"></h2>
         {{__('account/houseDetailsInfographic.amount')}} <h2>{{env('CURRENCY_SYMBOL').(double)env('HDICHARGE')/100 }}</h2>
         <!-- <small>{{__('account/houseDetailsInfographic.para4')}}</small> -->
-        <!--
+        
         <div class="form-group">
           <label for="discount" class="control-label">{{__('account/houseDetailsInfographic.couponCode')}}</label>
           <input type="text" id="discount" class="form-control">
           {{__('account/houseDetailsInfographic.haveCoupon')}}
         </div>
-    -->
+   
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default cancel-button">{{__('account/houseDetailsInfographic.cancel')}}</button>
@@ -188,11 +188,11 @@ $(document).ready(function(){
                                     @endif
                                 @endif
                             @else
-                                that.generateHdi(); // yeh cheez 1
+                                that.generateHdi();
                             @endif
                         @elseif(Auth::user()->role=='admin')
                             //console.log('generateReport-adnan');
-                            that.generateHdi(); // yeh cheez 3
+                            that.generateHdi();
                         @endif
                     } else {
                         $('.hdi_msg').html('<p class="text-danger">Please enter House Details Infographic name to generate it</p>');
@@ -226,7 +226,7 @@ $(document).ready(function(){
                     dataType:'json',
                     type:'post',
                     url:"{{ URL::route('generateHdi') }}",
-                    data: { _token: "{{ csrf_token() }}", hdiName: that.params.hdiName },
+                    data: { _token: "{{ csrf_token() }}", hdiName: that.params.hdiName, discount: $('#discount').val() },
                     beforeSend:function(){
                         that.showDebug('generateHdi - beforeSend');
                         that.showLoading();

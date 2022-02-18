@@ -68,6 +68,7 @@ class HdiController extends Controller
                         ];
                         return $this->createHdi($params);
                     } else {
+                        $hdiPrice=(double)env('HDICHARGE');
                         $credit_price = (double)env('HDICHARGE_CREDIT') / 100;
                         if ($validateUser->getBalanceCredits() >= $credit_price) {
                             $mCredit=new Credit();
@@ -87,8 +88,19 @@ class HdiController extends Controller
                             return $this->createHdi($params);
 
                         } else {
-                            $hdiPrice=(double)env('HDICHARGE');
-                            $tax = ($user->City->Province->tax / 100);
+                            if ($request->discount != null) {
+                                $discount = DiscountCode::where([['code', $request->discount], ['times', '>', 0], ['startDate', "<", Carbon::now()->toDateString()], ['endDate', ">", Carbon::now()->toDateString()]])->first();
+                                if ($discount != null) {
+                                    if ($discount->type == 'percent') {
+                                        $hdiPrice = (int)(((100 - (float)$discount->value) * $hdiPrice) / 100);
+                                    } else {
+                                        $hdiPrice = (int)(($hdiPrice - ((float)$discount->value * 100)));
+                                    }
+                                    $discount->times = ($discount->times - 1);
+                                    $discount->save();
+                                }
+                            }
+                            $tax = (5 / 100);
                             $taxAmount = ($tax * $hdiPrice);
                             $hdiPrice = (int)round(($hdiPrice + $taxAmount),0);
                             $response=$user->charge($hdiPrice);
