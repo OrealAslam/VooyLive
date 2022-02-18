@@ -180,7 +180,7 @@ $(document).ready(function(){
                                 @if($validateUser->subscription('main')->onTrial())
                                     that.generateHdi();
                                 @else
-                                    @if($validateUser->getBalanceCredits()  >= ((float)env('HDICHARGE_CREDIT')/100) )
+                                    @if($validateUser->userCredit()  >= ((float)env('HDICHARGE_CREDIT')/100) )
                                         that.generateHdi();
                                     @else
                                         //show payment option
