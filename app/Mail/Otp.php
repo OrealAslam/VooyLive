@@ -30,6 +30,6 @@ class Otp extends Mailable
      */
     public function build()
     {
-        return $this->subject('OTP code (prevent malicious attacks)')->view('emails.emailCode');
+        return $this->subject('OTP Code')->view('emails.emailCode');
     }
 }

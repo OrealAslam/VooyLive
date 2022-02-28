@@ -104,7 +104,7 @@ class LoginController extends Controller
                                 //     return redirect()->route('match_email_code');
                                 // }
                                 // else{
-                                //     return redirect('dashboard');
+                                    return redirect('dashboard');
                                 // }   
                             }
                             else{
