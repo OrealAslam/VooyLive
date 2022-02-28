@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Auth;
 
 use App\Http\Controllers\Controller;
+use App\Http\Controllers\OtpEmailController;
 use Illuminate\Foundation\Auth\AuthenticatesUsers;
 use Illuminate\Http\Request;
 use Session;
@@ -10,6 +11,10 @@ use Redirect;
 use Auth;
 use App\Category;
 use App\User;
+use Carbon\Carbon;
+// use Mail;
+use App\Mail\Otp;
+use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\Input;
 
 class LoginController extends Controller
@@ -72,16 +77,75 @@ class LoginController extends Controller
                 $user = User::where('email', $credentials['email'])->first();
 
                 $orderMoreCredit = Category::where('type',1)->first();
-
+          
                 if($user->user_type == 2 && $user->verified == 0){
                     return redirect(Route('notActiveuser'));
                 }else{
                     if (auth()->attempt(['email' => $request->input('email'), 'password' => $request->input('password')])){
+
                         if($user['verified'] == 1){
+                            // user IP store in DB
+                            $db_ip = $user->ip_address;
+                            
+                            // check if the user ip match with DB ip or not ??
+                            if($request->ip() == $db_ip){
+                                // match current time and last login time 
+                                 
+                                $curr_time = Carbon::now();
+
+
+                                $db_time = $user["otp_created_at"];
+
+                                // $obj = new OtpEmailController;       
+
+                                // match system time and db time
+                                               
+                                // if($obj->calcTimeDiff($curr_time->toTimeString(), $db_time) >= 24){
+                                //     return redirect()->route('match_email_code');
+                                // }
+                                // else{
+                                //     return redirect('dashboard');
+                                // }   
+                            }
+                            else{
+                                // redirect to otp verify view
+
+                                $code = mt_rand(11111, 99999);
+
+                                $data = [
+                                    'otp' => $code
+                                ];
+
+                                $email = $user->email;
+                                session(['user_email'=> $email]);
+
+                                session()->put('otpCode', $code);
+
+                                // // get sthe system current time and format it.
+                                // date_default_timezone_set('Asia/Karachi');
+                                // $currentDateTime=date('m/d/Y H:i:s');
+                                // $createTime = date('h:i', strtotime($currentDateTime));
+                                
+                                $create_time = Carbon::now();
+
+                                
+                                // sending OTP via email
+                                Mail::to($email)->send(new Otp($data));
+
+                                // UPDATE EMAIL_OTP_FIELD, ip, otp_creation_date in DB
+                                User::where('email', $email)->update([
+                                    'email_otp_code' => $code,
+                                    'ip_address' =>$request->ip(),
+                                    'otp_created_at' => $create_time->toTimeString(),
+                                ]);
+
+                                return redirect()->route('match_email_code');
+                            }
+
                             if($request['orderCredit'] == 'orderMoreCredit'){
                                 return redirect()->route('order',$orderMoreCredit->slug);
                             }
-                            return redirect('dashboard');
+                            // return redirect('dashboard');
                         }else{
                             return redirect(Route('registerSuccess'));
                         }

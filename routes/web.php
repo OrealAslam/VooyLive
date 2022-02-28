@@ -13,6 +13,8 @@
 
 
 use Illuminate\Http\Request;
+use App\Http\Controllers\OtpEmailController;
+// use App\Http\Controllers\EmailVerification;
 
 Route::get('ecards/demo', 'EcardController@frontEcardsDemo')->name('front.ecards.demo');
 Route::post('ecards/demo/store', 'EcardController@frontEcardsDemoStore')->name('front.ecards.demo.store');
@@ -424,6 +426,10 @@ Route::match(['get', 'post'], '/house-details-infographic-html', [
 
 Route::get('login', 'Auth\LoginController@showLoginForm')->name('login');
 Route::post('login', 'Auth\LoginController@login');
+
+Route::get('match-email-code', 'OtpEmailController@verifyOtpCodeView')->name('match_email_code');
+
+Route::post('verify', 'OtpEmailController@verifyOtpCode')->name('verify_email_code');
 Route::post('logout', 'Auth\LoginController@logout')->name('logout');
 
 // Registration Routes...
