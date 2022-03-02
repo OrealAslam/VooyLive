@@ -47,7 +47,7 @@ class OtpEmailController extends Controller
         $currentTime = Carbon::now();   
         $resultantTime = $this->calculateTimeDifference($currentTime, $user->otp_created_at);
 
-        if($resultantTime >= 1){
+        if($resultantTime >= 5){
             User::where('email', $user->email)->update([
                 'otp_entered_at' => $currentTime->format('d-m-Y H:i:s'),
                 'email_otp_code' => 'Null',
