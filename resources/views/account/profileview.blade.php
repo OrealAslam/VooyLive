@@ -176,6 +176,35 @@
 								<h5>{{__('account/profileview.changePassword')}}</h5>
 							</a>
 						</div>
+						<br>
+						<!-- 2FA active/disable -->
+						<div class="col-md-12">		
+							<form action="{{ route('2fa/change') }}" class="profile-right-third-sub change-password-box" method="post">		
+							
+								{{ csrf_field() }}
+							
+								<h5 for="2faCheck">2FA Authentication</h5>
+								
+								@if($user['2FA_status'] == 'enable')
+								<input type="radio" class="form-check-input" name="faStatus" id="enable" value="enable" checked>
+								<label for="enable">enable</label>
+
+								<input type="radio" class="form-check-input" name="faStatus" id="disable" value="disable" >
+								<label for="disable">disable</label>
+								@endif
+
+								@if($user['2FA_status'] == 'disable')
+
+								<input type="radio" class="form-check-input" name="faStatus" id="enable" value="enable" >
+								<label for="enable">enable</label>
+								
+								<input type="radio" class="form-check-input" name="faStatus" id="disable" value="disable" checked>
+								<label for="disable">disable</label>
+								@endif
+								<br>
+								<button  type="submit" name="submit" class="btn btn-light">Change</button>
+							</form>
+						</div>
 						<div class="col-md-12 mt-10">
 							<div class="faqs-link-box">
 								<p>{{__('account/profileview.haveQuestion')}}</p>

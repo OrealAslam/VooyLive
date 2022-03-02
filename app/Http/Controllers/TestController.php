@@ -32,6 +32,13 @@ define('HDOM_SMARTY_AS_TEXT', 1);
 class TestController extends Controller
 {
 
+    public function index(){
+        //unset cookie
+        return 'test';
+    }
+
+    
+
     private function file_get_html(
         $url,
         $use_include_path = false,

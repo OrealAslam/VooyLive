@@ -14,7 +14,8 @@
 
 use Illuminate\Http\Request;
 use App\Http\Controllers\OtpEmailController;
-// use App\Http\Controllers\EmailVerification;
+use App\Http\Controllers\Disable2fa;
+use App\Http\Controllers\OtpCookieController;
 
 Route::get('ecards/demo', 'EcardController@frontEcardsDemo')->name('front.ecards.demo');
 Route::post('ecards/demo/store', 'EcardController@frontEcardsDemoStore')->name('front.ecards.demo.store');
@@ -392,7 +393,7 @@ Route::get('/videos', ['as' => 'video', 'uses' => 'HomeController@video'])->name
 Route::get('/survey', ['as' => 'survey', 'uses' => 'SurveyController@survey'])->middleware('auth');
 Route::post('/survey/store', ['as' => 'survey.store', 'uses' => 'SurveyController@surveyStore']);
 
-Route::get('/test', ['as' => 'test', 'uses' => 'TestController@testEmail'])->name('testEmail?mail=');
+Route::get('/test', ['as' => 'test', 'uses' => 'TestController@index'])->name('testEmail?mail=');
 
 Route::get('/', 'HomeController@index')->name('home');
 
@@ -430,6 +431,8 @@ Route::post('login', 'Auth\LoginController@login');
 Route::get('match-email-code', 'OtpEmailController@verifyOtpCodeView')->name('match_email_code');
 
 Route::post('verify', 'OtpEmailController@verifyOtpCode')->name('verify_email_code');
+
+Route::get('resend', 'OtpEmailController@resendOtp')->name('resend/otp');
 Route::post('logout', 'Auth\LoginController@logout')->name('logout');
 
 // Registration Routes...
@@ -648,6 +651,10 @@ Route::post('/account/updateCard', 'AccountCont@updateCardInfo');
 Route::get('/account/cancelSubscription', 'HomeController@cancelSubscription')->middleware('auth');
 Route::post('/account/updateSubscription', 'HomeController@updateSubscription')->middleware('auth');
 Route::get('/account/profileview', 'HomeController@profileview')->name('profileview')->middleware('auth');
+
+// disable 2FA route
+Route::post('/disable', 'Disable2fa@disableOtpAuth')->name('2fa/change')->middleware('auth');
+
 Route::get('/account/profile', 'AccountCont@profile')->middleware('auth');
 Route::get('/account/update-user-info', 'AccountController@updateUserInfo')->middleware('auth');
 Route::post('/account/update-user-photos', 'HomeController@updateUserPhotos')->middleware('auth');

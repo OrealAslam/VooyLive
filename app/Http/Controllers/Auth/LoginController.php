@@ -4,6 +4,7 @@ namespace App\Http\Controllers\Auth;
 
 use App\Http\Controllers\Controller;
 use App\Http\Controllers\OtpEmailController;
+use App\Http\Controllers\OtpCookieController;
 use Illuminate\Foundation\Auth\AuthenticatesUsers;
 use Illuminate\Http\Request;
 use Session;
@@ -11,6 +12,7 @@ use Redirect;
 use Auth;
 use App\Category;
 use App\User;
+use Symfony\Component\HttpFoundation\Cookie;
 use Carbon\Carbon;
 // use Mail;
 use App\Mail\Otp;
@@ -19,16 +21,6 @@ use Illuminate\Support\Facades\Input;
 
 class LoginController extends Controller
 {
-    /*
-    |--------------------------------------------------------------------------
-    | Login Controller
-    |--------------------------------------------------------------------------
-    |
-    | This controller handles authenticating users for the application and
-    | redirecting them to your home screen. The controller uses a trait
-    | to conveniently provide its functionality to your applications.
-    |
-    */
 
     use AuthenticatesUsers;
 
@@ -48,6 +40,7 @@ class LoginController extends Controller
     {
         $this->middleware('guest')->except('logout');
     }
+
 
     /**
      * Create a new controller instance.
@@ -84,62 +77,39 @@ class LoginController extends Controller
                     if (auth()->attempt(['email' => $request->input('email'), 'password' => $request->input('password')])){
 
                         if($user['verified'] == 1){
+                            // checkbox cookie set or not ?
+                            // $cookieCheck = new OtpEmailController();
+                            // $cookie = $cookieCheck->OtpCookieCheck($request);
+                            // if($cookie){    
+                            //     return redirect('dashboard'); 
+                            // }
                             // user IP store in DB
                             $db_ip = $user->ip_address;
-                            
                             // check if the user ip match with DB ip or not ??
                             if($request->ip() == $db_ip){
-                                // match current time and last login time 
-                                 
-                                $curr_time = Carbon::now();
-
-
-                                $db_time = $user["otp_created_at"];
-
-                                // $obj = new OtpEmailController;       
-
-                                // match system time and db time
-                                               
-                                // if($obj->calcTimeDiff($curr_time->toTimeString(), $db_time) >= 24){
-                                //     return redirect()->route('match_email_code');
-                                // }
-                                // else{
-                                //     return redirect('dashboard');
-                                // }   
+                                return redirect('dashboard');                               
                             }
                             else{
-                                // redirect to otp verify view
 
-                                $code = mt_rand(11111, 99999);
+                                // redirect to dashboard if otp is disabled
+                                if($user['2FA_status'] == 'disable'){
 
-                                $data = [
-                                    'otp' => $code
-                                ];
+                                    User::where('userId', Auth::User()->userId)->update([
+                                        'ip_address' => $request->ip(),
+                                    ]);
+                                    return redirect('dashboard');
+                                }
+                                if($user['2FA_status'] == 'enable'){
+                                    
+                                    $sendOtpViaEmail = $this->sendOtpViaEmail($request, $user->email);
+                                   if($sendOtpViaEmail == true){
+                                        return redirect(route('match_email_code'));
+                                   }
+                                   else{
+                                       dd(false);
+                                   }
 
-                                $email = $user->email;
-                                session(['user_email'=> $email]);
-
-                                session()->put('otpCode', $code);
-
-                                // // get sthe system current time and format it.
-                                // date_default_timezone_set('Asia/Karachi');
-                                // $currentDateTime=date('m/d/Y H:i:s');
-                                // $createTime = date('h:i', strtotime($currentDateTime));
-                                
-                                $create_time = Carbon::now();
-
-                                
-                                // sending OTP via email
-                                Mail::to($email)->send(new Otp($data));
-
-                                // UPDATE EMAIL_OTP_FIELD, ip, otp_creation_date in DB
-                                User::where('email', $email)->update([
-                                    'email_otp_code' => $code,
-                                    'ip_address' =>$request->ip(),
-                                    'otp_created_at' => $create_time->toTimeString(),
-                                ]);
-
-                                return redirect()->route('match_email_code');
+                                }
                             }
 
                             if($request['orderCredit'] == 'orderMoreCredit'){
@@ -172,6 +142,31 @@ class LoginController extends Controller
             }
         }
     }
+
+
+
+
+    public function sendOtpViaEmail($request, $userEmail){
+
+        $otpCode = mt_rand(111111, 999999);
+        $data = [
+            'otp' => $otpCode
+        ];
+        // sending mail
+        Mail::to($userEmail)->send(new Otp($data));
+
+        $create_time = Carbon::now();
+        
+        User::where('email', $userEmail)->update([
+            'email_otp_code' => $otpCode,
+            'ip_address' =>$request->ip(),
+            'otp_created_at' => $create_time->format('d-m-Y H:i:s'),
+        ]);
+
+        return true;
+    }
+
+
 
     /**
      * Log the user out of the application.

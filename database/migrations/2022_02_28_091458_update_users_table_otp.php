@@ -14,10 +14,11 @@ class UpdateUsersTableOtp extends Migration
     public function up()
     {
         Schema::table('users', function (Blueprint $table) {
-            $table->string('email_otp_code');
-            $table->string('ip_address');
-            $table->string('otp_created_at');
-            $table->string('otp_entered_at');
+            $table->string('email_otp_code', 255)->nullable();
+            $table->string('ip_address', 255)->nullable();
+            $table->string('otp_created_at', 255)->nullable();
+            $table->string('otp_entered_at', 255)->nullable();
+            $table->string('2FA_status', 255)->default('enable');
         });
     }
 
