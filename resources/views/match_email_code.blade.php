@@ -25,14 +25,22 @@ function maskEmailAddress($email){
 @endphp
 
     <div class="container p-2">
+        <!-- <div class="row">
+            <div class="navbar-brand">
+                <img src="{{ url('img/dharro.png')}}" style="padding-left: 10px; width: 120px;" class="logo-header-menu" alt="Community Feature Sheet&reg;">
+            </div>
+        </div> -->
+
         <div class="row mt-4">
             <div class="col-md-5 offset-md-4 col-8 offset-3">
                 <div class="card">
                     <div class="card-header">
-                        <h4 class="text-center mb-1"><i>Check your 6-digit OTP code</i></h4>
-                        <p class="text-muted" style="font-size: 18px; margin-top: 10px;">Enter the code send to your email address 
-                        <span class="font-weight-bold">{{ maskEmailAddress( Auth::user()->email ) }}</span>. Didn't get it.?
-                        <a class="text-danger" href="{{ route('resend/otp') }}">Resend Code</a></p>
+                        <img src="{{ url('img/dharro.png')}}" style="padding-left: 10px; width: 140px;" class="logo-header-menu img-fluid d-block mx-auto" alt="Community Feature Sheet&reg;">
+                        <hr>
+                        <h4 class="text-center mb-1" style="font-size: 18px;"><i>Check your 6-digit OTP code</i></h4>
+                        <p class="text-muted" style="font-size: 16px; margin-top: 10px;">Enter the code send to your email address 
+                        <span class="font-weight-bold">{{ maskEmailAddress( Auth::user()->email ) }}</span>. Didn't get it?
+                        <a class="text-primary font-weight-bolder" href="{{ route('resend/otp') }}">Resend Code</a></p>
                     </div>
 
                     <div class="card-body">
@@ -41,41 +49,66 @@ function maskEmailAddress($email){
                             <input type="number" name="system_generated_code" class="form-control" placeholder="Enter your code" autofocus>
                             <br>
                             <div class="col-10 offset-1">
-                                <input type="checkbox" class="form-check-input" name="remember_device" id="remember_device">
+                                <input type="checkbox" class="form-check-input" name="remember_device" id="remember_device" checked>
                                 <label class=" form-label text-muted" for="remember_device">Remember this device for 30 days </label>
                             </div>
                             <div class="text-center">
-                                <button type="submit" name="submit" class="btn btn-light" >Submit</button><br>
+                                <button type="sumit" name="submit" class="btn btn-light" id="formSubmit">Submit</button><br>
                             </div>
-                        </form>
-                    </div>
-                    
-                        @if($errors->any())
-                        <div class="card-footer">
-                            @foreach($errors->all() as $error)                            
-                            <span class="text-danger">{{ $error }}</span>
-                            @endforeach
-                        </div>
+                            @if($errors->any())                        
+                        @foreach($errors->all() as $error)                            
+                           <ul>
+                               <li class="text-danger" style="font-size: 15px;"><span>{{ $error }}</span></li>
+                           </ul>
+                        @endforeach                        
                         @endif
 
                         @if(\Session::has('status') )
-                        <span class="text-danger text-center">{{ Session::get('status') }}</span>
+                            <span class="text-danger text-center" style="font-size: 15px;">{{ Session::get('status') }}</span>
                         @endif
 
                         <!-- resend OTP -->
                         @if(\Session::has('notFound') )
-                        <span class="text-danger text-center">{{ Session::get('notFound') }}</span>
+                            <span class="text-danger text-center" style="font-size: 15px;">{{ Session::get('notFound') }}</span>
                         @endif
 
                         <!-- otp expire message -->
                         @if(\Session::has('otpExpire') )
-                        <span class="text-danger text-center" style="font-size: 18px;">{{ Session::get('otpExpire') }}</span><br>
-                        <span class="text-danger text-center mt-2" style="font-size: 18px;">re-enter OTP code send to your email address</span>
+                            <span class="text-danger text-center" style="font-size: 15px;">{{ Session::get('otpExpire') }}</span><br>
+                            <span class="text-danger text-center mt-2" style="font-size: 15px;">re-enter OTP code send to your email address</span>
                         @endif
+                        </form>
+                    </div>
+
+                    <div class="card-footer p-1" style="font-size: 14px; background-color: rgb(250,55,76);">
+                        <p style=" padding: 8px; background-color: rgb(250,55,76); color: #fff;">{{__('layouts_footer.copyright')}} &copy; {{ date('Y') }}, {{__('layouts_footer.para3')}}</p>
+                    </div>  
                 </div>
+
+                <!-- </div> -->
             </div>
         </div>
     </div>
     
+
+<script>
+$(document).ready(function(){
+    $("#formSubmit").on('change', function(){
+
+    });
+});
+
+
+function createCookie('otpCookie', 'otpCookieSet', 1) {
+    var expires = "20";
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime() + days * 24 * 60 * 60 * 1000);
+        expires = "; expires=" + date.toUTCString();
+    }
+        document.cookie = name + "=" + value + expires + "; path=/";
+    }
+</script>
+
 </body>
 </html>

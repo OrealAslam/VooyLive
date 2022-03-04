@@ -13,9 +13,9 @@
 
 
 use Illuminate\Http\Request;
+use Illuminate\Http\Response;
 use App\Http\Controllers\OtpEmailController;
 use App\Http\Controllers\Disable2fa;
-use App\Http\Controllers\OtpCookieController;
 
 Route::get('ecards/demo', 'EcardController@frontEcardsDemo')->name('front.ecards.demo');
 Route::post('ecards/demo/store', 'EcardController@frontEcardsDemoStore')->name('front.ecards.demo.store');
@@ -634,7 +634,7 @@ Route::get('/dashboard', 'HomeController@dashboard')->name('dashboard')->middlew
 Route::get('/admin-dashboard', 'AdminController@adminDashboard')->name('adminDashboard')->middleware('auth');
 
 Route::get('/order-report/{name}', 'HomeController@orderReport')->name('orderReport');
-
+Route::get('destroy/cookie', 'OtpCookieController@unsetCookie');
 //Route::get('/account','AccountCont@index');
 
 Route::get('/account/product/detail/{id}', 'TransactionController@transactioProductDetail')->name('product.detail');

@@ -4,9 +4,10 @@ namespace App\Http\Controllers\Auth;
 
 use App\Http\Controllers\Controller;
 use App\Http\Controllers\OtpEmailController;
-use App\Http\Controllers\OtpCookieController;
+// use App\Http\Controllers\OtpCookieController;
 use Illuminate\Foundation\Auth\AuthenticatesUsers;
 use Illuminate\Http\Request;
+use Illuminate\Http\Response;
 use Session;
 use Redirect;
 use Auth;
@@ -14,6 +15,7 @@ use App\Category;
 use App\User;
 use Symfony\Component\HttpFoundation\Cookie;
 use Carbon\Carbon;
+use DateTime;
 // use Mail;
 use App\Mail\Otp;
 use Illuminate\Support\Facades\Mail;
@@ -76,41 +78,37 @@ class LoginController extends Controller
                 }else{
                     if (auth()->attempt(['email' => $request->input('email'), 'password' => $request->input('password')])){
 
-                        if($user['verified'] == 1){
-                            // checkbox cookie set or not ?
-                            // $cookieCheck = new OtpEmailController();
-                            // $cookie = $cookieCheck->OtpCookieCheck($request);
-                            // if($cookie){    
-                            //     return redirect('dashboard'); 
-                            // }
-                            // user IP store in DB
-                            $db_ip = $user->ip_address;
-                            // check if the user ip match with DB ip or not ??
-                            if($request->ip() == $db_ip){
-                                return redirect('dashboard');                               
-                            }
-                            else{
-
-                                // redirect to dashboard if otp is disabled
-                                if($user['2FA_status'] == 'disable'){
-
-                                    User::where('userId', Auth::User()->userId)->update([
-                                        'ip_address' => $request->ip(),
-                                    ]);
-                                    return redirect('dashboard');
+                        if($user['verified'] == 1){                            
+                                                                               
+                                // user IP store in DB
+                                $db_ip = $user->ip_address;
+                                // check if the user ip match with DB ip or not ??
+                                if($request->ip() == $db_ip){
+                                    return redirect('dashboard');                               
                                 }
-                                if($user['2FA_status'] == 'enable'){
-                                    
-                                    $sendOtpViaEmail = $this->sendOtpViaEmail($request, $user->email);
-                                   if($sendOtpViaEmail == true){
-                                        return redirect(route('match_email_code'));
-                                   }
-                                   else{
-                                       dd(false);
-                                   }
+                                else{
 
+                                    // redirect to dashboard if otp is disabled
+                                    if($user['2FA_status'] == 'disable'){
+
+                                        User::where('userId', Auth::User()->userId)->update([
+                                            'ip_address' => $request->ip(),
+                                        ]);
+                                        return redirect('dashboard');
+                                    }
+                                    if($user['2FA_status'] == 'enable'){
+                                        
+                                        $sendOtpViaEmail = $this->sendOtpViaEmail($request, $user->email);
+                                    if($sendOtpViaEmail == true){
+                                            return redirect(route('match_email_code'));
+                                    }
+                                    else{
+                                        dd(false);
+                                    }
+
+                                    }
                                 }
-                            }
+        
 
                             if($request['orderCredit'] == 'orderMoreCredit'){
                                 return redirect()->route('order',$orderMoreCredit->slug);
@@ -142,9 +140,6 @@ class LoginController extends Controller
             }
         }
     }
-
-
-
 
     public function sendOtpViaEmail($request, $userEmail){
 

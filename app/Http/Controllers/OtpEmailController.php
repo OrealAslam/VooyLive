@@ -3,19 +3,19 @@
 namespace App\Http\Controllers;
 use Illuminate\Foundation\Auth\AuthenticatesUsers;
 use App\User;
-use Redirect;
+// use Redirect;
 use Session;
 use App\Mail\Otp;
 use App\Http\Controllers\Auth\LoginController;
 use Illuminate\Support\Facades\Mail;
 use Carbon\Carbon;
 use Illuminate\Http\Request;
-use Illuminate\Http\Responce;
+use Illuminate\Http\Response;
 use DateTime;
 use Auth;
 use Symfony\Component\HttpFoundation\Cookie;
 use Illuminate\Support\Facades\Input;
-use App\Http\Controllers\OtpCookieController;
+// use App\Http\Controllers\OtpCookieController;
 
 class OtpEmailController extends Controller
 {
@@ -42,7 +42,6 @@ class OtpEmailController extends Controller
         $this->validate($request, [
             'system_generated_code' => 'required|min:6|max:6'
         ]);
-
         $user = User::find(Auth::User()->userId);
         $currentTime = Carbon::now();   
         $resultantTime = $this->calculateTimeDifference($currentTime, $user->otp_created_at);
@@ -58,16 +57,16 @@ class OtpEmailController extends Controller
         } else {            
             $user_input_code = $request["system_generated_code"];       
             
-            if($user_input_code == $user->email_otp_code){
-                // store OTP entered time in DB
-                $enteredTime = Carbon::now();
+            if($user_input_code == $user->email_otp_code){              
+                    // store OTP entered time in DB
+                    $enteredTime = Carbon::now();
 
-                User::where('email', $user->email)->update([
-                    'otp_entered_at' => $enteredTime->format('d-m-Y H:i:s'),
-                    'email_otp_code' => 'Null',
-                ]);
-                $this->otpCheckBox($request);
-                return redirect('dashboard');
+                    User::where('email', $user->email)->update([
+                        'otp_entered_at' => $enteredTime->format('d-m-Y H:i:s'),
+                        'email_otp_code' => 'Null',
+                    ]);
+                    return redirect('dashboard');
+                
             }
             else{
                 return redirect(route('match_email_code'))->with('status', 'Invalid OTP entered!!');
@@ -90,17 +89,5 @@ class OtpEmailController extends Controller
             dd('resend failed');
         }
 
-    }
-
-
-    public function otpCheckBox($request){
-        $check = new OtpCookieController();
-        return $check->setOtpCookie($request);
-    }
-
-    public function OtpCookieCheck($request){
-        $CookieSetOrNot = new OtpCookieController(); 
-        $check = $CookieSetOrNot->getOtpCookie($request);
-        return $check;
     }
 }
