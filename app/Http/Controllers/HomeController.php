@@ -22,6 +22,8 @@ use App\Jobs\ProcessEmails;
 use Illuminate\Support\Facades\Storage;
 use App\SmtpSetting;
 use App;
+use Cookie;
+
 class HomeController extends Controller
 {
 
@@ -33,10 +35,10 @@ class HomeController extends Controller
     public function index()
     {
         $settingsData = Setting::pluck('value', 'slug')->all();
-        view()->share('settingsData',$settingsData);
+        view()->share('settingsData', $settingsData);
 
-        $product = Product::where('is_home_page','1')->get()->take(4);
-        return view('home',compact('product','settingsData'));
+        $product = Product::where('is_home_page', '1')->get()->take(4);
+        return view('home', compact('product', 'settingsData'));
     }
 
     /**
@@ -44,15 +46,18 @@ class HomeController extends Controller
      *
      * @return response()
      */
-    public function dashboard()
+    public function dashboard(Request $request)
     {
+
         $data['user'] = Auth::User();
-        $cityArray = City::pluck('name','id')->all();
+        $cityArray = City::pluck('name', 'id')->all();
         $cityArray = json_encode($cityArray);
-        return view('account.dashboard',$data, compact('cityArray'));
+
+        return view('account.dashboard', $data, compact('cityArray'));
     }
 
-    public function profileview(Request $request){
+    public function profileview(Request $request)
+    {
 
         $data['profileColour'] = ProfileColor::get();
         if ($request->has('img')) {
@@ -60,26 +65,26 @@ class HomeController extends Controller
         }
 
         $data['user'] = $user = Auth::User();
-        $details=Auth::User()->ClientDetail;
+        $details = Auth::User()->ClientDetail;
         $data['plan'] = Plan::where('planId', $user->plan)->first();
-        if($details==null)
-            $details=new ClientDetail;
-        $data['details']=$details;
-        $data['sidebar']=view('account.accountSidebar',$data);
+        if ($details == null)
+            $details = new ClientDetail;
+        $data['details'] = $details;
+        $data['sidebar'] = view('account.accountSidebar', $data);
 
-        $cityArray = City::pluck('name','id')->all();
-        $data['cityArray']=$cityArray;
+        $cityArray = City::pluck('name', 'id')->all();
+        $data['cityArray'] = $cityArray;
 
         $data['default_colors'] = [
-                            'colora'=> '#000000',
-                            'colorb'=> '#ffffff',
-                            'colorc'=> '#aaaaaa',
-                            'colord'=> '#e06666',
-                            'colore'=> '#aaaaaa',
-                            'colorf'=> '#000000',
-                        ];
+            'colora' => '#000000',
+            'colorb' => '#ffffff',
+            'colorc' => '#aaaaaa',
+            'colord' => '#e06666',
+            'colore' => '#aaaaaa',
+            'colorf' => '#000000',
+        ];
 
-        return view('account.profileview',$data);
+        return view('account.profileview', $data);
     }
 
     /**
@@ -88,15 +93,14 @@ class HomeController extends Controller
      * @return response()
      */
     public function orderReport($name)
-    {      
-        if($name == 'communityFeatureSheet'){
+    {
+        if ($name == 'communityFeatureSheet') {
 
-            $cat = Category::orderBy('type','asc')->first();
-            return view('orderRecipe',compact('name','cat'));
+            $cat = Category::orderBy('type', 'asc')->first();
+            return view('orderRecipe', compact('name', 'cat'));
         }
 
         return redirect()->route($name);
-
     }
 
     /**
@@ -104,72 +108,75 @@ class HomeController extends Controller
      *
      * @return response()
      */
-    public function communityFeatureSheet(){
+    public function communityFeatureSheet()
+    {
 
-        $data['user']=Auth::User();
+        $data['user'] = Auth::User();
 
         $data['hide_top_address_search'] = true;
 
-        $cityArray = City::pluck('name','id')->all();
-        
+        $cityArray = City::pluck('name', 'id')->all();
+
         $cityArray = json_encode($cityArray);
-        
+
         $parentId = Auth::User()->parent_id;
-        
-        $data['userPlan'] = User::where('userId',$parentId)->first();
-        $data['validateUser'] = getValidateUser();
-        
-        return view('account.communityFeatureSheet',$data, compact('cityArray'));
-    }
 
-    /**
-     * Write code on Method
-     *
-    * @return response()
-    */
-     public function propertyFeatureSheet(){
-        $data['user']=$user=Auth::User();
-        $data['user_details']=$user_details=Auth::User()->ClientDetail;
-        $cityArray = City::pluck('name','id')->all();
-        $cityArray = json_encode($cityArray);
-        $showMissingInfoModal = false;
-
-        if (empty($user->firstName) && empty($user->lastName)) {
-            $showMissingInfoModal = true;
-        }
-        
-        if (empty($user_details->phone)) {
-            $showMissingInfoModal = true;
-        }
-        
-        if (empty($user_details->email)) {
-            $showMissingInfoModal = true;
-        }
-        
-        if (!isset($user_details->photo)) {
-            $showMissingInfoModal = true;
-        }
-        
-        if (!isset($user_details->logo)) {
-            $showMissingInfoModal = true;
-        }
-
+        $data['userPlan'] = User::where('userId', $parentId)->first();
         $data['validateUser'] = getValidateUser();
 
-        $data['showMissingInfoModal'] = $showMissingInfoModal;
-
-        return view('account.propertyFeatureSheet',$data, compact('cityArray'));
+        return view('account.communityFeatureSheet', $data, compact('cityArray'));
     }
 
     /**
      * Write code on Method
      *
      * @return response()
-    */
-    public function houseDetailsInfographic(){
-        $data['user']=$user=Auth::User();
-        $data['user_details']=$user_details=Auth::User()->ClientDetail;
-        $cityArray = City::pluck('name','id')->all();
+     */
+    public function propertyFeatureSheet()
+    {
+        $data['user'] = $user = Auth::User();
+        $data['user_details'] = $user_details = Auth::User()->ClientDetail;
+        $cityArray = City::pluck('name', 'id')->all();
+        $cityArray = json_encode($cityArray);
+        $showMissingInfoModal = false;
+
+        if (empty($user->firstName) && empty($user->lastName)) {
+            $showMissingInfoModal = true;
+        }
+
+        if (empty($user_details->phone)) {
+            $showMissingInfoModal = true;
+        }
+
+        if (empty($user_details->email)) {
+            $showMissingInfoModal = true;
+        }
+
+        if (!isset($user_details->photo)) {
+            $showMissingInfoModal = true;
+        }
+
+        if (!isset($user_details->logo)) {
+            $showMissingInfoModal = true;
+        }
+
+        $data['validateUser'] = getValidateUser();
+
+        $data['showMissingInfoModal'] = $showMissingInfoModal;
+
+        return view('account.propertyFeatureSheet', $data, compact('cityArray'));
+    }
+
+    /**
+     * Write code on Method
+     *
+     * @return response()
+     */
+    public function houseDetailsInfographic()
+    {
+        $data['user'] = $user = Auth::User();
+        $data['user_details'] = $user_details = Auth::User()->ClientDetail;
+        $cityArray = City::pluck('name', 'id')->all();
         $cityArray = json_encode($cityArray);
         $showMissingInfoModal = false;
         $data['validateUser'] = getValidateUser();
@@ -177,53 +184,54 @@ class HomeController extends Controller
         if (empty($user->firstName) && empty($user->lastName)) {
             $showMissingInfoModal = true;
         }
-        
+
         if (empty($user_details->phone)) {
             $showMissingInfoModal = true;
         }
-        
+
         if (empty($user_details->email)) {
             $showMissingInfoModal = true;
         }
-        
+
         if (!isset($user_details->photo)) {
             $showMissingInfoModal = true;
         }
-        
+
         if (!isset($user_details->logo)) {
             $showMissingInfoModal = true;
         }
 
         $data['showMissingInfoModal'] = $showMissingInfoModal;
 
-        return view('account.houseDetailsInfographic',$data, compact('cityArray'));
+        return view('account.houseDetailsInfographic', $data, compact('cityArray'));
     }
 
     /**
-    * Write code on Method
-    *
-    * @return response()
-    */
-    public function referAColleague(){
-        $user=Auth::User();
+     * Write code on Method
+     *
+     * @return response()
+     */
+    public function referAColleague()
+    {
+        $user = Auth::User();
         if (empty($user->referral_code)) {
-            
+
             $referral_code = strtoupper($user->firstName);
             $referral_code = preg_replace('/\s+/', '', $referral_code);
             $userRecCount = User::where('referral_code', $referral_code)->count();
-            
+
             if ($userRecCount == 0) {
-              
+
                 $user->referral_code = $referral_code;
                 $user->save();
                 //User::where('userId', $user->userId)->update(['referral_code'=>$referral_code]);
             } else {
-            
-                $i=1;
+
+                $i = 1;
                 do {
-                    $userRecCount = User::where('referral_code', $referral_code.$i)->count();
+                    $userRecCount = User::where('referral_code', $referral_code . $i)->count();
                     if ($userRecCount == 0) {
-                        $user->referral_code = $referral_code.$i;
+                        $user->referral_code = $referral_code . $i;
                         $user->save();
                         break;
                     } else {
@@ -232,13 +240,13 @@ class HomeController extends Controller
                 } while (true);
             }
         }
-        
-        $data['user']=$user=Auth::User();
+
+        $data['user'] = $user = Auth::User();
         //$data['sidebar']=view('account.accountSidebar',$data);
         //$data['transactions']=Auth::User()->transactions()->paginate(config('app.paginate'));
         //$data['referrals']=Auth::User()->referrals()->paginate(config('app.paginate'));
-        
-        return view('account.referAColleague',$data);
+
+        return view('account.referAColleague', $data);
     }
 
     /**
@@ -254,7 +262,7 @@ class HomeController extends Controller
         list(, $data)      = explode(',', $data);
 
         $data = base64_decode($data);
-        $imageName = "vendor/".time().'.png';
+        $imageName = "vendor/" . time() . '.png';
         \Log::info($imageName);
         file_put_contents(public_path($imageName), $data);
 
@@ -264,8 +272,7 @@ class HomeController extends Controller
         }
 
         ClientDetail::where('userId', $request->id)->update([$request->column => $imageName]);
-
-     }
+    }
 
     /**
      * Write code on Method
@@ -273,10 +280,10 @@ class HomeController extends Controller
      * @return response()
      */
     public function purchasePlan()
-    {   
+    {
         $plan = Plan::get();
-        $userCreateSubUser = User::where('parent_id',Auth::User()->userId)->count();
-        return view('purchasePlan',compact('userCreateSubUser','plan'));
+        $userCreateSubUser = User::where('parent_id', Auth::User()->userId)->count();
+        return view('purchasePlan', compact('userCreateSubUser', 'plan'));
     }
 
     /**
@@ -287,8 +294,8 @@ class HomeController extends Controller
     public function createPlan()
     {
         $user = Auth::User();
-        $userCreateSubUser = User::where('parent_id',Auth::User()->userId)->count();
-        return view('createPlan',compact('userCreateSubUser','user'));
+        $userCreateSubUser = User::where('parent_id', Auth::User()->userId)->count();
+        return view('createPlan', compact('userCreateSubUser', 'user'));
     }
 
     /**
@@ -300,7 +307,7 @@ class HomeController extends Controller
     {
         // grab the user
         $user = auth()->user();
-        
+
         $ccToken = $request->input('cc_token');
 
         $plan = $request->input('plan');
@@ -326,13 +333,13 @@ class HomeController extends Controller
             $subscriptionObj->save();
 
             $planObj = Plan::where('planId', $plan)->first();
-            if($planObj->is_team){
-                $user->update(['user_type' => 1]);                    
-            }else{
+            if ($planObj->is_team) {
+                $user->update(['user_type' => 1]);
+            } else {
                 $user->update(['user_type' => NULL]);
             }
 
-            $trialEndDate = \DB::table('subscriptions')->where('user_userId',$user->userId)->first();
+            $trialEndDate = \DB::table('subscriptions')->where('user_userId', $user->userId)->first();
 
             $datas = [
                 'email' => $user->email,
@@ -344,21 +351,18 @@ class HomeController extends Controller
                 'remainingDays' => 14,
             ];
 
-            \Mail::send('emails.firstReminder', $datas, function($message) use ($datas) 
-            {
+            \Mail::send('emails.firstReminder', $datas, function ($message) use ($datas) {
                 $message->to($datas['email']);
                 $message->subject('Keep Calm And Carry On!');
             });
-            
-            \Mail::send('emails.firstReminder', $datas, function($message) use ($datas) 
-            {
+
+            \Mail::send('emails.firstReminder', $datas, function ($message) use ($datas) {
                 $data  = SmtpSetting::first();
                 $message->to($data->mail_admin_email);
                 $message->subject('Keep Calm And Carry On!');
             });
-
         } catch (\Exception $e) {
-            
+
             $planpurchase = 'planpurchase';
 
             $user = User::find($user->userId);
@@ -367,9 +371,9 @@ class HomeController extends Controller
 
             $planObj = Plan::where('planId', $plan)->first();
 
-            if($planObj->is_team){
-                $user->update(['user_type' => 1]);                    
-            }else{
+            if ($planObj->is_team) {
+                $user->update(['user_type' => 1]);
+            } else {
                 $user->update(['user_type' => NULL]);
             }
 
@@ -385,13 +389,13 @@ class HomeController extends Controller
             $subscriptionObj->save();
 
             session()->put('planpurchase', $planpurchase);
-            return redirect()->route('profileview')->with(['planpurchase'=>$planpurchase]);
-            
+            return redirect()->route('profileview')->with(['planpurchase' => $planpurchase]);
+
             // return redirect('subscribe')->withErrors(['message' => 'Error creating subscription.'.$e->getMessage()]);
         }
-        
+
         session()->put('planpurchase', $planpurchase);
-        return redirect()->route('profileview')->with(['planpurchase'=>$planpurchase]);
+        return redirect()->route('profileview')->with(['planpurchase' => $planpurchase]);
     }
 
     /**
@@ -402,12 +406,12 @@ class HomeController extends Controller
     public function faqs()
     {
         $locale = App::getLocale();
-        if($locale == 'fr') {
+        if ($locale == 'fr') {
             $frFaqQuestionTitles = FrFaqQuestionTitle::latest()->get();
-            return view('fr_faqs',compact('frFaqQuestionTitles'));
+            return view('fr_faqs', compact('frFaqQuestionTitles'));
         } else {
             $faqQuestionTitles = FaqQuestionTitle::latest()->get();
-            return view('faqs',compact('faqQuestionTitles'));
+            return view('faqs', compact('faqQuestionTitles'));
         }
     }
 
@@ -430,7 +434,7 @@ class HomeController extends Controller
     {
         return view('surveyDetail');
     }
-    
+
     /**
      * Write code on Method
      *
@@ -447,9 +451,9 @@ class HomeController extends Controller
      * @return response()
      */
     public function testimonials()
-    {   
+    {
         $testimonial = Testimonial::get();
-        return view('testimonials',compact('testimonial'));
+        return view('testimonials', compact('testimonial'));
     }
 
     /**
@@ -458,9 +462,9 @@ class HomeController extends Controller
      * @return response()
      */
     public function video()
-    {   
+    {
         $video = Video::get();
-        return view('howToVideo',compact('video'));
+        return view('howToVideo', compact('video'));
     }
 
     /**
@@ -468,14 +472,15 @@ class HomeController extends Controller
      *
      * @return response()
      */
-    public function invoices(){
+    public function invoices()
+    {
         try {
             $user = $data['user'] = Auth::User();
             $data['invoices'] = $user->invoices();
-        }catch(\Exception $e){
+        } catch (\Exception $e) {
             $data['invoices'] = '';
         }
-        return view('account.invoices',$data);
+        return view('account.invoices', $data);
     }
 
     public function notFoundPage()
@@ -483,15 +488,16 @@ class HomeController extends Controller
         return view('notFound');
     }
 
-    public function cancelSubscription(){
-        $user=Auth::User();
+    public function cancelSubscription()
+    {
+        $user = Auth::User();
         try {
 
             if ($user->user_type == 1) {
-                $connectSubUser = User::where('parent_id',$user->userId)->get();
+                $connectSubUser = User::where('parent_id', $user->userId)->get();
 
-                foreach ($connectSubUser as $key => $value){
-                    $value->update(['user_type' => null, 'parent_id'=> null]);    
+                foreach ($connectSubUser as $key => $value) {
+                    $value->update(['user_type' => null, 'parent_id' => null]);
                 }
 
                 $user->user_type = null;
@@ -506,45 +512,43 @@ class HomeController extends Controller
             // $user->trial_ends_at = NULL;
             // $user->save();
 
-            $data = array (
-                    'firstName' => $user->firstName,
-                    'lastName' => $user->lastName,
-                    'date' => date("Y-m-d H:i:s"),
-                    'userEmail' => $user->email,
-                    'type' =>'userCancel'
+            $data = array(
+                'firstName' => $user->firstName,
+                'lastName' => $user->lastName,
+                'date' => date("Y-m-d H:i:s"),
+                'userEmail' => $user->email,
+                'type' => 'userCancel'
             );
             ProcessEmails::dispatch($data)->delay(Carbon::now())->onQueue('high');
 
-            return back()->with('status','Subscription Cancelled Succcessfully');
-
+            return back()->with('status', 'Subscription Cancelled Succcessfully');
         } catch (\Exception $e) {
-            return back()->with('status','Request Cannot be completed at the moment');
+            return back()->with('status', 'Request Cannot be completed at the moment');
         }
     }
 
-    public function updateSubscription(Request $request){
-        $user=Auth::User();
-        try{
+    public function updateSubscription(Request $request)
+    {
+        $user = Auth::User();
+        try {
             if (empty($request->plan)) {
                 return back();
             }
             $planObj = Plan::where('planId', $request->plan)->first();
 
-            if($planObj->is_team){
-                $user->update(['user_type' => 1]);                    
-            }else{
+            if ($planObj->is_team) {
+                $user->update(['user_type' => 1]);
+            } else {
                 $user->update(['user_type' => NULL]);
             }
-            
+
             $user->subscription('main')->swap($request->plan);
-            $user->plan=$request->plan;
+            $user->plan = $request->plan;
             $user->save();
-            return back()->with('success','Subscription Changed');
-        }
-        catch(Exception $e){
+            return back()->with('success', 'Subscription Changed');
+        } catch (Exception $e) {
             return redirect()->route('purchase.plan');
         }
-        
     }
 
     public function notActiveUser()
