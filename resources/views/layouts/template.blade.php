@@ -8,8 +8,13 @@
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
         <link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
         <meta property="og:type" content="website">
-        <meta property="og:url" content="https://dev.vooymarketinginc.com">
+        <meta property="og:url" content="https://www.dharro.com">
+
+        @if(isset($og_source))
+        <meta property="og:image" content="{{ asset($og_source) }}">
+        @else
         <meta property="og:image" content="{{ asset('upload/productImageSetting/'.getSettingValue('survey-share-image')) }}">
+        @endif
         <meta name="_token" content="{{ csrf_token() }}">
 
         <title>

@@ -63,15 +63,17 @@ class BlogFrontController extends Controller
     }
 
 
-    public function show($id)
+    public function show($slug)
     {
-        $post = BlogPost::find($id);
+        $post = BlogPost::where('slug', $slug)->first();
         $sidebar = $this->sidebar();
         if (App::getLocale() == 'fr') {
             $post->title = $post->title_fr;
             $post->description = $post->description_fr;
         }
-        return view('blog.show', compact('post', 'sidebar'));
+
+        $og_source = 'upload/blog/'.$post->image;
+        return view('blog.show', compact('og_source', 'post', 'sidebar'));
     }
 
     public function search($keyWord)

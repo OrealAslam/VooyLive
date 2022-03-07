@@ -58,16 +58,16 @@
                     <article class="post">
                         <div class="row">
                             <div class="col-md-6 col-sm-12 col-xs-6">
-                                <a class="post-thumb" href="{{ route('post.view',$post->id) }}">
+                                <a class="post-thumb" href="{{ route('post.view',$post->slug) }}">
                                     <img class="img-responsive" src="{{ asset('upload/blog/'.$post->image.'') }}" alt="{{ $post->title }}">
                                 </a>
                             </div>
                             <div class="col-md-6 col-sm-12 col-xs-6">
                                 <div class="post-content">
-                                    <h4 class="post-title"><a href="{{ route('post.view',$post->id) }}">{{ $post->title }}</a></h4>
+                                    <h4 class="post-title"><a href="{{ route('post.view',$post->slug) }}">{{ $post->title }}</a></h4>
                                     <p class="post-date">{{ $post->created_at->format('j F Y') }}</p>
                                     <p class="post-excerpt">{!! Str_limit($post->description, 100, '...') !!} </p>
-                                    <a class="post-readmore" href="{{ route('post.view',$post->id) }}">{{__('blog/blog.readmore_link')}}</a>
+                                    <a class="post-readmore" href="{{ route('post.view',$post->slug) }}">{{__('blog/blog.readmore_link')}}</a>
                                 </div>
                             </div>
                         </div>

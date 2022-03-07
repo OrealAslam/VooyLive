@@ -48,6 +48,7 @@ class BlogPostController extends Controller
 
         $post = new BlogPost;
         $post->fill($request->all());
+        $post->slug = str_slug($request->title);
         $post->userId = $userId;
 
         if ($request->hasFile('image')) {
@@ -84,6 +85,7 @@ class BlogPostController extends Controller
 
         $post = BlogPost::find($id);
         $post->fill($request->all());
+        $post->slug = str_slug($request->title);
         $post->userId = $userId;
 
         if ($request->hasFile('image')) {

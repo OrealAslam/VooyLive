@@ -20,10 +20,10 @@
         <div class="recent-posts">
             @foreach ($recentPosts_results as $recentPost)
             <div class="recent-post">
-                <a class="recent-post-thumb" href="{{ route('post.view',$recentPost->id) }}">
+                <a class="recent-post-thumb" href="{{ route('post.view',$recentPost->slug) }}">
                     <img class="img-responsive" src="{{ asset('upload/blog/'.$recentPost->image.'') }}" alt="{{ $recentPost->title }}">
                 </a>
-                <a class="post-title" href="{{ route('post.view',$recentPost->id) }}" style="margin-top:auto!important;">{{ $recentPost->title }}</a>
+                <a class="post-title" href="{{ route('post.view',$recentPost->slug) }}" style="margin-top:auto!important;">{{ $recentPost->title }}</a>
                 <div class="clearfix"></div>
             </div>
             @endforeach
