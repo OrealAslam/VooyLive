@@ -64,7 +64,7 @@ class OtpEmailController extends Controller
                 if (isset($request->remember_device)) {
 
                     $minute = 30 * 24 * 60;
-                    Cookie::queue('Mycookie', 'testing', $minute);
+                    Cookie::queue('OPTcookie', 'OTP', $minute);
 
                     //cannot set cookie here so saving session
                     // $request->session()->put('setcookie','true');
