@@ -10,10 +10,11 @@
         <meta property="og:type" content="website">
         @if(isset($og_source))
         <meta property="og:image" content="{{ asset($og_source) }}">
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:image" content="{{ asset($og_source) }}">
         @else
         <meta property="og:image" content="{{ asset('upload/productImageSetting/'.getSettingValue('survey-share-image')) }}">
         @endif
-        <meta name="twitter:card" content="summary_large_image" />
         <meta name="_token" content="{{ csrf_token() }}">
 
         <title>
