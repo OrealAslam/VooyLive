@@ -53,7 +53,7 @@ class LoginController extends Controller
     public function login(Request $request)
     {
 
-        $OTPcookie = $request->cookie('Mycookie');
+        $OTPcookie = $request->cookie('OPTcookie');
 
         $this->validate($request, [
             'email' => 'required',
