@@ -234,7 +234,7 @@
                 <div class="neighbourhood-title">
                     {{__('reports/other/metro/highlights.nameOfNeighbourhood')}}
                 </div>
-                <div class="neighbourhood-name colora" id="">
+                <div class="neighbourhood-name colora" id="neighbourhood_name">
                     @if (isset($neighborsData['neighborhood']))
                     <span id="neighbourhood-name">{{$neighborsData['neighborhood']}}</span>                      
                     @else

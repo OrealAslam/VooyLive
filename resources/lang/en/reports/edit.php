@@ -5,6 +5,7 @@ return[
     'dashboard' => 'Dashboard',
     'editReport' => 'Edit Report',
     'demographics' => 'Demographics',
+    'nameOfNeighbourhood' => 'Name of Neighbourhood',
     'householdsWithChildren' => 'Households With Children',
     'averageHouseholdIncome' => 'Average Household Income',
     'medianAge' => 'Median Age',
