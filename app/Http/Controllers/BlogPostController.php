@@ -4,12 +4,11 @@ namespace App\Http\Controllers;
 
 use App\BlogCategory;
 use App\BlogPost;
-use App\ImageUpload;
 use App\BlogTag;
 use Session;
 use Auth;
 use Illuminate\Http\Request;
-use App;
+use Illuminate\Support\Facades\Storage;
 
 class BlogPostController extends Controller
 {
@@ -52,7 +51,9 @@ class BlogPostController extends Controller
         $post->userId = $userId;
 
         if ($request->hasFile('image')) {
-            $post->image = ImageUpload::upload('/upload/blog', $request->file('image'));
+            $file = $request->file('image');
+            $filePath = 'images/blog';
+            $post->image = Storage::disk('s3')->put($filePath, $file);
         }
 
         $post->save();
@@ -89,7 +90,9 @@ class BlogPostController extends Controller
         $post->userId = $userId;
 
         if ($request->hasFile('image')) {
-            $post->image = ImageUpload::upload('/upload/blog', $request->file('image'));
+            $file = $request->file('image');
+            $filePath = 'images/blog';
+            $post->image = Storage::disk('s3')->put($filePath, $file);
         } else {
             unset($post->image);
         }

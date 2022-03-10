@@ -19,7 +19,7 @@
                 <div class="mainbar post-single">
                     <article class="post">
                         <div class="post-thumb">
-                            <img class="img-responsive" src="{{ asset('upload/blog/'.$post->image.'') }}" alt="{{ $post->title }}">
+                            <img class="img-responsive" src="{{ Storage::disk('s3')->temporaryUrl($post->image, '+2 minutes') }}" alt="{{ $post->title }}">
                         </div>
                         <p class="post-metas">
                             <span>{{__('blog/blog.posted_by')}} <a href="#">{{ $post->user->firstName }} {{ $post->user->lastName }}</a></span>

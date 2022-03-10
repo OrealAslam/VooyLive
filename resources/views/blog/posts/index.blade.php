@@ -29,7 +29,7 @@
                         @foreach ($posts as $post)
                         <tr>
                             <td>{{ $post->id }}</td>
-                            <td><img src="{{ asset('upload/blog/'.$post->image.'') }}" height="100" width="150"></td>
+                            <td><img src="{{ Storage::disk('s3')->temporaryUrl($post->image, '+2 minutes') }}" height="100" width="150"></td>
                             <td>{{ $post->title }}</td>
                             <td>{!! $post->description !!}</td>
                             <td>

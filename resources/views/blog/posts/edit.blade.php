@@ -60,7 +60,7 @@
                 <div class="form-group">
                     <label for="" class="control-label">Upload Image</label>
                     <input type="file" name="image" id="" value="{{ $post->file }}" class="form-control" placeholder="Upload Image">
-                    <img src="{{ asset('upload/blog/'.$post->image.'') }}" width="200px" style="margin-top: 10px;">
+                    <img src="{{ Storage::disk('s3')->temporaryUrl($post->image, '+2 minutes') }}" width="200px" style="margin-top: 10px;">
                 </div>
             </div>
             <div class="col-md-6">

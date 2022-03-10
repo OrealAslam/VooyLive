@@ -25,12 +25,6 @@ function maskEmailAddress($email){
 @endphp
 
     <div class="container p-2">
-        <!-- <div class="row">
-            <div class="navbar-brand">
-                <img src="{{ url('img/dharro.png')}}" style="padding-left: 10px; width: 120px;" class="logo-header-menu" alt="Community Feature Sheet&reg;">
-            </div>
-        </div> -->
-
         <div class="row mt-4">
             <div class="col-md-5 offset-md-4 col-8 offset-3">
                 <div class="card">
@@ -38,7 +32,7 @@ function maskEmailAddress($email){
                         <img src="{{ url('img/dharro.png')}}" style="padding-left: 10px; width: 140px;" class="logo-header-menu img-fluid d-block mx-auto" alt="Community Feature Sheet&reg;">
                         <hr>
                         <h4 class="text-center mb-1" style="font-size: 18px;"><i>Check your 6-digit OTP code</i></h4>
-                        <p class="text-muted" style="font-size: 16px; margin-top: 10px;">Enter the code send to your email address 
+                        <p class="text-muted" style="font-size: 16px; margin-top: 10px;">Enter the code sent to your email address 
                         <span class="font-weight-bold">{{ maskEmailAddress( Auth::user()->email ) }}</span>. Didn't get it?
                         <a class="text-primary font-weight-bolder" href="{{ route('resend/otp') }}">Resend Code</a></p>
                     </div>
@@ -75,7 +69,7 @@ function maskEmailAddress($email){
                         <!-- otp expire message -->
                         @if(\Session::has('otpExpire') )
                             <span class="text-danger text-center" style="font-size: 15px;">{{ Session::get('otpExpire') }}</span><br>
-                            <span class="text-danger text-center mt-2" style="font-size: 15px;">re-enter OTP code send to your email address</span>
+                            <span class="text-danger text-center mt-2" style="font-size: 15px;">re-enter OTP code sent to your email address</span>
                         @endif
                         </form>
                     </div>

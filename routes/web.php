@@ -13,9 +13,6 @@
 
 
 use Illuminate\Http\Request;
-use Illuminate\Http\Response;
-use App\Http\Controllers\OtpEmailController;
-use App\Http\Controllers\Disable2fa;
 
 Route::get('ecards/demo', 'EcardController@frontEcardsDemo')->name('front.ecards.demo');
 Route::post('ecards/demo/store', 'EcardController@frontEcardsDemoStore')->name('front.ecards.demo.store');
