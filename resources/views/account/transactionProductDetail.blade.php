@@ -82,7 +82,7 @@
 								<td>
 									@if(!empty($productdetail->file))
 										@foreach(json_decode($productdetail->file) as $value)
-											<a href="{{ route('user.product.detail.download.pdf',$value) }}" class="btn btn-primary download-btn">{{ $value }}<i class="fa fa-download download-icon"></i></a>
+											<a href="{{ env('AWS_URL').'userProductDetail/'.$value }}" class="btn btn-primary download-btn" download="{{$value}}">{{ $value }}<i class="fa fa-download download-icon"></i></a>
 										@endforeach
 									@endif
 								</td>

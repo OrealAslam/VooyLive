@@ -8,6 +8,7 @@ use App\UserProductDetail;
 use App\Order;
 use App\Category;
 use Auth;
+use Illuminate\Support\Facades\Storage;
 
 class TransactionController extends Controller
 {	
@@ -47,6 +48,6 @@ class TransactionController extends Controller
      */
     public function userProductDetailDownloadPdf($fileName)
     {
-      return response()->download(env('AWS_URL').'userProductDetail/'.$fileName);
+      return response()->download(Storage::get('userProductDetail/'.$fileName));
     }
 }
