@@ -47,6 +47,6 @@ class TransactionController extends Controller
      */
     public function userProductDetailDownloadPdf($fileName)
     {
-      return response()->download(storage_path('/app/public/userProductDetail/'.$fileName));
+      return response()->download(env('AWS_URL').'userProductDetail/'.$fileName);
     }
 }

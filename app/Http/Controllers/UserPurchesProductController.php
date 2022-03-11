@@ -103,7 +103,7 @@ class UserPurchesProductController extends Controller
             {
                 foreach($request->file('file') as $image)
                 {   
-	                $inputFile = ImageUpload::uploadWithExtension('app/public/userProductDetail/',$image);
+	                $inputFile = ImageUpload::uploadWithExtension('userProductDetail/',$image);
                     $data[] = $inputFile; 
                 }
             }
@@ -158,9 +158,6 @@ class UserPurchesProductController extends Controller
                         $message->to($emails);
                     }
                     $message->subject('Delivery Update');
-                    // foreach($datas['file'] as $fileName){
-                    //     $message->attach(storage_path('/app/public/userProductDetail/'.$fileName), ['as' => 'product.pdf','mime' => 'application/pdf',]);
-                    // }
                 });
             } catch (Exception $e) {
                 $successMessage = 'User Product Store Successfully, mail sent fail because '. $e->getMessage();

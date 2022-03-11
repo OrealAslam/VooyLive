@@ -70,7 +70,7 @@ class ProductDocumentController extends Controller
         if ($validator->passes()){
 
             if($request->hasFile('document')){
-                $input['document'] = ImageUpload::uploadProductDoc('app/public/documents',$request->file('document'));
+                $input['document'] = ImageUpload::uploadProductDoc('documents',$request->file('document'));
             }
                 ProductDocument::create($input);
                 Session::flash('success_msg', 'Product Document Create Successfuly');
@@ -99,19 +99,10 @@ class ProductDocumentController extends Controller
     */
     public function downloadFile(Request $request)
     {
-        $path = storage_path('app/public/userProductDetail/'.$request->file);
-        if (file_exists($path)) {
-            return response()->download($path);
+        $path = 'userProductDetail/'.$request->file;
+        if (Storage::disk('s3')->has($path)) {
+            return response()->download(env('AWS_URL').$path);
         }
-                
-        // if (!empty($request->file)) {
-        //     $find = ProductDocument::where('document', $request->file)->first();
-
-        //     if (!is_null($find)) {
-                
-        //     }
-        // }
-
         return redirect()->route('home');
     }
 }

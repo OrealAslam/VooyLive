@@ -243,35 +243,7 @@ class HdiController extends Controller
         //$userHdiImagePath = 'hdis/'.$user->userId.'/'.$hdiId.'/';
         $hdiIconPath = 'hdi_icons/';
         $data['hdiData'] = $hdiData;
-        /*
-        $search_str = array ('{client_logo}', '{client_image}', '{client_name}', '{client_phone}', '{client_email}',
-            '{flyer_image1}', '{flyer_image2}', '{flyer_image3}', '{flyer_image4}', '{flyer_image5}', '{flyer_image6}', '{flyer_image7}', '{flyer_image8}', '{flyer_image9}');
-        $replace_str = array(
-            !empty($details->logo) ? '/'.$details->logo : '',
-            !empty($details->photo) ? '/'.$details->photo : '',
-            !empty($user->firstName) || !empty($user->lastName) ? $user->firstName .' '. $user->lastName : 'client name',
-            !empty($details->phone) ? $details->phone : 'phone',
-            !empty($details->email) ? $details->email : 'email',
-
-            file_exists($userFlyerImagePath.'img1.jpeg') ? $userFlyerImagePath.'img1.jpeg' : 'img/flyer/img1.jpg',
-            file_exists($userFlyerImagePath.'img2.jpeg') ? $userFlyerImagePath.'img2.jpeg' : 'img/flyer/img2.jpg',
-            file_exists($userFlyerImagePath.'img3.jpeg') ? $userFlyerImagePath.'img3.jpeg' : 'img/flyer/img3.jpg',
-            file_exists($userFlyerImagePath.'img4.jpeg') ? $userFlyerImagePath.'img4.jpeg' : 'img/flyer/img4.jpg',
-            file_exists($userFlyerImagePath.'img5.jpeg') ? $userFlyerImagePath.'img5.jpeg' : 'img/flyer/img5.jpg',
-            file_exists($userFlyerImagePath.'img6.jpeg') ? $userFlyerImagePath.'img6.jpeg' : 'img/flyer/img6.jpg',
-            file_exists($userFlyerImagePath.'img7.jpeg') ? $userFlyerImagePath.'img7.jpeg' : 'img/flyer/img7.jpg',
-            file_exists($userFlyerImagePath.'img8.jpeg') ? $userFlyerImagePath.'img8.jpeg' : 'img/flyer/img8.jpg',
-            file_exists($userFlyerImagePath.'img9.jpeg') ? $userFlyerImagePath.'img9.jpeg' : 'img/flyer/img9.jpg',
-
-        );
-        */
-        /*
-        var_dump($userFlyerImagePath.'img2.jpeg');
-        var_dump(file_exists($userFlyerImagePath.'img2.jpeg'));
-        var_dump(file_exists($userFlyerImagePath.'img2.jpeg') ? $userFlyerImagePath.'img2.jpeg' : 'img/flyer/img2.jpg');
-        die();
-        */
-
+  
         $data['hdi_images'] = array(
             'items_0_icons' => '',
             'items_1_icons' => '',
