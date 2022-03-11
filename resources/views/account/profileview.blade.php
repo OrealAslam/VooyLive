@@ -109,7 +109,7 @@
 					<div class="row">
 						<div class="col-md-12 profile-img">
 							@if (isset($details->photo))
-								<img src="{{ url('/'.$details->photo) }}" alt="{{ $user->firstName }} {{ $user->lastName }}">
+								<img src="{{ env('AWS_URL').$details->photo }}" alt="{{ $user->firstName }} {{ $user->lastName }}">
 							@else
 								<img src="{{ asset('img/your-image-here2.png')}}" class="img-responsive">
 							@endif
@@ -222,7 +222,7 @@
 									<h4>{{__('account/profileview.myLogo')}}</h4>
 									<div>
 									@if (isset($details->logo))
-									<img src="{{url('/'.$details->logo)}}" alt="{{ $details->title }}">
+									<img src="{{ env('AWS_URL').$details->logo }}" alt="{{ $details->title }}">
 									@else
 									<img src="/img/your-logo.png" class="top-logo img-responsive">
 									@endif

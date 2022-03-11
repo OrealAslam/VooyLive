@@ -16,7 +16,7 @@ class ImageUpload extends Model
         $filename = str_replace(' ', '-', $filename);
         $extension = $image->extension();
         $imageName = $filename.'_'.rand(4,99999).time().'.'.$extension;
-        $image->storeAs(storage_path($path),$imageName);
+        $image->storeAs($path, $imageName);
         
         return $imageName;
     }
