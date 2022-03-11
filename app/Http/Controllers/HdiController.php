@@ -403,18 +403,6 @@ class HdiController extends Controller
                 }
             }
         }
-
-        /*
-        $data = $request->image;
-
-        list($type, $data) = explode(';', $data);
-        list(, $data)      = explode(',', $data);
-
-        $data = base64_decode($data);
-        $imageName = 'flyers/'.$userId.'/'.$flyerId.'/'.$request->image_name.'.jpeg';
-        file_put_contents(public_path($imageName), $data);
-        return response()->json(['success'=>'done']);
-        */
     }
 
     public function iconGalleryProcess(Request $request, $userId)

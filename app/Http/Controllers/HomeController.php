@@ -263,8 +263,7 @@ class HomeController extends Controller
 
         $data = base64_decode($data);
         $imageName = "vendor/" . time() . '.png';
-        \Log::info($imageName);
-        file_put_contents(public_path($imageName), $data);
+        Storage::put($imageName, $data);
 
         $clientDetail = ClientDetail::where('userId', $request->id)->first();
         if (!empty($clientDetail[$request->column]) && Storage::exists($clientDetail[$request->column])) {
