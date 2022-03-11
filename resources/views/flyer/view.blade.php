@@ -145,7 +145,7 @@ div.sharethiscontainer {
                 <div class="col-lg-12 col-md-12 col-sm-12 col-print-12">
                     <div class="row">
                         <div class="big-image image-editable">
-                            <img src="/{{$flyer_images['img1']}}" class="img-responsive" data-img-name="img1" data-img-width="1170" data-img-height="825">
+                            <img src="{{$flyer_images['img1']}}" class="img-responsive" data-img-name="img1" data-img-width="1170" data-img-height="825">
                             <div class="options no-print">
                                 <span class="edit-img"><i class="fa fa-pencil"></i></span>
                             </div>
@@ -164,7 +164,7 @@ div.sharethiscontainer {
                 <div class="col-lg-4 col-md-4 col-sm-4 col-print-4">
                     <div class="row">
                         <div class="three-images-img1 image-editable">
-                            <img src="/{{$flyer_images['img2']}}" class="img-responsive" data-img-name="img2" data-img-width="370" data-img-height="265">
+                            <img src="{{$flyer_images['img2']}}" class="img-responsive" data-img-name="img2" data-img-width="370" data-img-height="265">
                             <div class="options no-print">
                                 <span class="edit-img"><i class="fa fa-pencil"></i></span>
                             </div>
@@ -174,7 +174,7 @@ div.sharethiscontainer {
                 <div class="col-lg-4 col-md-4 col-sm-4 col-print-4">
                     <div class="row">
                         <div class="three-images-img2 image-editable">
-                            <img src="/{{$flyer_images['img3']}}" class="img-responsive" data-img-name="img3" data-img-width="370" data-img-height="265">
+                            <img src="{{$flyer_images['img3']}}" class="img-responsive" data-img-name="img3" data-img-width="370" data-img-height="265">
                             <div class="options no-print">
                                 <span class="edit-img"><i class="fa fa-pencil"></i></span>
                             </div>
@@ -184,7 +184,7 @@ div.sharethiscontainer {
                 <div class="col-lg-4 col-md-4 col-sm-4 col-print-4">
                     <div class="row">
                         <div class="three-images-img3 image-editable">
-                            <img src="/{{$flyer_images['img4']}}" class="img-responsive" data-img-name="img4" data-img-width="370" data-img-height="265">
+                            <img src="{{$flyer_images['img4']}}" class="img-responsive" data-img-name="img4" data-img-width="370" data-img-height="265">
                             <div class="options no-print">
                                 <span class="edit-img"><i class="fa fa-pencil"></i></span>
                             </div>
@@ -203,7 +203,7 @@ div.sharethiscontainer {
                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 col-print-3 div1">
                     <div class="row">
                         <div class="two-images-img1 image-editable">
-                            <img src="/{{$flyer_images['img5']}}" class="img-responsive" data-img-name="img5" data-img-width="292" data-img-height="273">
+                            <img src="{{$flyer_images['img5']}}" class="img-responsive" data-img-name="img5" data-img-width="292" data-img-height="273">
                             <div class="options no-print">
                                 <span class="edit-img"><i class="fa fa-pencil"></i></span>
                             </div>
@@ -213,7 +213,7 @@ div.sharethiscontainer {
                 <div class="col-lg-6 col-md-6 col-sm-6 col-print-6 div2">
                     <div class="row">
                         <div class="two-images-img2 image-editable">
-                            <img src="/{{$flyer_images['img6']}}" class="img-responsive" data-img-name="img6" data-img-width="585" data-img-height="273">
+                            <img src="{{$flyer_images['img6']}}" class="img-responsive" data-img-name="img6" data-img-width="585" data-img-height="273">
                             <div class="options no-print">
                                 <span class="edit-img"><i class="fa fa-pencil"></i></span>
                             </div>
@@ -253,7 +253,7 @@ div.sharethiscontainer {
                         <div class="col-lg-12 col-md-12 col-sm-12 col-print-12 font-raleway">
                             <div class="row">
                                 <div class="verticle-image image-editable">
-                                    <img src="/{{$flyer_images['img7']}}" class="img-responsive" data-img-name="img7" data-img-width="292" data-img-height="596">
+                                    <img src="{{$flyer_images['img7']}}" class="img-responsive" data-img-name="img7" data-img-width="292" data-img-height="596">
                                     <div class="options no-print">
                                         <span class="edit-img"><i class="fa fa-pencil"></i></span>
                                     </div>
@@ -356,7 +356,7 @@ div.sharethiscontainer {
                     <div class="row">
                         <div class="col-lg-5 col-md-5 col-sm-5 col-print-5">
                             <div class="row img8 image-editable">
-                                <img src="/{{$flyer_images['img8']}}" class="img-responsive" data-img-name="img8" data-img-width="365" data-img-height="300">
+                                <img src="{{$flyer_images['img8']}}" class="img-responsive" data-img-name="img8" data-img-width="365" data-img-height="300">
                                 <div class="options no-print">
                                     <span class="edit-img"><i class="fa fa-pencil"></i></span>
                                 </div>
@@ -364,7 +364,7 @@ div.sharethiscontainer {
                         </div>
                         <div class="col-lg-7 col-md-7 col-sm-7 col-print-7">
                             <div class="row img9 image-editable">
-                                <img src="/{{$flyer_images['img9']}}" class="img-responsive" data-img-name="img9" data-img-width="511" data-img-height="300">
+                                <img src="{{$flyer_images['img9']}}" class="img-responsive" data-img-name="img9" data-img-width="511" data-img-height="300">
                                 <div class="options no-print">
                                     <span class="edit-img"><i class="fa fa-pencil"></i></span>
                                 </div>

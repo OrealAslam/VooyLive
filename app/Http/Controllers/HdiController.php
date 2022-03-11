@@ -288,7 +288,7 @@ class HdiController extends Controller
         );
         foreach ($data['hdi_images'] as $key => $val) {
             if (!empty($hdiData[$key])) {
-                if (file_exists($hdiIconPath.$hdiData[$key])) {
+                if (Storage::disk('s3')->has($hdiIconPath.$hdiData[$key])) {
                     $data['hdi_images'][$key] = $hdiIconPath.$hdiData[$key];
                 } else {
                     $data['hdi_images'][$key] = $hdiIconPath.'0.svg';
@@ -357,11 +357,8 @@ class HdiController extends Controller
                         }
 
                         if ($request->hasFile('icon_file') && $request->file('icon_file')->isValid()) {
-                            $image = $request->file('icon_file');
-                            $icon_file = time().'.'.$image->getClientOriginalExtension();
-                            $destinationPath = public_path('/hdi_icons');
-                            $image->move($destinationPath, $icon_file);
-
+                            $icon_file = time().'.'.$request->file('icon_file')->getClientOriginalExtension();
+							$request->file('icon_file')->storeAs('/hdi_icons',$icon_file);
                             $iconData['icon_file'] = $icon_file;
                         }
 

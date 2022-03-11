@@ -234,45 +234,16 @@ class FlyerController extends Controller
         $data['user_details'] = $details;
         $userFlyerImagePath = 'flyers/'.$request->userId.'/'.$flyerId.'/';
         $data['flyerData'] = $flyerData;
-        /*
-        $search_str = array ('{client_logo}', '{client_image}', '{client_name}', '{client_phone}', '{client_email}',
-            '{flyer_image1}', '{flyer_image2}', '{flyer_image3}', '{flyer_image4}', '{flyer_image5}', '{flyer_image6}', '{flyer_image7}', '{flyer_image8}', '{flyer_image9}');
-        $replace_str = array(
-            !empty($details->logo) ? '/'.$details->logo : '',
-            !empty($details->photo) ? '/'.$details->photo : '',
-            !empty($user->firstName) || !empty($user->lastName) ? $user->firstName .' '. $user->lastName : 'client name',
-            !empty($details->phone) ? $details->phone : 'phone',
-            !empty($details->email) ? $details->email : 'email',
-
-            file_exists($userFlyerImagePath.'img1.jpeg') ? $userFlyerImagePath.'img1.jpeg' : 'img/flyer/img1.jpg',
-            file_exists($userFlyerImagePath.'img2.jpeg') ? $userFlyerImagePath.'img2.jpeg' : 'img/flyer/img2.jpg',
-            file_exists($userFlyerImagePath.'img3.jpeg') ? $userFlyerImagePath.'img3.jpeg' : 'img/flyer/img3.jpg',
-            file_exists($userFlyerImagePath.'img4.jpeg') ? $userFlyerImagePath.'img4.jpeg' : 'img/flyer/img4.jpg',
-            file_exists($userFlyerImagePath.'img5.jpeg') ? $userFlyerImagePath.'img5.jpeg' : 'img/flyer/img5.jpg',
-            file_exists($userFlyerImagePath.'img6.jpeg') ? $userFlyerImagePath.'img6.jpeg' : 'img/flyer/img6.jpg',
-            file_exists($userFlyerImagePath.'img7.jpeg') ? $userFlyerImagePath.'img7.jpeg' : 'img/flyer/img7.jpg',
-            file_exists($userFlyerImagePath.'img8.jpeg') ? $userFlyerImagePath.'img8.jpeg' : 'img/flyer/img8.jpg',
-            file_exists($userFlyerImagePath.'img9.jpeg') ? $userFlyerImagePath.'img9.jpeg' : 'img/flyer/img9.jpg',
-
-        );
-        */
-        /*
-        var_dump($userFlyerImagePath.'img2.jpeg');
-        var_dump(file_exists($userFlyerImagePath.'img2.jpeg'));
-        var_dump(file_exists($userFlyerImagePath.'img2.jpeg') ? $userFlyerImagePath.'img2.jpeg' : 'img/flyer/img2.jpg');
-        die();
-        */
-
         $data['flyer_images'] = array(
-            'img1' => file_exists($userFlyerImagePath.'img1.jpeg') ? $userFlyerImagePath.'img1.jpeg' : 'img/flyer/img1.jpg',
-            'img2' => file_exists($userFlyerImagePath.'img2.jpeg') ? $userFlyerImagePath.'img2.jpeg' : 'img/flyer/img2.jpg',
-            'img3' => file_exists($userFlyerImagePath.'img3.jpeg') ? $userFlyerImagePath.'img3.jpeg' : 'img/flyer/img3.jpg',
-            'img4' => file_exists($userFlyerImagePath.'img4.jpeg') ? $userFlyerImagePath.'img4.jpeg' : 'img/flyer/img4.jpg',
-            'img5' => file_exists($userFlyerImagePath.'img5.jpeg') ? $userFlyerImagePath.'img5.jpeg' : 'img/flyer/img5.jpg',
-            'img6' => file_exists($userFlyerImagePath.'img6.jpeg') ? $userFlyerImagePath.'img6.jpeg' : 'img/flyer/img6.jpg',
-            'img7' => file_exists($userFlyerImagePath.'img7.jpeg') ? $userFlyerImagePath.'img7.jpeg' : 'img/flyer/img7.jpg',
-            'img8' => file_exists($userFlyerImagePath.'img8.jpeg') ? $userFlyerImagePath.'img8.jpeg' : 'img/flyer/img8.jpg',
-            'img9' => file_exists($userFlyerImagePath.'img9.jpeg') ? $userFlyerImagePath.'img9.jpeg' : 'img/flyer/img9.jpg',
+            'img1' => Storage::disk('s3')->has($userFlyerImagePath.'img1.jpeg') ? env('AWS_URL').$userFlyerImagePath.'img1.jpeg' : '/img/flyer/img1.jpg',
+            'img2' => Storage::disk('s3')->has($userFlyerImagePath.'img2.jpeg') ? env('AWS_URL').$userFlyerImagePath.'img2.jpeg' : '/img/flyer/img2.jpg',
+            'img3' => Storage::disk('s3')->has($userFlyerImagePath.'img3.jpeg') ? env('AWS_URL').$userFlyerImagePath.'img3.jpeg' : '/img/flyer/img3.jpg',
+            'img4' => Storage::disk('s3')->has($userFlyerImagePath.'img4.jpeg') ? env('AWS_URL').$userFlyerImagePath.'img4.jpeg' : '/img/flyer/img4.jpg',
+            'img5' => Storage::disk('s3')->has($userFlyerImagePath.'img5.jpeg') ? env('AWS_URL').$userFlyerImagePath.'img5.jpeg' : '/img/flyer/img5.jpg',
+            'img6' => Storage::disk('s3')->has($userFlyerImagePath.'img6.jpeg') ? env('AWS_URL').$userFlyerImagePath.'img6.jpeg' : '/img/flyer/img6.jpg',
+            'img7' => Storage::disk('s3')->has($userFlyerImagePath.'img7.jpeg') ? env('AWS_URL').$userFlyerImagePath.'img7.jpeg' : '/img/flyer/img7.jpg',
+            'img8' => Storage::disk('s3')->has($userFlyerImagePath.'img8.jpeg') ? env('AWS_URL').$userFlyerImagePath.'img8.jpeg' : '/img/flyer/img8.jpg',
+            'img9' => Storage::disk('s3')->has($userFlyerImagePath.'img9.jpeg') ? env('AWS_URL').$userFlyerImagePath.'img9.jpeg' : '/img/flyer/img9.jpg',
         );
 
         //$data['flyerData'] = str_replace($search_str,$replace_str,$data['flyerData']);
@@ -281,14 +252,7 @@ class FlyerController extends Controller
     public function updateImage(Request $request, $flyerId, $userId)
     {
         if ($request->isMethod('post')) {
-            /*
-            echo '<pre>';
-            print_r($request->all());
-            echo '1=>'.$request['img_name'];
-            echo '2=>'.$request->img_name;
-            echo '3=>'.$request->input('img_name');
-            echo '<hr>';
-            */
+
             $fieldName = $request->img_name;
             $rules = array(
                 $fieldName => 'image|max:2000',
