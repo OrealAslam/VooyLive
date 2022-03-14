@@ -14,7 +14,7 @@
             -webkit-text-fill-color:unset !important;
         }
         .cps-banner-item-1 {
-          background-image: url('{{ asset('/upload/productImageSetting/' . getSettingValue('home-slider-image')) }}');
+          background-image: url('{{ env('AWS_URL').'/upload/productImageSetting/' . getSettingValue('home-slider-image') }}');
           margin-top:80px;
           /*height:100% !important;*/
           width:100% !important;
@@ -141,7 +141,7 @@
                         @if(!empty(getLogoList()))
                             @foreach(getLogoList() as $key => $value)
                                 <a href="#" class="integrated-with sutton">
-                                    <img src="{{ asset('upload/logo/'.$value->name) }}" class="img-responsive">
+                                    <img src="{{ env('AWS_URL').'upload/logo/'.$value->name }}" class="img-responsive">
                                 </a>
                             @endforeach
                         @endif
@@ -226,7 +226,7 @@
                     <div class="how-it-works-2 how-it-works-pare-box">
                         <div class="cps-service-box style-7 timeline-1-user">
                             <div class="cps-service-icon">
-                                <span><img src="/img/how-it-works/sign-up.png" height="64px"></span>
+                                <span><img src="env('AWS_URL').img/how-it-works/sign-up.png" height="64px"></span>
                             </div>
                           <h4 class="cps-service-title">{{__('home.signup')}}</h4>
                         </div>
@@ -237,7 +237,7 @@
                     <div class="how-it-works-3 how-it-works-pare-box">
                         <div class="cps-service-box style-7">
                             <div class="cps-service-icon">
-                                <span><img src="/img/how-it-works/update-profile.png" height="64px"></span>
+                                <span><img src="env('AWS_URL').img/how-it-works/update-profile.png" height="64px"></span>
                             </div>
                             <h4 class="cps-service-title">{{__('home.updateprofile')}}</h4>
                         </div>
@@ -248,7 +248,7 @@
                     <div class="how-it-works-4 how-it-works-pare-box">
                         <div class="cps-service-box style-7">
                             <div class="cps-service-icon">
-                                <span><img src="/img/how-it-works/print-report.png" height="64px"></span>
+                                <span><img src="env('AWS_URL').img/how-it-works/print-report.png" height="64px"></span>
                             </div>
                           <h4 class="cps-service-title">{{__('home.printreport')}}</h4>
                         </div>
@@ -385,7 +385,7 @@
             <div class="modal-body">
                 <div class="row">
                     <div class="col-md-12">
-                        <img src="{{ asset('upload/productImageSetting/'.getSettingValue('community-feature-sheet-image')) }}" class="img-responsive">
+                        <img src="{{ env('AWS_URL').'upload/productImageSetting/'.getSettingValue('community-feature-sheet-image') }}" class="img-responsive">
                     </div>
                 </div>
             </div>
@@ -413,7 +413,7 @@
             <div class="modal-body">
                 <div class="row">
                     <div class="col-md-12">
-                        <img src="{{ asset('upload/productImageSetting/'.getSettingValue('property-featuresheets-image')) }}" class="img-responsive">
+                        <img src="{{ env('AWS_URL').'upload/productImageSetting/'.getSettingValue('property-featuresheets-image') }}" class="img-responsive">
                     </div>
                 </div>
             </div>
@@ -441,7 +441,7 @@
             <div class="modal-body">
                 <div class="row">
                     <div class="col-md-12">
-                        <img src="{{ asset('upload/productImageSetting/'.getSettingValue('home-details-infographic-image')) }}" class="img-responsive">
+                        <img src="{{ env('AWS_URL').'upload/productImageSetting/'.getSettingValue('home-details-infographic-image') }}" class="img-responsive">
                     </div>
                 </div>
             </div>
@@ -469,7 +469,7 @@
             <div class="modal-body">
                 <div class="row">
                     <div class="col-md-12">
-                        <img src="{{ asset('upload/productImageSetting/'.getSettingValue('market-sentiment-survey-image')) }}">
+                        <img src="{{ env('AWS_URL').'upload/productImageSetting/'.getSettingValue('market-sentiment-survey-image') }}">
                     </div>
                 </div>
             </div>
@@ -503,7 +503,7 @@
                         </div>
                     </div>
                     <div class="col-md-6 text-center">
-                        <img src="{{ asset('upload/popupImage/'.getSettingValue('popup-image')) }}" style="width:100%;height:100%;">
+                        <img src="{{ env('AWS_URL').'upload/popupImage/'.getSettingValue('popup-image') }}" style="width:100%;height:100%;">
                     </div>
                 </div>
             </div>

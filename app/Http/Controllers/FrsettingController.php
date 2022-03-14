@@ -28,48 +28,48 @@ class FrsettingController extends Controller
         if ($request->hasFile('popup-image')) {
             $image = $request->file('popup-image');
             $name = time().'.'.$image->getClientOriginalExtension();
-            $destinationPath = public_path('/upload/frpopupImage/');
-            $image->move($destinationPath, $name);
+            $destinationPath = 'upload/frpopupImage/';
+            $image->storeAs($destinationPath, $name);
             $input['popup-image'] = $name;
         }
 
         if ($request->hasFile('property-featuresheets-image')) {
             $image = $request->file('property-featuresheets-image');
             $name = time().'.'.$image->getClientOriginalExtension();
-            $destinationPath = public_path('/upload/frproductImageSetting/');
-            $image->move($destinationPath, $name);
+            $destinationPath = 'upload/frproductImageSetting/';
+            $image->storeAs($destinationPath, $name);
             $input['property-featuresheets-image'] = $name;
         }
 
         if ($request->hasFile('home-details-infographic-image')) {
             $image = $request->file('home-details-infographic-image');
             $name = time().'.'.$image->getClientOriginalExtension();
-            $destinationPath = public_path('/upload/frproductImageSetting/');
-            $image->move($destinationPath, $name);
+            $destinationPath = 'upload/frproductImageSetting/';
+            $image->storeAs($destinationPath, $name);
             $input['home-details-infographic-image'] = $name;
         }
 
         if ($request->hasFile('community-feature-sheet-image')) {
             $image = $request->file('community-feature-sheet-image');
             $name = time().'.'.$image->getClientOriginalExtension();
-            $destinationPath = public_path('/upload/frproductImageSetting/');
-            $image->move($destinationPath, $name);
+            $destinationPath = 'upload/frproductImageSetting/';
+            $image->storeAs($destinationPath, $name);
             $input['community-feature-sheet-image'] = $name;
         }
 
         if ($request->hasFile('product-detail-image')) {
             $image = $request->file('product-detail-image');
             $name = time().'.'.$image->getClientOriginalExtension();
-            $destinationPath = public_path('/upload/frproductImageSetting/');
-            $image->move($destinationPath, $name);
+            $destinationPath = 'upload/frproductImageSetting/';
+            $image->storeAs($destinationPath, $name);
             $input['product-detail-image'] = $name;
         }
 
         if ($request->hasFile('market-sentiment-survey-image')) {
             $image = $request->file('market-sentiment-survey-image');
             $name = time().'.'.$image->getClientOriginalExtension();
-            $destinationPath = public_path('/upload/frproductImageSetting/');
-            $image->move($destinationPath, $name);
+            $destinationPath = 'upload/frproductImageSetting/';
+            $image->storeAs($destinationPath, $name);
             $input['market-sentiment-survey-image'] = $name;
         }
 
@@ -77,8 +77,8 @@ class FrsettingController extends Controller
         if ($request->hasFile('survey-share-image')) {
             $image = $request->file('survey-share-image');
             $name = time().'.'.$image->getClientOriginalExtension();
-            $destinationPath = public_path('/upload/frproductImageSetting/');
-            $image->move($destinationPath, $name);
+            $destinationPath = 'upload/frproductImageSetting/';
+            $image->storeAs($destinationPath, $name);
             $input['survey-share-image'] = $name;
         }
 
