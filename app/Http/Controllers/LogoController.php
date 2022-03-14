@@ -52,7 +52,7 @@ class LogoController extends Controller
         
         foreach ($logos as $key => $value) {
             $data[$key]['name'] = $value;
-            $data[$key]['path'] = env('AWS_URL').'upload/logo/'.$value->name);
+            $data[$key]['path'] = env('AWS_URL').'upload/logo/'.$value->name;
         }
 
         return response()->json(['data'=>$data]);

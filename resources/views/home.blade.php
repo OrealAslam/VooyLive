@@ -14,7 +14,7 @@
             -webkit-text-fill-color:unset !important;
         }
         .cps-banner-item-1 {
-          background-image: url('{{ env('AWS_URL').'/upload/productImageSetting/' . getSettingValue('home-slider-image') }}');
+          background-image: url("{{ env('AWS_URL') . 'upload/productImageSetting/' . getSettingValue('home-slider-image') }}");
           margin-top:80px;
           /*height:100% !important;*/
           width:100% !important;
@@ -226,7 +226,7 @@
                     <div class="how-it-works-2 how-it-works-pare-box">
                         <div class="cps-service-box style-7 timeline-1-user">
                             <div class="cps-service-icon">
-                                <span><img src="env('AWS_URL').img/how-it-works/sign-up.png" height="64px"></span>
+                                <span><img src="{{ env('AWS_URL') }}img/how-it-works/sign-up.png" height="64px"></span>
                             </div>
                           <h4 class="cps-service-title">{{__('home.signup')}}</h4>
                         </div>
@@ -237,7 +237,7 @@
                     <div class="how-it-works-3 how-it-works-pare-box">
                         <div class="cps-service-box style-7">
                             <div class="cps-service-icon">
-                                <span><img src="env('AWS_URL').img/how-it-works/update-profile.png" height="64px"></span>
+                                <span><img src="{{ env('AWS_URL') }}img/how-it-works/update-profile.png" height="64px"></span>
                             </div>
                             <h4 class="cps-service-title">{{__('home.updateprofile')}}</h4>
                         </div>
@@ -248,7 +248,7 @@
                     <div class="how-it-works-4 how-it-works-pare-box">
                         <div class="cps-service-box style-7">
                             <div class="cps-service-icon">
-                                <span><img src="env('AWS_URL').img/how-it-works/print-report.png" height="64px"></span>
+                                <span><img src="{{ env('AWS_URL') }}img/how-it-works/print-report.png" height="64px"></span>
                             </div>
                           <h4 class="cps-service-title">{{__('home.printreport')}}</h4>
                         </div>
