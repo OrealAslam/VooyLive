@@ -8,6 +8,7 @@ use App\ImageUpload;
 use Yajra\Datatables\Datatables;
 use Illuminate\Support\Facades\Session;
 use Validator;
+use Storage;
 
 class ProductDocumentController extends Controller
 {
