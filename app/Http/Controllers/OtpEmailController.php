@@ -95,7 +95,7 @@ class OtpEmailController extends Controller
         $regenerateOtp = $obj->sendOtpViaEmail($request, $user->email);
 
         if ($regenerateOtp == true) {
-            return redirect()->route('match_email_code')->with('notFound', 'A new otp send to your email address');
+            return redirect()->route('match_email_code')->with('notFound', 'A new otp sent to your email address');
         } else {
             dd('resend failed');
         }
