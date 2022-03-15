@@ -9,8 +9,7 @@
 | routes are loaded by the RouteServiceProvider within a group which
 | contains the "web" middleware group. Now create something great!
 |
-*/
-
+ */
 
 use Illuminate\Http\Request;
 
@@ -59,7 +58,7 @@ Route::group(['middleware' => 'isUserCheckPlan'], function () {
 
     Route::get('account/invoice/{invoice}', function (Request $request, $invoiceId) {
         return $request->user()->downloadInvoice($invoiceId, [
-            'vendor'  => 'Community Feature Sheet&reg;',
+            'vendor' => 'Community Feature Sheet&reg;',
             'product' => 'Feature Sheet',
         ]);
     });
@@ -134,7 +133,7 @@ Route::group(['prefix' => 'admin', 'middleware' => ['checkAdmin']], function () 
     Route::get('pfs-sales', 'AdminController@pfsSales');
     Route::get('hdi-sales', 'AdminController@hdiSales');
 
-    //Settings 
+    //Settings
     Route::get('smtp-settings', 'AdminController@smtp_settings')->name('smtp.settings');
     Route::post('smtp-settings-store', 'AdminController@smtp_settings_store')->name('smtp.settings.store');
     Route::post('smtp-settings-mail', 'AdminController@smtp_settings_mail')->name('smtp.settings.mail');
@@ -221,8 +220,6 @@ Route::group(['prefix' => 'admin', 'middleware' => ['checkAdmin']], function () 
         'uses' => 'FrsettingController@index',
     ]);
     Route::post('frsetting/update', 'FrsettingController@update')->name('frsetting.update');
-
-
 
     // ContactUsController
     Route::match(['get', 'post'], 'contact-us', [
@@ -318,7 +315,6 @@ Route::group(['prefix' => 'admin', 'middleware' => ['checkAdmin']], function () 
         'as' => 'registerLinks',
         'uses' => 'AdminController@registerLinks',
     ]);
-
 
     Route::match(['get', 'post'], 'hdi-icons', [
         'as' => 'HdiIcons',
@@ -418,7 +414,6 @@ Route::match(['get', 'post'], '/house-details-infographic-html', [
     'uses' => 'PageController@houseDetailsInfographic',
 ]);
 
-
 // Auth::routes();
 // Authentication Routes...
 
@@ -442,10 +437,6 @@ Route::post('password/email', 'Auth\ForgotPasswordController@sendResetLinkEmail'
 Route::get('password/reset/{token}', 'Auth\ResetPasswordController@showResetForm')->name('password.reset');
 Route::post('password/reset', 'Auth\ResetPasswordController@reset');
 
-
-
-
-
 Route::get('/refresh', function () {
     //$exitCode = Artisan::call('migrate:refresh');
     //$exitCode = Artisan::call('db:seed');
@@ -459,11 +450,10 @@ Route::get('/refresh', function () {
     //$exitCode = Artisan::call('plansUpdate:run');
     /*
     $exitCode = Artisan::call('queue:work', [
-        //'user' => 1, '--queue' => 'default'
-        '--queue' => 'high,low'
+    //'user' => 1, '--queue' => 'default'
+    '--queue' => 'high,low'
     ]);
-    */
-
+     */
 
     return redirect(url('login'));
 });
@@ -526,7 +516,6 @@ Route::get('autocomplete', 'BlogFrontController@autocomplete')->name('autocomple
 Route::get('tag/posts/{id}', 'BlogFrontController@getTagPosts')->name('tag.posts');
 Route::get('category/posts/{id}', 'BlogFrontController@getCategoryPosts')->name('category.posts');
 
-
 Route::middleware(['auth'])->group(function () {
     Route::get('blog/tags', 'BlogTagsController@index')->name('blog.tags');
     Route::get('tag/create', 'BlogTagsController@create')->name('tag.create');
@@ -534,7 +523,6 @@ Route::middleware(['auth'])->group(function () {
     Route::get('tag/edit/{id}', 'BlogTagsController@edit')->name('tag.edit');
     Route::post('tag/update/{id}', 'BlogTagsController@update')->name('tag.update');
     Route::get('tag/delete/{id}', 'BlogTagsController@destroy')->name('tag.delete');
-
 
     Route::get('blog/categories', 'BlogPostController@getBlogCategories')->name('blog.categories');
     Route::get('blog/category/create', 'BlogPostController@createBlogCategory')->name('blog.category.create');
@@ -555,9 +543,9 @@ Route::middleware(['auth'])->group(function () {
 // });
 /*
 Route::match(['get', 'post'], '/contact-us', function () {
-    
+
 })->name('contact-us');
-*/
+ */
 Route::match(['get', 'post'], '/contact-us', [
     'as' => 'page.contact-us',
     'uses' => 'PageController@contactUs',
@@ -572,7 +560,6 @@ Route::match(['get', 'post'], '/how-it-works', [
     'as' => 'page.how-it-works',
     'uses' => 'PageController@howItWorks',
 ]);
-
 
 Route::get('/transactions/pdf', 'AccountCont@transactionsPDF');
 
@@ -707,14 +694,11 @@ Route::get('/plans-update', function () {
     ]);
 });
 
-
-
-
 /* Queue Jobs */
 Route::get('/queue-worker-start', function () {
     $exitCode = Artisan::call('queue:work', [
         //'user' => 1, '--queue' => 'default'
-        '--queue' => 'high,low'
+        '--queue' => 'high,low',
     ]);
 });
 
