@@ -100,9 +100,14 @@ class ProductDocumentController extends Controller
     */
     public function downloadFile(Request $request)
     {
-        $path = 'userProductDetail/'.$request->file;
+        $path = 'userProductDetail/'.urldecode($request->file);
         if (Storage::disk('s3')->has($path)) {
-            return response()->download(env('AWS_URL').$path);
+
+            $tempfile = 'temp.pdf';
+            Storage::disk('local')->delete($tempfile);
+            Storage::disk('local')->put($tempfile,Storage::get($path));
+            $response =  response()->download($tempfile, urldecode($request->file));
+            return $response;
         }
         return redirect()->route('home');
     }

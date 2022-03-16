@@ -61,7 +61,7 @@
 								{{ $fileName }}
 							</td>
 							<td style="text-align: center !important;border:1px solid #d2d2d2;" width="20%">
-								<a href="{{ route('doc.download', ['file' => $fileName]) }}" style="color: #fff !important;background-color: #ea2349;border-radius:10px;padding:4px 8px;font-size:12px;text-decoration: none;" class="btn btn-primary">{{__('emails/userPurchesProduct.download')}}</a><br/>
+								<a href="{{ route('doc.download', ['file' => urlencode($fileName)]) }}" style="color: #fff !important;background-color: #ea2349;border-radius:10px;padding:4px 8px;font-size:12px;text-decoration: none;" class="btn btn-primary">{{__('emails/userPurchesProduct.download')}}</a><br/>
 							</td>
 						@endforeach
 					</tr>

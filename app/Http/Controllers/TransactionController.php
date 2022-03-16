@@ -48,6 +48,15 @@ class TransactionController extends Controller
      */
     public function userProductDetailDownloadPdf($fileName)
     {
-      return response()->download(Storage::get('userProductDetail/'.$fileName));
+        $path = 'userProductDetail/'.urldecode($fileName);
+        if (Storage::disk('s3')->has($path)) {
+            $tempfile = 'temp.pdf';
+            Storage::disk('local')->delete($tempfile);
+            Storage::disk('local')->put($tempfile,Storage::get($path));
+            $response =  response()->download($tempfile, urldecode($fileName));
+            return $response;
+        }
+        return redirect()->route('home');
     }
+
 }

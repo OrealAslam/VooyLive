@@ -103,7 +103,7 @@ class UserPurchesProductController extends Controller
             {
                 foreach($request->file('file') as $image)
                 {   
-	                $inputFile = ImageUpload::uploadWithExtension('userProductDetail/',$image);
+	                $inputFile = urlencode(ImageUpload::uploadWithExtension('userProductDetail/',$image));
                     $data[] = $inputFile; 
                 }
             }
