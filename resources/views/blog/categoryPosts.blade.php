@@ -50,7 +50,7 @@
                         <div class="row">
                             <div class="col-md-6 col-sm-12 col-xs-6">
                                 <a class="post-thumb" href="{{ route('post.view',$post->slug) }}">
-                                    <img class="img-responsive" src="{{ Storage::disk('s3')->temporaryUrl($post->image, '+2 minutes') }}" alt="{{ $post->title }}">
+                                    <img class="img-responsive" src="{{ env('AWS_URL').'upload/blog/'.$post->image.'' }}" alt="{{ $post->title }}">
                                 </a>
                             </div>
                             <div class="col-md-6 col-sm-12 col-xs-6">

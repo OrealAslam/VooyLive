@@ -52,8 +52,8 @@ class BlogPostController extends Controller
 
         if ($request->hasFile('image')) {
             $file = $request->file('image');
-            $filePath = 'images/blog';
-            $post->image = Storage::disk('s3')->put($filePath, $file);
+            $filePath = 'upload/blog';
+            $post->image = Storage::put($filePath, $file);
         }
 
         $post->save();
@@ -91,8 +91,8 @@ class BlogPostController extends Controller
 
         if ($request->hasFile('image')) {
             $file = $request->file('image');
-            $filePath = 'images/blog';
-            $post->image = Storage::disk('s3')->put($filePath, $file);
+            $filePath = 'upload/blog';
+            $post->image = Storage::put($filePath, $file);
         } else {
             unset($post->image);
         }

@@ -21,7 +21,7 @@
             @foreach ($recentPosts_results as $recentPost)
             <div class="recent-post">
                 <a class="recent-post-thumb" href="{{ route('post.view',$recentPost->slug) }}">
-                    <img class="img-responsive" src="{{ Storage::disk('s3')->temporaryUrl($recentPost->image, '+2 minutes') }}" alt="{{ $recentPost->title }}">
+                    <img class="img-responsive" src="{{ env('AWS_URL').'upload/blog/'.$recentPost->image.'' }}" alt="{{ $recentPost->title }}">
                 </a>
                 <a class="post-title" href="{{ route('post.view',$recentPost->slug) }}" style="margin-top:auto!important;">{{ $recentPost->title }}</a>
                 <div class="clearfix"></div>
