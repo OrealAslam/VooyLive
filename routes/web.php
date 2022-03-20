@@ -386,17 +386,10 @@ Route::get('/videos', ['as' => 'video', 'uses' => 'HomeController@video'])->name
 Route::get('/survey', ['as' => 'survey', 'uses' => 'SurveyController@survey'])->middleware('auth');
 Route::post('/survey/store', ['as' => 'survey.store', 'uses' => 'SurveyController@surveyStore']);
 
-Route::get('/test', ['as' => 'test', 'uses' => 'TestController@index'])->name('testEmail?mail=');
-
 Route::get('/', 'HomeController@index')->name('home');
 
 Route::get('/comingsoon', function () {
     return view('comingsoon');
-    //return view('emails.userSignup');
-    //return view('emails.firstReminder');
-    //return view('emails.secondReminder');
-    //return view('emails.buyReport');
-    //return view('emails.userRenewal');
 
 });
 
@@ -436,32 +429,6 @@ Route::get('password/reset', 'Auth\ForgotPasswordController@showLinkRequestForm'
 Route::post('password/email', 'Auth\ForgotPasswordController@sendResetLinkEmail')->name('password.email');
 Route::get('password/reset/{token}', 'Auth\ResetPasswordController@showResetForm')->name('password.reset');
 Route::post('password/reset', 'Auth\ResetPasswordController@reset');
-
-Route::get('/refresh', function () {
-    //$exitCode = Artisan::call('migrate:refresh');
-    //$exitCode = Artisan::call('db:seed');
-    //Storage::deleteDirectory('/reports');
-    //Storage::deleteDirectory('/vendors');
-    $exitCode = Artisan::call('view:clear');
-    $exitCode = Artisan::call('config:clear');
-    $exitCode = Artisan::call('cache:clear');
-    $exitCode = Artisan::call('migrate');
-    //$exitCode = Artisan::call('config:cache');
-    //$exitCode = Artisan::call('plansUpdate:run');
-    /*
-    $exitCode = Artisan::call('queue:work', [
-    //'user' => 1, '--queue' => 'default'
-    '--queue' => 'high,low'
-    ]);
-     */
-
-    return redirect(url('login'));
-});
-
-Route::get('/refresh-cache', function () {
-    $exitCode = Artisan::call('config:cache');
-    return redirect(url('/'));
-});
 
 Route::get('survey/detail', 'HomeController@surveyDetail')->name('survey-detail');
 Route::get('survey/invite/realtor', 'SurveyController@inviteAnotherRealtor')->name('invite.another.realtor');
@@ -538,14 +505,7 @@ Route::middleware(['auth'])->group(function () {
     Route::get('post/delete/{id}', 'BlogPostController@deletePost')->name('post.delete');
 });
 
-// Route::get('/testimonials', function(){
-//     return view('testimonials');
-// });
-/*
-Route::match(['get', 'post'], '/contact-us', function () {
 
-})->name('contact-us');
- */
 Route::match(['get', 'post'], '/contact-us', [
     'as' => 'page.contact-us',
     'uses' => 'PageController@contactUs',
@@ -563,7 +523,6 @@ Route::match(['get', 'post'], '/how-it-works', [
 
 Route::get('/transactions/pdf', 'AccountCont@transactionsPDF');
 
-// Route::get('/subscribe','SubscribeCont@showRegistrationForm')->name('subscribe');
 Route::post('/subscribe', 'HomeController@processSubscribe');
 
 Route::get('/testimonials', 'HomeController@testimonials');
@@ -579,11 +538,9 @@ Route::get('/verify-email/{token}', 'SubscribeCont@verifyEmail')->name('verifyEm
 Route::get('/active-account/{token}', 'SubscribeCont@activeAccount')->name('active.account');
 Route::post('change-verified/{id}', array('as' => 'change.verified', 'uses' => 'CreateNewUserController@verified'));
 
-// Route::group(['middleware' => ['checkSubscription']], function () {
 
 Route::post('/checkUserReportAccess', 'ReportCont@checkUserReportAccess')->name('checkUserReportAccess');
 Route::post('/generateReport', 'ReportCont@generateReport')->name('generateReport');
-//Route::get('/report/id/{reportId}/user/{userId}','ReportApiCont@viewReport')->name('reportDetails');
 Route::match(['get'], '/report/id/{reportId}/user/{userId}/{template?}/{edit?}', [
     'as' => 'reportDetails',
     'uses' => 'ReportApiCont@viewReport',
@@ -619,7 +576,6 @@ Route::get('/admin-dashboard', 'AdminController@adminDashboard')->name('adminDas
 
 Route::get('/order-report/{name}', 'HomeController@orderReport')->name('orderReport');
 Route::get('destroy/cookie', 'OtpCookieController@unsetCookie');
-//Route::get('/account','AccountCont@index');
 
 Route::get('/account/product/detail/{id}', 'TransactionController@transactioProductDetail')->name('product.detail');
 
@@ -649,9 +605,6 @@ Route::get('/users/list', 'CreateNewUserController@usersList')->name('users.list
 
 Route::get('/account/select/colour-name', 'AccountController@selectColourName')->middleware('auth');
 
-//urls of property-feature-sheets
-
-//urls of house-details-infographic
 
 Route::match(['get', 'post'], '/account/refer-a-colleague', [
     'as' => 'user.refer-a-colleague',
@@ -672,55 +625,44 @@ Route::match(['get', 'post'], '/account/create/sub/user/register', [
 
 Route::match(['post'], '/stripe-webhook', [
     'as' => 'strip.webhool',
-    //'uses' => 'WebhookController@stripeWebhookAction',
     'uses' => 'WebhookController@handleWebhook',
 ]);
 
 /*Cron Jobs*/
 Route::get('/first-reminder', function () {
     $exitCode = Artisan::call('firstReminder:send', [
-        //'user' => 1, '--queue' => 'default'
     ]);
 });
 Route::get('/second-reminder', function () {
     $exitCode = Artisan::call('secondReminder:send', [
-        //'user' => 1, '--queue' => 'default'
     ]);
 });
 
 Route::get('/plans-update', function () {
     $exitCode = Artisan::call('plansUpdate:run', [
-        //'user' => 1, '--queue' => 'default'
     ]);
 });
 
 /* Queue Jobs */
 Route::get('/queue-worker-start', function () {
     $exitCode = Artisan::call('queue:work', [
-        //'user' => 1, '--queue' => 'default'
         '--queue' => 'high,low',
     ]);
 });
 
 Route::get('/queue-worker-restart', function () {
     $exitCode = Artisan::call('queue:restart', [
-        //'user' => 1, '--queue' => 'default'
-        //'--queue' => 'high,low'
     ]);
 });
 
 Route::get('/queue-retry', function () {
     $exitCode = Artisan::call('queue:retry', [
         'id' => ['all'],
-        //'--queue' => 'default'
-        //'--queue' => 'high,low'
     ]);
 });
 
 Route::get('/queue-flush', function () {
     $exitCode = Artisan::call('queue:flush', [
-        //'user' => 1, '--queue' => 'default'
-        //'--queue' => 'high,low'
     ]);
 });
 
@@ -728,9 +670,6 @@ Route::get('/schedule-run', function () {
     $exitCode = Artisan::call('schedule:run');
 });
 
-Route::get('/phpinfo', function () {
-    phpinfo();
-});
 
 Route::get('generate-pdf', 'PdfGenerateController@pdfview')->name('generate-pdf');
 
