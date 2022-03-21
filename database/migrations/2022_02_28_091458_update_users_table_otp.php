@@ -18,7 +18,7 @@ class UpdateUsersTableOtp extends Migration
             $table->string('ip_address', 255)->nullable();
             $table->string('otp_created_at', 255)->nullable();
             $table->string('otp_entered_at', 255)->nullable();
-            $table->string('2FA_status', 255)->default('enable');
+            $table->boolean('2FA_status')->default(1);
         });
     }
 

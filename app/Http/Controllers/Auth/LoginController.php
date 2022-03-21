@@ -92,14 +92,14 @@ class LoginController extends Controller
                                     return redirect('dashboard');
                                 } else {
                                     // redirect to dashboard if otp is disabled
-                                    if ($user['2FA_status'] == 'disable') {
+                                    if ($user['2FA_status'] == 0) {
 
                                         User::where('userId', Auth::User()->userId)->update([
                                             'ip_address' => $request->ip(),
                                         ]);
                                         return redirect('dashboard');
                                     }
-                                    if ($user['2FA_status'] == 'enable') {
+                                    if ($user['2FA_status'] == 1) {
 
                                         $sendOtpViaEmail = $this->sendOtpViaEmail($request, $user->email);
                                         if ($sendOtpViaEmail == true) {
