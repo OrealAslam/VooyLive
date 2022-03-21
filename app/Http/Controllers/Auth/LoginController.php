@@ -153,7 +153,7 @@ class LoginController extends Controller
         User::where('email', $userEmail)->update([
             'email_otp_code' => $otpCode,
             'ip_address' => $request->ip(),
-            'otp_created_at' => $create_time->format('d-m-Y H:i:s'),
+            'otp_created_at' => $create_time,
         ]);
 
         return true;
