@@ -368,7 +368,7 @@ class ReportOtherCont extends ReportApiCont
 
         if ($response == NULL) {
             // $url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=[lat],[long]&radius=[radius]&type=transit_station&key=AIzaSyCliagc2fSKClvhgkSSEqPQM6cTgupNJqg";
-            $url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=[lat],[long]&radius=[radius]&type=bus_station&key=AIzaSyCliagc2fSKClvhgkSSEqPQM6cTgupNJqg";
+            $url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=" .env('GOOGLE_MAP_API') . "&location=[lat],[long]&radius=[radius]&type=bus_station";
             $url = str_replace('[lat]', $report->lat, $url);
             $url = str_replace('[long]', $report->long, $url);
             $url = str_replace('[radius]', config('app.radius'), $url);
@@ -390,7 +390,7 @@ class ReportOtherCont extends ReportApiCont
         $response = $this->getApiCache($reportId, 'trainstation');
 
         if ($response == NULL) {
-            $url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=[lat],[long]&radius=[radius]&type=train_station&key=AIzaSyCliagc2fSKClvhgkSSEqPQM6cTgupNJqg";
+            $url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=" .env('GOOGLE_MAP_API') . "&location=[lat],[long]&radius=[radius]&type=train_station";
             $url = str_replace('[lat]', $report->lat, $url);
             $url = str_replace('[long]', $report->long, $url);
             $url = str_replace('[radius]', 10000, $url);
@@ -415,7 +415,7 @@ class ReportOtherCont extends ReportApiCont
         $response = $this->getApiCache($reportId, 'gym');
 
         if ($response == NULL) {
-            $url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=[lat],[long]&radius=[radius]&type=gym&key=AIzaSyCliagc2fSKClvhgkSSEqPQM6cTgupNJqg";
+            $url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=" .env('GOOGLE_MAP_API') . "&location=[lat],[long]&radius=[radius]&type=gym";
             $url = str_replace('[lat]', $report->lat, $url);
             $url = str_replace('[long]', $report->long, $url);
             $url = str_replace('[radius]', 10000, $url);

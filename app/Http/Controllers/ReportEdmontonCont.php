@@ -716,7 +716,7 @@ class ReportEdmontonCont extends ReportApiCont
     	$response=$this->getApiCache($reportId,'station');
 
     	if($response==NULL){
-	    	$url="https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=[lat],[long]&radius=[radius]&type=transit_station&key={{env('GOOGLE_MAP_API')}}";
+	    	$url="https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=" .env('GOOGLE_MAP_API') . "&location=[lat],[long]&radius=[radius]&type=transit_station";
 	        $url=str_replace('[lat]',$report->lat,$url);
 	        $url=str_replace('[long]',$report->long,$url);
 	        $url=str_replace('[radius]',config('app.radius'),$url);
