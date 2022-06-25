@@ -3,7 +3,11 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Http\Response;
+use App\User;
 use App\Classes\simple_html_dom;
+use Cookie;
+// use App\Http\Controllers\OtpEmailController;
 
 define('HDOM_TYPE_ELEMENT', 1);
 define('HDOM_TYPE_COMMENT', 2);
@@ -31,14 +35,6 @@ define('HDOM_SMARTY_AS_TEXT', 1);
 
 class TestController extends Controller
 {
-
-    public function index(){
-        //unset cookie
-        return 'test';
-    }
-
-    
-
     private function file_get_html(
         $url,
         $use_include_path = false,

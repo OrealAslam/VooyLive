@@ -46,10 +46,10 @@ function maskEmailAddress($email){
                     <div class="card-body">
                         <form method="post" action="{{ route('verify_email_code') }}">
                             {{ csrf_field() }}
-                            <input type="number" name="system_generated_code" class="form-control" placeholder="Enter your code" autofocus>
+                            <input type="text" name="system_generated_code" class="form-control" placeholder="Enter your code" autofocus>
                             <br>
                             <div class="col-10 offset-1">
-                                <input type="checkbox" class="form-check-input" name="remember_device" id="remember_device" checked>
+                                <input type="checkbox" class="form-check-input" name="remember_device" id="remember_device">
                                 <label class=" form-label text-muted" for="remember_device">Remember this device for 30 days </label>
                             </div>
                             <div class="text-center">
@@ -84,31 +84,11 @@ function maskEmailAddress($email){
                         <p style=" padding: 8px; background-color: rgb(250,55,76); color: #fff;">{{__('layouts_footer.copyright')}} &copy; {{ date('Y') }}, {{__('layouts_footer.para3')}}</p>
                     </div>  
                 </div>
-
                 <!-- </div> -->
             </div>
         </div>
     </div>
-    
 
-<script>
-$(document).ready(function(){
-    $("#formSubmit").on('change', function(){
-
-    });
-});
-
-
-function createCookie('otpCookie', 'otpCookieSet', 1) {
-    var expires = "20";
-    if (days) {
-        var date = new Date();
-        date.setTime(date.getTime() + days * 24 * 60 * 60 * 1000);
-        expires = "; expires=" + date.toUTCString();
-    }
-        document.cookie = name + "=" + value + expires + "; path=/";
-    }
-</script>
 
 </body>
 </html>
