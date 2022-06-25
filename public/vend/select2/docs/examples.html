@@ -117,7 +117,7 @@ slug: examples
       }
       var $state = $(
         '<span>' +
-          '<img src="vendor/images/flags/' +
+          '<img src="{{ env("AWS_URL") }}vendor/images/flags/' +
             state.element.value.toLowerCase() +
           '.png" class="img-flag" /> ' +
           state.text +

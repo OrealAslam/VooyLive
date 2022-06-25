@@ -330,9 +330,9 @@
 									</td>
 									<td class="col-xs-3">
 				                        @if(isset($user->ClientDetail->logo))
-				                            <img src="/{{ $user->ClientDetail->logo }}" class="top-logo img-responsive">
+				                            <img src="{{ env('AWS_URL') }}{{ $user->ClientDetail->logo }}" class="top-logo img-responsive">
 				                        @else
-				                           <a href="{{ url('/account/profileview').'?img=logo' }}" title="{{__('reports/other/classic/highlights.clickHereToUploadLogo')}}"> <img src="/img/your-logo.png" class="top-logo img-responsive" style="width: 150px;margin: auto;"></a>
+				                           <a href="{{ url('/account/profileview').'?img=logo' }}" title="{{__('reports/other/classic/highlights.clickHereToUploadLogo')}}"> <img src="{{ env('AWS_URL') }}img/your-logo.png" class="top-logo img-responsive" style="width: 150px;margin: auto;"></a>
 				                        @endif
 									</td>
 								</tr>
@@ -530,18 +530,18 @@
 									<div class="col-md-4 col-xs-6 col-custom-6" >
 										<div class="">
 		                                    @if(isset($user->ClientDetail->photo))
-		                                        <img src="/{{ $user->ClientDetail->photo }}" class="img-responsive img-information">
+		                                        <img src="{{ env('AWS_URL') }}{{ $user->ClientDetail->photo }}" class="img-responsive img-information">
 		                                    @else
-		                                        <a href="{{ url('/account/profileview').'?img=profile' }}" title="{{__('reports/other/classic/highlights.clickHereToUploadImage')}}"> <img src="/img/your-image-here.png" class="img-responsive img-information" style="width: 100px; height: 144px"></a>
+		                                        <a href="{{ url('/account/profileview').'?img=profile' }}" title="{{__('reports/other/classic/highlights.clickHereToUploadImage')}}"> <img src="{{ env('AWS_URL') }}img/your-image-here.png" class="img-responsive img-information" style="width: 100px; height: 144px"></a>
 		                                    @endif
 										</div>
 									</div>
 									<div class="col-md-8 col-xs-6 col-custom-6" style="word-break:break-all !important;">
 										<div class="pull-left">
 	                                        @if(isset($user->ClientDetail->logo))
-	                                            <img src="/{{ $user->ClientDetail->logo }}" class="footer-client-logo img-responsive">
+	                                            <img src="{{ env('AWS_URL') }}{{ $user->ClientDetail->logo }}" class="footer-client-logo img-responsive">
 	                                        @else
-	                                           <a href="{{ url('/account/profileview').'?img=logo' }}" title="{{__('reports/other/classic/highlights.clickHereToUploadLogo')}}"> <img src="/img/your-logo.png" class="footer-client-logo img-responsive" style="width: 120px; margin: auto;"></a>
+	                                           <a href="{{ url('/account/profileview').'?img=logo' }}" title="{{__('reports/other/classic/highlights.clickHereToUploadLogo')}}"> <img src="{{ env('AWS_URL') }}img/your-logo.png" class="footer-client-logo img-responsive" style="width: 120px; margin: auto;"></a>
 	                                        @endif
 											@if(isset($user->ClientDetail->title))
 											<p class="footer-text">{{$user->firstName}} {{$user->lastName}}, {{ $user->ClientDetail->title }}</p>
@@ -565,7 +565,7 @@
 									</div>
 									<div class="col-xs-2 pull-left">
 										<div class="">
-											<img src="{{url('img/footer-logo.png')}}"   alt="{{ config('app.name', 'HoodQ') }}" class="img-responsive pull-right" height="70" />
+											<img src="{{ env('AWS_URL') }}img/footer-logo.png"   alt="{{ config('app.name', 'HoodQ') }}" class="img-responsive pull-right" height="70" />
 										</div>
 									</div>
 								</div>

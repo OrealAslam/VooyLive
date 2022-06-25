@@ -17,9 +17,14 @@
     <form action="{{url('report/save')}}/{{$id}}" method="post" class="col-lg-offset-1 col-md-10">
         {{csrf_field()}}
         <div class="form-group">
+          <h3 class="text-center">{{__('reports/edit.nameOfNeighbourhood')}}</h3>
+          <label class="control-label">{{__('reports/edit.nameOfNeighbourhood')}}</label>
+          <input type="text" name="neighbourhood_name" class="form-control" value="{{$report->neighbourhood_name}}" >
+        </div>
+        <div class="form-group">
           <h3 class="text-center">{{__('reports/edit.demographics')}}</h3>
           <label class="control-label">{{__('reports/edit.householdsWithChildren')}}</label>
-          <input type="text" name="households_with_children" class="form-control" value="{{$report->households_with_children}}" autocomplete="off">
+          <input type="text" name="households_with_children" class="form-control" value="{{$report->households_with_children}}" >
         </div>
         <div class="form-group">
           <label class="control-label">{{__('reports/edit.averageHouseholdIncome')}}</label>

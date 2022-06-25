@@ -16,21 +16,21 @@ class ImageUpload extends Model
         $filename = str_replace(' ', '-', $filename);
         $extension = $image->extension();
         $imageName = $filename.'_'.rand(4,99999).time().'.'.$extension;
-        $image->move(storage_path($path),$imageName);
+        $image->storeAs($path, $imageName);
         
         return $imageName;
     }
     
     public static function removeFile($path)
     {
-        if(File::exists(public_path($path))){
-            File::delete(public_path($path));
+        if(File::exists(($path))){
+            File::delete(($path));
         }
     }
     public static function removeDir($path)
     {
-        if(File::isDirectory(public_path($path))){
-            File::deleteDirectory(public_path($path));
+        if(File::isDirectory(($path))){
+            File::deleteDirectory(($path));
         }
     }
 
@@ -42,7 +42,7 @@ class ImageUpload extends Model
         $extension = $image->extension();
         $imageName = $filename.'_'.str_random(3).time().'.'.$extension;
         
-        $image->move(public_path($path),$imageName);
+        $image->storeAs(($path),$imageName);
         
         return $imageName;
     }
@@ -54,14 +54,14 @@ class ImageUpload extends Model
         $filename = str_replace(' ', '-', $filename);
         $extension = $image->extension();
         $imageName = $filename.'_'.time().'.'.$extension;
-        $image->move(storage_path($path),$imageName);
+        $image->storeAs($path,$imageName);
         
         return $imageName;
     }
 
     public static function uploadThumbnail($orgPath, $path, $image, $width, $height)
     {
-        return Image::make(public_path($orgPath).$image)->resize($width, $height)->save(public_path($path).$image);
+        return Image::make(($orgPath).$image)->resize($width, $height)->save(($path).$image);
     }
 
     public static function uploadReduce($path, $image)
@@ -71,16 +71,16 @@ class ImageUpload extends Model
 
         if($ext == 'png'){
             $read_from_path = $image->getPathName();
-            $save_to_path = public_path($path.'/'.$imageName);
+            $save_to_path = ($path.'/'.$imageName);
 
             $compressed_png_content = ImageUpload::compress_png($read_from_path);
             file_put_contents($save_to_path, $compressed_png_content);
             
         }else{
-            $image->move(public_path($path),$imageName);
+            $image->storeAs(($path),$imageName);
         }
 
-        Image::make(public_path($path).$imageName)->resize(700, null, function ($constraint) {
+        Image::make(($path).$imageName)->resize(700, null, function ($constraint) {
                 $constraint->aspectRatio();
             })->save();
 

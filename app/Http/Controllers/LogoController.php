@@ -31,8 +31,8 @@ class LogoController extends Controller
         if ($request->hasFile('file')) {
             $image = $request->file('file');
             $name = time().$image->getClientOriginalName();
-            $destinationPath = public_path('/upload/logo/');
-            $image->move($destinationPath, $name);
+            $destinationPath = 'upload/logo/';
+            $image->storeAs($destinationPath, $name);
             $input['file'] = $name;
         }
 
@@ -52,7 +52,7 @@ class LogoController extends Controller
         
         foreach ($logos as $key => $value) {
             $data[$key]['name'] = $value;
-            $data[$key]['path'] = asset('upload/logo/'.$value->name);
+            $data[$key]['path'] = env('AWS_URL').'upload/logo/'.$value->name;
         }
 
         return response()->json(['data'=>$data]);

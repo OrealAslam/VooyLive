@@ -188,9 +188,9 @@
                 <tr>
                     <td width="25%">
                         @if(isset($user->ClientDetail->logo))
-                            <img src="/{{ $user->ClientDetail->logo }}" class="top-logo img-responsive">
+                            <img src="{{ env('AWS_URL') }}{{ $user->ClientDetail->logo }}" class="top-logo img-responsive">
                         @else
-                           <a href="{{ url('/account/profileview').'?img=logo' }}" title="{{__('reports/other/metro/highlights.clickHereToUploadLogo')}}"> <img src="/img/your-logo.png" class="top-logo img-responsive" style="width: 290px;"></a>
+                           <a href="{{ url('/account/profileview').'?img=logo' }}" title="{{__('reports/other/metro/highlights.clickHereToUploadLogo')}}"> <img src="{{ env('AWS_URL') }}img/your-logo.png" class="top-logo img-responsive" style="width: 290px;"></a>
                         @endif
                     </td>
                     <td width="75%" class="header-title font-oswald">
@@ -234,7 +234,7 @@
                 <div class="neighbourhood-title">
                     {{__('reports/other/metro/highlights.nameOfNeighbourhood')}}
                 </div>
-                <div class="neighbourhood-name colora" id="">
+                <div class="neighbourhood-name colora" id="neighbourhood_name">
                     @if (isset($neighborsData['neighborhood']))
                     <span id="neighbourhood-name">{{$neighborsData['neighborhood']}}</span>                      
                     @else
@@ -480,9 +480,9 @@
                             <div class="col-lg-4 col-md-4 col-sm-4">
                                 <div class="client-photo">
                                     @if(isset($user->ClientDetail->photo))
-                                        <img src="/{{ $user->ClientDetail->photo }}" class="img-responsive">
+                                        <img src="{{ env('AWS_URL') }}{{ $user->ClientDetail->photo }}" class="img-responsive">
                                     @else
-                                        <a href="{{ url('/account/profileview').'?img=profile' }}" title="{{__('reports/other/metro/highlights.clickHereToUploadImage')}}"> <img src="/img/your-image-here.png" class="img-responsive" style="width: 100px; height: 150px"></a>
+                                        <a href="{{ url('/account/profileview').'?img=profile' }}" title="{{__('reports/other/metro/highlights.clickHereToUploadImage')}}"> <img src="{{ env('AWS_URL') }}img/your-image-here.png" class="img-responsive" style="width: 100px; height: 150px"></a>
                                     @endif
                                 </div>
                             </div>
@@ -490,9 +490,9 @@
                                 <div class="row">
                                     <div class="client-logo">
                                         @if(isset($user->ClientDetail->logo))
-                                            <img src="/{{ $user->ClientDetail->logo }}" class="img-responsive">
+                                            <img src="{{ env('AWS_URL') }}{{ $user->ClientDetail->logo }}" class="img-responsive">
                                         @else
-                                           <a href="{{ url('/account/profileview').'?img=logo' }}" title="{{__('reports/other/metro/highlights.clickHereToUploadLogo')}}"> <img src="/img/your-logo.png" class="top-logo img-responsive" style="width: 145px;"></a>
+                                           <a href="{{ url('/account/profileview').'?img=logo' }}" title="{{__('reports/other/metro/highlights.clickHereToUploadLogo')}}"> <img src="{{ env('AWS_URL') }}img/your-logo.png" class="top-logo img-responsive" style="width: 145px;"></a>
                                         @endif
                                     </div>
                                     <div class="color-white client-detail" style="word-break:break-all !important;">
@@ -526,7 +526,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-3 col-sm-2">
-                                <img src="{{url('img/footer-logo.png')}}"   alt="{{ config('app.name', 'HoodQ') }}" class="img-responsive pull-right" height="70" />
+                                <img src="{{ env('AWS_URL') }}img/footer-logo.png"   alt="{{ config('app.name', 'HoodQ') }}" class="img-responsive pull-right" height="70" />
                             </div>
                         </div>
                     </div>

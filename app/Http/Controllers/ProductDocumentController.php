@@ -8,6 +8,7 @@ use App\ImageUpload;
 use Yajra\Datatables\Datatables;
 use Illuminate\Support\Facades\Session;
 use Validator;
+use Storage;
 
 class ProductDocumentController extends Controller
 {
@@ -70,7 +71,7 @@ class ProductDocumentController extends Controller
         if ($validator->passes()){
 
             if($request->hasFile('document')){
-                $input['document'] = ImageUpload::uploadProductDoc('app/public/documents',$request->file('document'));
+                $input['document'] = ImageUpload::uploadProductDoc('documents',$request->file('document'));
             }
                 ProductDocument::create($input);
                 Session::flash('success_msg', 'Product Document Create Successfuly');
@@ -99,19 +100,15 @@ class ProductDocumentController extends Controller
     */
     public function downloadFile(Request $request)
     {
-        $path = storage_path('app/public/userProductDetail/'.$request->file);
-        if (file_exists($path)) {
-            return response()->download($path);
+        $path = 'userProductDetail/'.urldecode($request->file);
+        if (Storage::disk('s3')->has($path)) {
+
+            $tempfile = 'temp.pdf';
+            Storage::disk('local')->delete($tempfile);
+            Storage::disk('local')->put($tempfile,Storage::get($path));
+            $response =  response()->download($tempfile, urldecode($request->file));
+            return $response;
         }
-                
-        // if (!empty($request->file)) {
-        //     $find = ProductDocument::where('document', $request->file)->first();
-
-        //     if (!is_null($find)) {
-                
-        //     }
-        // }
-
         return redirect()->route('home');
     }
 }

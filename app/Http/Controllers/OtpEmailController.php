@@ -49,9 +49,9 @@ class OtpEmailController extends Controller
         $currentTime = Carbon::now();
         $resultantTime = $this->calculateTimeDifference($currentTime, $user->otp_created_at);
 
-        if ($resultantTime >= 5) {
+        if ($resultantTime >= env('OTP_EXPIRATION_TIME')) {
             User::where('email', $user->email)->update([
-                'otp_entered_at' => $currentTime->format('d-m-Y H:i:s'),
+                'otp_entered_at' => $currentTime,
                 'email_otp_code' => 'Null',
             ]);
             $this->resendOtp($request);
@@ -64,7 +64,7 @@ class OtpEmailController extends Controller
                 if (isset($request->remember_device)) {
 
                     $minute = 30 * 24 * 60;
-                    Cookie::queue('Mycookie', 'testing', $minute);
+                    Cookie::queue('OPTcookie', 'OTP', $minute);
 
                     //cannot set cookie here so saving session
                     // $request->session()->put('setcookie','true');
@@ -74,7 +74,7 @@ class OtpEmailController extends Controller
                 $enteredTime = Carbon::now();
 
                 User::where('email', $user->email)->update([
-                    'otp_entered_at' => $enteredTime->format('d-m-Y H:i:s'),
+                    'otp_entered_at' => $enteredTime,
                     'email_otp_code' => 'Null',
                 ]);
 
@@ -95,7 +95,7 @@ class OtpEmailController extends Controller
         $regenerateOtp = $obj->sendOtpViaEmail($request, $user->email);
 
         if ($regenerateOtp == true) {
-            return redirect()->route('match_email_code')->with('notFound', 'A new otp send to your email address');
+            return redirect()->route('match_email_code')->with('notFound', 'A new otp sent to your email address');
         } else {
             dd('resend failed');
         }

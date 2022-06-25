@@ -688,7 +688,7 @@ public function changePassword()
 
         $data = base64_decode($data);
         $imageName = "vendors/".time().'.png';
-        file_put_contents(public_path($imageName), $data);
+        Storage::put($imageName, $data);
 
         $clientDetail = ClientDetail::where('userId', $request->id)->first();
         if (!empty($clientDetail[$request->column]) && Storage::exists($clientDetail[$request->column])) {

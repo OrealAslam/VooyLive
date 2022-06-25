@@ -271,7 +271,7 @@
 						                    </div>
 						                    <div class="col-md-3">
 						                    	<div class="form-group">
-						                        	<img src="{{ asset('upload/productImageSetting/'.$setting['property-featuresheets-image']['value']) }}" class="img-responsive" style="margin-top: 10px;" width="100%" height="200"></img>
+						                        	<img src="{{ env('AWS_URL').'upload/productImageSetting/'.$setting['property-featuresheets-image']['value'] }}" class="img-responsive" style="margin-top: 10px;" width="100%" height="200"></img>
 						                        </div>
 						                    </div>
 						            	</div>
@@ -299,7 +299,7 @@
 						                    </div>
 						                    <div class="col-md-3">
 						                    	<div class="form-group">
-						                        	<img src="{{ asset('upload/productImageSetting/'.$setting['home-details-infographic-image']['value']) }}" class="img-responsive" style="margin-top: 10px;" width="100%" height="200"></img>
+						                        	<img src="{{ env('AWS_URL').'upload/productImageSetting/'.$setting['home-details-infographic-image']['value'] }}" class="img-responsive" style="margin-top: 10px;" width="100%" height="200"></img>
 						                        </div>
 						                    </div>
 						            	</div>
@@ -313,7 +313,7 @@
 						                    </div>
 						                    <div class="col-md-3">
 						                    	<div class="form-group">
-						                        	<img src="{{ asset('upload/productImageSetting/'.$setting['community-feature-sheet-image']['value']) }}" class="img-responsive" style="margin-top: 10px;" width="100%" height="200"></img>
+						                        	<img src="{{ env('AWS_URL').'upload/productImageSetting/'.$setting['community-feature-sheet-image']['value'] }}" class="img-responsive" style="margin-top: 10px;" width="100%" height="200"></img>
 						                        </div>
 						                    </div>
 						            	</div>
@@ -343,7 +343,7 @@
 						                    </div>
 						                    <div class="col-md-3">
 						                    	<div class="form-group">
-						                        	<img src="{{ asset('upload/productImageSetting/'.$setting['market-sentiment-survey-image']['value']) }}" class="img-responsive" style="margin-top: 10px;" width="100%" height="200"></img>
+						                        	<img src="{{ env('AWS_URL').'upload/productImageSetting/'.$setting['market-sentiment-survey-image']['value'] }}" class="img-responsive" style="margin-top: 10px;" width="100%" height="200"></img>
 						                        </div>
 						                    </div>
 						            	</div>
@@ -408,7 +408,7 @@
 						                    </div>
 						                    <div class="col-md-3">
 						                        <div class="form-group">
-						                            <img src="{{ asset('upload/popupImage/'.$setting['popup-image']['value']) }}" style="margin-top: 10px;" width="100%" height="200"></img>
+						                            <img src="{{ env('AWS_URL').'upload/popupImage/'.$setting['popup-image']['value'] }}" style="margin-top: 10px;" width="100%" height="200"></img>
 						                        </div>
 						                    </div>
 							           	</div>
@@ -590,7 +590,7 @@
 						                    </div>
 						                    <div class="col-md-3">
 						                    	<div class="form-group">
-						                        	<img src="{{ asset('upload/productImageSetting/'.$setting['product-detail-image']['value']) }}" class="img-responsive" style="margin-top: 10px;border:1px solid #d2d2d2;" width="100%" height="200"></img>
+						                        	<img src="{{ env('AWS_URL').'upload/productImageSetting/'.$setting['product-detail-image']['value'] }}" class="img-responsive" style="margin-top: 10px;border:1px solid #d2d2d2;" width="100%" height="200"></img>
 						                        </div>
 						                    </div>
 						            	</div>
@@ -750,7 +750,7 @@
 						                    </div>
 						                    <div class="col-md-12">
 						                    	<div class="form-group">
-						                        	<img src="{{ asset('upload/productImageSetting/'.$setting['survey-share-image']['value']) }}" class="img-responsive" style="margin-top: 10px;"></img>
+						                        	<img src="{{ env('AWS_URL').'upload/productImageSetting/'.$setting['survey-share-image']['value'] }}" class="img-responsive" style="margin-top: 10px;"></img>
 						                        </div>
 						                    </div>
 						            	</div>

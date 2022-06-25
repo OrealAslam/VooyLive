@@ -35,6 +35,7 @@
                             <input type="text" class="form-control" id="address" name="address">
                             <span class="input-group-addon" style="cursor: pointer;" id="clearInput"><span class="btn_txt">x</span><i class="fa fa-spinner fa-spin hide" style="font-size:18px"></i></span>
                             <div class="clearfix"></div>
+                            <div class="text-center"><p style="font-size:36px; color: #EA2448; margin-top: 5px;">Only Canadian Addresses</p></div>
                         </div>
                     </div>
                 @else
@@ -46,6 +47,7 @@
                                 <input type="text" class="form-control" id="address" name="address">
                                 <span class="input-group-addon" style="cursor: pointer;" id="clearInput"><span class="btn_txt">x</span><i class="fa fa-spinner fa-spin hide" style="font-size:18px"></i></span>
                                 <div class="clearfix"></div>
+                                <div class="text-center"><p style="font-size:36px; color: #EA2448; margin-top: 5px;">Only Canadian Addresses</p></div>
                             </div>
                         </div>
                     </div>

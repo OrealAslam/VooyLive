@@ -109,7 +109,7 @@
 					<div class="row">
 						<div class="col-md-12 profile-img">
 							@if (isset($details->photo))
-								<img src="{{ url('/'.$details->photo) }}" alt="{{ $user->firstName }} {{ $user->lastName }}">
+								<img src="{{ env('AWS_URL').$details->photo }}" alt="{{ $user->firstName }} {{ $user->lastName }}">
 							@else
 								<img src="{{ asset('img/your-image-here2.png')}}" class="img-responsive">
 							@endif
@@ -185,21 +185,21 @@
 							
 								<h5 for="2faCheck">2FA Authentication</h5>
 								
-								@if($user['2FA_status'] == 'enable')
-								<input type="radio" class="form-check-input" name="faStatus" id="enable" value="enable" checked>
-								<label for="enable">enable</label>
+								@if($user['2FA_status'] == 1)
+								<input type="radio" class="form-check-input" name="faStatus" id="enable" value="true" checked>
+								<label for="enable">Enable</label>
 
-								<input type="radio" class="form-check-input" name="faStatus" id="disable" value="disable" >
-								<label for="disable">disable</label>
+								<input type="radio" class="form-check-input" name="faStatus" id="disable" value="false">
+								<label for="disable">Disable</label>
 								@endif
 
-								@if($user['2FA_status'] == 'disable')
+								@if($user['2FA_status'] == 0)
 
-								<input type="radio" class="form-check-input" name="faStatus" id="enable" value="enable" >
-								<label for="enable">enable</label>
+								<input type="radio" class="form-check-input" name="faStatus" id="enable" value="true">
+								<label for="enable">Enable</label>
 								
-								<input type="radio" class="form-check-input" name="faStatus" id="disable" value="disable" checked>
-								<label for="disable">disable</label>
+								<input type="radio" class="form-check-input" name="faStatus" id="disable" value="false" checked>
+								<label for="disable">Disable</label>
 								@endif
 								<br>
 								<button  type="submit" name="submit" class="btn btn-light">Change</button>
@@ -222,7 +222,7 @@
 									<h4>{{__('account/profileview.myLogo')}}</h4>
 									<div>
 									@if (isset($details->logo))
-									<img src="{{url('/'.$details->logo)}}" alt="{{ $details->title }}">
+									<img src="{{ env('AWS_URL').$details->logo }}" alt="{{ $details->title }}">
 									@else
 									<img src="/img/your-logo.png" class="top-logo img-responsive">
 									@endif
